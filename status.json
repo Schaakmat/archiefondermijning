@@ -1,21 +1,84 @@
 {
- "run": "10:29",
+ "run": "10:36",
  "datum": "2026-08-25",
- "nieuw": 705,
- "totaal": 708,
+ "nieuw": 1221,
+ "totaal": 1929,
  "bronnen": [
   {
-   "naam": "Google Nieuws — ondermijning",
+   "naam": "Zoekfeed — ondermijning",
    "url": "news.google.com/rss/search?q=ondermijning&hl=nl&gl=NL&ceid=NL:nl",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 100,
-   "status": "100 nieuw",
+   "items": 40,
+   "status": "40 nieuw",
    "ok": true
   },
   {
-   "naam": "Google Nieuws — ondermijnende criminaliteit",
-   "url": "news.google.com/rss/search?q=%22ondermijnende+criminaliteit%22&hl=nl&g",
+   "naam": "Zoekfeed — ondermijnende criminaliteit",
+   "url": "news.google.com/rss/search?q=%22ondermijnende+criminaliteit%22&h",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 0,
+   "status": "bij",
+   "ok": true
+  },
+  {
+   "naam": "Zoekfeed — witwassen",
+   "url": "news.google.com/rss/search?q=witwassen+OR+%22criminele+geldstrom",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 13,
+   "status": "13 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Zoekfeed — drugslab",
+   "url": "news.google.com/rss/search?q=drugslab+OR+drugslaboratorium+OR+dr",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 5,
+   "status": "5 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Zoekfeed — Bibob & bestuurlijke aanpak",
+   "url": "news.google.com/rss/search?q=Bibob+OR+%22bestuurlijke+aanpak%22+",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 21,
+   "status": "21 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Zoekfeed — criminele inmenging & jeugd",
+   "url": "news.google.com/rss/search?q=%22criminele+inmenging%22+OR+%22cri",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 32,
+   "status": "32 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Zoekfeed — corruptie & integriteit",
+   "url": "news.google.com/rss/search?q=corruptie+ambtenaar+OR+omkoping+OR+",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 24,
+   "status": "24 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Zoekfeed — haven & uithalers",
+   "url": "news.google.com/rss/search?q=uithalers+OR+%22haven+drugs%22+OR+%",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 3,
+   "status": "3 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Zoekfeed — vastgoed & fraude",
+   "url": "news.google.com/rss/search?q=vastgoedfraude+OR+%22ondermijning+v",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 83,
@@ -23,101 +86,128 @@
    "ok": true
   },
   {
-   "naam": "Google Nieuws — witwassen",
-   "url": "news.google.com/rss/search?q=witwassen&hl=nl&gl=NL&ceid=NL:nl",
+   "naam": "Zoekfeed — mensenhandel & arbeidsuitbuiting",
+   "url": "news.google.com/rss/search?q=mensenhandel+OR+arbeidsuitbuiting&h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 99,
-   "status": "99 nieuw",
+   "items": 98,
+   "status": "98 nieuw",
    "ok": true
   },
   {
-   "naam": "Google Nieuws — drugslab",
-   "url": "news.google.com/rss/search?q=drugslab+OR+drugslaboratorium&hl=nl&gl=NL",
+   "naam": "Zoekfeed — organised crime (Engels)",
+   "url": "news.google.com/rss/search?q=%22organised+crime%22+Netherlands+O",
    "methode": "Zoekfeed",
-   "ritme": "1 uur",
+   "ritme": "6 uur",
    "items": 100,
    "status": "100 nieuw",
    "ok": true
   },
   {
-   "naam": "Google Nieuws — Bibob",
-   "url": "news.google.com/rss/search?q=Bibob&hl=nl&gl=NL&ceid=NL:nl",
+   "naam": "Rijksoverheid",
+   "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 94,
-   "status": "94 nieuw",
+   "items": 97,
+   "status": "97 nieuw",
    "ok": true
   },
   {
-   "naam": "Google Nieuws — criminele inmenging",
-   "url": "news.google.com/rss/search?q=%22criminele+inmenging%22+OR+%22criminele",
+   "naam": "Politie",
+   "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+dru",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 25,
-   "status": "25 nieuw",
+   "items": 85,
+   "status": "85 nieuw",
    "ok": true
-  },
-  {
-   "naam": "Google Nieuws — corruptie ambtenaar",
-   "url": "news.google.com/rss/search?q=corruptie+ambtenaar+OR+omkoping&hl=nl&gl=",
-   "methode": "Zoekfeed",
-   "ritme": "1 uur",
-   "items": 100,
-   "status": "100 nieuw",
-   "ok": true
-  },
-  {
-   "naam": "Google Nieuws — haven & uithalers",
-   "url": "news.google.com/rss/search?q=uithalers+OR+%22haven+drugs%22+OR+%22cont",
-   "methode": "Zoekfeed",
-   "ritme": "1 uur",
-   "items": 100,
-   "status": "100 nieuw",
-   "ok": true
-  },
-  {
-   "naam": "Rijksoverheid — nieuws",
-   "url": "feeds.rijksoverheid.nl/nieuws.rss",
-   "methode": "RSS",
-   "ritme": "1 uur",
-   "items": 0,
-   "status": "fout 404",
-   "ok": false
-  },
-  {
-   "naam": "Politie.nl — nieuws",
-   "url": "www.politie.nl/nieuws/rss.xml",
-   "methode": "RSS",
-   "ritme": "1 uur",
-   "items": 0,
-   "status": "fout 403",
-   "ok": false
   },
   {
    "naam": "Openbaar Ministerie",
-   "url": "www.om.nl/actueel/nieuws/rss",
-   "methode": "RSS",
+   "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwasse",
+   "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 0,
-   "status": "fout: URLError",
-   "ok": false
+   "items": 100,
+   "status": "100 nieuw",
+   "ok": true
   },
   {
-   "naam": "WODC — publicaties",
-   "url": "www.wodc.nl/actueel/nieuws/rss",
-   "methode": "RSS",
+   "naam": "WODC",
+   "url": "news.google.com/rss/search?q=site:wodc.nl+OR+%22WODC%22+ondermij",
+   "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 0,
-   "status": "fout: URLError",
-   "ok": false
+   "items": 92,
+   "status": "92 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Tweede Kamer",
+   "url": "news.google.com/rss/search?q=site:tweedekamer.nl+ondermijning+OR",
+   "methode": "Zoekfeed",
+   "ritme": "6 uur",
+   "items": 100,
+   "status": "100 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "RIEC / CCV / gemeenten",
+   "url": "news.google.com/rss/search?q=RIEC+OR+%22aanpak+ondermijning%22+g",
+   "methode": "Zoekfeed",
+   "ritme": "1 dag",
+   "items": 43,
+   "status": "43 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Crossref — ondermijnende criminaliteit",
+   "url": "api.crossref.org/works?query.bibliographic=ondermijnende+crimina",
+   "methode": "API",
+   "ritme": "1 dag",
+   "items": 40,
+   "status": "40 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Crossref — organized crime Netherlands",
+   "url": "api.crossref.org/works?query.bibliographic=organized+crime+Nethe",
+   "methode": "API",
+   "ritme": "1 dag",
+   "items": 40,
+   "status": "40 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Crossref — money laundering",
+   "url": "api.crossref.org/works?query.bibliographic=money+laundering+Neth",
+   "methode": "API",
+   "ritme": "1 dag",
+   "items": 36,
+   "status": "36 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "OpenAlex — organised crime governance",
+   "url": "api.openalex.org/works?search=organised%20crime%20local%20govern",
+   "methode": "API",
+   "ritme": "1 dag",
+   "items": 40,
+   "status": "40 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "OpenAlex — drug production & trafficking",
+   "url": "api.openalex.org/works?search=synthetic%20drug%20production%20tr",
+   "methode": "API",
+   "ritme": "1 dag",
+   "items": 40,
+   "status": "40 nieuw",
+   "ok": true
   },
   {
    "naam": "NOS — binnenland",
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 1,
+   "items": 0,
    "status": "bij",
    "ok": true
   },
@@ -126,7 +216,7 @@
    "url": "www.ftm.nl/feed",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 2,
+   "items": 0,
    "status": "bij",
    "ok": true
   },
@@ -135,8 +225,8 @@
    "url": "www.europol.europa.eu/rss.xml",
    "methode": "RSS",
    "ritme": "6 uur",
-   "items": 1,
-   "status": "1 nieuw",
+   "items": 0,
+   "status": "bij",
    "ok": true
   },
   {
@@ -162,8 +252,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 3,
-   "status": "3 nieuw",
+   "items": 0,
+   "status": "bij",
    "ok": true
   },
   {
@@ -176,13 +266,13 @@
    "ok": true
   },
   {
-   "naam": "1Limburg",
-   "url": "www.1limburg.nl/rss.xml",
-   "methode": "RSS",
+   "naam": "Limburg & Zuid-Nederland",
+   "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente)+onde",
+   "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 0,
-   "status": "fout 404",
-   "ok": false
+   "items": 89,
+   "status": "89 nieuw",
+   "ok": true
   }
  ]
 }
