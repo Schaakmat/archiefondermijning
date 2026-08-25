@@ -14,6 +14,7 @@
     "cocaïne",
     "liquidatie",
     "corruptie",
+    "omkoping",
     "integriteit",
     "vastgoedfraude",
     "geldstromen",
@@ -22,140 +23,262 @@
     "organised crime",
     "organized crime",
     "mensenhandel",
+    "arbeidsuitbuiting",
     "uithalers",
-    "drugscriminaliteit"
+    "drugscriminaliteit",
+    "criminele geldstromen",
+    "bestuurlijke aanpak"
   ],
   "bronnen": [
     {
-      "naam": "Google Nieuws — ondermijning",
+      "naam": "Zoekfeed — ondermijning",
       "url": "https://news.google.com/rss/search?q=ondermijning&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
       "soort": "Nieuwsbericht",
       "regio": "Landelijk",
       "tags": ["Media"],
-      "altijd": true
+      "altijd": true,
+      "uitgever_uit_titel": true
     },
     {
-      "naam": "Google Nieuws — ondermijnende criminaliteit",
+      "naam": "Zoekfeed — ondermijnende criminaliteit",
       "url": "https://news.google.com/rss/search?q=%22ondermijnende+criminaliteit%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
       "soort": "Nieuwsbericht",
       "regio": "Landelijk",
       "tags": ["Media", "Beleid & wetgeving"],
-      "altijd": true
+      "altijd": true,
+      "uitgever_uit_titel": true
     },
     {
-      "naam": "Google Nieuws — witwassen",
-      "url": "https://news.google.com/rss/search?q=witwassen&hl=nl&gl=NL&ceid=NL:nl",
+      "naam": "Zoekfeed — witwassen",
+      "url": "https://news.google.com/rss/search?q=witwassen+OR+%22criminele+geldstromen%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
       "soort": "Nieuwsbericht",
       "regio": "Landelijk",
       "tags": ["Witwassen"],
-      "altijd": true
+      "altijd": true,
+      "uitgever_uit_titel": true
     },
     {
-      "naam": "Google Nieuws — drugslab",
-      "url": "https://news.google.com/rss/search?q=drugslab+OR+drugslaboratorium&hl=nl&gl=NL&ceid=NL:nl",
+      "naam": "Zoekfeed — drugslab",
+      "url": "https://news.google.com/rss/search?q=drugslab+OR+drugslaboratorium+OR+drugsdumping&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
       "soort": "Nieuwsbericht",
       "regio": "Landelijk",
       "tags": ["Drugsproductie"],
-      "altijd": true
+      "altijd": true,
+      "uitgever_uit_titel": true
     },
     {
-      "naam": "Google Nieuws — Bibob",
-      "url": "https://news.google.com/rss/search?q=Bibob&hl=nl&gl=NL&ceid=NL:nl",
+      "naam": "Zoekfeed — Bibob & bestuurlijke aanpak",
+      "url": "https://news.google.com/rss/search?q=Bibob+OR+%22bestuurlijke+aanpak%22+OR+%22pand+gesloten+burgemeester%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
       "soort": "Nieuwsbericht",
       "regio": "Landelijk",
       "tags": ["Bestuurlijke aanpak"],
-      "altijd": true
+      "altijd": true,
+      "uitgever_uit_titel": true
     },
     {
-      "naam": "Google Nieuws — criminele inmenging",
-      "url": "https://news.google.com/rss/search?q=%22criminele+inmenging%22+OR+%22criminele+jeugdgroepen%22&hl=nl&gl=NL&ceid=NL:nl",
+      "naam": "Zoekfeed — criminele inmenging & jeugd",
+      "url": "https://news.google.com/rss/search?q=%22criminele+inmenging%22+OR+%22criminele+jeugdgroepen%22+OR+%22jonge+aanwas%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
       "soort": "Nieuwsbericht",
       "regio": "Landelijk",
       "tags": ["Jeugd", "Preventie"],
-      "altijd": true
+      "altijd": true,
+      "uitgever_uit_titel": true
     },
     {
-      "naam": "Google Nieuws — corruptie ambtenaar",
-      "url": "https://news.google.com/rss/search?q=corruptie+ambtenaar+OR+omkoping&hl=nl&gl=NL&ceid=NL:nl",
+      "naam": "Zoekfeed — corruptie & integriteit",
+      "url": "https://news.google.com/rss/search?q=corruptie+ambtenaar+OR+omkoping+OR+%22integriteit+ambtenaren%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
       "soort": "Nieuwsbericht",
       "regio": "Landelijk",
       "tags": ["Integriteit"],
-      "altijd": true
+      "altijd": true,
+      "uitgever_uit_titel": true
     },
     {
-      "naam": "Google Nieuws — haven & uithalers",
+      "naam": "Zoekfeed — haven & uithalers",
       "url": "https://news.google.com/rss/search?q=uithalers+OR+%22haven+drugs%22+OR+%22containerterminal+drugs%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
       "soort": "Nieuwsbericht",
       "regio": "Rotterdam",
       "tags": ["Haven & logistiek"],
-      "altijd": true
+      "altijd": true,
+      "uitgever_uit_titel": true
     },
     {
-      "naam": "Rijksoverheid — nieuws",
-      "urls": [
-        "https://feeds.rijksoverheid.nl/nieuws.rss",
-        "https://www.rijksoverheid.nl/actueel/nieuws/rss"
-      ],
-      "methode": "RSS",
+      "naam": "Zoekfeed — vastgoed & fraude",
+      "url": "https://news.google.com/rss/search?q=vastgoedfraude+OR+%22ondermijning+vastgoed%22+OR+%22huisjesmelker+criminaliteit%22&hl=nl&gl=NL&ceid=NL:nl",
+      "methode": "Zoekfeed",
       "ritme": "1 uur",
       "soort": "Nieuwsbericht",
       "regio": "Landelijk",
-      "tags": ["Beleid & wetgeving"]
+      "tags": ["Vastgoed", "Witwassen"],
+      "altijd": true,
+      "uitgever_uit_titel": true
     },
     {
-      "naam": "Politie.nl — nieuws",
+      "naam": "Zoekfeed — mensenhandel & arbeidsuitbuiting",
+      "url": "https://news.google.com/rss/search?q=mensenhandel+OR+arbeidsuitbuiting&hl=nl&gl=NL&ceid=NL:nl",
+      "methode": "Zoekfeed",
+      "ritme": "1 uur",
+      "soort": "Nieuwsbericht",
+      "regio": "Landelijk",
+      "tags": ["Mensenhandel"],
+      "altijd": true,
+      "uitgever_uit_titel": true
+    },
+    {
+      "naam": "Zoekfeed — organised crime (Engels)",
+      "url": "https://news.google.com/rss/search?q=%22organised+crime%22+Netherlands+OR+Dutch&hl=en-GB&gl=GB&ceid=GB:en",
+      "methode": "Zoekfeed",
+      "ritme": "6 uur",
+      "soort": "Nieuwsbericht",
+      "regio": "Internationaal",
+      "tags": ["Internationaal", "Media"],
+      "altijd": true,
+      "uitgever_uit_titel": true
+    },
+    {
+      "naam": "Rijksoverheid",
       "urls": [
-        "https://www.politie.nl/nieuws/rss.xml",
-        "https://www.politie.nl/rss/nieuws.xml",
-        "https://www.politie.nl/nieuws/rss"
+        "https://feeds.rijksoverheid.nl/nieuws.rss",
+        "https://news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22ondermijnende+criminaliteit%22&hl=nl&gl=NL&ceid=NL:nl"
       ],
-      "methode": "RSS",
+      "methode": "Zoekfeed",
+      "ritme": "1 uur",
+      "soort": "Kamerbrief",
+      "regio": "Landelijk",
+      "tags": ["Beleid & wetgeving", "Overheid"],
+      "altijd": true
+    },
+    {
+      "naam": "Politie",
+      "urls": [
+        "https://news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR+witwassen&hl=nl&gl=NL&ceid=NL:nl"
+      ],
+      "methode": "Zoekfeed",
       "ritme": "1 uur",
       "soort": "Persbericht",
       "regio": "Landelijk",
-      "tags": ["Handhaving"]
+      "tags": ["Handhaving", "Overheid"],
+      "altijd": true
     },
     {
       "naam": "Openbaar Ministerie",
       "urls": [
-        "https://www.om.nl/actueel/nieuws/rss",
-        "https://www.om.nl/rss/nieuws",
-        "https://feeds.om.nl/nieuws.rss"
+        "https://news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liquidatie&hl=nl&gl=NL&ceid=NL:nl"
       ],
-      "methode": "RSS",
+      "methode": "Zoekfeed",
       "ritme": "1 uur",
       "soort": "Persbericht",
       "regio": "Landelijk",
-      "tags": ["Strafrecht"]
+      "tags": ["Strafrecht", "Overheid"],
+      "altijd": true
     },
     {
-      "naam": "WODC — publicaties",
+      "naam": "WODC",
       "urls": [
-        "https://www.wodc.nl/actueel/nieuws/rss",
-        "https://www.wodc.nl/rss",
-        "https://feeds.wodc.nl/nieuws.rss"
+        "https://news.google.com/rss/search?q=site:wodc.nl+OR+%22WODC%22+ondermijning+OR+criminaliteit&hl=nl&gl=NL&ceid=NL:nl"
       ],
-      "methode": "RSS",
+      "methode": "Zoekfeed",
       "ritme": "1 dag",
       "soort": "Rapport",
       "regio": "Landelijk",
-      "tags": ["Onderzoek"]
+      "tags": ["Onderzoek", "Overheid"],
+      "altijd": true
+    },
+    {
+      "naam": "Tweede Kamer",
+      "urls": [
+        "https://news.google.com/rss/search?q=site:tweedekamer.nl+ondermijning+OR+%22Kamervragen+ondermijning%22&hl=nl&gl=NL&ceid=NL:nl"
+      ],
+      "methode": "Zoekfeed",
+      "ritme": "6 uur",
+      "soort": "Kamerstuk",
+      "regio": "Landelijk",
+      "tags": ["Kamerstukken", "Beleid & wetgeving"],
+      "altijd": true
+    },
+    {
+      "naam": "RIEC / CCV / gemeenten",
+      "urls": [
+        "https://news.google.com/rss/search?q=RIEC+OR+%22aanpak+ondermijning%22+gemeente&hl=nl&gl=NL&ceid=NL:nl"
+      ],
+      "methode": "Zoekfeed",
+      "ritme": "1 dag",
+      "soort": "Nieuwsbericht",
+      "regio": "Landelijk",
+      "tags": ["Samenwerking", "Bestuurlijke aanpak"],
+      "altijd": true,
+      "uitgever_uit_titel": true
+    },
+    {
+      "naam": "Crossref — ondermijnende criminaliteit",
+      "url": "https://api.crossref.org/works?query.bibliographic=ondermijnende+criminaliteit+Nederland&rows=40&sort=published&order=desc&select=title,URL,issued,created,container-title,author,abstract&mailto=archief@users.noreply.github.com",
+      "formaat": "crossref",
+      "methode": "API",
+      "ritme": "1 dag",
+      "soort": "Wetenschap",
+      "regio": "Landelijk",
+      "tags": ["Wetenschap", "Onderzoek"],
+      "altijd": true
+    },
+    {
+      "naam": "Crossref — organized crime Netherlands",
+      "url": "https://api.crossref.org/works?query.bibliographic=organized+crime+Netherlands&rows=40&sort=published&order=desc&select=title,URL,issued,created,container-title,author,abstract&mailto=archief@users.noreply.github.com",
+      "formaat": "crossref",
+      "methode": "API",
+      "ritme": "1 dag",
+      "soort": "Wetenschap",
+      "regio": "Internationaal",
+      "tags": ["Wetenschap", "Internationaal"],
+      "altijd": true
+    },
+    {
+      "naam": "Crossref — money laundering",
+      "url": "https://api.crossref.org/works?query.bibliographic=money+laundering+Netherlands&rows=40&sort=published&order=desc&select=title,URL,issued,created,container-title,author,abstract&mailto=archief@users.noreply.github.com",
+      "formaat": "crossref",
+      "methode": "API",
+      "ritme": "1 dag",
+      "soort": "Wetenschap",
+      "regio": "Internationaal",
+      "tags": ["Wetenschap", "Witwassen"],
+      "altijd": true
+    },
+    {
+      "naam": "OpenAlex — organised crime governance",
+      "url": "https://api.openalex.org/works?search=organised%20crime%20local%20government%20Netherlands&sort=publication_date:desc&per-page=40",
+      "formaat": "openalex",
+      "methode": "API",
+      "ritme": "1 dag",
+      "soort": "Wetenschap",
+      "regio": "Internationaal",
+      "tags": ["Wetenschap", "Bestuurlijke aanpak"],
+      "altijd": true
+    },
+    {
+      "naam": "OpenAlex — drug production & trafficking",
+      "url": "https://api.openalex.org/works?search=synthetic%20drug%20production%20trafficking%20Netherlands&sort=publication_date:desc&per-page=40",
+      "formaat": "openalex",
+      "methode": "API",
+      "ritme": "1 dag",
+      "soort": "Wetenschap",
+      "regio": "Internationaal",
+      "tags": ["Wetenschap", "Drugsproductie"],
+      "altijd": true
     },
     {
       "naam": "NOS — binnenland",
@@ -177,11 +300,7 @@
     },
     {
       "naam": "Europol — newsroom",
-      "urls": [
-        "https://www.europol.europa.eu/rss.xml",
-        "https://www.europol.europa.eu/rss/news",
-        "https://www.europol.europa.eu/newsroom/rss"
-      ],
+      "url": "https://www.europol.europa.eu/rss.xml",
       "methode": "RSS",
       "ritme": "6 uur",
       "soort": "Persbericht",
@@ -208,11 +327,7 @@
     },
     {
       "naam": "Rijnmond",
-      "urls": [
-        "https://www.rijnmond.nl/rss",
-        "https://www.rijnmond.nl/rss/nieuws",
-        "https://rijnmond.nl/rss"
-      ],
+      "url": "https://www.rijnmond.nl/rss/nieuws",
       "methode": "RSS",
       "ritme": "1 uur",
       "soort": "Nieuwsbericht",
@@ -221,11 +336,7 @@
     },
     {
       "naam": "Omroep Gelderland",
-      "urls": [
-        "https://www.omroepgelderland.nl/rss",
-        "https://www.omroepgelderland.nl/RSS",
-        "https://www.omroepgelderland.nl/rss/nieuws"
-      ],
+      "url": "https://www.omroepgelderland.nl/rss",
       "methode": "RSS",
       "ritme": "1 uur",
       "soort": "Nieuwsbericht",
@@ -233,17 +344,17 @@
       "tags": ["Regio"]
     },
     {
-      "naam": "1Limburg",
+      "naam": "Limburg & Zuid-Nederland",
       "urls": [
-        "https://www.1limburg.nl/rss.xml",
-        "https://www.1limburg.nl/rss",
-        "https://www.1limburg.nl/feed"
+        "https://news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente)+ondermijning+OR+drugslab+OR+witwassen&hl=nl&gl=NL&ceid=NL:nl"
       ],
-      "methode": "RSS",
+      "methode": "Zoekfeed",
       "ritme": "1 uur",
       "soort": "Nieuwsbericht",
       "regio": "Limburg",
-      "tags": ["Regio"]
+      "tags": ["Regio"],
+      "altijd": true,
+      "uitgever_uit_titel": true
     }
   ]
 }
