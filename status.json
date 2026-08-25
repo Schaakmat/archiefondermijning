@@ -1,8 +1,8 @@
 {
- "run": "21:16",
+ "run": "22:02",
  "datum": "2026-08-25",
- "nieuw": 10,
- "totaal": 3353,
+ "nieuw": 4,
+ "totaal": 3357,
  "bronnen": [
   {
    "naam": "Nieuws — Drugsproductie & labs",
@@ -27,8 +27,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 107,
-   "status": "bij",
+   "items": 108,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -46,7 +46,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 85,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -99,7 +99,7 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 54,
+   "items": 55,
    "status": "1 nieuw",
    "ok": true
   },
@@ -118,7 +118,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 39,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -280,7 +280,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 22,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -316,7 +316,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 103,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -370,7 +370,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 31,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -424,7 +424,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 146,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -442,7 +442,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 148,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -450,8 +450,8 @@
    "url": "news.google.com/rss/search?q=RIEC+OR+LIEC+OR+%22Centrum+voor+Criminalite",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 29,
-   "status": "bij",
+   "items": 30,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -495,8 +495,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 7,
-   "status": "bij",
+   "items": 8,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -568,7 +568,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 29,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   }
  ]

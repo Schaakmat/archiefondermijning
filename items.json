@@ -67,7 +67,7 @@
   "id": "0680e35695",
   "datum": "2027-02-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Forensic environmental DNA (eDNA) validation for protected species: An integrated framework for wildlife crime investigation",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -83,7 +83,7 @@
   "id": "4fc6ff1aca",
   "datum": "2027-02-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Self-organized criticality and information processing in gypsum–proteinoid assemblies",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -99,7 +99,7 @@
   "id": "da7cdde539",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "The Dagger Beneath the Robe",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -115,7 +115,7 @@
   "id": "d54a778ca5",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Understanding the Concept of Crime and the Typology of Offenders in the Holy Qur’an with Reference to Criminal Sciences",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -131,7 +131,7 @@
   "id": "031876c9d9",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Threshold dynamics of a compartmental model of crime with educational programs",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -147,7 +147,7 @@
   "id": "486eee03b9",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Court Culture Exchanges between the Iberian Peninsula and the Habsburg Netherlands (15th–16th Centuries)",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -1246,6 +1246,27 @@
   "citaat": "van Wieringen A., J. Dell K., Versluis A.",
   "link": "https://doi.org/10.1163/9789004766211",
   "dossiers": []
+ },
+ {
+  "id": "e0e43f2cd2",
+  "datum": "2026-08-25",
+  "tijd": "21:48",
+  "nieuw": false,
+  "titel": "'Zonder aanhoudingen geen Feyenoordsupporters welkom in Nijmegen voor duel met NEC'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "vuurwerk"
+  ],
+  "samenvatting": "Als er niemand wordt opgepakt na het vuurwerkincident tijdens de wedstrijd van Feyenoord tegen Cambuur van afgelopen zondag dan is het Feyenoordpubliek niet welkom in Nijmegen dat zegt burgemeester Hubert Bruls van Nijmegen in het tv-programma Goedenavond Nederland van WNL",
+  "link": "https://www.rijnmond.nl/nieuws/2244116/zonder-aanhoudingen-geen-feyenoordsupporters-welkom-in-nijmegen-voor-duel-met-nec"
  },
  {
   "id": "9b20fde4e6",
@@ -14220,6 +14241,23 @@
   ]
  },
  {
+  "id": "064693de13",
+  "datum": "2026-06-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ierland slaat alarm over crypto: strengere regels op komst voor Bitcoin en DeFi",
+  "bron": "Newsbit",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [],
+  "samenvatting": "Ierland slaat alarm over crypto: strengere regels op komst voor Bitcoin en DeFi Newsbit",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNazQwcE5GSEdhN2FkYXdIdzhhQmtrZFJYZl9PMkt1YjRETlpYbmlxSWRrUmpGZFZqMVBwMkRUTTN6RkJpcjBPdXNhWDFDay1ndnhoV1d5OHFBWWpiX0xIOTZhVW45UHdUWW81dmZNeS1SeG5VUUMzdWpjWDM5aXBIMW5KNU5jNHhvR2FIVUR0UE1SVkhSSFVVNXg2enVYVGlI?oc=5"
+ },
+ {
   "id": "15f1f6ebd5",
   "datum": "2026-06-20",
   "tijd": "07:00",
@@ -26434,6 +26472,25 @@
   "tags": [],
   "samenvatting": "Voor vier op de tien scholieren uit Groningen en Drenthe komt georganiseerde criminaliteit dichtbij Trouw",
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd1kzQ1pmSUF1VTduWUtxREc4WU9ibHlkbGM0ZGZhbUo2YVdqUGZNMUZ1anlOODZlU0tDZzg4WkY1eU83LXVYVXo2YWYzZE5PeFJLSTJIWWlscUVVWEoyZGl3TFowenF3V1NCNENmN1lmWG9PMmlza1dhV0M1Ykt3dFFUYXRwaDRuckszUFNPQVNqV1pSWkMzejZMQjJ5Zk9qTWlEelhWOGFiU19OVzduRGJ4UF9LSGZiRUgyLWpQcVB5ZHZpaUV0cWpCMjhTU0tvbHhsUUhNYWc?oc=5"
+ },
+ {
+  "id": "5b4c7c9bcc",
+  "datum": "2026-02-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Wietplantage aangetroffen op Bijsterhuizen",
+  "bron": "wijchen.nieuws.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Wietplantage aangetroffen op Bijsterhuizen wijchen.nieuws.nl",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ma1Y0NmlnSFdra3laeEVnbEJoWG9KNFlFUEtuLVI3RGRnd3JqZlJ4OXRKRHB6VmotZWU1T0Z4ZU9lcEFwTW5hQkhQcjFHeDZNbU5ralM5MG1uRjFlT2VGQjBPME5WZmdBSVpsN1Q3ejZuRkZSZHB2cnpjdHY?oc=5"
  },
  {
   "id": "44b5cad271",
@@ -42222,8 +42279,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Vastgoed & huisvesting"
+   "Vastgoed & huisvesting",
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
    "burgemeester",
@@ -49624,6 +49681,25 @@
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0h4eTNtRVpiNjR5LVJhbFhVYWI5TXg5Z2F5YXBXZTV5YXZfYmF0aGpzdlVJdEFmZ1NXdEJjaXJFdWM2eXpoY3dRQm5nRzdzTTVmRlB1WmxVMU8tMHdsYVNWRXhTeEdRNEdkaFR5T0tuNFpzalZtMTNsR1c0MGNkWlJmblhwUTA3aDB1LWk3cWdkczJQa2c?oc=5"
  },
  {
+  "id": "3e4e053325",
+  "datum": "2023-10-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugscriminaliteit en ondermijning herkennen in een spannend spel: Katwijk introduceert appt ’Eenheid 75’",
+  "bron": "Leidsch Dagblad",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Drugscriminaliteit en ondermijning herkennen in een spannend spel: Katwijk introduceert appt ’Eenheid 75’ Leidsch Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVjk0b0I0eEtuVFBjaERIY0IyU3NXX1BVUDF6R1V4a3IwTlNkZTk5TXcxSGRSRjdhRHRPcVFnblFDYTljdTZaN1hmaFRBYnNCMXM4MFRqbXkwT0MzS2dTbGN6WTNIQkpTeTBWTk5JRHVZU3NmSVo2NWRTSnJxazlOMXo5dEpfMEJLWmVuY05Jdkd6YTRCTGNYYkhvblMzQkVCR0loOTY1TGpwQXI1QjdzektjN09oQzFiZ2hXMXVKMEtyTzhtb2VoU3luOFJOamNyM1dJdzRNdUJkQkc0SWRraUxTMmdWVGJNOVhENEZTeVZSdk96WlhacUlubXdtd0hUSnlB?oc=5"
+ },
+ {
   "id": "15ddffabaa",
   "datum": "2023-10-14",
   "tijd": "23:28",
@@ -54945,9 +55021,8 @@
   "soort": "Persbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Crypto & digitaal geld",
-   "Witwassen & geldstromen"
+   "Witwassen & geldstromen",
+   "Crypto & digitaal geld"
   ],
   "tags": [
    "crypto",
