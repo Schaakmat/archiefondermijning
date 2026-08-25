@@ -1,16 +1,16 @@
 {
- "run": "19:20",
+ "run": "20:06",
  "datum": "2026-08-25",
- "nieuw": 32,
- "totaal": 3339,
+ "nieuw": 4,
+ "totaal": 3343,
  "bronnen": [
   {
    "naam": "Nieuws — Drugsproductie & labs",
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 33,
-   "status": "4 nieuw",
+   "items": 34,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -46,7 +46,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 83,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -64,7 +64,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 25,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -225,8 +225,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 46,
-   "status": "bij",
+   "items": 47,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -243,8 +243,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 101,
-   "status": "bij",
+   "items": 102,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -316,7 +316,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 102,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -370,7 +370,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 30,
-   "status": "7 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -406,7 +406,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 99,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -415,7 +415,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 110,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -433,7 +433,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 103,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -451,7 +451,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 29,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -459,7 +459,7 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 12,
+   "items": 13,
    "status": "1 nieuw",
    "ok": true
   },
@@ -469,8 +469,8 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 1,
-   "status": "fout: TimeoutError",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Investico",
@@ -487,7 +487,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 16,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -505,7 +505,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 11,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -532,7 +532,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 4,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -541,7 +541,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 12,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -559,7 +559,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 45,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -568,7 +568,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 28,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   }
  ]
