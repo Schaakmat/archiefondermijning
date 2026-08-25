@@ -1,16 +1,16 @@
 {
- "run": "12:32",
+ "run": "14:11",
  "datum": "2026-08-25",
- "nieuw": 1284,
- "totaal": 3218,
+ "nieuw": 46,
+ "totaal": 3264,
  "bronnen": [
   {
    "naam": "Nieuws — Drugsproductie & labs",
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 21,
-   "status": "21 nieuw",
+   "items": 27,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -27,8 +27,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 100,
-   "status": "100 nieuw",
+   "items": 104,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -45,8 +45,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 80,
-   "status": "80 nieuw",
+   "items": 81,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -63,8 +63,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 4,
-   "status": "4 nieuw",
+   "items": 5,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -82,7 +82,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 12,
-   "status": "12 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -99,8 +99,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 52,
-   "status": "52 nieuw",
+   "items": 53,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -117,8 +117,8 @@
    "url": "news.google.com/rss/search?q=vastgoedfraude%20OR%20%22ondermijning%20vas",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 37,
-   "status": "37 nieuw",
+   "items": 38,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -135,8 +135,8 @@
    "url": "news.google.com/rss/search?q=trustkantoor%20witwassen%20OR%20katvanger%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 40,
-   "status": "40 nieuw",
+   "items": 41,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -154,7 +154,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 7,
-   "status": "7 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -171,8 +171,8 @@
    "url": "news.google.com/rss/search?q=shishalounge%20OR%20nagelstudio%20witwassen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 4,
-   "status": "4 nieuw",
+   "items": 5,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -190,7 +190,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 40,
-   "status": "40 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -207,8 +207,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 92,
-   "status": "92 nieuw",
+   "items": 105,
+   "status": "13 nieuw",
    "ok": true
   },
   {
@@ -226,7 +226,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 45,
-   "status": "45 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -244,7 +244,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 100,
-   "status": "100 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -262,7 +262,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 50,
-   "status": "50 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -279,8 +279,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 20,
-   "status": "20 nieuw",
+   "items": 21,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -298,7 +298,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 20,
-   "status": "20 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -315,8 +315,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 98,
-   "status": "98 nieuw",
+   "items": 101,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -334,7 +334,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 35,
-   "status": "35 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -351,8 +351,8 @@
    "url": "news.google.com/rss/search?q=%22jonge%20aanwas%22%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 43,
-   "status": "43 nieuw",
+   "items": 45,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -370,7 +370,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 22,
-   "status": "22 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -388,7 +388,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 8,
-   "status": "8 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -405,8 +405,8 @@
    "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 97,
-   "status": "bij",
+   "items": 98,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -415,7 +415,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 109,
-   "status": "23 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -423,8 +423,8 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 144,
-   "status": "44 nieuw",
+   "items": 145,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -432,8 +432,8 @@
    "url": "news.google.com/rss/search?q=site:uitspraken.rechtspraak.nl+witwassen+OR",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 100,
-   "status": "100 nieuw",
+   "items": 101,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -441,8 +441,8 @@
    "url": "news.google.com/rss/search?q=site:wodc.nl+OR+%22WODC%22+ondermijning+OR+",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 145,
-   "status": "53 nieuw",
+   "items": 147,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -451,7 +451,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 28,
-   "status": "28 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -460,7 +460,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 11,
-   "status": "11 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -469,7 +469,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 1,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -478,7 +478,7 @@
    "methode": "RSS",
    "ritme": "1 dag",
    "items": 1,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -486,8 +486,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 8,
-   "status": "8 nieuw",
+   "items": 9,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -496,7 +496,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 6,
-   "status": "6 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -505,7 +505,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 5,
-   "status": "5 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -531,8 +531,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 1,
-   "status": "1 nieuw",
+   "items": 3,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -540,8 +540,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 8,
-   "status": "8 nieuw",
+   "items": 9,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -558,8 +558,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 39,
-   "status": "39 nieuw",
+   "items": 41,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -568,7 +568,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 26,
-   "status": "26 nieuw",
+   "status": "bij",
    "ok": true
   }
  ]
