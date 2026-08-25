@@ -1,25 +1,88 @@
 {
- "run": "10:18",
+ "run": "10:29",
  "datum": "2026-08-25",
- "nieuw": 3,
- "totaal": 3,
+ "nieuw": 705,
+ "totaal": 708,
  "bronnen": [
   {
-   "naam": "Rijksoverheid — nieuws",
-   "url": "www.rijksoverheid.nl/actueel/nieuws/rss",
-   "methode": "RSS",
+   "naam": "Google Nieuws — ondermijning",
+   "url": "news.google.com/rss/search?q=ondermijning&hl=nl&gl=NL&ceid=NL:nl",
+   "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 0,
-   "status": "fout: HTTPError",
-   "ok": false
+   "items": 100,
+   "status": "100 nieuw",
+   "ok": true
   },
   {
-   "naam": "Rijksoverheid — Kamerstukken",
-   "url": "www.rijksoverheid.nl/documenten/kamerstukken/rss",
+   "naam": "Google Nieuws — ondermijnende criminaliteit",
+   "url": "news.google.com/rss/search?q=%22ondermijnende+criminaliteit%22&hl=nl&g",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 83,
+   "status": "83 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Google Nieuws — witwassen",
+   "url": "news.google.com/rss/search?q=witwassen&hl=nl&gl=NL&ceid=NL:nl",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 99,
+   "status": "99 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Google Nieuws — drugslab",
+   "url": "news.google.com/rss/search?q=drugslab+OR+drugslaboratorium&hl=nl&gl=NL",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 100,
+   "status": "100 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Google Nieuws — Bibob",
+   "url": "news.google.com/rss/search?q=Bibob&hl=nl&gl=NL&ceid=NL:nl",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 94,
+   "status": "94 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Google Nieuws — criminele inmenging",
+   "url": "news.google.com/rss/search?q=%22criminele+inmenging%22+OR+%22criminele",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 25,
+   "status": "25 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Google Nieuws — corruptie ambtenaar",
+   "url": "news.google.com/rss/search?q=corruptie+ambtenaar+OR+omkoping&hl=nl&gl=",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 100,
+   "status": "100 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Google Nieuws — haven & uithalers",
+   "url": "news.google.com/rss/search?q=uithalers+OR+%22haven+drugs%22+OR+%22cont",
+   "methode": "Zoekfeed",
+   "ritme": "1 uur",
+   "items": 100,
+   "status": "100 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Rijksoverheid — nieuws",
+   "url": "feeds.rijksoverheid.nl/nieuws.rss",
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 0,
-   "status": "fout: HTTPError",
+   "status": "fout 404",
    "ok": false
   },
   {
@@ -28,7 +91,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 0,
-   "status": "fout: HTTPError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -37,7 +100,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 0,
-   "status": "fout: HTTPError",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -46,7 +109,7 @@
    "methode": "RSS",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: HTTPError",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -55,7 +118,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 1,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -64,17 +127,17 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 2,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
    "naam": "Europol — newsroom",
-   "url": "www.europol.europa.eu/rss/news",
+   "url": "www.europol.europa.eu/rss.xml",
    "methode": "RSS",
    "ritme": "6 uur",
-   "items": 0,
-   "status": "fout: HTTPError",
-   "ok": false
+   "items": 1,
+   "status": "1 nieuw",
+   "ok": true
   },
   {
    "naam": "Eurojust — news",
@@ -96,21 +159,21 @@
   },
   {
    "naam": "Rijnmond",
-   "url": "www.rijnmond.nl/rss",
+   "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 0,
-   "status": "fout: HTTPError",
-   "ok": false
+   "items": 3,
+   "status": "3 nieuw",
+   "ok": true
   },
   {
    "naam": "Omroep Gelderland",
-   "url": "www.omroepgelderland.nl/RSS",
+   "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 0,
-   "status": "fout: HTTPError",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "1Limburg",
@@ -118,7 +181,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 0,
-   "status": "fout: HTTPError",
+   "status": "fout 404",
    "ok": false
   }
  ]
