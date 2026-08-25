@@ -6,6 +6,7 @@ items.json (het archief) en status.json (de stand van de verzamelaar).
 Gebruikt alleen de Python-standaardbibliotheek: geen installatie nodig.
 """
 
+import gzip
 import hashlib
 import json
 import re
@@ -20,7 +21,18 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 MAX_ITEMS = 6000
 TIMEOUT = 25
-UA = "archief-ondermijning/1.0 (persoonlijk archief)"
+
+# Sommige overheidssites weigeren onbekende programma's; een gewone
+# browser-identificatie voorkomt de meeste blokkades.
+KOPPEN = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+    ),
+    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+    "Accept-Language": "nl,en;q=0.8",
+    "Accept-Encoding": "gzip",
+}
 
 NS = {
     "atom": "http://www.w3.org/2005/Atom",
@@ -38,9 +50,12 @@ def ontdaan(html: str) -> str:
 
 
 def haal_op(url: str) -> bytes:
-    verzoek = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
+    verzoek = urllib.request.Request(url, headers=KOPPEN)
     with urllib.request.urlopen(verzoek, timeout=TIMEOUT) as reactie:
-        return reactie.read()
+        rauw = reactie.read()
+    if rauw[:2] == b"\x1f\x8b":
+        rauw = gzip.decompress(rauw)
+    return rauw
 
 
 def tekst_van(knoop, *paden) -> str:
@@ -87,6 +102,28 @@ def inzendingen(rauw: bytes):
             yield titel, link, samenvatting, datum
 
 
+def adressen(bron) -> list:
+    """Een bron mag één url hebben of een lijst met alternatieven."""
+    if bron.get("urls"):
+        return list(bron["urls"])
+    return [bron["url"]]
+
+
+def eerste_werkende(bron):
+    """Probeert de adressen op volgorde; levert (rauwe data, url, fout)."""
+    laatste = "geen adres"
+    for url in adressen(bron):
+        try:
+            rauw = haal_op(url)
+            ET.fromstring(rauw)  # controleer dat het echt een feed is
+            return rauw, url, None
+        except urllib.error.HTTPError as fout:
+            laatste = f"fout {fout.code}"
+        except (urllib.error.URLError, ET.ParseError, OSError, ValueError) as fout:
+            laatste = f"fout: {type(fout).__name__}"
+    return None, adressen(bron)[0], laatste
+
+
 def relevant(tekst: str, zoekwoorden) -> list:
     laag = tekst.lower()
     return [w for w in zoekwoorden if w.lower() in laag]
@@ -105,8 +142,11 @@ def main() -> None:
 
     for bron in config["bronnen"]:
         gevonden = 0
-        try:
-            rauw = haal_op(bron["url"])
+        rauw, gebruikt, fout = eerste_werkende(bron)
+
+        if rauw is None:
+            status, ok = fout, False
+        else:
             for titel, link, samenvatting, datum in inzendingen(rauw):
                 treffers = relevant(titel + " " + samenvatting, zoekwoorden)
                 if not treffers and not bron.get("altijd"):
@@ -134,15 +174,13 @@ def main() -> None:
                 bekend.add(sleutel)
                 gevonden += 1
             status, ok = (f"{gevonden} nieuw" if gevonden else "bij"), True
-        except (urllib.error.URLError, urllib.error.HTTPError, ET.ParseError, OSError) as fout:
-            status, ok = f"fout: {type(fout).__name__}", False
 
         nieuw_totaal += gevonden
         eigen = sum(1 for i in bestaand if i["bron"] == bron["naam"])
         regels.append(
             {
                 "naam": bron["naam"],
-                "url": bron["url"].replace("https://", "").replace("http://", ""),
+                "url": gebruikt.replace("https://", "").replace("http://", "")[:70],
                 "methode": bron.get("methode", "RSS"),
                 "ritme": bron.get("ritme", "1 uur"),
                 "items": eigen,
