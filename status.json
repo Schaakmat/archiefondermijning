@@ -1,8 +1,8 @@
 {
- "run": "10:36",
+ "run": "10:45",
  "datum": "2026-08-25",
- "nieuw": 1221,
- "totaal": 1929,
+ "nieuw": 5,
+ "totaal": 1934,
  "bronnen": [
   {
    "naam": "Zoekfeed — ondermijning",
@@ -10,7 +10,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 40,
-   "status": "40 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -28,7 +28,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 13,
-   "status": "13 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -36,8 +36,8 @@
    "url": "news.google.com/rss/search?q=drugslab+OR+drugslaboratorium+OR+dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 5,
-   "status": "5 nieuw",
+   "items": 7,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -46,7 +46,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 21,
-   "status": "21 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -55,7 +55,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 32,
-   "status": "32 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -64,7 +64,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 24,
-   "status": "24 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -73,7 +73,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 3,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -82,7 +82,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 83,
-   "status": "83 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -90,8 +90,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel+OR+arbeidsuitbuiting&h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 98,
-   "status": "98 nieuw",
+   "items": 100,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -100,7 +100,7 @@
    "methode": "Zoekfeed",
    "ritme": "6 uur",
    "items": 100,
-   "status": "100 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -109,7 +109,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 97,
-   "status": "97 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -117,8 +117,8 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+dru",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 85,
-   "status": "85 nieuw",
+   "items": 86,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -127,7 +127,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 100,
-   "status": "100 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -136,7 +136,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 92,
-   "status": "92 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -145,7 +145,7 @@
    "methode": "Zoekfeed",
    "ritme": "6 uur",
    "items": 100,
-   "status": "100 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -154,7 +154,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 43,
-   "status": "43 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -163,7 +163,7 @@
    "methode": "API",
    "ritme": "1 dag",
    "items": 40,
-   "status": "40 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -172,7 +172,7 @@
    "methode": "API",
    "ritme": "1 dag",
    "items": 40,
-   "status": "40 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -181,7 +181,7 @@
    "methode": "API",
    "ritme": "1 dag",
    "items": 36,
-   "status": "36 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -190,7 +190,7 @@
    "methode": "API",
    "ritme": "1 dag",
    "items": 40,
-   "status": "40 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -199,7 +199,7 @@
    "methode": "API",
    "ritme": "1 dag",
    "items": 40,
-   "status": "40 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -271,7 +271,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 89,
-   "status": "89 nieuw",
+   "status": "bij",
    "ok": true
   }
  ]
