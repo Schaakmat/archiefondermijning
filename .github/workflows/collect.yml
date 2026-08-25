@@ -1,0 +1,28 @@
+name: Archief bijwerken
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  verzamel:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Bronnen ophalen
+        run: python collect.py
+      - name: Wijzigingen vastleggen
+        run: |
+          git config user.name "archief-bot"
+          git config user.email "archief-bot@users.noreply.github.com"
+          git add items.json status.json
+          git diff --staged --quiet && echo "geen wijzigingen" && exit 0
+          git commit -m "archief bijgewerkt"
+          git push
