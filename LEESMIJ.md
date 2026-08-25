@@ -9,10 +9,12 @@ publiceert de site. Je hebt geen server, abonnement of creditcard nodig.
 | bestand | wat het doet |
 | --- | --- |
 | `index.html` | de archiefsite, één bestand, werkt ook offline |
-| `feeds.json` | de bronnenlijst en de zoekwoorden waarop gefilterd wordt |
-| `collect.py` | de verzamelaar: haalt bronnen op, filtert, schrijft `items.json` |
+| `feeds.json` | de dossiers, hun zoekwoorden en de bronnenlijst |
+| `collect.py` | de verzamelaar: haalt bronnen op, deelt in, schrijft `items.json` |
 | `.github/workflows/collect.yml` | het uurschema dat `collect.py` draait |
+| `.github/workflows/terugzoeken.yml` | de maandelijkse en handmatige terugzoekronde |
 | `items.json` | het archief zelf (wordt bij de eerste run aangemaakt) |
+| `dossiers.json` | de indeling met het aantal items per dossier |
 | `status.json` | laatste run, aantal nieuwe items, staat per bron |
 
 Zolang `items.json` er nog niet is, laat de site voorbeelddata zien. Na de eerste
@@ -49,9 +51,55 @@ https://schaakmat.github.io/archiefondermijning/
 Wil je het niet openbaar? Laat Pages dan uit en open `index.html` gewoon lokaal;
 je kunt de repo dan handmatig binnenhalen wanneer je wil bijwerken.
 
+## Stap 4 — één keer terugzoeken
+
+Alle bronnen zijn Nederlandstalig. Nieuwsfeeds geven alleen hun recente berichten,
+dus het archief begint dun. De terugzoekronde vult het aan met oud materiaal:
+
+**Actions** › *Terugzoeken* › **Run workflow**. Laat *dossier* leeg voor alles, of
+vul één dossiernaam in. Beginjaar staat op 2012. De ronde duurt een kwartier tot
+een half uur en draait daarna automatisch op de eerste van elke maand.
+
+Wat hij doet, per dossier:
+
+- het nieuwsarchief jaar voor jaar aflopen (2012 → nu), zodat ook berichten van
+  tien jaar terug binnenkomen;
+- de volledige tekst van de officiële publicaties doorzoeken via de SRU-zoekdienst
+  van overheid.nl: Kamerstukken, Kamervragen, Handelingen, Staatscourant,
+  Staatsblad, provinciale en gemeentebladen.
+
+Dat tweede is waar de diepte zit. Zoek je op *goudhandel*, dan komen daar de
+Kamervragen, beleidsstukken en bekendmakingen uit die geen nieuwsfeed meer heeft.
+
+## Dossiers en zoekwoorden aanpassen
+
+De dossiers in `feeds.json` vormen de indeling van het archief. Eén blok:
+
+```json
+{
+  "naam": "Goudhandel & edelmetalen",
+  "omschrijving": "Goudopkopers, smelterijen, juweliers en handel in edelmetalen.",
+  "hard": ["goudhandel", "goudsmelterij", "goudopkoper"],
+  "zwak": ["goud", "juwelier", "sieraden"],
+  "nieuws": "goudhandel witwassen OR goudopkoper",
+  "sru": "goudhandel OR edelmetaal witwassen"
+}
+```
+
+- `hard` — dit woord is op zichzelf genoeg om een item op te nemen.
+- `zwak` — telt alleen mee als er óók een woord uit `context` bovenaan het bestand
+  in de tekst staat (aanhouding, verdachte, witwassen, rechtbank…). Zo levert
+  "goudprijs stijgt" niets op en "goudhandelaar aangehouden" wel.
+- `nieuws` — de zoekopdracht voor het nieuwsarchief.
+- `sru` — de zoekopdracht voor de officiële publicaties.
+
+Voeg je een dossier toe, dan pikt de volgende ronde het meteen op en verschijnt het
+in de zijbalk. Mis je een onderwerp binnen een dossier, zet het woord dan bij
+`hard` (specifiek genoeg) of `zwak` (ook alledaags).
+
 ## Bronnen toevoegen of aanpassen
 
-Alles gebeurt in `feeds.json`. Een bron is één blok:
+Onderaan `feeds.json` staat `bronnen`: de vaste feeds. Een bron is één blok:
 
 ```json
 {
@@ -60,17 +108,13 @@ Alles gebeurt in `feeds.json`. Een bron is één blok:
   "methode": "RSS",
   "ritme": "1 dag",
   "soort": "Nieuwsbericht",
-  "regio": "Tilburg",
-  "tags": ["Regio", "Bestuurlijke aanpak"]
+  "regio": "Tilburg"
 }
 ```
 
-- `soort` verschijnt in de kolom *soort* en in het filter links.
-- `tags` bepalen in welk dossier het item terechtkomt.
-- Zet `"altijd": true` als je álles van die bron wil bewaren, ook zonder zoekwoord.
-
-`zoekwoorden` bovenaan `feeds.json` is het filter voor alle bronnen. Voeg toe wat
-je mist; verwijder wat te veel ruis geeft.
+Alles uit zo'n feed wordt tegen de dossierwoorden gehouden; wat nergens in past
+gaat niet het archief in. Zet `"altijd": true` plus `"dossiers": ["…"]` als je
+álles van die bron wil bewaren.
 
 ## Nieuwsbrieven per e-mail
 
@@ -90,6 +134,8 @@ Dit is het enige onderdeel dat niet volledig uit zichzelf werkt. Twee gratis rou
 - Geen AI-samenvattingen. De samenvatting in het archief is de eerste alinea van
   het origineel. Dat is gratis en verandert de tekst niet.
 - Geen volledige tekst van pdf's; wel de titel, samenvatting en de link.
+- Geen Engelstalige bronnen meer. Die leverden vooral internationaal nieuws op dat
+  niets met ondermijning in Nederland te maken had.
 
 ## Aantekeningen
 
