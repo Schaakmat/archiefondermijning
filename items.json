@@ -515,7 +515,7 @@
   "id": "c7e978eb3d",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Acknowledgments",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -531,7 +531,7 @@
   "id": "8f2fafc171",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "CHAPTER 2 Becoming Criminal",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -547,7 +547,7 @@
   "id": "99018660ce",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "6: The Verdict",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -563,7 +563,7 @@
   "id": "8366904b21",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bibliography",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -579,7 +579,7 @@
   "id": "5da3ac79d8",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "3 Contextualizing Digital Witnessing",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -595,7 +595,7 @@
   "id": "570e68739e",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "2. Riot Acts, 1967– 1974",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -611,7 +611,7 @@
   "id": "49b226cae5",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "CHAPTER 5 Cybercrimes and Chinese Cultural Relics",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -627,7 +627,7 @@
   "id": "fa196c59df",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Frontmatter",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -643,7 +643,7 @@
   "id": "a29998ad27",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Acknowledgments",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -659,7 +659,7 @@
   "id": "b9ed0762d9",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Index",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -675,7 +675,7 @@
   "id": "dd1b18da3d",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Index",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -1248,6 +1248,176 @@
   "dossiers": []
  },
  {
+  "id": "c1b5be8639",
+  "datum": "2026-08-25",
+  "tijd": "21:10",
+  "nieuw": false,
+  "titel": "Kabinet en burgemeesters trekken lijn in snelwegprotest: gevaarlijke situaties voorkomen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "burgemeester",
+   "grond",
+   "haven"
+  ],
+  "samenvatting": "De snelweg is geen plek voor betogingen. Het is gevaarlijk en strafbaar om de doorstroming te hinderen en in principe zullen betogers daarom altijd worden vervolgd voor het blokkeren van snelwegen of het vertragen van verkeer. Dat benadrukt justitieminister Van Weel in een gezamenlijke verklaring met burgemeesters, het",
+  "link": "https://nos.nl/l/2628306"
+ },
+ {
+  "id": "fcabce1440",
+  "datum": "2026-08-25",
+  "tijd": "20:12",
+  "nieuw": false,
+  "titel": "Lelystad - Jeugdtbs geëist tegen Lelystedeling (20) die hamer regelde voor overval op juwelier",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Goudhandel & edelmetalen",
+   "Jeugd & jonge aanwas",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "jeugd",
+   "juwelier",
+   "sieraden",
+   "stal",
+   "wapen"
+  ],
+  "samenvatting": "De officier van justitie heeft vandaag jeugdtbs onder voorwaarden geëist tegen de 20-jarige Sebastiaan K. uit Lelystad die een belangrijke rol zou hebben gespeeld bij de voorbereiding van een gewapende overval op Juwelier Siebel in Batavia Stad. K. was niet aanwezig tijdens de overval, maar zou onder meer een hamer heb",
+  "link": "https://www.omroepflevoland.nl/nieuws/521381/jeugdtbs-geeist-tegen-lelystedeling-(20)-die-hamer-regelde-voor-overval-op-juwelier"
+ },
+ {
+  "id": "f3a6a7d8f0",
+  "datum": "2026-08-25",
+  "tijd": "18:50",
+  "nieuw": false,
+  "titel": "Flevoland - Nieuwsoverzicht 25/08 | Laatste vaart Batavia • Ontruiming na gaslek",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "erf",
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Batavia maakt op 19 september laatste vaartocht vanuit Lelystad • Gaslek in Emmeloord dwingt tientallen bewoners urenlang naar buiten • Monteurs hard nodig:",
+  "link": "https://www.omroepflevoland.nl/nieuws/521355/nieuwsoverzicht-2508-or-laatste-vaart-batavia-*-ontruiming-na-gaslek"
+ },
+ {
+  "id": "d6ddf0de44",
+  "datum": "2026-08-25",
+  "tijd": "18:47",
+  "nieuw": false,
+  "titel": "Acetonlucht verraadt mogelijk drugslab midden in woonwijk: ‘Dit had ik beslist niet achter hem gezocht’",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Acetonlucht verraadt mogelijk drugslab midden in woonwijk: ‘Dit had ik beslist niet achter hem gezocht’ AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGxCb09pOFJKTlRLWmxTTUR2MFJuYWY3Zy1XQzdlV040WXVmVWhEU2tlU1FSSDRaYjROVlN2cnh0VUl3TDhfbUhDdU9xdTBFR2hVS1ZJX0Y0YmF5M2xXakIxMlNzX2hpN0kwbVc4b2FQTjUyYXZCZ2FGRlZxeG40Q1ZjRUlOWnBQb3R2djV3bFE4R3JpMXRJNGZCWUJYMWkzcVkwdXZqWXF1ajJQUmJRV2pSUXktSHlOTGM1emJkbFJ0ZFhQT3dKc0dLVUtsSXJCYXFIRjU5Y3E2QQ?oc=5"
+ },
+ {
+  "id": "37dd11d006",
+  "datum": "2026-08-25",
+  "tijd": "18:30",
+  "nieuw": false,
+  "titel": "Ernstige bedreigingen tegen politici: Klaas Dijkhoff komt in actie",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval",
+   "Trustkantoren & rechtspersonen",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "bedreiging",
+   "bestuurder",
+   "burgemeester",
+   "gemeenteraad",
+   "grond",
+   "moord"
+  ],
+  "samenvatting": "Steeds meer lokale bestuurders krijgen te maken met bedreigingen en intimidatie. Stichting Voor Ons Nederland van Bredanaar Klaas Dijkhoff start daarom een nieuwe campagne. De stichting roept de samenleving op om zich hardop uit te spreken tegen bedreigingen en intimidatie. Een campagnefilm laat zien wat lokale politic",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024329/ernstige-bedreigingen-tegen-politici-klaas-dijkhoff-komt-in-actie"
+ },
+ {
+  "id": "ea45aee50c",
+  "datum": "2026-08-25",
+  "tijd": "17:15",
+  "nieuw": false,
+  "titel": "Meiden racen 24 uur op solex en jong gezin opgelicht: dit gebeurde vandaag",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "camping",
+   "haven",
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "De meiden van Pink Power Crossi zijn klaar voor de 24-uurs Solex-race, een jong gezin opgelicht met een woning en kermisfamilie zit vast op een camping. Deze vier verhalen moet je dinsdag gelezen hebben. Een Bredase kermisfamilie zit al acht jaar vast op een camping, op zoek naar een woon-werkplek in de stad. Marco en ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024327/meiden-racen-24-uur-op-solex-en-jong-gezin-opgelicht-dit-gebeurde-vandaag"
+ },
+ {
+  "id": "a5bc3ecfe9",
+  "datum": "2026-08-25",
+  "tijd": "17:00",
+  "nieuw": false,
+  "titel": "Politie, OM en politiek: strafrechtelijk optreden bij snelwegblokkades",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "burgemeester",
+   "grond"
+  ],
+  "samenvatting": "Burgemeesters, het Openbaar Ministerie, de politie en justitieminister David van Weel treden voortaan in de regel strafrechtelijk op bij blokkades van snelwegen of het spoor. Die landelijke afspraak komt er na het dodelijke ongeluk op de A59 bij Den Bosch, dat gebeurde tijdens het boerenprotest van vrijdag 14 augustus.",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024328/politie-om-en-politiek-strafrechtelijk-optreden-bij-snelwegblokkades"
+ },
+ {
   "id": "d51063ca62",
   "datum": "2026-08-25",
   "tijd": "16:34",
@@ -1257,16 +1427,29 @@
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "erf",
-   "sportclub"
-  ],
+  "dossiers": [],
+  "tags": [],
   "samenvatting": "In een zijtak van de Kottertocht in Almere Buiten zijn dinsdagochtend vissen geruimd die zijn omgekomen door een laag zuurstofgehalte vanwege kroos op het water. Dat meldt Waterschap Zuiderzeeland. Volgens de Hengelsportvereniging Almere vonden honderden vissen de dood, dat kan het waterschap niet bevestigen. Het water",
   "link": "https://www.omroepflevoland.nl/nieuws/521343/vissterfte-door-kroos-in-almere-buiten-volgens-hengelsportvereniging-honderden-dode-vissen"
+ },
+ {
+  "id": "7711c8fb18",
+  "datum": "2026-08-25",
+  "tijd": "16:23",
+  "nieuw": false,
+  "titel": "Politie zoekt vermiste 21-jarige vrouw uit Goor",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Een 21-jarige vrouw uit Goor wordt sinds zondagavond 22.00 uur vermist. Ze verliet rond die tijd haar woning en sindsdien is er geen contact meer met haar geweest. De politie en haar familie maken zich zorgen.",
+  "link": "https://www.oost.nl/nieuws/3688299/politie-zoekt-vermiste-21-jarige-vrouw-uit-goor"
  },
  {
   "id": "a4440d3068",
@@ -1278,15 +1461,8 @@
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
-  "dossiers": [
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "grond",
-   "pand",
-   "woning"
-  ],
+  "dossiers": [],
+  "tags": [],
   "samenvatting": "Bewoners van appartementencomplex Kronehoef in Eindhoven worden in hun kamer al weken geteisterd door ratten. De knaagdieren poepen en plassen alles onder en knagen aan de spullen. \"Mijn moeder is in haar middelvinger gebeten door een rat\", vertelt dochter Liesbeth van der Kuijlen-Vos. De kamer van de moeder van Liesbe",
   "link": "https://www.omroepbrabant.nl/nieuws/6024307/rattenplaag-zelfs-in-kamers-van-dit-woonzorgcomplex-moeder-is-gebeten"
  },
@@ -1301,8 +1477,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Cocaine, haven & logistiek"
+   "Cocaine, haven & logistiek",
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
    "haven",
@@ -1310,6 +1486,23 @@
   ],
   "samenvatting": "Op zoek naar ogen en oren in de jachthavens. Actie in Hoorn tegen ondermijning Noordhollands Dagblad",
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQUtjLWV3VnhzQ1VzUEVMLUgydXM2NldicHEwN3oxdWl4MGFOQlRCNFdGY3NvLWdjWTJSall6U3Z3NnE5aUtRd3lrT293OERCbEFqd3lfcFlvMjJEWWVNLWsxdExXMm1fWjRwS2owa0h4QlNQcGVsRkNrLXp5SWhsSF9TVEZxWnFHSWFXb1BScDh2N2dQblZhVUk1UkhGODZtYXRxM3BtNmVHam92MjA5RVNqZzd6b3V4bGFZTm42OVN4WjFkV0JlaFJjZmlMSTVvMEFRcWsxZ0paLTQtM0VWQ2I5R0I?oc=5"
+ },
+ {
+  "id": "003ee9b3fb",
+  "datum": "2026-08-25",
+  "tijd": "15:49",
+  "nieuw": false,
+  "titel": "Klaas Otto moet Staat bijna 1,6 miljoen euro terugbetalen",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [],
+  "samenvatting": "Klaas Otto moet Staat bijna 1,6 miljoen euro terugbetalen NOS",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdHE2TlFUTDlieDVDaHdxSDZRTTA2ZDVHSEhFODc2M1IwUTQ0Zld3Ni1uQW81d0ZOQW1sdm1sbGRXd0ZFVU5VLVN1aU9VOFh2cVhoUVJ4TWtEeTB5OVJFTWl5aHlLS1BPRlJXbDlQN2R5UlY0RTJuMlY5TFc0UW5kbkNuaXA4amlSZkVEWlNEWmJkdw?oc=5"
  },
  {
   "id": "ab0cb98699",
@@ -1325,7 +1518,6 @@
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "huurwoning",
    "woning"
   ],
   "samenvatting": "Het is een bruut verhaal. Een stel dat een huis huurde in Mierlo werd uitgezet door de woningbouwstichting. Maar voordat ze vertrokken, boden ze het huis voor verhuur aan op internet. De mensen die erop reageerden en een borg en huur betaalden, kwamen vervolgens voor een dichte deur te staan. Weg geld én geen woning. H",
@@ -1363,11 +1555,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Trustkantoren & rechtspersonen",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "bestuurder",
    "wapen"
   ],
   "samenvatting": "Een 40-jarige man uit Sint Willebrord is maandag opgepakt nadat hij een stopteken negeerde en een agent mishandelde. Dat meldt de politie dinsdag. Omdat de man zich bij zijn arrestatie in het dorp hevig verzette, gebruikte een agent een stroomstootwapen. De man reed maandagmiddag rond twee uur met hoge snelheid over de",
@@ -1384,8 +1574,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Autobranche & garages",
-   "Drugsproductie & labs"
+   "Drugsproductie & labs",
+   "Autobranche & garages"
   ],
   "tags": [
    "drugslab",
@@ -1696,8 +1886,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Witwassen & geldstromen"
+   "Witwassen & geldstromen",
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
    "motorclub",
@@ -1801,6 +1991,27 @@
    "Drugsproductie & labs",
    "Vastgoed & huisvesting"
   ]
+ },
+ {
+  "id": "f2e3522918",
+  "datum": "2026-08-25",
+  "tijd": "10:40",
+  "nieuw": false,
+  "titel": "Vrouw ruikt 'vreemde geur' bij buurman (51), politie ontruimt 13 woningen om drugslab",
+  "bron": "PowNed",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "woning"
+  ],
+  "samenvatting": "Vrouw ruikt 'vreemde geur' bij buurman (51), politie ontruimt 13 woningen om drugslab PowNed",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWVnVm5JYzRDeWpmb202d3RfY1BWaEQyME1iNDVJcDhNeE5xYi1ITFJwSE5yZ2tWc2Z0c3VPUHdlSVVXdkVPc2VLRGNnUGdBQTVqSzVXcTlnc2gyRkJBd1NFTlVYNGtUeUl5b2tvb0FxUUtpenlqT0liNUFvQlNuM0J6akw1NjU1NTlxZHJDekNLTXFHcldvVVdpRWlwNEJ6UlpWWjhJdXpfUmZZSVdETUR3?oc=5"
  },
  {
   "id": "b88dbb5423",
@@ -2067,6 +2278,25 @@
   ]
  },
  {
+  "id": "3f2a7d5479",
+  "datum": "2026-08-25",
+  "tijd": "08:26",
+  "nieuw": false,
+  "titel": "Drugslab gevonden in Berkel en Rodenrijs, verdachte aangehouden",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab gevonden in Berkel en Rodenrijs, verdachte aangehouden De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVIzQ3VLQmVNUVM0a1NDd3JQNm5ra2JiWVRzTldNbkI4QV9DQTRFU3ZHSHVlZGkwQWxIbGRTeXZmdlpXLVVnUzU5UWJwSVlPakFWck9TZ0k1UWh0ZENHS3FqTEMzMVIya0RPU2VMM00tQnF6TjJOT3FfdU1DbXpMa0cyZkVMY3F0WWtJdE4ySm16VHZKeFJxT2U2S2JQZ0FGYjdNYTdDVG41SXI2RGUwOFlnZGJkZUU?oc=5"
+ },
+ {
   "id": "0d54e54c8b",
   "datum": "2026-08-25",
   "tijd": "07:49",
@@ -2269,6 +2499,27 @@
    "Drugsproductie & labs",
    "Vastgoed & huisvesting"
   ]
+ },
+ {
+  "id": "be308a62d4",
+  "datum": "2026-08-25",
+  "tijd": "06:37",
+  "nieuw": false,
+  "titel": "Woningen ontruimd om drugslab in Berkel en Rodenrijs",
+  "bron": "Albrandswaards Dagblad",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "woning"
+  ],
+  "samenvatting": "Woningen ontruimd om drugslab in Berkel en Rodenrijs Albrandswaards Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTVNScld1bTFxN0VsNElEYmo3UG9Qai05T2xqSjRlY3hMZDB2MGNadUJiRVZkYW5nXzRZZlQyWm5mV25tcUpVcUp6N0xicFhfa2J4Tm1Ra3ZjTHJqeWJPcFJOcHJneDdkNG01NGNNUEFUUUhPUGNONmJ5Rms1ZVBIaTdLYVNxUnF6ZHpoUnlYMFJjdmxWenVvZ0lXcThkWmNwRExWeHd5aEZZVGs?oc=5"
  },
  {
   "id": "d8eff343fb",
@@ -4013,6 +4264,25 @@
   ]
  },
  {
+  "id": "65d0489e4f",
+  "datum": "2026-08-22",
+  "tijd": "20:16",
+  "nieuw": false,
+  "titel": "Auto met meerdere inzittenden slaat over de kop, bestuurder aangehouden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een auto met meerdere inzittenden is zaterdagavond op de Gildenlaan in Apeldoorn over de kop geslagen. Eén persoon raakte gewond en is naar het ziekenhuis gebracht.",
+  "link": "https://www.gld.nl/nieuws/8512019/auto-met-meerdere-inzittenden-slaat-over-de-kop-bestuurder-aangehouden"
+ },
+ {
   "id": "c4f3c8e036",
   "datum": "2026-08-22",
   "tijd": "18:58",
@@ -4592,6 +4862,25 @@
   "dossiers": [
    "Witwassen & geldstromen"
   ]
+ },
+ {
+  "id": "01e35c8e7f",
+  "datum": "2026-08-20",
+  "tijd": "17:53",
+  "nieuw": false,
+  "titel": "Doorbraak in zedenzaak, 160 banen weg en verdriet om Ruben op 20 augustus",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "De politie hield een man aan voor een ernstig zedendelict uit 1993, de overname van papierfabriek Folding Boxboard in Eerbeek is afgeketst en het overlijden van Ruben Fortuin uit Groessen komt hard aan in de wereld van Truck- en Tractor Pulling. Dit en meer lees je in het nieuwsoverzicht van vandaag.",
+  "link": "https://www.gld.nl/nieuws/8511424/doorbraak-in-zedenzaak-160-banen-weg-en-verdriet-om-ruben-op-20-augustus"
  },
  {
   "id": "5e97e0263d",
@@ -9393,8 +9682,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Vastgoed & huisvesting"
+   "Vastgoed & huisvesting",
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
    "ondermijning",
@@ -15056,6 +15345,25 @@
   ],
   "samenvatting": "11/6 in Nieuwsuur: Mensensmokkel onder het migratiepact • Thuisonderwijs NOS",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjh0YVVVVzRFNlBOVGpvblpnVFZDQVFHSTdVWDRLNVpNam5MdXhsellhbFhvVGhBWXp3YS1mNnFadGM0U3RLLV9JMjdHUVo1ekZPdE5NVWs5cE1QZDVXWlBmeFltWDJFWXVhblk5cFJGeUF4THRGaU96bjBFcWFYZUJBVG9Ua1o5b3ltcUt5eFVHRWlQQ2RhQ2pVNGdTVUJFdldkeXVENkxuRXctOVFZ?oc=5"
+ },
+ {
+  "id": "64eeee0e32",
+  "datum": "2026-06-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie en gemeente Bladel ontdekken overtreding tijdens actiedagen op bedrijventerreinen",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "bedrijventerrein"
+  ],
+  "samenvatting": "Politie en gemeente Bladel ontdekken overtreding tijdens actiedagen op bedrijventerreinen Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT0RIak5MeDBTc0JWcXQ1SHRIRjZMdl9pOFR6S2hHVWdKbUV2Vll0QlVfczNRME0wWUxGR1NSNUNCS1lpdUd1dXFBV2V1YlRweWlFbUtHV2NyZU4xYUdqUWFxOWxQVXBXaGI2MXhob0x6LVlsZ2lXZ1BWRGRWSmMzVUFnUVJZNTBxcWpCMV9LR3ZmZXNxVXhldlRUWGJNNzZRRm52WU9janU3YXp0aFdQLXFHU0l0Qm1SaXVuek9CMUUzQQ?oc=5"
  },
  {
   "id": "fc86384a28",
@@ -26738,8 +27046,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Vastgoed & huisvesting",
-   "Witwassen & geldstromen"
+   "Witwassen & geldstromen",
+   "Vastgoed & huisvesting"
   ],
   "tags": [
    "pand",
@@ -27091,8 +27399,7 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Wapens, explosieven & vuurwerk",
-   "Witwassen & geldstromen"
+   "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
    "wapen"
@@ -27986,8 +28293,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Witwassen & geldstromen"
+   "Witwassen & geldstromen",
+   "Buitengebied & recreatie"
   ],
   "tags": [
    "stal",
@@ -30053,8 +30360,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Regio",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Drugsproductie & labs"
+   "Drugsproductie & labs",
+   "Buitengebied & recreatie"
   ],
   "tags": [
    "drugslab",
@@ -30613,6 +30920,27 @@
   ],
   "samenvatting": "Drugslab en flakka ontdekt op camping in Schijf, twee mannen opgepakt Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPal9OWTRZRkZzdVpXWDd5QUExa3VBUmN6dzdLRXlTa0dTeXBsYTU5d08zUkdBX0J2dXNreEJuUWxMQVVtdEl2STItWS1JT2M5OVZ4S01xVW8xRFRXbGp2MnhZLUxXRUJUelk5a1JtQWRHb3dqbXFKcWRaM0RoNEZIczBEMzR6N0R4a3hLdm5JZzN0WjVGZGpNenVneV9VTjZjdjJRRjBfdFotaUZNS3B0cHF3?oc=5"
+ },
+ {
+  "id": "117baa6608",
+  "datum": "2025-12-02",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Drugslab en flakka ontdekt op camping: twee mannen (32 en 36) aangehouden",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "camping",
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab en flakka ontdekt op camping: twee mannen (32 en 36) aangehouden Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzdZc24xNG9JWEhMdlVvRU9wakd1RkNLclFvVTVSVUktYkpfTzRoWGpKMFBkQ2pCV1hGeWtiZzRocHozNk55VEVGdHY4SGhSTEEwR243ZUllVkY1bnJqcnBjTG1tZnFuSVdqS2c5d091UXVhVGRVMTFpVEIwQk9KUjUtTi1mMER4Z2pUZFExZUlUUzREQ21fSjl1ZkNjaWtu?oc=5"
  },
  {
   "id": "6be2b26389",
@@ -31670,6 +31998,25 @@
   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jRzlhNldmbFlpLW13TFBkZTJ5Qk41aDZuNUxSVkxNa2pCRFg1MTZHWkdzNVZJdHQ0R3Jfd2pMTTBuM3pESzNrTzhJOGpKVExleE9GZXBSV2lrdnpyNXAtd2Z1SllZYU96UXd6dHdIdFh2dTE3M2dvdA?oc=5"
  },
  {
+  "id": "457f514785",
+  "datum": "2025-11-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Man veroordeeld voor betrokkenheid bij (inter)nationale drugshandel en witwassen",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Man veroordeeld voor betrokkenheid bij (inter)nationale drugshandel en witwassen De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRGlIOFlDWXhEZFkxOW5XV1VET09vQkVQcWR0SFBkYXktTzBXTWw0UjVSVGZ6NUFMTFlrcTNHSlU0N2Zpcy1jX1ItZllvSUNoa3oxUmxMZUdnelo1aGVQNGhZYzRlVFg1ZnRVWTFENDEwU25yMWQtejBLNmFlWTdPSUdPOFRYdThMNFRzbjIyY0pRREdnOVY4NHIxWU1Fb0xVMExlb3lncWZkMlR5T01mOEJJcnotVENyRzA2NmgxV1AweHdqLTlxZkxrQ0NyQ2lZNzZjdmdvV3pJMWt5YlN0RHpIUFhBeWZJRW1LQjRXeEJEVDNSdzluanUzd3daUkJveGo3Sm9qN2JwekU1SlJvby0zZXZseEE?oc=5"
+ },
+ {
   "id": "ce754241e8",
   "datum": "2025-11-10",
   "tijd": "08:00",
@@ -32533,6 +32880,26 @@
   "citaat": "Hull man jailed after £9.7m Dutch cocaine importation plot uncovered by organised crime officers Yorkshire Post",
   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR3RHcFZoT25KbHBNQy1RVlM5d2tVR2JLQndwT1VDRW4yeTRaclBWQ1ZQOGZZSmtmelV4WnpaOEJIR192cUFISFd1UEd2bklZRFgxekNHVWJLWUJKV1A0WWV5eWlwV1lXUl9SZGczUnNkNFFDTVZZRkJhQlJXRk5jc3c5bkh4WG1UN0JGOFJ4N3A0QkFpZlB2MWtSNTk1T3lkNER1c0xMVXJYTFp2RzA1MktBQ01vODV4emg4VVVwbzVLQjQ0bk1oMDlvRTRGVW1iNVVpeFlUcFVOd0o3WTFLQXBR?oc=5",
   "dossiers": []
+ },
+ {
+  "id": "ce51102b4a",
+  "datum": "2025-10-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Grote wietplantage op bovenetage keukenzaak in Opmeer, politie neemt 1.400 planten en moderne apparatuur in beslag",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Grote wietplantage op bovenetage keukenzaak in Opmeer, politie neemt 1.400 planten en moderne apparatuur in beslag Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNVNucHR5cDluX2gtdVdoNVFTS2MxSDMzNDFndWVfeWZ1cm9uY0VZWHBZYlpGM1NtbnRlaVl2M3JWQWhHZF9PQTI2bUJvNVpLdUx5WjEtWUdWeWpOWjd0WmgxZ0ZOd1dHSlI0SUE4S0ZwSGotOVpKN0J2bUc1X0FzaS0weDlrYWE0ZTM0ODU4QmFYWkowTkZvRkQ4ZmV3MWN4anlCMzI0VkRkR3NacFZwMHBWNk9uWTlsNE9JeTV5MEluM0VLSXN3MDAwV0oxbjQ3b0FsVC0tamcwQkNCelJuSFNrMjA5UU5YbDZHcTF0UWdoYm1XWWNUYVgzekRlQXRUVlExMHZvMjNmV3dmWmpTVHl3?oc=5"
  },
  {
   "id": "56fc09aabf",
@@ -33416,6 +33783,23 @@
   ],
   "samenvatting": "Nota naar aanleiding van het verslag Wetsvoorstel transparantie en tegengaan ondermijning maatschappelijke organisaties Rijksoverheid.nl",
   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMTNzcmExWWkwRmFQSVBmelg2S3diRnFCTm5vb0YzSGM4TllKaENoZ0Fad3hGS0daOTlIcVVKa01ONXJUVVlWSWt1MHN3V1h6emRHbVNtbHZDNkxEQkg5MnBFRnJxY1dnTE5obTQ1blVUdjhvN1NKdzkyZjhwVmQzdnM4UENSSGpBWlhjdmpXR1A5RGVyRlQyRHkyLXNoNjNoUngyVWI0ZHZZd2xtejJCWlZsdDFRY1R2aGhyU1JuRG8ycEtGZUNVbG1UUE0tZVdnUVZrY2ZyeWFTRHIxcjVNR0xoSGkyNnZ4NURRVTVUd3FpRjNMWXc0M2JyOUF0cU9SeW45Qzd5SQ?oc=5"
+ },
+ {
+  "id": "81935b00cd",
+  "datum": "2025-10-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "EVB stelt vragen over de resultaten van Mistral in Barendrecht",
+  "bron": "Barendrechts Dagblad",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [],
+  "samenvatting": "EVB stelt vragen over de resultaten van Mistral in Barendrecht Barendrechts Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWVZ1cnRTb1NKeVdvZEdiRHIzTHdldzNrdDlzT195bVU5dDEzLVdpa2pWWDdkblc2ZjhSTXVyeWtkbTl6N0hfSXQ2dWRFY2pEQ0d1LXBuTlByd0tfZ2FuTW5zWldoaWxqQlJTd3hJV2NUenBJc2pvaUdUTDk5MjROcXV0SXkwQzZLc0Rld3pfRU11SU9UZ3F1cklQdXRkTWlGSWc?oc=5"
  },
  {
   "id": "fb8a3c0d31",
@@ -40705,6 +41089,23 @@
   ]
  },
  {
+  "id": "ddde0263ce",
+  "datum": "2025-02-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "ECLI:NL:RBROT:2025:1579, Rechtbank Rotterdam, 10-263248-24 - Rechtspraak.nl - Zoeken in uitspraken",
+  "bron": "Rechtspraak — strafzaken",
+  "verzameld_via": "Rechtspraak — strafzaken",
+  "soort": "Uitspraak",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "ECLI:NL:RBROT:2025:1579, Rechtbank Rotterdam, 10-263248-24 Rechtspraak.nl - Zoeken in uitspraken",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DNE1vVEtuNEpWWXFlQnNyRDFnbElQdG1JYjlfTzdyTVpGTkw0RVRUakhOZU1HbkJrN0M5eHo0aldHM3FValVRaUR3RmVTWEtEbWpPV01ISDJNalh3akVKT3FrMzZBTkdKQ1hiM3kzM1Q4TUp2VTlr?oc=5"
+ },
+ {
   "id": "005061c1e0",
   "datum": "2025-02-10",
   "tijd": "08:00",
@@ -42353,6 +42754,28 @@
   "dossiers": [
    "Drugsproductie & labs"
   ]
+ },
+ {
+  "id": "ae81a1dbfd",
+  "datum": "2024-11-25",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Gemeente Veenendaal: ‘enkele overtredingen’ in horeca na controles tegen ondermijning",
+  "bron": "rijnpost.nl",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Horeca, winkels & dienstverlening",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "horeca",
+   "ondermijning"
+  ],
+  "samenvatting": "Gemeente Veenendaal: ‘enkele overtredingen’ in horeca na controles tegen ondermijning rijnpost.nl",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeGhQMmJtQzQxRmp1TC0yS0JaR3NiaFFRRGxEem5TR2U0cHNrOUxYS0lKdXpJbFotWU1HaXNwbWZfaEdoSkxHeDBrR1k0b2NBQVRDRVFWVTVaRzNGOG1BYzBraHBERDhYRzRYVEJ2bU1ISEk3SWRGb2VHRmQ2NXNxQ0RxcW5KT2I1eklHOUt4ZDRRWGQ1ZGluS0dtYmtRVTJzVGl0LUNpMA?oc=5"
  },
  {
   "id": "2db304f42b",
@@ -44314,6 +44737,23 @@
   ]
  },
  {
+  "id": "7750a5217f",
+  "datum": "2024-07-01",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Utrecht blokkeert komst coffeeshops op 2 'kwetsbare' plekken",
+  "bron": "RTV Utrecht",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [],
+  "samenvatting": "Utrecht blokkeert komst coffeeshops op 2 'kwetsbare' plekken RTV Utrecht",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWdGV3JTT2o2STRJV2xwT01TOGZRUWRSR3BHT3Q5U1R2NEo0Y214X3VLVllDbE16TDU2WkFEYlFOb053RkV2R2J4U0ZFRWhMLW0tZ0ZCU1hya0kxWlJIb29HLU0zVGd0SFZLREdYYml5RUJUNU9xcXVnaTJuekkxZG9nbWZzMmJuaGZrWnc4NjQ1ekRhQnhXUEhGbHU1V0x4?oc=5"
+ },
+ {
   "id": "0188dea822",
   "datum": "2024-06-30",
   "tijd": "07:00",
@@ -44930,6 +45370,29 @@
   ],
   "samenvatting": "Uithalers in Trojaanse container en medewerkster havenbedrijf opgepakt: bijna twee ton cocaïne in beslag genomen GVA",
   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObmpBUkhkd2otdXEtMUROYnl6TmJsbEh2ZHEwU2hDaHd4eThmOE1JaW1wa2R4ZjFldEhORkRpQ21KWWtMVklDRmE0TUh5dHBUbG1MTGhYUGJSSm9MMDQzeWhNTW5Ud0l5QXZjajlObVJ5RjU5QzFpaWlxTG9KRDQ5ZUIzaXViSmxDOTJCRVkyeVcycGw2dnBWZko2eHdZNm1rR3ZXUHVseXpVY3NMc0JyRUs0U05QdWplLTEzbU1BSk1KU1UyRDA1WnRxZ2czcERzYV9vSEpDa3d1V1RnbzJLMkQ3d3h0S0xFN1N4Y29mYTczWVQ4OUI4QmlXTzJDeE9nbDN4Q0FaelBHTndjLTAxRG44SQ?oc=5"
+ },
+ {
+  "id": "4ee45fb2df",
+  "datum": "2024-05-31",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Uithalers in Trojaanse container en medewerkster havenbedrijf opgepakt: bijna twee ton cocaïne in beslag genomen",
+  "bron": "De Standaard",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne",
+   "container",
+   "haven",
+   "uithaler",
+   "uithalers"
+  ],
+  "samenvatting": "Uithalers in Trojaanse container en medewerkster havenbedrijf opgepakt: bijna twee ton cocaïne in beslag genomen De Standaard",
+  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRktVMXgzSVYwS1pUWXlhcXF0eU9JcW5DeldYc0RJaWZuNTJENXNqMmREQlRTUWFXZVhRQmJPMnJVY2dGdHR1Y3JpTTlPbkxhSEZ5cVBqR1RWZmRjaWNnQXZHLVUyTTFVZ2kzM2Q2aVR3MWEyOUhFUTRwSXlWcWpCOFJBMVk0NWZ1Q2xtYzB0LVFwMVdaOWpJNWxYcEpLR2MxMEZBWGVJYW1tdTR2bEp5MlBYVEt5dXBQTGZ5S21MTmZMZjNxWHRXS2JBVXVYV1J6TFAwSzdscFBZbHJVNHpJWEVhZ2FHVWhiMjRNcTdsNmJWZw?oc=5"
  },
  {
   "id": "768fa4ee76",
@@ -47705,6 +48168,26 @@
   ],
   "samenvatting": "Odysseus inspireert het drugsmilieu: hoe uithalers cocaïne smokkelen in een paard van Troje GVA",
   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPakRHN2VRdE9ISmdFclRiSFZVd1pRWHpxOHRFYzA3QXNLLXI2bm9QOGRPelZJR3ZCUGR3eEhZMWY5OExETWVxNWc1NHdtdXBOYUc0NndXdkxXejNoVXBXMzM1NDFOc3RBOTRzMmZDVzdkM2VNbnlxTlhWX3VUZEhTdWlhU1VGRjhGd2FuTndzV1d1UnNFR0dsc2hpajdnc01ubWJsRzZfMHh2N1IxRnJYTDVsU1NVNndTenhBZmtYM3FCRzdRNXhyTUxQekRBaWszSkprU1FPVmZUeTF5QnpiM09Ub0V1Y0VVUllabGpGLXhWN05ULW1V?oc=5"
+ },
+ {
+  "id": "b2974bba05",
+  "datum": "2023-12-25",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zes personen na zes dagen uit container in Waaslandhaven gehaald: zouden betrokken zijn bij drugstransport via de haven",
+  "bron": "VRT",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container",
+   "haven"
+  ],
+  "samenvatting": "Zes personen na zes dagen uit container in Waaslandhaven gehaald: zouden betrokken zijn bij drugstransport via de haven VRT",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnc1VEJJMm0zMnU0c3psZk4yYk45QUhvSDcwMm9VWXhja1lOYm5ocmN2Ny1NTEs3M0c1RUx1QkIxbHZfVkhJZW9fMUZPVUItdDRhWGEwMWdHM3g3M1FLblFBcEZQUUw1OU5YR2lWY1lNQllhUWRMd1N4dUdGWDBNQw?oc=5"
  },
  {
   "id": "1b77ed2e1e",
@@ -51432,6 +51915,23 @@
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY2E3T0F6dEdnS2ZtZFBLZTNLRDVVMkx4VVJpZHA5VUJlTjhXMWdVd3l6YkEwREhzVjdtV0lsSGVTek1HRjdzZS0xMTFxYmJNdGVqNDN6S3M2Zmw2WnJCS25pYmhHYXd5U2owWEhVWDRQX1U0S3kwZXZKbjBxeFlzU21lQ3R4djFkZFZXNk1sbVd1ellYaDIwZEVOR0RiTEREby0wNDhCME9MNnBSbHZDcjhFUU9zZTh1cGs2SkNlT2Q?oc=5"
  },
  {
+  "id": "59fb90179d",
+  "datum": "2023-03-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Samen tegen georganiseerde criminaliteit in de transportsector",
+  "bron": "Politie.nl",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [],
+  "samenvatting": "Samen tegen georganiseerde criminaliteit in de transportsector Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajhWQmRydzFqWnVGblM2eVp4dXVyNzhZM2pJX0VVeHpCc1FBMURDRXBhVUtFd2FrR1R3U1RkbndVSGtreDNTRzR4Q2drQURJN3lxOHgxb0ROVzR0ekVOVWJMRV9CMGMyRWJEYnpXOVZidnRMaEFUem5qeExkTmtWeHJXMDM0cjdaSEJvTWJlMHloeTByRmlfcTJyRGthSm5kWTJCVkIwZkpvSVVpc3VfN1BUTlo?oc=5"
+ },
+ {
   "id": "fb97bb069f",
   "datum": "2023-03-22",
   "tijd": "07:00",
@@ -52227,6 +52727,23 @@
   "dossiers": [
    "Corruptie & integriteit"
   ]
+ },
+ {
+  "id": "bbdf5f2f64",
+  "datum": "2022-12-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Actieprogramma Veilig Ondernemen 2023 t/m 2026 - Rijksoverheid.nl",
+  "bron": "Rijksoverheid",
+  "verzameld_via": "Rijksoverheid",
+  "soort": "Kamerbrief",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Actieprogramma Veilig Ondernemen 2023 t/m 2026 Rijksoverheid.nl",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjJSTjM1SVNYUENmX0t1ZGYxeXY0S3ZqRjhsS29TX2I5MzlLS3YtZEpJV045WFEtSDhrV25TdzNaclRvY2hXckFxbFAwVThUWHRrYkJvRGpNYjl3ekJvMWJlOURUNkx0dzhidFk0d1ZkSjdrTmVLSFhtTTRQSHk4MHhub2FXLUV1cGxyWHZPWW14UXAxN1I5WnVDMWlFcFNOeHZGb2Rnbw?oc=5"
  },
  {
   "id": "6f9757e185",
@@ -53138,6 +53655,28 @@
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkxmdm1MTHoyQ0tESFljeURjaEFRMUtUeDlINC1WXzg5b01DT2ZnLUVfcld0N2NfSThIOUxRT3A1Rl9zMDE3bERBOUZkTFl0M3JraERVS0hlcEpONDMxRWRldktSUS1qSXZXcnhhclkzNjdBRjE3RFRNVzZJNHZhS3hPM3V0aTVaSlppT3haNFJmOFBobHZWbnNhRmlDTzZLdHhDQ3ZoNA?oc=5"
  },
  {
+  "id": "08e7bed390",
+  "datum": "2022-06-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Speciaal hulpmiddel voor aanpak ondermijning en onveiligheid op bedrijventerreinen: ‘We pakken het samen aan’",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "aanpak ondermijning",
+   "bedrijventerrein",
+   "ondermijning"
+  ],
+  "samenvatting": "Speciaal hulpmiddel voor aanpak ondermijning en onveiligheid op bedrijventerreinen: ‘We pakken het samen aan’ Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU094blh6MHdrN0NXdmNBc2llWF9SOW52RnJ4WWRTVEZ0WXd1bk91S1FaMFQyaFU0eDhBd0FiSFRGUlZOSU81WWg5b1FLd2xkT21pUzg3U0F6RXNwQW5Xa0x5d0R4ZmdjVFBDZ25CZ2JyWnFHMjdjVHV4LUlJLXY1S2dvMGZxMUxlb252M0hHV3ZkRWNyRW1Nc1M2N0NrLUZFanRqYlVqM0hIUDQ0bHV0MXZMa19pdDhfSHNnZ2laUWlkUHZSejFmLXY4OFRSNUNjYmZQMDQxb2x3VC1ZQXNRNm5GMXQ?oc=5"
+ },
+ {
   "id": "ec69e96d51",
   "datum": "2022-06-25",
   "tijd": "07:00",
@@ -53363,6 +53902,23 @@
   ],
   "samenvatting": "OM eist tot 16 jaar voor poging tot kille liquidatie Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM0djcXZpRVljYm9NOEFCQnlQOFRUaU1PdktCN05hY2REYnYxVGxEUjMyci1fNFNXaHIxcTNCN1ZHaVpvRDZaUl9SNndJdGRIX0hXY2FQRHdic2Z6QTVXdDNudEozRjZKRGg3MGhRdDZfOGpfR3ZGU0V6X1lSeklVQXpGQlZRN3hjZzBSSDQxUl9wWE5LVHVnV18zOA?oc=5"
+ },
+ {
+  "id": "d04c3f8d73",
+  "datum": "2022-06-03",
+  "tijd": "16:34",
+  "nieuw": false,
+  "titel": "Gelderse bedrijventerreinen veilig en weerbaar",
+  "bron": "Provincie Gelderland",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [],
+  "samenvatting": "Gelderse bedrijventerreinen veilig en weerbaar Provincie Gelderland",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2VTQURGS0xyZDVYRjlMbWRiOEVLYnlQNlZUU0NzeV9WLVN1cHhtOUpuRjFscy05RUhhMENHRnpDclQ3bmdUX1dHa3RWbVN5N1ZxZU4xOGZveDZHTUthaXI1N1dMQTdxTnFzTkQyZUlwLUh0X2ZSMkl3LTA4ZHRsLXYwcU1jdGs0dDdvZHY4LXVtR2l6RVFVNjlXTklOdWxBOE5j?oc=5"
  },
  {
   "id": "dc4e52b7de",
@@ -54655,6 +55211,23 @@
   ]
  },
  {
+  "id": "1d6fd76885",
+  "datum": "2021-11-03",
+  "tijd": "18:01",
+  "nieuw": false,
+  "titel": "25 Vacatures - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "25 Vacatures Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tQW1uN2FMdzYxbjY3ejlYR010TkJpSWtKamVtTXdFamdGWTUtZ1I5RTlsWXJ3Y0YxSmIybEFUWFBWOElKSFktTmxDVnNPSDdBUzFDbEJETHpURF9KUURkbWlqYVF3QWJvRFlYS2t0NA?oc=5"
+ },
+ {
   "id": "accfe2b838",
   "datum": "2021-11-03",
   "tijd": "07:00",
@@ -55211,6 +55784,25 @@
   ],
   "samenvatting": "Rechter oordeelt over wapenhandel vanuit kringloop Oosterwolde RTV Drenthe",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWlLWlo0Mm9QdE1pSG42cURRdGh6aHF4czh1ZVpaeWVad2VuSG50TVAyR3d5Qmo0Y0dIeWYxcUdvcFo3RzFfdHFtZE5JdlNkajJEOW9fMWJ6aDYzWmlvUEFBcGpuSGt5TGh0ZDdSOW41Z3FlVmZ1T3RPSEduR09jUXNpVDUyQXMxS1F2bGNSWUdwakdHM2t3eEJ4MlhwMXY4T2I4LWtqdw?oc=5"
+ },
+ {
+  "id": "f2b8c05b66",
+  "datum": "2021-07-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Dreigingsbeeld Milieucriminaliteit 2021 onderstreept klimaatzorgen",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "milieucriminaliteit"
+  ],
+  "samenvatting": "Dreigingsbeeld Milieucriminaliteit 2021 onderstreept klimaatzorgen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUJRUlloZXEwWlhuOHRRa1JEVlFmdEF2RkU0ZkprcUtySlpocHFUQjFXWVFMMkU4RFRHbi1VQlVrR3ducjhSREl5MHA3OExtVzI2eTExVjc3Vjk5Q1pyX1AyWENfN1dzalk5cDBTajd4WFNNR1VJNnYwcGpJc3ItYUdMTnhfZTgzbW5LSXhuOGZ6d3E2UEF0ckRsNjJlbVJDUmpHOFZDS2k5QlBRbm9F?oc=5"
  },
  {
   "id": "2a0f37ad7e",
@@ -55999,6 +56591,27 @@
   ],
   "samenvatting": "‘Corrupte agent’ aangehouden na grootste Nederlandse opsporingsonderzoek ooit AD.nl",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTUwV0R3YU41cXdwQ0x0ZUI5czhHMWUweUR6MjJSX056aThqZHZFQlZVRmE5Z2x0QkJObGlCYmVzTHRUeVFKWWNYTWp5azdxQXJLZW5WcXQ0N1JjMG9HTWYtajNndVRxUms1V2huWHRsREhKYkhPeGYxdEJOMV9YeEFFZVdTMzJhcXRHRTRKOENWa0ZqcE9kTFNWN3N3RTVROGRnVElHODVYc0cwb0JHZnRwM0U?oc=5"
+ },
+ {
+  "id": "8b72b862a3",
+  "datum": "2021-03-04",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Hardenberg wil ondermijning harder aanpakken: ook integriteit onder de loep",
+  "bron": "de Stentor",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "integriteit",
+   "ondermijning"
+  ],
+  "samenvatting": "Hardenberg wil ondermijning harder aanpakken: ook integriteit onder de loep de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTRkU0Vfb1dBZDhVY2tvRDV2Tm5MUzBnVDgxVmtHdVZ4eVRkenl2V0lpYWlaNUZ0c29CaS1fdjl5eDVYNFA4QXItZXRSODVZZFV1QzZPQXUycHlnTWxYWnhqdXdocDM2R3N2M2xVVnJIR1hkNnRxTldnTnBMS1FfVVFqSW8wNXQ2RlZPUU43NGR1cmZOQ1l6eHcxRUZUUHFTYTNyMmtDX3Y4UFJPN0xjUjF1amREbFhhSUlXNA?oc=5"
  },
  {
   "id": "ff3140ced4",
@@ -58188,6 +58801,23 @@
   ],
   "samenvatting": "Beruchte Utrechtse huisjesmelker betrokken bij wietboerderijen Oost-Groningen RTV Utrecht",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2R4YU12SC1iWlRPMWhndjlRM3pfOWRra0ktcXpqWm1iNEZjZzNxT3I4NklyMXhDWHF6S0RmX3lJUlc3NFlLeVVDaXh1TmtOcHZwMXA1UVRUOG5fdDBMeGlTdmx6M2VyZ0drMVpnUEx4V3pudXJ6eGRRSXNDYW9PUUV5cDZoVU9zeFlEM2JEU0ctc0FRZFFJWnlzYlZERnJQQUhiN1laVXRfMUZyc0ZCei1fM2tncjVxbmc?oc=5"
+ },
+ {
+  "id": "435322e73e",
+  "datum": "2019-07-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "ECLI:NL:GHDHA:2019:1824, Gerechtshof Den Haag, 2200391518 - Rechtspraak.nl - Zoeken in uitspraken",
+  "bron": "Rechtspraak — strafzaken",
+  "verzameld_via": "Rechtspraak — strafzaken",
+  "soort": "Uitspraak",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "ECLI:NL:GHDHA:2019:1824, Gerechtshof Den Haag, 2200391518 Rechtspraak.nl - Zoeken in uitspraken",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UWE9JbjFPMExNTUJ1V1FHR2l4dmFWb2E3eW50cWJ4RU5jS0xhMWp4cXFBV0dac29aV1ZqTk5jYktCeC00S0J2Y2x1bVNNQlVUd3hiYVR4QTlVMjRDYVBkWXFqa0V4UXEyLXNUU0hGUUMteEtnRE1F?oc=5"
  },
  {
   "id": "3310e8f06f",

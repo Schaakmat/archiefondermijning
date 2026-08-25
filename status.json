@@ -1,16 +1,16 @@
 {
- "run": "16:21",
+ "run": "19:20",
  "datum": "2026-08-25",
- "nieuw": 43,
- "totaal": 3307,
+ "nieuw": 32,
+ "totaal": 3339,
  "bronnen": [
   {
    "naam": "Nieuws — Drugsproductie & labs",
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 29,
-   "status": "2 nieuw",
+   "items": 33,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -28,7 +28,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 107,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -45,8 +45,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 81,
-   "status": "bij",
+   "items": 83,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -63,8 +63,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 23,
-   "status": "18 nieuw",
+   "items": 25,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -154,7 +154,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 8,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -208,7 +208,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 106,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -226,7 +226,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 46,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -244,7 +244,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 101,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -315,8 +315,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 101,
-   "status": "bij",
+   "items": 102,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -369,8 +369,8 @@
    "url": "news.google.com/rss/search?q=%22weerbare%20ondernemers%22%20OR%20bedrijv",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 23,
-   "status": "1 nieuw",
+   "items": 30,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -388,7 +388,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 9,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -405,8 +405,8 @@
    "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 98,
-   "status": "bij",
+   "items": 99,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -414,8 +414,8 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 109,
-   "status": "bij",
+   "items": 110,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -432,8 +432,8 @@
    "url": "news.google.com/rss/search?q=site:uitspraken.rechtspraak.nl+witwassen+OR",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 101,
-   "status": "bij",
+   "items": 103,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -450,8 +450,8 @@
    "url": "news.google.com/rss/search?q=RIEC+OR+LIEC+OR+%22Centrum+voor+Criminalite",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 28,
-   "status": "bij",
+   "items": 29,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -459,8 +459,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 11,
-   "status": "bij",
+   "items": 12,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -469,8 +469,8 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 1,
-   "status": "bij",
-   "ok": true
+   "status": "fout: TimeoutError",
+   "ok": false
   },
   {
    "naam": "Investico",
@@ -486,8 +486,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 13,
-   "status": "4 nieuw",
+   "items": 16,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -496,7 +496,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 7,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -504,8 +504,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 9,
-   "status": "4 nieuw",
+   "items": 11,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -531,8 +531,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 3,
-   "status": "bij",
+   "items": 4,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -540,8 +540,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 10,
-   "status": "1 nieuw",
+   "items": 12,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -558,8 +558,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 44,
-   "status": "3 nieuw",
+   "items": 45,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -567,7 +567,7 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 27,
+   "items": 28,
    "status": "1 nieuw",
    "ok": true
   }
