@@ -1,0 +1,125 @@
+{
+ "run": "10:18",
+ "datum": "2026-08-25",
+ "nieuw": 3,
+ "totaal": 3,
+ "bronnen": [
+  {
+   "naam": "Rijksoverheid — nieuws",
+   "url": "www.rijksoverheid.nl/actueel/nieuws/rss",
+   "methode": "RSS",
+   "ritme": "1 uur",
+   "items": 0,
+   "status": "fout: HTTPError",
+   "ok": false
+  },
+  {
+   "naam": "Rijksoverheid — Kamerstukken",
+   "url": "www.rijksoverheid.nl/documenten/kamerstukken/rss",
+   "methode": "RSS",
+   "ritme": "1 uur",
+   "items": 0,
+   "status": "fout: HTTPError",
+   "ok": false
+  },
+  {
+   "naam": "Politie.nl — nieuws",
+   "url": "www.politie.nl/nieuws/rss.xml",
+   "methode": "RSS",
+   "ritme": "1 uur",
+   "items": 0,
+   "status": "fout: HTTPError",
+   "ok": false
+  },
+  {
+   "naam": "Openbaar Ministerie",
+   "url": "www.om.nl/actueel/nieuws/rss",
+   "methode": "RSS",
+   "ritme": "1 uur",
+   "items": 0,
+   "status": "fout: HTTPError",
+   "ok": false
+  },
+  {
+   "naam": "WODC — publicaties",
+   "url": "www.wodc.nl/actueel/nieuws/rss",
+   "methode": "RSS",
+   "ritme": "1 dag",
+   "items": 0,
+   "status": "fout: HTTPError",
+   "ok": false
+  },
+  {
+   "naam": "NOS — binnenland",
+   "url": "feeds.nos.nl/nosnieuwsbinnenland",
+   "methode": "RSS",
+   "ritme": "1 uur",
+   "items": 1,
+   "status": "1 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Follow the Money",
+   "url": "www.ftm.nl/feed",
+   "methode": "RSS",
+   "ritme": "1 uur",
+   "items": 2,
+   "status": "2 nieuw",
+   "ok": true
+  },
+  {
+   "naam": "Europol — newsroom",
+   "url": "www.europol.europa.eu/rss/news",
+   "methode": "RSS",
+   "ritme": "6 uur",
+   "items": 0,
+   "status": "fout: HTTPError",
+   "ok": false
+  },
+  {
+   "naam": "Eurojust — news",
+   "url": "www.eurojust.europa.eu/rss.xml",
+   "methode": "RSS",
+   "ritme": "1 dag",
+   "items": 0,
+   "status": "bij",
+   "ok": true
+  },
+  {
+   "naam": "Omroep Brabant",
+   "url": "www.omroepbrabant.nl/rss",
+   "methode": "RSS",
+   "ritme": "1 uur",
+   "items": 0,
+   "status": "bij",
+   "ok": true
+  },
+  {
+   "naam": "Rijnmond",
+   "url": "www.rijnmond.nl/rss",
+   "methode": "RSS",
+   "ritme": "1 uur",
+   "items": 0,
+   "status": "fout: HTTPError",
+   "ok": false
+  },
+  {
+   "naam": "Omroep Gelderland",
+   "url": "www.omroepgelderland.nl/RSS",
+   "methode": "RSS",
+   "ritme": "1 uur",
+   "items": 0,
+   "status": "fout: HTTPError",
+   "ok": false
+  },
+  {
+   "naam": "1Limburg",
+   "url": "www.1limburg.nl/rss.xml",
+   "methode": "RSS",
+   "ritme": "1 uur",
+   "items": 0,
+   "status": "fout: HTTPError",
+   "ok": false
+  }
+ ]
+}
