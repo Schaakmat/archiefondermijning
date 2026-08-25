@@ -67,7 +67,7 @@
   "id": "0680e35695",
   "datum": "2027-02-01",
   "tijd": "00:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Forensic environmental DNA (eDNA) validation for protected species: An integrated framework for wildlife crime investigation",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -83,7 +83,7 @@
   "id": "4fc6ff1aca",
   "datum": "2027-02-01",
   "tijd": "00:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Self-organized criticality and information processing in gypsum–proteinoid assemblies",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -99,7 +99,7 @@
   "id": "da7cdde539",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "The Dagger Beneath the Robe",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -115,7 +115,7 @@
   "id": "d54a778ca5",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Understanding the Concept of Crime and the Typology of Offenders in the Holy Qur’an with Reference to Criminal Sciences",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -131,7 +131,7 @@
   "id": "031876c9d9",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Threshold dynamics of a compartmental model of crime with educational programs",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -147,7 +147,7 @@
   "id": "486eee03b9",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Court Culture Exchanges between the Iberian Peninsula and the Habsburg Netherlands (15th–16th Centuries)",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -1257,14 +1257,8 @@
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "geweld",
-   "grond"
-  ],
+  "dossiers": [],
+  "tags": [],
   "samenvatting": "Israël zet twee Nederlandse vertegenwoordigers het land uit. Zij zijn werkzaam bij het civiel-militaire coördinatiecentrum (CMCC) in Israël van waaruit de VS, Israël en vijftien andere landen, waaronder Nederland, toezicht houden op het staakt-het-vuren tussen Israël en Hamas. Ook coördineren zij internationale hulp en",
   "link": "https://nos.nl/l/2628310"
  },
@@ -18870,6 +18864,23 @@
   ]
  },
  {
+  "id": "c14b830f45",
+  "datum": "2026-05-13",
+  "tijd": "10:04",
+  "nieuw": false,
+  "titel": "Criminele beïnvloeding van het lokale openbaar bestuur - WODC Repository",
+  "bron": "WODC",
+  "verzameld_via": "WODC",
+  "soort": "Rapport",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Criminele beïnvloeding van het lokale openbaar bestuur WODC Repository",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQzNVdklnMXJVR3BMbmRrb3dOU0tpbDdOdzRqM3RlYVJIT2dtT05qZnJmaUpVZnZVMkFfdGNWSkpIb3ZiU0dVNEFRX2tJZGFxQi1BQU9iZFRGQWcyc2c0T1JtbElEVUJRdU5MNks3a1RzOTBmMWJUS2lSQzh6ajlnU0V4Q2k2NFJkSHRmaA?oc=5"
+ },
+ {
   "id": "c1229032b7",
   "datum": "2026-05-13",
   "tijd": "09:09",
@@ -25957,6 +25968,25 @@
   "dossiers": []
  },
  {
+  "id": "7652b7d833",
+  "datum": "2026-02-26",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "VVD stelt vragen over afvaldumping bij flats en containers in Zeist",
+  "bron": "De Nieuwsbode",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "VVD stelt vragen over afvaldumping bij flats en containers in Zeist De Nieuwsbode",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSl9KbDBnSnBSWVQ4N1A5SVBOSjBfQWg0RUJRVWlzRS1ZclNSNW9QU1c5clgwQWhZQURzazdwX0Y2OFZqaXRtLTZfWVM4a21ULVdVZ2ZCVlN1clczckJJZVE3MVZvWkZCX19NdGUxWUFEV1BzcURWNkhhRVFELW9ubXJJZ05CMy1uM3lWZmFzdF9NUnhsbUNsM1lUa2dqTzI3QVF6NFBSRnNtN3UxbnJPaXMtbw?oc=5"
+ },
+ {
   "id": "b3414b119a",
   "datum": "2026-02-25",
   "tijd": "08:00",
@@ -27821,6 +27851,25 @@
   ],
   "samenvatting": "Busje met lijk uit drugslab stond heel weekend in Boxmeer Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmNuSXhpaE0yaUFHcnEzbENGckdfZlVRU09qSGsyOGZfMERiVnVmZTN6NFZTa21TcS1SZjVLS0oxM1pGTWJGRy1FNXAtdENqejhUWWozVldaZ3lVV3RHN1lac1RITk1CV25SV3lrU2tRTm16T3lkZ192cXk2bldLb1FBSThZUHQxb3ZDakNVeDdiblAzZWJNZjJUc2VnYjBOclZn?oc=5"
+ },
+ {
+  "id": "d40e23214e",
+  "datum": "2026-02-01",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Turkije bevriest 460 miljoen euro aan crypto in groot onderzoek naar illegaal gokken",
+  "bron": "Newsbit",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "crypto"
+  ],
+  "samenvatting": "Turkije bevriest 460 miljoen euro aan crypto in groot onderzoek naar illegaal gokken Newsbit",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDR5OVQxMWNmZUNsb3hENHladTdyWXAzTGVZZUw4WHFOR285ODNmU3lrdHVsVzg1d3BRMHhVMFdZa3pKUExyTGtBUmVHTkZVbEVMWGtWdldaYXV4dlZPUkJjZVQ1SEpkLUVDVEpBOUx0MXVlSlQyUDZ5cHJ1eGdpTWpiYlgxbEFqRkdzSkRtNG4zREFQVUNxa0dTek8yNVN5eHRQb1p2SUt2S3hhbU93?oc=5"
  },
  {
   "id": "72fa228a34",
@@ -42163,6 +42212,27 @@
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlN3RFI3LU9nSnJ6RFpGMF9hWE9ndXkzWXluVFpUeHRHWTA5WDljTm0xZzNGWVllQUlIVjIzUVFUSmJtOWUxZzlpRFdfc09DMkh5UEFaTlJ3Zy1ONzNmZG5SeFdaM2RORFBjTlFCOUdmbWthVUR4c2F0UUEwQ1d2d0EtdzYwZl9TN0VXazV6WTk4dVlybjN3QXFDNjV1bzNx?oc=5"
  },
  {
+  "id": "9bdaf24c5b",
+  "datum": "2024-12-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Burgemeester Hans Verheijen van Sittard-Geleen ziet zorgelijke tendens: ‘Criminelen maken er gebruik van dat rechter vaker sluiting van woning terugdraait’",
+  "bron": "De Limburger",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "woning"
+  ],
+  "samenvatting": "Burgemeester Hans Verheijen van Sittard-Geleen ziet zorgelijke tendens: ‘Criminelen maken er gebruik van dat rechter vaker sluiting van woning terugdraait’ De Limburger",
+  "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOMVBMeWdfemFwN0lMQXJ2WGFXb19YUzk0aWlWNmtialhDOFVudmM3QjBuNHFNbzBUWlJ2R1dxSnlSZjZLNE5CTEJ5Y280Wmt3Ny1VaWh1LTRlR0I0MTRlVzN2Q3ZLUlpJZFh1U3YxeEp2NDNhNzkyTVhiWkFQZjduTVBkR2hZdWZGemxwUzRBb0xxSk8yenhKOXRJdG5hYTVPSzZ5bjhPRnhIRmt6cVc2SXBIZXpsVzd0dUNXSUk4QmpTSmUzQVU4UFJJQnNtUDlQWmVEME9LVmZhT1BLWS1kaVhEdFVTMGFXOG52Z2RNeTVfSWhyUzJad1FjeXhoN2h3dGFEdDVOX19qcHp1ZGN2ZXZGYlNTckFyWjRXdldMWmczSDM3SFdyQmxoRHB1WWJZc25hcW5KUQ?oc=5"
+ },
+ {
   "id": "ae8743ed34",
   "datum": "2024-12-17",
   "tijd": "08:00",
@@ -45424,6 +45494,29 @@
   ],
   "samenvatting": "Uithalers in Trojaanse container en medewerkster havenbedrijf opgepakt: bijna twee ton cocaïne in beslag genomen De Standaard",
   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRktVMXgzSVYwS1pUWXlhcXF0eU9JcW5DeldYc0RJaWZuNTJENXNqMmREQlRTUWFXZVhRQmJPMnJVY2dGdHR1Y3JpTTlPbkxhSEZ5cVBqR1RWZmRjaWNnQXZHLVUyTTFVZ2kzM2Q2aVR3MWEyOUhFUTRwSXlWcWpCOFJBMVk0NWZ1Q2xtYzB0LVFwMVdaOWpJNWxYcEpLR2MxMEZBWGVJYW1tdTR2bEp5MlBYVEt5dXBQTGZ5S21MTmZMZjNxWHRXS2JBVXVYV1J6TFAwSzdscFBZbHJVNHpJWEVhZ2FHVWhiMjRNcTdsNmJWZw?oc=5"
+ },
+ {
+  "id": "95376fa3b2",
+  "datum": "2024-05-31",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Uithalers in Trojaanse container en medewerkster havenbedrijf opgepakt: bijna twee ton cocaïne in beslag genomen",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne",
+   "container",
+   "haven",
+   "uithaler",
+   "uithalers"
+  ],
+  "samenvatting": "Uithalers in Trojaanse container en medewerkster havenbedrijf opgepakt: bijna twee ton cocaïne in beslag genomen Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTWpEN2Jzb0l4UmhzaGFRcUJrNXRRUVQ3d1RKcGx3SHNGTGlsZzNuQ2ZYX09yS2M3bTNMVU9OSHBjVEUxSkJON0RBbk0xalkzREg5RDExdlR1dHo1MkJIbUx0bDhyYS0ybTZ1RTVZaUtEUGdrZ3VFM2wweFBDanBnVm9qLUpvbjUwZVJ6SE5xd3UtQWx6ZzFFUkxKOHFycjFpdXFGRWlBTnl4ZWtNMEUwTVFBenVLNnA1R2NVMjlWbkYtZERoemdTRXU1MHd1SGpEMTBPQUppUlo3Y1UzVmRlWGR2T1dnQUVMdGJEaGp3?oc=5"
  },
  {
   "id": "768fa4ee76",
@@ -48916,6 +49009,27 @@
   "tags": [],
   "samenvatting": "Havenarbeidster die met haar kraan container op strategische plek zet in Antwerpse haven krijgt 5 jaar cel VRT",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVlozczNULUhRLU5zMUcxLVMxRjRXTm50ZkpYX3U2a1F6Z2I2bFdhc01hamJuY1pQLWJENjFucXFJeEtlSkVLMmRlV05QWkpMeTJ2QVprcFByaHJLOUg3R1Q4amJwd1pCU1hLaEZCbXo0MXp2Z1NJdmNFLUJxSEVPTnB6NFhtY3lMN1V4bkU2RUtrSzNQdzdyS1NDaUZfMkt3REVRMTNR?oc=5"
+ },
+ {
+  "id": "6cee94a8d9",
+  "datum": "2023-11-24",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Uithalers in ‘Trojaanse container’ veroordeeld tot 40 maanden celstraf",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container",
+   "uithaler",
+   "uithalers"
+  ],
+  "samenvatting": "Uithalers in ‘Trojaanse container’ veroordeeld tot 40 maanden celstraf HLN",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX3BSakJ3RWJQcHl3R2ViaG1kZUdjU2c3RWZyR3NuSHVsYXN3MXdaUkFpTE91S0UyeHZwQWw3eDl5SGN1cF93MlUyQ1p5UzFJQWtCQVhNem8tV1l1VjlqT1A0WjU1T0pVd0tUcVVjS0dSUjBkWjJvWG90bFZCamxhY3FrMmxkaUhNM1FJU2E3ZGs2ZWtHYXZncnlDMWJmeEd3R01ZVkRnZ3ZXdmc?oc=5"
  },
  {
   "id": "8f22ad5f79",
@@ -54821,6 +54935,28 @@
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZnA4bm9jWjF3djVkS2F6WFBYYXRfNklTekk4S0s4VENvRV9kd3RxZmtfdGdBaVVvSmJWZThnTndCTktkWm1kNXhnejlWU1Z1bFVrY05vbDNkQlQ5akJMOG5VaC00Wm1LZjg4bWF5VExDU3FsbVRBbWpYZlllLXlTWC00UkRYN3pGY2pEbjZudEtkOC1yZlNzMk5JRVRqTEFoSkxrdm9jbw?oc=5"
  },
  {
+  "id": "54b9ea445d",
+  "datum": "2022-01-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "20 maanden cel geëist voor witwassen met cryptocurrencykaarten en voorhanden hebben van hard- en softdrugs - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "witwassen"
+  ],
+  "samenvatting": "20 maanden cel geëist voor witwassen met cryptocurrencykaarten en voorhanden hebben van hard- en softdrugs Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUVI1NURaZGhtZjk3ZzJjb2pPUzd6a3Zkc0Z5azZkZTlaQW5sWkV1RXNwb2NpbzM0cjVQSTE5ZFdnMGNsbjFlVGlWbjRPank2a09fdlh0bEJ0Tm5ET0FCbUlIY2U2cGt2Y2xvTERhUEJpV2NaVjBTUWhYNHpjdXNzUEVkRXpzSFFmNzJlSFV4RHUtREhkaEVab3V3elNueUt2Zjc1TmF2dTU4S1A2OEtpNEs5OWtZZXpoTHBwakJ4OW5qT0ctRjdKREpLRGxXNXdqRDhMa3RFVEw2RUJTSGp4VDhwNHo?oc=5"
+ },
+ {
   "id": "e4cb2bee4f",
   "datum": "2022-01-13",
   "tijd": "08:00",
@@ -56622,6 +56758,26 @@
   ],
   "samenvatting": "‘Corrupte agent’ aangehouden na grootste Nederlandse opsporingsonderzoek ooit AD.nl",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTUwV0R3YU41cXdwQ0x0ZUI5czhHMWUweUR6MjJSX056aThqZHZFQlZVRmE5Z2x0QkJObGlCYmVzTHRUeVFKWWNYTWp5azdxQXJLZW5WcXQ0N1JjMG9HTWYtajNndVRxUms1V2huWHRsREhKYkhPeGYxdEJOMV9YeEFFZVdTMzJhcXRHRTRKOENWa0ZqcE9kTFNWN3N3RTVROGRnVElHODVYc0cwb0JHZnRwM0U?oc=5"
+ },
+ {
+  "id": "03acc89992",
+  "datum": "2021-03-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "NRA-onderzoek: Drugshandel, corruptie en omkoping hoogste dreigingen voor Suriname",
+  "bron": "Dagblad Suriname",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie",
+   "omkoping"
+  ],
+  "samenvatting": "NRA-onderzoek: Drugshandel, corruptie en omkoping hoogste dreigingen voor Suriname Dagblad Suriname",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0VDa3RNOEZIa0J2cmw2ZWJTV0JwOFY4cExTeW5fTERVZ3FWRTNLTGd5MDRNdlNfLWs4aHJoaU82TDZwVjVBMTF6dUxpaWcxVUl5QnBkS2M2ZHJMTkJNVzZoTHlwNFFqUzJOdGpuT0tXMXp0ZjNZNDMzeFl3ZC1wb2xKWGhOWUxaTUV4Q0dubGxrT09VNXA1Ty0xYmNKT3JWenJQQ01sMG5fd0N1enAxZGt6U2tHbXNPUWFF?oc=5"
  },
  {
   "id": "8b72b862a3",
@@ -62836,6 +62992,23 @@
   ]
  },
  {
+  "id": "67ff26ac0e",
+  "datum": "2009-09-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hessenpoort veiliger met camerasysteem",
+  "bron": "1Zwolle",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [],
+  "samenvatting": "Hessenpoort veiliger met camerasysteem 1Zwolle",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGwxd05qWDBFLW9Jd0pvZVJDekRZSkowT2RseE1rc2JaZjJfbEY5Vjl4RW8yRzhLTEh6ZVZRaVlmYzZER3VuTW9jOExoaG9kb0FVZEg1LTJNenFVczhjanE4ZG1NRGlVRUVOUEhiLUVvVzFxNG9abUREZUdyQ0E2cQ?oc=5"
+ },
+ {
   "id": "55d3bec3ce",
   "datum": "2009-03-04",
   "tijd": "08:00",
@@ -62891,6 +63064,25 @@
   "dossiers": [
    "Vastgoed & huisvesting"
   ]
+ },
+ {
+  "id": "96b09b4c74",
+  "datum": "2008-05-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drie Rotterdamse notarissen aangehouden",
+  "bron": "NU",
+  "verzameld_via": "Nieuws — Vastgoed & huisvesting",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "notaris"
+  ],
+  "samenvatting": "Drie Rotterdamse notarissen aangehouden NU",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ01rSkpyck5LZGlfVlNMalhpSDJpNllkTjdYUDl1TFNuSzF4SXVEMng0R2lLczZNY0pMZERQMUl6UllQaVF0M1J1OHBvY3dzVmtKLVF3RHd0b0ZUMS1rQUNWR0J6S0wybVRIUDNMeGEzYV9ndDBNNUpaQVo1dmIteHE3VlJVQQ?oc=5"
  },
  {
   "id": "a9f869ab93",

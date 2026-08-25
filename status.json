@@ -1,8 +1,8 @@
 {
- "run": "20:06",
+ "run": "21:16",
  "datum": "2026-08-25",
- "nieuw": 4,
- "totaal": 3343,
+ "nieuw": 10,
+ "totaal": 3353,
  "bronnen": [
   {
    "naam": "Nieuws — Drugsproductie & labs",
@@ -10,7 +10,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 34,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -45,8 +45,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 83,
-   "status": "bij",
+   "items": 85,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -99,8 +99,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 53,
-   "status": "bij",
+   "items": 54,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -117,8 +117,8 @@
    "url": "news.google.com/rss/search?q=vastgoedfraude%20OR%20%22ondermijning%20vas",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 38,
-   "status": "bij",
+   "items": 39,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -226,7 +226,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 47,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -244,7 +244,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 102,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -279,8 +279,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 21,
-   "status": "bij",
+   "items": 22,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -315,8 +315,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 102,
-   "status": "bij",
+   "items": 103,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -369,8 +369,8 @@
    "url": "news.google.com/rss/search?q=%22weerbare%20ondernemers%22%20OR%20bedrijv",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 30,
-   "status": "bij",
+   "items": 31,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -423,8 +423,8 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 145,
-   "status": "bij",
+   "items": 146,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -441,8 +441,8 @@
    "url": "news.google.com/rss/search?q=site:wodc.nl+OR+%22WODC%22+ondermijning+OR+",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 147,
-   "status": "bij",
+   "items": 148,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -460,7 +460,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 13,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -567,8 +567,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 28,
-   "status": "bij",
+   "items": 29,
+   "status": "1 nieuw",
    "ok": true
   }
  ]
