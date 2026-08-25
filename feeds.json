@@ -32,6 +32,7 @@
   "bronnen": [
     {
       "naam": "Zoekfeed — ondermijning",
+      "taal": "nl",
       "url": "https://news.google.com/rss/search?q=ondermijning&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
@@ -43,6 +44,7 @@
     },
     {
       "naam": "Zoekfeed — ondermijnende criminaliteit",
+      "taal": "nl",
       "url": "https://news.google.com/rss/search?q=%22ondermijnende+criminaliteit%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
@@ -54,6 +56,7 @@
     },
     {
       "naam": "Zoekfeed — witwassen",
+      "taal": "nl",
       "url": "https://news.google.com/rss/search?q=witwassen+OR+%22criminele+geldstromen%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
@@ -65,6 +68,7 @@
     },
     {
       "naam": "Zoekfeed — drugslab",
+      "taal": "nl",
       "url": "https://news.google.com/rss/search?q=drugslab+OR+drugslaboratorium+OR+drugsdumping&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
@@ -76,6 +80,7 @@
     },
     {
       "naam": "Zoekfeed — Bibob & bestuurlijke aanpak",
+      "taal": "nl",
       "url": "https://news.google.com/rss/search?q=Bibob+OR+%22bestuurlijke+aanpak%22+OR+%22pand+gesloten+burgemeester%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
@@ -87,6 +92,7 @@
     },
     {
       "naam": "Zoekfeed — criminele inmenging & jeugd",
+      "taal": "nl",
       "url": "https://news.google.com/rss/search?q=%22criminele+inmenging%22+OR+%22criminele+jeugdgroepen%22+OR+%22jonge+aanwas%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
@@ -98,6 +104,7 @@
     },
     {
       "naam": "Zoekfeed — corruptie & integriteit",
+      "taal": "nl",
       "url": "https://news.google.com/rss/search?q=corruptie+ambtenaar+OR+omkoping+OR+%22integriteit+ambtenaren%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
@@ -109,6 +116,7 @@
     },
     {
       "naam": "Zoekfeed — haven & uithalers",
+      "taal": "nl",
       "url": "https://news.google.com/rss/search?q=uithalers+OR+%22haven+drugs%22+OR+%22containerterminal+drugs%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
@@ -120,6 +128,7 @@
     },
     {
       "naam": "Zoekfeed — vastgoed & fraude",
+      "taal": "nl",
       "url": "https://news.google.com/rss/search?q=vastgoedfraude+OR+%22ondermijning+vastgoed%22+OR+%22huisjesmelker+criminaliteit%22&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
@@ -131,6 +140,7 @@
     },
     {
       "naam": "Zoekfeed — mensenhandel & arbeidsuitbuiting",
+      "taal": "nl",
       "url": "https://news.google.com/rss/search?q=mensenhandel+OR+arbeidsuitbuiting&hl=nl&gl=NL&ceid=NL:nl",
       "methode": "Zoekfeed",
       "ritme": "1 uur",
@@ -142,6 +152,7 @@
     },
     {
       "naam": "Zoekfeed — organised crime (Engels)",
+      "taal": "en",
       "url": "https://news.google.com/rss/search?q=%22organised+crime%22+Netherlands+OR+Dutch&hl=en-GB&gl=GB&ceid=GB:en",
       "methode": "Zoekfeed",
       "ritme": "6 uur",
@@ -153,6 +164,7 @@
     },
     {
       "naam": "Rijksoverheid",
+      "taal": "nl",
       "urls": [
         "https://feeds.rijksoverheid.nl/nieuws.rss",
         "https://news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22ondermijnende+criminaliteit%22&hl=nl&gl=NL&ceid=NL:nl"
@@ -166,6 +178,7 @@
     },
     {
       "naam": "Politie",
+      "taal": "nl",
       "urls": [
         "https://news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR+witwassen&hl=nl&gl=NL&ceid=NL:nl"
       ],
@@ -178,6 +191,7 @@
     },
     {
       "naam": "Openbaar Ministerie",
+      "taal": "nl",
       "urls": [
         "https://news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liquidatie&hl=nl&gl=NL&ceid=NL:nl"
       ],
@@ -190,6 +204,7 @@
     },
     {
       "naam": "WODC",
+      "taal": "nl",
       "urls": [
         "https://news.google.com/rss/search?q=site:wodc.nl+OR+%22WODC%22+ondermijning+OR+criminaliteit&hl=nl&gl=NL&ceid=NL:nl"
       ],
@@ -202,6 +217,7 @@
     },
     {
       "naam": "Tweede Kamer",
+      "taal": "nl",
       "urls": [
         "https://news.google.com/rss/search?q=site:tweedekamer.nl+ondermijning+OR+%22Kamervragen+ondermijning%22&hl=nl&gl=NL&ceid=NL:nl"
       ],
@@ -214,6 +230,7 @@
     },
     {
       "naam": "RIEC / CCV / gemeenten",
+      "taal": "nl",
       "urls": [
         "https://news.google.com/rss/search?q=RIEC+OR+%22aanpak+ondermijning%22+gemeente&hl=nl&gl=NL&ceid=NL:nl"
       ],
@@ -227,6 +244,7 @@
     },
     {
       "naam": "Crossref — ondermijnende criminaliteit",
+      "taal": "en",
       "url": "https://api.crossref.org/works?query.bibliographic=ondermijnende+criminaliteit+Nederland&rows=40&sort=published&order=desc&select=title,URL,issued,created,container-title,author,abstract&mailto=archief@users.noreply.github.com",
       "formaat": "crossref",
       "methode": "API",
@@ -238,6 +256,7 @@
     },
     {
       "naam": "Crossref — organized crime Netherlands",
+      "taal": "en",
       "url": "https://api.crossref.org/works?query.bibliographic=organized+crime+Netherlands&rows=40&sort=published&order=desc&select=title,URL,issued,created,container-title,author,abstract&mailto=archief@users.noreply.github.com",
       "formaat": "crossref",
       "methode": "API",
@@ -249,6 +268,7 @@
     },
     {
       "naam": "Crossref — money laundering",
+      "taal": "en",
       "url": "https://api.crossref.org/works?query.bibliographic=money+laundering+Netherlands&rows=40&sort=published&order=desc&select=title,URL,issued,created,container-title,author,abstract&mailto=archief@users.noreply.github.com",
       "formaat": "crossref",
       "methode": "API",
@@ -260,6 +280,7 @@
     },
     {
       "naam": "OpenAlex — organised crime governance",
+      "taal": "en",
       "url": "https://api.openalex.org/works?search=organised%20crime%20local%20government%20Netherlands&sort=publication_date:desc&per-page=40",
       "formaat": "openalex",
       "methode": "API",
@@ -271,6 +292,7 @@
     },
     {
       "naam": "OpenAlex — drug production & trafficking",
+      "taal": "en",
       "url": "https://api.openalex.org/works?search=synthetic%20drug%20production%20trafficking%20Netherlands&sort=publication_date:desc&per-page=40",
       "formaat": "openalex",
       "methode": "API",
@@ -282,6 +304,7 @@
     },
     {
       "naam": "NOS — binnenland",
+      "taal": "nl",
       "url": "https://feeds.nos.nl/nosnieuwsbinnenland",
       "methode": "RSS",
       "ritme": "1 uur",
@@ -291,6 +314,7 @@
     },
     {
       "naam": "Follow the Money",
+      "taal": "nl",
       "url": "https://www.ftm.nl/feed",
       "methode": "RSS",
       "ritme": "1 uur",
@@ -300,6 +324,7 @@
     },
     {
       "naam": "Europol — newsroom",
+      "taal": "en",
       "url": "https://www.europol.europa.eu/rss.xml",
       "methode": "RSS",
       "ritme": "6 uur",
@@ -309,6 +334,7 @@
     },
     {
       "naam": "Eurojust — news",
+      "taal": "en",
       "url": "https://www.eurojust.europa.eu/rss.xml",
       "methode": "RSS",
       "ritme": "1 dag",
@@ -318,6 +344,7 @@
     },
     {
       "naam": "Omroep Brabant",
+      "taal": "nl",
       "url": "https://www.omroepbrabant.nl/rss",
       "methode": "RSS",
       "ritme": "1 uur",
@@ -327,6 +354,7 @@
     },
     {
       "naam": "Rijnmond",
+      "taal": "nl",
       "url": "https://www.rijnmond.nl/rss/nieuws",
       "methode": "RSS",
       "ritme": "1 uur",
@@ -336,6 +364,7 @@
     },
     {
       "naam": "Omroep Gelderland",
+      "taal": "nl",
       "url": "https://www.omroepgelderland.nl/rss",
       "methode": "RSS",
       "ritme": "1 uur",
@@ -345,6 +374,7 @@
     },
     {
       "naam": "Limburg & Zuid-Nederland",
+      "taal": "nl",
       "urls": [
         "https://news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente)+ondermijning+OR+drugslab+OR+witwassen&hl=nl&gl=NL&ceid=NL:nl"
       ],

@@ -18,7 +18,7 @@ import re
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 from pathlib import Path
@@ -88,6 +88,30 @@ def datum_van(ruw: str):
         except ValueError:
             continue
     return None
+
+
+def geldige_datum(datum):
+    """Databanken leveren soms onmogelijke jaartallen (2107, 1900). Die negeren we."""
+    nu = datetime.now(timezone.utc)
+    if datum is None:
+        return nu
+    if datum.tzinfo is None:
+        datum = datum.replace(tzinfo=timezone.utc)
+    if datum > nu + timedelta(days=2) or datum.year < 1995:
+        return nu
+    return datum
+
+
+def taal_van(tekst: str) -> str:
+    """Grove taalherkenning voor bronnen die geen taal opgeven."""
+    woorden = set(re.findall(r"[a-zà-ü]+", tekst.lower()))
+    nl = len(woorden & {"de", "het", "een", "van", "en", "voor", "met", "bij", "niet", "wordt", "zijn", "naar", "over", "aan"})
+    en = len(woorden & {"the", "of", "and", "for", "with", "that", "was", "have", "this", "from", "are", "which"})
+    if nl > en:
+        return "nl"
+    if en > nl:
+        return "en"
+    return "nl"
 
 
 def uit_feed(rauw: bytes):
@@ -220,7 +244,8 @@ def main() -> None:
                     if kop and len(achter) < 40:
                         titel, uitgever = kop, achter
 
-                wanneer = datum or datetime.now(timezone.utc)
+                wanneer = geldige_datum(datum)
+                taal = bron.get("taal") or taal_van(titel + " " + samenvatting)
                 bestaand.append(
                     {
                         "id": sleutel,
@@ -232,6 +257,7 @@ def main() -> None:
                         "verzameld_via": bron["naam"],
                         "soort": bron.get("soort", "Nieuwsbericht"),
                         "regio": bron.get("regio", "Onbekend"),
+                        "taal": taal,
                         "tags": bron.get("tags", []) + treffers[:3],
                         "samenvatting": samenvatting[:400],
                         "citaat": samenvatting[:500] or titel,
