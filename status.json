@@ -1,8 +1,8 @@
 {
- "run": "00:01",
+ "run": "03:41",
  "datum": "2026-08-26",
- "nieuw": 3,
- "totaal": 3369,
+ "nieuw": 40,
+ "totaal": 3409,
  "bronnen": [
   {
    "naam": "Nieuws — Drugsproductie & labs",
@@ -10,7 +10,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 35,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -27,8 +27,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 108,
-   "status": "bij",
+   "items": 141,
+   "status": "33 nieuw",
    "ok": true
   },
   {
@@ -45,8 +45,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 85,
-   "status": "bij",
+   "items": 86,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -63,8 +63,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 25,
-   "status": "bij",
+   "items": 27,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -315,7 +315,7 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 104,
+   "items": 105,
    "status": "1 nieuw",
    "ok": true
   },
@@ -405,8 +405,8 @@
    "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 99,
-   "status": "bij",
+   "items": 100,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -423,8 +423,8 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 146,
-   "status": "bij",
+   "items": 147,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -451,7 +451,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 31,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -558,8 +558,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 46,
-   "status": "bij",
+   "items": 47,
+   "status": "1 nieuw",
    "ok": true
   },
   {
