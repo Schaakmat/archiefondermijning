@@ -1,8 +1,8 @@
 {
- "run": "03:41",
+ "run": "06:01",
  "datum": "2026-08-26",
- "nieuw": 40,
- "totaal": 3409,
+ "nieuw": 29,
+ "totaal": 3438,
  "bronnen": [
   {
    "naam": "Nieuws — Drugsproductie & labs",
@@ -27,8 +27,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 141,
-   "status": "33 nieuw",
+   "items": 159,
+   "status": "18 nieuw",
    "ok": true
   },
   {
@@ -46,7 +46,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 86,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -63,8 +63,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 27,
-   "status": "2 nieuw",
+   "items": 28,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -279,8 +279,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 22,
-   "status": "bij",
+   "items": 23,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -316,7 +316,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 105,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -406,7 +406,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 100,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -424,7 +424,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 147,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -441,8 +441,8 @@
    "url": "news.google.com/rss/search?q=site:wodc.nl+OR+%22WODC%22+ondermijning+OR+",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 148,
-   "status": "bij",
+   "items": 149,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -450,8 +450,8 @@
    "url": "news.google.com/rss/search?q=RIEC+OR+LIEC+OR+%22Centrum+voor+Criminalite",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 31,
-   "status": "bij",
+   "items": 32,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -459,8 +459,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 13,
-   "status": "bij",
+   "items": 14,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -486,8 +486,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 16,
-   "status": "bij",
+   "items": 18,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -495,8 +495,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 9,
-   "status": "bij",
+   "items": 10,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -504,8 +504,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 12,
-   "status": "bij",
+   "items": 13,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -531,8 +531,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 4,
-   "status": "bij",
+   "items": 5,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -558,7 +558,7 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 47,
+   "items": 48,
    "status": "1 nieuw",
    "ok": true
   },

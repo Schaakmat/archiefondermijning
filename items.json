@@ -467,7 +467,7 @@
   "id": "cffafcb0e1",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "INTRODUCTION",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -483,7 +483,7 @@
   "id": "7d285ca420",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Notes",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -499,7 +499,7 @@
   "id": "ed7f6f4ff0",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "3 Virtual Realities, Real Phenomenologies: Being at Odds Through Ricardo Piglia",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -515,7 +515,7 @@
   "id": "c7e978eb3d",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Acknowledgments",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -531,7 +531,7 @@
   "id": "8f2fafc171",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "CHAPTER 2 Becoming Criminal",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -547,7 +547,7 @@
   "id": "99018660ce",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "6: The Verdict",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -563,7 +563,7 @@
   "id": "8366904b21",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bibliography",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -579,7 +579,7 @@
   "id": "5da3ac79d8",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "3 Contextualizing Digital Witnessing",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -595,7 +595,7 @@
   "id": "570e68739e",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "2. Riot Acts, 1967– 1974",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -611,7 +611,7 @@
   "id": "49b226cae5",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "CHAPTER 5 Cybercrimes and Chinese Cultural Relics",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -627,7 +627,7 @@
   "id": "fa196c59df",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Frontmatter",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -1248,6 +1248,132 @@
   "dossiers": []
  },
  {
+  "id": "a84eaec9d3",
+  "datum": "2026-08-26",
+  "tijd": "06:59",
+  "nieuw": false,
+  "titel": "Zeker twaalf gevallen van kindermarteling in Nederland: 'Het is een blinde vlek'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "jeugd",
+   "organisatie",
+   "school",
+   "wapen"
+  ],
+  "samenvatting": "Soms komt een situatie aan het licht waarbij een kind verschrikkelijk is behandeld. Het pleegmeisje uit Vlaardingen of twee mishandelde kinderen in Stadskanaal zijn daar voorbeelden van. Het zijn uitzonderingen, maar uit onderzoek van de NOS blijkt dat het de afgelopen jaren meer dan tien keer is voorgekomen. Het gaat ",
+  "link": "https://nos.nl/l/2628332"
+ },
+ {
+  "id": "a6665491e9",
+  "datum": "2026-08-26",
+  "tijd": "04:51",
+  "nieuw": false,
+  "titel": "Fiod en politie verrichten doorzoekingen in onderzoek naar drugsinvoer en witwassen",
+  "bron": "rodi.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Fiod en politie verrichten doorzoekingen in onderzoek naar drugsinvoer en witwassen rodi.nl",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3B3aWpabDlKSGdIdGpTcWRlUnc4RFIxOGtQem52WHgwdDFBNjNaVEdKMHgwZHN2bmNzZnlkcUJtbUp2NXNWSnhLNmo2S0JjRVhVeGFXQlhFOVNmWFNfbWczYm96WVpfNVM1ZkxTdi0ycUxDVWdEM093RjRSeHNuVU1kTVhzLVNxXy1qSkFOZmlSVWswSWpBeHo2dk1BLWFzZ05yd1NFNXMwcTNoRkstQ2JGX3pIV3BURmllc2RUZjVtVnVfaDFjRA?oc=5"
+ },
+ {
+  "id": "91472150a3",
+  "datum": "2026-08-26",
+  "tijd": "04:39",
+  "nieuw": false,
+  "titel": "112 Nieuws: politie onderzoekt brandstichting bij woning in Kampen",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van woensdag 26 augustus.",
+  "link": "https://www.oost.nl/nieuws/3688369/112-nieuws-politie-onderzoekt-brandstichting-bij-woning-in-kampen"
+ },
+ {
+  "id": "4a685b1bc6",
+  "datum": "2026-08-26",
+  "tijd": "04:26",
+  "nieuw": false,
+  "titel": "Mogelijk drugslab gevonden • roeiers gered",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Het actuele 112-nieuws uit Gelderland van deze dag bundelen we in een liveblog. Je leest en ziet hier een overzicht van ongelukken, branden, vermissingen en misdrijven in onze provincie.",
+  "link": "https://www.gld.nl/nieuws/8513089/mogelijk-drugslab-gevonden-roeiers-gered"
+ },
+ {
+  "id": "93d7ebbe37",
+  "datum": "2026-08-26",
+  "tijd": "04:00",
+  "nieuw": false,
+  "titel": "Yes We Can Clinics zet oud-cliënt Noa in om nieuwe klachten te voorkomen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jeugd",
+   "jongeren",
+   "leider"
+  ],
+  "samenvatting": "Yes We Can Clinics in Hilvarenbeek neemt maatregelen om nieuwe klachten te voorkomen. De kliniek voor jongeren met een verslaving of psychische problemen kwam dit voorjaar in opspraak, nadat tientallen cliënten vertelden dat ze tijdens hun behandeling zijn vernederd en gekleineerd. Noa, een van die voormalig cliënten, ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024300/yes-we-can-clinics-zet-oud-client-noa-in-om-nieuwe-klachten-te-voorkomen"
+ },
+ {
+  "id": "99e47a7a3b",
+  "datum": "2026-08-26",
+  "tijd": "03:53",
+  "nieuw": false,
+  "titel": "Verkeersruzie loopt uit de hand: man bedreigt automobilist met knuppel",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Trustkantoren & rechtspersonen",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "bestuurder",
+   "wapen"
+  ],
+  "samenvatting": "Een verkeersruzie in Oudenbosch is nogal uit de hand gelopen. Een 28-jarige man uit Polen heeft dinsdag na een aanrijding de andere automobilist bedreigd met een honkbalknuppel. De man is aangehouden en bleek onder invloed van alcohol en met een ingevorderd rijbewijs te rijden. De politie kreeg dinsdag een melding van ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024339/verkeersruzie-loopt-uit-de-hand-man-bedreigt-automobilist-met-knuppel"
+ },
+ {
   "id": "e0e43f2cd2",
   "datum": "2026-08-25",
   "tijd": "21:48",
@@ -1267,6 +1393,27 @@
   ],
   "samenvatting": "Als er niemand wordt opgepakt na het vuurwerkincident tijdens de wedstrijd van Feyenoord tegen Cambuur van afgelopen zondag dan is het Feyenoordpubliek niet welkom in Nijmegen dat zegt burgemeester Hubert Bruls van Nijmegen in het tv-programma Goedenavond Nederland van WNL",
   "link": "https://www.rijnmond.nl/nieuws/2244116/zonder-aanhoudingen-geen-feyenoordsupporters-welkom-in-nijmegen-voor-duel-met-nec"
+ },
+ {
+  "id": "80994fc9dd",
+  "datum": "2026-08-25",
+  "tijd": "21:48",
+  "nieuw": false,
+  "titel": "'Zonder aanhoudingen geen Feyenoord-supporters welkom in Nijmegen voor duel met NEC'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "vuurwerk"
+  ],
+  "samenvatting": "Als er niemand wordt opgepakt na het vuurwerkincident tijdens de wedstrijd van Feyenoord tegen Cambuur van afgelopen zondag, dan is het Feyenoord-publiek niet welkom in Nijmegen. Dat zegt burgemeester Hubert Bruls van Nijmegen in het tv-programma Goedenavond Nederland van WNL.",
+  "link": "https://www.rijnmond.nl/nieuws/2244116/zonder-aanhoudingen-geen-feyenoord-supporters-welkom-in-nijmegen-voor-duel-met-nec"
  },
  {
   "id": "9b20fde4e6",
@@ -1385,8 +1532,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Vastgoed & huisvesting",
-   "Witwassen & geldstromen"
+   "Witwassen & geldstromen",
+   "Vastgoed & huisvesting"
   ],
   "tags": [
    "witwassen",
@@ -6844,6 +6991,25 @@
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOejRPZHVKRXFvNS1DVU83dmNSM0tqSTh4QjRPMFFDOTJDNlZDZDdkQ19wUFlPZWFWWGthS21LYnZjX2pvUk5FZVluTlpoN2NMcVROREVfV3NnM3JNb3ZmNldqclVveWxMSWlPU3l3U1EyaVRobkgxYTBCenJiUUphbklvVUxFaUNmSUl1d281bGFRa1NvYllPZFQ5TTY5UQ?oc=5"
  },
  {
+  "id": "e17cd1864d",
+  "datum": "2026-08-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Waterlekkage verraadt hennepkwekerij met 456 planten in Crabbehof",
+  "bron": "DordtCentraal",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Waterlekkage verraadt hennepkwekerij met 456 planten in Crabbehof DordtCentraal",
+  "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyYzhZWVV6NVBCWDZmTDBLY1VZVVY4VWU2TTBfNFdLSVJ1NUQ1UWM3dW5TenBXNzRpNndGbFQ1ZV9WWmNzWUVtVmln?oc=5"
+ },
+ {
   "id": "625b229e4e",
   "datum": "2026-08-14",
   "tijd": "05:02",
@@ -8122,8 +8288,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Hennep & wietteelt"
+   "Hennep & wietteelt",
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
    "burgemeester",
@@ -8944,6 +9110,28 @@
   ],
   "samenvatting": "Zaanstad sluit wederom een woning na vondst hennepkwekerij en illegale stroomaansluiting Noordhollands Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSHktem5fUVptVnBPTmU4RXRmRVhvbkQ3WXNjdmdWZWd2eFJmd1Q4aS1WTjdIZzlydE56eTc2dzRscGlGYzEtc0NHWUdwT1pySThQLTFPaHdBenREcmozZG9ZWk5lbWV2WVBOUGJxdUdGS2JqNXA1ZzNWWnRIT1JOVUJheTVXUUpLcnNzNzF6dzJOVW5obi00VFhvblQ3M05ibVBOT0tqUzllYkw3VXJqNjUyckVmVU5lemRKazFFU0ZiSFRTd0xzYzhrV3lQWWJrQ2dTWjlodjFyY1Zxek9zeWtPa3M4eXdLbUUtaUtBTjZSTzl5WGxpS0IyUWlsaVBqSEwzZ25FcF8?oc=5"
+ },
+ {
+  "id": "40f462a24b",
+  "datum": "2026-07-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Eén vonk verwijderd van een ramp: Zaandamse woning dicht na illegale hennepkwekerij",
+  "bron": "rodi.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "woning"
+  ],
+  "samenvatting": "Eén vonk verwijderd van een ramp: Zaandamse woning dicht na illegale hennepkwekerij rodi.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXI2TlpKVS1najBYWE9ualVLMUlJQllpaHBaSkYyNUNIVVE1eV91NTRJWFV1R1RlaEdiXzBkd2JEbFlSWTlyc0R1VUtDQ3JwNk5xQURPa29fUS0zWlhjNG8zdUdlY3loRTRJSlJmMTRDRG4zRURnQW5hTTlSWXlMTlZjM3U5dDJlbzN5cmR2NDJqNENxeXVGWnQ0NW8waC1QZ3l0ZTFJZldPTUsxTnk5VFEtVG9ZWnFVeWZNRVJOTldVU2M?oc=5"
  },
  {
   "id": "38c0763209",
@@ -12178,6 +12366,25 @@
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNE5ZdTFyc3lIMFlkbDd0TnlUR1pJOTFzMTlidHJaNTBtUHFQWS0wY2NHLUN4Q3ZLRTVyLU95MlB3THhNY1ZFQ1B3bko3X09UdGpfWi1UMzJXLXVnLVBKaVdRRnFMZkF4bVdVQ0h4VU1CRERQZ09YS2p4NXVib2UwRFAwbEdJWjRTS3UzX3lxQV8?oc=5"
  },
  {
+  "id": "d9a00e4b5c",
+  "datum": "2026-07-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij ontmanteld na anonieme melding",
+  "bron": "RTV Dordrecht",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij ontmanteld na anonieme melding RTV Dordrecht",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDJHLUZUakVBMEowUFVNcHAwaXo1MWFrWEpxX2JRQzdiR2xFeGxpa2tfTFlQZEdlTjR0Y1ZSTktPZm5wN1JZd1lpZUpfLTN3NHV3cG5MUmpPZE1rQnV3WDRKTk1abVpSSTBUUEc2YTdUMWVvR3Nva0J5bWs5Z2pFTGltU2ZsWlk?oc=5"
+ },
+ {
   "id": "a5206c70d3",
   "datum": "2026-07-09",
   "tijd": "00:00",
@@ -12453,6 +12660,26 @@
   "dossiers": []
  },
  {
+  "id": "4b547d2fcf",
+  "datum": "2026-07-06",
+  "tijd": "12:27",
+  "nieuw": false,
+  "titel": "Ook alle apparatuur die voor de hennepkwekerij in het huis in Kaatsheuvel lag, wordt vernietigd door de politie.",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Ook alle apparatuur die voor de hennepkwekerij in het huis in Kaatsheuvel lag, wordt vernietigd door de politie. Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeGQyanlTT28xWVhiRmtNS3dpYzk1VnY2TzYxZ01yYThSS05xdUhnX3g4NWtOdkxtcjF6Zk9OOFFnM3FYYVFSajY4X1ZQTzlZdEJjaXJRUHBHdnpBQ0hXVmZaTm5GMDJteURieFhqVkhSdDNBaXJoS2E4ZksybmRmUk82dllISEw5T29KOHhGdVVqc190OGptQ0tCbmFaYUM5ekxHejZQbDNjT19MZ1hpTzhnNEg2Z2VKNEFPSWRHWm1LbkJ1cHVIQl9FRlc1Y2NRYjFzNXVyZWRjc2lj?oc=5"
+ },
+ {
   "id": "e03167b0c6",
   "datum": "2026-07-06",
   "tijd": "07:00",
@@ -12565,6 +12792,26 @@
   ],
   "samenvatting": "Politie vindt hennepkwekerij in Kaatsheuvel, illegaal stroom afgetapt Langstraat Media",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYm9tei16akw1UEdCUDBNck9aSnZpZGhnN0FJay1zT2lYMzVrRzBocFpGUkpjVUtEZTJhdktzRjhRYmhXSW0xekU3MnpLcmwyNEk1aDNrYUZMM2VJN0RmMktZWW55bW1XMFdMRWZIZXpEblA3dmRPbUlVcDFzMjFiOHhzZ2ZGMnJiVHdfdVVMZ0x0N2IyM2NWbGdpMTk?oc=5"
+ },
+ {
+  "id": "9f66ce53a8",
+  "datum": "2026-07-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij aangetroffen in huis in Kaatsheuvel, vermoedelijk ook illegaal stroom afgetapt",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij aangetroffen in huis in Kaatsheuvel, vermoedelijk ook illegaal stroom afgetapt Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWl9RY1Z5Vlo2cFB3N0hOc0tMdUViMWJwdXNmV1Z4b2Vkdkh4VkQ5Y3ZLbzYwZ3hEaF9GRXNWZ2c5T2JTX1JGcG5JY1lDTHY1OUJfdFNvY012YXFjMVg4N0pvbFRVTVNWOWZiNHlPbkFDWFpXVUFYMEFYQzN6N3JnWk5mdTE4RW9BVHhnR0QxWk53WV9XOGZyRVhabVU0b3EzOV9pVmxGWHo0VEhrR0hrTk9lX09oZV84TkJucmFtVjUxZ0J6QzBINQ?oc=5"
  },
  {
   "id": "eaafd2c12e",
@@ -13243,6 +13490,26 @@
   ],
   "samenvatting": "’Nederlandse verdachte van liquidatie in Keulen aangehouden’ De Telegraaf",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWlluNTRZRFcwYkgtYnBsX1E2c0llSXJzQ1N2OUhNTmhaaDlENUZ6bVVXRmNTM2l5WGpOeDlEc0pvRkNIZi01aWUwTTB6X1E0RC1vci1FVUtqT2dydjBqTlNvRkxJT2JaSHNRRHlpU2hCc1owcDZUdFBwcmFIQXktZjJrSnFacXloLWZwQ0NKdm5wYUxoNjZCTFNfcFhMR1JWUlhaRlQwOXlVN05Sbnc?oc=5"
+ },
+ {
+  "id": "3afe06f0d3",
+  "datum": "2026-07-01",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij in Almere opgerold: 500 planten in beslag genomen",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij in Almere opgerold: 500 planten in beslag genomen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDZGZVB3MENzMmVxZ2Y5SzF0dkwzNDRzeGNEMDhuOHNTbGdVN0ZZQkdGOHBoV0VxUE5DX2ZMMkpZVGtrUWVPNm5TaUhxVWIzMmVfeXI5RjIxY0RCUEVORFB4UWkwSW96WnpmS1ljT2N0eDNvU241aFhSOFo5M1ZrUzlPNFJ3WEdLZXp5RzMxX3gyeGRIRWVIc3h2Yzh2U0U?oc=5"
  },
  {
   "id": "cc73f060f5",
@@ -14002,6 +14269,69 @@
   ],
   "samenvatting": "Team dat zorgfraude onderzoekt opgeheven bij Inspectie, terwijl regulier toezicht signalen niet oppakt: 'Inspecteurs worden misleid door malafide zorgaanbieders' EenVandaag",
   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNSW04MHNXWDUxY0tIVWZteEM0Y284VnV3RmtxWlpSbjl1TF9saVB6aXpBTXhfNVZQUS1GQnljc05NMjd3M2drcW5pREZ6WDJlenF2cWFROGZ5aVlBTzZzWFhkdEl5bDFNNzZ3YlNPbWtHTG16VjNHQ1ZiVlpaV3JtRXJtNkJTZEdtZ0E4S3FRZWpqU0JOTUw5bWpnZmZmTWYwLWI1dEhGbUdSVFpqZ0dQYm5Qai1uYl9JbFRuclA3Rk93ZGg1c0FPczR6dVJaN19hUDhLOVhOTW4wMWdSUkU2RGZ3LV9abkVoenBYOHZKa3NBTVI0alJvaVhhMV83Z3J0RTFpcWg0T0NtSGhHTzkxRUVlV2ZoVkNRU3dxbGFzbnZpVnhuQkdUYUZPUFVvQQ?oc=5"
+ },
+ {
+  "id": "53c3ede56b",
+  "datum": "2026-06-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Controle bij panden in Purmerend die eerder zijn gesloten na vondst hennepkwekerij",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "pand"
+  ],
+  "samenvatting": "Controle bij panden in Purmerend die eerder zijn gesloten na vondst hennepkwekerij Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcW1EamcwTkxFVGw0dGEtc0JOQnlDUW9NdGxqMkFXNF9oVGNzdXlveHEySk1qdTA2cUVxQzV4YWZiX1NSRGRMY0M0QVNoN0NXVTBEc052QVRrMUNla3N5Wk9jV0l1MUY1bVZ5aHczWkRENF85VUF3OG1KREM2eDgxM1FaZ1BHRjFmZEoxZWoza0lpNVJGa2cya19MWWQ4MWtOX3NrSURRXzdHSEZya2tOcEgtNHMxbEJkbWE5cjN5Tk5GZkJfV2V5MFlFdnU3T3UwTldUTV9yWnZaaVotcDVzdkh3SW1FYjNuUHFzeHQ2TzJVU1VPX1NnWldLRWwtU3M?oc=5"
+ },
+ {
+  "id": "fecb759c11",
+  "datum": "2026-06-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij aangetroffen bij controle op industrieterrein De Vaart",
+  "bron": "Almere DEZE WEEK",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij aangetroffen bij controle op industrieterrein De Vaart Almere DEZE WEEK",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObzJjaTlqTDdnWHJvbVI5a3h2cVlwdzlicnM5ZnFWWUJSQlEwbzJnZ2FNc2pjVnNVOUMwS2FZRHJlelE5ZXhMZ3Vkb3NXakdzMzN5RHVlcjlBZXhPamt6eXYwR1U2SHIyOHllOUtlVFJ1SzRGWENGY2VZbThyRm50QXE2c0pKWmdPV3hERTlJWU94cy1KNkl5NTlvRnFwUE5Ed05XVVdtNDlEcnRyWVVPMmV5Yw?oc=5"
+ },
+ {
+  "id": "d2745a8818",
+  "datum": "2026-06-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij ontdekt aan Van IJsendijkstraat in Purmerend: pand zes maanden gesloten",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "pand"
+  ],
+  "samenvatting": "Hennepkwekerij ontdekt aan Van IJsendijkstraat in Purmerend: pand zes maanden gesloten AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSk5EZ3haWDJpX2tJU3FaM1RNMWFuankyaEZ3RzFGUFYtdkQtaFhjako1bTFqSUl6andQTllZNW03WkZCdUFzajUxSzFoaGh6T1k2S1FTdi1RVDNSNWNzTkUtSEZMNndJMHl1Rkc5MWdkeFdQc01qcWZBZmhJR0h1dTJaRHg5RGo3X3VqWGtKbzlvUzlUbUJVTVhvektSOXlMRUU4QmJBVXFTQjdCSC0waEpJYzlZakpPOEhXeUFnNEk?oc=5"
  },
  {
   "id": "086a4403b4",
@@ -14770,6 +15100,28 @@
   "tags": [],
   "samenvatting": "ECLI:NL:RBROT:2026:7051, Rechtbank Rotterdam, 10/292081-24 Rechtspraak.nl - Zoeken in uitspraken",
   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yRHFEUXdQWjlvWGY2eDRROVFLRWJqalRna2xBaEJRdTFXVzJ1am9mblR4T3RBanVDSTd4dHdWOFFiYzZBbzZpaWJiUDd6WXVsbzFEbXAtc3BtN1hXbjJBME5EaDVBX1JZQXEyV1ZnaWg5YzROaGRB?oc=5"
+ },
+ {
+  "id": "f72d48a965",
+  "datum": "2026-06-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij ontmanteld in bedrijfspand Cruquius, één aanhouding",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "pand"
+  ],
+  "samenvatting": "Hennepkwekerij ontmanteld in bedrijfspand Cruquius, één aanhouding Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnR0UHo0LXJFdmtpc09kenVSZnZkZDV4aEs3MWVPb3ZlSnF3ajk3dlBHR0d0dVJyYUZwZXpuVmV6cVpKQVZUbW1SYXFXZHBGckJMSW5zV1hUd1p4WXBySXFUenB6aFRDSTZvNmF4T0Y1X2RNNU81cmc0RnBhNEV2NERCalFzaGtfZDlJS2RLOTZzeUtrQTNxa2pibzlmQThxZ05RSVJEZmlLYnhKZ2NGSWNFRmgzNnRUQ05sclh6enFkeUFkSnVjTENB?oc=5"
  },
  {
   "id": "8ba8d85bd3",
@@ -16006,6 +16358,30 @@
   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUFA3NmU0VnJBNlpVaTQ1eFRYeU01NlJZUmV0M1lyd3BuMU1MM25ETVB3MHphRGVuU2s0Z0MtZXF5UlduNkY5LUlwRmZKN2hvZjBhQVgweHJ1UWFNVm14R3ltNWxhTml0c0x6VmRTNU56b2RiUmVF?oc=5"
  },
  {
+  "id": "8362d2131f",
+  "datum": "2026-06-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie vindt zeecontainers vol met spullen voor groot drugslab en hennepkwekerij",
+  "bron": "Omroep Tilburg",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Drugsproductie & labs",
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "container",
+   "drugslab",
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Politie vindt zeecontainers vol met spullen voor groot drugslab en hennepkwekerij Omroep Tilburg",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXF0aEZFSjlGT3RSa2xHdmZCY0pQLTJORThtdHBzWjJESFJCTUNPTlRPOEp6clJFdGxoZXVaRDJmbHAyeUNVR1FkTTE5VlpWMmFpei1PTDJ4OTBEM1FGb1pSVjNKek9KTG96RlVMSzJ3ZVYteWJBR3hZd29SNmNmSngwX0JKR1dVR1d2Sng3aW5ZYnc1dVRkS1ZtRld0X2Q2STZEYmZkdmkzQk8xSWhEMFdGM3pFVlNjTDhVVE4wM081bGM?oc=5"
+ },
+ {
   "id": "7acf57209a",
   "datum": "2026-06-08",
   "tijd": "07:00",
@@ -16288,6 +16664,25 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUstalltSXF2eXA0QXVScGticFMxcld2MFRnNXdaN25hUzJGZTVCQ2RnVHQwX21FRVFxUGJBMEZMNXI1d0ZKaEZkTVFnXzBzeG1BU0dILVhFUlVJYU5UYVliYjZpM0NxY21BMHBGUS1xU2xwZ1RDV0NvRWVxQW9UZEhOUmptcXp5eEdPRVdIS2syRmhwNjZDeDR3R3p5ZFFTOExtc09WMVhZbk5qNlMzT2E1X1RNQU10dVFkRG5B?oc=5"
  },
  {
+  "id": "9411ecb159",
+  "datum": "2026-06-08",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij met 900 planten opgerold in Vaals",
+  "bron": "Heuvelland Vandaag",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij met 900 planten opgerold in Vaals Heuvelland Vandaag",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMWZRRUlqMTZSc21nOXF5T2RrVl9PaFM1SHU4NXlnYi1TM1NGanFrMlNkdjcxaTA0VGIza3lDX0k5b0Vyalh0S0hta3piYzlzV1RkMllqQTI2RzJyaFh1Y2FyOFJ4NmNzSk8wejFZSWY1bGpFelBpSm1KV1kzR0xuYkV3ZVV6NUpW?oc=5"
+ },
+ {
   "id": "e1af6397cf",
   "datum": "2026-06-06",
   "tijd": "07:00",
@@ -16408,6 +16803,25 @@
   "tags": [],
   "samenvatting": "Zorgondernemers van kleur voelen zich gediscrimineerd door de gemeente Enschede RTV Oost",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3pkVloxRVU4WU5TalpDVWdTWEQ0RWNWQXJDSDlNQnFYRjdHamhzak9COVRnV01LaEFldWRZS3EtLVdxeWp3RTdoYWZiQVlYTVdMQW5JeE90YnFvMmh2alQ1c1JKcFdOd0s2b0ZqR3FabUl1R01KNFFtYnNqV3VpcGd0Z3FXcVQxMU5zRkpRZEsxOHRURGpzUXlUTUtlTmowN3pNLVladDlGQV9La1liQmJBOTk?oc=5"
+ },
+ {
+  "id": "0a45626c28",
+  "datum": "2026-06-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij in kruipruimte: burgemeester zet huis op slot",
+  "bron": "rodi.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij in kruipruimte: burgemeester zet huis op slot rodi.nl",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDdKamVVX0ZNWmdLMTJXQzJIZnlhV2hHdGNWWGpCNTB6U1psRUMtWFZHWnR0X2NUTTRDU3cwTUF4NlY3aWJmRWlzTzVCeVZqVzd3ZmpOTTExbWViVjdKUDktWUVTSUNiUDFpOTRaQXUzZ2Qwa3NLdDF1OElZUndVX3hDaUMwQnV4MGZFOFRxVEx2WjVhSVdGZXFSc2p3ekJLTVUtN2g5N05IeDg?oc=5"
  },
  {
   "id": "34cfc0cf35",
@@ -17768,6 +18182,50 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "c809b8fac7",
+  "datum": "2026-05-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Woning in Sint-Annaland drie maanden gesloten na vondst hennepkwekerij",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "woning"
+  ],
+  "samenvatting": "Woning in Sint-Annaland drie maanden gesloten na vondst hennepkwekerij BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTFfQXMzOUNUVFFiWXVWaUZYV0lhMC1uS2o3Zy1FbnZSTmc2NFc4RlBUVU4wem9EN2FsNklXVk9aaWRWTl9YQUhFX3M4VVRCSk8tWkVZSDVPLUJoWWtRVm5wM2pHMDRHZlNIUDlGNlVKZUtfZE1DdGQydU9pMDRQODNoUGRUcGdJb1dZRWYwVXU5QW5QRVRxcVR2SVJGQnk3d2FsY3hIVDhrWkI3ZDhyVQ?oc=5"
+ },
+ {
+  "id": "055ba13061",
+  "datum": "2026-05-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Woning gesloten vanwege vondst hennepkwekerij",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "woning"
+  ],
+  "samenvatting": "Woning gesloten vanwege vondst hennepkwekerij AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR21aSFJDSUZibDU5VzdEWVRKMFpIWEVDT1JtZDlZMHhhd3BoTHZ3TF9zSDFDLVlOd2RGanpLSmkwQUpKZklvNHItS2Nva3NEWGVieU5nMVpHeHhyR2FLRmxwVkhkTkpHbjhxSmhXc2xmb0wtclpKY2V4NEh6eHEwTEtFc09WVWM?oc=5"
  },
  {
   "id": "5cb5313f74",
@@ -21263,6 +21721,28 @@
   ]
  },
  {
+  "id": "b2618db69c",
+  "datum": "2026-04-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zaankanter veroordeeld voor hennepteelt en bezit wapens en drugs: ’Heel gevaarlijk in een huis met een jong kind’",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "hennep",
+   "hennepteelt",
+   "wapen"
+  ],
+  "samenvatting": "Zaankanter veroordeeld voor hennepteelt en bezit wapens en drugs: ’Heel gevaarlijk in een huis met een jong kind’ Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPYlBXSjVWcU5haklNRUctRW9PZ2hfS1pKQ2l5UGZmdzJoZ1RpTHJ1OFNDM2pnbklUSTVSb0VWMm9pRWo2Mkw0VHZXNzBCdWRBVXozZmllQ0F5TjZQelJOZWZTeUpXUTRqMGh4THAxRHlMVEozbllpU0hia0RuODM1UnlEQmhCWkR3Q0FPSEFNdG0yNXprWU5Yb1haX3J5RV9aQTFWbkROV3dTeHFVMGVKbGxvRnh2ejZsejd4TTFmU2piaWRsQXJBUnlxX3BrTzlQMzBYT2s2RWlVeDYxa1VmSDBCTG9nOFg4OEpEQzVGVVp6UlZzUE1qZnphQkJNT0g3YURUUHJrN0NnWWpJdmMxV0VjMEFkTjFDT0FHNHhzVC1ad1BGNVE?oc=5"
+ },
+ {
   "id": "ef4ba00133",
   "datum": "2026-04-21",
   "tijd": "13:02",
@@ -21587,6 +22067,27 @@
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODFhTFp0SkNhZDlGcE5tY1NSWjdtWjBOQVJ6cjNpUHBjM3pnbTFISVZUcy1ySXhOQ0JMcjI4d01JQzhIUHdLOWRxdkwtVUs0UTFqa3ZkeUx6V056ektiUW5VdjFUNUJmaUFyaEhKWVhTUW1DbFo2N3Q4dDBpZHRURUViRl82NFJvdHpPbkJYT1l4ZF9ZZnFzb1huNjZzVU5L?oc=5"
  },
  {
+  "id": "c24a29db84",
+  "datum": "2026-04-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Man aangehouden na woningbrand in Amsterdam, mogelijke wietplantage speelt rol",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "wietplantage",
+   "woning"
+  ],
+  "samenvatting": "Man aangehouden na woningbrand in Amsterdam, mogelijke wietplantage speelt rol AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXI1SVpUemE4NGlINTVCb2RLNWpxdzR3RVE5ODRWVGRJUWVpd0xZeURXdmhhVVM3YzZ3RDJodjI2WUZTNmpvUVpWNy1qZlVaVGs3RVZiNTJxOXZzZFBMa28zaGEtQy1RTDFBNlFvdkVpdW5hV1VGQlRJbDhoZVozRl9JYmp1T190c1RkSkVUczU5cm1Bbnk4Qkg4NjZ5NmxSUjNXZlhleVNLbzdMMVY1RFRldThOOEpyajVGRHFxbzBDeU1J?oc=5"
+ },
+ {
   "id": "2163252b1e",
   "datum": "2026-04-17",
   "tijd": "07:00",
@@ -21719,6 +22220,25 @@
   ],
   "samenvatting": "Meerdere drugslabs opgerold, Audi afgepakt en vier mannen aangehouden bij actieweek Brabantse politie BN DeStem",
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQXV1M0ZQN1FNUzVDYTAzRFRNdDJ3QzZRZVNCejFuaU0zNGNDOUFVS0Z2WlBXd0ozeWkwa2lsdlEwcENXTk0xcG1Zb0p3cDktaVptNDNSWHBpQU9NYTl2b2tGdGhfYXAybVctZ09aSUlpamstNTBWNzB1Q2lTeU5QTURPUkw1RHBjR0h1RDhkS3BhNHVtdTd1RjJRaXNjbEo5c3FLSWNjT0tMbF83RmdVZS1zSlotMElQdVhyaGd5NUZMT0phWUZaXzRxY1NLdzNrVE5zZnFJeWVvakE?oc=5"
+ },
+ {
+  "id": "eac50913d5",
+  "datum": "2026-04-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Cel- en taakstraf voor hennepteelt, kinder- en dierenporno",
+  "bron": "OOG Groningen",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepteelt"
+  ],
+  "samenvatting": "Cel- en taakstraf voor hennepteelt, kinder- en dierenporno OOG Groningen",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMVA0ZUVmU2pyLUVSblJZaHlQVXJKSXliWmF2S3VoXzh6NWk0SHNTUEU0ZFhaVUEwTUxIeGdkNG5pWjJfQ3lFQUw5ZDVmV2JTVGxlSDhjak1OdENzaE5jNzVSTnB3QURPUUFLU0RYNEZPdm40NzlYZG1HUDdPbk0yOFNISFZZRzhQMHJpNVl3?oc=5"
  },
  {
   "id": "e943f86458",
@@ -24331,6 +24851,25 @@
   ],
   "samenvatting": "Olst-Wijhe grijpt in tegen ondermijning op bedrijventerreinen Salland1",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS0JSc0Q4MkdZUVV6OXdzSkxpR2lYcmdodk5ka3hGUDB2cUw1SGlIX1NjV3JvRW1rNTVCVTZubGw3cUtKZmZwQWxFQnlmU2ZITng0XzZ2UUt1NG1IVXVxVkdxZzl5bVAzNVJrazRoeHZNZ19BbWNsc1NDSnhPYmxPdXJNN2xmSmx1Zmpnelh4WQ?oc=5"
+ },
+ {
+  "id": "110523c1eb",
+  "datum": "2026-03-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie ontmantelt drugslab in Peer na meldingen over lozingen in riolering",
+  "bron": "VRT",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie ontmantelt drugslab in Peer na meldingen over lozingen in riolering VRT",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXQxbXBxMl96YnpNRDNld1h4WU8wU3lqakxXbmdqVUxkQ2lVYVN3ZmU2bHhhNHozbjFoTG5LellXSjlDSjdQQTNGNS1zeVNVTVZ0Q2tnelB6RFpFV0tuX3BaUVh3bExrajZyOWc1UUs4SWEzOU9iMHVkRVpBckJVbWxNaEtGRnp2OEl5TFF2d3M4NW1ZRVE?oc=5"
  },
  {
   "id": "0595f07150",
@@ -43650,6 +44189,23 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWE3bW5uV1hrOHE5NFkwd0FMQ3poZTV0d2VPZkNkbDF2ajJYMFIxWEE0bm4zeFVyWVhQMm9xd3FKT1VWbm8yRFhySHpjVk50Y2J4czgwQmozRHM3SWhHTkRKOEUtSkNKQzl1Q0piQi1lQXJOWlZaaTB3Z1B4R2s0ZVpQWFNmVUhNSlUwZEJnTFFLclpuMkNVWkhMblBVWENkRUNxNTFNTTBiaUpiZ0tGanZvTzZoQUxoc2swcWx3?oc=5"
  },
  {
+  "id": "7f7854b335",
+  "datum": "2024-11-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Gebundelde krachten resulteren in veiliger gebied",
+  "bron": "Politie.nl",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Gebundelde krachten resulteren in veiliger gebied Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjZySFNkUEhmODhUcnl6ak40NHhIbmVqcWlDemtDWFNNXzBaNTdJOV85WUZTT0NhV1J0dHNKTVh3STZkUWRSQmp3LXQzM2xGeUlLMGpCTVE2TjNxdTgtYlY0SW9CLVpTVVI4cXJ1SnlHQzhlWXdHRHBZeHFpbFo2V1BaSV90MVhYV1B1MURsbzZnTjRQdkZocmtxQXE1MnpfS1cwMTlFRQ?oc=5"
+ },
+ {
   "id": "94cb1f03ed",
   "datum": "2024-11-14",
   "tijd": "08:00",
@@ -52022,8 +52578,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Hennep & wietteelt"
+   "Hennep & wietteelt",
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
    "criminele organisatie",
@@ -53501,6 +54057,23 @@
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1Z1QVI4Mld1MnlVMnJsN0h0MkJ1RllhQkJyYkphQ0FfYkVDSFk4TkkzWjVfbEFKWEdxRVFnS21lN3laS0JyU3l0cTg2UFQ3S2NiNnd4Y2NHTVFKcFZoN0tzeHVoVkFEdkU2LVdnMlZReTZ5bk1BdkxoXzcxR0hqVVVuY2lHcHNlMzdKZA?oc=5"
  },
  {
+  "id": "bb8bc7ae52",
+  "datum": "2022-12-27",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Inzichten in de effectiviteit van preventieve instrumenten in de strijd tegen georganiseerde criminaliteit - WODC Repository",
+  "bron": "WODC",
+  "verzameld_via": "WODC",
+  "soort": "Rapport",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Inzichten in de effectiviteit van preventieve instrumenten in de strijd tegen georganiseerde criminaliteit WODC Repository",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMeWRFMWxTendybUhVd0w0UGZXME0tR0dURUExRnVJWUZlVDRuRWRLSDZQc2VIZUpkTXhaeV9QTUY3ZEUxS2k0aG1RSnJJYUdQeTIxTjJyOFZOMDhnR1RLYg?oc=5"
+ },
+ {
   "id": "d9a0e0dd1a",
   "datum": "2022-12-22",
   "tijd": "15:11",
@@ -53856,7 +54429,6 @@
   "soort": "Persbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
    "Witwassen & geldstromen"
   ],
   "tags": [
@@ -59590,6 +60162,25 @@
   ],
   "samenvatting": "Wethouders Den Haag verdacht van corruptie Het Parool",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1F4S3U1SEt3ZERqanU5SFhSVkhrS1RtYW9fWFhzeGVjNFliaW1JZDFvNjhWZTRYeFVmT2dLZ3FFQmY2SHlKNHpsUUhhbHZ4N0RFMElpZTJ2V1J1b1habnlibjJKbHI4bjVxbnV1eUhvWVlYZy05QkxTV1ZTUF9VUXpkUmVIZ2dib1JRWA?oc=5"
+ },
+ {
+  "id": "6364ad4fda",
+  "datum": "2019-10-01",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Wethouders De Mos en Guernaoui verdacht van corruptie",
+  "bron": "Den Haag Centraal",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Wetgeving",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie"
+  ],
+  "samenvatting": "Wethouders De Mos en Guernaoui verdacht van corruptie Den Haag Centraal",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVFTcXlZM3laRXpBZzFkSENiMnFhY242dmVwNDAyRTM5NmxodDJOZGI5cWl0S25KbW15LU5QNmZCZ09jZlZZaDVTMkctTEYwOWJKeThzUUYydGlvcnF5b21qT2NfcXdQR0tuY2k2VGJPekwzdHdZR2xmLTNrUENhNkdjeG0?oc=5"
  },
  {
   "id": "20718f6d2b",
