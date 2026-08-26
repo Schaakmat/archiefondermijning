@@ -51,7 +51,7 @@
   "id": "fd1422ea06",
   "datum": "2027-02-23",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Assumed Guilty",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -67,7 +67,7 @@
   "id": "0680e35695",
   "datum": "2027-02-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Forensic environmental DNA (eDNA) validation for protected species: An integrated framework for wildlife crime investigation",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -83,7 +83,7 @@
   "id": "4fc6ff1aca",
   "datum": "2027-02-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Self-organized criticality and information processing in gypsum–proteinoid assemblies",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -99,7 +99,7 @@
   "id": "da7cdde539",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "The Dagger Beneath the Robe",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -115,7 +115,7 @@
   "id": "d54a778ca5",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Understanding the Concept of Crime and the Typology of Offenders in the Holy Qur’an with Reference to Criminal Sciences",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -131,7 +131,7 @@
   "id": "031876c9d9",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Threshold dynamics of a compartmental model of crime with educational programs",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -3423,6 +3423,25 @@
   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9obFVlVlNybXBZQkpnbWpsVkFOWGlFZzlQVGpmZHJTTk5TYi1qLXBabkh3dGRzN1ZBM3luRFJldjA0MV9sd243c3g4Q1BqVnNWam1ZTENLUDZwdWp3eWhocFdCcE5JX1o3?oc=5"
  },
  {
+  "id": "1a12c659f4",
+  "datum": "2026-08-24",
+  "tijd": "12:25",
+  "nieuw": false,
+  "titel": "Celstraf voor mannen uit Dokkum (24) en Hoogezand (36) vanwege drugslab Dokkum",
+  "bron": "Leeuwarder Courant",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Celstraf voor mannen uit Dokkum (24) en Hoogezand (36) vanwege drugslab Dokkum Leeuwarder Courant",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeVhmY2VsRFNMaWlwWXplNVNPQ01uNkozMXJXeGlVZjBjeS1QS0tteVhrRUxJUXByRVhORG5Ja05yWmlOeWtyZ0RPaU9mVHh2OGF5VEMwODlPbkRqSk5TMzBqaGREa3pqOVRjYUtUTm5qSnhnQkl6b2VkY0g3VUlBREFlRFJ0U3dGbkp6T0t1YzR4U2wyalpzVHZLeTQtMkRuV1lNSmRYTUFLVlVxV2wtS00xMDBCNkZZ?oc=5"
+ },
+ {
   "id": "e8195539c7",
   "datum": "2026-08-24",
   "tijd": "12:18",
@@ -4904,8 +4923,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Horeca, winkels & dienstverlening"
+   "Horeca, winkels & dienstverlening",
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
    "horeca",
@@ -42265,6 +42284,25 @@
   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSlIzLXllbGozcnJudFFIYmoyS18ybW15enAxVjJQd3FBU2hYR0Nxb2c2OGlYY3FnbTBXbF8xckoxQUk1STVoRUZyM2hJWG1LOGdjTGhJMHFWOV9vRkcxTHctWElIRVE2WU0yZjRMOHJwX2YxSHZDMFA3NmFYQlJoVDI3dWVoSVZ4eUJ1YUVPalFjQ1V5ZFpaMVZHa0hMTkpuT19vOFRJZ3BjTXE4aDVMN2JhZHl3aDNSTGNfeV9jTHI4aFlKbzk1NUZ1Z3RxT2JQZlNsN0x2QWNNTERsUUJ5N2RTSzZKSms?oc=5"
  },
  {
+  "id": "b39d5c9d1c",
+  "datum": "2025-01-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Criminele Kringen: Is milieuvervuiling eigenlijk niet milieucriminaliteit?",
+  "bron": "Pointer",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "milieucriminaliteit"
+  ],
+  "samenvatting": "Criminele Kringen: Is milieuvervuiling eigenlijk niet milieucriminaliteit? Pointer",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDEydm5TU01Kc3BSdnMyVlV0T2tFRXFpdDRSdUdUMXd2c25CeS1GNjZNNXcwQldIbXg1MUhsS1hvWXNOa1l6NEdCWVZlSUVLb3pfZnZDQnlHZ3FJQS1NU3ZCLW93ZElwempFZndHcVJIUFZfSFZUNlE0b2VUMWpJWV9SSEZ3cFJ1NzFUb0p2LXRfbGZsckM4cnYyLVhFdHo5MXc?oc=5"
+ },
+ {
   "id": "af97f9738f",
   "datum": "2025-01-02",
   "tijd": "08:00",
@@ -52806,6 +52844,25 @@
   "dossiers": [
    "Corruptie & integriteit"
   ]
+ },
+ {
+  "id": "99fae4ef2d",
+  "datum": "2023-01-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Meer hulp voor boeren en tuinders in strijd tegen ondermijning",
+  "bron": "Nieuwe Oogst",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Meer hulp voor boeren en tuinders in strijd tegen ondermijning Nieuwe Oogst",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS0FDT1JQc3BHMHk0YkdVUnVReG94N0VCM2l2RGVjQlVwS05rU3NBRkE3RExqSWtsWmNGMy1aUVc2Rm1LeTRZV0pjTHpnTW9fcTl2ZTA5RUVlZTlQbVNvYU9HUmswaUF2Vm1wOVk0ZERmZjQ3WFB3MExBbWcxUl90RDBIQlJLM1BNWm9xOTR6MnZVWHN5ZlphTnRUeEhhTFFsU1J1azJ6OE9Cdk0?oc=5"
  },
  {
   "id": "158b7decff",

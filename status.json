@@ -1,16 +1,16 @@
 {
- "run": "23:07",
- "datum": "2026-08-25",
- "nieuw": 9,
- "totaal": 3366,
+ "run": "00:01",
+ "datum": "2026-08-26",
+ "nieuw": 3,
+ "totaal": 3369,
  "bronnen": [
   {
    "naam": "Nieuws — Drugsproductie & labs",
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 34,
-   "status": "bij",
+   "items": 35,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -136,7 +136,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 42,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -244,7 +244,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 103,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -262,7 +262,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 51,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -315,8 +315,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 103,
-   "status": "bij",
+   "items": 104,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -370,7 +370,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 32,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -388,7 +388,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 10,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -433,7 +433,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 104,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -450,8 +450,8 @@
    "url": "news.google.com/rss/search?q=RIEC+OR+LIEC+OR+%22Centrum+voor+Criminalite",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 30,
-   "status": "bij",
+   "items": 31,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -496,7 +496,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 9,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -505,7 +505,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 12,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -559,7 +559,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 46,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
