@@ -755,7 +755,7 @@
   "id": "11613c5fac",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Note on Money",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -771,7 +771,7 @@
   "id": "8bdfeb187b",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "A Note on Money",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -787,7 +787,7 @@
   "id": "f4ec2e8705",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "The Structure of the Book",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -803,7 +803,7 @@
   "id": "bf0f89387b",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Introduction",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -819,7 +819,7 @@
   "id": "f695514272",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Frontmatter",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -835,7 +835,7 @@
   "id": "d4b4622288",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Acknowledgments",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -851,7 +851,7 @@
   "id": "4311036094",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "1. Invisible Women: Uncovering the Female Economy and Marketplace",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -867,7 +867,7 @@
   "id": "e967477c08",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "4 The First Global Currency",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -883,7 +883,7 @@
   "id": "4a51c0dff1",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Blood Money",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -899,7 +899,7 @@
   "id": "ced40a5d03",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "3 Renaissance of Credit",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -915,7 +915,7 @@
   "id": "83cc6e7974",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Preface",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -931,7 +931,7 @@
   "id": "1b2a5db295",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "1 The Business of Civil Justice",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -947,7 +947,7 @@
   "id": "528521e985",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "4 Big Data, Big Money",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -963,7 +963,7 @@
   "id": "3c04ea6551",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Index",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -979,7 +979,7 @@
   "id": "e0856be312",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "List of Illustrations",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1248,11 +1248,211 @@
   "dossiers": []
  },
  {
+  "id": "944f7ff6cb",
+  "datum": "2026-08-26",
+  "tijd": "18:50",
+  "nieuw": false,
+  "titel": "Voor het eerst onderzoek naar kindermarteling: 'De signalering wordt sowieso beter'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jeugd",
+   "netwerk",
+   "organisatie",
+   "school",
+   "stal"
+  ],
+  "samenvatting": "Voor het eerst gaat in kaart worden gebracht op welke manier kindermarteling in Nederland voorkomt. Meer kennis is nodig naar kindermartelingen en dus komt er een onderzoek, laat het ministerie van Volksgezondheid, Welzijn en Sport vandaag weten. De afgelopen jaren zijn er minstens twaalf gevallen van kindermartelingen",
+  "link": "https://nos.nl/l/2628413"
+ },
+ {
+  "id": "925994b9f9",
+  "datum": "2026-08-26",
+  "tijd": "18:36",
+  "nieuw": false,
+  "titel": "OM eist werkstraffen tegen zes klimaatactivisten voor blokkeren A12",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Het Openbaar Ministerie eist werkstraffen van 120 uur tegen zes klimaatactivisten van Extinction Rebellion (XR) die op 25 april in Utrecht de snelweg blokkeerden. De officier van justitie eist daarnaast voorwaardelijke celstraffen van een maand. De zes veroorzaakten expres opstoppingen zodat de hoofdrijbaan van snelweg",
+  "link": "https://nos.nl/l/2628410"
+ },
+ {
+  "id": "6c786eb0c0",
+  "datum": "2026-08-26",
+  "tijd": "16:40",
+  "nieuw": false,
+  "titel": "Uitzendkrachten zorginstelling Alphen a/d Rijn veroordeeld voor seksueel misbruik",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jeugd",
+   "jongeren",
+   "leider"
+  ],
+  "samenvatting": "De rechtbank in Den Haag heeft twee uitzendkrachten van een zorginstelling in Alphen aan den Rijn veroordeeld voor seksueel misbruik in november vorig jaar. Een 29-jarige man werd veroordeeld voor het verkrachten van een 15-jarig meisje. De rechtbank legde hem een celstraf van 4 jaar op en een beroepsverbod van 9 jaar.",
+  "link": "https://nos.nl/l/2628391"
+ },
+ {
+  "id": "71fd9ea419",
+  "datum": "2026-08-26",
+  "tijd": "16:40",
+  "nieuw": false,
+  "titel": "Werkstraf geëist tegen klimaatactivist uit Tilburg voor snelwegblokkade",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "burgemeester",
+   "grond"
+  ],
+  "samenvatting": "Het Openbaar Ministerie (OM) heeft woensdag een werkstraf van 120 uur geëist tegen een 60-jarige man uit Tilburg die op 25 april de snelweg A12 in Utrecht blokkeerde. Daarnaast eiste de officier van justitie een voorwaardelijke celstraf van een maand tegen de klimaatactivist van Extinction Rebellion. In totaal stonden ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024586/werkstraf-geeist-tegen-klimaatactivist-uit-tilburg-voor-snelwegblokkade"
+ },
+ {
+  "id": "66fb28c0a5",
+  "datum": "2026-08-26",
+  "tijd": "16:25",
+  "nieuw": false,
+  "titel": "Gemeente zet in op laad-lantaarnpaal, maar moet vechten voor aansluitingen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester",
+   "vergunning"
+  ],
+  "samenvatting": "Je elektrische auto opladen aan een lantaarnpaal? Dat kan tegenwoordig in de Tilburgse Burgemeestersbuurt. Het gaat om een proef met negen nieuwe zogeheten laad-lichtmasten. En hoewel de gemeente er graag meer zou willen hebben, gooit het overvolle stroomnet daarin voorlopig roet in het eten. Wethouder Yusuf Çelik is v",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024581/gemeente-zet-in-op-laad-lantaarnpaal-maar-moet-vechten-voor-aansluitingen"
+ },
+ {
+  "id": "25126e79cb",
+  "datum": "2026-08-26",
+  "tijd": "16:21",
+  "nieuw": false,
+  "titel": "Archeologen vinden duizenden jaren oude resten",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Voor de vierde keer op rij zijn bij archeologische onderzoeken in Zelhem resten uit het verleden aangetroffen. Tijdens de herinrichting van de parkeerplaatsen bij de Jumbo aan de Magnoliaweg stuitten archeologen opnieuw op sporen van vroegere bewoning. De vondsten lijken duizenden jaren oud te zijn.",
+  "link": "https://www.gld.nl/nieuws/8513423/archeologen-vinden-duizenden-jaren-oude-resten"
+ },
+ {
+  "id": "0b8e7541aa",
+  "datum": "2026-08-26",
+  "tijd": "16:01",
+  "nieuw": false,
+  "titel": "Hengelo: geen samenscholingsverbod Groot Driene, wel Kamervragen gesteld",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jeugd",
+   "kamervragen"
+  ],
+  "samenvatting": "De overlast van jeugd in de Hengelose wijk Groot Driene heeft ook politiek Den Haag bereikt. Groep Markuszower wil in Kamervragen weten wat het kabinet gaat doen om de overlast tegen te gaan. Ondertussen geeft de gemeente Hengelo aan voorlopig nog niets te zien in een samenscholingsverbod.",
+  "link": "https://www.oost.nl/nieuws/3688653/hengelo-geen-samenscholingsverbod-groot-driene-wel-kamervragen-gesteld"
+ },
+ {
+  "id": "26b7a45cae",
+  "datum": "2026-08-26",
+  "tijd": "15:49",
+  "nieuw": false,
+  "titel": "Mogelijk drugslab ontdekt in Apeldoorn, dit is wat we nu weten",
+  "bron": "RTL.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Mogelijk drugslab ontdekt in Apeldoorn, dit is wat we nu weten RTL.nl",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWdsVE1Ra3hqbm1NRnZWaWZnTTJKUnhmdWpsalRHTnpneXp5ZVdoVFdzU3NwdXBaQm5pZHVnaXVqZkQ2a1ZVdkxBc1J4Vkd1N05Fc1hEVU5veDlzbFVQLWw2OWFUQmVrcERnY3NETEg3bklhQVJyTm90RGgxaXF5dU5yNU1fS2xDWW5KR1RQQmduTWFfV01uU2lYYUVJd05iUTRqd3YwODNEYXE5TFRKcHhfMXBhenNvSXc?oc=5"
+ },
+ {
+  "id": "cb25db3760",
+  "datum": "2026-08-26",
+  "tijd": "15:36",
+  "nieuw": false,
+  "titel": "Medewerker slijterij bedreigd bij overval Breda, andere winkel slaat alarm",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bedreiging"
+  ],
+  "samenvatting": "Bij de overval op een slijterij dinsdag in Breda is een medewerker bedreigd. Dit laat de politie woensdagmiddag weten. Een man met een bivakmuts beroofde de winkel en ging er daarna op een damesfiets vandoor. Volgens omstanders ging de man met een bivakmuts dinsdag rond kwart voor vijf naar binnen bij de slijterij aan ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024572/medewerker-slijterij-bedreigd-bij-overval-breda-andere-winkel-slaat-alarm"
+ },
+ {
   "id": "0ca6097f17",
   "datum": "2026-08-26",
   "tijd": "15:29",
   "nieuw": false,
   "titel": "Emmeloord - Gemeente NOP belooft zorgvuldigheid bij ruimen verlopen graven Emmeloord",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [],
+  "tags": [],
+  "samenvatting": "Het ruimen van verlopen graven op de begraafplaats in Emmeloord gebeurt niet meteen. De gemeente neemt eerst verschillende stappen om ervoor te zorgen dat dit zorgvuldig gebeurt. Dat zegt wethouder Hennie Bogaards van Noordoostpolder na vragen van de raadsfractie ChristenUnie-SGP. Een deel van de begraafplaats is vol. ",
+  "link": "https://www.omroepflevoland.nl/nieuws/521451/gemeente-nop-belooft-zorgvuldigheid-bij-ruimen-verlopen-graven-emmeloord"
+ },
+ {
+  "id": "fed80e30db",
+  "datum": "2026-08-26",
+  "tijd": "15:29",
+  "nieuw": false,
+  "titel": "Emmeloord - Gemeente Noordoostpolder belooft zorgvuldigheid bij ruimen graven Emmeloord",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -1266,7 +1466,90 @@
    "gemeenteraad"
   ],
   "samenvatting": "Het ruimen van verlopen graven op de begraafplaats in Emmeloord gebeurt niet meteen. De gemeente neemt eerst verschillende stappen om ervoor te zorgen dat dit zorgvuldig gebeurt. Dat zegt wethouder Hennie Bogaards van Noordoostpolder na vragen van de raadsfractie ChristenUnie-SGP. Een deel van de begraafplaats is vol. ",
-  "link": "https://www.omroepflevoland.nl/nieuws/521451/gemeente-nop-belooft-zorgvuldigheid-bij-ruimen-verlopen-graven-emmeloord"
+  "link": "https://www.omroepflevoland.nl/nieuws/521451/gemeente-noordoostpolder-belooft-zorgvuldigheid-bij-ruimen-graven-emmeloord"
+ },
+ {
+  "id": "33f452da28",
+  "datum": "2026-08-26",
+  "tijd": "15:21",
+  "nieuw": false,
+  "titel": "Sluikstort met cocaïne verpakkingen leidt politie naar drugslab in woning in Schoten: koppel aangehouden",
+  "bron": "Headliner.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "cocaïne",
+   "drugslab",
+   "stort",
+   "woning"
+  ],
+  "samenvatting": "Sluikstort met cocaïne verpakkingen leidt politie naar drugslab in woning in Schoten: koppel aangehouden Headliner.nl",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd3l0VkVnUnlzWHdrTWkyRXJFVjZ2VGFpbjJYUFJOcm84UEx1cXZKQ0U3emJCcFVEbVRBVkVTNkZhbS0zeG4xMzRSN1BzN1Z3MWtLM0Z2Uml1Y0VwNzlKd05EdkRaTU5PdmRzdnBMRVNYeGtJN3RLOTFSbnZCZl9GNHZRdXRWNFdzSkIxSG9oaDluOUQ1LUlTeEgxdi1KNHY2R2MzSGUwU2hJSVRPLXdoeGNuVEUwMXBnZjVWV2RJOHlGVnZXNXVKSHQxRlc?oc=5"
+ },
+ {
+  "id": "d806d544d6",
+  "datum": "2026-08-26",
+  "tijd": "15:06",
+  "nieuw": false,
+  "titel": "OM eist vijf jaar cel tegen chauffeur die 17 vreemdelingen in koelcontainer smokkelde",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container",
+   "vrachtwagen"
+  ],
+  "samenvatting": "Het Openbaar Ministerie in Rotterdam heeft vijf jaar cel geëist tegen een vrachtwagenchauffeur die zeventien vreemdelingen heeft gesmokkeld in een koelcontainer. Onder hen waren zes kinderen, de jongste drie jaar oud.",
+  "link": "https://www.rijnmond.nl/nieuws/2244688/om-eist-vijf-jaar-cel-tegen-chauffeur-die-17-vreemdelingen-in-koelcontainer-smokkelde"
+ },
+ {
+  "id": "dc73f54c64",
+  "datum": "2026-08-26",
+  "tijd": "14:52",
+  "nieuw": false,
+  "titel": "Burgemeester bezoekt buurt na vondst drugslab aan Saturnus",
+  "bron": "RTV Lansingerland",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "burgemeester",
+   "drugslab"
+  ],
+  "samenvatting": "Burgemeester bezoekt buurt na vondst drugslab aan Saturnus RTV Lansingerland",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajlCUklaa3RqVW13X3Mwcm01NXJGOWxZRHRyTFh3OVl4aFE1amJNeUtfUHdJaXU4X3BPWlZJR2tibmFBcTZ6bGZfcExIUk02dmQ0ZW9kWlhvcTFZQ1A5WHoxVHpXM1FFeVI1NDNIV2F6SHF5SXNWbXhMODI1RWpES3lqdE5QVGNPaDh1MGx0bmFITW5mWWlTYnlvbEtQTEpJdWhNMVROaW1ZQjYz?oc=5"
+ },
+ {
+  "id": "f46723572f",
+  "datum": "2026-08-26",
+  "tijd": "14:32",
+  "nieuw": false,
+  "titel": "Gevaarlijke vondst in flat in Apeldoorn: dit weten we tot nu toe",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [],
+  "samenvatting": "Gevaarlijke vondst in flat in Apeldoorn: dit weten we tot nu toe Omroep Gelderland",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUmpNcFZlOHZhU204cENGWGdpTFJIMmx0NVBxU3VsT1gtRFhVd3BZZWhxbXZqdE5lVDVUM1ZodzdCWmtHbFlUZm13ZlByUVZEQ2lfYnVicExvU2NUWXM1aVZGZV9FVkRaVHdrOWNYUDJNQ3FDWThBdTV2RmtCLTNScVh2MFQ5UFQzTXVwYnplNms5VHF2Y2VjeVpVeGFkUQ?oc=5"
  },
  {
   "id": "343df94967",
@@ -1279,15 +1562,70 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "geweld",
    "organisatie"
   ],
   "samenvatting": "Het was een smet op de avond, erkent de organisatie van het dorpsfeest in Swifterbant. Na afloop van de laatste feestavond op zaterdag kregen meerdere mensen het met elkaar aan de stok in de rij van een patatkraam. Daarbij raakten twee mensen gewond. Volgens de politie ontstond er in de nacht van zaterdag op zondag ron",
   "link": "https://www.omroepflevoland.nl/nieuws/521442/voordringen-bij-patatkraam-leidt-tot-vechtpartij-na-dorpsfeest-swifterbant:-twee-gewonden"
+ },
+ {
+  "id": "8308b81e01",
+  "datum": "2026-08-26",
+  "tijd": "14:30",
+  "nieuw": false,
+  "titel": "UPDATE: Honderd woningen ontruimd na vondst wapens en explosief materiaal",
+  "bron": "GelreNieuws",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [],
+  "samenvatting": "UPDATE: Honderd woningen ontruimd na vondst wapens en explosief materiaal GelreNieuws",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2ZQNkRVX2owazNlb2RGblVSRE1iMEZJdWxDN0ZaNkFHUG0yazN6dkc4a2x4X2ZmSC03T2pwQ3JzcW83Q1dwdTlqUEFON085WXk3TW51TTVQM0hXbTFPa0xuUl85ZF8wMW5Fc0dUbzZCNV9yY1NULWczU295eTIxdXNCbTMtblQ2TWFOeV9iSm5ObDl0cnNlbDlSZ2tncWVHeVJmWjdkQW1KN1BwV0lkeEl0M2lFV1BJaTkzR2N3?oc=5"
+ },
+ {
+  "id": "5b42126a47",
+  "datum": "2026-08-26",
+  "tijd": "14:20",
+  "nieuw": false,
+  "titel": "Honderd woningen ontruimd na vondst mogelijk drugslab in Apeldoorn",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "woning"
+  ],
+  "samenvatting": "Honderd woningen ontruimd na vondst mogelijk drugslab in Apeldoorn Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUE5KSm9reC1ZdFMwM2d2RkJwcktleVpLcmZrMEdBSU5yelA4TFBicENnajg0d0ZhRFVoZHAxY1NyM3BVOGFKRlMtb3pkN0tLeXRrRXo4WVVSc0JZdHVyQV9mOTFEeGE4dEVvU29ReU5YX0VnZkFrN3BYUFpDeFFyZ09acjY1Slp1dnp4UWtISTFwNTlEcm43Z1Zwb29sczZfay1KQlgwOFpvOHNZbzlZYk01Qi1oQQ?oc=5"
+ },
+ {
+  "id": "4d31f54a9a",
+  "datum": "2026-08-26",
+  "tijd": "13:49",
+  "nieuw": false,
+  "titel": "Politie houdt binnen 24 uur man en vrouw uit dezelfde woning in Enschede aan",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Een man en vrouw uit dezelfde woning in Enschede zijn binnen 24 uur in de boeien geslagen. Nadat de vrouw een dag eerder een agent met een mes te lijf ging, werd de man de volgende dag aangehouden voor het bedreigen van een deurwaarder.",
+  "link": "https://www.oost.nl/nieuws/3688572/politie-houdt-binnen-24-uur-man-en-vrouw-uit-dezelfde-woning-in-enschede-aan"
  },
  {
   "id": "b79d013635",
@@ -1309,6 +1647,44 @@
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3RkcTR4ZWNCaWhvUmE2YjVwZWNLekhmVE9hSjJrUFlJMGFXUGJ6R2ljUkQ2RFhvZXVmdXJCbWFpZUlNMG8wMW9OUjRzeHoyUlhCUG92MG9RdWlLOUFyZVZFdGlRVlVWN3VTNnJDY3lpMGtkV0hXdXZQUVV1YVhmd3UwcTIta1FZR2ktYXRhTHY0ZHhzdkhjM3BCUVNvREx2?oc=5"
  },
  {
+  "id": "c572a4eccc",
+  "datum": "2026-08-26",
+  "tijd": "13:45",
+  "nieuw": false,
+  "titel": "Zorgondernemer aangehouden in onderzoek naar witwassen van tientallen miljoenen euro's",
+  "bron": "AT5",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Zorgondernemer aangehouden in onderzoek naar witwassen van tientallen miljoenen euro's AT5",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSUJyeFhqb19QeURka0s1TURjdGF1X0pJclRzTlJnVGtQMl9yX3NaR2d4M0tuS2kxdzJkekdEUE9sMjJKRmJTSWUxYTFBU2Y1V2p6QWtOdy00bjk5U0JfOHNNcWJKZTMzbldtWkpNZzNNNkdMYWR3UWR6Mlc0OWhKbEcyc0pjMl9WUzZqSHpwR2NoZlRlczN6Vm15X2RKUQ?oc=5"
+ },
+ {
+  "id": "ae881e6c9d",
+  "datum": "2026-08-26",
+  "tijd": "13:33",
+  "nieuw": false,
+  "titel": "Omwonenden mogelijk drugslab Apeldoorn mogen weer naar huis",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Omwonenden mogelijk drugslab Apeldoorn mogen weer naar huis Drimble",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOek01RTFKV1k0a2kwdkVValVNdW1nejlhUXRpUU16anppLTdQblBQVkJVQmxFRWhRanpydXJxTFM2VFA2X0RVdjNtcHM3WGR0cnVLa2JMc0pZMWhMZXVxUTlJTlk4eUpKMkRIS1IzTTl4aUZvY2NEblpBSEFkZmNaM2dKXzRIaEdtQmdFaDNpeE9YUUFXLW1sQU9CT285bEI4VnZYcFlDLUpsOHB1N2d0X093bUdYUWFVN080dw?oc=5"
+ },
+ {
   "id": "685e4b196b",
   "datum": "2026-08-26",
   "tijd": "13:30",
@@ -1318,14 +1694,50 @@
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak"
-  ],
-  "tags": [
-   "gemeenteraad"
-  ],
+  "dossiers": [],
+  "tags": [],
   "samenvatting": "Bij de Lelystadse voetbalverenigingen leeft grote frustratie omdat de gemeente vijf maanden later nog niets heeft gedaan met hun noodkreet om hulp. De wethouder werkt aan een visie, maar volgens de clubs is snel extra geld nodig voor de kwaliteit van de voetbalvelden. Dat bleek dinsdagavond tijdens een commissievergade",
   "link": "https://www.omroepflevoland.nl/nieuws/521433/noodkreet-over-voetbalvelden-blijft-liggen:-lelystadse-clubs-willen-snel-actie-van-gemeente"
+ },
+ {
+  "id": "c36b3ceb94",
+  "datum": "2026-08-26",
+  "tijd": "13:30",
+  "nieuw": false,
+  "titel": "Opnieuw zoekactie naar moordwapen Rob Zweekhorst, deze keer met speciaal net",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "moord",
+   "wapen"
+  ],
+  "samenvatting": "Opnieuw heeft de politie een zoekactie gehouden in de Ringvaartplas in Rotterdam-Prinsenland. De afgelopen weken werd al in het water gezocht naar een vuurwapen in verband met de vergismoord op Rob Zweekhorst. Nu wordt een nieuwe zoekmethode gebruikt, waarmee nog dieper in de plas kan worden gezocht.",
+  "link": "https://www.rijnmond.nl/nieuws/2244608/opnieuw-zoekactie-naar-moordwapen-rob-zweekhorst-deze-keer-met-speciaal-net"
+ },
+ {
+  "id": "18c31ac20e",
+  "datum": "2026-08-26",
+  "tijd": "13:28",
+  "nieuw": false,
+  "titel": "Omwonenden mogelijk drugslab Apeldoorn mogen weer naar huis",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Omwonenden mogelijk drugslab Apeldoorn mogen weer naar huis Drimble",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzRWZVdDYUNIUGVYazE4bkNsSWNxTHp0a3ZDSDZQaF9BRTcwa2hNRkdSNUkwQkNFSWdXZy1lR2IzOUVHX0kxbGU3Smk2OTFxeVZ0TFV6V1hEZE56VDlISTdXUXVYY1NNUUJBbXdGczlfUGUxWGFIdHZOOTZpb3JzV0c1UkdMSmhlR1MxVEQ1alJtd3pmbmQ1RTJNYWY4WncxajJ5My1CeUNzeVpLcjVUald3?oc=5"
  },
  {
   "id": "1c976f44ae",
@@ -1347,6 +1759,27 @@
   "link": "https://www.rijnmond.nl/nieuws/2244604/oud-medewerker-jeugdinstelling-veroordeeld-voor-verkrachting-meisje-15-schrijnend"
  },
  {
+  "id": "cf0120984c",
+  "datum": "2026-08-26",
+  "tijd": "13:01",
+  "nieuw": false,
+  "titel": "Politie vindt explosief materiaal en mogelijk drugslab na knal in Apeldoorn, drie flats urenlang ontruimd",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie"
+  ],
+  "samenvatting": "Politie vindt explosief materiaal en mogelijk drugslab na knal in Apeldoorn, drie flats urenlang ontruimd Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTDJBVlJSSjVrc29ZdldEbjBSc0t3dGphNExGSzdyLVZ4cFNJUFhBUXdnRGZMRU41TzFzazY2UnpqS3YwNTdtUGFoWDNPb3JibGY0TFktQ05BT3JQNlVSdUFsV0EzRkx5WGRDOGhfQnNzX0dTc21HZTREVnFlTlBFRzUzVUI0dXQ0MzZmajMwSVlFUGpvZ2RPc1puTlpzOU1qU1JYcUNRVG1Yc19hOTRBQXoxLW1takNJdTIySXFxcmNvYWZxb01vcFV6VGlta3NOVXFCeW9jbnVMVTYyQmtHcFpVcWc3bkRqZFEzcW0ySFJDeTR3WHlteg?oc=5"
+ },
+ {
   "id": "b146ff7e9e",
   "datum": "2026-08-26",
   "tijd": "12:48",
@@ -1356,12 +1789,8 @@
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
+  "dossiers": [],
+  "tags": [],
   "samenvatting": "Joris Zorg in Oirschot laat woensdagmiddag weten \"ontzettend geschrokken\" te zijn van het nieuws dat verpleger Jelle D. ook verdacht wordt van betrokkenheid bij de dood van een tweede bewoner van het zorgcentrum. De 26-jarige verpleger uit Oirschot werd zondag thuis opgepakt voor de dood van een overleden hoogbejaarde ",
   "link": "https://www.omroepbrabant.nl/nieuws/6024562/vreselijk-voor-nabestaanden-joris-zorg-over-verdachte-dood-twee-bewoners"
  },
@@ -1397,12 +1826,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Ondernemers & weerbaarheid",
-   "Vastgoed & huisvesting"
+   "Vastgoed & huisvesting",
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "bedrijventerrein",
    "bende",
    "pand"
   ],
@@ -1446,6 +1873,25 @@
   ],
   "samenvatting": "Een vrachtwagenchauffeur is woensdagmiddag op de A15 bij Alblasserdam van de weg gehaald met hulp van andere weggebruikers. De chauffeur vertoonde gevaarlijk rijgedrag en bleek onder invloed te zijn. Hij is aangehouden.",
   "link": "https://www.rijnmond.nl/nieuws/2244546/vrachtwagenchauffeur-onder-invloed-heeft-drie-rijbanen-nodig-en-wordt-klemgereden"
+ },
+ {
+  "id": "866eb3ffb5",
+  "datum": "2026-08-26",
+  "tijd": "12:38",
+  "nieuw": false,
+  "titel": "Vrachtwagenchauffeur onder invloed heeft drie rijstroken nodig en wordt klemgereden",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Een vrachtwagenchauffeur is woensdagmiddag op de A15 bij Alblasserdam van de weg gehaald met hulp van andere weggebruikers. De chauffeur vertoonde gevaarlijk rijgedrag en bleek onder invloed te zijn. Hij is aangehouden.",
+  "link": "https://www.rijnmond.nl/nieuws/2244546/vrachtwagenchauffeur-onder-invloed-heeft-drie-rijstroken-nodig-en-wordt-klemgereden"
  },
  {
   "id": "679b1bb732",
@@ -1554,6 +2000,50 @@
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZjhteUhlNy1CZ0liLWZBXzRUdTVBb0o3RndmN2F2d1hjMS1rUms2aE9VZ1NpRElqTndkMzU0WWhWbjhLNV93MTVyc2RJY1RCcG1hYm5ONUlLZjJkUmUxaEU3QjlaSjU0ZklRb1NUMFo1aWd2c0NRelJya09FeEZFY3VwczdUNGNnc1U3eWpieFJvRUZ2ckd2WVdpYmtuSmZ4cGhIT01scWl0LU1rb3pGaW5DaGd0eW1I?oc=5"
  },
  {
+  "id": "30431f536b",
+  "datum": "2026-08-26",
+  "tijd": "11:02",
+  "nieuw": false,
+  "titel": "Politie valt woning binnen na harde vuurwerkknal, mogelijk drugslab ontdekt in Apeldoorn",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "vuurwerk",
+   "woning"
+  ],
+  "samenvatting": "Politie valt woning binnen na harde vuurwerkknal, mogelijk drugslab ontdekt in Apeldoorn Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS2twMnlNNWlaOG1GYV81VzBsRnd1cjFKYWxOWEJyWkh5YUxfMndVdlM4OXpEWm5ackFiMTJpU3JVZ2FiZUN0WDdVX3pXLWx4QkNqaXVuNndLS0JLWENMRzktdUFNRnhxamVVd3p6Sm5iMU04WEdiMEZfNGo2UWpCaTBreGZ2SWxNdkZpYVNLakFDNnJaZHVCbmFWejhZMHpEZ3llekxBeC1MTFlYNldJREYyRmIzNS00Tmk3Sk8xLXpYREJaeE0yeXJBdUNSclB4M0ZxazBtaVN3NGU0N1hCeWhR?oc=5"
+ },
+ {
+  "id": "0d61806c47",
+  "datum": "2026-08-26",
+  "tijd": "11:02",
+  "nieuw": false,
+  "titel": "Opnieuw vermoedelijk drugsafval gevonden in Enschede: vierde keer in korte tijd",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Opnieuw vermoedelijk drugsafval gevonden in Enschede: vierde keer in korte tijd Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU0t2U3Nvd29XMFNCNnlnTXAxRzgyRUdwc2lPcEFQeDlibkVSVVdycS1pVV92NU1KazM0X1lVX1E5Q05HdXowRHFuaVJJOGVqNlFzMWlubk4tVGtSYXh1OE9YSzQwTlZxcUEzM0RBWGF5V0hlTGNvZjRYRVlfMzlMZWJ3VG9lNGlXbVBOQm1ZMnZnZHFZMWZZUVpSUDlNUFJUV3UyQlhoMmRocDZ6ZFRXaDNGVDhSdzlHUmVJdjM5alpIYzRsZkFpZC1vN21MZjVpUTlscg?oc=5"
+ },
+ {
   "id": "cd015c172d",
   "datum": "2026-08-26",
   "tijd": "10:59",
@@ -1609,6 +2099,25 @@
   ],
   "samenvatting": "De politie ontruimde woensdagochtend een flat aan de Eburonenstraat in Apeldoorn. Die beslissing werd genomen nadat politieagenten er in de nacht van dinsdag op woensdag een mogelijk drugslab aantroffen.",
   "link": "https://www.gld.nl/nieuws/8513183/live-politie-deelt-laatste-update-van-vandaag-over-de-ontruiming-in-apeldoorn"
+ },
+ {
+  "id": "6191e8d69b",
+  "datum": "2026-08-26",
+  "tijd": "10:57",
+  "nieuw": false,
+  "titel": "TERUGLEZEN | Politie deelt 'laatste update' van vandaag over ontruiming Apeldoorn",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "De politie ontruimde woensdagochtend een flat aan de Eburonenstraat in Apeldoorn. Die beslissing werd genomen nadat politieagenten er in de nacht van dinsdag op woensdag een mogelijk drugslab aantroffen.",
+  "link": "https://www.gld.nl/nieuws/8513183/teruglezen-politie-deelt-laatste-update-van-vandaag-over-ontruiming-apeldoorn"
  },
  {
   "id": "caafc79ac4",
@@ -1720,12 +2229,8 @@
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "erf"
-  ],
+  "dossiers": [],
+  "tags": [],
   "samenvatting": "Jelle D., de 26-jarige verpleger die zondagochtend thuis is opgepakt voor de dood van een hoogbejaarde bewoner van Joris Zorg in Oirschot, wordt ook verdacht van betrokkenheid bij de dood van een tweede bewoner. Het gaat om twee hoogbejaarde mannen. Het voorarrest van D. is woensdag met twee weken verlengd door de rech",
   "link": "https://www.omroepbrabant.nl/nieuws/6024538/verpleger-jelle-d-ook-verdacht-van-dood-tweede-bewoner-joris-zorg"
  },
@@ -1790,6 +2295,23 @@
   ],
   "samenvatting": "Voor de vierde keer in korte tijd worden in Enschede vaten met (waarschijnlijk) drugsafval aangetroffen 1Twente",
   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcjgwdHVzaVpFY3E1TVFMazZwa2xYWjdQanU1bUFyVHU1dnc3VjBXVEdYNzFDS1lvaUNOWElCOE9wck5vQ3dHQkpTYzh6d0VMN3FjUkpOVFhNeHFxb21UTl9rV0FRdG00dmlOWk1tQlBhNzBySjFTaFpaWTA2NkVINkFuNVZIYmVWR3lJbHVndHN2NUI2VGVjd3pWdVRxclZYV0pid3VtVlp6VjJtcUxGdVZ1VHM3MGdPQVRYckpJdzJQa1lkUzhwX1F3Q0JoUnlYUXQwLVktcw?oc=5"
+ },
+ {
+  "id": "eac056f397",
+  "datum": "2026-08-26",
+  "tijd": "10:19",
+  "nieuw": false,
+  "titel": "LIVE",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [],
+  "samenvatting": "LIVE Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN3gyTUcwZS1yRWVDUFNUSnVlbXdudFVxQng3R19HT0Zrb19jd2x2aEQtczRJOUFpU1VsOE5lSnlLYmpLYTc5Q01qbk5MN0lGRm9SbnMzV1lLZDAzQ1hLNlQwMFcwVG9ZY0ZVVWRxYTRLa3d6RFl5ZkNGbnRPRXdvc1lOblJHVnM1bm9BX08yaUppeHZJS3FZQVhoeDVQbVJ1NEJ5Q2EyV2RwUWl5TjBXY29yZEVHZGNGX25jcjkwRzFWVFFFcDF2R2ZNeEUwN2JnSDJBNUY4Tmt0SHpCd044SlotZngyVlFaRmo3X2s2WV91RWxLbDVXTlRwUWU?oc=5"
  },
  {
   "id": "0db232b924",
@@ -2131,6 +2653,27 @@
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNEZnMUpxNEJwSGdBREdGbXNjbHV0VlpraF9qZjhSSU5VX201cmlXUWFGNXhBa21va28wSThRYU1SbHdSdjFPazhNejJjYjJQOTQ3LUZiaW9UNkFaWkduYWF4Ym1oN3ZEMVlWLWV6S0pvZWd5ckpfaGFhd2h4T0xPb0lvNi1FYVVDaTNUOFdXVDBwTEpGWWMyOEFEejdLRlJV?oc=5"
  },
  {
+  "id": "31ddda7e98",
+  "datum": "2026-08-26",
+  "tijd": "09:19",
+  "nieuw": false,
+  "titel": "Woningen ontruimd in Apeldoorn vanwege mogelijk drugslab",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "woning"
+  ],
+  "samenvatting": "Woningen ontruimd in Apeldoorn vanwege mogelijk drugslab Drimble",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTkyWm55SXVsb09rSGlMNFNvbjBDS2NoRVlYcEJ0cnh2RmVKTzdXRFdsS2hiTWhmeFZsM09YekNqVTdTWWpRRXd1TGdvczRDTzFFS0xUM2ZoU0xfanhGTWpTaEJaX3drV0E2T0QxN3dQZVFLVHpDQ05XTGJPY0s0bmh6QmpNalg0NGZ1ZTZhY1NXWjRFVTlPb3RiVThPQl9iQm9HQ2F1QXluWkIydEFEX0hIVnNCZ091?oc=5"
+ },
+ {
   "id": "664b9df3d8",
   "datum": "2026-08-26",
   "tijd": "09:16",
@@ -2173,6 +2716,27 @@
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakdERUE5a1FNWThBRmoxdGdIcEJ3NUlwcnpCS1loSXZnWEhyNHd4a2QxOGd2WlNCd3FxOURROUo1bXpURTZ0UHp2X0RYX05BVGNlX2xiUXA3V0NDbF9DYjdtVGlRcm5TN0huNnZZbUh2THJWdU1iQmRsQl9OQXhiaUZPZ2xYRnFIanNfQ0pIekEtc1ZaQmp3STlvWkk5dWV2?oc=5"
  },
  {
+  "id": "d67aa70fdb",
+  "datum": "2026-08-26",
+  "tijd": "09:04",
+  "nieuw": false,
+  "titel": "Politie ontruimt honderd woningen na vondst mogelijk drugslab",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "woning"
+  ],
+  "samenvatting": "Politie ontruimt honderd woningen na vondst mogelijk drugslab Drimble",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVy1iVUx5TkVWaUpMb0tBTU1xU1JOZzJIeXNrNXlmdXd5NmN2VjJabFVGMjQyTWNOVExjdVY3RFRrczEyX2swdU1saTJFR1RDWlpjWFU2Rno1LW5kY0lOZG9QdDlTd2VINEsyY1FwWEFFYllXQ1IwOS1iV3RBZ2V6LXFEMjFqZXpUcjRxQ1NuM01CT1hnbkhsSFVYMGlkdTBraWxKd3RpcTR6S1MtTjZWXzhTWjFMeU55VjFEMVVpZw?oc=5"
+ },
+ {
   "id": "3a4b19b27a",
   "datum": "2026-08-26",
   "tijd": "09:03",
@@ -2192,6 +2756,25 @@
   ],
   "samenvatting": "Drugslab ontdekt in flat, honderd woningen ontruimd GelreNieuws",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVZLMlMtaFlhRl9CWllMNlFIcUZBSnppei1leHFZUTY1VTg2Z0JNWllCYU9jOEJla0c1T01vbllUTEk3UnRlWElUUFZJdXE1NkZwUkcxTjJRQmVZN2dWdktTNVBkVGFNOS1DVGdOQ3U5TkdpR091bjhmVlE5ekozQTJEbmdjcG1sWFVyMkxDUWZVSTk3?oc=5"
+ },
+ {
+  "id": "16d553cbee",
+  "datum": "2026-08-26",
+  "tijd": "09:00",
+  "nieuw": false,
+  "titel": "Politie ontruimt flats in Apeldoorn na aantreffen mogelijk drugslab",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie ontruimt flats in Apeldoorn na aantreffen mogelijk drugslab Drimble",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcldULWdFbjZJdHRuY29kQVEwaE53c0Z3MWdZVlVqNk1pY18xUjdYTmhmRVoxalZLRGhkQWM1TWhQOEhEeUh6UzJjWVFXS0hsTUJ5QzhEVElzc2tSLXRtN29sWGJmb3FFUG56OHBIUTdBQUNzWUNxcGdjSnlJaE9VTkp3Qkw1b3d2c0d2eXFqeHdkWk5YVWlXcUF4QzFXbjg5SEREd0otcGRMbUQtTXhRUy1KVEVjenhuTE04NDFRQ1ltM1Z6WWg4?oc=5"
  },
  {
   "id": "46c0b876df",
@@ -2253,6 +2836,27 @@
   ],
   "samenvatting": "Politie ontruimt flats in Apeldoorn na aantreffen mogelijk drugslab AD.nl",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbk5JaXJOQXpwN1A1WEhjd3VMYjlHTi1hVkNxQXh4YXdLX1NIMVIwYWd0VUFabFBpNUJwUnBLUEw1cElyMW1hc2loeGJqZEhsM0lrVFlESU94cWZTNlpLTWZabDdFc3EycXBFbDJuTEt0Z09XMjZESDlYdHNNTUpOdUhXWW5SVnk0NUpkYWxLSEV4Z1F1eWVZUVRQYUxKUEZQUWE4M0ZEbjhSUQ?oc=5"
+ },
+ {
+  "id": "cd6cac354c",
+  "datum": "2026-08-26",
+  "tijd": "08:44",
+  "nieuw": false,
+  "titel": "Meerdere woningen in Apeldoorn midden in de nacht ontruimd na ontdekking mogelijk drugslab",
+  "bron": "Headliner.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "woning"
+  ],
+  "samenvatting": "Meerdere woningen in Apeldoorn midden in de nacht ontruimd na ontdekking mogelijk drugslab Headliner.nl",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTkJ0ZWpKRDBzUTZILWlVVS1FeldqQXF2OTB4NjJvd1YtUlhLYU5yY2gwWXVwZnN1VkhGdnB1SEZBaGlEYTlxc2c1ZHowZVVWODdNaks5YjdCQmowOVItaVRneXFfSnpFSU5BTktBT0lNd3F3bThLWVhqb21uejBRSjJZLWdMOXN4LVFtZDlKTnZ6aWdGSjN6THpiUW16LWhJUlBoNjhBa3J2dVhUYV9QUm9jeVZpRGNqOE5uNXZYbFR2VFRYYW85WU11VDFaTThWazJsYg?oc=5"
  },
  {
   "id": "c242ee9b6d",
@@ -2337,6 +2941,25 @@
   "link": "https://www.gld.nl/nieuws/8513147/politie-ontruimt-honderd-woningen-na-vondst-mogelijk-drugslab"
  },
  {
+  "id": "23d9686bc0",
+  "datum": "2026-08-26",
+  "tijd": "08:28",
+  "nieuw": false,
+  "titel": "Mogelijk drugslab aangetroffen in Apeldoorn",
+  "bron": "StadIndex",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Mogelijk drugslab aangetroffen in Apeldoorn StadIndex",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYUZkWXY5bVNLZkVVYVR1bFdSMWRQdTZTSURtcXRhQXpsejZQb1RmUXlsVm5JaW1hUDNtWVNObld0bHBKRUxIc0ZvdGVueXNFb01Na3dYWDJRLXRkWkRESDFFSHdjcGw4ckNMUzRlYmFjV19JOWo2b2lMbFNPdmNPMUJLWTAtX1V1MGk4SHNHREZQX3E3R2FkTlZSYWpHNmpZeGVYdmhidTFRWHFoSklUZUsxZm1uTFh5WjkwY210LUZMZUxzLUtfR3FDX3ZUaTQ1dTlEdw?oc=5"
+ },
+ {
   "id": "bcadd38c79",
   "datum": "2026-08-26",
   "tijd": "08:21",
@@ -2377,6 +3000,25 @@
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkNNamF4YmJ5bGdkVk1EOFVBcUxQQ0ZFQ2c0MU9NYnpad0RKbnVaNExYMnhpUGZTTkFsd2V1ekdDSTlGWFNsVFd0aHAyV19iajQtRmFXRHBmdHFHczBNQ0UteXE4TW9VU0g1bXFQQUpyZHAtZDJMTENkZmZGNmV2SU53VE1Ec21mODdDeHhOZHpteDBFcWIwanR4M1ozTXpOLS1BRnp2QV9hZ1d6ZUE?oc=5"
  },
  {
+  "id": "74ccd5ca2c",
+  "datum": "2026-08-26",
+  "tijd": "08:12",
+  "nieuw": false,
+  "titel": "Mogelijk drugslab aangetroffen in appartement aan Eburonenstraat",
+  "bron": "Nieuwsblad Stedendriehoek",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Mogelijk drugslab aangetroffen in appartement aan Eburonenstraat Nieuwsblad Stedendriehoek",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEZWJGRE5tNko3ZVpaRzlEY1pYamxzeXZtYnhpRWM4LTVYR01YdmZJOHYtaHNzNTU5Y1JyYmI2YTVYN25jd2tVc3NoZ29HVmRB?oc=5"
+ },
+ {
   "id": "899cbaa353",
   "datum": "2026-08-26",
   "tijd": "08:02",
@@ -2394,6 +3036,25 @@
   ],
   "samenvatting": "Mogelijk drugslab gevonden in appartement midden in woonwijk; flatgebouw ontruimd 112nieuws.net",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlVybWV2UlhUME1LaXhDcGhnQjZQY2dUNHB6Q296U0ptMDJreXZfODFIVVp0T3VtQjZoMG43VUY1c2xibUdhX0pLd25SU1FQM1FGX0pqUDdnVUg1QlF2Sjg1ODhCYW1YR0FkdmxjaGpyUU9FYmVsSGV3bDdONzQ1SVhBTElILXdUbEZULTJKZDJPZm0zUDhCZVBSQnZxLVJHNWpERDZpcDIySUJ5d2hvdlpWem8?oc=5"
+ },
+ {
+  "id": "8bdedfc68c",
+  "datum": "2026-08-26",
+  "tijd": "08:01",
+  "nieuw": false,
+  "titel": "Compleet flatgebouw in Apeldoorn ontruimd nadat politie mogelijk drugslab aantreft",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Compleet flatgebouw in Apeldoorn ontruimd nadat politie mogelijk drugslab aantreft Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeFJPSGxtUktGaDdoeDMyR2pGWEZBQzgya2RzM09iX1d3enBTZEpIMU5vVlRteTdoLVVLRkthUTFJRzlpaUZIaXMtbmxZeFZnanZ1Yk1kX1dPdFQ3U2t3QXZraC1LYThrNVFTanJsTjktZkVZcE81aEFLREFfY3ZOa09GTXZpZXRDY3RwOG83NWY4RTFjYUxXTXBuSGlPOEplWGc4dnNZY2pjY2RtMFBlVFkwbmQ4OV9KdkZtYnE4V3IwWGVaM2hkX01rMjU0R0ZNLURwbkVPLVZmeVU?oc=5"
  },
  {
   "id": "5381535e3e",
@@ -3349,6 +4010,23 @@
   ],
   "samenvatting": "Politie ontdekte drugslab door alerte buurvrouw: 'Van hem had ik het echt niet verwacht' Rijnmond",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOek5aQk9hYUpqaGZpQ2ZJWUlGQXI5ZEdlU29SV0tkWV9sQ2N6cVkyTDBSQ2ZUOUFlNTBsTzdySngzZWJTVUZWNEI5dVZaQld2eldvTzBReXVSTUhCUEN3OUVjVHNMVnBsN3BMWUVtWUR6TDJod282NVk1ZEVXaGhpbU4yZDJNRS14WDRBZmxUdU5sbHRxcXFSV3B3YVA1VlJ0S1NQYk5qdFlWWWlicG5FQzFSOFY5aGFMRWREdTdhX1VRdw?oc=5"
+ },
+ {
+  "id": "5f9b01459c",
+  "datum": "2026-08-25",
+  "tijd": "12:14",
+  "nieuw": false,
+  "titel": "Ouders krijgen celstraffen omdat ze minderjarige zoon dwongen tot cybercrime",
+  "bron": "NU",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [],
+  "samenvatting": "Ouders krijgen celstraffen omdat ze minderjarige zoon dwongen tot cybercrime NU",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1JFU3JvNTEyYTRhRVl0V0hsTWtyTENZUW1iVnpFemt4cmNzX0Z0eHRVRW5NTEJsX0d1UXZlNTdvdjM2WTFpTmQ4UnR5dFFKXzZxRG9RSmlPbUhsaGN5bUotemxZeVVDaFFJM0pSU1NqbmhJUlUyLXhiTVBwZkU0dGZCU2pMUGJjN0x1em1aZmgxYU5sRXZ1VEZpUV9ic3RWSlZfTlFnVGxTamRQeHJwT3cwRG5tWjJVNnc?oc=5"
  },
  {
   "id": "5ebe795652",
@@ -12854,8 +13532,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Cocaine, haven & logistiek"
+   "Cocaine, haven & logistiek",
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
    "haven",
@@ -12863,6 +13541,23 @@
   ],
   "samenvatting": "Geslaagde bewustwordingsactie tegen ondermijning in (jacht)havens in de Hoeksche Waard Hoeksch Nieuws",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2RJelNULUp3ek9DeUZYZ2daOXRPY0lFdUJzZU5TLVM4ZlU1NzZxQ1RjeVByOEdSSDNWbHZOVkRMN2FvYjJGVEM2NjNDUk95V25WVUtVWkNVSm1GWDNHdkJWWk1XRjdHdmVTUUFXY2UtS3BZZV9vUlAwYkxOYVlqOE9hQkJ6NkE0c29lcmxpTGFmR2NpOWszUk05a1d6V1hYN1hfNVdXNGNXRlFRaXJkbFFURXQ?oc=5"
+ },
+ {
+  "id": "e351b7d8f2",
+  "datum": "2026-07-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Strenger toezicht trustkantoren werkt, maar illegale praktijken verschuiven",
+  "bron": "Universiteit Leiden",
+  "verzameld_via": "Nieuws — Trustkantoren & rechtspersonen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [],
+  "samenvatting": "Strenger toezicht trustkantoren werkt, maar illegale praktijken verschuiven Universiteit Leiden",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzdHZk50LV9POWpfbTdwdTFvakVBTmRGanNIQzMzTUFEcXBXR3FMUGtkSlc4X2RDcjl5MlVKaXlrd3pxc1B2emVhNWFBYjYzUzkwRVRJYXFpRS1RRDl0ZGI5YVB5alhydHRqN1lMN3ZqbWNYU1lsMC1fbVpyWDhxekdYUXZ5dFluTkdEY0RGcHBISUZ1ME9wYUVEY0pEWk0zY3k4cl9WQ3ZvTWUySml6a1UzdDVKaG1iRGRRa0xDc2c?oc=5"
  },
  {
   "id": "2c05985f69",
@@ -17346,8 +18041,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Buitengebied & recreatie"
+   "Buitengebied & recreatie",
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
    "buitengebied",
@@ -17508,6 +18203,25 @@
   ],
   "samenvatting": "Vragen PRO Zaltbommel over afvaldumping naast ondergrondse containers Digitaalburg",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHdnYXdSMWVRWE81SU1tcHlaWFlCLTBDRVJoR01hc2lBcWQtVGJCMFp3Z2NtYjN6bF83T05yZlhRVEl0ckVYM1dRMDliQlBOeGV1Q2E4OGduOFpBRUJCbkJJbU04dzJveHpRU1E5c0pxdG5IV054QjNxZXhjbUV0TUg1d0U1LTkzVHhaVU1FdlRJaldUanlueG5UV2hrT3E0Z3MxaW53cw?oc=5"
+ },
+ {
+  "id": "bfc3aa031a",
+  "datum": "2026-06-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ondermijning blijft niet buiten beeld in Oldambt",
+  "bron": "OldambtNu.nl",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Ondermijning blijft niet buiten beeld in Oldambt OldambtNu.nl",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR2dwaHY3VFR1RFFmZ0V4R2VaR3hFWk5LSV9wZ0NyeF9yZmRrRzd1ZDllUkZrNEtIb3hWeEVOS3QzNWk0VVc2RWhRbVYwT2IzN2hpSVB1eFZzQ3pRQklyc0x4TmRybjdZcmtpdkNkVGxoazY2eEYxX0xvVTRCWHRFQWp0bWo5aDliR1cyQ2N3?oc=5"
  },
  {
   "id": "dc8f03863a",
@@ -18211,6 +18925,23 @@
   ],
   "samenvatting": "Fototentoonstelling over ondermijning in gemeentehuis Achtkarspelen AD.nl",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1VYOGV4T09VUVpMektDQ1pmZ3VZa1doR2dUV2JycWFiOGNNNllYNV9wZ2l3aVdPZVczNlliTmRxblgzOERfazJNNmx3bjFURUlJYkRSUjhvakYxUnNqdlVRTE8wLUJ3Qk15d2duLV9VZExGaDJEeW55ZUdBblJfelJCSnBhV1pQNDI0SmtUdzlON1BOV3FrWDBCZFZ6ZVB5LWx6eGhWbERIN0llUXc?oc=5"
+ },
+ {
+  "id": "245f955e29",
+  "datum": "2026-06-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Rijksoverheid",
+  "bron": "Nieuws.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [],
+  "samenvatting": "Rijksoverheid Nieuws.nl",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHRXeTM2WDhaMGtFWW91emwwQ0gzaWN0N3I2emE2Y1R3WXFhNVhNR1BkdGFadkx1SE1mNzE5dzU5ZHZHbEZGc0RCc2lnTG9sUlRnNU5Lb2RVNVA3enhUNGZ5Y1JkOXpNWGJBMlFYNnJwSkZfLXJ6b1I5YXBLYXBYbWlCbGFlWXcyUDhCa1B0c1hkUVdVaWd1X0dwcHUyWFRYOWs4QmFSOHZYTFpMYnJrMU9vNHRyeWQ5?oc=5"
  },
  {
   "id": "7acf57209a",
@@ -30138,6 +30869,25 @@
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY0gzNERSWlRNUlQta3VTYTBwZFhEalV6ekdNOE5hVWVpTll6YXNhTW1PRXNxdkJETnYtaXJOSDIxb2JXd25GczhCaUJEOV9VMzdvSkVYekdVTTQtRGt1Rk5mcjMxQlVpTWlacEtveTRfdkpzRVlRSnpabVVwWFV4Qy1kc3dWdzlVXzZ3ME00YUVqWnVER2JBaDA5Vmo1UjA?oc=5"
  },
  {
+  "id": "624c6806ef",
+  "datum": "2026-02-10",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Gemeente Land van Cuijk stopt samenwerking met TopParken na Bibob-onderzoek",
+  "bron": "Omroep Land van Cuijk",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Gemeente Land van Cuijk stopt samenwerking met TopParken na Bibob-onderzoek Omroep Land van Cuijk",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRE1Dc19jNHBOQzBFVGs1OF9ZeTVuSUt2M0JCUHNmaWFDbVRSR3p5MS1uTDJoemF2el9UV3dkWjc4WXhzeE5lbUZHeGUza1VBa1JGeU9GdUZnd1pWaTN6THNmejhfanRneFRNeDVrUDZQeHRYM3UxelJDZjV6OVYxT0NIQzlZU1Vxb3NPU0ZhaDRvcjNJRm1yN2tTa1MwTXRZc2lIeGl6X3lPR0U4V2x4SEwtbXlMVy00?oc=5"
+ },
+ {
   "id": "868ec5f3e5",
   "datum": "2026-02-09",
   "tijd": "08:00",
@@ -32071,6 +32821,23 @@
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNODBFQlFFcjJua0I4cEZtMDBNdnUxX1E5X05xYlgzR21UQmFNRlRKM3BQblRjNmtmQnBuQ1FJMjdGQTUwMU5jSnJYUU5ZaFZlVFFta2xvNl8tWFR2SU5KZDc4T01hMUVxZTBEY2ktVGV1azZqOWRQZlNHYURpOEhsZGt0Z3ZTVDRsclk2Z3k0UjlTOXc?oc=5"
  },
  {
+  "id": "1a5a67b2d9",
+  "datum": "2026-01-12",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Celstraffen tot 4 jaar voor medewerking aan invoer van bijna 5 ton cocaïne in haven Zeebrugge",
+  "bron": "VRT",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [],
+  "samenvatting": "Celstraffen tot 4 jaar voor medewerking aan invoer van bijna 5 ton cocaïne in haven Zeebrugge VRT",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFJuckY4ZnN5UF9DYm9ibWFKT1lCU1RMTVNpU3h5MGplZzFqcXhBS3BEZW5iVXJTYUc2V0k3dnVsdFI3bVZ6d083MW44UHF3UUhIT2lUNWV3TzFCSUs2V3EwS0xaUnczSmQyVGFNcXNwLUtkZDRGSkNWSHIycUJJUzlyRjRTbnJOUkFLd1RRWWRkNm9BOGl4U1VBVHhNczdpOUZ6MHFB?oc=5"
+ },
+ {
   "id": "9c39f476f7",
   "datum": "2026-01-10",
   "tijd": "08:00",
@@ -33267,6 +34034,25 @@
   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd1M2ZUFtMjNaWG5YZmdJRDJFZFhrby1fTVAyYzZEWXlnU3RKNFdiWFZOVzVmb2hyaGU4Zkg5Q1k5LUJmZC1XUTI4cUlFV2FPSjhOQVNYWFBWR25UVkVTbVluM1J2R2lfX2x6SElzZG5NVHBDWWFrYnBDMnN6OXM2U0hHendjd01oTkdqME1LX0pQOHY1NGJIdmM1blFyWDBpeHBpX1UyWTJKaDQ4LWFOTmJTY1JzdG9ZUEJnM0NCQmU2YVZUTThYdDlhMDZRV2JLU09oOFE5NE9QNVN3UkhhYmFZcEtjV3Y3ZFdMSnA2WWlGV191U3A3N0FTWQ?oc=5"
  },
  {
+  "id": "d868dbe6ce",
+  "datum": "2025-12-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Gemeente blijft afvaldumping relativeren, inwoners zien wél meer afval en rattenoverlast",
+  "bron": "ZwolleNu",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "Gemeente blijft afvaldumping relativeren, inwoners zien wél meer afval en rattenoverlast ZwolleNu",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemtfd1oxcktfNm9VRzRsNllIRTBpeE52SmdEMEFoN1hnQ1EzS2owTE9lTURFT1E5d09oZmdIdmFMdDJiUFpuTlRUbFpTcE9sek54cFpIX0lsNU9jQW1UcFJUai12V2tLQ2VON0FkVC1SMVJYaEFVOFBUVGloZjZTd2R1ZXNsYlYxNnZZWnI1UG5qM29ZZENBOWFCc0VWZjFuMWZmNy1uelgzeHVLMkVOX1VR?oc=5"
+ },
+ {
   "id": "a81d3af2b6",
   "datum": "2025-12-10",
   "tijd": "08:00",
@@ -33523,6 +34309,29 @@
   ],
   "samenvatting": "Kopstuk van Kempense afval- en mestfraude sluit deal met Nederlandse justitie in gelijkaardig dossier: “Winstbejag was het enige doel” HLN",
   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNkdMeUV0NVlrSXUyM2RJcHJETFZfSkZMRjN3N2t0Z1dnN3ZKTk13cU1WcDhBZUtWOXJxX0p2Q2pFaGdVc0JPQXF2STZNcHBXSnZWVEdHQlpPdS15SzhJNVRIS2kyRGJ4N0VpMm9QRk5EYlA0azBVZGFNVnhCNTRQRTR3Zkp3UU9ONEEyUThWZHFZLXVPX3ZJV0M4SHFHSkhCMUNiaHM0blVNVHlnRUhtMmQwcFVaUURSaGpzQ01CajJBcXVYS1JrdnRPM2wzbkRLM2FDM1hES2V4QV9ObzlHbEUyUmdvRElidUhqRF9ERVhLRjVZb1d4ZlE5LTBfemNTTzBF?oc=5"
+ },
+ {
+  "id": "c8d993beb8",
+  "datum": "2025-12-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Kopstuk afval- en mestfraude sluit deal met justitie: Peet W. moet 1,3 miljoen betalen en krijgt 900 uur werkstraf",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "kopstuk",
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Kopstuk afval- en mestfraude sluit deal met justitie: Peet W. moet 1,3 miljoen betalen en krijgt 900 uur werkstraf Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPckxneGlRWTV2VDg0c3g2MjdtNl9kRTUyT3hjbUtiZUs1VlFWSlpLWWVWdk5NME5scHZNV1ktUGFINTBwWTc2UjhtSXVBQ3hQbXVBTkxsbWtfaW9XVWhELThuTUV3VmRweEtDeUtqN0VXT0FZUElxSkI5M2xDVFRiSk5jNnJpVndtTkJyNDVGZjlRcUtxbzRKTFFKV3I3bUFoWHFUaTBqYndqeURZc1d2Ty1MOFRSZlBKQWFBQjJpeEdhLTA1UldEZmx0T05wTkltdDI5Wi1kRjNUM213aWI1a2Jn?oc=5"
  },
  {
   "id": "b388ee358e",
@@ -48263,6 +49072,28 @@
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUDA4ZEt5T1A0NzlObTJUMl96cmNiaHdZd2RwQ2NXRVk1bkY0Yk84VGNYSHNIMEdRWXB1N1RYLVlZN25neFFsWktUTE9kQmJxbEQzZHFsbEkxTFhQalFmMDRaWkpZdTJJQXU0aGJEQ21kU0ozRGxhSVNwb2U2aEoxYUowaFByc3NUdlU0SUlhQ3hpbnJESjBlQXE1TmxGTUdXVmNualdxeTgySHpsNnBfVV9ZUXI?oc=5"
  },
  {
+  "id": "0ecdc43645",
+  "datum": "2024-07-16",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Verdachte van dubbele moord Weiteveen ook vervolgd voor wapenhandel",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "moord",
+   "wapen",
+   "wapenhandel"
+  ],
+  "samenvatting": "Verdachte van dubbele moord Weiteveen ook vervolgd voor wapenhandel Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUmJPNVQySUFuUm5uUml1M3RNQVprdTZlWTZYb0s3Z21FYk50NHFSU0VXcXpVZXVjUjYzRWxNYi1BcjNfY0tHX0NJSmJmemp0bzJhSzRGek8tT01BalpMNVI4ajRSR2ZtMWtXZFVReENWQnFFdTkzRHlZbi1VQ3V4d29VQkc2OEtOVm5zQUVyV2gzcEhQWEd0T0p6Q3A3TFVLT1VKUTVwakNNZUpTR2kwaXF2UlZ6VW1pS1J3?oc=5"
+ },
+ {
   "id": "be74e0bf4e",
   "datum": "2024-07-14",
   "tijd": "07:00",
@@ -50734,8 +51565,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Corruptie & integriteit",
-   "Vastgoed & huisvesting"
+   "Vastgoed & huisvesting",
+   "Corruptie & integriteit"
   ],
   "tags": [
    "corruptie",
@@ -50916,6 +51747,26 @@
   ],
   "samenvatting": "Politie rolt drugslab in Drenthe op, vijf verdachten aangehouden NOS",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2l4MHIwVXhudHRZdURlQmFWY3Nvc0N3OE1BZnp5dkdBRDJmLTVFNDUyTS1xUW12SWdNQXZSQ0NSM3lqU0RrSzlUcmJ6ZFdZeUZtWnJZaTlUMS1pTTJUa296VFAzVmxtZUFCbXBnVjItOVFsYk42OTQzeGhCX29RMlRRckVwN01aTG1ZekpZN3lsaHNFVDg3Qkd3?oc=5"
+ },
+ {
+  "id": "49bdf53710",
+  "datum": "2024-02-02",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie verricht twee nieuwe aanhoudingen na drugslab Den Helder - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie verricht twee nieuwe aanhoudingen na drugslab Den Helder Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHBPT0RrbGlRNGN0X0hiaG9rZmZfcHZpUHpVaWo5NExBTE42UEdWT0NFWVNqTlZpUGFxck0ybDE2OXNZak5Md3FkQ0NUWFR1ZG1iRVVfSVZTdG1tcUJCNzRfdTA0Y3NFV3I4UkU1UmR0NnRKR2podlBpYmRCNkFCYmdMbW11RnFqRjNOTEVBdU5rRmJkRHJKNTlHZjdIUkpXQ2ZDcDRYNnJnWHl6QWFfZ1p3UlhCdXhwMVE?oc=5"
  },
  {
   "id": "4fe761a333",
@@ -54754,6 +55605,26 @@
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaGtGZ194c0pHN0stcHNaVTloejJ3RFR0cEVFcGJ1dGd1LUx5VVVLTXZhWXJZNU9IVUFBRE5vSXl5b0ZQbEE4ZnlhVFBLLUF4N1kzdnpEbUdIN0JMdXZlU3hZa1MydTVvRzZMRVRHZmMwSXB2cjI3U040NjMteGhBRGJKWDhXMk9wZ3hTY2pYXzhBMzg4ajdMa0w4TTdBb2dUekZiYjRkVmZrdmZfU244ZU5HQ1dOc00wT1Y2Y3JuVEoxeWdaRFE?oc=5"
  },
  {
+  "id": "43e47d5b2f",
+  "datum": "2023-05-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Opnieuw aanhoudingen in onderzoek naar grootschalige drugshandel en witwassen - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Opnieuw aanhoudingen in onderzoek naar grootschalige drugshandel en witwassen Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN01nY3JMYTFHSHBUN3h4WTZYV2tIZ0FrRjc1NThYaGwtWUJDVkFPNlRxbkRkbzBiaVF4SUhZRjEzMnQwcHpSMjE2U1p4UGVCM2p3Sy03cGRPS2FwNGZ4YXNENkd6X096MElOT3FmUV82SVdrbG5wNHdfVktSQVFfVkQ1N2ZxZVN1VHBZeTFTYTliaEhseGxnYXQybHlEWTMzcnllWUx6NjZYX3g1QURzLUhLY3pJdWxSYXQ2alBjYXpyRkY4bHc?oc=5"
+ },
+ {
   "id": "4e27a2c858",
   "datum": "2023-05-26",
   "tijd": "07:00",
@@ -55150,6 +56021,26 @@
   "citaat": "Ingrid Michon-Derkzen Tweede Kamer der Staten-Generaal",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDZfWWcwVXFJa2s3clBlLXpJY2x3a2N1M1pRSGVlWVpJLWI2MnVPbk9meS02V2ZINExRa2pIWnQ1Mks1VVEyMGc3MHZHTEo4MzB2V3h1VElnRXU4LUVuamhGTVVzenI2WlA3czloUlNpMXZVRUx4Sjd6bUdDY1VFcmZsWWVMWDhZMU5EWXpLa0NsZ3FCX3JxeFpYeTVJalA0cllhRFJQNk9oaksyalZCUkF6QWR4R0xiTmc1eWtRQkhCUThNZl9z?oc=5",
   "dossiers": []
+ },
+ {
+  "id": "57abecc9f0",
+  "datum": "2023-05-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drie aanhoudingen na ontdekken drugslab - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drie aanhoudingen na ontdekken drugslab Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTTRoYWNzLVBoTjBxaVhnNEFnaU1MdzF2cHM4aDN1eU1hVWlsN01YWnRMcjJPdUNleUtlcF9KaGI5SFpkSnY0RkdjaXBKTHc3R2VUXzBJdTlBYkVlczFGWjk1bGczdVNaZGVBQS1nSVJuQk5hQm5GamVRNmdZR3hxN2QtdmZCRkpYRUhpWW1fTlJlTUk?oc=5"
  },
  {
   "id": "685938cbbd",
@@ -56419,6 +57310,27 @@
   "tags": [],
   "samenvatting": "Lastig inzicht te krijgen in effecten van preventieve instrumenten tegen georganiseerde criminaliteit WODC - Wetenschappelijk Onderzoek- en Datacentrum",
   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONVBPTzNnUEVlSEFQNy1NQk5BX1huMGF3b01HN0FCTzdHa3BUNW91RlZrU0NhWHhudlllMDFncEo3V1lHS3VIVFFwekdRam5fSVdQSzF3WUE4dldfSUxEQ3lrOHZvM2JFZGl3eGNPTUpxODZkN0J5WmhZa3FReHhVUlBLb3poZUFHOC1XZm5SZ2hfR2pya3dLVWNlQUtxZ000MUFsa2hLLWMxNEZLYWtROGJPak02eWhqOF9OaVd6OHF0ay1OX0x2Ti1hSUFKM0VKaGppZGNMUlFlN0MyeGZKQg?oc=5"
+ },
+ {
+  "id": "21fc8cf4bd",
+  "datum": "2023-01-26",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij ontdekt, dure spullen in beslag genomen - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij ontdekt, dure spullen in beslag genomen Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRGhfZVR1bHZjWkFKWXFZcmVnM296eDc2bGVlTzVCb1B3eDViWkp5Y1F0clMwT0hKejB4MDB1WGdfdHpXS2k2ZDBUNlFvQ0ttakpMbHNnN3hlajk4ekpzd2VESDJCMEhJSS03NjNxWXYtemJSOFFXOVJIMk1aYmhobXkyb3hMZWQ2MG9zZ21XTU5ZeWJoSkJjQ0RVLURuS2o4cXVCVk9ia2xwenc?oc=5"
  },
  {
   "id": "0e93314c09",
@@ -62509,9 +63421,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Crypto & digitaal geld",
+   "Witwassen & geldstromen",
    "Goudhandel & edelmetalen",
-   "Witwassen & geldstromen"
+   "Crypto & digitaal geld"
   ],
   "tags": [
    "bitcoin",
@@ -62606,8 +63518,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Crypto & digitaal geld",
-   "Witwassen & geldstromen"
+   "Witwassen & geldstromen",
+   "Crypto & digitaal geld"
   ],
   "tags": [
    "bitcoin",
@@ -62887,9 +63799,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
+   "Drugsproductie & labs",
    "Cocaine, haven & logistiek",
-   "Drugsproductie & labs"
+   "Buitengebied & recreatie"
   ],
   "tags": [
    "cocaïne",
