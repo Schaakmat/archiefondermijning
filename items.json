@@ -995,7 +995,7 @@
   "id": "69533ff832",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Methodological Appendix",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1011,7 +1011,7 @@
   "id": "0a9ca6a176",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "5 Fiat Lux",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1027,7 +1027,7 @@
   "id": "415f8fea40",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "10 Outside Options",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1043,7 +1043,7 @@
   "id": "344e722eb2",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Conclusion",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1059,7 +1059,7 @@
   "id": "0dcf683214",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "11. Millicent Garrett Fawcett and Popular Political Economy",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1075,7 +1075,7 @@
   "id": "c63eb2b2da",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Introduction",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1091,7 +1091,7 @@
   "id": "5ed8eb9782",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Foreword",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1107,7 +1107,7 @@
   "id": "1d782b3f94",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "7. Suffering without Sympathy: Economic Relations and Violence in Elizabeth Gaskell’s Mary Barton (1848)",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1123,7 +1123,7 @@
   "id": "40739f335a",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "2. Mana and the Money-Form: The Political Economy of Hawaiian Movements",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1139,7 +1139,7 @@
   "id": "76bf47757a",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "13. A Wind- Swept Plain: The History of Gender and Ethnicity- Thought in the Netherlands",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1155,7 +1155,7 @@
   "id": "8d581ef30f",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "12. Breadwinners and Losers in Annie Thomas’s The Modern Housewife",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1171,7 +1171,7 @@
   "id": "45856c0583",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "References",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1187,7 +1187,7 @@
   "id": "839681bf7a",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "CHAPTER 7 “Training the Heart, the Head, and the Hand”: Colonial Education, Missionaries, and Industrial Schools in Korea, 1906–1930",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1203,7 +1203,7 @@
   "id": "d048924236",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "2. MOCRO MOVIES IN THE NETHERLANDS: EMBEDDING THE DIASPORA IN A SMALL NATION",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -1219,7 +1219,7 @@
   "id": "0084a3832f",
   "datum": "2026-12-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Waterschepen",
   "bron": "Crossref — ondermijnende criminaliteit",
   "verzameld_via": "Crossref — ondermijnende criminaliteit",
@@ -1235,7 +1235,7 @@
   "id": "bfe146ef0d",
   "datum": "2026-08-27",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Intertextuality as Reinterpreting Texts",
   "bron": "Crossref — ondermijnende criminaliteit",
   "verzameld_via": "Crossref — ondermijnende criminaliteit",
@@ -1248,11 +1248,150 @@
   "dossiers": []
  },
  {
+  "id": "0ca6097f17",
+  "datum": "2026-08-26",
+  "tijd": "15:29",
+  "nieuw": false,
+  "titel": "Emmeloord - Gemeente NOP belooft zorgvuldigheid bij ruimen verlopen graven Emmeloord",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar",
+   "gemeenteraad"
+  ],
+  "samenvatting": "Het ruimen van verlopen graven op de begraafplaats in Emmeloord gebeurt niet meteen. De gemeente neemt eerst verschillende stappen om ervoor te zorgen dat dit zorgvuldig gebeurt. Dat zegt wethouder Hennie Bogaards van Noordoostpolder na vragen van de raadsfractie ChristenUnie-SGP. Een deel van de begraafplaats is vol. ",
+  "link": "https://www.omroepflevoland.nl/nieuws/521451/gemeente-nop-belooft-zorgvuldigheid-bij-ruimen-verlopen-graven-emmeloord"
+ },
+ {
+  "id": "343df94967",
+  "datum": "2026-08-26",
+  "tijd": "14:30",
+  "nieuw": false,
+  "titel": "Swifterbant - Voordringen bij patatkraam leidt tot vechtpartij na dorpsfeest Swifterbant: twee gewonden",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld",
+   "organisatie"
+  ],
+  "samenvatting": "Het was een smet op de avond, erkent de organisatie van het dorpsfeest in Swifterbant. Na afloop van de laatste feestavond op zaterdag kregen meerdere mensen het met elkaar aan de stok in de rij van een patatkraam. Daarbij raakten twee mensen gewond. Volgens de politie ontstond er in de nacht van zaterdag op zondag ron",
+  "link": "https://www.omroepflevoland.nl/nieuws/521442/voordringen-bij-patatkraam-leidt-tot-vechtpartij-na-dorpsfeest-swifterbant:-twee-gewonden"
+ },
+ {
+  "id": "b79d013635",
+  "datum": "2026-08-26",
+  "tijd": "13:46",
+  "nieuw": false,
+  "titel": "Zorgondernemer aangehouden in onderzoek naar witwassen van tientallen miljoenen euro's",
+  "bron": "NH Nieuws",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Zorgondernemer aangehouden in onderzoek naar witwassen van tientallen miljoenen euro's NH Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3RkcTR4ZWNCaWhvUmE2YjVwZWNLekhmVE9hSjJrUFlJMGFXUGJ6R2ljUkQ2RFhvZXVmdXJCbWFpZUlNMG8wMW9OUjRzeHoyUlhCUG92MG9RdWlLOUFyZVZFdGlRVlVWN3VTNnJDY3lpMGtkV0hXdXZQUVV1YVhmd3UwcTIta1FZR2ktYXRhTHY0ZHhzdkhjM3BCUVNvREx2?oc=5"
+ },
+ {
+  "id": "685e4b196b",
+  "datum": "2026-08-26",
+  "tijd": "13:30",
+  "nieuw": false,
+  "titel": "Lelystad - Noodkreet over voetbalvelden blijft liggen: Lelystadse clubs willen snel actie van gemeente",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "gemeenteraad"
+  ],
+  "samenvatting": "Bij de Lelystadse voetbalverenigingen leeft grote frustratie omdat de gemeente vijf maanden later nog niets heeft gedaan met hun noodkreet om hulp. De wethouder werkt aan een visie, maar volgens de clubs is snel extra geld nodig voor de kwaliteit van de voetbalvelden. Dat bleek dinsdagavond tijdens een commissievergade",
+  "link": "https://www.omroepflevoland.nl/nieuws/521433/noodkreet-over-voetbalvelden-blijft-liggen:-lelystadse-clubs-willen-snel-actie-van-gemeente"
+ },
+ {
+  "id": "1c976f44ae",
+  "datum": "2026-08-26",
+  "tijd": "13:01",
+  "nieuw": false,
+  "titel": "Oud-medewerker jeugdinstelling veroordeeld voor verkrachting meisje (15): ‘Schrijnend'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jeugd"
+  ],
+  "samenvatting": "De rechter heeft een oud-medewerker van een jeugdinstelling in Alphen aan den Rhijn veroordeeld voor de verkrachting van een 15-jarig meisje. Bilal H. (29) uit Maassluis krijgt vier jaar cel.",
+  "link": "https://www.rijnmond.nl/nieuws/2244604/oud-medewerker-jeugdinstelling-veroordeeld-voor-verkrachting-meisje-15-schrijnend"
+ },
+ {
+  "id": "b146ff7e9e",
+  "datum": "2026-08-26",
+  "tijd": "12:48",
+  "nieuw": false,
+  "titel": "'Vreselijk voor nabestaanden', Joris Zorg over verdachte dood twee bewoners",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "Joris Zorg in Oirschot laat woensdagmiddag weten \"ontzettend geschrokken\" te zijn van het nieuws dat verpleger Jelle D. ook verdacht wordt van betrokkenheid bij de dood van een tweede bewoner van het zorgcentrum. De 26-jarige verpleger uit Oirschot werd zondag thuis opgepakt voor de dood van een overleden hoogbejaarde ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024562/vreselijk-voor-nabestaanden-joris-zorg-over-verdachte-dood-twee-bewoners"
+ },
+ {
   "id": "48cb431e62",
   "datum": "2026-08-26",
   "tijd": "12:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dronten - Pandeigenaar wil af van stroopwafelbedrijf en oude brandweerauto: 'Zee van ellende'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende",
+   "pand"
+  ],
+  "samenvatting": "\"Het is een grote klerebende\", zegt de verhuurder van een bedrijfsruimte in Dronten. Hij wil af van een stroopwafel- en foodtruckbedrijf waarvan de eigenaar geregeld te laat de huur betaalt en er volgens hem 'nooit is'. En dus stapte hij dinsdag naar de rechter. Het conflict draait om een ruimte in een verzamelgebouw a",
+  "link": "https://www.omroepflevoland.nl/nieuws/521432/pandeigenaar-wil-af-van-stroopwafelbedrijf-en-oude-brandweerauto:-'zee-van-ellende'"
+ },
+ {
+  "id": "035219e438",
+  "datum": "2026-08-26",
+  "tijd": "12:46",
+  "nieuw": false,
+  "titel": "Dronten - 'Grote klerebende': verhuurder wil stroopwafelbedrijf uit pand in Dronten",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -1268,32 +1407,157 @@
    "pand"
   ],
   "samenvatting": "\"Het is een grote klerebende\", zegt de verhuurder van een bedrijfsruimte in Dronten. Hij wil af van een stroopwafel- en foodtruckbedrijf waarvan de eigenaar geregeld te laat de huur betaalt en er volgens hem 'nooit is'. En dus stapte hij dinsdag naar de rechter. Het conflict draait om een ruimte in een verzamelgebouw a",
-  "link": "https://www.omroepflevoland.nl/nieuws/521432/pandeigenaar-wil-af-van-stroopwafelbedrijf-en-oude-brandweerauto:-'zee-van-ellende'"
+  "link": "https://www.omroepflevoland.nl/nieuws/521432/'grote-klerebende':-verhuurder-wil-stroopwafelbedrijf-uit-pand-in-dronten"
+ },
+ {
+  "id": "0331a4a204",
+  "datum": "2026-08-26",
+  "tijd": "12:43",
+  "nieuw": false,
+  "titel": "Politie vindt mogelijk drugslab in Apeldoorn, bewoner opgepakt en flat ontruimd",
+  "bron": "nu.CW",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie vindt mogelijk drugslab in Apeldoorn, bewoner opgepakt en flat ontruimd nu.CW",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnU2TGkxMm4tSFpvZGpMdEdleVFPb3VERk52d3d0ME1sRGVpaGdsZ3Z4X0RhbWp3N2R6ektyNGJqR0hCU1RPR2s0MG82THVLblFMa2VzRnl5VmN1MFdHdmdVZi03VkJsUHZ2TERiYnZ2VzJVdEpOLUUxSXFwRFdyc21yWnptM0JUM09GbVF0eEoxQ3ZxNzRIT1JVOWpyRGc0NGZOV0xJOA?oc=5"
+ },
+ {
+  "id": "38fc33af39",
+  "datum": "2026-08-26",
+  "tijd": "12:38",
+  "nieuw": false,
+  "titel": "Vrachtwagenchauffeur onder invloed heeft drie rijbanen nodig en wordt klemgereden",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Een vrachtwagenchauffeur is woensdagmiddag op de A15 bij Alblasserdam van de weg gehaald met hulp van andere weggebruikers. De chauffeur vertoonde gevaarlijk rijgedrag en bleek onder invloed te zijn. Hij is aangehouden.",
+  "link": "https://www.rijnmond.nl/nieuws/2244546/vrachtwagenchauffeur-onder-invloed-heeft-drie-rijbanen-nodig-en-wordt-klemgereden"
+ },
+ {
+  "id": "679b1bb732",
+  "datum": "2026-08-26",
+  "tijd": "12:29",
+  "nieuw": false,
+  "titel": "Zorgondernemer aangehouden vanwege betalingen aan spookbedrijven",
+  "bron": "Amsterdamsdagblad.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [],
+  "samenvatting": "Zorgondernemer aangehouden vanwege betalingen aan spookbedrijven Amsterdamsdagblad.nl",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGJoUk4tMi1oNVEwSG5tcHRVVkZnWFljUEFIaXhmRUNQQUIzUEhNZ2t0UEdIOExPTFV1c0pHd2VzYmFQREJjQlVWT3ZaTFIzeVhPM1o2Z25XNEVLVHc0RHUtTDN6LW8xeFVOZ3J2emo3NG4yX3JVM1dORjNLaG44RjdKMXMyVjhVVXZIM2dLRWxMelJRNGN4eFpfZ3VCTlFMd2dUbWRibGR4Qlp4NTV0eQ?oc=5"
+ },
+ {
+  "id": "cff7d948ce",
+  "datum": "2026-08-26",
+  "tijd": "12:20",
+  "nieuw": false,
+  "titel": "Complete flat ontruimd en gespecialiseerde politiediensten in actie vanwege drugslab",
+  "bron": "Headliner.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Complete flat ontruimd en gespecialiseerde politiediensten in actie vanwege drugslab Headliner.nl",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX1kxSVA4SjJWLTIyVnlxSUhTZVFxeWlueklnQjQyeFdlaHBOa2gzQXdGM3V0NHZBWXJ0Q3hBa1F3c2ZSRDNnRTBfZ3V3bmFya09TM2EwdGtHWVZTUVFHb1kzZkh4WVV0WFhJUVVrOFV3OWMtTjBGelMyTEVrc3NZZXJIRFRQeFd5ZXVJQmJXMWY5NjFfc0R6M3ZjVEV4dlc4ZU1SbkJ3TllrbEpFaTBjdXNMTnlzeXBtV0NKUmRtTUVIWXY1LUgyb3dfc0JPcWc?oc=5"
  },
  {
   "id": "708c560767",
   "datum": "2026-08-26",
   "tijd": "12:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "26/8 in Nieuwsuur: Agema en Westerveld verhoord • Joyriden op sociale media • Canada vs. VS",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jongeren"
-  ],
+  "dossiers": [],
+  "tags": [],
   "samenvatting": "Agema en Westerveld verhoord De coronacommissie hoort oud-Kamerlid Fleur Agema (PVV) en zittend Kamerlid Lisa Westerveld (toen van GroenLinks, nu van Pro). Ze zaten allebei in de oppositie en waren woordvoerder gezondheidszorg. De commissie praat deze week over de rol van de Tweede Kamer in coronatijd. Politiek verslag",
   "link": "https://nos.nl/l/2628359"
+ },
+ {
+  "id": "c8c15a5c17",
+  "datum": "2026-08-26",
+  "tijd": "12:07",
+  "nieuw": false,
+  "titel": "Zorgondernemer aangehouden vanwege betalingen aan spookbedrijven - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Zorgondernemer aangehouden vanwege betalingen aan spookbedrijven Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1V1NmFsOXh0NTBIYTVyMzBRaXFIbHUwSkRLbjJOYVZwSTdPWktVSWFuSWlHZTZ4WThCbVROUHUyTThDUXc2LWFUUFhPVnc5ZkZBdnlibWJVUVFPYUhXSlpaLXd2UUJ1N2N0TnZtcG9fZUV4T2tqa2RNS3UxTkFxT1ExWS1Va1NXQ3ZvVVJuNzJXenBCVXE2MWlSM19wTjctbXN0cElyeFJ0UkVVMUlvQ3VGUm8wSG5sU1dn?oc=5"
+ },
+ {
+  "id": "1820f109a8",
+  "datum": "2026-08-26",
+  "tijd": "12:07",
+  "nieuw": false,
+  "titel": "Inbrekers duiken bosjes in bij Boxtel, maar politiehond bijt ze eruit",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Meerdere verdachten hebben zich woensdagochtend verstopt in bosjes en sloten van een natuurgebied bij Boxtel, nadat ze betrapt werden terwijl ze inbraken in een vrachtwagen. De politie ging met honden op zoek. Twee verdachten werden daarbij gebeten. De vrachtwagen stond geparkeerd op een parkeerplaats langs de A2 onder",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024559/inbrekers-duiken-bosjes-in-bij-boxtel-maar-politiehond-bijt-ze-eruit"
+ },
+ {
+  "id": "81ac135dbf",
+  "datum": "2026-08-26",
+  "tijd": "12:00",
+  "nieuw": false,
+  "titel": "Huiszoekingen FIOD en politie in onderzoek naar drugs en witwassen",
+  "bron": "Rijswijks Dagblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Huiszoekingen FIOD en politie in onderzoek naar drugs en witwassen Rijswijks Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZjhteUhlNy1CZ0liLWZBXzRUdTVBb0o3RndmN2F2d1hjMS1rUms2aE9VZ1NpRElqTndkMzU0WWhWbjhLNV93MTVyc2RJY1RCcG1hYm5ONUlLZjJkUmUxaEU3QjlaSjU0ZklRb1NUMFo1aWd2c0NRelJya09FeEZFY3VwczdUNGNnc1U3eWpieFJvRUZ2ckd2WVdpYmtuSmZ4cGhIT01scWl0LU1rb3pGaW5DaGd0eW1I?oc=5"
  },
  {
   "id": "cd015c172d",
   "datum": "2026-08-26",
   "tijd": "10:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rechtbank wil zelf gaan kijken bij synagoge na aanslag",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1309,10 +1573,48 @@
   "link": "https://www.rijnmond.nl/nieuws/2244523/rechtbank-wil-zelf-gaan-kijken-bij-synagoge-na-aanslag"
  },
  {
+  "id": "c9e4d0164d",
+  "datum": "2026-08-26",
+  "tijd": "10:59",
+  "nieuw": false,
+  "titel": "Rechtbank wil 's nachts zelf gaan kijken bij synagoge na aanslag",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "De rechtbank overweegt zelf te gaan kijken bij de synagoge aan het A.B.N. Davidsplein in Rotterdam, waar op 13 maart 2026 een explosief afging. De centrale vraag bij deze 'schouw' is of de bommenleggers konden weten dat het om een joodse instelling ging.",
+  "link": "https://www.rijnmond.nl/nieuws/2244523/rechtbank-wil-s-nachts-zelf-gaan-kijken-bij-synagoge-na-aanslag"
+ },
+ {
+  "id": "3415463d42",
+  "datum": "2026-08-26",
+  "tijd": "10:57",
+  "nieuw": false,
+  "titel": "LIVE | Politie deelt 'laatste update' van vandaag over de ontruiming in Apeldoorn",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "De politie ontruimde woensdagochtend een flat aan de Eburonenstraat in Apeldoorn. Die beslissing werd genomen nadat politieagenten er in de nacht van dinsdag op woensdag een mogelijk drugslab aantroffen.",
+  "link": "https://www.gld.nl/nieuws/8513183/live-politie-deelt-laatste-update-van-vandaag-over-de-ontruiming-in-apeldoorn"
+ },
+ {
   "id": "caafc79ac4",
   "datum": "2026-08-26",
   "tijd": "10:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Honderd woningen in Apeldoorn ontruimd vanwege een mogelijk drugslab",
   "bron": "skoften.net",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1333,7 +1635,7 @@
   "id": "013c4bd509",
   "datum": "2026-08-26",
   "tijd": "10:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Opnieuw vermoedelijk drugsafval gevonden in Enschede: vierde keer in korte tijd",
   "bron": "RTV Oost",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1354,18 +1656,14 @@
   "id": "d477db3514",
   "datum": "2026-08-26",
   "tijd": "10:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nederland krijgt onderzoeksprogramma long covid, voor gerichte behandelingen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
+  "dossiers": [],
+  "tags": [],
   "samenvatting": "Er komt een landelijk onderzoeks- en innovatieprogramma voor long covid en andere post-acute infectiesyndromen. Dat heeft de initiatiefnemer, de Stichting Long Covid, bekendgemaakt . Het door de stichting gefinancierde onderzoeksprogramma is opgestart omdat het overheidsgeld voor onderzoeken naar long covid opraakt. De",
   "link": "https://nos.nl/l/2628349"
  },
@@ -1373,7 +1671,7 @@
   "id": "17d28b4e1f",
   "datum": "2026-08-26",
   "tijd": "10:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Opnieuw vermoedelijk drugsafval gevonden in Enschede: vierde keer in korte tijd",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -1395,7 +1693,7 @@
   "id": "4e059dad8d",
   "datum": "2026-08-26",
   "tijd": "10:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Honderd woningen in Apeldoorn ontruimd na vondst van mogelijk drugslab",
   "bron": "NOS",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1413,10 +1711,50 @@
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2RjVzdkZGE2WXpPZHlQSXZMSk5HZldoVGVOZVU2ZklmekJORDJfVGZ3SW1jc2Q3OHZTQUZWMUJUN2xKVU4tN0JuTmdRd0xoUnFGeFJ3Q1JIYWQ5MS1rYWl0LTcwM1NTSEo1V0tjVGdiRVNPSFY3Y0FsZlgzdWhzdzJqNHRVU0djcmp3MTc0UW1PdDlCRmtmd3VwUUZZMjZwQjlJ?oc=5"
  },
  {
+  "id": "3026feab02",
+  "datum": "2026-08-26",
+  "tijd": "10:34",
+  "nieuw": false,
+  "titel": "Verpleger Jelle D. ook verdacht van dood tweede bewoner Joris Zorg",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "Jelle D., de 26-jarige verpleger die zondagochtend thuis is opgepakt voor de dood van een hoogbejaarde bewoner van Joris Zorg in Oirschot, wordt ook verdacht van betrokkenheid bij de dood van een tweede bewoner. Het gaat om twee hoogbejaarde mannen. Het voorarrest van D. is woensdag met twee weken verlengd door de rech",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024538/verpleger-jelle-d-ook-verdacht-van-dood-tweede-bewoner-joris-zorg"
+ },
+ {
+  "id": "f7535789f4",
+  "datum": "2026-08-26",
+  "tijd": "10:26",
+  "nieuw": false,
+  "titel": "Honderd woningen Apeldoorn ontruimd na vondst mogelijk drugslab",
+  "bron": "Actueel365",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "woning"
+  ],
+  "samenvatting": "Honderd woningen Apeldoorn ontruimd na vondst mogelijk drugslab Actueel365",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSndEbV9FRlJZYXJvTjdlUEw0bmYwYU45b09UaGhNQTZOVDVHbEdaMlBMUVotcWYtN2hCTktlTVVYaFFhTmV0WDc5RGpDYUNqSTVCSVJzVGtEaXlCOTJmOFFlTjk1S2NMT0Y5OWZ1UDdndl85OXJwMk9EQ2d3Q25qYQ?oc=5"
+ },
+ {
   "id": "e314cdd031",
   "datum": "2026-08-26",
   "tijd": "10:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Fietser gewond • mogelijk drugslab in Apeldoorn",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -1435,7 +1773,7 @@
   "id": "a83a3e0995",
   "datum": "2026-08-26",
   "tijd": "10:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Voor de vierde keer in korte tijd worden in Enschede vaten met (waarschijnlijk) drugsafval aangetroffen",
   "bron": "1Twente",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1457,7 +1795,7 @@
   "id": "0db232b924",
   "datum": "2026-08-26",
   "tijd": "10:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flat in Apeldoorn ontruimd na vondst mogelijk drugslab en wapens",
   "bron": "112apeldoorn.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1557,6 +1895,27 @@
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTFkWHRjemZ1MVVmSWpuVTdrQW5NQXFoTmw2RHN1U2laMFJuXzZmNWpnQ09Zai1kOXNiU2tPMU1XWHBLR2ZZdHJudzUzY09WOHRyUG5hdGJSMnpJV2JqdUR0NzVUT3Y2ZUlHRERyclZLR1VHVDJVdVV1M29acTRabmZjZnJPQnVQdkcxMHRXVWRCWXQ4d0JZVXdVMmRFT1hM?oc=5"
  },
  {
+  "id": "8fea31ec57",
+  "datum": "2026-08-26",
+  "tijd": "09:58",
+  "nieuw": false,
+  "titel": "Mogelijk drugslab ontdekt in Apeldoorn, HONDERD woningen ontruimd",
+  "bron": "PowNed",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "woning"
+  ],
+  "samenvatting": "Mogelijk drugslab ontdekt in Apeldoorn, HONDERD woningen ontruimd PowNed",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSVRSZTh1dW51YlZGOWVqdHhGZUhzRlNrWVgyZkdaWWZfY3dWQmxwYlJETXJKdnQ1SS1PeWNXV0dzVW5ObHdDVkZfOC1rTEduaFJ2ZW5EWTl2ZDRBTURjMnFZLUh4RUZDTXRBVU1Yek1CRHRTQkdhNjh4ckY2TmRPclZqR2NJcUdKNG9ubEFXOHpwaFI4a1h5LVlyc3NTRHU0M2c?oc=5"
+ },
+ {
   "id": "552f543485",
   "datum": "2026-08-26",
   "tijd": "09:50",
@@ -1567,7 +1926,6 @@
   "soort": "Persbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
    "Drugsproductie & labs"
   ],
   "tags": [
@@ -1668,12 +2026,8 @@
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
+  "dossiers": [],
+  "tags": [],
   "samenvatting": "Zwemmer Maarten van der Weijden heeft woensdagochtend een cheque van 704.127 euro overhandigd aan het Prinses Máxima Centrum voor kinderoncologie in Utrecht. Dit geld heeft hij vorige week ingezameld met een grote zwemtocht, die hij door ziekte niet af kon maken. De 45-jarige zwemmer uit Vught was van plan om 270 kilom",
   "link": "https://www.omroepbrabant.nl/nieuws/6024532/maarten-van-der-weijden-overhandigt-cheque-van-ruim-7-ton-voor-kinderkanker"
  },
@@ -1688,11 +2042,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages",
-   "Geweld, liquidaties & bedreiging"
+   "Autobranche & garages"
   ],
   "tags": [
-   "beveiliging",
    "garage"
   ],
   "samenvatting": "“Als de politie je belt, schrik je natuurlijk, maar nu zijn we vooral boos”, zegt mevrouw Van Poppel, terwijl ze woensdagochtend tussen de glasscherven naast haar auto staat. Voor de tweede keer in een week tijd zijn in de Zwijsengarage in Tilburg meerdere autoruiten ingeslagen, ook de auto van het echtpaar Van Poppel ",
@@ -1821,6 +2173,27 @@
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakdERUE5a1FNWThBRmoxdGdIcEJ3NUlwcnpCS1loSXZnWEhyNHd4a2QxOGd2WlNCd3FxOURROUo1bXpURTZ0UHp2X0RYX05BVGNlX2xiUXA3V0NDbF9DYjdtVGlRcm5TN0huNnZZbUh2THJWdU1iQmRsQl9OQXhiaUZPZ2xYRnFIanNfQ0pIekEtc1ZaQmp3STlvWkk5dWV2?oc=5"
  },
  {
+  "id": "3a4b19b27a",
+  "datum": "2026-08-26",
+  "tijd": "09:03",
+  "nieuw": false,
+  "titel": "Drugslab ontdekt in flat, honderd woningen ontruimd",
+  "bron": "GelreNieuws",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "woning"
+  ],
+  "samenvatting": "Drugslab ontdekt in flat, honderd woningen ontruimd GelreNieuws",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVZLMlMtaFlhRl9CWllMNlFIcUZBSnppei1leHFZUTY1VTg2Z0JNWllCYU9jOEJla0c1T01vbllUTEk3UnRlWElUUFZJdXE1NkZwUkcxTjJRQmVZN2dWdktTNVBkVGFNOS1DVGdOQ3U5TkdpR091bjhmVlE5ekozQTJEbmdjcG1sWFVyMkxDUWZVSTk3?oc=5"
+ },
+ {
   "id": "46c0b876df",
   "datum": "2026-08-26",
   "tijd": "08:53",
@@ -1863,6 +2236,25 @@
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbkJXU3JQRTZ2SVpzcjhJWkZVRXpKZndIWjFNMXQ2VEEzdW1ILVhXUDNMSkRObHgtSWU2dUs5ZW5lSjdkXzBUSmVKWGNzMEtmenRxbEVxdG0zQllNeDcyaFhBYnVEOXA4U1ZaWkQ0d2RqZzUwaVI5eWVkQU9xVGllSVF0NWtaMFJRTHFyMU42S1Ayc1F3S0hDOHJURXdTNmIyNVFoQWhDRWpUeFp1Z1BWNFM1b3lFU2hNMXY0R1pJaGpnSlAw?oc=5"
  },
  {
+  "id": "f62c5ac238",
+  "datum": "2026-08-26",
+  "tijd": "08:53",
+  "nieuw": false,
+  "titel": "Politie ontruimt flats in Apeldoorn na aantreffen mogelijk drugslab",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie ontruimt flats in Apeldoorn na aantreffen mogelijk drugslab AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbk5JaXJOQXpwN1A1WEhjd3VMYjlHTi1hVkNxQXh4YXdLX1NIMVIwYWd0VUFabFBpNUJwUnBLUEw1cElyMW1hc2loeGJqZEhsM0lrVFlESU94cWZTNlpLTWZabDdFc3EycXBFbDJuTEt0Z09XMjZESDlYdHNNTUpOdUhXWW5SVnk0NUpkYWxLSEV4Z1F1eWVZUVRQYUxKUEZQUWE4M0ZEbjhSUQ?oc=5"
+ },
+ {
   "id": "c242ee9b6d",
   "datum": "2026-08-26",
   "tijd": "08:43",
@@ -1880,6 +2272,27 @@
   ],
   "samenvatting": "Politie vindt mogelijk drugslab in Apeldoorn, bewoner opgepakt en flat ontruimd NU",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWpETC1QaUI1cno2dm1yV0hyVElYdlpXQ2VsU09nT09RNFJYME1EZXN5ZnBJRWViXzlUV3NUSTNMMGowUFFGN29QWEEtLWNEc0wtUWxveWoyS1NEcHh3S1E3eEZYU0E3R1Jfd3lsNXlxbnNiekloMHVzM1NHcFlEYkdJR2JCZndIQW9uVTZzWlEtcHlReVVZdUM2c25YamJvbXB3MEd2c3ZKOEtfOG1QVWUtUlItUE1QNlNBSw?oc=5"
+ },
+ {
+  "id": "ebbbf70ea2",
+  "datum": "2026-08-26",
+  "tijd": "08:43",
+  "nieuw": false,
+  "titel": "Honderd woningen in Apeldoorn ontruimd vanwege mogelijk drugslab",
+  "bron": "NU",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "woning"
+  ],
+  "samenvatting": "Honderd woningen in Apeldoorn ontruimd vanwege mogelijk drugslab NU",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUZJdkFYR0pPaVdhUmJoYnFyVkRrS2ZNQjBla08tdUp2VzNDUVVsZkFjVmFCejlXaEJJbThKSk94eFF1UExSc3RDcnU2OHdBcUN2Si1JcHNvdHRxd3J6R1VLYVVjMEFwTmNLUjhodmNnX2NRNmNkQlRZUUgta0s1MGVQRE1iT1NCTDhIdHZUZjBWSWt5YS1pNEJjTEctSk16SDdsTXRLYlJXdw?oc=5"
  },
  {
   "id": "403c16ec0a",
@@ -2040,6 +2453,25 @@
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1pmSVRYQU9pTHA4NXVjcUNUYzZsV3JHLXNTZWE4cHd2NUI2NW1DNk4tOVNkTTltc0tCZE1MVmQzUGhucWt1Ykg4bjBOeEgwOTV1VlMtM1ZwNHE4RlpaTWFCd2tqQ05JcGtTV1hzY2Jkclpja0xzQ3lKalBnYi1FdVc5QjVzMl9Oeld6ZVRnWTRpV3dYR09fcF9QM2N2ZkQwZHlzRGIwdDU2S2JjTzZN?oc=5"
  },
  {
+  "id": "31f2d8666c",
+  "datum": "2026-08-26",
+  "tijd": "07:25",
+  "nieuw": false,
+  "titel": "Politie doorzoekt flat in Apeldoorn na rumoerige nacht: ‘Mogelijk drugslab’",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie doorzoekt flat in Apeldoorn na rumoerige nacht: ‘Mogelijk drugslab’ de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYVhLZGxFVmRoRnU2OE5fejBHNVQtMERScFVISjZJVm12RDZsU2x3dXpVS2dGQUl0aXQtVVFIZExZd29TRnlrSUdnSnlNX2xtck5nTTVra2FsOW5FQVlsaWIxYmZhNUlWaWNTUkhhUDVfLWtQV3FsblMwMFk4V1JRVTR4dVllZHhLdUZoWU01Rjd1X1JjMGozZi13X1hHdzlrS0N1Z21YT0hGUm9keWN3S2NXbjdielFJ?oc=5"
+ },
+ {
   "id": "a84eaec9d3",
   "datum": "2026-08-26",
   "tijd": "06:59",
@@ -2072,6 +2504,25 @@
   ],
   "samenvatting": "Huiszoekingen FIOD en politie in onderzoek naar drugs en witwassen Voorburgs Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1ZDdGhYRnBlZmdpQVhmMy1qdEdHZEN4QTBxeVZIbmM0RXMwbklaVXU0MjIyMEhfTUwtRmV0RlpPcE1memZGSjlVR1p3Q3JwaEs2d2w5R3ZFQkZyTER0UTVBNGoyQzhNRVhPc2dLYTNpZllpQ0c4VUE4azdOMjJNbE53Y0ZGcTdCeHZ4ejRMbWtBcEFnTGVpX2VEVVNBMnNIZnI1QldvNkNzSGh6RTJ3SWZjTWhPZDR4?oc=5"
+ },
+ {
+  "id": "19356a3859",
+  "datum": "2026-08-26",
+  "tijd": "06:06",
+  "nieuw": false,
+  "titel": "Huiszoekingen FIOD en politie in onderzoek naar drugs en witwassen",
+  "bron": "Zoetermeers Dagblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Huiszoekingen FIOD en politie in onderzoek naar drugs en witwassen Zoetermeers Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOFpDMUJxbTFjYXVXX00yMVhjTVUwMWp4T0dleTBaY2NIcl9MWWUwbllGbnlSVTg0UVZFX2VKU3BNbnppVjAtZ2xxamltLUNUYjgwWDE5dnV0WS1xUnlDOFZkSGpuQm1ucTRmdnRwRzF2Y2JqQW1RZDVORDVMSnB3c0diOHpPM25xWU5xNE9vV0NpM2djb1FRUlZ1X2xBV1ByR0VSVnl3UkdQV0dzU1dLaXdXME1BakV2cHFB?oc=5"
  },
  {
   "id": "153483c7b0",
@@ -3364,6 +3815,44 @@
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVIzQ3VLQmVNUVM0a1NDd3JQNm5ra2JiWVRzTldNbkI4QV9DQTRFU3ZHSHVlZGkwQWxIbGRTeXZmdlpXLVVnUzU5UWJwSVlPakFWck9TZ0k1UWh0ZENHS3FqTEMzMVIya0RPU2VMM00tQnF6TjJOT3FfdU1DbXpMa0cyZkVMY3F0WWtJdE4ySm16VHZKeFJxT2U2S2JQZ0FGYjdNYTdDVG41SXI2RGUwOFlnZGJkZUU?oc=5"
  },
  {
+  "id": "5f7478c126",
+  "datum": "2026-08-25",
+  "tijd": "08:26",
+  "nieuw": false,
+  "titel": "Drugslab gevonden in Berkel en Rodenrijs, verdachte aangehouden",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab gevonden in Berkel en Rodenrijs, verdachte aangehouden Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2JxYUFkdENyY1c0bU92MWNGaG9WV21FZ3BTblBvWkhaUkQwWm1pejRlTWFLR2dSMk9zRWlKRTNyZmZtTnZXYW5jUGRBY3A3bHpPaUlRWmhEODRNX3JPa0ZELVZFZWw1OXp3ZU51ZE15MTVJay1idHptd2RjZUZlMEE2MndLTS1GaVNydWxoMlg5a2FEaEdzTm9PVzFkMUpxQVNhclpMYW8zZw?oc=5"
+ },
+ {
+  "id": "7f6a284228",
+  "datum": "2026-08-25",
+  "tijd": "08:26",
+  "nieuw": false,
+  "titel": "Drugslab gevonden in Berkel en Rodenrijs, verdachte aangehouden",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab gevonden in Berkel en Rodenrijs, verdachte aangehouden AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTHY5Q3hDc2o0N3plU3ZNWXFhZEUxWHM4eEY1eHFwWi1BVTU0cEZTb2hLVDIyUE5pbUoyakpfd0NwTVBDRGU1U1BIUlltQWNMUVQ3aHJJRDBkUnlnbEYxUEt5d0k1RVp4ZmFhOFdJS2ZrQ01TQ1BQV1l4TmlDYW9uWE8tdGt0aEJZa0RRd2duNE9YcHpMN2czQk5ucjhQcjJXeWI1QVMwY1loZw?oc=5"
+ },
+ {
   "id": "0d54e54c8b",
   "datum": "2026-08-25",
   "tijd": "07:49",
@@ -3776,6 +4265,25 @@
   "tags": [],
   "samenvatting": "De huidige aanpak tegen vuurwerk in voetbalstadions heeft veel te weinig effect. Dat zegt het Auditteam Voetbal en Veiligheid, een adviesorgaan voor de overheid en de KNVB. In 2018 werd nieuw vuurwerkbeleid gemaakt, maar de afspraken van toen zijn volgens het Auditteam niet meer dan een \"papieren werkelijkheid\". Nieuw ",
   "link": "https://nos.nl/l/2628191"
+ },
+ {
+  "id": "b2788f474c",
+  "datum": "2026-08-24",
+  "tijd": "21:44",
+  "nieuw": false,
+  "titel": "Zorgfraude op politieke agenda in Zaanstad en Wormerland",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Zorgfraude op politieke agenda in Zaanstad en Wormerland Drimble",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc09IWlkxU0F1Y09aLWU3SUJORlIya2E3RldRZUZQVHdQRmZFMmhBRlRzVnBnV3ZZeUFaWU9YdVJSaElKM2ZDSXFESEpCR1EtSXRkNF9OS0ZVVTRPTnppTFdNSGxCWER0Zko2OXE3VmROcVpFc3NuR3BZVzBUbjJGcGlLbE9MNFNCMXc1Z2ZHeThLRUY3SnVjcGZsRFhZTUpyYm9CMFlnWktjUnJuWmljb2VzMDRPNHRsTks1TkFR?oc=5"
  },
  {
   "id": "d784c47695",
@@ -9686,8 +10194,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Ondernemers & weerbaarheid"
+   "Ondernemers & weerbaarheid",
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
    "ondermijning",
@@ -10059,7 +10567,6 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
    "Buitengebied & recreatie"
   ],
   "tags": [
@@ -10379,6 +10886,25 @@
   ],
   "samenvatting": "Ondergrondse hennepkwekerij in Edam Politie.nl",
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb1FvQVJHQkZ5VlZKNi1sUHdNMzdXRld4MkJQOXFqUWJuR2hEalBWdHFNNmwyamgwTFE1LXpuNUZZTnJxLTJXVS1VWTRlMGZtcGdCOXY4N0lWZWJXTXU0ckZlMG9GemxRd0ptQlpQNHdpd2otM2NqdnBXWC1tOFJJc1JVc2kwb3p4YVkw?oc=5"
+ },
+ {
+  "id": "cff523aba9",
+  "datum": "2026-07-25",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Danny is op zoek naar iemand die twee weekjes zijn wietplantage water kan geven",
+  "bron": "De Speld",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Danny is op zoek naar iemand die twee weekjes zijn wietplantage water kan geven De Speld",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOGFQWUJ2bnlZanREaXRTb2ZwaHBqUmZwQ3J5Z01iamctejVPbmZ3VXBJWXlwU2lDcUd2X3E5N2l3TTVjbVpka3BCYXQ0dGtGeHc2R280b2g0ZzNCaXphb2N0cnh4Yy1EN010ak1NMHNaUUJtRUY3bXVBOERSRmNxalktTEdNTE9mVElMZUg0YVIyeXJoT0tzaEw4czVBRzVxWmtvb1FuaWw0bFRy?oc=5"
  },
  {
   "id": "f1146dc8a9",
@@ -12316,6 +12842,27 @@
   ],
   "samenvatting": "Waddinxveen stelt Damoclesbeleid voor sluiting drugspanden opnieuw vast AD.nl",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXcySjFLcW9zSE41bFd3UjB4RHJGWm9NR1QzRmZ1OFZjVTRfLXhndGpfX2ZKOGRON1dHX3ZsSVlDNmxkUEhTcU43LUQ5dWpMSHFwM2pSYlQwZEp2Z1cxV05tQ2FvY0hTMXM5QjFtYVFvZlRMS240cUhGQzhVNk5ONGhiNkpYTjY0eFgyVUo1bGRVRGhRaDZSaWlaZ0V2S2hTcndIUFIwZVIzckF4Vm1JdQ?oc=5"
+ },
+ {
+  "id": "4cf069abeb",
+  "datum": "2026-07-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Geslaagde bewustwordingsactie tegen ondermijning in (jacht)havens in de Hoeksche Waard",
+  "bron": "Hoeksch Nieuws",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven",
+   "ondermijning"
+  ],
+  "samenvatting": "Geslaagde bewustwordingsactie tegen ondermijning in (jacht)havens in de Hoeksche Waard Hoeksch Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2RJelNULUp3ek9DeUZYZ2daOXRPY0lFdUJzZU5TLVM4ZlU1NzZxQ1RjeVByOEdSSDNWbHZOVkRMN2FvYjJGVEM2NjNDUk95V25WVUtVWkNVSm1GWDNHdkJWWk1XRjdHdmVTUUFXY2UtS3BZZV9vUlAwYkxOYVlqOE9hQkJ6NkE0c29lcmxpTGFmR2NpOWszUk05a1d6V1hYN1hfNVdXNGNXRlFRaXJkbFFURXQ?oc=5"
  },
  {
   "id": "2c05985f69",
@@ -14573,8 +15120,7 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Autobranche & garages",
-   "Beleid, wetgeving & toezicht"
+   "Autobranche & garages"
   ],
   "tags": [
    "garage"
@@ -15869,9 +16415,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
    "Goudhandel & edelmetalen",
-   "Vastgoed & huisvesting"
+   "Vastgoed & huisvesting",
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
    "goud",
@@ -16788,6 +17334,27 @@
   "tags": [],
   "samenvatting": "OM eist vijf jaar cel tegen ketelbouwer (60) uit Rotterdam Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTRRQTNQTERTRlBmaUxtRjYyOGNWY215MlJCYTdYaExrV2FTMHpISVRyZERINkpuVVAzcjF3cEE1a0lJRVNBRkFCeTYtQXN4ajlvUDl5R1k1NHY3R3dMWWdCbHhxR2kxSEM3SHY2N1MtOHlpQU9jektNMHpSeXBvYjNEdHVxcnpPNjBOWVR0dDE3ZHRpWWNGcThTQXlkU0tMaWc?oc=5"
+ },
+ {
+  "id": "1913b99c31",
+  "datum": "2026-06-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gesprekken met bewoners buitengebied over ondermijning",
+  "bron": "Nieuws.nl",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "buitengebied",
+   "ondermijning"
+  ],
+  "samenvatting": "Gesprekken met bewoners buitengebied over ondermijning Nieuws.nl",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUkxFM1NGQzAxeWY5MW9OZlZTcFBaRTdCSG1IeGc5OHJUSjJhY2FWU210Nk8wcnBWNzN5NGtZc0J6UkFNVVhMbURuM2MyXzFQNmF0NmJsUkF5VnZVU1RaMHNiOEVDdnExUTNMb0hWT3pMbzBrLTJyM2tTNUJ0YXczeVptMmU4RURwQTBsT1g3NA?oc=5"
  },
  {
   "id": "c9234f8f76",
@@ -18098,8 +18665,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Buitengebied & recreatie"
+   "Buitengebied & recreatie",
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
    "buitengebied",
@@ -34527,8 +35094,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Crypto & digitaal geld"
+   "Crypto & digitaal geld",
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
    "bende",
@@ -38805,6 +39372,26 @@
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnVpUndCVHJsTUpTUGlBV2xhR0JKRkdYUUtHSXRaTlBCUmZWbVdkeW9TQl9xV2EzTXNfdXA5NTZTLV9ZZXVYc2RNRXFQV3F1V09KUThKc2dRQkZfLUpweERwWklhbl84aDVOSi1xR1BSUjB4M28tUzFSM1lVeXpzRm5JYi14bUFmX2c?oc=5"
  },
  {
+  "id": "e172a77b76",
+  "datum": "2025-08-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Pgb-fraude door zorgcowboys of familie blijft aandachtspunt: zo voorkomt u dit bedrog",
+  "bron": "MAX Meldpunt",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "pgb",
+   "pgb-fraude"
+  ],
+  "samenvatting": "Pgb-fraude door zorgcowboys of familie blijft aandachtspunt: zo voorkomt u dit bedrog MAX Meldpunt",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFNVNzR0YWpBWXBLbzItWkdxckQzT3BGbmx3NzB1ZjFXQnlJNmpmVGxEMEMxajFGLW9fbXdGZDVDMk9EV2hpelROejI1Q0U4aHFubE51NzBfUEM4MnJ2NHFNQTM5alUzV3RaUWEyb09ya2pVUkFEd3p6TXdWeHpnQnF3S1ZIaGk0eV9rUHVzNzdFRGZpRjhfS1dWamhRMHNVbzZuYm9lanNjUERVYXRXOW5Hc1U3amNh?oc=5"
+ },
+ {
   "id": "06236164cf",
   "datum": "2025-08-01",
   "tijd": "07:00",
@@ -39117,6 +39704,25 @@
   "dossiers": []
  },
  {
+  "id": "fcc32efd49",
+  "datum": "2025-07-15",
+  "tijd": "15:24",
+  "nieuw": false,
+  "titel": "Zorgfraude of misbruik van zorg melden",
+  "bron": "Gemeente Groningen",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Zorgfraude of misbruik van zorg melden Gemeente Groningen",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YR2JGMldSMFRlSkdwcFk0SURLZjZFQmY0ZFZlaXFhT1FYTzMwS2F5Ri1LTWdsVmZKMW54UTYwbUZma0g1bVVvcVJsMENFdTk3blVhRHZMTUtLN21KRjVnV3ZDeEpodWpnS0k4aTdvT3g0TWY3NGFr?oc=5"
+ },
+ {
   "id": "dd86b105af",
   "datum": "2025-07-15",
   "tijd": "07:00",
@@ -39317,6 +39923,25 @@
   ],
   "samenvatting": "Rechtbank Overijssel doet uitspraak in onderzoek naar grootschalige hennepteelt in Twente De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPdGozRU9lcTI3d1RpLUxZTzRPYnRPWUJxbWJTbkw2TE51aF9PY1V4VkZFbmoxQU5pbm5sMW9tell4SXl1WWJrd1N3V0didEpJanBCSlFzTWlDdGdYRVRham9ndnA0NUdnR0dGcWo5MzVmUnVqbEpld21yQlVDU1JCN0t3UzZOWlQxeWlrb09UMDNvYnNMYTBKazZzMlVpS0FBS25xZHVLaGVpVS1MX0RKSUNGNWlFX01yZXRqT1BjYXRjbFMxVXI2TXpLeU1BQkFsVGJ2WHN0TzJSUGotX1Y5MlZTZzVJWG9nc1JQRTI3M08xb0ZXY3doMVFlV29ueHNlNUZOZlBVblduaDZBQXU0LXJBS3BQbEhORFR6bnotNWtyOG9BTVE?oc=5"
+ },
+ {
+  "id": "b60c27ae92",
+  "datum": "2025-07-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Waarom zorgfraude bijna niet aan te pakken is",
+  "bron": "EenVandaag",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Waarom zorgfraude bijna niet aan te pakken is EenVandaag",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSF9kU3NVTWI4dHQ1VVNRMFpZYVhpLUdabWxpMHdsTXJ2Y1JIalJWUm1wVWJmWHhlQUFVRUptMnY5ZUROMmI5WEhSYVFsOWNoY2trbDJ5cmI4VkVXb2V6QVBYMmsyeDNEUTRYUTdGamYta2J3ZUhjWHlwYkdBbEVJaWxzeW9GZ0hLbjBvT3BtVFExWEVJUXh5Mi1IOVc?oc=5"
  },
  {
   "id": "2f29c6dff4",
@@ -41327,6 +41952,25 @@
   ],
   "samenvatting": "Celstraffen tot tien jaar gevraagd voor smokkel van 3,4 ton cocaïne waarbij topcrimineel Bolle Jos “sturende rol speelde” Nieuwsblad",
   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOM3hESEFYRlhmWURsVXN6R09selNDMTUtNzZvLVE1a0F1bG1rN29NZUFSNHEwSGloaWx6N3VobEQzZC1vcTlOM1YzYXRYbHZ2ekl3MVJQWkc0OC1QdnZzalJQUUxTYk5vaXpBX0tnMjRVZHBaaGc0VXFnUFpRQWpqTUJVcmNfZkM3WXNMSVp6Z2pSODVNU1huQktqMnNfUnpxZjVsd09ySW9ydlhpZkF3QXJDdjl6V2dvS045QzB5bldvV3l1MWVZNVhXZ1FLZjBpMjhsZWhNOUtUMk9FaEdKSU45elV5OUdVMnMwWUNKaWpmOUdhWWs5eWhKdTBFZ1VhTW13Xzh2THA2MG5PbHk3Y2dBdzQ5UDRSbU05OW9oV2tNRDhoVVk3elpVZHJKTHhzTzZ1STVfTGgzNy14R1E?oc=5"
+ },
+ {
+  "id": "1e47844520",
+  "datum": "2025-05-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Rechtbank Overijssel spreekt 53-jarige vrouw vrij na verdenking van zorgfraude",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Rechtbank Overijssel spreekt 53-jarige vrouw vrij na verdenking van zorgfraude De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNemd0R0ZQcmxMT1lwM2NyWHBlSklqb3RKM2xESEt6SVBWc3Z5UU45X2VDTmQtWVhPSmJiOC0xbEpOMFNiOE9jLXVzZlJ3N2lfYllpRXBZOXNiZ0F3QmM5MWE4NG1FS3hQdjNZbUxZSnFIS2twZ09adGxvY1RNY2NhVjVyenNJV3ZJbGxHcWhoVTJ3a0hvR2Mxajg3dXZnTnhBS2IzWEx0Ui1GSzdGdzhncnVQd1FSekFaVm9LdjNrVnhqM0xqM0ZNYktIOFZ1bndfZjl6T1dmSTU0Z0ZSVzFuSWJveXNEZ2FfaXM1cHZ2ckhMTURBT3ZFcGZSa3RFQl9pY3lzaUxEaGZmRVIyaEZ3S2hxb1JnZFU?oc=5"
  },
  {
   "id": "938fdc9aac",
@@ -43665,6 +44309,46 @@
   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONktBQzJUM1g2M3JETUhPWnFkb2ZsdTNxTlA5dFhJOWRaYzhEQlptc0RxYkhtOTBhakVsUzRqMjZkMlBPdVBtWU1jRjg2M1NVemh5NS1DSTZ5Rzk1VkFsMzBxZUxSb1BVWEU2blFueTdacC1qcXNKajc3MjlibWZvb012UVB6NXpYbm02MUdveTJVNVpncTR2ZnU2dUh6TndmblNXa2lSVlNOUU5JVmdzcF9janNTN3JFZ0NkQmlraGN0dHRPT0tPby1aVjhVLWh6UjdJUEJmMkk1QjljclZqSER3NlNudFlobEE?oc=5"
  },
  {
+  "id": "468f5157ce",
+  "datum": "2025-02-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Meer 'kliklijnen' voor melden van uitkeringsfraude",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "uitkeringsfraude"
+  ],
+  "samenvatting": "Meer 'kliklijnen' voor melden van uitkeringsfraude NOS",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMmxSREVtUC1Rb1ZhX0o1a2xYM3Jlb1JJM1cyNXZWMXp1THhablM1Vzk4MjlUUXEtUDRaT242M0M4dGpiSVJ0NkVicFZNQXBKTUlmdzZhcmNzX0djQzdrM2I3MzZBN0lKMEdfVnZPako3Y0xYMVZqaTlsVk1ETEJoekdDUTkwQQ?oc=5"
+ },
+ {
+  "id": "e108c22d1e",
+  "datum": "2025-02-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Klikken over uitkeringsfraude? Dat kan in steeds meer gemeenten, maar ook kritiek neemt toe",
+  "bron": "EenVandaag",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "uitkeringsfraude"
+  ],
+  "samenvatting": "Klikken over uitkeringsfraude? Dat kan in steeds meer gemeenten, maar ook kritiek neemt toe EenVandaag",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSlJKRml1VVRzY0tLODdiWjY4cFk1VjcyUGEtS1JRQXVkbkJhUGQ3VldZYzd0enZvQlpqd1NSZ0JjalE1V0dTOS1yWjBDSW44aUtnTFQwdjBNNUNfaTQ1OE83WDNVRnRNWjlaV3ZiNXZrOE1RZ2theXhKSzRsV2NLdVRmZVBVVUZWUHF2RDZHWGMtVXZDcnZkZUt5VTdva042Sk83cU84N3Z0cWxhNTVqNURBYVhoZ2gtamNIYlZJN043eWk1ejVNcV9hLVhleENQVFJj?oc=5"
+ },
+ {
   "id": "5bc038e0ee",
   "datum": "2025-02-14",
   "tijd": "08:00",
@@ -43759,6 +44443,25 @@
   "tags": [],
   "samenvatting": "ECLI:NL:RBROT:2025:1579, Rechtbank Rotterdam, 10-263248-24 Rechtspraak.nl - Zoeken in uitspraken",
   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DNE1vVEtuNEpWWXFlQnNyRDFnbElQdG1JYjlfTzdyTVpGTkw0RVRUakhOZU1HbkJrN0M5eHo0aldHM3FValVRaUR3RmVTWEtEbWpPV01ISDJNalh3akVKT3FrMzZBTkdKQ1hiM3kzM1Q4TUp2VTlr?oc=5"
+ },
+ {
+  "id": "9ff89eb2ab",
+  "datum": "2025-02-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Aanhoudingen en zoekingen in Vries, Assen en Beilen in onderzoek naar zorgfraude",
+  "bron": "Politie.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Aanhoudingen en zoekingen in Vries, Assen en Beilen in onderzoek naar zorgfraude Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3VuMDR0ZkNZU05GN1pSQlJKd1lsOWRhR1pNM1RxYUtCOFFITXFLRUxlbVZJX2JXQUdlcGE5cEtXdm9sYXNIU04zc28yN2RTTXhaWjhuWTQtQ0RNTzRrNUhVY3I2OVdqY0hQT3NTaFpqNm5NbG5HQnRXV2ZMUWczY0U5cGw5RVNjeXdMQ3FiazZmNmJMMEpkOWRiTnE5MVZIOGFSTGUzWE0wZTVrZkVBUWZ2S2lDSzR3alVEZ29UNElzTnNyLUFSTjV0OFV4c00?oc=5"
  },
  {
   "id": "005061c1e0",
@@ -47329,6 +48032,44 @@
   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKbkhjdW1kZU1wZzJveVJYc2Z1VXdEV244UWJnRFZxbEQzU3ZhaTUtYWFjZnU4X0R6WDYxTGVCdGZiZTl3U1FfMTVRNE45VEsxSXBXQ21oaUlWZmJ6cGxXN1RwSnNkd21va0ZrVHpfcnZSNGJSR0Fn?oc=5"
  },
  {
+  "id": "44daef7bc8",
+  "datum": "2024-08-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Duo uit Apeldoorn veroordeeld voor zorgfraude",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Duo uit Apeldoorn veroordeeld voor zorgfraude De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNzNuQjNldHhRc2xFYzlySUhtOFBGd0JQNDRndXJTc1lKM19kZW92a01zMjFQT2tZNVEtVjlIdkZiaDVvU3hqXzhRS3NuTXk4Z1VqdjUyRHVueWk3dnBJVndMaVRPUDVickFTc0Y0S21uNGQwVkl0ZDVQRExEX2FmV2dnc1RHYlhYVGdRX3dnd2ZsYVhJMWFYREp0elZlQW5wVUNpa21BLU9PcjhMZWVYXzRPTjRReDVPRHNBVU5ZbzJqR3VZczBpZVpFRWFtWDVFYlEtbmViYUV4bmpaQW1IU1hDenN5V3R5UWdF?oc=5"
+ },
+ {
+  "id": "48579635a6",
+  "datum": "2024-08-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Proeftuin Aanpak Zorgfraude - VNG | Vereniging van Nederlandse Gemeenten",
+  "bron": "Nieuws — Zorgfraude & sociale zekerheid",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Proeftuin Aanpak Zorgfraude VNG | Vereniging van Nederlandse Gemeenten",
+  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PMEF3YlVpN045RWF4VUpodHhqNjlsUVVfUDBEOVpSdERwUFdicWhTdk9GVGF1SlM3WWRkRDlwdWQzVEdqNEpSQ0JwZmtmVHdRUXNTa0lEX3J1aXJyWFctLWtn?oc=5"
+ },
+ {
   "id": "1d9662a236",
   "datum": "2024-08-14",
   "tijd": "07:00",
@@ -47367,6 +48108,25 @@
   ],
   "samenvatting": "Mogelijke relatie tussen brandstichting in auto van burgemeester Buma en zijn inzet tegen drugscriminaliteit Omroep Leeuwarden",
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWd1SFlSSU1RdzhHZ0FESFU1M0tCdHcyUFFybklnN09ubFR2MmpMZDNTQ25DLXFIMUdMaXg3c3lFT1E2UUltRm9TWkJ1U1IxSkJMdF94N29VdVl4TkUyRnZtM09xZFFzaVpqVkZNU3lyRDd1bHZnRlg4VFc1ajJCSW1YQi1yUUJTWW9leDlTY1NwM1d0MzZGVElpSXZ3akZNVzBSLTBEcUpvX0xiTXZiczZDejlidjB3NHRmS05LTmc2anZoYmZ2Nm5fMGE0RHFfTHNJ?oc=5"
+ },
+ {
+  "id": "9fba58aafd",
+  "datum": "2024-08-07",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM: zorgfraude 10 miljard per jaar",
+  "bron": "Binnenlands Bestuur",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "OM: zorgfraude 10 miljard per jaar Binnenlands Bestuur",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnVLMHg2MVlUVndCM29TRzFmYnFjWmdtcmxWZUw5VWtra0RqZ2QyUWFWa2hDUlRkdDVpNUxoajNZVDV4UU1KN2lHS2FhZ2VnR1k0MEQ0bE9aSmpmZGFaXy1UeV9JeDlKbnhvZTh3SlVGRnBTYmVqQnpUcUZ0SDBfbEMySUR6SlR2RW5OaWNR?oc=5"
  },
  {
   "id": "60a1dae26a",
@@ -48626,6 +49386,25 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "266e310094",
+  "datum": "2024-05-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Aanpak van zorgfraude blijft achter ondanks kritisch rapport van twee jaar geleden",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Aanpak van zorgfraude blijft achter ondanks kritisch rapport van twee jaar geleden NOS",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUkc4aW85OWZfVFZseTFGbzZYamFEQlZuZzluMEY4NGVXQk1UeWdjbWZvZlBzNkF2ZlJjTncyMkxBTnc5RzZWdjBhekstcVhvZ2xkQzc5X2VLMVNaTEcyWmh1VUNZTzNCYXotQzVNYkxzUW5ubkdGd1N3cVU4RVdpbmVFNXNzakM5ejBpam5xREJDNjFOOGlSNEs5V21MLVBmVFo5ell2NWo4QXNSZHBpUWlxYw?oc=5"
  },
  {
   "id": "5330bd28eb",
@@ -49943,6 +50722,27 @@
   "tags": [],
   "samenvatting": "ECLI:NL:RBAMS:2023:8717, Rechtbank Amsterdam, 13/285054-22 Rechtspraak.nl - Zoeken in uitspraken",
   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWVlgyZ2NPa1RydHRpNkZ4T3YxOXhWTGduS0QycEl0d2p6allhUGEyLWlJeDNjUEhJMGlhLVdfTnBUb3RmS0N3OVUwNk1lTGktdTVfZk5oV2dxeURpOHJoOWstOTlvb2hqQjllME1UMmw1TlhpTlF3?oc=5"
+ },
+ {
+  "id": "6d73866437",
+  "datum": "2024-02-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Medewerker woningcorporatie aangehouden voor corruptie",
+  "bron": "Politie.nl",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "corruptie",
+   "woning"
+  ],
+  "samenvatting": "Medewerker woningcorporatie aangehouden voor corruptie Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFhzdlNDSVpPUk5iV2dzRjBPbGlYOEtvNHN4OVhMa2FCTEExTldxcUlTM1dySFRfNmt6NVlCX01hbkpzdTNFaDAwWExQN2lXTEZFeEkzek93ZlJNZzUzWDd6QzFNUVNjYUF0ZXdwYzFrRWpKWjVPa1lTVDlBVVVGS3FFYlM2TTBUY1RQWm9yX2RqY3FEU0pRZmNIWHBLa2NmbU9Md2lFamdBTEhHZGc?oc=5"
  },
  {
   "id": "9b87991010",
@@ -51313,6 +52113,26 @@
   ],
   "samenvatting": "Steenrijke Nederlandse cryptobaron (51) opgepakt in Colombia, werd over hele wereld gezocht AD.nl",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmxNcnRqcl96WWM3T3lObkw2dUlhX1RnZ3lkLUJxQklEMDhfQ20zcUh2bUF4RWV1OHFRTmFILUwxbUxETnhIMl9WOWM3MHFlYUtLcG5lZzdGN3h6a05JMXpQYllDWVdqY1dlUUlxTVVlZlRxLV94N04yR1JwMXRKS2l6RXltYWpQTURwSUotc3hiei1oNHdvY01wMUpxOGo3V3JiN1M5WHVHcFpfdGtVSlF1UmYzaUgxalRsT3l6NU5fZTlld0E?oc=5"
+ },
+ {
+  "id": "5753ac0f76",
+  "datum": "2023-12-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Tot 6 maanden celstraf voor pgb-fraude",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "pgb",
+   "pgb-fraude"
+  ],
+  "samenvatting": "Tot 6 maanden celstraf voor pgb-fraude De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNczQ3UnFZNmRsZFE3ampxQ2ZBMmpsSkMyV1EySEZrSVVSNGRqNFZCSjBScjFYMlFiQlZaLVpsQlNVNktsSkxKVkJueTB1YXJnRTdrOTlSOHh0N28wSXRjaFQ3RkNmUzZxaS1wZXdlcXdJWTQzcTdDaHBjNE16bGJQX1RhTmVHNG11YWs0Rk8zTlptdWlBNG5NQTAzR0tsbTZGNkhWSHpTWURtbS1Ca1JvQl8tcGJrYVRBT0ZXRXlTVmxDclhIU3FuM18tOEVuMXVFOGxGRzRSVDh6Sl9PNE5TM2t3?oc=5"
  },
  {
   "id": "1277ce073e",
@@ -55601,6 +56421,23 @@
   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONVBPTzNnUEVlSEFQNy1NQk5BX1huMGF3b01HN0FCTzdHa3BUNW91RlZrU0NhWHhudlllMDFncEo3V1lHS3VIVFFwekdRam5fSVdQSzF3WUE4dldfSUxEQ3lrOHZvM2JFZGl3eGNPTUpxODZkN0J5WmhZa3FReHhVUlBLb3poZUFHOC1XZm5SZ2hfR2pya3dLVWNlQUtxZ000MUFsa2hLLWMxNEZLYWtROGJPak02eWhqOF9OaVd6OHF0ay1OX0x2Ti1hSUFKM0VKaGppZGNMUlFlN0MyeGZKQg?oc=5"
  },
  {
+  "id": "0e93314c09",
+  "datum": "2023-01-24",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Vijf nieuwe aanhoudingen in grootschalig drugsonderzoek - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Vijf nieuwe aanhoudingen in grootschalig drugsonderzoek Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQVNUckg3RGNnY3dtNEctWmZyLUxOekV5emg0b0Fwc0RiRE5ZM0VEWHBtbE9BSjM5X3FNeVktbTA4M1pBc0tlRnNDZVNHNDNic0RHaFl1QU1ibVZTOGNRczVES09ET0U1eGhUb2JRUGNJVHpEWXM1dTNjVlVyYndOWlp6NmZXd0hkZUNEMUxRRnpEVlBBZ0Ywc2laUmRMMGZIaVN3R2xnbEpsdw?oc=5"
+ },
+ {
   "id": "b98f0d7376",
   "datum": "2023-01-24",
   "tijd": "03:49",
@@ -57377,6 +58214,25 @@
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPek5GR2FpWmhtcGtlWGRoTnVjUkk1WHd6SFg0aFhsR3BOTUJ4VTBraDZiN1JyejlMWlJiSGVxUlRHMDZGOGtvbEhKMlBGWHJYS1VGMTNjN2JkWWM3dWtqeXVHRWFCVWh4bndhS3pucGs4ZEZGV013WlZLdTkwMEJ2WU1TbHVPX0N0ZDZTNG92LTVxYi1rZmJJcVh1WVlaem40ZHR6dmZB?oc=5"
  },
  {
+  "id": "2c2c326ff3",
+  "datum": "2022-05-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Het OM treedt op tegen zorgfraude en eist flinke gevangenisstraffen en geldboete",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Het OM treedt op tegen zorgfraude en eist flinke gevangenisstraffen en geldboete Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYUdwS3Z5cU5uVzA3d1ZoRXZnSE5ORjl3WDhGRk0tUHI3TzVsMlNVS0FjQXpub2IxdGk5bFY2MTZIX1J3TGRYZ0hVcDdBczU3cGM2QTZlVzdlcC1tWk1WX1B6Z1hpMmllZHBVWEEtRGI5QWcwWm1ObS1wUFVCM0NHeHotRzYyaDFJeVZVYW1aM0NRcHhuVFI3NktmeGx1TXJBTi1OajNfYWF3eDNoa1lqbDVkeldGb05wei1WWmR2N0hNZw?oc=5"
+ },
+ {
   "id": "1a9da70c32",
   "datum": "2022-05-14",
   "tijd": "07:00",
@@ -57546,6 +58402,26 @@
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVQaTVfYWRFX2JITlp1c3J0MVU1b1Fqc042VHBXaEkxNUZNV3h0cXRaV1dUUWZpcjBoMzh3OGg0MDktSVZ2dEtXTmNqTDVzekhjeGVNaGJ4b0tnWGhwMFM4VGZUeWtmU2dPalRtQVJhRmpwdGstODQ3U21uSmFnelhIUFp2elRqR2F4aURUbE9CemNXaG9kbFlXenFqdlJfREZaaFV0aWt1VEtFclV1NEo3cDRfUmdY?oc=5"
  },
  {
+  "id": "30f3e49f75",
+  "datum": "2022-04-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drie verdachten aangehouden voor vermoedelijke PGB-fraude",
+  "bron": "Nederlandse Arbeidsinspectie",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "pgb",
+   "pgb-fraude"
+  ],
+  "samenvatting": "Drie verdachten aangehouden voor vermoedelijke PGB-fraude Nederlandse Arbeidsinspectie",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0FMNmhCel85aXI5ZTZrRFlrb2F3RVNhZmVCVGNCUWhNZzNrWW1XZ19pSkJ6MVM3cWZLYXlhV2FTVlhBSU1LamN0U05FNHB0aTdtRHprbnQ0ODQwRWRvU0VIejdLa0oyY3FHYXp0MzVpNGxhRzJCWWo5bzhfb0ZiaXNvaU80SDM0TlYta1RzSmlLLXB0NGM0U3pNb3MzYmY4Z2pqSnFWMEgza0NXYjYzWEFRODhMNWNP?oc=5"
+ },
+ {
   "id": "395309484a",
   "datum": "2022-04-15",
   "tijd": "07:00",
@@ -57563,6 +58439,59 @@
   ],
   "samenvatting": "Hun roebels wegsluizen, dat deden Russische oligarchen via Hoofddorp NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1FHYmdMakxOTTJ2X1RfN3ZMNDBMUi0tNC1rU0g3alRJaDdTUUFqTGYwNmpPdHVfRkVUWE9BMmk0T0J5dnBSX2s2Y0RyY1dsS3ByMEZmZDNhSEJSOEtpVENVdVRPV2NFRGMzTzVVUlR3NTVob3RjTUwyYUhzSW1sdkZoS2lacU1MWUdzakktLTNBeW5LQk1WMWI2ejNKYWJMdUMtVXBERWNMcmRVREsxZk1UQQ?oc=5"
+ },
+ {
+  "id": "dbb822d089",
+  "datum": "2022-04-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Een zorgelijk gebrek aan daadkracht",
+  "bron": "Algemene Rekenkamer",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [],
+  "samenvatting": "Een zorgelijk gebrek aan daadkracht Algemene Rekenkamer",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdFN1eFBCUE0wVk5qRTItb3RUM0JRc2RfdjVyNlFXVzdLekFkb2VxendFT2NKaEZCWmFJREJpQW84RE1nVTR4dWp3ZEM0c09XSlg0Q09aTDJDbzdtREE4bEFBNlh1YTgxV0FfRTBHbzJndHhDMC1hdlpyR0lLU2RyTWpINi0?oc=5"
+ },
+ {
+  "id": "1d8f9486aa",
+  "datum": "2022-04-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Taskforce integriteit zorg",
+  "bron": "Nederlandse Zorgautoriteit",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [],
+  "samenvatting": "Taskforce integriteit zorg Nederlandse Zorgautoriteit",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tQmRIV1piajRqUjFiNFR3WDZnbWJQY3pCeUpIaGhUdklqWnppRElvckRoYXNEZ2VTcnVKblRUc2FUX3pFVGI3M3lJS21QVGVUaUZGSHYtaF9CcEdaVzJPNUFWcTVXNU00aW1JQXF3UTMwb2NjdlpMX1BOZ3Y?oc=5"
+ },
+ {
+  "id": "5f05fa8f89",
+  "datum": "2022-04-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Aanpak zorgfraude is vooral vergaderen",
+  "bron": "Algemene Rekenkamer",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Aanpak zorgfraude is vooral vergaderen Algemene Rekenkamer",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRF9sWEZadE5VTW9RTzB3VHZscDd5NHVTYW8xUWxTdV92WDYtZll0d3FjY2VBdmNoTVZvVW8tcWE4bnlTZV8tRU93LXhNbVZxZXEwN0d0NFg3UHpqeDF3Mmg2aHBRRzhxQU9VRElXLUJ1bmx5X1B2ZGlRT2d3U0xPR01UbjE0NlpETzJHZExjYksycGlX?oc=5"
  },
  {
   "id": "d66b860714",
@@ -57717,8 +58646,8 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Drugsproductie & labs"
+   "Drugsproductie & labs",
+   "Buitengebied & recreatie"
   ],
   "tags": [
    "drugslab",
@@ -58513,6 +59442,25 @@
    "Bibob & bestuurlijke aanpak",
    "Corruptie & integriteit"
   ]
+ },
+ {
+  "id": "b4570a4f9d",
+  "datum": "2021-12-03",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Vrouw aangehouden vanwege zorgfraude",
+  "bron": "Nederlandse Arbeidsinspectie",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Vrouw aangehouden vanwege zorgfraude Nederlandse Arbeidsinspectie",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUE5zOFJ3T1UwamlfUE5xbFFRbzc2cnl0TGs0LXY0RmJoNGpuN19LanNSY3ZrVE5DNDdkeXNxeS00TVNUcWhoU2ZvQ0l1d3V4MmpyMklHaG5fRGh6eGJtSEtXVGlKeFF4dHBOcEppT0JYUnBtUmFQc0tYOUR1X0J4bktVWEtuaUFjTW5KLTRFQ2FRNDl2WVpHa3pqTEM?oc=5"
  },
  {
   "id": "9831cf63d4",
@@ -59883,6 +60831,28 @@
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3hvQThVT3B3THUtZldOSGJWY1hwZDlZYjk5blpTQTl0VnZUcDhkeGNWbGsxMjRYTlRWQ19jU0ZacWJQNlNHR3BKcS1ldWZKelBVemdScElZclhWMGNMYlRNa3R0UGtQRnNyVVFFUWR2MmtJbS1VTkU2SjVSMXhBS2p6NkY3TUo0YnlRYnlGSl9pUzN1TVkzUVdQZ0xDM2lLSDc2bmpkelpMZkpsMFBGeTBrVGhIaHpFNkwxdVBmRkxMQ2tWb3RzUldZS3lreXpJV3JIaA?oc=5"
  },
  {
+  "id": "78b440df6e",
+  "datum": "2021-04-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugsbazen laten uithalers stikken in bloedhete container: “Stuur eerst foto van zakken cocaïne, dan komen we jullie redden”",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne",
+   "container",
+   "uithaler",
+   "uithalers"
+  ],
+  "samenvatting": "Drugsbazen laten uithalers stikken in bloedhete container: “Stuur eerst foto van zakken cocaïne, dan komen we jullie redden” HLN",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYU1fbDRZTFFFZ2M0Uk4tV2VlLWdjR3pXbU1IQlNmc1d5X0lpX3JyTHdyZmRUT2Q2YXZGblU4T3RSV1JRenBVUVZxVXR5eHQ2QVdDNlZrNzJUcldaczZSbC1ub1FyOVQyc01vZFpSZWsxdHVhZnRuWF9NTWt6TzVoeEg5X0xERUZ3X0lvSnBUSG9laHlZUW01NnRTR0w2T0ZVd2lfNjQ2UEE3Vk5TOGpIRjc3SWQ2RDJNeVdpa0NsUmNGTllpYVltUjFoQmw5WDdZcUdNUXRFejBxNW15bFNOd1BBRXN6Y1RFQWw1dFl5TmQ?oc=5"
+ },
+ {
   "id": "7753632bcd",
   "datum": "2021-04-21",
   "tijd": "07:00",
@@ -61245,6 +62215,26 @@
   ]
  },
  {
+  "id": "3a5679bc46",
+  "datum": "2020-04-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Container Best onderdeel van smokkel 1459 kilo cocaïne, vijf mannen aangehouden",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne",
+   "container"
+  ],
+  "samenvatting": "Container Best onderdeel van smokkel 1459 kilo cocaïne, vijf mannen aangehouden Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaTVWMzVuMjkwbk1WNWt4LUdGanJoQlZOVEpiOHg1d2tMTDgzanJ5SE5MZE1TbWt5STNOSTdtbG5xam9sOXNacDFYX1h6cHdha0VBR3NvZkRhT2J1YUg0RDZQS3NDUkx2S2VqQk1VMzI0UE1nUjdCTTRzQ1VoZEFwN3JhVVdBSWZoUjhIZzNvdHJFalpXT3JTcGx2c0FCYi1XeDNxT0JmVXZYYUZScFktbkZOU1RzQ205NmdyTzdhRldWZnZPU0hvUnNR?oc=5"
+ },
+ {
   "id": "de3a92df6c",
   "datum": "2020-04-08",
   "tijd": "07:00",
@@ -61509,6 +62499,68 @@
   ]
  },
  {
+  "id": "524794785a",
+  "datum": "2020-02-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Man uit Noordwijk aangehouden voor witwassen van 2 miljoen met bitcoins: kilo’s goud, auto en sieraden in beslag genomen",
+  "bron": "Leidsch Dagblad",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Goudhandel & edelmetalen",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "bitcoin",
+   "goud",
+   "sieraden",
+   "witwassen"
+  ],
+  "samenvatting": "Man uit Noordwijk aangehouden voor witwassen van 2 miljoen met bitcoins: kilo’s goud, auto en sieraden in beslag genomen Leidsch Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQW5zU01pN1ljMWN6ZDFvcm1meXVoVXc2TXlNamg1akFod0hUYkxoeU5ZOVB6b1hSdGFjeDdlTEtzbmJfb2lBcjNOZ3ZRUUZpQnZyWHdDUWFUY2dYc244WGtEMmRfbVcySFFlZzNhejVVbk8xdm1ZYzFmSEVIc0JTdkdpTWVacUVocFdRWnU1Q2VIdzJ3ZFVQQWU0MGFkUnloeXpKVUNpV3AzejBIQlhwcXFHaUx1Y0NFMlNfOXlkZ2VwdVVtWFV3dzRyWWlTakRkczM1OHBERGRyZzh6Mm13dlQtQzA5SUpHT0VfZm85WmNFOXBKY3BIRktlTFZzMzgtbWdEUm8zVFZaUlVINVV3cVplWkhiM2lu?oc=5"
+ },
+ {
+  "id": "618d241409",
+  "datum": "2020-02-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Vijf minuten werk, tienduizenden euro's rijker: zo simpel is zorgfraude",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Vijf minuten werk, tienduizenden euro's rijker: zo simpel is zorgfraude NOS",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0dOMm1zeGxwTGdWT0hBZU5fclp3VlhIMS1lNnU0ckZfSzZDX0hPNmFwa0VRdGxTVkJqeHZSdHNqT1Bmc1NtdldWZVJSSmhBYmFzR2pXdTN1aGRrbmRlMy12MG1MSEVvdTlpVlpKNEtSbDhhOV8wVi1NWGF5bmNRRDFaY1pwVlZtZkMyQWVMR0kxU054U2NqT0hLc08zd09VdU0zb29VT1FJdy1Ic3Rn?oc=5"
+ },
+ {
+  "id": "82daa363b6",
+  "datum": "2020-02-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zorgfraude gebruikt voor financiering terrorisme, Kamer wil actie",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Zorgfraude gebruikt voor financiering terrorisme, Kamer wil actie NOS",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWVNTnpPRjliUnNDUjZ1b1VLRF81YkpIaVRqTDRuU2JQR0xKV0dHU082MEszN2RaQjhRdVhvNGRjbWQ5dFpTN2RMemh4a3E3cEZpbmFzYlBWM0ZROHpVdHBuS0NZQUt5a2pKNnI4Q3VhZXF0Q0hmODVOVVNJdGlYam5adkZGVzFlT2cwRmFVOWFMT1puMmVWaVFrX2NFZk43aTRibDEwYmE?oc=5"
+ },
+ {
   "id": "38a0c82686",
   "datum": "2020-02-11",
   "tijd": "08:00",
@@ -61542,6 +62594,27 @@
   "tags": [],
   "samenvatting": "Ruim kilo fentanyl in beslag genomen in schuurtje Eindhovenaar Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGtDZ2xwS2RKcFJwaGx1ZU15ZXVFd1RzN1FxNlBfREt0RnNhRXBIdUdCX2FINTFHeFVkOTNQR3B5c1ZvS3VfUWRPVGR1SHZJTklaazVpNnduUHduMnVLWlhKaG9RbGpwZmIyQlllRFZ3SS0xSThiZDgzb1Vjc1o5RDN0dVlKS2J3bll0R0tQbkdxSno3Y1NKaFZGN1laVVN6b1hvQlJLVTRLUQ?oc=5"
+ },
+ {
+  "id": "54f00fe115",
+  "datum": "2020-02-08",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "28-jarige Nederlander opgepakt voor witwassen met Bitcoin (BTC)",
+  "bron": "Bitcoinmagazine.nl",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "bitcoin",
+   "witwassen"
+  ],
+  "samenvatting": "28-jarige Nederlander opgepakt voor witwassen met Bitcoin (BTC) Bitcoinmagazine.nl",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ScERzeThlRHpKaGJfNW9vQXFkQTI0amdCM0tVa0YwQmtkY0w3YUtJQ2hzUlZ0SVNudEtFdDFwNWxMMGdXckM5aDh1ZVVqVGFnZ1ZqdDI1dG5DY3JiMWp4LUZqUUY2UExfWkRMd2dGWHA?oc=5"
  },
  {
   "id": "47f352a399",
@@ -61651,6 +62724,25 @@
   "tags": [],
   "samenvatting": "Opnieuw grote actie tegen criminaliteit op Arnhems bedrijventerrein ’t Broek De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVZtNk9YQ2FEUHkxb3djYUQ1Tm00LTZxelNqRVoyTEpHVm9Lc0dVUU42RjNoN2dzdlpyRXgzRzl2S0dyQ1FGUlQwWlJZTDAtWjNjeDY5ZmljekJqanp4NnNPWkZBbnhqbkJpTEV3VnBpM2hwYXJEZW9GbVdNdkxUX1g4RUltbWNQdWtjTC1NeFFSVUVrWmx0aUM5Q201SXZOelRpSEMzeGRLZUFhTTdCbGU4QzZOam5RWTByRA?oc=5"
+ },
+ {
+  "id": "28dd37fe43",
+  "datum": "2020-01-02",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Controle zorgfraude faalt, OM en verzekeraars luiden noodklok",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Controle zorgfraude faalt, OM en verzekeraars luiden noodklok NOS",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVNTRmtRTDdBelkxRjBNUzNRMDF6VGNVWkppQ256cFV6YVdnRmc3WnZ0bklQZFZDOWNHVmdTSEV2ZnhoY3ZZdERsWWIzb0VNa1g2dFJiRUNXN0o3V0N2M2xiRXprTGl6QmFGcURISUxLcjNtbGxKSDNWWTRvNTI5cWRzRjVNNUdUMmh0ay1QTzV5blNGQXNTRGJKTUpvby1rUEhN?oc=5"
  },
  {
   "id": "327c1e2e15",
@@ -61783,6 +62875,30 @@
   ],
   "samenvatting": "Het RIEC Noord houdt je in de gaten: 'Ondermijning is niet iets wat alleen maar in Brabant en Zeeland gebeurt' DVHN",
   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMlJveTJNakdSNllCaUNhWVozVjBCcGZhN2JBN2d0ekIxckFrQlZQRnh1ck5udmJOQmpQV1A3VlVuazFaOVQtcThqZzYzbDdvU1ZtRVZ1bFZaV2lyZkxfUnkwQXNIakhZVFFyT0tQWlN1dXBIaEtGOVk3dXEwMzBMVXdOQWZaUENkM0ktcURUR3owLWJ1alRheE9VVFNSMl9hZldGbTdLcmxrX2JvYm12cF9JXzFSaWJhMTZSUlNqbzJFbTJLZWI0dHdqbE5oQWI0VnBJTW5QUHQyVFBOMGtDMHZTVEJxSF9CLW9nREpzWQ?oc=5"
+ },
+ {
+  "id": "3c31193e13",
+  "datum": "2019-11-22",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Drugssmokkel Oosterhout: gedraai rond container vol cocaïne in loods met camera's",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "cocaïne",
+   "container",
+   "drugssmokkel",
+   "loods"
+  ],
+  "samenvatting": "Drugssmokkel Oosterhout: gedraai rond container vol cocaïne in loods met camera's Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObko5TFRtaUU1U2s0d0d4dG1NM1JtYm9qUmtLak5taU9Pc3EtWGNUWHFZeVc2VlF2eVh1b0tFN2huRmduU2VlMVQ4dGpoMXdHVWtTb1A2UkRiQ1hqZUF0a3N3WkhCQnliVGxJaWtBYmFlaXdYcVhCdGtuN1NoYnhYdjJ2YjVFWkpvR3Z3YWJSUF9HVDE4T3VDX3VFU01sQUJXVXV6ZUFHMDZKMkdGOGViSFJ4Y0t3RHREZGFzM1lHdGk?oc=5"
  },
  {
   "id": "170b07f662",
@@ -62292,6 +63408,26 @@
   ]
  },
  {
+  "id": "c2f9054c5d",
+  "datum": "2019-08-07",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zes jaar gevangenisstraf voor zingende havenwerker vanwege drugssmokkel",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "drugssmokkel",
+   "haven"
+  ],
+  "samenvatting": "Zes jaar gevangenisstraf voor zingende havenwerker vanwege drugssmokkel AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFpnaWJ2dGUxbUl2MnY3bVdOaHJNSWlXTEUwZjNkSG1hNk9mejZ6NHVvai1xQmhxYTBSU2FXTm51T29qQUlVbU4xMjRuUmhjSVVnRUNpeEJPX1NzMGtWUVRkd1VwajdrbWtTTGM5SkNjUUgzZHRtcGpxcGY4b1UtbTdUamdyRS1fTHhMTkFvWWljaWI0UVJKZ3dUck43TnZpTno0ZE9mc3d5RUlmWUE?oc=5"
+ },
+ {
   "id": "11db17039d",
   "datum": "2019-07-31",
   "tijd": "07:00",
@@ -62532,6 +63668,27 @@
   ],
   "samenvatting": "‘Eigenaar autoverhuurbedrijf veroordeeld tot 10 maanden cel’ Automotive Online",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHU5aXlqUDhadFBRR2RyY0s1WFo0VlplcXhiVUVYUlRDM1JNSVJBU0s5ZUk5Y2hUQWdhUmV5LXY0REtrdGx6WWc3WFY4ZVdGODBDTzIzMmxScnExTXFmRHRrb2ZNdUQtdGxzY3lGQmhnbzNDOXVoMmgyV1RxN29HU1pIc0l4MDVXVkJyWDNQd05NdmVCelpTNmVqOXJ6X1NtQjJLbF9oMi1DcHNUU012dl9uOA?oc=5"
+ },
+ {
+  "id": "3e60fc67a7",
+  "datum": "2019-07-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zorgfraude vaak gepleegd door bestuurders met strafblad",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "bestuurder",
+   "zorgfraude"
+  ],
+  "samenvatting": "Zorgfraude vaak gepleegd door bestuurders met strafblad NOS",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZFpRTWt4b2xOQUF2bmVGSktlWkFEU0JGNTQ5Wm1zbnA2TGk2SVlMRDhKWUxqOU9QZ1RuSGlTQzFpNGFkNER2OXRwU3NYY21LdkFHcjA1aHMxN0lkcHBHcGNlMGhMUWdyWUtoZlVnMTBmb1puaTJfOHRyUDFHZTJQNE9pNnl0b0tibzhxZmtwbw?oc=5"
  },
  {
   "id": "f7f32ae213",
@@ -63374,6 +64531,28 @@
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUJQXzN0bkJZay1XTVdMRXlZeTJuNjB2cmNmQ3N5UTZIeVR6dEVMM2hOaERfMHF2ODRuV0xIUy1QcEllSjBDQ3VwRVJrc1FZUkF0ZjNqMGdSTGliTmFlNnZVaVVjb3ZPa2RYWndPTHAtVXptUVRudWJNUnpWQmhEc1ZyMXQ3U0J3Z1ZVRUVCUFU?oc=5"
  },
  {
+  "id": "ba096eedac",
+  "datum": "2018-10-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist tot 1,5 jaar cel voor pgb-fraude door zorgbestuurders",
+  "bron": "NU",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "bestuurder",
+   "pgb",
+   "pgb-fraude"
+  ],
+  "samenvatting": "OM eist tot 1,5 jaar cel voor pgb-fraude door zorgbestuurders NU",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEhFZlpHRjR1d3A5WkFValMzb1hBYnFCclNzcExMbFYzaUhuWDNvSFNxNTgwUlFKR0NNcmNfSkd3WTdObF9TTjN0N2J5eDBkYl9EZjNRTFFkZVZLdUx1by1FX0NEemhGcTNhT3ZsVS10X2hBNnNtb2RNRTJwUFVLaENPQjV6WkNkTFZJdUN1VExtbGx3ZXhYSkJCS1hlNTY5MDZCZQ?oc=5"
+ },
+ {
   "id": "29b0e0a125",
   "datum": "2018-10-04",
   "tijd": "07:00",
@@ -63675,6 +64854,26 @@
   ],
   "samenvatting": "Burgemeester Halsema ziet aanpak ondermijning en verbintenis als prioriteit NU",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkJmekJEcms0TGJoRmZiT29LWjN6aGI4UnpPN3BUejRTei1oV2pwcVE0SUJqUnJ0SWN6YkVhRTVTbHc2eFRsZEpiQ1BlTVF3cXBwLXhCTEI2NTNlTjdCckZ1ZmFxMnRGMXNfU3FONG5PbXRpeEJlck9aSlgwM2FNWWJ5VmhCS19FOGlHeUctd28yb2ZBbFphQXdkQ3JBU1FfdkJKdW45SHdTNWNackNpY1FwWktLQU0?oc=5"
+ },
+ {
+  "id": "a3b86690b4",
+  "datum": "2018-07-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vrijspraak in miljoenenzaak pgb-fraude",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "pgb",
+   "pgb-fraude"
+  ],
+  "samenvatting": "Vrijspraak in miljoenenzaak pgb-fraude De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUDEzX2hRTjdxQjFZWU1Rc3NlQXdwQjNicHJmcHFadURfYmtmR1RUYUdKcTlrNmpPUlVYeHdaeTBwdkxidXVoMURYcDdYZmgzWEVJNlpuRGJDLXRiRHdvSVV5a3pyY1ZJaW1TSzNyVy1hQ2FFbTc3WXpVLWd4VHJYWlJpcjMyVkNXZWNFR3Rfb1Vxb2Iwb09nb3lValJld0Z2MFJXTGZtaVIzY0cxSWtNcFVtcGV2VFI2d2szeDh0ZzRoQUxSTVZoSUk5ZlFtSi1pdXlqVnNUaXBKbjR6TVVpODd3?oc=5"
  },
  {
   "id": "a1c668fc87",

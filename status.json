@@ -1,16 +1,16 @@
 {
- "run": "11:04",
+ "run": "14:09",
  "datum": "2026-08-26",
- "nieuw": 89,
- "totaal": 3541,
+ "nieuw": 62,
+ "totaal": 3603,
  "bronnen": [
   {
    "naam": "Nieuws — Drugsproductie & labs",
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 83,
-   "status": "41 nieuw",
+   "items": 93,
+   "status": "10 nieuw",
    "ok": true
   },
   {
@@ -27,8 +27,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 163,
-   "status": "3 nieuw",
+   "items": 164,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -45,8 +45,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 86,
-   "status": "bij",
+   "items": 90,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -63,8 +63,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 29,
-   "status": "bij",
+   "items": 33,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -99,7 +99,7 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 58,
+   "items": 60,
    "status": "2 nieuw",
    "ok": true
   },
@@ -118,7 +118,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 40,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -207,8 +207,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 106,
-   "status": "bij",
+   "items": 131,
+   "status": "25 nieuw",
    "ok": true
   },
   {
@@ -226,7 +226,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 48,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -279,8 +279,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 23,
-   "status": "bij",
+   "items": 24,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -316,7 +316,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 121,
-   "status": "16 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -387,8 +387,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 20,
-   "status": "10 nieuw",
+   "items": 22,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -406,7 +406,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 101,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -414,7 +414,7 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 112,
+   "items": 114,
    "status": "2 nieuw",
    "ok": true
   },
@@ -460,7 +460,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 16,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -486,8 +486,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 20,
-   "status": "2 nieuw",
+   "items": 23,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -495,8 +495,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 12,
-   "status": "2 nieuw",
+   "items": 15,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -504,8 +504,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 16,
-   "status": "2 nieuw",
+   "items": 17,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -532,7 +532,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 9,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -540,8 +540,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 14,
-   "status": "1 nieuw",
+   "items": 18,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -559,7 +559,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 49,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
