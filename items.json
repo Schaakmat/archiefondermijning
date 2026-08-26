@@ -227,7 +227,7 @@
   "id": "6febed98da",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Digital Forensics and Cyber Crime",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -243,7 +243,7 @@
   "id": "9c0ba2435e",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "The Role of Artificial Intelligence in Situational Crime Prevention with an Emphasis on Privacy Challenges",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -259,7 +259,7 @@
   "id": "f29a544faa",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explaining the Challenges and Gaps in Combating Money Laundering from the Perspective of Criminal Policy in Iran and England",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -275,7 +275,7 @@
   "id": "1e2870fc9e",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Money and gender: Proxy respondents and the mismeasurement of income in surveys",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -291,7 +291,7 @@
   "id": "105ea13a72",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "A Finite State Machine Model for Mitigating Mobile Money Social Engineering Attacks",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -307,7 +307,7 @@
   "id": "7488ed4844",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Feasibility of Committing Fraud and Money Laundering Through Internet Lottery",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -323,7 +323,7 @@
   "id": "222e453ded",
   "datum": "2027-01-01",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Money talks: accrual accountings stakeholder impact in government funding",
   "bron": "Crossref — money laundering",
   "verzameld_via": "Crossref — money laundering",
@@ -339,7 +339,7 @@
   "id": "547cf0e263",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "CHAPTER 7 Culture of Oddities",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -355,7 +355,7 @@
   "id": "e5fa8c6055",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "1: South Africa’s 1960s New Left",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -371,7 +371,7 @@
   "id": "263feca8e2",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "16. Building Nests in a Windy Place: Thinking About Gender and Ethnicity in the Netherlands",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -387,7 +387,7 @@
   "id": "37e2a3f8ab",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Part I FALSITY FROM WITHOUT",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -403,7 +403,7 @@
   "id": "ab11801b55",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "7. PSYCHIATRY: Origins of Mental Illness and Crime",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -419,7 +419,7 @@
   "id": "a5c8189542",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Index",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -435,7 +435,7 @@
   "id": "847d577411",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Frontmatter",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -451,7 +451,7 @@
   "id": "a813ac2e29",
   "datum": "2026-12-31",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "3: The National Liberation Front and the South West Africa Question",
   "bron": "Crossref — organized crime Netherlands",
   "verzameld_via": "Crossref — organized crime Netherlands",
@@ -1248,6 +1248,122 @@
   "dossiers": []
  },
  {
+  "id": "bcadd38c79",
+  "datum": "2026-08-26",
+  "tijd": "08:21",
+  "nieuw": false,
+  "titel": "Flat wordt ontruimd na vondst mogelijk drugslab en explosieven",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie"
+  ],
+  "samenvatting": "Flat wordt ontruimd na vondst mogelijk drugslab en explosieven Omroep Gelderland",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEloMVh0WjZNUmR1OThCLVl3Q1RxQWpXekRla0U3S3FMejQ5Q1RPMEZLOHN4aHlXdVRIYkpwVHNJYlFsRHdYQmNOVlRBOXN5NlhZZHFsbjZCOVVtcGh5dDRRRF93andzWXIxOERVOFFzeEZyejgxRjNFOFo1MEhBV3JoXzBOQlF2Y3U1TUdDOEdYU1RXYzJRa0RZNE8?oc=5"
+ },
+ {
+  "id": "42a5a42437",
+  "datum": "2026-08-26",
+  "tijd": "08:12",
+  "nieuw": false,
+  "titel": "Mogelijk drugslab aangetroffen in appartement aan Eburonenstraat",
+  "bron": "Nieuwsblad Stedendriehoek",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Mogelijk drugslab aangetroffen in appartement aan Eburonenstraat Nieuwsblad Stedendriehoek",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkNNamF4YmJ5bGdkVk1EOFVBcUxQQ0ZFQ2c0MU9NYnpad0RKbnVaNExYMnhpUGZTTkFsd2V1ekdDSTlGWFNsVFd0aHAyV19iajQtRmFXRHBmdHFHczBNQ0UteXE4TW9VU0g1bXFQQUpyZHAtZDJMTENkZmZGNmV2SU53VE1Ec21mODdDeHhOZHpteDBFcWIwanR4M1ozTXpOLS1BRnp2QV9hZ1d6ZUE?oc=5"
+ },
+ {
+  "id": "899cbaa353",
+  "datum": "2026-08-26",
+  "tijd": "08:02",
+  "nieuw": false,
+  "titel": "Mogelijk drugslab gevonden in appartement midden in woonwijk; flatgebouw ontruimd",
+  "bron": "112nieuws.net",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Mogelijk drugslab gevonden in appartement midden in woonwijk; flatgebouw ontruimd 112nieuws.net",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlVybWV2UlhUME1LaXhDcGhnQjZQY2dUNHB6Q296U0ptMDJreXZfODFIVVp0T3VtQjZoMG43VUY1c2xibUdhX0pLd25SU1FQM1FGX0pqUDdnVUg1QlF2Sjg1ODhCYW1YR0FkdmxjaGpyUU9FYmVsSGV3bDdONzQ1SVhBTElILXdUbEZULTJKZDJPZm0zUDhCZVBSQnZxLVJHNWpERDZpcDIySUJ5d2hvdlpWem8?oc=5"
+ },
+ {
+  "id": "5381535e3e",
+  "datum": "2026-08-26",
+  "tijd": "07:51",
+  "nieuw": false,
+  "titel": "Mogelijk drugslab gevonden • fietser gewond",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Het actuele 112-nieuws uit Gelderland van deze dag bundelen we in een liveblog. Je leest en ziet hier een overzicht van ongelukken, branden, vermissingen en misdrijven in onze provincie.",
+  "link": "https://www.gld.nl/nieuws/8513089/mogelijk-drugslab-gevonden-fietser-gewond"
+ },
+ {
+  "id": "a9f054bd23",
+  "datum": "2026-08-26",
+  "tijd": "07:46",
+  "nieuw": false,
+  "titel": "Compleet flatgebouw in Apeldoorn ontruimd nadat politie mogelijk drugslab aantreft",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Compleet flatgebouw in Apeldoorn ontruimd nadat politie mogelijk drugslab aantreft AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1F2VFBTeDZTbDkzc2FzMlYwUVJyZDZVblpTbXptSEdxVkh6Y0FpNzRoSFlhN2J6MWFnQ0JuR3BGTEVEQ1BDVFJzWWVBWkRhUnFHSjVxT25NWWVWZEhzeDdEX1VHY3puNllIWElCVEVUa0tFOVNZa0tGVk1ZSzhsYk9Ld2Uxa1J0aHZtWXdjRHRRRGw2MkpVcnZaMEtqOFBGVnI4WnlsSjJvbE5vamZUQkVQZzVBQ1h5SXdONg?oc=5"
+ },
+ {
+  "id": "b5c2fad51f",
+  "datum": "2026-08-26",
+  "tijd": "07:25",
+  "nieuw": false,
+  "titel": "Politie doorzoekt flat in Apeldoorn na rumoerige nacht: ‘Mogelijk drugslab’",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie doorzoekt flat in Apeldoorn na rumoerige nacht: ‘Mogelijk drugslab’ AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1pmSVRYQU9pTHA4NXVjcUNUYzZsV3JHLXNTZWE4cHd2NUI2NW1DNk4tOVNkTTltc0tCZE1MVmQzUGhucWt1Ykg4bjBOeEgwOTV1VlMtM1ZwNHE4RlpaTWFCd2tqQ05JcGtTV1hzY2Jkclpja0xzQ3lKalBnYi1FdVc5QjVzMl9Oeld6ZVRnWTRpV3dYR09fcF9QM2N2ZkQwZHlzRGIwdDU2S2JjTzZN?oc=5"
+ },
+ {
   "id": "a84eaec9d3",
   "datum": "2026-08-26",
   "tijd": "06:59",
@@ -1257,19 +1373,29 @@
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "jeugd",
-   "organisatie",
-   "school",
-   "wapen"
-  ],
+  "dossiers": [],
+  "tags": [],
   "samenvatting": "Soms komt een situatie aan het licht waarbij een kind verschrikkelijk is behandeld. Het pleegmeisje uit Vlaardingen of twee mishandelde kinderen in Stadskanaal zijn daar voorbeelden van. Het zijn uitzonderingen, maar uit onderzoek van de NOS blijkt dat het de afgelopen jaren meer dan tien keer is voorgekomen. Het gaat ",
   "link": "https://nos.nl/l/2628332"
+ },
+ {
+  "id": "efe919f7d9",
+  "datum": "2026-08-26",
+  "tijd": "06:08",
+  "nieuw": false,
+  "titel": "Huiszoekingen FIOD en politie in onderzoek naar drugs en witwassen",
+  "bron": "Voorburgs Dagblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Huiszoekingen FIOD en politie in onderzoek naar drugs en witwassen Voorburgs Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1ZDdGhYRnBlZmdpQVhmMy1qdEdHZEN4QTBxeVZIbmM0RXMwbklaVXU0MjIyMEhfTUwtRmV0RlpPcE1memZGSjlVR1p3Q3JwaEs2d2w5R3ZFQkZyTER0UTVBNGoyQzhNRVhPc2dLYTNpZllpQ0c4VUE4azdOMjJNbE53Y0ZGcTdCeHZ4ejRMbWtBcEFnTGVpX2VEVVNBMnNIZnI1QldvNkNzSGh6RTJ3SWZjTWhPZDR4?oc=5"
  },
  {
   "id": "a6665491e9",
@@ -1310,6 +1436,25 @@
   "link": "https://www.oost.nl/nieuws/3688369/112-nieuws-politie-onderzoekt-brandstichting-bij-woning-in-kampen"
  },
  {
+  "id": "ca354bde4b",
+  "datum": "2026-08-26",
+  "tijd": "04:39",
+  "nieuw": false,
+  "titel": "112 Nieuws: jongetje bekneld tussen roldeur | Politie onderzoekt brandstichting bij woning",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van woensdag 26 augustus.",
+  "link": "https://www.oost.nl/nieuws/3688369/112-nieuws-jongetje-bekneld-tussen-roldeur-politie-onderzoekt-brandstichting-bij-woning"
+ },
+ {
   "id": "4a685b1bc6",
   "datum": "2026-08-26",
   "tijd": "04:26",
@@ -1338,15 +1483,8 @@
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jeugd",
-   "jongeren",
-   "leider"
-  ],
+  "dossiers": [],
+  "tags": [],
   "samenvatting": "Yes We Can Clinics in Hilvarenbeek neemt maatregelen om nieuwe klachten te voorkomen. De kliniek voor jongeren met een verslaving of psychische problemen kwam dit voorjaar in opspraak, nadat tientallen cliënten vertelden dat ze tijdens hun behandeling zijn vernederd en gekleineerd. Noa, een van die voormalig cliënten, ",
   "link": "https://www.omroepbrabant.nl/nieuws/6024300/yes-we-can-clinics-zet-oud-client-noa-in-om-nieuwe-klachten-te-voorkomen"
  },
@@ -1360,16 +1498,8 @@
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Trustkantoren & rechtspersonen",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "bedreiging",
-   "bestuurder",
-   "wapen"
-  ],
+  "dossiers": [],
+  "tags": [],
   "samenvatting": "Een verkeersruzie in Oudenbosch is nogal uit de hand gelopen. Een 28-jarige man uit Polen heeft dinsdag na een aanrijding de andere automobilist bedreigd met een honkbalknuppel. De man is aangehouden en bleek onder invloed van alcohol en met een ingevorderd rijbewijs te rijden. De politie kreeg dinsdag een melding van ",
   "link": "https://www.omroepbrabant.nl/nieuws/6024339/verkeersruzie-loopt-uit-de-hand-man-bedreigt-automobilist-met-knuppel"
  },
@@ -1471,6 +1601,32 @@
   ],
   "samenvatting": "De officier van justitie heeft vandaag jeugdtbs onder voorwaarden geëist tegen de 20-jarige Sebastiaan K. uit Lelystad die een belangrijke rol zou hebben gespeeld bij de voorbereiding van een gewapende overval op Juwelier Siebel in Batavia Stad. K. was niet aanwezig tijdens de overval, maar zou onder meer een hamer heb",
   "link": "https://www.omroepflevoland.nl/nieuws/521381/jeugdtbs-geeist-tegen-lelystedeling-(20)-die-hamer-regelde-voor-overval-op-juwelier"
+ },
+ {
+  "id": "bc86be3c87",
+  "datum": "2026-08-25",
+  "tijd": "20:12",
+  "nieuw": false,
+  "titel": "Lelystad - Jeugd-tbs geëist tegen Lelystedeling (20) die hamer regelde voor overval op juwelier",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Goudhandel & edelmetalen",
+   "Jeugd & jonge aanwas",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "jeugd",
+   "juwelier",
+   "sieraden",
+   "stal",
+   "wapen"
+  ],
+  "samenvatting": "De officier van justitie heeft vandaag jeugd-tbs onder voorwaarden geëist tegen de 20-jarige Sebastiaan K. uit Lelystad die een belangrijke rol zou hebben gespeeld bij de voorbereiding van een gewapende overval op Juwelier Siebel in Batavia Stad. K. was niet aanwezig tijdens de overval, maar zou onder meer een hamer he",
+  "link": "https://www.omroepflevoland.nl/nieuws/521381/jeugd-tbs-geeist-tegen-lelystedeling-(20)-die-hamer-regelde-voor-overval-op-juwelier"
  },
  {
   "id": "f3a6a7d8f0",
@@ -2715,6 +2871,27 @@
    "Drugsproductie & labs",
    "Vastgoed & huisvesting"
   ]
+ },
+ {
+  "id": "a424f71b76",
+  "datum": "2026-08-25",
+  "tijd": "05:34",
+  "nieuw": false,
+  "titel": "Hart van Nederland - Late Editie: Drugslab ontdekt in woning Berkel en Rodenrijs, meerdere huizen ontruimd",
+  "bron": "KIJK",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "woning"
+  ],
+  "samenvatting": "Hart van Nederland - Late Editie: Drugslab ontdekt in woning Berkel en Rodenrijs, meerdere huizen ontruimd KIJK",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1FPS3JRS2hoaDNrQWJGOG9zeGd6d2RlWkNNeVM4NWFkcktpTXlZRTFYOTdWd1FnckpEUjdKTk1vWUIzX0hyUm9pZ2ltTEZRNDN2S1BxQUFXcXNnS2lCOFJYTlV3bjh0R0FpWkZmczh2Y01HZXJWaVk2eWZGY3lreUJ3?oc=5"
  },
  {
   "id": "fd4ce81abd",
@@ -4930,6 +5107,25 @@
   "link": "https://www.oost.nl/nieuws/3685895/14-jarige-nepagent-aangehouden-in-zwolle-slachtoffers-krijgen-sieraden-terug"
  },
  {
+  "id": "0d72cbe87a",
+  "datum": "2026-08-21",
+  "tijd": "14:29",
+  "nieuw": false,
+  "titel": "Onnodig links rijden op A1 en A35 leidt tot veertien boetes",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Automobilisten die woensdag op de A1 en A35 niet zo veel mogelijk rechts reden, moesten dat bekopen met een boete. In totaal kregen veertien bestuurders een bekeuring voor onnodig links rijden. Dat meldt de verkeerspolitie na een onopvallende controle.",
+  "link": "https://www.oost.nl/nieuws/3685904/onnodig-links-rijden-op-a1-en-a35-leidt-tot-veertien-boetes"
+ },
+ {
   "id": "cc152807aa",
   "datum": "2026-08-21",
   "tijd": "14:11",
@@ -5557,6 +5753,25 @@
   "dossiers": [
    "Drugsproductie & labs"
   ]
+ },
+ {
+  "id": "83dc8bee68",
+  "datum": "2026-08-19",
+  "tijd": "14:33",
+  "nieuw": false,
+  "titel": "Hennepkwekerij in bedrijfspand Enkhuizen",
+  "bron": "NH Nieuws",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij in bedrijfspand Enkhuizen NH Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGtlaEJKZjhmU2w0NE5STm1Sa2p4czdnSTM0eGZUT3dWajhWSlpvOW1PNkNSY0x4T3ZTb3Zfb2hHOWRGZHR3V0FnQWZrVnMxNGFMUHpib1NyS25OVjRnemxMbS0yUmJXRHl5ZGRPejQ0QU5vSjhOR1pwY1dkV1I0ejdVVFk?oc=5"
  },
  {
   "id": "926bb8eb07",
@@ -12814,6 +13029,27 @@
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWl9RY1Z5Vlo2cFB3N0hOc0tMdUViMWJwdXNmV1Z4b2Vkdkh4VkQ5Y3ZLbzYwZ3hEaF9GRXNWZ2c5T2JTX1JGcG5JY1lDTHY1OUJfdFNvY012YXFjMVg4N0pvbFRVTVNWOWZiNHlPbkFDWFpXVUFYMEFYQzN6N3JnWk5mdTE4RW9BVHhnR0QxWk53WV9XOGZyRVhabVU0b3EzOV9pVmxGWHo0VEhrR0hrTk9lX09oZV84TkJucmFtVjUxZ0J6QzBINQ?oc=5"
  },
  {
+  "id": "e4fa8f1c59",
+  "datum": "2026-07-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Handhaver loopt openstaand pand binnen en ontdekt drugslab, maar foutje van agent kan grote gevolgen hebben",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "pand"
+  ],
+  "samenvatting": "Handhaver loopt openstaand pand binnen en ontdekt drugslab, maar foutje van agent kan grote gevolgen hebben De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNM3VvOERGMTlVWGdieDJHUG90cG13bElLNUg1MDdlUFNfbXNBeEdfbWxqcWRXXzF2VmhEdHVtZEh5M2FUcEpHejlSamc4eWhQcjJuU1ZNMmRjTElzLW9iNFZhdldUSVR6UDZKOXFmX2xWU3I4U3F2S3czWHU2Z1dQNmgwSlRrdGxDU2s0UGVIUmYxeUJFOGVGTTQ0VkVkQ1BCU1pKVV9vVlZ1U0IwVWdYd0IyLXdoVkd0czR1MVZIVnJkdUI3NGdPYW1QQklyR2pEaDAyNnM5VWNzb1pxdUlCUU5objZaLW8?oc=5"
+ },
+ {
   "id": "eaafd2c12e",
   "datum": "2026-07-03",
   "tijd": "07:00",
@@ -16368,9 +16604,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Cocaine, haven & logistiek",
    "Drugsproductie & labs",
-   "Hennep & wietteelt"
+   "Hennep & wietteelt",
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
    "container",
@@ -44953,6 +45189,27 @@
   "tags": [],
   "samenvatting": "Zandvoort als paradijs voor zware criminaliteit met een zwijgcultuur die zorgt dat er nauwelijks zicht op is Haarlems Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNTnVEVEF4LW5zTEVtdWtDWC00SmVBemxEbFRBOUt0emhNaUVoQmZaQlhLckRGZFhkRzZuLVJ2V0JtZk1QWkViY1pPTmVNVmpxNkhxYTRvejJQdW4zd0hsNlZHVHNHS2VwTU9ueEtmUkZYNEdmVGw1QlZLYzJnb2VpLXQ5d0VucFpXOElyM1FzRFpOU0M5ZFI5TmhpOHhYTUR5QVNFQ3Uwa0FHeDRFWVdOYnVNM2tQaERGRzUtNXdmRG5fWUFsekJpaVVFa0ZMdzhHTDl0dVdicTBlMGVtZ0FDLXE3T2lqdmk1UDluU3REd19yakhFSzYtYkZrckh4YjRwMzh0WkdwMzJMc1NPcEVuTkF4VXV4U0x6TFFmeDFqUmFidkVZMEN2YnlHbk15bVhWZFRPVW5QNEp3Q3p4d29PVXdNVQ?oc=5"
+ },
+ {
+  "id": "f0ed70f0ea",
+  "datum": "2024-09-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Amerikaanse autoriteiten nemen 3 cryptobeurzen in beslag die gelinkt zijn aan Rusland in een hardhandige aanpak van witwaspraktijken ter waarde van $ 800 miljoen",
+  "bron": "Invezz",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "witwaspraktijken"
+  ],
+  "samenvatting": "Amerikaanse autoriteiten nemen 3 cryptobeurzen in beslag die gelinkt zijn aan Rusland in een hardhandige aanpak van witwaspraktijken ter waarde van $ 800 miljoen Invezz",
+  "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPZ3cyRDUybW9TeVdleksxcDlteWF2MURfYktUSjB3azcya3AtRkV6alNrQ3hOUlA0NERzSUctZzVHOUE3cnJtU3pManhKZEZ6enNDcU1ZUWx1LVBUZk54UmtDMTdYaXBvX21sWGtwVVhkRFF2c1NkNl9xNWFKNVZGa2J2NGxDOEF3NXgzQXBESkFnR095RHVUbDkxVG9OQ0poS2hKNGNjUVFKN3NabFFIWXJ4elg4dmNrUzdFMHFJelc2cEZrczU3bUNoS2l4eWQ3WWNUaGltWEFZcFB2Z2Q5alFveHpZZ3lhbHk5Sl9UZFNvdGZRUzV1TnBULXhaSmUyc2w5MXZyMkx5M2R5UnpSXzFpNGp1WF9tVm9oZ0g4NjZoOGtSODY4?oc=5"
  },
  {
   "id": "05b0a46dda",

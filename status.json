@@ -1,16 +1,16 @@
 {
- "run": "06:01",
+ "run": "08:27",
  "datum": "2026-08-26",
- "nieuw": 29,
- "totaal": 3438,
+ "nieuw": 14,
+ "totaal": 3452,
  "bronnen": [
   {
    "naam": "Nieuws — Drugsproductie & labs",
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 35,
-   "status": "bij",
+   "items": 42,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -27,8 +27,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 159,
-   "status": "18 nieuw",
+   "items": 160,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -63,7 +63,7 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 28,
+   "items": 29,
    "status": "1 nieuw",
    "ok": true
   },
@@ -99,8 +99,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 55,
-   "status": "bij",
+   "items": 56,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -280,7 +280,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 23,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -442,7 +442,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 149,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -451,7 +451,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 32,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -460,7 +460,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 14,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -487,7 +487,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 18,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -496,7 +496,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 10,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -504,7 +504,7 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 13,
+   "items": 14,
    "status": "1 nieuw",
    "ok": true
   },
@@ -531,8 +531,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 5,
-   "status": "1 nieuw",
+   "items": 7,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -540,8 +540,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 12,
-   "status": "bij",
+   "items": 13,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -559,7 +559,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 48,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
