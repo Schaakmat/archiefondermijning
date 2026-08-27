@@ -1,5 +1,5 @@
 {
-  "toelichting": "Alle bronnen zijn Nederlandstalig. De dossiers vormen de indeling van het archief: elk dossier heeft eigen zoekwoorden, een eigen nieuwszoekopdracht en een eigen zoekopdracht op de officiele publicaties (Kamerstukken, Kamervragen, Handelingen, Staatscourant, gemeentebladen). Woorden onder 'hard' zijn op zichzelf genoeg; woorden onder 'zwak' tellen alleen mee als er ook een contextwoord in de tekst staat.",
+  "toelichting": "Alle bronnen zijn Nederlandstalig; Engelstalige berichten worden bij binnenkomst geweigerd. De dossiers vormen de indeling van het archief: elk dossier heeft eigen zoekwoorden, een eigen nieuwszoekopdracht en een eigen zoekopdracht op de officiele publicaties (Kamerstukken, Kamervragen, Handelingen, Staatscourant, gemeentebladen). Woorden onder 'hard' zijn op zichzelf genoeg; woorden onder 'zwak' tellen alleen mee als er ook een contextwoord in de tekst staat.",
 
   "context": [
     "ondermijn", "criminel", "crimineel", "witwas", "fraude", "frauduleus", "drugs", "verdacht",
@@ -9,6 +9,20 @@
     "beslag", "inbeslagname", "smokkel", "corruptie", "omkoping", "bende", "netwerk", "maffia",
     "bibob", "riec", "fiod", "fiu", "toezichthouder", "meldplicht", "handhaving", "afgepakt",
     "vervolging", "dagvaarding", "verdenking", "milieudienst", "belastingdienst"
+  ],
+
+  "ruiswoorden_toelichting": "Staat een van deze woorden in de tekst, dan valt het bericht af — tenzij er ook een hard zoekwoord in staat. Zo verdwijnen de artikelen over ziektes, sport en beurskoersen die de zoekfeeds meesturen, zonder dat een wietkwekerij naast een voetbalclub sneuvelt.",
+  "ruiswoorden": [
+    "voetbal", "eredivisie", "wedstrijd", "competitie", "trainer", "transfermarkt",
+    "olympisch", "wielrennen", "schaatsen", "tennis", "formule 1", "kampioenschap",
+    "kanker", "griep", "vaccinatie", "corona", "covid", "virus", "epidemie",
+    "dementie", "alzheimer", "chirurg", "diagnose", "symptomen", "behandeling van",
+    "patiëntenzorg", "wachtlijst", "huisartsenpost", "spoedeisende hulp",
+    "onweer", "hittegolf", "code oranje", "neerslag", "weersverwachting",
+    "songfestival", "realityster", "influencer", "netflix", "acteur", "concert",
+    "muziekfestival", "recept", "horoscoop", "staatsloterij", "vakantieganger",
+    "goudprijs", "beurskoers", "aandelenkoers", "hypotheekrente", "inflatie",
+    "huizenprijzen", "woningmarkt", "stikstofruimte", "energierekening"
   ],
 
   "dossiers": [
@@ -219,7 +233,7 @@
       "soort": "Kamerbrief",
       "regio": "Landelijk",
       "dossiers": ["Beleid, wetgeving & toezicht"],
-      "altijd": true
+      "soepel": true
     },
     {
       "naam": "Politie",
@@ -231,7 +245,7 @@
       "soort": "Persbericht",
       "regio": "Landelijk",
       "dossiers": ["Beleid, wetgeving & toezicht"],
-      "altijd": true
+      "soepel": true
     },
     {
       "naam": "Openbaar Ministerie",
@@ -243,7 +257,7 @@
       "soort": "Persbericht",
       "regio": "Landelijk",
       "dossiers": ["Beleid, wetgeving & toezicht"],
-      "altijd": true
+      "soepel": true
     },
     {
       "naam": "Rechtspraak — strafzaken",
@@ -255,7 +269,7 @@
       "soort": "Uitspraak",
       "regio": "Landelijk",
       "dossiers": ["Beleid, wetgeving & toezicht"],
-      "altijd": true
+      "soepel": true
     },
     {
       "naam": "WODC",
@@ -267,7 +281,7 @@
       "soort": "Rapport",
       "regio": "Landelijk",
       "dossiers": ["Beleid, wetgeving & toezicht"],
-      "altijd": true
+      "soepel": true
     },
     {
       "naam": "RIEC / LIEC / CCV",
@@ -279,7 +293,7 @@
       "soort": "Nieuwsbericht",
       "regio": "Landelijk",
       "dossiers": ["Beleid, wetgeving & toezicht"],
-      "altijd": true,
+      "soepel": true,
       "uitgever_uit_titel": true
     },
     { "naam": "NOS — binnenland", "url": "https://feeds.nos.nl/nosnieuwsbinnenland", "methode": "RSS", "ritme": "1 uur", "soort": "Nieuwsbericht", "regio": "Landelijk" },
@@ -288,11 +302,11 @@
     { "naam": "Omroep Brabant", "url": "https://www.omroepbrabant.nl/rss", "methode": "RSS", "ritme": "1 uur", "soort": "Nieuwsbericht", "regio": "Noord-Brabant" },
     { "naam": "Rijnmond", "url": "https://www.rijnmond.nl/rss/nieuws", "methode": "RSS", "ritme": "1 uur", "soort": "Nieuwsbericht", "regio": "Rotterdam" },
     { "naam": "Omroep Gelderland", "url": "https://www.omroepgelderland.nl/rss", "methode": "RSS", "ritme": "1 uur", "soort": "Nieuwsbericht", "regio": "Gelderland" },
-    { "naam": "1Limburg", "url": "https://www.1limburg.nl/rss.xml", "methode": "RSS", "ritme": "1 uur", "soort": "Nieuwsbericht", "regio": "Limburg" },
-    { "naam": "Omroep Zeeland", "url": "https://www.omroepzeeland.nl/rss", "methode": "RSS", "ritme": "1 uur", "soort": "Nieuwsbericht", "regio": "Zeeland" },
+    { "naam": "1Limburg", "urls": ["https://www.1limburg.nl/rss", "https://www.1limburg.nl/feed", "https://news.google.com/rss/search?q=site:1limburg.nl+ondermijning+OR+drugslab+OR+witwassen+OR+hennepkwekerij&hl=nl&gl=NL&ceid=NL:nl"], "methode": "RSS", "ritme": "1 uur", "soort": "Nieuwsbericht", "regio": "Limburg" },
+    { "naam": "Omroep Zeeland", "urls": ["https://www.omroepzeeland.nl/rss/nieuws", "https://www.omroepzeeland.nl/feed", "https://news.google.com/rss/search?q=site:omroepzeeland.nl+ondermijning+OR+drugs+OR+witwassen+OR+hennep&hl=nl&gl=NL&ceid=NL:nl"], "methode": "RSS", "ritme": "1 uur", "soort": "Nieuwsbericht", "regio": "Zeeland" },
     { "naam": "RTV Oost", "url": "https://www.rtvoost.nl/rss", "methode": "RSS", "ritme": "1 uur", "soort": "Nieuwsbericht", "regio": "Overijssel" },
     { "naam": "Omroep Flevoland", "url": "https://www.omroepflevoland.nl/RSS", "methode": "RSS", "ritme": "1 uur", "soort": "Nieuwsbericht", "regio": "Flevoland" },
-    { "naam": "AT5 / Amsterdam", "url": "https://www.at5.nl/rss", "methode": "RSS", "ritme": "1 uur", "soort": "Nieuwsbericht", "regio": "Amsterdam" },
+    { "naam": "AT5 / Amsterdam", "urls": ["https://www.at5.nl/rss/nieuws", "https://www.at5.nl/feed", "https://news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijning+OR+witwassen+OR+drugs+OR+explosie&hl=nl&gl=NL&ceid=NL:nl"], "methode": "RSS", "ritme": "1 uur", "soort": "Nieuwsbericht", "regio": "Amsterdam" },
     {
       "naam": "Regio — zuid & oost",
       "urls": ["https://news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+ondermijning+OR+drugslab+OR+witwassen&hl=nl&gl=NL&ceid=NL:nl"],

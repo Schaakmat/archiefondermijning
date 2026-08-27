@@ -71,6 +71,29 @@ Wat hij doet, per dossier:
 Dat tweede is waar de diepte zit. Zoek je op *goudhandel*, dan komen daar de
 Kamervragen, beleidsstukken en bekendmakingen uit die geen nieuwsfeed meer heeft.
 
+## Wat er wel en niet in komt
+
+Een bericht wordt beoordeeld op zijn eigen tekst, niet op de zoekopdracht waarmee
+het gevonden is. Het moet drie horden nemen:
+
+1. **Nederlands.** De tekst moet gewone Nederlandse woorden bevatten.
+2. **Een dossierwoord.** Een woord uit `hard` is genoeg. Een woord uit `zwak`
+   telt alleen mee als er ook een woord uit `context` in staat (aanhouding,
+   verdachte, rechtbank, witwassen…).
+3. **Geen ruis.** Staat er een woord uit `ruiswoorden` in — kanker, eredivisie,
+   goudprijs — dan valt het bericht af, tenzij er een hard woord tegenover staat.
+
+Die derde hobbel is nieuw. Zonder hem leverde de zoekopdracht voor *zorgfraude*
+ook artikelen over ziektes op, omdat een zoekfeed nu eenmaal ruim teruggeeft.
+
+Verander je iets aan de woorden, dan geldt dat ook met terugwerkende kracht: bij
+elke ronde wordt het hele archief opnieuw langs de filters gehaald. Wat er niet
+meer doorheen komt verdwijnt. Alleen opschonen, zonder iets op te halen:
+
+```
+python collect.py --opschonen
+```
+
 ## Dossiers en zoekwoorden aanpassen
 
 De dossiers in `feeds.json` vormen de indeling van het archief. Eén blok:
@@ -90,6 +113,7 @@ De dossiers in `feeds.json` vormen de indeling van het archief. Eén blok:
 - `zwak` — telt alleen mee als er óók een woord uit `context` bovenaan het bestand
   in de tekst staat (aanhouding, verdachte, witwassen, rechtbank…). Zo levert
   "goudprijs stijgt" niets op en "goudhandelaar aangehouden" wel.
+- `ruiswoorden` — bovenaan het bestand, geldt voor alle dossiers.
 - `nieuws` — de zoekopdracht voor het nieuwsarchief.
 - `sru` — de zoekopdracht voor de officiële publicaties.
 
@@ -134,8 +158,8 @@ Dit is het enige onderdeel dat niet volledig uit zichzelf werkt. Twee gratis rou
 - Geen AI-samenvattingen. De samenvatting in het archief is de eerste alinea van
   het origineel. Dat is gratis en verandert de tekst niet.
 - Geen volledige tekst van pdf's; wel de titel, samenvatting en de link.
-- Geen Engelstalige bronnen meer. Die leverden vooral internationaal nieuws op dat
-  niets met ondermijning in Nederland te maken had.
+- Geen Engelstalige bronnen meer, en Engelstalige berichten worden bij binnenkomst
+  geweigerd — ook als een zoekfeed ze meestuurt.
 
 ## Aantekeningen
 
