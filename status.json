@@ -1,12 +1,12 @@
 {
- "run": "12:49",
+ "run": "13:17",
  "datum": "2026-08-27",
- "nieuw": 49,
- "totaal": 1522,
- "verwijderd": 20,
+ "nieuw": 41,
+ "totaal": 1550,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1045,
-  "geen dossier": 493
+  "niet-nederlands": 1040,
+  "geen dossier": 507
  },
  "bronnen": [
   {
@@ -51,7 +51,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 43,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -104,8 +104,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 39,
-   "status": "1 nieuw",
+   "items": 41,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 7,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -195,7 +195,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 24,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 42,
-   "status": "9 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 44,
-   "status": "14 nieuw",
+   "items": 45,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 34,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -285,7 +285,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 18,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 60,
-   "status": "1 nieuw",
+   "items": 82,
+   "status": "22 nieuw",
    "ok": true
   },
   {
@@ -339,7 +339,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 12,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -357,7 +357,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 21,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 19,
-   "status": "6 nieuw",
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 16,
-   "status": "bij",
+   "items": 17,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 15,
-   "status": "bij",
+   "items": 16,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -554,7 +554,7 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 20,
+   "items": 21,
    "status": "1 nieuw",
    "ok": true
   },
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 35,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
