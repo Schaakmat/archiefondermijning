@@ -1,21 +1,26 @@
 {
- "run": "17:00",
- "datum": "2026-08-26",
- "nieuw": 47,
- "totaal": 3650,
+ "run": "11:34",
+ "datum": "2026-08-27",
+ "nieuw": 90,
+ "totaal": 1493,
+ "verwijderd": 2247,
+ "geweigerd": {
+  "niet-nederlands": 1071,
+  "geen dossier": 501
+ },
  "bronnen": [
   {
    "naam": "Nieuws — Drugsproductie & labs",
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 112,
-   "status": "19 nieuw",
+   "items": 30,
+   "status": "2 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Drugsproductie & labs",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -27,13 +32,13 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 164,
-   "status": "bij",
+   "items": 66,
+   "status": "3 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Hennep & wietteelt",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -45,13 +50,13 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 91,
+   "items": 42,
    "status": "1 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Cocaine, haven & logistiek",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -63,13 +68,13 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 35,
-   "status": "2 nieuw",
+   "items": 29,
+   "status": "3 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Witwassen & geldstromen",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -81,13 +86,13 @@
    "url": "news.google.com/rss/search?q=goudhandel%20witwassen%20OR%20goudopkoper%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 12,
+   "items": 4,
    "status": "bij",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Goudhandel & edelmetalen",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -99,13 +104,13 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 60,
-   "status": "bij",
+   "items": 39,
+   "status": "4 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Crypto & digitaal geld",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -117,13 +122,13 @@
    "url": "news.google.com/rss/search?q=vastgoedfraude%20OR%20%22ondermijning%20vas",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 40,
-   "status": "bij",
+   "items": 10,
+   "status": "1 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Vastgoed & huisvesting",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -135,13 +140,13 @@
    "url": "news.google.com/rss/search?q=trustkantoor%20witwassen%20OR%20katvanger%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 43,
-   "status": "1 nieuw",
+   "items": 17,
+   "status": "bij",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Trustkantoren & rechtspersonen",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -153,13 +158,13 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 9,
+   "items": 5,
    "status": "1 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Bibob & bestuurlijke aanpak",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -171,13 +176,13 @@
    "url": "news.google.com/rss/search?q=shishalounge%20OR%20nagelstudio%20witwassen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 5,
+   "items": 4,
    "status": "bij",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Horeca, winkels & dienstverlening",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -189,13 +194,13 @@
    "url": "news.google.com/rss/search?q=autohandel%20witwassen%20OR%20garagebedrijf",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 40,
-   "status": "bij",
+   "items": 23,
+   "status": "2 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Autobranche & garages",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -207,13 +212,13 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 132,
+   "items": 61,
    "status": "1 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Zorgfraude & sociale zekerheid",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -225,13 +230,13 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 48,
-   "status": "bij",
+   "items": 33,
+   "status": "1 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Arbeidsuitbuiting & mensenhandel",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -243,13 +248,13 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 104,
-   "status": "1 nieuw",
+   "items": 30,
+   "status": "bij",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Wapens, explosieven & vuurwerk",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -261,13 +266,13 @@
    "url": "news.google.com/rss/search?q=liquidatie%20criminele%20milieu%20OR%20moor",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 51,
+   "items": 33,
    "status": "bij",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Geweld, liquidaties & bedreiging",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -279,13 +284,13 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 24,
-   "status": "bij",
+   "items": 17,
+   "status": "3 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Corruptie & integriteit",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -297,13 +302,13 @@
    "url": "news.google.com/rss/search?q=%22ondermijning%20buitengebied%22%20OR%20va",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 20,
+   "items": 14,
    "status": "bij",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Buitengebied & recreatie",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -315,13 +320,13 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 123,
+   "items": 59,
    "status": "2 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Milieucriminaliteit & afval",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -333,13 +338,13 @@
    "url": "news.google.com/rss/search?q=motorclub%20verboden%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 35,
+   "items": 11,
    "status": "bij",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Criminele samenwerkingsverbanden",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -351,13 +356,13 @@
    "url": "news.google.com/rss/search?q=%22jonge%20aanwas%22%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 45,
+   "items": 20,
    "status": "bij",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Jeugd & jonge aanwas",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -369,13 +374,13 @@
    "url": "news.google.com/rss/search?q=%22weerbare%20ondernemers%22%20OR%20bedrijv",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 32,
-   "status": "bij",
+   "items": 13,
+   "status": "1 nieuw",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Ondernemers & weerbaarheid",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -387,13 +392,13 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 23,
-   "status": "1 nieuw",
+   "items": 8,
+   "status": "bij",
    "ok": true
   },
   {
    "naam": "Officiele publicaties — Beleid, wetgeving & toezicht",
-   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.",
+   "url": "repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=%2",
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
@@ -405,7 +410,7 @@
    "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 101,
+   "items": 29,
    "status": "bij",
    "ok": true
   },
@@ -414,8 +419,8 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 118,
-   "status": "4 nieuw",
+   "items": 32,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -423,7 +428,7 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 147,
+   "items": 76,
    "status": "bij",
    "ok": true
   },
@@ -432,7 +437,7 @@
    "url": "news.google.com/rss/search?q=site:uitspraken.rechtspraak.nl+witwassen+OR",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 104,
+   "items": 0,
    "status": "bij",
    "ok": true
   },
@@ -441,7 +446,7 @@
    "url": "news.google.com/rss/search?q=site:wodc.nl+OR+%22WODC%22+ondermijning+OR+",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 149,
+   "items": 50,
    "status": "bij",
    "ok": true
   },
@@ -450,8 +455,8 @@
    "url": "news.google.com/rss/search?q=RIEC+OR+LIEC+OR+%22Centrum+voor+Criminalite",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 32,
-   "status": "bij",
+   "items": 23,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -459,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 19,
-   "status": "3 nieuw",
+   "items": 10,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -468,8 +473,8 @@
    "url": "www.ftm.nl/feed",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 1,
-   "status": "bij",
+   "items": 2,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -486,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 26,
-   "status": "3 nieuw",
+   "items": 19,
+   "status": "10 nieuw",
    "ok": true
   },
   {
@@ -495,7 +500,7 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 18,
+   "items": 16,
    "status": "3 nieuw",
    "ok": true
   },
@@ -504,35 +509,35 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 19,
-   "status": "2 nieuw",
+   "items": 23,
+   "status": "4 nieuw",
    "ok": true
   },
   {
    "naam": "1Limburg",
-   "url": "www.1limburg.nl/rss.xml",
+   "url": "www.1limburg.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 0,
-   "status": "fout 404",
+   "status": "0 records",
    "ok": false
   },
   {
    "naam": "Omroep Zeeland",
-   "url": "www.omroepzeeland.nl/rss",
+   "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 0,
-   "status": "fout 404",
-   "ok": false
+   "items": 4,
+   "status": "4 nieuw",
+   "ok": true
   },
   {
    "naam": "RTV Oost",
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 11,
-   "status": "2 nieuw",
+   "items": 15,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -540,26 +545,26 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 19,
-   "status": "1 nieuw",
+   "items": 12,
+   "status": "3 nieuw",
    "ok": true
   },
   {
    "naam": "AT5 / Amsterdam",
-   "url": "www.at5.nl/rss",
+   "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 0,
-   "status": "fout: ParseError",
-   "ok": false
+   "items": 19,
+   "status": "19 nieuw",
+   "ok": true
   },
   {
    "naam": "Regio — zuid & oost",
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 49,
-   "status": "bij",
+   "items": 34,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -567,7 +572,7 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 29,
+   "items": 19,
    "status": "bij",
    "ok": true
   }
