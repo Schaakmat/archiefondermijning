@@ -76,11 +76,15 @@ Kamervragen, beleidsstukken en bekendmakingen uit die geen nieuwsfeed meer heeft
 Een bericht wordt beoordeeld op zijn eigen tekst, niet op de zoekopdracht waarmee
 het gevonden is. Het moet drie horden nemen:
 
-1. **Nederlands.** De tekst moet gewone Nederlandse woorden bevatten.
-2. **Een dossierwoord.** Een woord uit `hard` is genoeg. Een woord uit `zwak`
+1. **Nederlands adres.** Alleen .nl-domeinen (plus de doorverwijzingen van Google
+   Nieuws). Wetenschappelijke databanken en buitenlandse persbureaus publiceren
+   niet op een .nl-adres en vallen hier af, wat er ook in de tekst staat.
+2. **Nederlandse tekst.** Genoeg Nederlandse functiewoorden, en niet meer Engelse
+   dan Nederlandse.
+3. **Een dossierwoord.** Een woord uit `hard` is genoeg. Een woord uit `zwak`
    telt alleen mee als er ook een woord uit `context` in staat (aanhouding,
    verdachte, rechtbank, witwassen…).
-3. **Geen ruis.** Staat er een woord uit `ruiswoorden` in — kanker, eredivisie,
+4. **Geen ruis.** Staat er een woord uit `ruiswoorden` in — kanker, eredivisie,
    goudprijs — dan valt het bericht af, tenzij er een hard woord tegenover staat.
 
 Die derde hobbel is nieuw. Zonder hem leverde de zoekopdracht voor *zorgfraude*

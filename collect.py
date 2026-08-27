@@ -13,10 +13,11 @@ Twee snelheden:
 
 Wat een item moet doorstaan om in het archief te komen:
 
-  1. de tekst is Nederlands (telt gewone Nederlandse woorden);
-  2. de tekst bevat een HARD zoekwoord van een dossier, of een ZWAK zoekwoord
+  1. het adres is Nederlands (.nl, of een doorverwijzing van Google Nieuws);
+  2. de tekst is Nederlands, en niet overwegend Engels;
+  3. de tekst bevat een HARD zoekwoord van een dossier, of een ZWAK zoekwoord
      samen met een woord uit de opsporingssfeer;
-  3. er staat geen ruiswoord in (sport, ziekte, showbizz) zonder dat er een
+  4. er staat geen ruiswoord in (sport, ziekte, showbizz) zonder dat er een
      hard zoekwoord tegenover staat.
 
 De zoekopdracht van een feed telt dus niet als bewijs: elk bericht wordt op
@@ -72,6 +73,21 @@ NL_WOORDEN = (
     " bij ", " naar ", " uit ", " dat ", " die ", " is ", " zijn ", " wordt ",
     " werd ", " niet ", " ook ", " maar ", " over ", " tegen ", " door ", " zich ",
 )
+
+# Engelse functiewoorden. Wegen zwaarder dan de Nederlandse, omdat een Engelse
+# titel met een Nederlandse eigennaam erin anders alsnog doorglipt.
+EN_WOORDEN = (
+    " the ", " of ", " and ", " in the ", " for ", " with ", " from ", " this ",
+    " that the ", " are ", " was ", " were ", " has ", " have ", " been ", " its ",
+    " study ", " research ", " during ", " between ", " among ", " through ",
+)
+
+# Adressen die het archief in mogen: Nederlandse domeinen, plus de
+# doorverwijzingen van Google Nieuws. Al het andere valt af, ongeacht de tekst.
+# Dit is de vangnetregel voor wetenschappelijke databanken en buitenlandse
+# persbureaus: die publiceren niet op een .nl-adres.
+NL_TLDS = (".nl", ".amsterdam", ".frl", ".vlaanderen")
+DOORVERWIJZERS = ("news.google.com", "google.com", "google.nl")
 
 
 def ontdaan(html: str) -> str:
@@ -132,8 +148,19 @@ def geldige_datum(datum):
 
 
 def nederlands(tekst: str) -> bool:
-    laag = " " + tekst.lower() + " "
-    return sum(1 for w in NL_WOORDEN if w in laag) >= 2
+    laag = " " + re.sub(r"[^\w\s]", " ", tekst.lower()) + " "
+    nl = sum(1 for w in NL_WOORDEN if w in laag)
+    en = sum(1 for w in EN_WOORDEN if w in laag)
+    return nl >= 2 and nl > en
+
+
+def nl_adres(link: str) -> bool:
+    host = urllib.parse.urlsplit(link).netloc.lower().split(":")[0]
+    if not host:
+        return False
+    if host in DOORVERWIJZERS or host.endswith(DOORVERWIJZERS):
+        return True
+    return host.endswith(NL_TLDS)
 
 
 # -------------------------------------------------------------------- inlezers
@@ -257,8 +284,10 @@ def indelen(tekst, regels, context, ruis):
     return namen, treffers, hard
 
 
-def toegelaten(tekst, bron, regels, context, ruis):
+def toegelaten(tekst, link, bron, regels, context, ruis):
     """(dossiers, trefwoorden) of (None, reden) als het item afvalt."""
+    if not nl_adres(link):
+        return None, "buitenlands adres"
     if not nederlands(tekst):
         return None, "niet-nederlands"
     namen, treffers, hard = indelen(tekst, regels, context, ruis)
@@ -385,7 +414,7 @@ def verwerk(bron, gelezen, bestaand, bekend, regels, context, ruis, geweigerd):
     for titel, link, samenvatting, datum in gelezen:
         if not link:
             continue
-        namen, treffers = toegelaten(titel + " " + samenvatting, bron, regels, context, ruis)
+        namen, treffers = toegelaten(titel + " " + samenvatting, link, bron, regels, context, ruis)
         if namen is None:
             geweigerd[treffers] = geweigerd.get(treffers, 0) + 1
             continue
@@ -440,7 +469,8 @@ def opschonen(bestaand, config, regels, context, ruis):
         tekst = item.get("titel", "") + " " + item.get("samenvatting", "")
         via = (item.get("verzameld_via") or "").split(" (")[0]
         namen, treffers = toegelaten(
-            tekst, {"soepel": via in soepele, "dossiers": soepele.get(via, [])},
+            tekst, item.get("link", ""),
+            {"soepel": via in soepele, "dossiers": soepele.get(via, [])},
             regels, context, ruis,
         )
         if namen is None:

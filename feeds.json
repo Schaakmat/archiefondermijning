@@ -22,7 +22,10 @@
     "songfestival", "realityster", "influencer", "netflix", "acteur", "concert",
     "muziekfestival", "recept", "horoscoop", "staatsloterij", "vakantieganger",
     "goudprijs", "beurskoers", "aandelenkoers", "hypotheekrente", "inflatie",
-    "huizenprijzen", "woningmarkt", "stikstofruimte", "energierekening"
+    "huizenprijzen", "woningmarkt", "stikstofruimte", "energierekening",
+    "infectious", "disease", "pathogen", "outbreak", "vaccine", "clinical",
+    "antibiotica", "besmetting", "dierziekte", "vogelgriep", "q-koorts",
+    "emerging", "journal of", "proceedings of", "et al", "doi:", "abstract:"
   ],
 
   "dossiers": [
