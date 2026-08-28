@@ -637,10 +637,27 @@
   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmlsUGEzcHNGT3pJRm5KNm5oOTAxNjBySzJ6OWtCblNlbW00UVJyYXU5bFVrb3JydGZTbloybGY1UU8yUXVBckVTVVd6UllWaVQ4endOMmVrNkZaX0RjeVFkWW05WlVPdmFMb3VIUWxhUDduRDBubjhiRGZPdlV2NjB5VGc?oc=5"
  },
  {
+  "id": "e073fd054b",
+  "datum": "2026-08-28",
+  "tijd": "05:34",
+  "nieuw": false,
+  "titel": "veiligheidsanalist mainports - Kom bij de politie",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "veiligheidsanalist mainports Kom bij de politie",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWkktYXpWaVY5REEzV0NWekhhYlBJYThxV2hxY0l6Ml9OcE1ia0U0OXM3STFCa1Q5c1lMa1VhenV4d09NRkkwLXh2eXNJUTh3aTF3dk1jR3BKRXpJLWhUdmE1SGVEdG56ODdpdUROSUZhOVRUc3NuVFhFSTc0bXFiMXd6Z18tUQ?oc=5"
+ },
+ {
   "id": "4794d44081",
   "datum": "2026-08-28",
   "tijd": "03:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Steeds meer jongeren zoeken hulp om uit criminaliteit te komen",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -661,7 +678,7 @@
   "id": "4d7bd29ff3",
   "datum": "2026-08-28",
   "tijd": "00:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dode vrouw gevonden in tuin woning Boxtel, bewoner aangehouden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -680,7 +697,7 @@
   "id": "1eb3e3174d",
   "datum": "2026-08-27",
   "tijd": "19:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Een drugslab bij de buren? Deze signalen wil je niet missen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -699,7 +716,7 @@
   "id": "46b763788a",
   "datum": "2026-08-27",
   "tijd": "19:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Een drugslab bij de buren? Deze signalen wil je niet missen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -724,7 +741,7 @@
   "id": "04cdd69e4f",
   "datum": "2026-08-27",
   "tijd": "18:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdwenen eigenaar, ontsnapte paarden en een wietkwekerij in de schuur: dit speelt bij verwaarloosde Betuwse manege",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -743,7 +760,7 @@
   "id": "0209b5b589",
   "datum": "2026-08-27",
   "tijd": "17:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugsafval laat gemeente met enorme rekening achter",
   "bron": "Nieuws van de Dag",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -764,7 +781,7 @@
   "id": "498c6d9463",
   "datum": "2026-08-27",
   "tijd": "17:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nieuws van de Dag: Drugsafval laat gemeente met enorme rekening achter",
   "bron": "KIJK",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -785,7 +802,7 @@
   "id": "965333d00d",
   "datum": "2026-08-27",
   "tijd": "17:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rijschoolhouder verliest levenswerk, miljoenenfraude onderzocht en excuses om wapenfoto op 27 augustus",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -20164,6 +20181,25 @@
   ]
  },
  {
+  "id": "073de64477",
+  "datum": "2025-06-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Omstreden influencer Mo Bicep zit vast op verdenking van witwassen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Omstreden influencer Mo Bicep zit vast op verdenking van witwassen Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdUdoM21oSFhFQ19WX3h3d3RJMWNldUc1ZVV3bU5hWXBVNXZid3RpRmRQVTJ5bHZqWmNSSnZQajVXX2xCS1d4ZDlqZm1PY0s4MnJRSHlXVVlTejlmOUpUUFpzcnNWMXBDZENEeTFicWRKU0tJYldxRnU5LW41dDRUbm5BWGZqSUpvOVUzSktfM2VsY3JhOFlkSWFBS0NwRGk3Y3NRT1hXc1pJS0dhYTNV?oc=5"
+ },
+ {
   "id": "8986c8a742",
   "datum": "2025-06-23",
   "tijd": "07:00",
@@ -20282,6 +20318,25 @@
   ],
   "samenvatting": "OM onderzoekt milieucriminaliteit door leverancier van staalslakken NU",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmsxU0Y1QnMzVk95ZnFJTDJIUlkyanhhdUlzUldHU1lsLVhIeVU0YV9XZDVteFh2TENfLUs3alMtU0RwZGNJd0hFd1RsNFRnMXE0TGplZm81NnZONVhOYzdIMjZ6WUtGcVN5UDhfSFhnRmZNaGU5eDk2U0RPVWhfQl9aZVF0eDI4SkpXck5QVmk2N3VZWjg0TnRDQXdib3NCTmxLdFZfbG12Zw?oc=5"
+ },
+ {
+  "id": "119d1a55c7",
+  "datum": "2025-06-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Geld uitgeven als water valt op, duo opgepakt voor witwassen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Geld uitgeven als water valt op, duo opgepakt voor witwassen Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYi03UHdLWWY5X0U5akFnVUMwSlRsYnl2Ynd6dWNJdHB1NDNsRDdkSkU2eEdhME5uTWU1MmVUOHVsWDlHQWo2M1ZaWlIzU2ZKZGZiM2h1Y1ZtbU9FdW5wZkxJVkptVTlqa2ZORWNLZ29JSlVCLVc3ZUpBT1N0Z3FidmtZbHFGcXlhcC0tbk5FRFFNYzYxc1RkOFhwTlg0Rms3eVlvbS1B?oc=5"
  },
  {
   "id": "1f0806fba9",
@@ -20875,6 +20930,27 @@
   "dossiers": [
    "Hennep & wietteelt"
   ]
+ },
+ {
+  "id": "9eda7b5363",
+  "datum": "2025-05-08",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ondergronds drugslab zorgt voor tonnen aan milieuschade",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "drugslab",
+   "grond"
+  ],
+  "samenvatting": "Ondergronds drugslab zorgt voor tonnen aan milieuschade Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRER5dFgwTDM1aE8tTk9aNS1yZTc1eDczWFQtbWU2TUJ3b21BT1duR1FpcENRak9YMnk0cEFZdmRpOVZCX1VUTHl2TVVQRGlTVkNvbWhUUUhESEdMUUlNRWhGblQyTjljdUlxZTNGb0NOMnY2QVdSZDV6RGpoTndjZ3ppMmhhbVJWRmYtMmVKcUVqVmpFeEVoU0xPRWN3MFc2?oc=5"
  },
  {
   "id": "414713ed55",
@@ -21586,6 +21662,25 @@
   ]
  },
  {
+  "id": "c30589d85d",
+  "datum": "2025-03-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Grote politieactie: zes mensen opgepakt voor drugshandel en witwassen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Grote politieactie: zes mensen opgepakt voor drugshandel en witwassen Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUm1CeXRnazRSZU53S0V6NDhwclFGMmNsNm9OaXhNUlpzNjlQS2t3ZHphSHFSSzd1S3NrVWxwYlR2ZXFET3VpalVyVzNCZVFhVVJCdnIxLTlwVmlCOUZMMzdVZENmNjA4Z1E4cFlYN2hjejhhaExlSmxyX3NreGR2MVkzLUFTclB6anZ3bXJGZWtvMVMyLTE1M1I0NzFpUmFWX3gxOG9vSVpYVWtfbGxlWGJn?oc=5"
+ },
+ {
   "id": "f55fac4a27",
   "datum": "2025-03-11",
   "tijd": "07:00",
@@ -22112,6 +22207,25 @@
   "dossiers": [
    "Drugsproductie & labs"
   ]
+ },
+ {
+  "id": "46bbb40cb9",
+  "datum": "2025-01-21",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Drugslab gevonden op plek waar eerder ook eentje werd ontdekt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab gevonden op plek waar eerder ook eentje werd ontdekt Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSXg3LUhyMWhXNXdCbEtLUnN5NGs0WXhmOVdwa2F2QzRLOUl3alZLRTloYU9mWV94d0w4WlNGNF9XOXFDNWt6R2x3NmFMMjdBZmxIMTY5ZGJhWTl1RTlVOXpLYTdnNGZESVI0WXB1S2dhdWJ1dFo5Zm9TYWl5blYwQklDdjhKVTZOTTllYjdHamNqbzJCY0g0SVBTcDBseFRHMHlkV1R2UUw?oc=5"
  },
  {
   "id": "484dc45ccb",
@@ -23398,6 +23512,25 @@
   ]
  },
  {
+  "id": "8d86f31956",
+  "datum": "2024-08-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Werkend drugslab opgerold: mannen uit Best, Eindhoven en Waalre opgepakt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Werkend drugslab opgerold: mannen uit Best, Eindhoven en Waalre opgepakt Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSm5zU3ZJZnl6eExFdE4xaS1wTFV1THlPb0pCUzJ1QnhPM3NEU3Y2cDRKd1pDeTdCT1JQT09VcnZsbld6THpLRkpfcE1sZ3dJRExFdFdzcVNfalhpeldCa0U1Qk1SU3R5YWJTNGM3SjVlWUtsWFBETTBNLW9xa25sQlJSOFZRc1RwNTRYb25BVkZWZU9ZMWxMWUx4cE16OTFUWk5RMXk3RnRyWjUxVU95UFpfQ3c?oc=5"
+ },
+ {
   "id": "64f4c5e196",
   "datum": "2024-08-24",
   "tijd": "07:00",
@@ -23512,6 +23645,25 @@
   ],
   "samenvatting": "Duo uit Apeldoorn veroordeeld voor zorgfraude De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNzNuQjNldHhRc2xFYzlySUhtOFBGd0JQNDRndXJTc1lKM19kZW92a01zMjFQT2tZNVEtVjlIdkZiaDVvU3hqXzhRS3NuTXk4Z1VqdjUyRHVueWk3dnBJVndMaVRPUDVickFTc0Y0S21uNGQwVkl0ZDVQRExEX2FmV2dnc1RHYlhYVGdRX3dnd2ZsYVhJMWFYREp0elZlQW5wVUNpa21BLU9PcjhMZWVYXzRPTjRReDVPRHNBVU5ZbzJqR3VZczBpZVpFRWFtWDVFYlEtbmViYUV4bmpaQW1IU1hDenN5V3R5UWdF?oc=5"
+ },
+ {
+  "id": "1937989609",
+  "datum": "2024-08-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugslab wordt onder zware bewaking ontruimd, zo ziet het eruit",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab wordt onder zware bewaking ontruimd, zo ziet het eruit Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUtpRTR6TWlhYnQtT0pUVmlYZjJpSFFSeGJ1TFc4NG1wVjltcWdKcE9Ia2pyUUt1RjZZcXFiMFg0VG9CM09mR1RETjZ1Wmd1YUhsbHI2LVcxM3czd19RX3duQ2FBVTNwQ0g2aG1GemgtajhtOFVQMzBvRHFIZHhCb1RZQjdrU2dEOHhMU1o4Z3ZpamVQSjdEaUxGZGpxRUlCLXJlakVnS1hVdw?oc=5"
  },
  {
   "id": "1d9662a236",
@@ -23949,6 +24101,29 @@
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM0puOVBJVlpsZTZTQXMtX3Q3clBOdG5qMklkSHlUSERsQk5UclNNdVFKWmI1cWpyUUdzeXBjeHhPaGhhd3c5TzU0WTFXZ19hUnlTRDVvT0F1SzJfb1RwLUFFcWFOOTZVd2xKMEhuRDBjcVFjVHRBR3NkaGI3RlVXaTlfb0lWVkZmRloydkdFMXFMOWRyWFZhYlh6emZhRmRjcnBpSjVGb29XX3B0bXZ1eG1QY3dJaUR5WEpySnV0NkJhdnd2aUZzVXBxcWMzV1lfZkZaR0dZeE44djNYamtZ?oc=5"
  },
  {
+  "id": "a28eb71a49",
+  "datum": "2024-06-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugslab ontdekt, politie stuit op tientallen vaten met grondstoffen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "drugslab",
+   "grond",
+   "grondstoffen",
+   "vaten"
+  ],
+  "samenvatting": "Drugslab ontdekt, politie stuit op tientallen vaten met grondstoffen Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ05DNEc1OVpVV1A3bG9Qck4tUGc0c1dBQ3luVTZHNDBtZXBGcU5OUmJCNVpJVnRvNHRMRDBOQXpScHBMY0tFX2pWQXA5N1ducW94VzNkWHF6VG50ODNHMURQZ0hCdkZvTmJkODR1cVVvUHBWZkVUSFlBMktfaXJ3YVN2UFJjaU9mQkNQZTQ5bFF1WHI2Vk5vdTFRcjFnWVdZQWhTUEs3aC01LXJ4Nm00aw?oc=5"
+ },
+ {
   "id": "6196b8a359",
   "datum": "2024-06-04",
   "tijd": "07:00",
@@ -24131,6 +24306,28 @@
   ],
   "samenvatting": "Man uit Nijmegen schuldig aan voorbereidingshandelingen hennepteelt De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaDIzU3hEXzRiWV91M1Nia1NGTHVlOWNzY0h3dGl4Rlg0WGJNVzBmYmhnMW5wbmNFVmUzNUo3ZFJiMjZzZHlNVnpzcF9wTTBHcnNhQ1p4eUE3aUZwNlpreEFjUWlzV1dOdHJhUklOSXFHVEFERWN4ZFdwR3BCT0sxcXZ6Y0Q1cDJXc2JXT0ZINEVfMTBhRm1xdkdmMkJ6U2NmNkNCTmR1Smw1cWI4UEVRRVVISmVDRFplbENfOGxYQzV4eERSNEphc21MUDhYNnlDT2IzN1E3c2gtcy1ROUlDb1czNjE0TGpJUV9kUVYtME80NUhPdUtKYWVOZ0lZc3dwN2ttVm4zb04?oc=5"
+ },
+ {
+  "id": "fc32730145",
+  "datum": "2024-05-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ondergrondse bankier en geldkoeriers cel in voor witwassen tientallen miljoenen euro's",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "geldkoerier",
+   "grond",
+   "witwassen"
+  ],
+  "samenvatting": "Ondergrondse bankier en geldkoeriers cel in voor witwassen tientallen miljoenen euro's De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQb0QybnNETEt6V0drYThPakc1Z0lTSEo4MF8ySGlhRXZtS09Hc0tROTRvQ2pJVXdybGRGckNWMFA2Zk0wNjdZeHVzLTlSb1VEMHh0RmtKRGo4X3BCNm1ueTJyNFdwbGg4NjBiRVE3Q0tGcGN1X0ZsSEI1SFJqTVhvODZEalZVUWtzLTFxMWE0aGVBb0J2ZEQxTHpwNndvcEpEeVo2SFp1V2dWUFFvSXR5eXpDbWs2RFluQ1pTWno0a0wwczlfS2gxbUNYZUhNWWFXQmJGVDYtY2pHSXNVYjZiSjY1VVcyM2laNDNDNVpORlFQNm1JdWhjRUp5N1pwUHdvakdwSnVaY2VnamJBTWozZnhFc0J2U25BYndaUnNwc2pYWXM?oc=5"
  },
  {
   "id": "9873356316",
@@ -25663,6 +25860,25 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcDRmY2RERU1MOElpVGxrWnpFck5CTFB2RWpyckE2eGN4VktFZnR4dlBWODJsQWhqMS12QUxyVTQ3blc5bng3V3BDTkRfdU0xeW1kZ3hlNjVvajFISE1odmJpSjgwUTcxR1NZYVdjU0NvRjJLT1oyQk82RlVEcE9YSzFtTHhjdWQ3VzNjUVU2akR3cDk0bDBWWlQ3eFR2dDNoQmJiUm5NOXlQdGVSNmkyaHktdTI0aS1hWGtJcUln?oc=5"
  },
  {
+  "id": "990bed874d",
+  "datum": "2023-11-19",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Drugslab ontdekt in Haps: 'Alles wordt ontmanteld en vernietigd'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab ontdekt in Haps: 'Alles wordt ontmanteld en vernietigd' Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmNWVUxvOUpib2JxdktacVhfS1QwaTQ1QnJsaFJqV3ZnOFVsU2Rlbnh4TFJHWnJqMTFjMDFiRlVYQm1Hay00ZDFwTjNhazhJakVSNE5pNjFCQUduVjNNNXRLNFFVVEN6ejJiQnFaX0VFNmlGaHRxZVdMR0hSaWQxUDRPcnhaMUp5V3hjYWFiN1ZCVmVwTjBRMFpTdFU1V3dBOUNmc0tyOFQ?oc=5"
+ },
+ {
   "id": "a02130af86",
   "datum": "2023-11-17",
   "tijd": "08:00",
@@ -25700,6 +25916,25 @@
   ],
   "samenvatting": "Milieucriminaliteit: Raad en Parlement bereiken voorlopig akkoord over nieuwe EU-wetgeving consilium.europa.eu",
   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUndUSlNadDUxY2dzaE1LZk5qcUphTEVCMFktU1VJTDFteldIT2FtNWEydDJLS3p6ZWkxcFdsNlRpQmhzdjk3Z0RVVzRiVkZxRlIwUE1RWnp0UjlTY1cwZlh3aG5ZNWRSYTVpU1ZLeG1FWm85cTFrVms5WC1iTHBVUmtzNjNPS0F0dlF0SUJSekhUaUFUMi1GcTBla0xRaTE4bTFXcFV3Q204TmdGbGZxLXBqUlhINUFiVEFqVXA3Q3VSMW8tQ0dtakRhUXNKXzdGbjRTdjlIbkxrTlM2VXNXV09VZ21YcTNhSFZBdXR2bm5tVTA?oc=5"
+ },
+ {
+  "id": "514be74425",
+  "datum": "2023-11-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Ontmanteling van groot drugslab: draaide op volle toeren in niemandsland",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Ontmanteling van groot drugslab: draaide op volle toeren in niemandsland Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTNHZzNvTGk1cXhDWmJIMlppUjB4QnhNTnRwYXFaMkxVU0NXbG9pNUJPeVJxbmZEaE4xVTZxTkxXZm56dGtGZjc5UWxQdy05VnZ2Y2VHZVVIc3VvaThLX0x1cE9uSWoxdWN2YWFDdXBCalRtVlZubDRjbElEM1dLQVlGLTdzV1RwNjVoZGFkbVMwZ1V1RHQycHkwVVQtaklycGNpTk05Mk5vMzJiVTRUQWZoNENhdw?oc=5"
  },
  {
   "id": "b73b21a945",
@@ -25945,6 +26180,25 @@
   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObnF0bXAzZzhKWXoyNGtzMGg5bno1U2I0b2M5QmlQVjE5dThmY3o4bnNwLU82MG4wbnJmamVhY1ZxS29WY0ZhMVlyclNWNkR2a2ltcldEZ1BFSHFmcWd1RWtRNlpmNGpicFd1clcxdmV4RXZzeldOckhsbTgyRzVRam9BV21WdEVaZWNRaThhbUhtYU9KTGdDSkFtZk5GMFZnTWstZnUtOWpMenh0YllaUjdMTE81ZnVEYWxmbFV2ZmJtaUsySXhOdzAtUG9ld3dYTjJ0ZjVYMmZMQ1M4Ym5sWFFFbExEYW0xY0E?oc=5"
  },
  {
+  "id": "3e0a780dcd",
+  "datum": "2023-10-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugslab in huisje op bungalowpark: 5 jaar celstraf voor 'poederbaas'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab in huisje op bungalowpark: 5 jaar celstraf voor 'poederbaas' Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQTRLTzV5T3Y5VUp4TE9UTi1ZekRzQmJPdlZqY29OX1l5RUgxeHBMNDBIT1hjLWNuTmEyQ3Nvd3ZvRkktekloUldhMnRmNS1yTHlGS0ppYjkwY0pmNGhQNnBfYnUxaXBSdkwtSlFoLWtwTWRwbFc0aWkwU0pya09wTmlMRGNIV2JiNFlvUThLSmhMN0NaSFJaVmRhYVY5VXRVNGJKdFlxQ2RYY29tMXI0?oc=5"
+ },
+ {
   "id": "3e4e053325",
   "datum": "2023-10-17",
   "tijd": "07:00",
@@ -26121,6 +26375,25 @@
   ]
  },
  {
+  "id": "3ed66df0a4",
+  "datum": "2023-09-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Massale politie-inzet bij ontdekking van onderdelen voor drugslab",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Massale politie-inzet bij ontdekking van onderdelen voor drugslab Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2Y5cEVLRHZzamhuc2hmRGVIVnVwRHB4eF9Rdy1RSG05UTVpdmpCOEExWkQzNzh5c25NdWpoMTRBZGM4UXgyckZ3RmNkWXhCV3RTWHktWTg5QVJOT2UtcG1JV20tQnljRWk4T3dGU1lycW9qRFJSQnZPZjcyVkNOQTZfaFFTRzdIWUp3WDZlQnpObGNickRNQnFabjVBUU5JN201RjFhRUZSZjV6b3c?oc=5"
+ },
+ {
   "id": "7fcfe0af45",
   "datum": "2023-09-21",
   "tijd": "07:00",
@@ -26294,6 +26567,26 @@
   ],
   "samenvatting": "Bestrijding van milieucriminaliteit door de EU consilium.europa.eu",
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNVBfR1N2TktIbF9BTERKQUZ0VVdQYXo0SnlUZzVkbF96U0RQZGx4c3AzaFZPX1lpdWRzcUh0eE5LNDhOZzRpRmJqOFlWeGFrdjFXbnRTS3huUHBlMFFLeEFHVXZfcmFCTVNFaDlibU5BM1JVMG5zTUVTTlRNamVUYlNPRVJxQVktLXc?oc=5"
+ },
+ {
+  "id": "b5d4a0e755",
+  "datum": "2023-08-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugslab Breda is het grootste in West-Brabant dit jaar: 'Tientallen vaten'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "vaten"
+  ],
+  "samenvatting": "Drugslab Breda is het grootste in West-Brabant dit jaar: 'Tientallen vaten' Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVlNVHhzaUg4NE1UY3VhYm5FV1ZfX3d5OGpPckQyd0FHN1FGVjhPdGpUdUdIVjQyTm5xWS1hXzJlVUFhWTlrUzZ0ZjRZakFnMW5pM1BGV2t0ZmJKdTVoT2dQMkRwYW14eHg1cEsyRnUtYTVvZk5vSFl2U3N6OWZiVy1ZOTN2MmhPeUJaVFFEbS1qU3dLczUwMElraHNRbU1LdnpET1hJS3BtRGI5NnIzaXE0U2doR1E?oc=5"
  },
  {
   "id": "eb997c0cba",
@@ -27715,6 +28008,25 @@
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGNxZGlZVmp5UWdhdThqVm5pc3F0OXROTXh6WnlyUFc2bEd0dXhyQV93SE42Rmx6SjdjSlFiUEdlUzRaeGM5ZTNobU1jQlJDSTl5a0JSQVdzbmRDUVVqUnB2MDBfVktYT2stUnpKbXV2OGJ5Z296NEdwSVdGN1k5cGR2bHhUZ0ptek0tREQtQVEzc2NRbkR2bGtBRnNROWswd3VqOTJCWUtFcGJFc2I3ZXdRTnRfZFBxT1E?oc=5"
  },
  {
+  "id": "7ad53124fb",
+  "datum": "2022-11-07",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Boeren bij wie drugslab wordt gevonden krijgen meer bescherming",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Boeren bij wie drugslab wordt gevonden krijgen meer bescherming Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFsc2p1QkJwY3VySUtFRFFxY0R0dFN5ellkb3E2Z0RQbURneVFqM1RfVEJBSjlEUmZUZnh1NFlkaFJiX05aQm1sTmZvSDE4SkZwTDA2YmNjYzNEU2VuQ0RPMEEyMkJmSzRiUlhCaGlZZk9iMlZHNHktd0lYWkxXcXdtMDE4V3dqSTNUNWxiQms5M3gxTmdteFNMZTJ1OVRkOWhVV3kyMjJkZUE?oc=5"
+ },
+ {
   "id": "679d0d24fe",
   "datum": "2022-11-03",
   "tijd": "07:00",
@@ -28772,6 +29084,27 @@
   ]
  },
  {
+  "id": "af5e728ceb",
+  "datum": "2021-12-01",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "10 personen veroordeeld voor grootschalige hennephandel en witwassen vanuit woonwagenkamp Stein",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "hennep",
+   "witwassen"
+  ],
+  "samenvatting": "10 personen veroordeeld voor grootschalige hennephandel en witwassen vanuit woonwagenkamp Stein De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQaWlYZUxhVURsUXJFUFBnZ0dtSS1VSlZiMGdiampNcklWdkc4b3BYem8zdWNrZFp0LUQtQXA4cWNCdl8wdklCb1FLT3RqeGJkNEVGdmZ4eG1MdUhQYkFXNmpmdWRmSmZHSVNpT2hJVlF5YVVJM2p3TlZzWUtiWWlPVVJFY2xId1A5aHVQZEdYNW5odmZXWGQzbUFjV2RlaDVDb2pnSTltcUl2S1NhbEtwdXlDejZJeHBjV0hBYjdxelJlOVk1cDRaaVNwVEkzVnJsNmtUWjB0QzJVdzlEZmtCZU1lSXNRS1dCTi1aSXdRRlhRY0tJYXdibk05MThMUHdWMHpkVU1zdEdmeFRDb0tMYTdyZ3JjcEFyWHVSYXVKbWpSdWFheWdsaUpB?oc=5"
+ },
+ {
   "id": "8fcf30e2ba",
   "datum": "2021-11-20",
   "tijd": "08:00",
@@ -29373,6 +29706,27 @@
   ]
  },
  {
+  "id": "50b13b72e5",
+  "datum": "2021-03-10",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Dode gevonden bij drugslab in buitengebied van Wernhout",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "buitengebied",
+   "drugslab"
+  ],
+  "samenvatting": "Dode gevonden bij drugslab in buitengebied van Wernhout Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1paVkdrUTBkcUlJb3B5OGkzZ1NReDJjUjZEblZPUnRkNkRDal9qSE5rWWJYZElndjFFV3p4Nl9OMnd5bURlZ2xFSkJJTTNESjQ5VmpBX2lvTnFqVXVSeThEX1Fwb0RCWjBpR3lIRjBCQlBvYkVLNmh0MWgxd3M1WDZpYVZQRWU2YWo1SEp0dElPRlVUa1lSd2FjZ0U4R20w?oc=5"
+ },
+ {
   "id": "03acc89992",
   "datum": "2021-03-05",
   "tijd": "08:00",
@@ -29727,6 +30081,25 @@
   ],
   "samenvatting": "Facilitators aangehouden voor witwassen miljoenen aan drugsgeld Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmY4MXpNSU12WHlpTmxlR3pEY0NFUXRVY01La19NM2daVFlnUVY3NzdNeEdCR083MU5uNDNhWWxja2RQZEkwMUpZZlAyYmpsQU5QaXk5S183bmhuVkx3Nnh5UXB1U3MxZDhCaVo3bV9sdXMwZ0szSWtmQnc4YmpqN201REI0cUxwRGRJbUxkVWh1c0RNZGstUHFVZ1AtUnowb0xvSnZvQXRiWW8?oc=5"
+ },
+ {
+  "id": "fc34fad9ad",
+  "datum": "2020-10-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Witwassen van tientallen miljoenen euro’s aan drugsgeld: vijf Brabanders opgepakt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Witwassen van tientallen miljoenen euro’s aan drugsgeld: vijf Brabanders opgepakt Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUlNZFV5MElEdVRabE9kWDlIZFlZUnpEcFZBcDVtbjF3UmxQcktyelM2MERDR05tTUV5UmZXdWRZR3NQRVFUd0FVQURrSzV3R2c2XzRIWWFZYkQ1MkZKWlB0S2RYTUNDd3RLcFJKaGdBS2J2b196OHhqREgwckRRRTRTT1F3dmpVX19HbF9sb2JtS3Z3d3NEcjZyYkFWcnBkcFpZNjQ3RVB5LUR5Q1BFTFd1Zl9fLTRrX0VkWU9tSUQ?oc=5"
  },
  {
   "id": "ec65f867bf",
@@ -31842,6 +32215,28 @@
   ],
   "samenvatting": "Opnieuw inval bij W Daas om mestfraude en rode diesel Nieuwe Oogst",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXBHMW5VdXlxQlliUXNIZ3Vac1lEeGk5YkNyb1RpcGIzT2d4OHV0NV9JUXYwX1hMbHNoSE1ZMHU2Q2duNFdvWm1TTmY0MmNHbVRGZ3VHcFRfZlIzMHQ3RjNnS3lkNFpJVTFzeXoyUjFjS0dNdnAzTEpzRExIVTh0bURGREQwOG10R1MwdC1tOXhQOEdHY3pPMVJ6dlRYUXc?oc=5"
+ },
+ {
+  "id": "0f9cdf2c18",
+  "datum": "2018-02-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Gebouwen en erf blijven voorlopig open na vondst drugslab in loods Zeeland",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "erf",
+   "loods"
+  ],
+  "samenvatting": "Gebouwen en erf blijven voorlopig open na vondst drugslab in loods Zeeland De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNNmdTLXpWQ09CV1hJeF8wd3ZHNUtWTWtuel9NZ1AzZjNBaGpTc0ZSNk5LV3I5Vko0cUEzb05VRDNNVGVnTElXRkNKZ0tWMG9abXo4dTFHOUlIM1h1UmgyU3hfX0FDb2xPLTN0QUVlaUdrSFJxNWl4ZXZUV2tiQmZ4LVFaVTFCUzhtSHhfNGxkY3dJNXVzOUhQM0hySVB3MmY0c0oybUZZLWRtTXI3Y2hWSlJTcnp6NFhTQnVUUkI5UjFQYWVaajd4c0s2NkdCUy1VSGUySC0xb0xCU056V2w2OFlGQnNObTNSVWwyeEVINHFmWkZYckxuV2xKREdRUEJLcEhfVXFCYTRxcU1xZHNhR2dWdV8?oc=5"
  },
  {
   "id": "db38be9f1b",
