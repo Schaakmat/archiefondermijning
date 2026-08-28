@@ -1,12 +1,12 @@
 {
- "run": "22:00",
+ "run": "22:25",
  "datum": "2026-08-28",
- "nieuw": 53,
- "totaal": 1613,
- "verwijderd": 15,
+ "nieuw": 39,
+ "totaal": 1641,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1045,
-  "geen dossier": 512
+  "niet-nederlands": 1038,
+  "geen dossier": 511
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 39,
-   "status": "4 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -32,7 +32,7 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 70,
+   "items": 71,
    "status": "1 nieuw",
    "ok": true
   },
@@ -68,7 +68,7 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 31,
+   "items": 32,
    "status": "1 nieuw",
    "ok": true
   },
@@ -105,7 +105,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 42,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -123,7 +123,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 11,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -141,7 +141,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 18,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 62,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 44,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -249,7 +249,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 49,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 85,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -339,7 +339,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 13,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -393,7 +393,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 9,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -411,7 +411,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 30,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -420,7 +420,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 33,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -428,8 +428,8 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 76,
-   "status": "bij",
+   "items": 102,
+   "status": "26 nieuw",
    "ok": true
   },
   {
@@ -447,7 +447,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 53,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -456,7 +456,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 25,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 12,
-   "status": "8 nieuw",
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 23,
-   "status": "8 nieuw",
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 21,
-   "status": "4 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 27,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 5,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 21,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -546,7 +546,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 13,
-   "status": "2 nieuw",
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 36,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -573,7 +573,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 20,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   }
  ]

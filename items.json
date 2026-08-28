@@ -225,11 +225,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "beveiliging",
    "haven"
   ],
   "samenvatting": "Eindhoven Airport gaat bekijken of er iets moet gebeuren aan het hekwerk rondom het vliegveld, nadat een vrouw donderdag met haar auto door een hek bij parkeerplaats P5 reed. Ze kwam tot stilstand bij geparkeerde vliegtuigen. De vrouw toonde verward gedrag . Ze werd door de Koninklijke Marechaussee meegenomen, maar wer",
@@ -368,16 +366,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Geweld, liquidaties & bedreiging",
    "Goudhandel & edelmetalen",
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "geweld",
    "goud",
-   "sieraden",
-   "stal",
    "woning"
   ],
   "samenvatting": "De politie heeft dinsdag een 28-jarige man uit Gouda opgepakt voor een woningoverval in april dit jaar in Nieuwkuijk. Daarbij werden een oudere man en vrouw bedreigd en beroofd. In de nacht van zondag 12 april op maandag 13 april werd rond drie uur 's nachts ingebroken bij het huis in de Kerkstraat. Het oudere echtpaar",
@@ -518,11 +511,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "pand",
    "vuurwerk",
    "wapen"
   ],
@@ -815,7 +806,7 @@
   "id": "4f017a351f",
   "datum": "2026-08-27",
   "tijd": "16:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nieuwe massadonor met meer dan honderd kinderen: 'We moeten deze man stoppen'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -834,7 +825,7 @@
   "id": "d4d11c061b",
   "datum": "2026-08-27",
   "tijd": "16:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kampen wil investeren in havens én aanpak van de N50",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -853,7 +844,7 @@
   "id": "600456ccaa",
   "datum": "2026-08-27",
   "tijd": "16:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie en gemeente noemen optreden Defend Den Bosch op kermis onacceptabel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -872,7 +863,7 @@
   "id": "f8a8aa60db",
   "datum": "2026-08-27",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Leidenaar (71) verdacht van rol bij drugslab in Den Haag op vrije voeten",
   "bron": "Leidsch Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -891,7 +882,7 @@
   "id": "a3980a7d7a",
   "datum": "2026-08-27",
   "tijd": "15:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte van runnen drugslab in Wormer zit vast in Dubai: OM eist drie jaar cel en twintigduizend euro",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -910,7 +901,7 @@
   "id": "babc9add9d",
   "datum": "2026-08-27",
   "tijd": "15:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Gewonde bij botsing tussen auto en bus in Almere",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -929,7 +920,7 @@
   "id": "8ce6449c01",
   "datum": "2026-08-27",
   "tijd": "14:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kleine muis kan groot probleem worden: Natuuralert sleept Military voor rechter",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -948,7 +939,7 @@
   "id": "29a8467077",
   "datum": "2026-08-27",
   "tijd": "14:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Door sluiting kanalen rijden wekelijks 5000 extra vrachtwagens op Overijsselse wegen",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -967,7 +958,7 @@
   "id": "b2eba7aed0",
   "datum": "2026-08-27",
   "tijd": "14:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Eerste zitting mishandeling in Stadskanaal: 'Onderzoek een enorme klus'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -989,7 +980,7 @@
   "id": "074117514a",
   "datum": "2026-08-27",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Verkeersonderzoek: geen reden om locatie omstreden afvalcentrum Lelystad te wijzigen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -1011,7 +1002,7 @@
   "id": "2d095768e3",
   "datum": "2026-08-27",
   "tijd": "13:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (71) die betrokken zou zijn bij enorm Haags drugslab op vrije voeten",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1030,7 +1021,7 @@
   "id": "b8f11a0c9b",
   "datum": "2026-08-27",
   "tijd": "12:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie in Hoorn in gesprek over milieucriminaliteit: wijkagent Yurik: ‘De natuur kan niet zelf om hulp vragen’",
   "bron": "OnsWestfriesland",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -1049,7 +1040,7 @@
   "id": "f61cb5b722",
   "datum": "2026-08-27",
   "tijd": "11:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stalker belaagt ex via overboekingen van één cent, maar hoeft niet terug de cel in",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1068,7 +1059,7 @@
   "id": "147fa906cd",
   "datum": "2026-08-27",
   "tijd": "10:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Steen door rijdende auto gegooid in Oldenzaal: 'Poging moord of doodslag'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -2254,6 +2245,25 @@
   ],
   "samenvatting": "Het actuele 112-nieuws uit Gelderland van deze dag bundelen we in een liveblog. Je leest en ziet hier een overzicht van ongelukken, branden, vermissingen en misdrijven in onze provincie.",
   "link": "https://www.gld.nl/nieuws/8513089/mogelijk-drugslab-gevonden-fietser-gewond"
+ },
+ {
+  "id": "cfffa8cdfd",
+  "datum": "2026-08-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Verbeter de coördinatie en informatie-uitwisseling in de strijd tegen witwassen en terrorismefinanciering.",
+  "bron": "Vietnam.vn",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Verbeter de coördinatie en informatie-uitwisseling in de strijd tegen witwassen en terrorismefinanciering. Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGJtLWdFUm1nSS1yMEJXdVpwX19QcTBackhIRWpPRXBtWi1JbE9JRFdPZWdHRzlOMWk0aGRxYi0xRWxZeC01Wl80YlRLZkpLVTgzS3FEenpfYmJkN0doaDlUN0ZoUkVVWmF4Z2pORFNQRDgwYmFia1gyek9vd1NOZEFSLWFNNURNa2dYSTA5dGx1dVdQdlpPUnJRTEtqX3ktaW40TElnUzNZemxkSzNLbkI0Nk1IS0h3?oc=5"
  },
  {
   "id": "efe919f7d9",
@@ -8647,6 +8657,25 @@
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTERTbGZjY1c3dWxfZXYyWmtVcjBXVThYaVB2SWlrOVJSdnhVbWR1UFhQQjIzcFpHQmdXX2x3XzJJU1hDUlJ3X3h3M1BMTExaM2hubEpldVF2ZEpFbDNzNG15THU1S3R5OFdDcDBISWJNWWp4cENSblZLdWVFOUM2VEo2Y0F1Yzk3TUtLUDYtS1VkRFRMZUhJWktpVzhwOEJNb1BYNEJQXzdvRHNlYzBSUldhN250YlhXQW9rYVpFcTMtSVhXMmtmX2VtMVliWk9VajBDZUlWT0k?oc=5"
  },
  {
+  "id": "7129278300",
+  "datum": "2026-06-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Twee verdachten aangehouden voor valsheid in geschrifte en het witwassen van ruim 20 miljoen euro - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Twee verdachten aangehouden voor valsheid in geschrifte en het witwassen van ruim 20 miljoen euro Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZVp3SXItbjJmWnQtVDdUcGJTODdBQkFHdTl1MGF0RDFIY09tZDdqcEZqUGg4NkYteGlKYlM1Y1p6NWpXRXFCRk4wemo5bnBTX2E1ZmxCOHpCdW82X05IMzdjS2dsZllVZUdSX19uQmxlSHFiM3VZR0k1Uk9XN1Y0RHIzYU9jSXZNbWhCSjU3M0l2T2pYTi1mWUpUVC10NnFmWEJKNGtaWHd2RXYwRzY0S3N1XzNlNWxVTmxjaEdiQ2hjMnpUR0NfY1FhRmxjZHNpLXdfXzRnbXE?oc=5"
+ },
+ {
   "id": "5564200a7a",
   "datum": "2026-06-22",
   "tijd": "07:00",
@@ -10055,6 +10084,25 @@
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEVjOVljSGpLZGdIS28wNzc0N3EtWDFjVUs4NjVBVURnSEM5UDQ3cW5fT2ZvN1VvcGkyVkRUQkRPWlJJZGpBMGdqU3pTLUtZZGt5YjhCZEh1X082VjllR01ESW1td1lNSl9TaTliY2dTbEx3bU1MOWwwb0RyVWpGZWN1cjBwOVpoWUNYRHQtSkZRS05IaXViSG9KLTJiZw?oc=5"
  },
  {
+  "id": "c3e2663036",
+  "datum": "2026-06-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist vijftien jaar cel tegen twee mannen verdacht van poging liquidatie in Zeeheldenbuurt - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "OM eist vijftien jaar cel tegen twee mannen verdacht van poging liquidatie in Zeeheldenbuurt Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYmUyVzAyRWhFSnlQcEJMV3JVdjF2azhVdDZQa1RRb0RTVFJCRzlpX2M1NEkwa0d3ZE9rYUlndEFsMFlOVlBwR1pFRXVGV0szdHdKX1NFc2FVUGplbDFMbUtuVWNfNmNWQU1YdFNvNGhVR0MyMFNVc0laU1BoYUNCRDdST1o2eFV0RVo2dUtYSW5ocGMyR3Y3WmM0YnZLM2wwbERzTVRtWDZCOWRCX1B2TktocXdVa2pnNmhtNmJmUXhOclEwaFU0UmtfNHE3VlRqQnc?oc=5"
+ },
+ {
   "id": "afc2c69131",
   "datum": "2026-06-01",
   "tijd": "11:33",
@@ -11059,6 +11107,25 @@
   ],
   "samenvatting": "Hoensbroekenaar moet vanwege wietplantage huis uit, ‘maar ik kan nergens heen met mijn drie pitbulls’ De Limburger",
   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa0QtSkpRRExDVzRmT3lVR3BhenQtV1lWYnpMU3BUUjFKSWUtNmw0NjNTNU5KcVBFMzR1b05FV0V6VndoNUpxdFU0LUZhSW5WOUYyWnN3RHJyc0V1UVgyTmY2dWtFWXBac2RpRzQzcVJOaGpIWTRGZnYyS3p5aVNFOGxPX3c1X3RQSGxZUUF6YmJ3MDRneTdHYUFQZ1RpR09VNzFncTRHNE5QUDFRYWZDdVFPZlVuNXQzNHNJdk5VMWpaME9VQkV6YV81MXJHQS05ZUZKQWFZM2FFUDhNWFFiM3c1c0xFS0E?oc=5"
+ },
+ {
+  "id": "f7fe3479c5",
+  "datum": "2026-05-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Eis: deels voorwaardelijk celstraf en geldboete voor voorbereiden drugsinvoer en witwassen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Eis: deels voorwaardelijk celstraf en geldboete voor voorbereiden drugsinvoer en witwassen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnJHNDE3REJSSFlfRnl4RkFpci12RHhCY3NaUDQ1VDkwMVdkZ2ZKMWZQQWhWU3QxRWlGcWNFYUFEd0lyUWFCb3NESDZVSHlSdEFJV1FrVFZmdTJDLVJnZHRJNmRic0dMNlJWdnc5dzFGLUJLNXFfZG9QWlFMOUJBNDhPZ1JUcDBrNFJtczZWT2R5dl9BUE93MWRMVkFzX2Y1eGZzYUR3ZEFIWkhmT3ZpU3VrN0tTNmtJOWlCTDhTdUc3eVJfRTV4bGdtSURWQQ?oc=5"
  },
  {
   "id": "03a9c8a1d4",
@@ -12100,6 +12167,23 @@
   ],
   "samenvatting": "Zaankanter veroordeeld voor hennepteelt en bezit wapens en drugs: ’Heel gevaarlijk in een huis met een jong kind’ Noordhollands Dagblad",
   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPYlBXSjVWcU5haklNRUctRW9PZ2hfS1pKQ2l5UGZmdzJoZ1RpTHJ1OFNDM2pnbklUSTVSb0VWMm9pRWo2Mkw0VHZXNzBCdWRBVXozZmllQ0F5TjZQelJOZWZTeUpXUTRqMGh4THAxRHlMVEozbllpU0hia0RuODM1UnlEQmhCWkR3Q0FPSEFNdG0yNXprWU5Yb1haX3J5RV9aQTFWbkROV3dTeHFVMGVKbGxvRnh2ejZsejd4TTFmU2piaWRsQXJBUnlxX3BrTzlQMzBYT2s2RWlVeDYxa1VmSDBCTG9nOFg4OEpEQzVGVVp6UlZzUE1qZnphQkJNT0g3YURUUHJrN0NnWWpJdmMxV0VjMEFkTjFDT0FHNHhzVC1ad1BGNVE?oc=5"
+ },
+ {
+  "id": "4260350019",
+  "datum": "2026-04-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist straf voor droppen telefoons en drugs bij gevangenissen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "OM eist straf voor droppen telefoons en drugs bij gevangenissen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTVyWDJUdnQ3VlFEU1hYMHZIWEZJdVB2SlpuWE1XbnN0TGxodTJ1c0UwTTY4cllmb1lreU54MVd6RnBuRHJWVUFuSHIxY01pUmg2ekp4LTAxSTRITFdYMGp2di15U2hwYXZBdlZieG5WVFM1NGlrR3huZzlnZUY5TXQ0NkZUTndUX092dGlPb2hPWTBYdmFRODdZMk5pSFhjMXAtdXJ1MktsRTA?oc=5"
  },
  {
   "id": "826180c55d",
@@ -15739,6 +15823,26 @@
   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQzkzbDVkd3FxVENySHE2VlVnQmxmNExPdmNDNUdqNkR5YldpaDE0UDg2UWtOQ193LUlwODlzUDR2aGlPU05PcnpZdWd0b21ydWF2UTZKZ1RWQ2xfbFNHb3dQdE82RWViamkxbVE3N0UxbDNBWElUSUF1MW45bjRUZXB6Zlh1NUR3OTRodUxoa0YtenNETG9nY0xiaUZRWDZRdU9id0RJb2VsaHNwZjlmWFI1czAyYVBoU0c2Z1RpRWcyRW5lUFpvUnlCZ1pNd1BiRHVSWVJDWlB6b2xacGEtWUFhbHhlNkRwZzY2cUdHVGx2ejRPTUloYVlaRGhBQ28?oc=5"
  },
  {
+  "id": "7a0eabcf88",
+  "datum": "2026-01-27",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Spaanse politie rolt wietplantage met 1.500 hennepplanten op",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "wietplantage"
+  ],
+  "samenvatting": "Spaanse politie rolt wietplantage met 1.500 hennepplanten op AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlhWOWZ1OXNHUHJQdVhFQ05nV1F4Nm14ZTUtRWxnYzEtd3VZSUpMRTRPWllGZHVJWklQMkJrdmtzSVBuMzZFNzdOTFNfZFEyWmNmcFV3eVMwUHBtRjc4Q1ZkQW1hbHNCVVFLekFWckJKcFpyaU5yTTVLRDhuMW5ObHM1a1A3Z3ZxQ256TlZSZDBPdjVERjk0Xy1WaXVGbXZsUGJXM1Jn?oc=5"
+ },
+ {
   "id": "5c2513a0cf",
   "datum": "2026-01-23",
   "tijd": "08:00",
@@ -15934,6 +16038,26 @@
   ],
   "samenvatting": "Man uit Doetinchem veroordeeld voor witwassen De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcmNraGJvb25nUzd2TnlNTVZ5a0g0a1Q0LTlXa25qWGQxWlpXLUVhR3c4UXlhNENLQkNSOVFra191X24tU29iRXVEajRVXy1lWlpVVGVuUDFXQXk0RWU5RGFzRjVOYWlkVHpxZk1SRGJmZEFmWXg3Yzd0LTdWaWlWb0RBblNxSU8waGRiVFdLVzBYa3Y3YzJTVERRdExoWlhFOHRYRXZsczJEU3JjdC1hR1Vhc1BLMG9uVkM2N3k4RXpybm1PMDRreGpIZkJXRzIxR2FzbmJ3OVpIV2NXMnJ1UHdDQUFMRnpFaTlJ?oc=5"
+ },
+ {
+  "id": "81dc4db73c",
+  "datum": "2026-01-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Gevangenisstraf en geldboete geëist voor handel in vuurwapens, drugs en bezit van illegaal vuurwerk - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk",
+   "wapen"
+  ],
+  "samenvatting": "Gevangenisstraf en geldboete geëist voor handel in vuurwapens, drugs en bezit van illegaal vuurwerk Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnRWZ1JWQXZQcjFSSlRrYWlzYmVFZl9KUVp1MXpjdjMtSWFxZVdtc2FUaHM3ZDBydXRqSkVoSHdWRjgwcDZHMW0wSGpZc09zWWdGbjBTZFMyN01Zd2dacUd1SlJQSl9MRW1BM1NrbjJKaEZ5THo5a2IzZm1ncTVabHItay00eFU0MGVGQ3QwQTN4TlVkbFZya0liZm9vMGUzRXAxeVlaUHBuRC1NZTFQM0FpSmhtNFhTT3h4NFhJdFRLZC01QVozN0NJY1UwcXNhMUxCTkZqaEo4QQ?oc=5"
  },
  {
   "id": "6c9c53dc07",
@@ -16531,6 +16655,25 @@
   ],
   "samenvatting": "Mestfraude levert ook in hoger beroep celstraffen, taakstraffen en geldboetes op De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQUlg2bFFNR1hTN0ZoWTJWXzhMQ2o2cFR1WUw4eGtYR1J4M1NlMFdONFhiNDdNMm1CbmUzREN3dkpKSmRZbFh1OTB6alZrQzBwSUl2ZGVGMzJkRGdWVVBYbkFNMkRuRVlWR19feWxGbXEydTF5WTZGdVRMWHB3U0tmSTQyU09nQ1ZzZVlDTllGZVZqZURaSF83blBJeERwaGVCamdsUUVpckNScW1rWnJzWWlBb2ZPd0owTy1na2JuTi1RMkg0NWdOc0tuRl9XUDdRR19EeF84SEFzMm80OXpYQlNDLWRjMjlXaEhVR3V2NEVaSXBUdmg5YjNjVXNtaHl2Vm1mUDFBeVFOTERudnpPZGxCV2Naa2ZWZ3hmTDZESzlZMkhp?oc=5"
+ },
+ {
+  "id": "0d712e2f76",
+  "datum": "2025-12-10",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "14 jaar cel geëist tegen man die via snapchat opdracht tot liquidatie gaf - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "14 jaar cel geëist tegen man die via snapchat opdracht tot liquidatie gaf Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUJIMm5PTVFySGVzdXU1WFp4a09nRHJfekZ4d1VzV0NIeHo4QkNoWUV0NFNCS21BSHFSSzdVNlQ0dEJNOVB2Vy01ZmlSa3V4M1hGT3dZcGxHM0pKSXJlZVBqSWcwWlBpc0VIUFRNWllPenpvdWxsTjJhTTh3UTZ6N1c0c3NDYTFxbGVoU2NCMXlVc1hOblVqLXJPUjhGeGVLT3hwbnBlT3ZPUzdmaXhEbjF5ZmEtNllv?oc=5"
  },
  {
   "id": "9768c94134",
@@ -22817,6 +22960,25 @@
   ]
  },
  {
+  "id": "6a59635299",
+  "datum": "2024-10-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist 30 maanden celstraf tegen verdachte van witwassen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "OM eist 30 maanden celstraf tegen verdachte van witwassen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORHp5OEtMalBWU2pTS3AwVk8xSk9WTjBfUkxjakk3WFE2aklMZG1pcThQVlFCTnFSSTRuMnRvdkw4NG9kSlh6RGEybXRqcTdyc25yTVhoSkFhWDliQ3h4NUFid3M3UjFUMXUxTm80ckhBNXF6TG5NcDRjNWY3UzNyUDdnR1h4cWdGOXBtQmJTZ0dvZFVzMFVrbm5IWUlJOFAtRVlv?oc=5"
+ },
+ {
   "id": "d1ead4fc9d",
   "datum": "2024-10-23",
   "tijd": "07:00",
@@ -22911,6 +23073,23 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "b2bb787d88",
+  "datum": "2024-10-08",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist celstraffen tot 8 jaar voor verzenden harddrugs in puzzels en spellen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "OM eist celstraffen tot 8 jaar voor verzenden harddrugs in puzzels en spellen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcTU3b0xhOWo3RElmQ3VubmdHZEllSld1X29BZldya2NfLThDQVBPWVRENjItby03eWdkNy16NXVOZVM4b1NOUFNjT3U4TWhVeWx3eTRuYkZXc0NUM2pzMk5vTUdwSV8zNDF6VTdibW1LMU1pWjFfdXBuZVFBdDlteHBUaTJZYms4WEJVeEIteXFtcUowbkRqRm9xencwRWNGaEtpMWJEWENhNElxRFl2LS1oVHliSkR0NlN2dmJR?oc=5"
  },
  {
   "id": "d468e080c0",
@@ -23536,6 +23715,23 @@
   ]
  },
  {
+  "id": "7af1a0a1b9",
+  "datum": "2024-07-01",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zero tolerance: werkstraffen geëist tegen militairen die drugs gebruikten - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Zero tolerance: werkstraffen geëist tegen militairen die drugs gebruikten Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQng3aXdnTkFvS2xnX1ZaaUZTckJMOG9ybFB0bUFrWkUtMDdiLUV2X1JrOUx1MmZJenNXU3l6UDFtbl8xc1Z1a2NhWFQtWExCZTRCN2k3c1JrSC02Wllfb3Iwa1pGSWhwbU5WVG5TRF9HaVlpYk1kNEdXR25HMHBuN0dTODEzUjhLV0h3YWExWW03dlEzY2hIZzQxVjdUNW5oZHFVbklQUXpjMG5Pa3VKRWdGQk9SYzg?oc=5"
+ },
+ {
   "id": "f266f760b1",
   "datum": "2024-06-28",
   "tijd": "07:00",
@@ -23612,6 +23808,25 @@
   "dossiers": [
    "Drugsproductie & labs"
   ]
+ },
+ {
+  "id": "b6bcf9eb4c",
+  "datum": "2024-06-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist celstraffen tot 7 jaar voor betrokkenheid bij productie synthetische drugs - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "synthetische drugs"
+  ],
+  "samenvatting": "OM eist celstraffen tot 7 jaar voor betrokkenheid bij productie synthetische drugs Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHVBLVV2TzhRZWM2Y004ZFVMUzRibVFLRFZ2N1FJdXFfUDhzTUZqVmtRaDNsTldJUEliQlQ5TmttTGZUdU5tRGtaaUVYbU9lWEZYaFdNM1hqZjR2Rmhqcjgtbm5pQnpiaXVlSk04TFhNWk4yR0M3RVJPR3ppclpmNVhZMXg1ZE1DcVlaQUpPUE9wek5ld2s1MTV3WVlRWWdEY2lya0xsMXJfakY2TnlvX0FGOFppb09nbUg2M0JJeHQwWXAw?oc=5"
  },
  {
   "id": "6f8817e197",
@@ -23973,6 +24188,25 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "963bf4404f",
+  "datum": "2024-05-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Celstraf van 29 jaar en negen maanden geëist tegen verdachte opdrachtgever liquidatie - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "Celstraf van 29 jaar en negen maanden geëist tegen verdachte opdrachtgever liquidatie Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcENXVGlMcURsbWNSbjYybk9xM3ZhQ2dWM1M3M2VXQzVrTUQ0eFJLZkRfOVJpWUxuVDA1UmFzNXE1WEdCeFF2eHdpWlVPbG9WSEU5b3NkYmJRbnZMXzk1TmF0VnAtQ2ZlT0ZJY3VleHZwakxrQ3cwQzl5SVY3SGxBQTllVlRCUzdJWm5ZVk83UFNFMUxBbHV3cUJmWjMtOWdGcTlpa0JIZnpTY0ZBY2hCX2RraFhHdDRFR0VJOXp1MFpUdUgwQXFkcA?oc=5"
  },
  {
   "id": "8bf02bee90",
@@ -24439,6 +24673,25 @@
   ],
   "samenvatting": "Huurmoordenaar krijgt levenslang voor liquideren van topcrimineel uit Pelt HBVL",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUDZkMTdRSVpnSV8tMmhiMkJEZW5zMVJSODhqYU04WUdURlAtb2VtZGU3UkVhSFF4NjVmUkdWMjJUYmhWWmN1d2JOZFJyMUxWYXlrdTQxemdNTUFwcnJDYmtsRlJ4QzMxZ0c3UmR5VlJQYWdnZG5xelRRMi10UFAyS3lsa2N4NmNkNlM0UVhkX1h0WnlGWExWZWl3cXI3X1dYeFZTbkxpcUlEZkstXzJqMVQtb1ZsWWFzZzNzYzd2SGVoUV8yTGc?oc=5"
+ },
+ {
+  "id": "c67fa51a58",
+  "datum": "2024-02-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Internationaal gerenommeerde interieur designer krijgt taakstraf en 250.000 euro boete voor witwassen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Internationaal gerenommeerde interieur designer krijgt taakstraf en 250.000 euro boete voor witwassen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORTdQLWJJU1h4X3J1UWhUeWhtR1lfN2t6VTQ0UUFaeE9PU29CRWsxRHNzRW5NaWtuN2ZVMFp5Z094aGFpemt3ZUhKNTdiS0N3ajRVTXRpWWh6Nmk5UXZUMGxENzVxU2lUNjVieXRuQWZDS2p3bWI5WEZ2Wko0Y2RNTEVsclNUT2VET2VzamFlMUh4UUo4SXh4eEdkamVaWi1Rd3puaVItb2tuWkxxeVRraWVQckFCNm5ZNjR6b0tvQkpFaGhqZGFaaFFRYWR4SFJ1QVlRSjNKZU1EeXlDWnc?oc=5"
  },
  {
   "id": "3b1fde69b6",
@@ -26272,6 +26525,25 @@
   ]
  },
  {
+  "id": "e745099b80",
+  "datum": "2023-06-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist 4,5 jaar cel voor witwassen en drugshandel - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "OM eist 4,5 jaar cel voor witwassen en drugshandel Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGVyNnBpQzlPZHJLS2IyeXZkWXh1Ync4T0hqSzRxVjJHblo4amg4bkRjc2J1OGVqR1FqcGlWbGdjNkFZZ3ZvNk1ia3NOOUZ2RWxrWWRRWWJrX2RiV21XYTZ0V3UtUllVcVdiUjBtNzhJZWwyR3ZvS3h3c2xvV0gtQ3FudzBuOVRCVmJNWFBmOEpCWmdWaS1TcQ?oc=5"
+ },
+ {
   "id": "fa7a26065c",
   "datum": "2023-06-16",
   "tijd": "16:14",
@@ -26368,6 +26640,27 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "fb38d38218",
+  "datum": "2023-06-07",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist veertien jaar cel tegen man verdacht van voorbereiden liquidatie, drugshandel en witwassen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "liquidatie",
+   "witwassen"
+  ],
+  "samenvatting": "OM eist veertien jaar cel tegen man verdacht van voorbereiden liquidatie, drugshandel en witwassen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOGdlOHU0RElVX0R3VERYNXM2Nm9ucVd1MTZtSC1pM1hpX28zQWtYUVlhY2JtRHBmSVpnVkRlNGl1bzZScXRDZi16M2k2c1hMdHh3Wnc0RVhzWUtQeDBMaDR0ZERISy1PVDhtNEswbndSUlN5OUNESmpfZldkUkdoeUROVV9UMGRGYkhGNHJEWThqV2hUM3NYWkNGNm9pVmtQQlJEMWM2c0FvaVlIczcyUnhhdnBKdUhVdmRhQkI5dWxSUHZPTnFlR3hyYUNPWTRkTS1xNmFiTUY?oc=5"
  },
  {
   "id": "a4538ba42b",
@@ -26888,6 +27181,25 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjRmSEFJeVJ0VXpOdXZYNm1UZ1doWEwxaHB5dE5pM1c3VWJoa1h2bUEwX1ZDdWE1T0lXNWF1SkVpd2JqeDh5S1NQLWVqdzdSbmUtcloyb2NRb0Y1R3o3a1liZjUybUhhVnRoQXV6RzR6aGNFek1ZRGd3c2RTSFVQSVVrTkUtRGpoOUk1Zk9uUDg0blpDVUgwLTVycFdYbTRZYmNEck9YUkxvMXNFYUs2SzhrTlY0R2VJaWVCakxn?oc=5"
  },
  {
+  "id": "6bf8459569",
+  "datum": "2023-03-08",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Drie Alphenaren aangehouden op verdenking verduistering, oplichting en witwassen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Drie Alphenaren aangehouden op verdenking verduistering, oplichting en witwassen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb1FlRVZjVnhpY0RGbWtpdnU4U1pmWFhjT0lNUVVnV2E4dFZELVBvQlJ2emhEcnBya1ZmTWl0bWhQS3picGRMdWpoc1YzUUZUNGt1T2dwQlNrNGJnb1BUUzRpaEJIaDNVa3JiR1l0UnFmZk9NSUNHR0lzNl9KV2lGdTVUektOdm1tOXo3STh5dFdzcjZLSlpBX2syUjA4ODVBSGJUVk5vZ2RTdVlxYWRSaGJKSVc2VC1Xd2NCU2pTVUk?oc=5"
+ },
+ {
   "id": "8b769bd042",
   "datum": "2023-03-07",
   "tijd": "08:00",
@@ -27346,6 +27658,25 @@
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGViQWV6VXo2TTA3dWlQekNncDFIWWppTkkwWjhDLUNIQ0VwcGJqTnhueUwwcUhIN3lFZUhpRS1CUVRBOTd5NkRUOUQ1eFk5eXhKcHdXV1RTc2VEVVM0MFJVTTZxaV9FNGRFNVVETlBkd0pUSjE4bGVxN3pfVkJxLVpzNFJ2azR5cXRtY2JydDF4cGVnWW1VUUlIT0o2bVFpMFpnZURQN1NkYUhBdHBrYjlCOW5GZw?oc=5"
  },
  {
+  "id": "56c520e4bb",
+  "datum": "2022-11-24",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Celstraffen en TBS geëist wegens ‘liquidatie op bestelling’ in Amstelveen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "Celstraffen en TBS geëist wegens ‘liquidatie op bestelling’ in Amstelveen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZF9UWF96d2pMZDRZcUdqQlRWYmcya1g4Y3R0c2plUlZPclhpOERoc29mV0d3bXh0LWszVHA4b1QwMWM3WE43QlNfbGtnUExGVmxhMGVLbTZwbHdhUE1MQ0FQR1BsVUMxSnRkMEFwQVRNc1d5dFVwTS0wa3JrM3hLc0VEUXk4TV9SMUZpNVpaVThNZ1A3ckZnQk8yYlRZQXJ3d29BNjFHMlNVamZYVXJxX0ZuNlhaUQ?oc=5"
+ },
+ {
   "id": "3490e1e12d",
   "datum": "2022-11-15",
   "tijd": "08:00",
@@ -27365,6 +27696,23 @@
   ],
   "samenvatting": "Burgemeester Halsema haalt uit naar Forum voor Democratie om ondermijning democratie Het Parool",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0o0OWo1RU1VMC1oMmdlQTJYcVJRNzVKa3FkQnE4elpteDZWZ1hSMUs0Z2w1XzRIUTNYdW5VOUN4R2JVdWhldnV1Z1ctU3VpRURjaTM1U3NpZzdQYnljTzVhaWFVaDcyWXAzM2xNTlRtZGplZ2d2OW82ZkdGTzdoN1JnM216Y1ZZRUVjVWV5Ykdac3BwaV9NU3pmSFNoLUlTaFhmdzNqbFRuNmhEQWFxd3d6S3BRcmZBSXQ5TUU5ZUE?oc=5"
+ },
+ {
+  "id": "84a75cfc60",
+  "datum": "2022-11-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Eis tot 9 jaar tegen elf verdachten van handel in harddrugs via legpuzzels - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Eis tot 9 jaar tegen elf verdachten van handel in harddrugs via legpuzzels Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGNxZGlZVmp5UWdhdThqVm5pc3F0OXROTXh6WnlyUFc2bEd0dXhyQV93SE42Rmx6SjdjSlFiUEdlUzRaeGM5ZTNobU1jQlJDSTl5a0JSQVdzbmRDUVVqUnB2MDBfVktYT2stUnpKbXV2OGJ5Z296NEdwSVdGN1k5cGR2bHhUZ0ptek0tREQtQVEzc2NRbkR2bGtBRnNROWswd3VqOTJCWUtFcGJFc2I3ZXdRTnRfZFBxT1E?oc=5"
  },
  {
   "id": "679d0d24fe",
@@ -27928,6 +28276,25 @@
   "dossiers": [
    "Corruptie & integriteit"
   ]
+ },
+ {
+  "id": "6e3945365d",
+  "datum": "2022-05-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Strafeisen: 4 en 8 jaar voor grootschalige drugsinvoer en witwassen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Strafeisen: 4 en 8 jaar voor grootschalige drugsinvoer en witwassen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYTZrcVl5YjlNdTdWMUdWeEcxWnlqN0lZRlpDMnJMR3ROeDRudV9CMnlqMUlQTlpFaVhRdllLYjUxX3NMMU41LWw1WWVJYldTV01uUDJvYjNCTktBa0ZtMTFTMERYX2w4NDlDWnlTbU1mOWJVZS1MMHY0ejRjbnB4THNSdkxXWEhJV2V4dkoxTU5hcUNoSkNsUTJabXNZaVJMbFBzT3Fkc00xWmc3d2NZ?oc=5"
  },
  {
   "id": "7c1e1b2143",
@@ -29127,6 +29494,25 @@
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc25iaXNEMzlLdkZVak56WFZJbkpieGZ3TEgxc1dPMWZCT1JNZUdJVkZycjhKUC0zN2ZaLXNtOU93R1Z2QnZjeS1LX281ekJyM21LUG9pbFBQZWUwYVdVanFlNDlobWNhWV9UTEFxTk4zdE1KRWhaME4tTzgwckl6bGpGTktRTkVOSUxJS2NQUlBQMlg2Vjh0Wm9MUTVuZmR5c25YMlVULUFvNkZxS3JPR0VBSUozd21pMm1yUlpYMS1fcTl0WGlPeA?oc=5"
  },
  {
+  "id": "39abbe68c7",
+  "datum": "2021-01-13",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Tot vier jaar cel geëist voor drugsfeiten en witwassen in Hilversum en Loosdrecht - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Tot vier jaar cel geëist voor drugsfeiten en witwassen in Hilversum en Loosdrecht Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOak5zWnFpTkx6b2NCam9qVEVPb3IzeU1hYkNiQm9ZMWpySE1tQnREWU1YMHl0X1l0dk81THBmOHdvU3JQWXQzdGlhM2Q4dnZ3MnVvQmZoN2tfLWduWFpndDdTelY5dzJmTFNCdzM2SENwd2NhaUtOOExCZXZVTlN0ckxnUVFCeEVrcnBobEo3TlNEQ1g3N3QxMEFCSWxjeFlPZU5GNDRFVTFmVEN6MU44Y1d6bktVY3c1OTZVdkxQQk03TTg?oc=5"
+ },
+ {
   "id": "dacb03b59d",
   "datum": "2021-01-12",
   "tijd": "08:00",
@@ -29268,6 +29654,25 @@
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQU1VUDFqUFVyRUN5aHVqMW1LUTFadFV3VHZ5ZGlGd1hHVlBkZ3BNQm1KaXoyV3JQaTJVTi1jV3ZXRGl5Xzg5Ynd2X1BxUWdQZ0lSd2NfcFRsRGlzM0lsRjQtODhSak5xTTNwRWcwUDJGaXlmSTA4Q0lEU0l0Mk5KN1VacHhYd1I2c041TjZSaWlXOEpyN3dITHdGblppTUhiTXBqNTJGaUZQeDRKZ0puUjJn?oc=5"
  },
  {
+  "id": "99883ab6dc",
+  "datum": "2020-11-04",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Strafeis: 6 jaar in onderzoek naar het witwassen van ruim 12,5 miljoen euro - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Strafeis: 6 jaar in onderzoek naar het witwassen van ruim 12,5 miljoen euro Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVUJxcVplWWEyYlNoSVoyVjJHaXJ2c21udWFJNDJMQTVhM3ZRVDRGc2tTY0cyd1hJd2ZmSzdPLUxpejJZbDJTdTdiX0F0U3htVEQzaWFiVEExQ3lMcFJZdlVsQ2VSakZkRlZBdVkxS3I0cWtxS3hna1djcDIxU2U5Z0wxSzExV0I3VnFZc25WY2dZWE5nQXAwUUxrSHljTDU1Z2RjV203aDFwNWFQUFF2dW52R3pNZGVs?oc=5"
+ },
+ {
   "id": "2c7ae5ed2b",
   "datum": "2020-11-02",
   "tijd": "08:00",
@@ -29303,6 +29708,25 @@
   "dossiers": [
    "Geweld, liquidaties & bedreiging"
   ]
+ },
+ {
+  "id": "74e788c695",
+  "datum": "2020-10-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Facilitators aangehouden voor witwassen miljoenen aan drugsgeld - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Facilitators aangehouden voor witwassen miljoenen aan drugsgeld Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmY4MXpNSU12WHlpTmxlR3pEY0NFUXRVY01La19NM2daVFlnUVY3NzdNeEdCR083MU5uNDNhWWxja2RQZEkwMUpZZlAyYmpsQU5QaXk5S183bmhuVkx3Nnh5UXB1U3MxZDhCaVo3bV9sdXMwZ0szSWtmQnc4YmpqN201REI0cUxwRGRJbUxkVWh1c0RNZGstUHFVZ1AtUnowb0xvSnZvQXRiWW8?oc=5"
  },
  {
   "id": "ec65f867bf",
@@ -29543,6 +29967,25 @@
   ],
   "samenvatting": "Haagse ambtenaar ontslagen op verdenking van miljoenenfraude RTL.nl",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWVzNzdlcnIyaUlHZGpzREFkYkZINFBtWmlVNG04Y3J1alU3Tmd1VFJiV3lkc3FxMHNrVGF1SW81QW5NOURvMjRadHh4bS1ZWWVPbWR6ZC0wN0VDMmZtWkt6cm1Ta0h5SkxYM0RRRC1PZXM2M2o4eDlFX3hUVEZRc0FleUVVMnBjdWZYRURUNGhqVnZMeXFLcXhNckd2SGFfUERJ?oc=5"
+ },
+ {
+  "id": "4fbaeec3b7",
+  "datum": "2020-06-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Tot 33 maanden cel geëist voor listige kunstgrepen en witwassen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Tot 33 maanden cel geëist voor listige kunstgrepen en witwassen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzVVc0E5SmVqRXRZZUE2UjVmYzhNZXN5S0hBOVJCSXFDN2YxV2VsLS1xLWtDR2RSanNMY19QdWFqOXFSaEhCOXN4aGpYa2RZaDNYRHVMRFNJRldGVXk0ekc3dWxYN3BuVjhuZE4wTkVCYkJXT0ZtUTFsODZPWHFIRnQ3ZEl5UW1nZEZ6bHRBckFpTzRUS2d3Z0ZzMk1PZXctanZxb1ZyMWFfTVE?oc=5"
  },
  {
   "id": "89348e7340",
@@ -29805,6 +30248,25 @@
   ],
   "samenvatting": "Man uit Noordwijk aangehouden voor witwassen van 2 miljoen met bitcoins: kilo’s goud, auto en sieraden in beslag genomen Leidsch Dagblad",
   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQW5zU01pN1ljMWN6ZDFvcm1meXVoVXc2TXlNamg1akFod0hUYkxoeU5ZOVB6b1hSdGFjeDdlTEtzbmJfb2lBcjNOZ3ZRUUZpQnZyWHdDUWFUY2dYc244WGtEMmRfbVcySFFlZzNhejVVbk8xdm1ZYzFmSEVIc0JTdkdpTWVacUVocFdRWnU1Q2VIdzJ3ZFVQQWU0MGFkUnloeXpKVUNpV3AzejBIQlhwcXFHaUx1Y0NFMlNfOXlkZ2VwdVVtWFV3dzRyWWlTakRkczM1OHBERGRyZzh6Mm13dlQtQzA5SUpHT0VfZm85WmNFOXBKY3BIRktlTFZzMzgtbWdEUm8zVFZaUlVINVV3cVplWkhiM2lu?oc=5"
+ },
+ {
+  "id": "82020ef0ce",
+  "datum": "2020-02-10",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "8 jaar cel geëist voor drugshandel en witwassen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "8 jaar cel geëist voor drugshandel en witwassen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTklkLVZlcVhnc3FseXZlZjFNN19NOXFHekR5QjNJelBkYUh3T3J4Umlma2dUM1RtWks3cTAzbW9VaXJQMU9ldVlEUkVDYmFWQVFkc1g3VUNtYUF1OUFFa0VHMFJWZ3ZtOFFja2JDSGtVckxEeFNRLXlIbmhFdXpnb1lqNzRQeXhfX2NUZ0RrbzZmaTRkakE?oc=5"
  },
  {
   "id": "54f00fe115",
@@ -30639,6 +31101,44 @@
   ],
   "samenvatting": "Friezen voor de rechter wegens mestfraude Omrop Fryslân",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWHMzOHA2RWlLN2Q1M25JVU5KQjBpOE5YYTlZZ2RYNnpIOFYzVUJpQTBTRXdlZE9Cb3dCSXN3Ynk5Ti1YcVhtVVZza3lHZ1I1dHJoUkplN2ViRExibWZlTTFpbnNSLTZBSXF0aTJBeVZOTTRjcmNyQmZBSTNUbW84cUw4UkVWZDJpZFg3aG9IWQ?oc=5"
+ },
+ {
+  "id": "0f370dbd71",
+  "datum": "2019-03-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist gevangenisstraffen tot 3,5 jaar voor stelselmatige faillissementsfraude en witwassen miljoenen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "OM eist gevangenisstraffen tot 3,5 jaar voor stelselmatige faillissementsfraude en witwassen miljoenen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWHZyMmVVeGxOb3p2NUZDVWRTUUJ1akQ0VXM1Ynl0S1I3ZjBTLXEzT0pQamxGbEFqVVY0WlNxMnpLQ0FfckdDZUlCM1ZNdVdpR0ZCaUx6Zk5iOENkZ0N6a1hPX2hsQ3BCNGRlck96TlZxdVNDaDNiZFZvNS1QNDJJYnV4NVUxWEZiSkZibks2bjAtX2VMeTd6M0thZGs1bWVqSWNROGRFSjVUbTgyQTNBVmppQWRfWDd1Mi0xbHoyZkwyRERIODN4VWt0cnZmc0xJWnlaM3VFbUhhTDdhY0E?oc=5"
+ },
+ {
+  "id": "7c11b92d89",
+  "datum": "2019-03-07",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Gevangenisstraffen van 24 en 23 jaar geëist voor liquidatie in Nieuwegein - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "Gevangenisstraffen van 24 en 23 jaar geëist voor liquidatie in Nieuwegein Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVNlWDZ5QTExVzFlYmlKSl9oZF9EbEw5OU1XRDFBRmZxUHowMEkwcVZUVWNuVTBOdU1NdTZRbmdYLV9tWDlsV0FLY0Z5LUJSZ3Juc3Z6ZHpXQmtPajg3a1B6cE4zVEZNS25lUkRJVnpYZnlmaVFKVDVmaWdBcHdmMVdQTFp3SVE4M0tFMjgtWk85M09FTHZGOEd2ZGVHV3YyWlVKQVVuTkd1c2pGMjJLbjl4ZlJENkZE?oc=5"
  },
  {
   "id": "8c7d5f3c71",
@@ -31638,6 +32138,25 @@
   ],
   "samenvatting": "Het Blaustein-imperium: schimmig trustkantoor richtte zich vooral op vermogende Russen de Volkskrant",
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMGRMdzVHNm9oV3JrUk9jRDVuNk83UWRlV2hVSFZVVjk2eGlYVWd4WnFhSjBnaGpPOVhabEc3RE5qVEhpb0I5eEVwUHJEWFpqTjV3U3NSTjJaV1lBdHVGUUhlTGJxSG5ZZlVrT2x4aFI0YWpJWkQ0cG9YMDFxb2VjajlwNWF1VkdJT1VKZkNFQkEwSHFUT1NrZURGLTNzRmJrVGhJUVZxWXIzUEZpdlk4MTE3NDY5ejdTc0xQUnZYaXdGbnRNSGRSeUhB?oc=5"
+ },
+ {
+  "id": "117b9271f3",
+  "datum": "2017-05-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Twaalf en achttien jaar cel geëist voor betrokkenheid bij liquidatie De Meern - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "Twaalf en achttien jaar cel geëist voor betrokkenheid bij liquidatie De Meern Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVXNjbkFYWTRiYTNuR1ZYRTJpUlhjbXBGdE9JWU95TThBMGpVMEMtY3JtTGp5VFZ5UUc0a0VGWldZTDNScFZXNC1FR0JjY09TbXNBSmJaa3BNeTFFdkFNWVczeVVaXzdPTWJGM2c3WWNDMW5HanBEUHB2R2ZIRUlPN2NXR2pKVExoNERRZTJTYTJYLUVQSWViMm1EUnJUWjFBaXI2VU1zOTg1Zkp4TW53d2hLdS1sbUpYNTRKZHpB?oc=5"
  },
  {
   "id": "c53e393989",
