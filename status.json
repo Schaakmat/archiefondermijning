@@ -1,12 +1,12 @@
 {
- "run": "17:25",
+ "run": "18:25",
  "datum": "2026-08-29",
- "nieuw": 15,
- "totaal": 1751,
- "verwijderd": 12,
+ "nieuw": 21,
+ "totaal": 1761,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1045,
-  "geen dossier": 492
+  "niet-nederlands": 1036,
+  "geen dossier": 514
  },
  "bronnen": [
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 9,
-   "status": "bij",
+   "items": 10,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 49,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -420,7 +420,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 37,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -437,8 +437,8 @@
    "url": "news.google.com/rss/search?q=site:uitspraken.rechtspraak.nl+witwassen+OR",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 0,
-   "status": "bij",
+   "items": 8,
+   "status": "8 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 27,
-   "status": "4 nieuw",
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 27,
-   "status": "bij",
+   "items": 28,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 6,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
