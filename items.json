@@ -30,11 +30,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Gelderland",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
    "Jeugd & jonge aanwas"
   ],
   "tags": [
-   "geweld",
    "jeugd",
    "jongeren"
   ],
@@ -240,7 +238,7 @@
   "id": "93088b2b30",
   "datum": "2026-08-29",
   "tijd": "08:52",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "112 Nieuws: brand bij restaurant in Zwolle | Politie onderzoekt woningoverval in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -1389,6 +1387,25 @@
   ],
   "samenvatting": "Opinie | Zorgfraude bestrijd je aan de voordeur, niet met Wet Bibob als standaardprocedure Zorgvisie",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTHR1MkZtTWtCeVhlV0EtZ0xvSUdObEhXQWFVa0xjVDNBUzFCTGtpS2VMWVU3czJ4Z1Y0X0FiVnZCeWw0RFY0MDRrX3pxVlQwRzdrTXBMVnRIYTRLSDRqYXBCcTFrWHBFcGdKMmx4YmhEUS1GNVBwS0ozbXJTSGhoQVRwTTN1STlaSUJQZGhQcU01a0k1WkhSb1hMc0x2b044NlEtb0NfX1d2TmFOTVJPRnBZcGZoNVNzeVE?oc=5"
+ },
+ {
+  "id": "196502a8ed",
+  "datum": "2026-08-27",
+  "tijd": "10:00",
+  "nieuw": false,
+  "titel": "Bende die Chinese vrouwen seksueel uitbuitte, veroordeeld tot jarenlange celstraffen: “Ze moesten zich dag en nacht prostitueren”",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende"
+  ],
+  "samenvatting": "Bende die Chinese vrouwen seksueel uitbuitte, veroordeeld tot jarenlange celstraffen: “Ze moesten zich dag en nacht prostitueren” Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObnk3NTdlZFlUUDk5blRKZFVaRkVQd3hRdEJnUGpqd2tXZGtTX3JHb0ZYWnFHV3UtTVMxZUJlV1dBQ2tuUGtiWkpCV2FpcWRSUUdyeVpFU2NEb3o3c1ctV1hPZ21oNDFMclo5a2YtZzV3ako5Z3RDblJ1SjlDSFpJSVZXN09wN0NVOVNPajhyUW8yNlY1SGYxbDhyLTZicjktb2JpUldJd2NXQmxNanFJaFpaUzMxWURLdHlKN3k3NHgwNktPS1JIdExJSTMwNDdMcUdQNHlGTGhCamhoeHZudWhXYmRkQ2o3WlNnNXpRVWszRVh4Z3hvVVUwTUk2Z0dFbW0zRUE1MTA?oc=5"
  },
  {
   "id": "14cab62de2",
@@ -20773,6 +20790,25 @@
   ],
   "samenvatting": "Celstraffen voor betrokkenheid bij groot drugslab in Laren De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdS1ZU25PN2tnUGxBeWF5Y2tSb0cyUzdvOTNuUFdQaWZPNFBrcmlIX0l5T21KLWg2N0xQd3QzUFkxTlFkNjlOZGNtczM4S0xvaFNrY3JyT1JSREJmdVNzWjNBeWlSX1p0TF91NTZ1dXJOMUxIVGludFk4dm1JRnhIQkN1bkxMd09pYkF2VnJ0YS1lNWh6RHgzbExLOTRVUkFVbGJSRHNHYldINHRZQ0lmZ2Z6TmFOVTd1VzNUVW5FNkx4OE4zb3p0bEt6cXlSWnNBOTdrRUQzbWY5Ymt4LThiVzNJazJTUFFiRGx5Tm5YWTJUU3NIMFNBUk5Ua2s?oc=5"
+ },
+ {
+  "id": "85f06b4186",
+  "datum": "2025-07-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Twee huisjes op vakantiepark Meinweg voor maanden op slot na drugsvondsten",
+  "bron": "VML Nieuws",
+  "verzameld_via": "Nieuws — Buitengebied & recreatie",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "vakantiepark"
+  ],
+  "samenvatting": "Twee huisjes op vakantiepark Meinweg voor maanden op slot na drugsvondsten VML Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUhYclZJYmVGX2JaSm1wRFlmOFFQV0FCR1Vza3d0Rmp5TS1JVmhLOXRPN2t3ZDBxZmFzLV90RUd2UmFaWkwwaG4xV29FN0FycFd3Z1lpdjZWbGdZajNLQkJJUGdKM2tLODdEdm9Bb0tPTW1keXJiVlFzZjVBbUYwa2ZUVnZBb3NHeHExTkhTbThOVmJRTnFVSHpuY1JLM1g0cmxPMFRQYzdoQQ?oc=5"
  },
  {
   "id": "f5956b7735",
