@@ -4,7 +4,7 @@
   "datum": "2026-08-29",
   "tijd": "13:18",
   "nieuw": true,
-  "titel": "Extinction Rebellion bezet A12 bij Den Haag, twee arrestaties gemaakt",
+  "titel": "A12 in Den Haag korte tijd geblokkeerd door klimaatactivisten, twee arrestaties",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
@@ -17,7 +17,7 @@
    "burgemeester",
    "grond"
   ],
-  "samenvatting": "Klimaatactivisten van Extinction Rebellion (XR) hebben in Den Haag kort na 13.00 uur de A12 bezet. Enkele tientallen activisten zijn vanaf de oprit de weg opgelopen en blokkeren nu de Utrechtsebaan in Den Haag. Daarmee is de belangrijke verbindingsweg Den Haag uit geblokkeerd voor mensen die de stad uit willen. Op deze",
+  "samenvatting": "Klimaatactivisten van Extinction Rebellion (XR) hebben korte tijd een deel van de A12 in Den Haag geblokkeerd. Kort na 13.00 uur bezetten enkele tientallen actievoerders de Utrechtsebaan om aandacht te vragen voor de klimaatproblemen. De activisten waren vanaf de oprit de weg opgelopen. Op deze plek demonstreerde XR al",
   "link": "https://nos.nl/l/2628780"
  },
  {
@@ -57,6 +57,25 @@
   ],
   "samenvatting": "Hilversumse verdacht van witwassen drugsgeld. ’Mevrouw stelde geen vragen en maakte het zich gemakkelijk’ De Gooi- en Eemlander",
   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbXVfVmdxT2R4V18xSkUtOU1CVDQ1NkdnbWF6REZ4a3g3dEpXTUt3S2ozbWlLV001OHJ2OFhRd25vc3l1UWc2MDdNRTNULUdOeHNRRVhaWEVnb2JrQjZmR0ItLUdKNkZFOC1xbzVRUlg2QWlOZFltSXUtWnM0RUY1Mi1NZ3lSaENsZ0tsQlN5dUZYQ1B5Y3E5UzhJT05qZUsyS01LRzhXSXhYWW5VWDU3aDRLZXpzSlllZHJvaDc0WHJfcmk3LXZfd1Y3V04xTFJWY1c1N1EzR1lxWWJ5TVZrdk43VDQwdGVuVjFEZFNIeVNfendGZ1p3YkJOWjAyc1Bi?oc=5"
+ },
+ {
+  "id": "98c1066dd4",
+  "datum": "2026-08-29",
+  "tijd": "08:52",
+  "nieuw": true,
+  "titel": "112 Nieuws: politie onderzoekt woningoverval in Hengelo",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van zaterdag 29 augustus.",
+  "link": "https://www.oost.nl/nieuws/3689534/112-nieuws-politie-onderzoekt-woningoverval-in-hengelo"
  },
  {
   "id": "67d062c63f",
@@ -281,7 +300,7 @@
   "id": "efa5cacffa",
   "datum": "2026-08-28",
   "tijd": "18:43",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Aanhouding na vondst van chemische stoffen voor drugslab woning",
   "bron": "Regio15",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -302,7 +321,7 @@
   "id": "6d8b6327fe",
   "datum": "2026-08-28",
   "tijd": "18:25",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Gestolen kerkklok duikt snel op bij metaalbedrijf: 'We hebben zijn ID gecontroleerd'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1012,25 +1031,6 @@
   ],
   "samenvatting": "Een rijschoolhouder in Winterswijk ziet zijn levenswerk in vlammen opgaan, Charles Ratelband junior wordt verdacht van miljoenenfraude en wethouder Tom de Nooijer biedt excuses aan voor een foto met een kalasjnikov. Dit zijn de belangrijkste verhalen van donderdag.",
   "link": "https://www.gld.nl/nieuws/8513872/rijschoolhouder-verliest-levenswerk-miljoenenfraude-onderzocht-en-excuses-om-wapenfoto-op-27-augustus"
- },
- {
-  "id": "4f017a351f",
-  "datum": "2026-08-27",
-  "tijd": "16:33",
-  "nieuw": false,
-  "titel": "Nieuwe massadonor met meer dan honderd kinderen: 'We moeten deze man stoppen'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jeugd"
-  ],
-  "samenvatting": "Opnieuw duikt een Nederlandse spermadonor op die doelbewust zeer veel kinderen maakt. Het is moeilijk vast te stellen hoeveel het er exact zijn, maar uit onderzoek van tientallen getroffen moeders blijkt het te gaan om minstens 121 kinderen. De kans lijkt groot dat het werkelijke aantal nog stukken hoger ligt. Tot grot",
-  "link": "https://nos.nl/l/2628520"
  },
  {
   "id": "d4d11c061b",
@@ -14359,6 +14359,28 @@
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2FRcXhMc0lIeFczaURRUjVYUWJuS3hydFVSRVV1ZXhFMUNJNUxaUFUyX19ha3Nrd3Q0SklieVhySmt1VWhHNV8zSzd6Q2dydkp5RWlvcXpoY1BPSmszSVFHeGREZWtfbThhbEg0OUdMb0FjQTVvX2Q2bDZRX2lqdU1MdHNfN21ySURPVTZ6NGRzOUxQTjdDX3Nfazk3bEUyU05HWHpJMm9FdTdRU2E0T0s5djE?oc=5"
  },
  {
+  "id": "541619d2ba",
+  "datum": "2026-03-25",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drie drugslabo’s opgerold na afvaldumping in Turnhout: “Voor snel geldgewin liet boer 900 varkens aan hun lot over”",
+  "bron": "GVA",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "afvaldumping",
+   "drugslab"
+  ],
+  "samenvatting": "Drie drugslabo’s opgerold na afvaldumping in Turnhout: “Voor snel geldgewin liet boer 900 varkens aan hun lot over” GVA",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNLXI2MnVLajV3NnJhOGpLQjk4M29ZZEM0UlRRSmpDam9lUGhoZ25aZGJJX0RuUmZhUEhSMnU2VzVLRW1mV1IyTDV1My1nRUZpTXIxczhxcTI3XzVTYndVa2hWclpqRXJ0N0R4MWh3NzVJRUF3MnU1S2RXTTBWUVNxS1cwdUl0ckFDM2hTcjA2blJvY2M1b2F0Wk1mSFM4N2FCRTB4QTJJbzNidUVZRDZXQXBod1U4OEh1Umk2MXhBZktDQTJKcmpOOG9SRF96a1ZPRmNPYzhhVVJrX1VkRUVlYXJ0NHhvMlhwS21RM21sbG55VWRmUjhESXZYMXpNMkRhUkE?oc=5"
+ },
+ {
   "id": "1aa3cfe8a1",
   "datum": "2026-03-24",
   "tijd": "07:00",
@@ -15173,6 +15195,27 @@
   ],
   "samenvatting": "OM eist langdurige celstraf tegen meedogenloze cryptocrimineel uit Delfzijl Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYVVnQ2JZbjZUY0d4b3FrN1FMQk8tVVVVMXNiLXdoZkk3dkdiSmpJbzY3R3I5b3Y3NUZnV2xTUXp4VURFdWdFdFN3cDZOQm1WNkEzM3JtZkRINllVdVdyRFhsUGF0LUhjX0dqemk0NHRVald6d1dxemdCV1ctWGNhWG5ZNWdoR082eFJNZndSTFZxUS1PbnY4elY1X19VS1cxVS1FQ3lEdHNxNVVKOXZGMHdfVUF6UDNENWFV?oc=5"
+ },
+ {
+  "id": "3c99874a7b",
+  "datum": "2026-03-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Mannen verdacht van witwassen door bezit woningen in Rotterdam - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen",
+   "woning"
+  ],
+  "samenvatting": "Mannen verdacht van witwassen door bezit woningen in Rotterdam Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeXlxTGlYT3p6N19NWDU5cDdrS1NvcEtEQUJTU3ZfbGJfX21QbGUtbldxajVQa2hFLU9tbkx5VVdMUkVaZ2h0ZmV3cmU1V1hBZ1M2RnFGMG1IQXAwbzhsU2dFdlNfaTQwMVJhTmUtSUNsTWNJbklqdk14VWFtZTE1TWRaZWlKR2tIQVhFZlVDOVlobTB4UHhlMGhQWldQTWZHbnQ1c0diNWFvQQ?oc=5"
  },
  {
   "id": "59f409469b",
@@ -18427,6 +18470,25 @@
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQzBLOWN2Z2E3T1dGUGRkX0VQM0FPT09COGJvTGtESnBVemJLTU1WUnZYNXQwZ2xJcl9qQkcwOVU1WE8zOGE5VWlKSnJ5UjdQYWZqdXBVVDZYQ0xBTk4tOUcxRmVRdjl3elVXcnZXTERkZnctOVhCRXlQZ2R1a2RETWpqRzZ5N2JCQ0FnTk5JT2RFdw?oc=5"
  },
  {
+  "id": "6ec3c5a631",
+  "datum": "2025-11-08",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Nederlandse villabewoner vindt bij thuiskomst handgranaat met extra schrapnel aan poort: “Zo raar is dat toch niet, mijnheer?”",
+  "bron": "GVA",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Nederlandse villabewoner vindt bij thuiskomst handgranaat met extra schrapnel aan poort: “Zo raar is dat toch niet, mijnheer?” GVA",
+  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaW9PaE1la3lZRHNraW00WHNOaV9jeDdGY2dFal9jWk1OZXlCbTJENDNFQXAwRUJMR3hZUjZTbVJJUDR3UTYtZUx4dy0tVDgxSlpoQWQ0dHhXMll5SjE3ZVRsdzc3clN4V1JveGZMVDBOczJXV2ZZcTVWQVBzNUZZR2pqZUhaSUFOb0dJc25GdEFsOWF4ajNLM3FjWU5HaGVQQV9CN1lYNHJJWFpHSWRhQnJSeXhLbkJCbVlKTXBNVlM1bFNxaHlBZkRjODJ1S2RYWmYyaFMtQ3FZc0N1RlFQalZjUEpRNDcxcnZSbjhnUU1hekU?oc=5"
+ },
+ {
   "id": "b85a3e0d3c",
   "datum": "2025-11-07",
   "tijd": "08:00",
@@ -19569,6 +19631,26 @@
   ],
   "samenvatting": "Drugspand op vakantiepark Heel voor half jaar op slot De Limburger",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFlVem1YMHY4Xzl6eVBhODl3Rm1wNEdWY1JYVmFhN2tOaXlrU3lzd0lPVFNVbkY1WExkSHg4aXNrb214bmNReGdrdmZlaFlnbHVMZXpHbmtRbC1HZE5pek0wTHdGdWJORGlPYlQ2VDJOeGdLaW9RczlHcTFfQ2VBVHVaQ3pkSWNqdjBkVDFLSEFkU1pySE40U1hjc19nalhWNjRmYnFuX3AzVmNGaE1RRTF3?oc=5"
+ },
+ {
+  "id": "86b437a23a",
+  "datum": "2025-09-25",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Tas met zwaar illegaal vuurwerk gevonden bij flat",
+  "bron": "112 Nederland",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk",
+   "zwaar illegaal vuurwerk"
+  ],
+  "samenvatting": "Tas met zwaar illegaal vuurwerk gevonden bij flat 112 Nederland",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdWtNekJIb2cxR1ZzTXp5QjNhbk1oS0QzRlJ1U1NLQXE5SUhMd212dUVVNDZnU3VOQ0FuMk15NjlqeW9YR1BDTnc2WnM5RkdOZGtTVElvR2c0MXpYYUtveGlsYmlDN1hmdnNfWGJEYTVackI5REFBSTlaRy1EQmNhRVk3ejNheVBpWUVqMm80WDBabmwzbEE?oc=5"
  },
  {
   "id": "ae21ddd008",
@@ -25166,6 +25248,25 @@
   "dossiers": [
    "Bibob & bestuurlijke aanpak"
   ]
+ },
+ {
+  "id": "744df84d03",
+  "datum": "2024-06-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Aangepaste OM Aanwijzing buitenlandse corruptie: wijzigingen t.a.v. uitbrengen persberichten en berekening van ontneming",
+  "bron": "BijzonderStrafrecht.nl",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie"
+  ],
+  "samenvatting": "Aangepaste OM Aanwijzing buitenlandse corruptie: wijzigingen t.a.v. uitbrengen persberichten en berekening van ontneming BijzonderStrafrecht.nl",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR1BUMjBJbm54cTRoTXRBVG9aR21tTGtQUXFKR1FpNzdnWFc3VkJoaldpcjUxTERfbFBTUktETncxRGE0RXB2NXJnZEQ2SkRFdUFJSkd3VFF2NVo4Z3gwczg1NEtFNEJKRGZBZ1djUDVFVU5LdFJDRG1tYkRKWXpzQk1ZSklQNWYzU2x6VUp0ek9wN0NoSDhVODktQ3hRWEN6WXllZzBOMFpFYkd5dHZBMjREQ2dEU2l5U0NQMUUxV1dLTi1vNkVkUUhvSVVjQnVnZHFUWk1SbVl1U0NGeV9QUUQ3dXVFU25ITHZ2bQ?oc=5"
  },
  {
   "id": "4ee45fb2df",
