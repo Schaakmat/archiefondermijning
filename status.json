@@ -1,12 +1,12 @@
 {
- "run": "15:25",
+ "run": "16:25",
  "datum": "2026-08-29",
- "nieuw": 12,
- "totaal": 1745,
- "verwijderd": 13,
+ "nieuw": 15,
+ "totaal": 1748,
+ "verwijderd": 12,
  "geweigerd": {
-  "niet-nederlands": 1047,
-  "geen dossier": 509
+  "niet-nederlands": 1050,
+  "geen dossier": 505
  },
  "bronnen": [
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 47,
-   "status": "bij",
+   "items": 48,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -338,8 +338,8 @@
    "url": "news.google.com/rss/search?q=motorclub%20verboden%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 13,
-   "status": "bij",
+   "items": 14,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 22,
-   "status": "bij",
+   "items": 23,
+   "status": "1 nieuw",
    "ok": true
   },
   {
