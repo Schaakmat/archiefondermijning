@@ -1,10 +1,10 @@
 [
  {
-  "id": "7c8c8fb4e2",
+  "id": "67d062c63f",
   "datum": "2026-08-29",
   "tijd": "07:05",
   "nieuw": true,
-  "titel": "Botsende automobilist Tilburg reed ondanks ongeldig verklaard rijbewijs",
+  "titel": "Man die vluchtte voor politie en auto's ramde, had geen geldig rijbewijs",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -15,8 +15,8 @@
   "tags": [
    "bestuurder"
   ],
-  "samenvatting": "De automobilist die vrijdagavond twee auto's ramde op de kruising van de Ringbaan Zuid met de Wethouder Baggermanlaan in Tilburg reed ondanks een ongeldig verklaard rijbewijs. Dat maakte de politie zaterdagochtend bekend. De politie vermoedt dat de 39-jarige Tilburger onder invloed was van drugs. De automobilist wilde ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025073/botsende-automobilist-tilburg-reed-ondanks-ongeldig-verklaard-rijbewijs"
+  "samenvatting": "De automobilist die vrijdagavond twee auto's ramde op de kruising van de Ringbaan Zuid met de Wethouder Baggermanlaan in Tilburg had helemaal niet mogen rijden. Zijn rijbewijs was eerder ongeldig verklaard. Dat maakte de politie zaterdagochtend bekend. De politie vermoedt bovendien dat de 39-jarige Tilburger onder invl",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025073/man-die-vluchtte-voor-politie-en-autos-ramde-had-geen-geldig-rijbewijs"
  },
  {
   "id": "f39d15a382",
@@ -244,7 +244,7 @@
   "id": "1456ba092f",
   "datum": "2026-08-28",
   "tijd": "17:34",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Vrouw krijgt alsnog celstraf voor ongeluk op snelweg: 'Dronken en druk aan het appen'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -263,7 +263,7 @@
   "id": "2f965e0679",
   "datum": "2026-08-28",
   "tijd": "17:30",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Man uit Zwaag krijgt 32 maanden celstraf voor levensgevaarlijk drugslab in zijn woning",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -284,7 +284,7 @@
   "id": "0ab92d69c8",
   "datum": "2026-08-28",
   "tijd": "17:15",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Studenten ziek, ratten op de loer en koffie na brand: dit gebeurde vandaag",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -313,7 +313,7 @@
   "id": "6cd2b61373",
   "datum": "2026-08-28",
   "tijd": "16:43",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Naakte vrouw rijdt door hek Eindhoven Airport: luchthaven doet onderzoek",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -494,6 +494,27 @@
   ],
   "samenvatting": "Verdachte diefstal van cryptovaluta en witwassen aangehouden Politie.nl",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUthLXQ0Wm5veHRpWk1Wb0R2SVl5WC1WUnNLdTh1VUIzZWJBUHZpejhURGR5c3VjZS0zMzFqSDRpM1dUb09Yc290NXl0R2hIQlNta3dPMzRQR2liTTdJYms2TDYtb3FoZ2lPWEpaUm14YzRmdi1SQ3czVGNjMVI1aHdOLTlxc0pNdC10OXktZUg1cUhsNW9Fam5aQVg3UDhJMXJZeFFRSm1IRHJNek5OejJfMkdRUQ?oc=5"
+ },
+ {
+  "id": "12239e4f02",
+  "datum": "2026-08-28",
+  "tijd": "12:55",
+  "nieuw": false,
+  "titel": "Meeste bewoners na brand weer naar huis, aantal appartementen heeft schade",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "pand"
+  ],
+  "samenvatting": "De meeste bewoners van het ontruimde appartementencomplex in Valkenswaard kunnen vrijdagmiddag weer terug naar huis. Maar een aantal appartementen heeft dusdanig rook- en waterschade opgelopen dat het mogelijk langer gaat duren. Dat zegt de brandweer vrijdagmiddag. De brand heeft veel impact op bewoners van het complex",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025036/meeste-bewoners-na-brand-weer-naar-huis-aantal-appartementen-heeft-schade"
  },
  {
   "id": "dc0ee00374",
@@ -1698,6 +1719,25 @@
   ],
   "samenvatting": "In deze schuur in Herveld werd een hennepkwekerij aangetroffen Brabants Dagblad",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVJUOUFJQ2FXN2xtdms4WGxiUEdQTGsyR3ltbzJmVklqLXlBMEliTkxJMlRaR0pkUHlrbVVwNlIwdHNyVk9VWTlsaDNtbWIwSHNzclpuTjRiSFlRVUF3VXBacTN4MjJmTk9qV2huNFJsU09laVE3TDhGcmM2am9Rb1JoczZmVm9KZzltZldWTE9NRnF3bThoWk5oU2lQZ3R5cUt0eWp2TQ?oc=5"
+ },
+ {
+  "id": "84170fc459",
+  "datum": "2026-08-26",
+  "tijd": "15:17",
+  "nieuw": false,
+  "titel": "In deze schuur in Herveld werd een hennepkwekerij aangetroffen",
+  "bron": "Tubantia",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "In deze schuur in Herveld werd een hennepkwekerij aangetroffen Tubantia",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYkZEMUE0TWcxN05TU3JqRWI2SVkwZUktenFjekl0U0JNX1Jyb3l3OTVlS3dWQlNiX29TUEUwWE56S0dLdldOeUh4U2FhWGcwTlpuZnZ3dExMTzRNSXdOdkd3eFo0THVPTk5xUEpxUHlFTWszaElZS1B1a2VZM1E5S0NjZkZ5MlpTSW9xVmIzd19Ta19KMHN4Y3BsWS1HSlQtS2YyMXI5bWZPRWFMdy0xS2h3?oc=5"
  },
  {
   "id": "d806d544d6",
@@ -8139,6 +8179,27 @@
   "tags": [],
   "samenvatting": "Overgrote deel van asielmigranten nog nooit verdacht van een misdrijf WODC - Wetenschappelijk Onderzoek- en Datacentrum",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemVzUlI5VnV5NUpwSW9wZEMwMENaTWhsWmxpbTktaklrVy1naC1KdHFUZ25ZNzU2a0E5UTNKWHNCRi1DbXZnc1RvMnZhMldSRmhuLVBsamZHSUJHVFU3M3lqQzhxMGF4Z3ZfZ25rUUdVMlpZeEMtLVA3Nmp3dC1FNXBBR0ZlS1NSekwtNE1iYks2X0w4cUF0Qk56R05wUkY0a0ZpdFZSN0hETXo0dG9hRVZjdVdTUQ?oc=5"
+ },
+ {
+  "id": "9044b65bb5",
+  "datum": "2026-07-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Minderjarige daders van explosies zetten justitie voor een dilemma: jeugdcriminaliteit of uitbuiting?",
+  "bron": "Trouw",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "jeugd"
+  ],
+  "samenvatting": "Minderjarige daders van explosies zetten justitie voor een dilemma: jeugdcriminaliteit of uitbuiting? Trouw",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVXZmdkFrb2pkLUZPRzlMaXJiUERUMzBTM2FNdHpJdlVmbXhSWFM5T1VkMmpQNHpBcW1Nb0oteUQteUVleVJLZ2xTRHMwLVNLSnZpYXVuWWROVFVERHE5cFozbENVR3E0MjZhTXNLckcxUXhfOGIxWWxRNXFBQXZ3eEotRnI4UUlyWUNvbzZQMnpRd0E3NE15NWFhbFg1TWJiSm1Vd0lkSkFvQk1LRDNZWEl3aDRGeVZjQmw0c1JHVTVmN1V5VnhWWlVyNDRQemNSX1phY2UwbEs?oc=5"
  },
  {
   "id": "d3b37d6215",
@@ -18001,6 +18062,27 @@
   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObHZrQzFRcWVGWkJVRHpNakZJdVo0SWNTRW9qekpFTlNDRjJzS3lLbDBJeXZCN1ZhRndQTHdzbTJQS0hZQ2RWMXEzazl5MmdVZGh1RnItbC1SWXp4a1ZTOUlmLWZBdTVYMzc0Z0hNZmdPMU5qZTAtcVUxalRqZzJubXNpRFdQcDlOYmo2RmE2dV9pV2ZzXzRBaGUzSlQzNmZlUWFEcFQ0dFFlZFFvSVJIMjZ5N3hrY2ctSDZIT2Z4TDlFZ1lXMy1ldWlIZVQtU1dXbTBEM1ZsMk4yNGR1NGhSTHVfaTlEZUpRc2RINC1SZUJUY1RMRmRUbzN2RGpPbnRRNGF3TGY4YnU?oc=5"
  },
  {
+  "id": "3baf0cbb4a",
+  "datum": "2025-11-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "OM legt trustkantoor TMF boete op voor niet melden ongebruikelijke transacties",
+  "bron": "Accountancy Vanmorgen ·",
+  "verzameld_via": "Nieuws — Trustkantoren & rechtspersonen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "ongebruikelijke transacties",
+   "trustkantoor"
+  ],
+  "samenvatting": "OM legt trustkantoor TMF boete op voor niet melden ongebruikelijke transacties Accountancy Vanmorgen ·",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmNKMFNqRUp0MmpNT2dWd3ByVktfUldZSjRYbW4tVEhJbkp6T1Z5aTFXeFlGMW9UNDM1amFHamFZX2JINGoyRjF1MjJUTjBTMlplTFdoMUpPc0dJR2tXck9YQnRyaHlBWThabmVLbnd2ZjV1aGVMZ1RIRjRvTEVDOTNVZXMyZS04dHN1Si05U3JXaUVSYlEyeDBIdUZHNnN2c3VWd0FyNVFRaFBjdUhIZ0hpSGZxNzB2WC1DcllaVHFFRnVT?oc=5"
+ },
+ {
   "id": "f5e619d30d",
   "datum": "2025-11-13",
   "tijd": "08:00",
@@ -26319,6 +26401,25 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "f073cf5d37",
+  "datum": "2023-12-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Handgranaat gevonden op voetbalveldje in de Bijlmer",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Handgranaat gevonden op voetbalveldje in de Bijlmer Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeU1BdUVScFJqam5rV3JNZEhwTDNyYko3aXNMVFYxSnA0VW5wX3RVcE5jQUJtckp4enJSbkJoM2ZEcm9sN3l3R2VYZG5aSnR3Z0VWTkc2RUI3QjAtZk5vNnJkTGVKa3B1b0tzOXVKQzhERVdaVnBpVUZDVTJCY3I3WUFIT3NlYVFGQVdqV2ItaUZfbFpjaXJfUkYzRTd4dw?oc=5"
  },
  {
   "id": "446ce84b40",

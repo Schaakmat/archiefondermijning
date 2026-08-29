@@ -1,12 +1,12 @@
 {
- "run": "07:24",
+ "run": "08:25",
  "datum": "2026-08-29",
- "nieuw": 12,
- "totaal": 1719,
+ "nieuw": 16,
+ "totaal": 1724,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1054,
-  "geen dossier": 510
+  "niet-nederlands": 1020,
+  "geen dossier": 496
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 73,
-   "status": "bij",
+   "items": 74,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -140,8 +140,8 @@
    "url": "news.google.com/rss/search?q=trustkantoor%20witwassen%20OR%20katvanger%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 19,
-   "status": "bij",
+   "items": 20,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 45,
-   "status": "bij",
+   "items": 46,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 49,
-   "status": "bij",
+   "items": 50,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 23,
-   "status": "3 nieuw",
+   "items": 24,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 23,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
