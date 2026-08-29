@@ -1,5 +1,26 @@
 [
  {
+  "id": "f77303aeb9",
+  "datum": "2026-08-29",
+  "tijd": "13:18",
+  "nieuw": true,
+  "titel": "Extinction Rebellion bezet A12 bij Den Haag, twee arrestaties gemaakt",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "burgemeester",
+   "grond"
+  ],
+  "samenvatting": "Klimaatactivisten van Extinction Rebellion (XR) hebben in Den Haag kort na 13.00 uur de A12 bezet. Enkele tientallen activisten zijn vanaf de oprit de weg opgelopen en blokkeren nu de Utrechtsebaan in Den Haag. Daarmee is de belangrijke verbindingsweg Den Haag uit geblokkeerd voor mensen die de stad uit willen. Op deze",
+  "link": "https://nos.nl/l/2628780"
+ },
+ {
   "id": "20d76f3041",
   "datum": "2026-08-29",
   "tijd": "11:15",
@@ -241,7 +262,7 @@
   "id": "0d1f22968e",
   "datum": "2026-08-28",
   "tijd": "18:53",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Twentekanaal gaat deels weer open voor de scheepvaart",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -15665,6 +15686,27 @@
   ]
  },
  {
+  "id": "0dffbfc355",
+  "datum": "2026-02-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Eemlandse gemeenten starten gezamenlijk Bibob Expertise Team tegen ondermijning",
+  "bron": "De Gooi- en Eemlander",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob",
+   "ondermijning"
+  ],
+  "samenvatting": "Eemlandse gemeenten starten gezamenlijk Bibob Expertise Team tegen ondermijning De Gooi- en Eemlander",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaHRVRnZOd1VHZHNhc3AwTjFYM3Vmdk44X3NtYVR1X1J4QlFxam8zd2FjWWFBdE8xcTFHNHNoc19qS0ZvQUpzNG9EUHR2UVo1LUF4eGlMQU8zZlUwdko5dm9LUHAwa0UwaHg4QTFFcEhHOVFBX1haVG9iSUV2c0lEeFBzZ1ktN1RYaS1yRWlpc0lqd1pLSzgxeHg3ejRHVEpCMXdiNmlJQWluTGxDbTZBajVGbWo0d29YSXI0TjFVRjJTeGEwbFp2czlXR1NtbkZmcmVWeHRyVDFjd3VqSkNNMg?oc=5"
+ },
+ {
   "id": "10643f7b3b",
   "datum": "2026-02-13",
   "tijd": "08:00",
@@ -18223,6 +18265,28 @@
   ],
   "samenvatting": "OM legt trustkantoor TMF boete op voor niet melden ongebruikelijke transacties Accountancy Vanmorgen ·",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmNKMFNqRUp0MmpNT2dWd3ByVktfUldZSjRYbW4tVEhJbkp6T1Z5aTFXeFlGMW9UNDM1amFHamFZX2JINGoyRjF1MjJUTjBTMlplTFdoMUpPc0dJR2tXck9YQnRyaHlBWThabmVLbnd2ZjV1aGVMZ1RIRjRvTEVDOTNVZXMyZS04dHN1Si05U3JXaUVSYlEyeDBIdUZHNnN2c3VWd0FyNVFRaFBjdUhIZ0hpSGZxNzB2WC1DcllaVHFFRnVT?oc=5"
+ },
+ {
+  "id": "d370b565e8",
+  "datum": "2025-11-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij aangetroffen in bedrijfspand Bunschoten, een verdachte aangehouden [update]",
+  "bron": "De Gooi- en Eemlander",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "pand"
+  ],
+  "samenvatting": "Hennepkwekerij aangetroffen in bedrijfspand Bunschoten, een verdachte aangehouden [update] De Gooi- en Eemlander",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa1dJNENhQmU0OElUdWdiVjNlYnQzejFmY2xjbVZRNFN3VVFWNHNUN0Q0ZHRWZ1h6ZkJRREJOYmpfeWxOYWttbl9NUFFTbGR5bXBSd1JFeURzTzREbnZDWlpzOFhTU3p5Zk9DaGdOZ1FsUGdHbDJLVjNsNHJTaDFadVJEZGt3SXcyYmkzZy1NMjlXMHpSekpqZnRnNVQyel90UDktWUlQMkVMTl9fQmE1d3c2aWYyakdOLXU4UlE2dXJSQTBPcW9IVFZMUzFnYlAyQU0yOWxNTGNieDdDN0NGN0dRWE5zaGtjb0NJ?oc=5"
  },
  {
   "id": "f5e619d30d",

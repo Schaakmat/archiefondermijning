@@ -1,12 +1,12 @@
 {
- "run": "11:25",
+ "run": "12:25",
  "datum": "2026-08-29",
- "nieuw": 12,
- "totaal": 1733,
- "verwijderd": 12,
+ "nieuw": 14,
+ "totaal": 1736,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1049,
-  "geen dossier": 508
+  "niet-nederlands": 1044,
+  "geen dossier": 510
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 74,
-   "status": "bij",
+   "items": 75,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 8,
-   "status": "bij",
+   "items": 9,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -375,7 +375,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 15,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 12,
-   "status": "7 nieuw",
+   "items": 13,
+   "status": "8 nieuw",
    "ok": true
   },
   {
