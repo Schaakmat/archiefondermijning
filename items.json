@@ -1,5 +1,24 @@
 [
  {
+  "id": "20d76f3041",
+  "datum": "2026-08-29",
+  "tijd": "11:15",
+  "nieuw": true,
+  "titel": "Almere - Politie deelt 31 boetes uit voor niet-goedgekeurde fatbikes in Almere",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Tientallen fatbikebestuurders zijn afgelopen week in Almere tegen de lamp gelopen. De politie schreef 31 boetes uit voor fatbikes die niet aan de wettelijke eisen voldeden of niet waren goedgekeurd. Bij een aantal van de gecontroleerde fatbikes werkten de remmen bovendien deels of helemaal niet. De controles waren onde",
+  "link": "https://www.omroepflevoland.nl/nieuws/521809/politie-deelt-31-boetes-uit-voor-niet-goedgekeurde-fatbikes-in-almere"
+ },
+ {
   "id": "67d062c63f",
   "datum": "2026-08-29",
   "tijd": "07:05",
@@ -55,6 +74,46 @@
   ],
   "samenvatting": "De A15 van Gorinchem richting Europoort is tussen knooppunt Ridderkerk-Noord en Rotterdam-Charlois afgesloten door een gekantelde vrachtwagen.",
   "link": "https://www.rijnmond.nl/nieuws/2245853/a15-gedeeltelijk-afgesloten-door-gekantelde-vrachtwagen"
+ },
+ {
+  "id": "3fbcdd1d06",
+  "datum": "2026-08-29",
+  "tijd": "05:47",
+  "nieuw": true,
+  "titel": "A15 bij Barendrecht afgesloten door gekantelde vrachtwagen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "De A15 van Gorinchem richting Europoort is tussen knooppunt Ridderkerk-Noord en Rotterdam-Charlois afgesloten door een gekantelde vrachtwagen.",
+  "link": "https://www.rijnmond.nl/nieuws/2245853/a15-bij-barendrecht-afgesloten-door-gekantelde-vrachtwagen"
+ },
+ {
+  "id": "87ec3aa480",
+  "datum": "2026-08-29",
+  "tijd": "03:34",
+  "nieuw": true,
+  "titel": "Medewerker benzinepomp in Breda bedreigd met wapen en beroofd van horloge",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "beveiliging",
+   "wapen"
+  ],
+  "samenvatting": "Een 31-jarige medewerker van een benzinepomp in Breda is vrijdagavond bedreigd met een vuurwapen en beroofd. Hij moest zijn horloge afgeven. Nadat de medewerker rond tien uur 's avonds het OK-tankstation aan de Graaf Hendrik III-laan samen met een beveiligingsmedewerker had afgesloten, dook er ineens een man voor hem o",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025071/medewerker-benzinepomp-in-breda-bedreigd-met-wapen-en-beroofd-van-horloge"
  },
  {
   "id": "f12e0c2b68",
@@ -313,7 +372,7 @@
   "id": "6cd2b61373",
   "datum": "2026-08-28",
   "tijd": "16:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Naakte vrouw rijdt door hek Eindhoven Airport: luchthaven doet onderzoek",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -494,27 +553,6 @@
   ],
   "samenvatting": "Verdachte diefstal van cryptovaluta en witwassen aangehouden Politie.nl",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUthLXQ0Wm5veHRpWk1Wb0R2SVl5WC1WUnNLdTh1VUIzZWJBUHZpejhURGR5c3VjZS0zMzFqSDRpM1dUb09Yc290NXl0R2hIQlNta3dPMzRQR2liTTdJYms2TDYtb3FoZ2lPWEpaUm14YzRmdi1SQ3czVGNjMVI1aHdOLTlxc0pNdC10OXktZUg1cUhsNW9Fam5aQVg3UDhJMXJZeFFRSm1IRHJNek5OejJfMkdRUQ?oc=5"
- },
- {
-  "id": "12239e4f02",
-  "datum": "2026-08-28",
-  "tijd": "12:55",
-  "nieuw": false,
-  "titel": "Meeste bewoners na brand weer naar huis, aantal appartementen heeft schade",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "burgemeester",
-   "pand"
-  ],
-  "samenvatting": "De meeste bewoners van het ontruimde appartementencomplex in Valkenswaard kunnen vrijdagmiddag weer terug naar huis. Maar een aantal appartementen heeft dusdanig rook- en waterschade opgelopen dat het mogelijk langer gaat duren. Dat zegt de brandweer vrijdagmiddag. De brand heeft veel impact op bewoners van het complex",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025036/meeste-bewoners-na-brand-weer-naar-huis-aantal-appartementen-heeft-schade"
  },
  {
   "id": "dc0ee00374",
@@ -3777,6 +3815,25 @@
   "dossiers": [
    "Witwassen & geldstromen"
   ]
+ },
+ {
+  "id": "b0b95ae70c",
+  "datum": "2026-08-24",
+  "tijd": "14:30",
+  "nieuw": false,
+  "titel": "Algerije en Italië breiden samenwerking tegen mensensmokkel uit",
+  "bron": "MAROKKO.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Algerije en Italië breiden samenwerking tegen mensensmokkel uit MAROKKO.nl",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFZqdVJyT3JmTm9yUl8tLWZQMVZULW91cDlYblh0eGRac1p0X0ZBekJLNDVqUDZJRmdxWGp1Z2R2Y3ZqOC1oOU1Ec0lJb0w0ZTFpblVlVC0wQllMVElheloxR2hRdThkOWdRT0NaekNXMWlmTFJ2dkNLUm5DVC1pd1VGZFhFYnVFQWpHU0s3dWJFZjNrZ1I3emlmaE5tMFhOU0hzMTh4WHNqY2JybGtTRE9ValNncV9jTENZbVlxM3NzNlY5eGp3b0pFR0g?oc=5"
  },
  {
   "id": "8635ae5769",
@@ -7307,6 +7364,29 @@
   ],
   "samenvatting": "Vermeende spilfiguur van Kempense afval- en mestfraude opgepakt voor partnergeweld BN DeStem",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUE80R3JfOWlka0NDSm41dnd4OXlCanQyU2ZVSXhjU2VPTlBGSVI4T1RuVlFHRmJGeXJ2eTBhdDF4NXpXRnZ3eXNGT19OY0U3WVZtSWNoN3JhMVZEMXBOUXRCUXFxWkktTk0xSzRsczJ5eDRHQk5qNUdOejlJWUpuWGQ0WjdPN0pXSDZ6OWJ5eHlJWjBWRVpodHpvZnQtRTk4dFhBdkR4eWRfbFA5c2NKTkd4VlZjZl9uNFA1WVFjMC1tWHRzTUxBVQ?oc=5"
+ },
+ {
+  "id": "a16249b9c9",
+  "datum": "2026-07-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vermeende spilfiguur van Kempense afval- en mestfraude opgepakt voor partnergeweld",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "geweld",
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Vermeende spilfiguur van Kempense afval- en mestfraude opgepakt voor partnergeweld HLN",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYnBhalkxLUtqOFhfTUdfQ2VjbDZXWEc2bzBLckdQc294ZDk4TWdhRWpqX3RSNmlJN3RzdGFoeGw5cWMyY0h6TE9JcGliS3JBam92SGhpYURVdUpEdFJVdzJuR3RtTGMwM0Z4Q041R2lybWNVeFNLckRsZDNVRmU1ZmNLbTB4MzJEbzdraUEtS0VyYVNHREQ0LUM3M0ZmdmlOeDJWQlhHRVJLSUFkbm1xRWdZSDdmQXBK?oc=5"
  },
  {
   "id": "cba0fa000c",
@@ -15463,6 +15543,28 @@
   ],
   "samenvatting": "Dochter belt gemeente: vader pleegt uitkeringsfraude door stiekem bij moeder te wonen en eigen huis te verhuren De Telegraaf",
   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTkpESnk1Uzh4UjJSRzVEV1NnZmtlTXE2dXQ5QllBcjhCSFRvS2E5OHI2WWZSbjJRUXZOWVBRTTFvOVlfVGlaeEp5ZEFFR0RjTk12WHdpYi1PaWxwaG5icEtsNUhPeGI5UzNIR01kRzhvdHJvYnhHSjBJTmdIeVg4aXVSTGQyT1I5RU52R2ZkX3lETVJSUVQzZUZ5X1ZlRzAzOV9OYzk1SVVMb3VOTWRISUpVM2hESDNZOVI0S281NzF1eXlLNkNzUWFKcTFibFFZbGZHd3hQQ2JwQkc2cG9VVGd5MVBsN183OUhTWGQ1dXJnMW8?oc=5"
+ },
+ {
+  "id": "4bfa933bbc",
+  "datum": "2026-02-17",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Bibob Expertise Team van start in strijd tegen ondermijnende criminaliteit",
+  "bron": "BelNieuws",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob",
+   "ondermijnend",
+   "ondermijnende criminaliteit"
+  ],
+  "samenvatting": "Bibob Expertise Team van start in strijd tegen ondermijnende criminaliteit BelNieuws",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVhaMVMtYVFhSVZMYWtiOGRPTm9lUE56Y3BKdGdEWjFLSGxQNW52X0pLbTItV1VHV0JwdjJSaklPcS1ERnhFTzBKZnQ0NTNQUlAxSE1URm5udjVsNHliSFVNUkRzNTk5TUVsVVhHSy1ScUo4XzV4Z1Zna1BFbkZ4MHdQbGtHU3I5YV9Qb1JieFVNM1R0ZjgyTVN3dVZ6ZkdqYXZiYVZJZkprVHFReHBsTzlBeWY5TXJZWTFXWEFGV0NSZw?oc=5"
  },
  {
   "id": "41f9ddcf89",
@@ -32724,6 +32826,23 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "6b61195f3d",
+  "datum": "2019-02-01",
+  "tijd": "07:57",
+  "nieuw": false,
+  "titel": "Kom bij de politie - Kom bij de politie",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Kom bij de politie Kom bij de politie",
+  "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5BZjZsM2JjcTMwMXkxV3ZsQWZrWDM5RVM5a2FvdGN5eGRBRHlURHE0QUlCS2VZMm52ZGxrR1VqRnZCdw?oc=5"
  },
  {
   "id": "55f1b5e780",
