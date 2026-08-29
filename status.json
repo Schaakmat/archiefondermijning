@@ -1,11 +1,11 @@
 {
- "run": "23:25",
- "datum": "2026-08-28",
- "nieuw": 31,
- "totaal": 1661,
+ "run": "00:25",
+ "datum": "2026-08-29",
+ "nieuw": 23,
+ "totaal": 1673,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1066,
+  "niet-nederlands": 1049,
   "geen dossier": 506
  },
  "bronnen": [
@@ -140,8 +140,8 @@
    "url": "news.google.com/rss/search?q=trustkantoor%20witwassen%20OR%20katvanger%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 18,
-   "status": "bij",
+   "items": 19,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -420,7 +420,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 34,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 21,
-   "status": "bij",
+   "items": 32,
+   "status": "11 nieuw",
    "ok": true
   },
   {
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 55,
-   "status": "19 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

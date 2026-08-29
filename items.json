@@ -480,7 +480,7 @@
   "id": "81d55944ef",
   "datum": "2026-08-28",
   "tijd": "11:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nederlandse rechter legt levenslang op voor betrokkenheid bij genocide Rwanda",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -504,7 +504,7 @@
   "id": "e77879a5d6",
   "datum": "2026-08-28",
   "tijd": "11:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Illegale medicijnen, vuurwerk en wapens gevonden: vier verdachten opgepakt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -524,7 +524,7 @@
   "id": "648b3bd22b",
   "datum": "2026-08-28",
   "tijd": "09:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Veel steden doen te weinig tegen te dure studentenkamers'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -543,7 +543,7 @@
   "id": "62c7275040",
   "datum": "2026-08-28",
   "tijd": "09:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Klopjacht op overvallers juwelier, meerdere vitrines kapotgeslagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -563,7 +563,7 @@
   "id": "2d0119cd7b",
   "datum": "2026-08-28",
   "tijd": "09:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Edenaar krijgt levenslang voor rol bij genocide in Rwanda",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -585,7 +585,7 @@
   "id": "98251816d2",
   "datum": "2026-08-28",
   "tijd": "08:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie vindt 65 vogels in verwaarloosde woning",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -604,7 +604,7 @@
   "id": "321cbb7480",
   "datum": "2026-08-28",
   "tijd": "08:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie praat over milieucriminaliteit op de markt in Egmond",
   "bron": "rodi.nl",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -623,7 +623,7 @@
   "id": "dedcefe2d4",
   "datum": "2026-08-28",
   "tijd": "06:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "veiligheidsanalist mainports - Kom bij de politie",
   "bron": "Politie",
   "verzameld_via": "Politie",
@@ -9031,6 +9031,25 @@
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUc0QU9LVkZ5dzVuTHdaMnVNdmpUOVNjVWljblZ5d0xWdXJYVVlSUlBqT3BxYUVYaFRyVHZBYjBKTXpHaWxmaXZuOERwaUJSRDRjekRwYVQ2anhFYlMwMXhCYTNjajk3eFZTTWlCdG5HM2RUTFFqYzBFRzZmMGFxakcxeUYtcjZLd0FxVXVaVkhhSVVZdV9CWW9iZEUwdFpRbG05ODVIbXhMekRvV3lXQ2QwUFBpMXNUYjN1UXZ6LXZfY2VI?oc=5"
  },
  {
+  "id": "c21c6bdc56",
+  "datum": "2026-06-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Met speurhond Pien en de Snake Eye op zoek naar drugs en explosieven in kelderboxen in Zuidoost - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Met speurhond Pien en de Snake Eye op zoek naar drugs en explosieven in kelderboxen in Zuidoost Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdW1yb3JtYTdyUkpaWXlkM2JoWlNmVi1YWHg1dTA0REhVYUJjZUNwVDhYZXg2SHJOdDZuTTFpempHanJiWERWWlpVVUhsNkJWNEhFQ2d5bWZYemw4S25BTXYxbzZFeEsxQlR6QjRIdXBkcXQybWdScG9BQW82Q1oxQ1V0MzFpR1hXNW1ialhha18zTkNXbWhJalNhVU5nY3VwclFiclBqbG1tRm43SVBleHFHZ004Z3lSa1BGZVNtQkF3Z3BuLWJ1dFBNRFE0V3RI?oc=5"
+ },
+ {
   "id": "eedeeccf65",
   "datum": "2026-06-16",
   "tijd": "07:00",
@@ -9205,6 +9224,25 @@
   ],
   "samenvatting": "Drugslab tussen paardenstallen, verstopt achter hooibalen: taak- en celstraffen voor drie daders De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNlY2N1NfN1Z0ZWY3SHdBSGxuN1ZobUVBWFBFTlhmR0VkMFdtWlNHck1mc0lUYXlLbTV6ckFrRG5Ia1p4RFAxS2hGUFZjaWtyMjcwc25aUEV3QVI5MmVUWEJLeFNwUWlBa1lVSWVzLVo4cFltMGJkT2gweXcxazEyV0dwcGJnYzJoblFMT1A3NjBYMU45eno1Tm9ZUFpJYUR0N2Z0T2FpTy1IU1o5ZVgxS3JzbjhOZGJWaG5JVG1YMW1GWHlVM1NEeXdsakVzZ3dIbWs0MUhB?oc=5"
+ },
+ {
+  "id": "951841b0e2",
+  "datum": "2026-06-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drie verdachten aangehouden voor explosie Osdorp - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Drie verdachten aangehouden voor explosie Osdorp Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWRQTnJWTkxIR3NhVTZhNmlmcGRIcHZ5RGttVU05UlNjUTlFMHZPN1dySWtqbUJNTWhGX2RGVlUta3FnWlRrSFJvSHZRMHBvS1lJUzFjS2lMUUIzRkU0V1pSYksyRGxoQTFpcEU5bVVuSUJLTVhPNGRKMkk2bXJISXBhbzQybDV3TXBfbmR3S3EwRHJl?oc=5"
  },
  {
   "id": "b013a44e07",
@@ -9753,6 +9791,25 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "ddcf7be5a8",
+  "datum": "2026-06-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Jongen (16) opgepakt voor voorbereiden explosie bij kantoor op de Zuidas - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Jongen (16) opgepakt voor voorbereiden explosie bij kantoor op de Zuidas Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaTRxc0tOa21NTGVQeXBwc25xOU5qMVRERERlc3RENnVBQnljVVltTXlaTTViUEZXMnFOMXdRdzJGelNXVzFFazdMV2pMeTQ4TjJJcVI3bTJBZmRRVTlCSHlDSHdCZTFnTmI5bVUwVkQ3X1VzOXNQb1JfSlNkTHNBMlZsd0tZTUszY1liS3BPTUdTcGFhbkJFTEJlU0tHTkIwejFUYUt4d0ZQYTUtQTQ3NGdR?oc=5"
  },
  {
   "id": "28ad73f605",
@@ -13954,6 +14011,27 @@
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS0JSc0Q4MkdZUVV6OXdzSkxpR2lYcmdodk5ka3hGUDB2cUw1SGlIX1NjV3JvRW1rNTVCVTZubGw3cUtKZmZwQWxFQnlmU2ZITng0XzZ2UUt1NG1IVXVxVkdxZzl5bVAzNVJrazRoeHZNZ19BbWNsc1NDSnhPYmxPdXJNN2xmSmx1Zmpnelh4WQ?oc=5"
  },
  {
+  "id": "11c4005ec3",
+  "datum": "2026-03-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie deelt beelden van verdachte explosie kantoorpand Zuidas - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "pand"
+  ],
+  "samenvatting": "Politie deelt beelden van verdachte explosie kantoorpand Zuidas Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObElKNG9DemNsTXh0V01hYmpzS0loRnZBNjBVSmpNcGR3R0Fsdng5MEd1QUxNTXduajdZX3RZaDZBb2k2QlRNVXRFamFVWmZzUmZURjR4UFZzamRXbTJzcE1tWWV3RE5Pb1plX2U5SG9hZDl3bm45cUdIZXhmUXpZRjc4R29sRWhnUmxIdVhyWmNPSzlrLTNFTTY0WHFPR1dLY1VfUnB0anI?oc=5"
+ },
+ {
   "id": "0595f07150",
   "datum": "2026-03-22",
   "tijd": "07:00",
@@ -14251,6 +14329,46 @@
   ],
   "samenvatting": "Grensgemeenten vaker getroffen door drugs- en wapenhandel, vooral Heerlen typische Narcostad PowNed",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZzk4UDhFc2Jad2ItemNYSzYxd2xVMlhkejNOQ1FybEFQSGpPeXd6NVd3SXNLWDY2amt2bEViLUJWZi1TbFF6TnMtM3JnMkZkWE5TTXFUZWJPaGZKNzhWR1RIdW5reEQtWkhBSVg0V1pWdEg0dzZZNEt5ZHd4dkJlT0kwM3I3cDhJT2E2YU9VZkRkU2NOTGppT2xBbFZtY3ZlYmJxRUR5dlc3aUtvVzRSRkZyRjk4ZmZDaFF3X1hoOA?oc=5"
+ },
+ {
+  "id": "fea91641f3",
+  "datum": "2026-03-16",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Explosie bij Atriumgebouw op Zuidas, politie onderzoekt tweet met videobeelden van de actie - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Explosie bij Atriumgebouw op Zuidas, politie onderzoekt tweet met videobeelden van de actie Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdV81ODNnVGh0V2hBWjdqUm8zeTl2amc4ZE13eWZvaS1wb3cwQS1PdDlpcGk2eTl6YVUyRmVWSVVvaHJtdklRai1nLW9vM3hOeHBoNzFIVlhsQkNvUlZKSVU2TU9iZVBIdEFka2dOWXY4VE5ibXpwOFhZbjdQbGRuN1RvOUZsRlBWOEhweGRhV3RXb29JUGstdUI5SENfN3ItYmdVNFpfbEprbjU5aFpWNEZqWnRKSlZlcDNHVW5MOVc3cFBkeDhkWmJOQmM?oc=5"
+ },
+ {
+  "id": "0bd1d5bc65",
+  "datum": "2026-03-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Explosie bij buitenmuur Joodse school in Amsterdam-Zuid, recherche zoekt twee verdachten - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Jeugd & jonge aanwas",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "school"
+  ],
+  "samenvatting": "Explosie bij buitenmuur Joodse school in Amsterdam-Zuid, recherche zoekt twee verdachten Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeW9jZUF6OXBpNWVDb1ZhY19LcHZvUmJ3bWJpSTVUT2FWQ3ZXM04wNWxLRmVaeTdpaWVvM1JQMXRPMlNhNjl6YnNRdEZoSmw0a3FlRzduZ0NQeG43U2JEQjNCc1IyU0hjaVNTelRTUkM0VF8wUkt3S3ZhS3k4ZmJWNGtNNklBelZRVFZQOVhPRTlOX3RHQ2VuYzNEaWtnX00zN3VXUE9TOElNNXNvLS1DTkxZUllDZ0c1ZmM3RVp1MkVOUm1jS09TOA?oc=5"
  },
  {
   "id": "864e438a53",
@@ -22151,6 +22269,25 @@
   ]
  },
  {
+  "id": "a1b17a3cc5",
+  "datum": "2025-01-31",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Ravage na explosie bij portiekflat in Slotervaart, twee aanhoudingen - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Ravage na explosie bij portiekflat in Slotervaart, twee aanhoudingen Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOampyR0Qtd1h1YWd2dTlsRFF1QXp5a2pqNGswRHU4dHphZDRMblRpOTA4Y0p6ZkFYOVV3WTRrU2djWnhLUmxjblcwYWRRcUtCSjZNTjAyWFp5OWUyQlpFYkI4R1hYcWdaT3FOY2Z6N1FBNzNYaGRtRmw2aXVGZFhLbW15NGswUDVSc0pualpaMmd4dm4wbVdOUi1WLWlEZG9yLWxQX3ZoX0FnY0xyRzY0?oc=5"
+ },
+ {
   "id": "badb76ef4f",
   "datum": "2025-01-23",
   "tijd": "08:00",
@@ -26856,6 +26993,27 @@
   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LeG11ektKaFZoTEJyZmhydVlDRFg1RktKMXBoTFJNdERnTkYxSnNZYXZhZ3hwSEJOcjN1YlFpaHVXWW5sQ0E?oc=5"
  },
  {
+  "id": "f4a50b4a28",
+  "datum": "2023-06-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ruim 3 miljoen euro boete voor trustkantoor TMF vanwege gebrekkig klantenonderzoek - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Trustkantoren & rechtspersonen",
+  "verzameld_via": "Nieuws — Trustkantoren & rechtspersonen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "grond",
+   "trustkantoor"
+  ],
+  "samenvatting": "Ruim 3 miljoen euro boete voor trustkantoor TMF vanwege gebrekkig klantenonderzoek NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaVRCdjZxQTdOVzBsc2tzbE5Sb0kwSW5taTRad2Vkb1FfSWFMRmtoT1Q1bU44UzlhZXJMNHAzVE9pZmw4cmd6WEZ1R3BhNWFGbmlpS1VpMkw4WTlYZVRSYThOR1V3S3dLZnU4UUh2WHpvZ0d6Y1paRUNBT3J4aEpQMGZIQlpDMy1KUWVDRGF3ZkdDcThqNDVvUGpISVdlMmFIZ3Fqc1dDSVZ2dGV2UWUzQmM2VU5WRUYtN1BvNHJGdkVmeFR0U2Zj?oc=5"
+ },
+ {
   "id": "3c7116859d",
   "datum": "2023-06-14",
   "tijd": "07:00",
@@ -27032,6 +27190,27 @@
   "dossiers": [
    "Goudhandel & edelmetalen"
   ]
+ },
+ {
+  "id": "ed99ba779b",
+  "datum": "2023-05-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Opnieuw explosie bij van witwassen verdacht Surinaams geldwisselkantoor - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "explosie",
+   "witwassen"
+  ],
+  "samenvatting": "Opnieuw explosie bij van witwassen verdacht Surinaams geldwisselkantoor Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWlxRGVrYjNCUXNGc1Y5TEFpMUxQeWgtVHg0Z0hNc09HS0dGQ0dIVGZZVDNRekwzWUNLVWo4M2tVd2xQS0JxS3F0dzFDeXpnZEdLWmZRWU54MjFvaGhKdVpETlZiVEw0NWpYcTNvQXpaY2xBUTRYdWcyR3RjSkNOSlJGQVVqT3NWUWw1M3VxMThyeFBQeVhsbEhveWdzSm1uVTUtaWZXZlRtR3U5d28zdGQ4SQ?oc=5"
  },
  {
   "id": "585da4ff3e",
@@ -27891,6 +28070,25 @@
   ]
  },
  {
+  "id": "e9097e5f38",
+  "datum": "2022-12-09",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Woning Jan van Galenstraat gesloten na vondst van drugs met waarde van 2,8 miljoen - AT5",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Woning Jan van Galenstraat gesloten na vondst van drugs met waarde van 2,8 miljoen AT5",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQXV3aE43eEdTa0wyR3NZNHhka1A0cFJ5YUZSLTFBYkFfOGFWVkRwSHRvS3VNc3VDeDhEUzRzLVlvZVlCd1V5NnBtN3owSWFsUy16TnVyWVRzU3paQVk2aVJXNWtjZGZlZ0ZJaHJxRlFUekJ6N1A3aGh3Tm95TmsybXB5ZkxmRDNiVU9iSVZXSV9RWFpXcHlJMUl3Q1gxUDhBN1NXR2dSaS1ZTWFiUktqZzZ5M0ZGalVE?oc=5"
+ },
+ {
   "id": "6f9757e185",
   "datum": "2022-12-08",
   "tijd": "08:00",
@@ -28386,6 +28584,25 @@
   ],
   "samenvatting": "Veroordelingen voor faciliteren illegale hennepteelt vanuit groothandel in Nieuwegein De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOMEJyRVMzSElVbWhpLUJEa2d0X1lGZDg4LW9FZVJ4TXlEVEdNWk1qUFpQTkV5ZnFSd1M1WlNVeUdSWGpPOUtkaWo5cXhPVWZTMDc3SmFValkxS2xYZF9YaWh6cC1pNU5SR0hxbWVPdnVPV0lxTjUwSGJTWWdzQnF0c2N3S2ZhbzRMeXJ1VFJRMVFpMVBZUTJFaXZULVNsel9xYzdZTlU4TWxUaHBrSWJzSVpDbmJiV2hFR0JjYy00V29zQUFyclVaYnVRWm54M045TXV0bTJSSGJCU0VjUVJpXzBWZzZXMmp5MFdZam5xNmM2Mlk0WFpTdzdPNFdxSjVjT2VnUmEtYmxwQnZhZEQ3YzU4WFZuclpLZG9MZ2Q3dnVCeU9sTEVfVw?oc=5"
+ },
+ {
+  "id": "9b70178782",
+  "datum": "2022-07-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Bakshish S. uit Abcoude krijgt geen nieuwe straf voor witwassen, vanwege straf in Den Haag - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Bakshish S. uit Abcoude krijgt geen nieuwe straf voor witwassen, vanwege straf in Den Haag Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRFBGWmhjQjVQQ3dwelBiZENCXzdLNzg2Zl9FTjhWWlRhQkFidllGcmIwZFVsRWNZMXpZRGxLVjJRQy1oYzJFejlUbXpFMC1XYmU2NEppSGtzeGxnVUR1bzN1cXc1M3NfMEQtczBMZUJwWHlWa09nVDNKOFFwQ2xIMm55czJWNUEzS2hnR3ZUOWhtaVVwUW5ZSmtaUkpaTDBwbEF3d2ROaXVNZnEwX2Ixa2ZvbXlhSkY5cEtubjVTSjFrVHJrekNsYUNn?oc=5"
  },
  {
   "id": "08e7bed390",
@@ -31100,6 +31317,25 @@
   ],
   "samenvatting": "Wethouders De Mos en Guernaoui verdacht van corruptie Den Haag Centraal",
   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVFTcXlZM3laRXpBZzFkSENiMnFhY242dmVwNDAyRTM5NmxodDJOZGI5cWl0S25KbW15LU5QNmZCZ09jZlZZaDVTMkctTEYwOWJKeThzUUYydGlvcnF5b21qT2NfcXdQR0tuY2k2VGJPekwzdHdZR2xmLTNrUENhNkdjeG0?oc=5"
+ },
+ {
+  "id": "e5ae729be2",
+  "datum": "2019-09-01",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Wat te doen tegen het veelkoppige monster ‘ondermijning’? - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Wat te doen tegen het veelkoppige monster ‘ondermijning’? Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWkRRVDg3RXBZNVlCbFNQelVHN2tCOW9Fc0hUOEswWnZ5VmdiZTNnZHVKek9yWE5MOEc5SjB0UGZIWk9mMWc5R1htTGIyelRHUURRUmNiaTJiUTg5SGxoY25YMzIyMDJtdXZpbTFXMTdXQkRQV0ZTTDYxMWdPdVlQQzdvV1lmTjRNcFNMelBlZjRkWlRER2k5a3l2WlI?oc=5"
  },
  {
   "id": "1b33759a6d",
