@@ -1,12 +1,12 @@
 {
- "run": "02:25",
+ "run": "03:25",
  "datum": "2026-08-29",
- "nieuw": 21,
+ "nieuw": 11,
  "totaal": 1713,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1053,
-  "geen dossier": 494
+  "niet-nederlands": 1048,
+  "geen dossier": 508
  },
  "bronnen": [
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 72,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 86,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 45,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 87,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -429,7 +429,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 103,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -555,7 +555,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 38,
-   "status": "5 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
