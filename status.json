@@ -1,12 +1,12 @@
 {
- "run": "14:24",
+ "run": "15:25",
  "datum": "2026-08-29",
- "nieuw": 16,
- "totaal": 1746,
- "verwijderd": 11,
+ "nieuw": 12,
+ "totaal": 1745,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1037,
-  "geen dossier": 503
+  "niet-nederlands": 1047,
+  "geen dossier": 509
  },
  "bronnen": [
   {
@@ -285,7 +285,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 25,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -456,7 +456,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 26,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 27,
-   "status": "5 nieuw",
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 14,
-   "status": "1 nieuw",
+   "items": 13,
+   "status": "bij",
    "ok": true
   },
   {

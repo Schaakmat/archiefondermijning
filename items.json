@@ -19,11 +19,30 @@
   "link": "https://nos.nl/l/2628795"
  },
  {
-  "id": "fe1f7d8074",
+  "id": "10a53bc013",
+  "datum": "2026-08-29",
+  "tijd": "14:30",
+  "nieuw": true,
+  "titel": "Henri verloor zijn partner en hun baby, maar zijn tattoo geeft hem kracht",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Het is tien jaar geleden dat de partner van Henri Diekmann (59) uit Asten plotseling overleed aan een hersenbloeding. Nog altijd is hij dankbaar voor de liefde die Maroesja hem gaf. De tattoo waarin haar naam staat, geeft hem nog steeds kracht. \"De kracht om door te gaan.\" Als je Henri hoort dan denk je niet gelijk aan",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025061/henri-verloor-zijn-partner-en-hun-baby-maar-zijn-tattoo-geeft-hem-kracht"
+ },
+ {
+  "id": "5bdef363d4",
   "datum": "2026-08-29",
   "tijd": "14:05",
   "nieuw": true,
-  "titel": "Rechters gaan 's nachts naar synagoge om aanslag, verdachten mogen mee",
+  "titel": "Tilburgse verdachten van aanslag synagoge gaan 's nachts terug voor zitting",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -37,7 +56,7 @@
    "pand"
   ],
   "samenvatting": "Rechters van de rechtbank Rotterdam willen snel gaan kijken bij de synagoge in Rotterdam, waar op 13 maart een aanslag is geweest. Dit heeft de rechtbank vrijdag besloten. De rechters willen met eigen ogen zien of het voor de Tilburgse verdachten duidelijk moet zijn geweest dat zij een aanslag pleegden op een Joodse in",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025083/rechters-gaan-s-nachts-naar-synagoge-om-aanslag-verdachten-mogen-mee"
+  "link": "https://www.omroepbrabant.nl/nieuws/6025083/tilburgse-verdachten-van-aanslag-synagoge-gaan-s-nachts-terug-voor-zitting"
  },
  {
   "id": "f77303aeb9",
@@ -71,11 +90,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Geweld, liquidaties & bedreiging"
+   "Buitengebied & recreatie"
   ],
   "tags": [
-   "moord",
    "stal"
   ],
   "samenvatting": "Het lijkt een gewoon herdenkingsplaatje ter herinnering aan een overleden geliefde. Met daarop een liefdevolle boodschap en twee datums, waarvan de laatste meestal de overlijdensdatum is. Wat het luguber maakt, is dat het bordje al een tijdje aan een boom in Empel hangt. Maar dat die dag nog niet voorbij is. Het is een",
@@ -218,7 +235,7 @@
   "id": "87ec3aa480",
   "datum": "2026-08-29",
   "tijd": "03:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Medewerker benzinepomp in Breda bedreigd met wapen en beroofd van horloge",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -239,7 +256,7 @@
   "id": "ffd2d98d79",
   "datum": "2026-08-29",
   "tijd": "03:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overvaller slaat medewerker tankstation met wapen op hoofd en jat horloge",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -260,7 +277,7 @@
   "id": "f12e0c2b68",
   "datum": "2026-08-29",
   "tijd": "01:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Iedereen in het voetbal is gebaat bij de betaalde transfer, een eufemisme voor mensenhandel",
   "bron": "De Morgen",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -279,7 +296,7 @@
   "id": "dd76c8c0e8",
   "datum": "2026-08-28",
   "tijd": "19:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grote steden schrappen boete op buitenslapen, overlast daklozen neemt toe",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -304,7 +321,7 @@
   "id": "98358f0c87",
   "datum": "2026-08-28",
   "tijd": "19:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Diensthond Aron grijpt gevluchte drugsverdachte in sloot na achtervolging",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -415,30 +432,6 @@
   ],
   "samenvatting": "Tijdens een verkeerscontrole zijn woensdagavond twintig boetes uitgedeeld in de wijk Koolhof in Deurne. Ook zijn softdrugs en een uitschuifbare wapenstok in beslag genomen. De controle was vooral gericht op de overlast van fatbikes, omdat er de afgelopen maanden veel klachten uit de buurt zijn. De politie had een rolle",
   "link": "https://www.omroepbrabant.nl/nieuws/6025062/fatbikers-op-de-bon-geslingerd-tijdens-grote-controle-in-deurne"
- },
- {
-  "id": "e6b031b3a2",
-  "datum": "2026-08-28",
-  "tijd": "17:40",
-  "nieuw": false,
-  "titel": "Flevoland - Nieuwsoverzicht 28/08 | Spookauto in de berm • Afsluiting dijk raakt transportsector",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "afval",
-   "afvaldumping",
-   "jongeren",
-   "vrachtwagen"
-  ],
-  "samenvatting": "Goedenavond. Elke doordeweekse dag informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Waarom staat die 'spookauto' al twee weken in de berm langs de Larserweg? • Afsluiting Houtribdijk raakt transportsector hard: 'Als dit zo doorgaat, staan we binnenkort ec",
-  "link": "https://www.omroepflevoland.nl/nieuws/521717/nieuwsoverzicht-2808-or-spookauto-in-de-berm-*-afsluiting-dijk-raakt-transportsector"
  },
  {
   "id": "1456ba092f",
@@ -589,27 +582,6 @@
   ],
   "samenvatting": "Een nepagent die er met sieraden vandoor gaat en een bijna volledig vermomde man bij een geldautomaat. De politie vraagt in oplichtingszaken in Rijssen en Hengelo om jouw hulp.",
   "link": "https://www.oost.nl/nieuws/3679737/sieraden-weg-en-duizenden-euros-gepind-na-overtuigende-verhalen-van-oplichters"
- },
- {
-  "id": "717192f441",
-  "datum": "2026-08-28",
-  "tijd": "15:18",
-  "nieuw": false,
-  "titel": "Drie stropers opgepakt: 'Opgezette beren en schedels van apen gevonden'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "munitie",
-   "vergunning"
-  ],
-  "samenvatting": "De politie heeft donderdag twee verdachten aangehouden in Helvoirt op verdenking van stroperij en het gebruik van geluidsdempers. Een derde verdachte is vrijdagochtend opgepakt, dat meldt handhavingsteam Samen Sterk in Brabant (SSiB) vrijdagmiddag. De aanhoudingen werden gedaan na onderzoek van SSiB. Jachtgeweren en mu",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025055/drie-stropers-opgepakt-opgezette-beren-en-schedels-van-apen-gevonden"
  },
  {
   "id": "23a0585616",
