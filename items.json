@@ -241,7 +241,7 @@
   "id": "0d1f22968e",
   "datum": "2026-08-28",
   "tijd": "18:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twentekanaal gaat deels weer open voor de scheepvaart",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -260,7 +260,7 @@
   "id": "efa5cacffa",
   "datum": "2026-08-28",
   "tijd": "18:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aanhouding na vondst van chemische stoffen voor drugslab woning",
   "bron": "Regio15",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -593,27 +593,6 @@
   ],
   "samenvatting": "Verdachte diefstal van cryptovaluta en witwassen aangehouden Politie.nl",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUthLXQ0Wm5veHRpWk1Wb0R2SVl5WC1WUnNLdTh1VUIzZWJBUHZpejhURGR5c3VjZS0zMzFqSDRpM1dUb09Yc290NXl0R2hIQlNta3dPMzRQR2liTTdJYms2TDYtb3FoZ2lPWEpaUm14YzRmdi1SQ3czVGNjMVI1aHdOLTlxc0pNdC10OXktZUg1cUhsNW9Fam5aQVg3UDhJMXJZeFFRSm1IRHJNek5OejJfMkdRUQ?oc=5"
- },
- {
-  "id": "12239e4f02",
-  "datum": "2026-08-28",
-  "tijd": "12:55",
-  "nieuw": false,
-  "titel": "Meeste bewoners na brand weer naar huis, aantal appartementen heeft schade",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "burgemeester",
-   "pand"
-  ],
-  "samenvatting": "De meeste bewoners van het ontruimde appartementencomplex in Valkenswaard kunnen vrijdagmiddag weer terug naar huis. Maar een aantal appartementen heeft dusdanig rook- en waterschade opgelopen dat het mogelijk langer gaat duren. Dat zegt de brandweer vrijdagmiddag. De brand heeft veel impact op bewoners van het complex",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025036/meeste-bewoners-na-brand-weer-naar-huis-aantal-appartementen-heeft-schade"
  },
  {
   "id": "dc0ee00374",
@@ -20791,6 +20770,27 @@
   ],
   "samenvatting": "Eigenaar autobedrijf in Weurt moet gevangenis in voor drugshandel en witwassen AD.nl",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ3h6VmV0Wll5dzdIUm0yNndjdU9GNWw4X1VIT3pZdjJ3blZ4b0xzWEJUQTNTbGhMb1lxd3RYWU1GdkF3Q2dHOUZMem9SZnV2V0FwdHN5TWtPWWsyd21FSnl1bnJCTF9teldGR3VrVWlfMERyUzBjNWdZZnpHcGhzWXhkcXNqQkJibkdJbWdhd19LUmxxNGQ1NHJJcE5tTmJIQnlBbS1hLUdER3d0OVdoT3MtUldZXzF2?oc=5"
+ },
+ {
+  "id": "659599dfaf",
+  "datum": "2025-07-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gemeente pakt ondermijning op bedrijventerrein Wijchen-Oost aan",
+  "bron": "Wijchens Weekblad Wegwijs",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "bedrijventerrein",
+   "ondermijning"
+  ],
+  "samenvatting": "Gemeente pakt ondermijning op bedrijventerrein Wijchen-Oost aan Wijchens Weekblad Wegwijs",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3hHd3Q4SjJnLTRaZWRINkEzNWsyNW1naHpGOGJoQ3ZSVnN1VGM4NXRmU092UFJBM3hKb3hacENUQkd1WkxvckF5S2ZlakMyU1RmamhhLTRZUmotbUNsOHN2Mm1lLVAtNVRCR0FHaXhtWnNxVzdqSFVQSEExYzRNWmNnVkxnQzlneFNGdGgtOHZDNnJiYU10NW5pV2gyakV6NGQyRjNnMU5tUlVSeEFVZFJkOTFhLUE?oc=5"
  },
  {
   "id": "99c5c8f983",

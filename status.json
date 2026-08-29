@@ -1,12 +1,12 @@
 {
- "run": "10:24",
+ "run": "11:25",
  "datum": "2026-08-29",
- "nieuw": 14,
+ "nieuw": 12,
  "totaal": 1733,
- "verwijderd": 11,
+ "verwijderd": 12,
  "geweigerd": {
-  "niet-nederlands": 1048,
-  "geen dossier": 513
+  "niet-nederlands": 1049,
+  "geen dossier": 508
  },
  "bronnen": [
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 33,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -374,8 +374,8 @@
    "url": "news.google.com/rss/search?q=%22weerbare%20ondernemers%22%20OR%20bedrijv",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 14,
-   "status": "bij",
+   "items": 15,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 26,
-   "status": "5 nieuw",
+   "items": 25,
+   "status": "3 nieuw",
    "ok": true
   },
   {
