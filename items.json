@@ -1,5 +1,44 @@
 [
  {
+  "id": "7fbe0e174d",
+  "datum": "2026-08-29",
+  "tijd": "17:00",
+  "nieuw": true,
+  "titel": "Muziekboerderij boer Vos springlevend na dreigende sluiting: 'Dat familiegevoel moet blijven'",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "boerderij",
+   "camping"
+  ],
+  "samenvatting": "Muziekboerderij Boer Vos bruist weer en krijgt er volgend jaar zelfs een muziekcamping bij.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18737326/muziekboerderij-boer-vos-springlevend-na-dreigende-sluiting-dat-familiegevoel-moet-blijven"
+ },
+ {
+  "id": "2d63af0dac",
+  "datum": "2026-08-29",
+  "tijd": "16:30",
+  "nieuw": true,
+  "titel": "Vluchter veroorzaakt crash en tien bestuurders onder invloed bij controle",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "De politie heeft tijdens een verkeerscontrole vrijdagavond aan de Ringbaan-Zuid in Tilburg meer dan veertig bekeuringen uitgedeeld. Elf bestuurders werden betrapt op rijden onder invloed van drugs of een combinatie van drugs en alcohol. Ook sloeg een bestuurder op de vlucht en veroorzaakte die vlak bij de controle een ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025090/vluchter-veroorzaakt-crash-en-tien-bestuurders-onder-invloed-bij-controle"
+ },
+ {
   "id": "1275892633",
   "datum": "2026-08-29",
   "tijd": "15:55",
@@ -254,7 +293,7 @@
   "id": "87ec3aa480",
   "datum": "2026-08-29",
   "tijd": "03:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Medewerker benzinepomp in Breda bedreigd met wapen en beroofd van horloge",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -275,7 +314,7 @@
   "id": "ffd2d98d79",
   "datum": "2026-08-29",
   "tijd": "03:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overvaller slaat medewerker tankstation met wapen op hoofd en jat horloge",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -491,35 +530,6 @@
   ],
   "samenvatting": "Man uit Zwaag krijgt 32 maanden celstraf voor levensgevaarlijk drugslab in zijn woning Noordhollands Dagblad",
   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQ3Rval9nTV9tclR1UGVUbGVJcDJOak91OTZRXzlqWkVGZGtOLVFMY3Nwc2ducjFZTU9WT0JPbFBrM29Jajd5TE9FTF90LXZzbmplODJFbEFEQkpRMFNrcDNrQTAzbzl2dWtJdDdjanc4VnR6eE5YQjBvSVctYUlvNFhFNnEzQzlQeEdCZGlvcUh4ME1DajhIa0h6OElHOWJud0pHNHdrVzk3UkNqXzJzZXpHR2tldkl0R2hLelRFeGpfM0phcW5vSWhocWo0VUxjdnEtVHlheVBGSG1ZTTlYYzM4QnFvQmVzLW9JTEMyWQ?oc=5"
- },
- {
-  "id": "0ab92d69c8",
-  "datum": "2026-08-28",
-  "tijd": "17:15",
-  "nieuw": false,
-  "titel": "Studenten ziek, ratten op de loer en koffie na brand: dit gebeurde vandaag",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "afval",
-   "camping",
-   "container",
-   "erf",
-   "leider",
-   "organisatie"
-  ],
-  "samenvatting": "Van zieke studenten en begeleiders tot steeds meer ratten door aanhoudende droogte. Dit zijn de vijf verhalen die je op vrijdag gelezen moet hebben. Minstens 175 studenten en begeleiders van de Breda University of Applied Sciences zijn in de nacht van donderdag op vrijdag ziek geworden tijdens een introductiekamp in he",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025059/studenten-ziek-ratten-op-de-loer-en-koffie-na-brand-dit-gebeurde-vandaag"
  },
  {
   "id": "6cd2b61373",
@@ -7886,6 +7896,25 @@
   ],
   "samenvatting": "Politie ontdekt hennepkwekerij in woning aan Berndijksestraat in Kaatsheuvel Loon-op-zand.nieuws.nl",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1cyTm1GRzVSYzYzRkpKTFBYNlktcEZqNnZqYmw3N0JxUkdWVE1hWkdGcW1Sc000REhadnJtM2pud1AxVi1LbmM0QTZiLVJCRVZITWlHXzhORjZZZ2VyZHRqTWhpaEVUbVBtRWVpbmVuc3Y4eTR1dUZFWjVFVjlpNE5HNXlHNmtZRmNNSXFKb0lVOUxXbjZLbUQ4TW9Ma0h5SjJ6XzQxNHlxLVlvc3A2Ug?oc=5"
+ },
+ {
+  "id": "4843b523cc",
+  "datum": "2026-07-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Interpol arresteert ruim duizend mensen op vier continenten in actie tegen mensenhandel: 22 slachtoffers geïdentificeerd in ons land",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Interpol arresteert ruim duizend mensen op vier continenten in actie tegen mensenhandel: 22 slachtoffers geïdentificeerd in ons land HLN",
+  "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONjdQVjBwZ244ay12dWxhekFYZ3pRUVJvRjZCbWotVkVxc1AyQmFIXzJHN0U0SEZwai1sVjJ2OGpDS2ZhWDNUcmNPR1pFblZHZnVJNFBRNXI2X1pxTkN3c3YteTRTb3YxRy1TWVJYbC12N09fUm5nMExQMmM3QklaUnBES2xjZ21qZUVvdUZCXzRFdmF2OWFINDZYTUttQ003N1hNOVp6UTRscW5xZktrSmVBbVhQdVhHblVXdEgtenJRVnRpalhzVWljY3lDdGtlb1Y3ZGVWZHY3b1RldllkQVJNd3lnZWk1QTV0dkYxNW4xMmx3QVF5REFzTnJIeEdh?oc=5"
  },
  {
   "id": "e4fa8f1c59",
@@ -26410,6 +26439,25 @@
   ],
   "samenvatting": "Drugs uit containers halen: Gotti deed het, maar waarschuwt jongeren nu NOS",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ051MHlUeDA5dzRlREowaC1Ra0ZmVTZVQXNPZWFPcDludmg3QWdVM1hIRm9PZWJnWjZnTVQ4MWtCa24yUEJKNHZsLURnTG5YT3UtdUM1T211N3IxRmk4NDJzLUFzSC1KTzUzamVKYVB4MFdPOGczdUExc3FiTmhaSlpnb2FocE5nOFhUenh6bkxqYjVhODBFUUhFS1NLRVE?oc=5"
+ },
+ {
+  "id": "803735429e",
+  "datum": "2024-01-17",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Man uit Almere aangehouden voor witwassen en drugshandel - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Man uit Almere aangehouden voor witwassen en drugshandel Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE8zSUVWUUdfWlc2Y1ZQVXRMamVFNmxkREJZU3JHZzQ1ZjBVMWlwZGJGUEgzSXN1X0ZHaWwwR2N5Y1Vva3JPaVpYeFJhN29vZnF2S09ERmFJR3k4SHdld0lleGRXRVlIVnhhVEk5bU5XU1NNYTVNQkxXRHd3SUtlVjlEMkthZF96Z2xnenhRNjI0N2ZMMGhId2NOZm5OeGMyQWRpaFFOR3EwVlg3MGc?oc=5"
  },
  {
   "id": "4ae1b9c857",
