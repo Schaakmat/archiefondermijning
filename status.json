@@ -1,12 +1,12 @@
 {
- "run": "01:25",
+ "run": "02:25",
  "datum": "2026-08-29",
- "nieuw": 41,
- "totaal": 1703,
+ "nieuw": 21,
+ "totaal": 1713,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1012,
-  "geen dossier": 489
+  "niet-nederlands": 1053,
+  "geen dossier": 494
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 71,
-   "status": "bij",
+   "items": 72,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 85,
-   "status": "23 nieuw",
+   "items": 86,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 44,
-   "status": "bij",
+   "items": 45,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -285,7 +285,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 23,
-   "status": "5 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -320,7 +320,7 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 86,
+   "items": 87,
    "status": "1 nieuw",
    "ok": true
   },
@@ -428,8 +428,8 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 102,
-   "status": "bij",
+   "items": 103,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 33,
-   "status": "1 nieuw",
+   "items": 38,
+   "status": "5 nieuw",
    "ok": true
   },
   {

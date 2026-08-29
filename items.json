@@ -1,5 +1,24 @@
 [
  {
+  "id": "f12e0c2b68",
+  "datum": "2026-08-29",
+  "tijd": "01:00",
+  "nieuw": true,
+  "titel": "Iedereen in het voetbal is gebaat bij de betaalde transfer, een eufemisme voor mensenhandel",
+  "bron": "De Morgen",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Iedereen in het voetbal is gebaat bij de betaalde transfer, een eufemisme voor mensenhandel De Morgen",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSGVkZUdPQXM0RnRuY1pKbml3UkRDNDdFdFN5SlB3RU0xNFBkT2cxdi1xak42ODBaLS1SYUU4aVhpVWZNSmtFbi1fc01VcmF1czlGZWZ0V0RPRFNYUEJTWll5OTJTYnp6Vk1mV21Zd19UaUp6a2xSZjVGX2NQSnZtMjNDREpvVGQ5T2RydWxJVGFYVDBUWEVwMkhzT0tabEY4LVdDanJMbS1fUG0xUDgyNE91dXRDMDAteGtLODNMR3gzZ3RVMjZpVUQyQ2RxZw?oc=5"
+ },
+ {
   "id": "dd76c8c0e8",
   "datum": "2026-08-28",
   "tijd": "19:44",
@@ -425,7 +444,7 @@
   "id": "dc0ee00374",
   "datum": "2026-08-28",
   "tijd": "12:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Benoemingen bij Parket Procureur-Generaal van het Openbaar Ministerie van Curaçao, Sint Maarten en de BES-eilanden - Rijksoverheid.nl",
   "bron": "Rijksoverheid",
   "verzameld_via": "Rijksoverheid",
@@ -442,7 +461,7 @@
   "id": "a90d54016c",
   "datum": "2026-08-28",
   "tijd": "12:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie vindt flakka in woning in Middelburg",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -461,7 +480,7 @@
   "id": "83661695e5",
   "datum": "2026-08-28",
   "tijd": "11:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Italiaanse tak Deliveroo verhoogt loon met 40 % na onderzoek naar arbeidsuitbuiting",
   "bron": "MarketScreener Nederland",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -480,7 +499,7 @@
   "id": "81d55944ef",
   "datum": "2026-08-28",
   "tijd": "11:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nederlandse rechter legt levenslang op voor betrokkenheid bij genocide Rwanda",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -504,7 +523,7 @@
   "id": "e77879a5d6",
   "datum": "2026-08-28",
   "tijd": "11:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Illegale medicijnen, vuurwerk en wapens gevonden: vier verdachten opgepakt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -524,7 +543,7 @@
   "id": "648b3bd22b",
   "datum": "2026-08-28",
   "tijd": "09:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Veel steden doen te weinig tegen te dure studentenkamers'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -543,7 +562,7 @@
   "id": "62c7275040",
   "datum": "2026-08-28",
   "tijd": "09:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Klopjacht op overvallers juwelier, meerdere vitrines kapotgeslagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -563,7 +582,7 @@
   "id": "2d0119cd7b",
   "datum": "2026-08-28",
   "tijd": "09:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Edenaar krijgt levenslang voor rol bij genocide in Rwanda",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -585,7 +604,7 @@
   "id": "98251816d2",
   "datum": "2026-08-28",
   "tijd": "08:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie vindt 65 vogels in verwaarloosde woning",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -604,7 +623,7 @@
   "id": "321cbb7480",
   "datum": "2026-08-28",
   "tijd": "08:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie praat over milieucriminaliteit op de markt in Egmond",
   "bron": "rodi.nl",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -623,7 +642,7 @@
   "id": "dedcefe2d4",
   "datum": "2026-08-28",
   "tijd": "06:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "veiligheidsanalist mainports - Kom bij de politie",
   "bron": "Politie",
   "verzameld_via": "Politie",
@@ -640,7 +659,7 @@
   "id": "e073fd054b",
   "datum": "2026-08-28",
   "tijd": "05:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "veiligheidsanalist mainports - Kom bij de politie",
   "bron": "Politie",
   "verzameld_via": "Politie",
@@ -657,7 +676,7 @@
   "id": "4794d44081",
   "datum": "2026-08-28",
   "tijd": "03:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Steeds meer jongeren zoeken hulp om uit criminaliteit te komen",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -678,7 +697,7 @@
   "id": "4d7bd29ff3",
   "datum": "2026-08-28",
   "tijd": "00:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dode vrouw gevonden in tuin woning Boxtel, bewoner aangehouden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -697,7 +716,7 @@
   "id": "1eb3e3174d",
   "datum": "2026-08-27",
   "tijd": "19:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Een drugslab bij de buren? Deze signalen wil je niet missen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -716,7 +735,7 @@
   "id": "46b763788a",
   "datum": "2026-08-27",
   "tijd": "19:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Een drugslab bij de buren? Deze signalen wil je niet missen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -741,7 +760,7 @@
   "id": "04cdd69e4f",
   "datum": "2026-08-27",
   "tijd": "18:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdwenen eigenaar, ontsnapte paarden en een wietkwekerij in de schuur: dit speelt bij verwaarloosde Betuwse manege",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -760,7 +779,7 @@
   "id": "0209b5b589",
   "datum": "2026-08-27",
   "tijd": "17:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugsafval laat gemeente met enorme rekening achter",
   "bron": "Nieuws van de Dag",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -781,7 +800,7 @@
   "id": "498c6d9463",
   "datum": "2026-08-27",
   "tijd": "17:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nieuws van de Dag: Drugsafval laat gemeente met enorme rekening achter",
   "bron": "KIJK",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -802,7 +821,7 @@
   "id": "965333d00d",
   "datum": "2026-08-27",
   "tijd": "17:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rijschoolhouder verliest levenswerk, miljoenenfraude onderzocht en excuses om wapenfoto op 27 augustus",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -823,7 +842,7 @@
   "id": "4f017a351f",
   "datum": "2026-08-27",
   "tijd": "16:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nieuwe massadonor met meer dan honderd kinderen: 'We moeten deze man stoppen'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -4639,6 +4658,25 @@
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ2FBLXJ0T2x5cDF0RTI2TnJLUjRGVjJyV0JMX3c4MUtURVQ5MUI3WWpVVGp5R2l6QU9LSU0tTzBPZXVfUUloWVB1RUw4dmltR2JhVXp2cElnZDd6LXhYaEVyWU1VT2Y4SEdrZVZtdXRfeHRkdFFvRURTWUx1YzRjV0R6UzhpcUNmdnpSbVlNUi1NUzJBck9mSENMV19WUF9KZ09PZGdZdTh0NXR4cTNQaDQwU3RSZU5RTWRxR1lVQmlUa1ctaTNZVFlfMlU4YVFYR0tJRDZUSlZ1b1pOYnU3MFE0QUg?oc=5"
  },
  {
+  "id": "239e18f413",
+  "datum": "2026-08-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Een poging tot verkrachting, een verkrachting op de Weesperzijde – en toen werd Lisa (17) vermoord. Een reconstructie van het onderzoek - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "Een poging tot verkrachting, een verkrachting op de Weesperzijde – en toen werd Lisa (17) vermoord. Een reconstructie van het onderzoek Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTRENnMtVFdnQ2tXME1aLUhlRnB2MWdkekFqcDZST2s0bDFDYlYxVE10cTVET2tzUWEwTkcwWjBYZzVXQW1EZUNLSHpvRmE5R2FVZXZQRExXZEtJMGJBeEFUQ0RkV0Y5YjZaaEpDUkw0Nlhzd05CQnVoeWlySllJVE5qOE8yRFA3TnlqWUwxMVlNRXZuclVGVWdnYVVKbUZ3LTBWVjFwSDBweFB1VmdROUxDUWNmTzJqQld4S29QQm5iQUVrUHl4Z3VfZ1JmbEpiSDlvcHpBTFZONHZfemw4Zy1UVGV2cjd6Mk11WVNLcWU3bUdqVUticm80YlVzQQ?oc=5"
+ },
+ {
   "id": "e992af25a5",
   "datum": "2026-08-19",
   "tijd": "06:00",
@@ -5289,6 +5327,25 @@
   ],
   "samenvatting": "Grote hennepkwekerij met 456 planten gevonden in Crabbehof na klachten over lekkage AD.nl",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV1dWN2hocTU3ay1tT1YyRmc5ZWJYQjZlTE84dWVLU1RGUW4yTVdsT1BkMW1KMU9CWDJaODhwUXBfX21hb1p3cnR3QThYdUl6eVZoNElJUXJIcGxUZmRGTG9CZkFOcTlHdDlTNTFGYU5UUXRtX1NEYzNwNV9fM29TU2xSOWVxYUJWQ3hvRkp4UDY1Njh2Mkdfb0pFenpfSXkwRkwyRjVIUFB0ZG5VOFJpMXBvNlNzZ1lOQkdkWTNn?oc=5"
+ },
+ {
+  "id": "8ef63a9775",
+  "datum": "2026-08-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Grote hennepkwekerij met 456 planten gevonden in Crabbehof na klachten over lekkage",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Grote hennepkwekerij met 456 planten gevonden in Crabbehof na klachten over lekkage BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2t5XzNDY0dxSFhwSFNzWk83Q0lyQk5NbUplWWNlYm5CMGV4WTYwQ01LU3AxZ205SG1uUEhSdmxIN3phRS1PUzVqaTUydDZEbXBCMkJfMVVTdGpYUkZWVXdqV3I0YUlEUmFIekFyVjlkeVJnTnRKS0Y0UGZvMkhtRzJRMWc4MW45azd3eGFOSjF4cXhIbXJWazR2NElOYXN2dHFyUl9oT05VZVhuWXVDZ09aaElsbWRaZ2MtN2JjVGxwa3c2dkE?oc=5"
  },
  {
   "id": "0948ca742c",
@@ -8794,6 +8851,25 @@
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbEdNZlAwYzNvT3EzZE93cHI4czVJb3I4U1FhZG5ka2pIUHp2dXN0azY4WHhXYjJQM3pnS2NaU2gwd1JzblVlZUxUVGUzaS1rdVdBUE0zS3ZMdlE4WG1wNDdMekR3Mmd1am1yQVRTT2lBN0RQQVd3RXVHTS1YNlpaMG9yZDI4cUY5OEU1eXAxQlBaUmVqbVRidEQxWGZnMTRMenJJR0F4a3Bsd2owd1U5NU5WS2R2dVBDS0ZxbklVZzNRTGxjaEFzYXMzWGp2YVZiUk5wbmZNcGtGQQ?oc=5"
  },
  {
+  "id": "d99d2a10ba",
+  "datum": "2026-06-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Alle bewoners van wooncomplex in Amsterdam-Oost mogen weer terugkeren na explosie, politie zoekt twee minderjarige verdachten - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Alle bewoners van wooncomplex in Amsterdam-Oost mogen weer terugkeren na explosie, politie zoekt twee minderjarige verdachten Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeEZoZld6UmlJdFZkQ3J0SjFwQVRyWF8zdU1QR282Tk9lMWFvWGhNd0RiN3prcmhvbHluYk5TSGFvMDZTNFVBYTBvNGQ5Yk9pUEJzNG5EUHI2SGpvamxhQTJ1X0RPWU52Ml9vZnFFNjZpc2JuNl9LWC1KLTlHN1h5MFlXZDU3cGxHemdYaThBck02NWF3dmNmdldfekRMUG1WbFdkN3RrcnZfZkxjSXJpVzNkVWotelRiMXJFWGxoUzV6UUY4dkJCSERzVFhTWGxOazJjOENqQ0FCMjVVdFNPaXVTM1Bma2RQZWkyekxaeEdNQ2VGN0RLVHpR?oc=5"
+ },
+ {
   "id": "2eef627512",
   "datum": "2026-06-19",
   "tijd": "07:00",
@@ -9050,6 +9126,25 @@
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdW1yb3JtYTdyUkpaWXlkM2JoWlNmVi1YWHg1dTA0REhVYUJjZUNwVDhYZXg2SHJOdDZuTTFpempHanJiWERWWlpVVUhsNkJWNEhFQ2d5bWZYemw4S25BTXYxbzZFeEsxQlR6QjRIdXBkcXQybWdScG9BQW82Q1oxQ1V0MzFpR1hXNW1ialhha18zTkNXbWhJalNhVU5nY3VwclFiclBqbG1tRm43SVBleHFHZ004Z3lSa1BGZVNtQkF3Z3BuLWJ1dFBNRFE0V3RI?oc=5"
  },
  {
+  "id": "4e49fb5e7a",
+  "datum": "2026-06-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM bevestigt dat ‘belangrijkste scenario’ voor explosie Osdorp ‘criminele activiteiten’ in kelderbox zijn - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "OM bevestigt dat ‘belangrijkste scenario’ voor explosie Osdorp ‘criminele activiteiten’ in kelderbox zijn Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTHRkWndLMnpvdW1VQ2VqSk1jWFN1Qi0xNVQ5LWNZNjkzRWZfNEZXZ3RDZUUwaUE5Wm5RdjllZ2FPRmhIcDJVQko5eWtuV01vVXo4ZjVKTEFDNV8tUXpmcDRaTDQyWlY1b3NOVEtFMlM4UDhxMl9JV1BvNThYMnBWeUplMlU3RnhqVEZ1R19tdTlYNXVsY1c0UGVRcHZLOW9iTVAzZDdRMWVVWU85VmJGYVpGd0c3V2x0cXJlWnd0d19TQmY0YlBrMGZEbVJzZVNaRUlJWHAzQzc?oc=5"
+ },
+ {
   "id": "eedeeccf65",
   "datum": "2026-06-16",
   "tijd": "07:00",
@@ -9088,6 +9183,25 @@
   "dossiers": [
    "Arbeidsuitbuiting & mensenhandel"
   ]
+ },
+ {
+  "id": "b141776699",
+  "datum": "2026-06-16",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "'Verdachten zware explosie Osdorp zijn gewond, een van hen mist anderhalf been en arm' - AT5",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "'Verdachten zware explosie Osdorp zijn gewond, een van hen mist anderhalf been en arm' AT5",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY0o4d2lWLVZsVGt5NFp2cnhYaWtWek0xRzBLdzZLUEJnU3ZZRE5oUzdJcTBueWo5QzZrMElxMmVjSEVNZHhUekl6UGdZZmJ1OWhtSUtsV3FJNm5JYlhkUkFXVTJHUjdfYmRPaUpWNE9nYi10eXZWeF83dGRSQ0JibFJVODg3aW4wc1dMNmRERVBKZzNiaXcxd29nbFVDT3FCMHhKd1AzNTRjU210ZVBXVUcxTThmaEEyb2Rz?oc=5"
  },
  {
   "id": "c0560348b6",
@@ -9306,6 +9420,28 @@
   ],
   "samenvatting": "Deze onderzoekers proberen het jachtterrein van mensensmokkelaars te doorgronden NOS",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHdfWDNzekhmRWVNZXpmNDdaUlNWdmRkU3JCbXdDZmhJTXlkWTgwQXppNlNEeXAxME81aHdETXNKbzNlOWRUWkJUaDRjNnpnakVwZzRCZ1RBajdVYjRoR3RZZ21rOVZPRE5jOG1WQ1FoZ25KVURGeDFKX3p5NUNUZHM0SV95LUJ5cW4xYUNjNDR5UE84b1QzVjdSaTRMMVNuN0N2cEI3TFJwT19PaEVuUnE5ZENodlRkX19n?oc=5"
+ },
+ {
+  "id": "a0a33c10b4",
+  "datum": "2026-06-11",
+  "tijd": "16:01",
+  "nieuw": false,
+  "titel": "Controleurs treffen mogelijke uitkeringsfraude, gebrekkige urenregistratie en vergunningsovertredingen aan",
+  "bron": "rodi.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "uitkeringsfraude",
+   "vergunning"
+  ],
+  "samenvatting": "Controleurs treffen mogelijke uitkeringsfraude, gebrekkige urenregistratie en vergunningsovertredingen aan rodi.nl",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdlRBa2RHa2R6dXNXenlJZElPa1hNYnVqV3dCc3cwcmZJSjVmMS14cVRxWW9QSnNQQzBTT2NoMFBVZks0S3pKbHpNS0t3TVFYRWdWcGdMd2xUb3BkZG0yX3RlazZpYUV5aUZkdi1BU291enAxZTBoeFR6TXlxd3daUklWSVNxLVpSbk1hWEVtSnY4VFgySG5WUFFYUFBQd3lBRFY2cDJzN2xuV2I2NUlSNDZUMUFtZ3BOQzBvLXcyRFhmTmdYRlpRVjNnTjZhV3NlbFpQRHJ4UTlnQ3BJc3d6QkFn?oc=5"
  },
  {
   "id": "c473d26d6d",
@@ -9868,6 +10004,25 @@
   "dossiers": [
    "Witwassen & geldstromen"
   ]
+ },
+ {
+  "id": "c22b688535",
+  "datum": "2026-06-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Twee jongens veroordeeld voor explosie Maasstraat in Purmerend - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Twee jongens veroordeeld voor explosie Maasstraat in Purmerend Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcW5LaGwxUHZvTzdMbE9IdlJCQnpMaUZ5WDh4akUtVzNFVER6bHFXZmM1VTZjLVNuOFBLbTJjUVJyaUpGaWpwMzFLdDNQdXhFUVJ1anlvVFpDWGlXZVlFLTdDekpOZDlFT1prbTlNb3pPcGFOVkxINld0bXhhQUxmR2VucHUtU3V3TkhRd3RZT2lyZWN0QTh0OHhndGRwMTI3VDlDbktNNA?oc=5"
  },
  {
   "id": "24131f5aed",
@@ -12416,6 +12571,25 @@
   ],
   "samenvatting": "Harddrugs en drugslab gevonden tijdens Week Tegen Ondermijning ZuidWest TV",
   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMnRVWWxmNmM2U2k3eGZJQTJZRXQ1ajJxR1o4TmVfWWpzWWtEN0lmQ0pRd25aSTE3MDg1V1JXOFRIUGhmNTg4WVI5SHNreVhHVzdNSXJ4bFpHRmZ3azlud1BQMmRRaFNsOTR2ZTRHbkNOR09WNWRKWnJoU1E5cm9wRjZkcm0?oc=5"
+ },
+ {
+  "id": "fa550a8ddb",
+  "datum": "2026-04-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gemeente neemt maatregelen tegen afvaldumping, maar daders trekken zich er niets van aan: ‘Mensen hebben geen fatsoen’",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "Gemeente neemt maatregelen tegen afvaldumping, maar daders trekken zich er niets van aan: ‘Mensen hebben geen fatsoen’ AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNlZYZGg2Z2hTVldRUWV0S1ltRlktNDktaXdYQ0l3SDBGMlJnTmRlMXR6dEVwSzlFbjZoNmFvZTF1V01HdTB4TEc3SDRzYWxreFBBaFpEZXc2MUVSNzdSRUFOdXM3c3IwVFI5Z0tLTGxqOGNsNkVLVmxHbkJtdkpRSDFpY1ZuSjdndGltWjZBeUhKVTBNaWVueEkzMktQTWRUZ0VPR1NoWExDOFVUZ3NwU3d0bzVOZkxTcm5TOUk2bkIzXzQzenlCNHAxUDU2MmlnLVZFbVFULVZmbktZTl9hQkZRWlVGTjZfS3BDSHVR?oc=5"
  },
  {
   "id": "83d11f0f7d",
@@ -32381,6 +32555,25 @@
   "dossiers": [
    "Geweld, liquidaties & bedreiging"
   ]
+ },
+ {
+  "id": "582d6f4f09",
+  "datum": "2019-01-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "9 en 6 jaar cel geëist voor invoer 3800 kilo cocaïne - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne"
+  ],
+  "samenvatting": "9 en 6 jaar cel geëist voor invoer 3800 kilo cocaïne Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWVvTUlLaHdIVXZnNV9KcjVfZGl5bDV3d2otb3FONk1TMGg4SU55RmdOa0lUNWE1WlVJeHZ5djJodEtxc2J3R2VWZlk2THl2MFQyRXNKNFlMTWU0RVg1a3h2blVnclQyaGxhQ3VDbWwySjItNWRUS2hWbHRfTzhiYVZFUFlObG9yd2x3MjMyUzBneWNjU09OSWVGRVA?oc=5"
  },
  {
   "id": "b80e22339d",
