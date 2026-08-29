@@ -1,12 +1,12 @@
 {
- "run": "13:25",
+ "run": "14:24",
  "datum": "2026-08-29",
- "nieuw": 17,
- "totaal": 1741,
- "verwijderd": 12,
+ "nieuw": 16,
+ "totaal": 1746,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1041,
-  "geen dossier": 510
+  "niet-nederlands": 1037,
+  "geen dossier": 503
  },
  "bronnen": [
   {
@@ -249,7 +249,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 52,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -284,7 +284,7 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 24,
+   "items": 25,
    "status": "1 nieuw",
    "ok": true
   },
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 89,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -429,7 +429,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 104,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -455,8 +455,8 @@
    "url": "news.google.com/rss/search?q=RIEC+OR+LIEC+OR+%22Centrum+voor+Criminalite",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 25,
-   "status": "bij",
+   "items": 26,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 12,
-   "status": "7 nieuw",
+   "items": 13,
+   "status": "8 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 25,
-   "status": "3 nieuw",
+   "items": 27,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 22,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
