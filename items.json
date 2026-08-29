@@ -44,6 +44,25 @@
   "link": "https://nos.nl/l/2628689"
  },
  {
+  "id": "98358f0c87",
+  "datum": "2026-08-28",
+  "tijd": "19:25",
+  "nieuw": true,
+  "titel": "Diensthond Aron grijpt gevluchte drugsverdachte in sloot na achtervolging",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een achtervolging van een Duits voertuig is vrijdagmiddag bij Ridderkerk geëindigd met de aanhouding van een verdachte. De bestuurder probeerde aan de politie te ontkomen, maar werd al snel door diensthond Aron in de kraag gevat.",
+  "link": "https://www.rijnmond.nl/nieuws/2245762/diensthond-aron-grijpt-gevluchte-drugsverdachte-in-sloot-na-achtervolging"
+ },
+ {
   "id": "90331fbba2",
   "datum": "2026-08-28",
   "tijd": "19:18",
@@ -237,7 +256,7 @@
   "id": "6cd2b61373",
   "datum": "2026-08-28",
   "tijd": "16:43",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Naakte vrouw rijdt door hek Eindhoven Airport: luchthaven doet onderzoek",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -30067,6 +30086,25 @@
   "dossiers": [
    "Vastgoed & huisvesting"
   ]
+ },
+ {
+  "id": "c06f8fde2b",
+  "datum": "2021-10-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Twee acties tegen ondermijning en criminaliteit in de Week van de Veiligheid",
+  "bron": "112arnhem.nl",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Twee acties tegen ondermijning en criminaliteit in de Week van de Veiligheid 112arnhem.nl",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEZiQlRjRFBDeFdhdzhJZUs1WjktdEUydENpTWx0OWVPZlVDaV9BcUNjUHBXMDU2bEppTmQ5bjBoaVg1c1NNSDdGakhOLUxoUHpmeVVfR2doRnJPbDhTNWF3eUhGMjA2WXQ4V2ttR3ViVGQ2R2JZVHc4R1BsVWVvOGJmcm0tMkFlTmRodmp1Q3hGWms2ZkE0VGJWZHF6TUdHTEZoeHRic09DT3Za?oc=5"
  },
  {
   "id": "50db67872f",
