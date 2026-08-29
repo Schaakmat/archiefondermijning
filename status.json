@@ -1,12 +1,12 @@
 {
- "run": "20:25",
+ "run": "21:25",
  "datum": "2026-08-29",
- "nieuw": 13,
- "totaal": 1764,
+ "nieuw": 14,
+ "totaal": 1767,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1039,
-  "geen dossier": 509
+  "niet-nederlands": 1033,
+  "geen dossier": 510
  },
  "bronnen": [
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 86,
-   "status": "bij",
+   "items": 87,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 50,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -303,7 +303,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 15,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 89,
-   "status": "bij",
+   "items": 91,
+   "status": "2 nieuw",
    "ok": true
   },
   {
