@@ -219,7 +219,7 @@
   "id": "98c1066dd4",
   "datum": "2026-08-29",
   "tijd": "08:52",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "112 Nieuws: politie onderzoekt woningoverval in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -238,7 +238,7 @@
   "id": "93088b2b30",
   "datum": "2026-08-29",
   "tijd": "08:52",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "112 Nieuws: brand bij restaurant in Zwolle | Politie onderzoekt woningoverval in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -257,7 +257,7 @@
   "id": "67d062c63f",
   "datum": "2026-08-29",
   "tijd": "07:05",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Man die vluchtte voor politie en auto's ramde, had geen geldig rijbewijs",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -276,7 +276,7 @@
   "id": "f39d15a382",
   "datum": "2026-08-29",
   "tijd": "06:32",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Wekdienst 29/8: Hockeysters in WK-finale • IJslands referendum over toetreding tot EU",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -295,7 +295,7 @@
   "id": "e91bc6f8c2",
   "datum": "2026-08-29",
   "tijd": "05:47",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "A15 gedeeltelijk afgesloten door gekantelde vrachtwagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -11573,6 +11573,25 @@
   "dossiers": [
    "Witwassen & geldstromen"
   ]
+ },
+ {
+  "id": "5639e8cf3c",
+  "datum": "2026-05-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie vindt drugslab en houdt drie verdachten aan - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie vindt drugslab en houdt drie verdachten aan Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelFQOS14ZlBBTWZPX1E5S21CQjNLQXFuRHh2MXdMa2dleDZ6dGdBWEtQWmxNTzNrT2x4bHFNWWlYQVhKNHFtV0ZrV2huaFlZU0txNUhic2xhOTZyNnFFX1NEQk9JOThIVFFucVZ5VVkzMlEyNTFPUEJYdTZ4Q3ZKVnZHZ24wMkNjX1I1U3g1ZzRvbWhCdjE5cXF1X0R5bDNJRnlF?oc=5"
  },
  {
   "id": "c14b830f45",
@@ -27579,6 +27598,23 @@
   ]
  },
  {
+  "id": "ba5832a35a",
+  "datum": "2023-10-31",
+  "tijd": "21:53",
+  "nieuw": false,
+  "titel": "3-jarige hbo-opleiding Politiekunde tot politieagent - Kom bij de politie",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "3-jarige hbo-opleiding Politiekunde tot politieagent Kom bij de politie",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdG5RWnJNSnFjaEZIcXNqbHJ6Qml5WXJidmNodlp5UEVkamIzSElxQ2Z1QWZHVDQzMXhHYzY2aTFIUGtkclFKOHlOTXlET004Q0Rqck9oZ0hYd2tRNjdUZWJBSHRpUHJUMVNhVnRqTGdjaXZtV2o2eV9tdFFPUmpTeU50UWFJeHJJdDRmZXQ0WVdnTXl6?oc=5"
+ },
+ {
   "id": "f9fc558e6c",
   "datum": "2023-10-31",
   "tijd": "07:00",
@@ -31187,6 +31223,46 @@
   ]
  },
  {
+  "id": "03b68bd291",
+  "datum": "2021-08-14",
+  "tijd": "02:37",
+  "nieuw": false,
+  "titel": "Wat te doen als u vermoedt dat ergens een hennepkwekerij is? - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Wat te doen als u vermoedt dat ergens een hennepkwekerij is? Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGpiR0NWcTZaUkJlQWtKbDh0a2RmR2VfS0prX3l1MjQ0d1lwSUdDT3E2dkZqMnZQY0U4ajF0d1VjSDRYdUdBbG1ycHgtOEZOYmdxR3l0bWZqQTlkM09SaDFKTlBJX0VzQWhDd1lRd1VLV0tEcWQ5UG9nY2JNNW9SbDFaSDdSUzAwN0wzS3JzSS03cU9JZHpjbUQwam9Halk?oc=5"
+ },
+ {
+  "id": "1942683acf",
+  "datum": "2021-08-14",
+  "tijd": "01:06",
+  "nieuw": false,
+  "titel": "Wat zijn de gevaren van een hennepkwekerij? - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Wat zijn de gevaren van een hennepkwekerij? Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbm5femNvWG9DbjJEWFhva2ZuTmdhUFVJSGxybDJOREE5X255Rm9fY2xDUE1VWFFCUDJOeU1KcXpmRjl4OV8yb3QzRGkxck1Fc3FRVHAyMmk3c1p0ZzQ3LWtWM1NuUlY5LXVLVlQxQmcyWVBSRFJRLVZXRHBBYldzYXd0Wll6aUow?oc=5"
+ },
+ {
   "id": "ab4ee4313a",
   "datum": "2021-07-30",
   "tijd": "07:00",
@@ -33489,6 +33565,23 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "34142c5ff3",
+  "datum": "2019-02-01",
+  "tijd": "07:59",
+  "nieuw": false,
+  "titel": "Vacatures zoeken - Kom bij de politie",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Vacatures zoeken Kom bij de politie",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03ZlBYZGdqbXFySXZnaUtKcVl6VXc0VE45Qnp5RjBlSXB4dzhLRHNsaHU3R1hBWFo1YnhTUGxSZ3ZldWJuR2s5VTBXZWItQQ?oc=5"
  },
  {
   "id": "6b61195f3d",

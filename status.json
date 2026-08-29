@@ -1,12 +1,12 @@
 {
- "run": "22:25",
+ "run": "23:25",
  "datum": "2026-08-29",
- "nieuw": 11,
- "totaal": 1767,
+ "nieuw": 16,
+ "totaal": 1772,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1026,
-  "geen dossier": 506
+  "niet-nederlands": 1022,
+  "geen dossier": 515
  },
  "bronnen": [
   {
@@ -419,8 +419,8 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 37,
-   "status": "bij",
+   "items": 42,
+   "status": "5 nieuw",
    "ok": true
   },
   {
