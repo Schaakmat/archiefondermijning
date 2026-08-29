@@ -1,12 +1,12 @@
 {
- "run": "00:25",
+ "run": "01:25",
  "datum": "2026-08-29",
- "nieuw": 23,
- "totaal": 1673,
+ "nieuw": 41,
+ "totaal": 1703,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1049,
-  "geen dossier": 506
+  "niet-nederlands": 1012,
+  "geen dossier": 489
  },
  "bronnen": [
   {
@@ -141,7 +141,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 19,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 62,
-   "status": "bij",
+   "items": 85,
+   "status": "23 nieuw",
    "ok": true
   },
   {
@@ -284,8 +284,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 18,
-   "status": "bij",
+   "items": 23,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 85,
-   "status": "bij",
+   "items": 86,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 32,
-   "status": "11 nieuw",
+   "items": 33,
+   "status": "1 nieuw",
    "ok": true
   },
   {

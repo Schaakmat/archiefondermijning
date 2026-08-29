@@ -480,7 +480,7 @@
   "id": "81d55944ef",
   "datum": "2026-08-28",
   "tijd": "11:08",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Nederlandse rechter legt levenslang op voor betrokkenheid bij genocide Rwanda",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -504,7 +504,7 @@
   "id": "e77879a5d6",
   "datum": "2026-08-28",
   "tijd": "11:01",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Illegale medicijnen, vuurwerk en wapens gevonden: vier verdachten opgepakt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -524,7 +524,7 @@
   "id": "648b3bd22b",
   "datum": "2026-08-28",
   "tijd": "09:26",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "'Veel steden doen te weinig tegen te dure studentenkamers'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -543,7 +543,7 @@
   "id": "62c7275040",
   "datum": "2026-08-28",
   "tijd": "09:17",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Klopjacht op overvallers juwelier, meerdere vitrines kapotgeslagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -563,7 +563,7 @@
   "id": "2d0119cd7b",
   "datum": "2026-08-28",
   "tijd": "09:03",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Edenaar krijgt levenslang voor rol bij genocide in Rwanda",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -585,7 +585,7 @@
   "id": "98251816d2",
   "datum": "2026-08-28",
   "tijd": "08:25",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Politie vindt 65 vogels in verwaarloosde woning",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -604,7 +604,7 @@
   "id": "321cbb7480",
   "datum": "2026-08-28",
   "tijd": "08:01",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Politie praat over milieucriminaliteit op de markt in Egmond",
   "bron": "rodi.nl",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -623,7 +623,7 @@
   "id": "dedcefe2d4",
   "datum": "2026-08-28",
   "tijd": "06:02",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "veiligheidsanalist mainports - Kom bij de politie",
   "bron": "Politie",
   "verzameld_via": "Politie",
@@ -640,7 +640,7 @@
   "id": "e073fd054b",
   "datum": "2026-08-28",
   "tijd": "05:34",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "veiligheidsanalist mainports - Kom bij de politie",
   "bron": "Politie",
   "verzameld_via": "Politie",
@@ -657,7 +657,7 @@
   "id": "4794d44081",
   "datum": "2026-08-28",
   "tijd": "03:01",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Steeds meer jongeren zoeken hulp om uit criminaliteit te komen",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -678,7 +678,7 @@
   "id": "4d7bd29ff3",
   "datum": "2026-08-28",
   "tijd": "00:20",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Dode vrouw gevonden in tuin woning Boxtel, bewoner aangehouden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -697,7 +697,7 @@
   "id": "1eb3e3174d",
   "datum": "2026-08-27",
   "tijd": "19:39",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Een drugslab bij de buren? Deze signalen wil je niet missen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -716,7 +716,7 @@
   "id": "46b763788a",
   "datum": "2026-08-27",
   "tijd": "19:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Een drugslab bij de buren? Deze signalen wil je niet missen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -741,7 +741,7 @@
   "id": "04cdd69e4f",
   "datum": "2026-08-27",
   "tijd": "18:17",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Verdwenen eigenaar, ontsnapte paarden en een wietkwekerij in de schuur: dit speelt bij verwaarloosde Betuwse manege",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -760,7 +760,7 @@
   "id": "0209b5b589",
   "datum": "2026-08-27",
   "tijd": "17:09",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Drugsafval laat gemeente met enorme rekening achter",
   "bron": "Nieuws van de Dag",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -781,7 +781,7 @@
   "id": "498c6d9463",
   "datum": "2026-08-27",
   "tijd": "17:09",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Nieuws van de Dag: Drugsafval laat gemeente met enorme rekening achter",
   "bron": "KIJK",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -802,7 +802,7 @@
   "id": "965333d00d",
   "datum": "2026-08-27",
   "tijd": "17:01",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Rijschoolhouder verliest levenswerk, miljoenenfraude onderzocht en excuses om wapenfoto op 27 augustus",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -823,7 +823,7 @@
   "id": "4f017a351f",
   "datum": "2026-08-27",
   "tijd": "16:33",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Nieuwe massadonor met meer dan honderd kinderen: 'We moeten deze man stoppen'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -16855,6 +16855,29 @@
   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFJ6OUVTc1R1RExFNkNIcGRPMmhBbENiM05WZ1pRb1Y0ZnBJSlZzQXlsdUxLZXBjLXUtd2NPTHhReHBrcGFxZk1vTnhtT3BwOHJwS0VxMm1jeU9BenJGMTJ2cjZNcjhyYXNwaUdqdEdhQmJfeVhFdXNIVDZ5TU13NXYwNFVMazFTOE95SUVQM0hBXzVRZDdPZVp4U0Q5R0JMcUJEMkJMYV95cEwtOXVfNFJLRkctUUJ5MlA2b2M0YjVDeGlVd3Zfek1PMkhSb3RKcjM1b21oem5HeEdpaE1Wd0cwdjFWRWZy?oc=5"
  },
  {
+  "id": "a576d717f8",
+  "datum": "2025-12-09",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Bedreigd en uit auto gesleurd: hoofdverdachte (34) in Kempense afval- en mestfraude veroordeeld voor geweld tegen ex-partner",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "geweld",
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Bedreigd en uit auto gesleurd: hoofdverdachte (34) in Kempense afval- en mestfraude veroordeeld voor geweld tegen ex-partner BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcVF0cDNHRFRNUHRMM2Z4ajR1VjVFdDJqOTNoQnBHNGF4ak04SzFWMXVjS1hndzJJR3hncUd4VXZxSGk2YmhDVXlubkpjNGJMYl8weHkzZlk2akp0V0ZTdG5CSnVoakJVa1cxbmQ4YWMzZnRTeWV3MkFyc1ZEMXphOGVEY1JQblhMNlNaN1dTc0dIaU1Ja0d0cU5OZWZRakdEYXhqZjN6M1lZSkhROFZNOFFXb1IxWlhTSUJPX1FiXzNCSlU5VHB2ODZhVkZwaHNWN2JIRGw3UFIwYlI3bmhvR0Z2SWdBeE1xMlZVNGliNjQtSndSeG9yTw?oc=5"
+ },
+ {
   "id": "2dfb422397",
   "datum": "2025-12-08",
   "tijd": "08:00",
@@ -18195,6 +18218,25 @@
   ]
  },
  {
+  "id": "b832b58a3e",
+  "datum": "2025-10-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zorgfraude, rellen Malieveld en een nieuwe rubriek in Team West",
+  "bron": "Politie.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Zorgfraude, rellen Malieveld en een nieuwe rubriek in Team West Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDUzR1BUY0V1S24yUXN1eS1tTzI3cjNPT013MllnbVN1bkNkWS1KVjRKbllUZlRzNGRnLVo4dmNJN2RkZjRRNHgweFQwdVp4WFBnQzRINV9fdDFYVmt0cG9RWm1hRFB2NFR5aWI0NzNnUTZJZldHd29nYWZNMFBjaGdCdGNxNlUtWG5sUHVRT2IyU1FkRkpGT0pyU2NqLTJnOThzUkk2amZ4R0xabXotVUpnMXFISkU?oc=5"
+ },
+ {
   "id": "2549202cde",
   "datum": "2025-10-27",
   "tijd": "07:00",
@@ -19210,6 +19252,25 @@
   ]
  },
  {
+  "id": "2e92666aab",
+  "datum": "2025-09-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Pas op voor zorgfraude",
+  "bron": "Gemeente Rijssen-Holten",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Pas op voor zorgfraude Gemeente Rijssen-Holten",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yb2VNaUVfVURjMk15TEFSbm1MeV9CXzRSU280MUNsM0t4dHVtejNGcDNSeWVlVkd2Y3IyTHZ0WkFDcjRjaFlVeFEzTlZTSW05ckZEQXZ3RFZNVW04Smdka2RQcW1oYUN1bHFVWFhB?oc=5"
+ },
+ {
   "id": "7a0a8c0338",
   "datum": "2025-09-12",
   "tijd": "07:00",
@@ -20120,6 +20181,25 @@
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS2Y5SzU3NFMwcEhGY2NBWFc4ZnNCZ2lJQzlFWm55OUlLLVdHTF9QckFHQWNrWG1jN2RuaGx5aEFoSjJSVHhDQmFkRFVWazFja1BuLV96ci1ndFFONmw3cm9xWlROQ1NTWjFyM0JvN2tGdjY2QVBjRUdqcmRoU3M2a0hFTk1HcmRqSUpNZGxHZ1JIa0xJSTZkOWlJNEh4cUxZcC1OWm5zaEpwUVROMmszZkNZMU15Rmp2ME52clFILXlSNXpXWUd1dQ?oc=5"
  },
  {
+  "id": "f88e265d43",
+  "datum": "2025-07-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hoe het hele land van Twentse aanpak zorgfraude leert",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Hoe het hele land van Twentse aanpak zorgfraude leert AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlVvdEJzeXJjZXBmNzVqaFdkaExkVXVqQnhsRVFHejg1RFZaWW5FMDI1NDlDcm8xSzZxYjJ6RWhQbjIxYnNPWlVSLTA2UVpZLXFGLXoxR05CQ25kaXRYZGtUYVJqX2pqTkZaNmNyTjA5cHBhZmtGR0txcnRxbmNGbDZRQmJKYmU3NnRWM1ZmVWtjUWp4dWxz?oc=5"
+ },
+ {
   "id": "315d84242c",
   "datum": "2025-07-04",
   "tijd": "07:00",
@@ -20922,6 +21002,25 @@
   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNemd0R0ZQcmxMT1lwM2NyWHBlSklqb3RKM2xESEt6SVBWc3Z5UU45X2VDTmQtWVhPSmJiOC0xbEpOMFNiOE9jLXVzZlJ3N2lfYllpRXBZOXNiZ0F3QmM5MWE4NG1FS3hQdjNZbUxZSnFIS2twZ09adGxvY1RNY2NhVjVyenNJV3ZJbGxHcWhoVTJ3a0hvR2Mxajg3dXZnTnhBS2IzWEx0Ui1GSzdGdzhncnVQd1FSekFaVm9LdjNrVnhqM0xqM0ZNYktIOFZ1bndfZjl6T1dmSTU0Z0ZSVzFuSWJveXNEZ2FfaXM1cHZ2ckhMTURBT3ZFcGZSa3RFQl9pY3lzaUxEaGZmRVIyaEZ3S2hxb1JnZFU?oc=5"
  },
  {
+  "id": "63b4652ddc",
+  "datum": "2025-05-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Waarom de aanpak van zorgfraude zo moeilijk is",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Waarom de aanpak van zorgfraude zo moeilijk is NOS",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObmpuV2kzY1FpSDM2U2NFMTl6Yi1FcnFWeWlzYUxNem13dy1IemN0Q1FGMUhaTW1EUVctbFpfZDNTLWVUTl96SWVnQU1iZ091OGlRZVZXd0cwNUQxQVMwRDVuRFBWYnVpRnNFenBIOFEwN195TjBjLTRJTkZKejlHTGVFSS0zbDl1RmhMT21R?oc=5"
+ },
+ {
   "id": "938fdc9aac",
   "datum": "2025-05-12",
   "tijd": "07:00",
@@ -21171,6 +21270,25 @@
   ]
  },
  {
+  "id": "dc3b7faa4a",
+  "datum": "2025-04-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zorgfraude opsporen en bestrijden met behulp van datagedreven werken",
+  "bron": "Consultancy.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Zorgfraude opsporen en bestrijden met behulp van datagedreven werken Consultancy.nl",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0ttYmV0UHpYT0ltelVmRE1YRWtZbDQySlozX1lGQ0hnVWZpZl9JbDI2dDNCRTZySjBZcmdnUVBaeDJZQ3FrVTIwMzVzLVFKRHY5MUZEOVZhaWIwNEd3Y3JxMVFFQmlTQnc3NXdUQVdVTmZEY1ZBdG5ZTUZEaWxpdUhWanpjZzVQMXN5UFdzT0tPY1FpVFhSVGJZQlRlWldtMThwQmY0Qnp0LXho0gGyAUFVX3lxTE5jMXE2UTE0WEx5bHNfaXljdnhZeUphR2RNR0M3dHh4YlZTYmQtcXZfZ0VOVWZiZmhwbEJtTjhzT21DRlVWRDdJUE1VWV90VFItVnZXdlQzYk9nVTZhNnc4Z3NhWFRfSEZEbkNzd3FWUi03VXVVOUxWbWJMSS1ZdkxPdDZoRmlCdFdraXYyQ3d0al9rbncwcXBDa0tJWW1WSkh5bWswSkxESkVaQjIyc3JGSGc?oc=5"
+ },
+ {
   "id": "91ccf6c9e5",
   "datum": "2025-04-23",
   "tijd": "07:00",
@@ -21189,6 +21307,27 @@
   "dossiers": [
    "Drugsproductie & labs"
   ]
+ },
+ {
+  "id": "044eb9011a",
+  "datum": "2025-04-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zorgkantoor CZ wil meer bevoegdheden om op pgb-fraude te controleren: 'We voelen dat het niet pluis is, maar kunnen niets'",
+  "bron": "EenVandaag",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "pgb",
+   "pgb-fraude",
+   "zorgkantoor"
+  ],
+  "samenvatting": "Zorgkantoor CZ wil meer bevoegdheden om op pgb-fraude te controleren: 'We voelen dat het niet pluis is, maar kunnen niets' EenVandaag",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZG11ZjFoNDQ0WlNSNFVjSndxUDhRWlZnMTRHNldnRnViWmM4UERqUFB0SmdDWUExWDN0T256UHRoVXlJdXJ2dlRIOHdnZDlJQ1NkcFYtVm9namxtVFpmUlRaamIyOG9tRlFQejhjdURFZGpTVkhaUXJFbWVBSUZKTVJ3SFk0dGFDdTB6UDZ2SmpXUl8xWklWZDM1cjZIWDRwNzJQa1lqMHUxNmhZYU1Ed215MHBUU3FGN18xaHRibGZTVk02V2hHS1VWRXZha3FTRXBrZHdia1lfOGhnakIwTV9ncl9WZUk0U25iWjNtOGRyam9idGRoRVFn?oc=5"
  },
  {
   "id": "818294cb21",
@@ -21551,6 +21690,26 @@
   ],
   "samenvatting": "Man (23) uit Delfzijl verdacht van witwassen miljoenen aan cryptovaluta RTV Noord",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGRCekxGVHpqd3lzejlPUG9YZmc5Uy1wREo3M3ZzYmpoNTJWOWg0WlpxMElOR1FzMm10UFFzODd1ZHM3ODdQRmQ0N0k2N1l5SFNmbzJrWjZQTEpkeWE1aWtZdWFsNDVFZVBfQ0FvZi1leE5GbW10ODk4MVo2Njg3bC1GUmFKMzRVVVZGMWw2SHhkRjVZNTdPcUtKVlo2SFNoSkJwUW1QSGlfSTJ1NHc?oc=5"
+ },
+ {
+  "id": "96776a956a",
+  "datum": "2025-03-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Meer 'kliklijnen' voor uitkeringsfraude, maar Nijmegen stopt ermee",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "uitkeringsfraude"
+  ],
+  "samenvatting": "Meer 'kliklijnen' voor uitkeringsfraude, maar Nijmegen stopt ermee Omroep Gelderland",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQi00bFdwdkMwamxNUFQtUm9lSkZZTmFTeUZ0MWlWTHMxSDNHX1VGeUJfeDYyNEVKX2pKQVA4U2pxQ1poZzYzTk00emo1VHI2dEp2QlYtWFpjekxQQ3BCcmx6Wm9FeHVLemFkUGdQVFRLRGh1cHRWcENrbXhiYjgwbUNENnF2SV9HMDZ0MnhqaWhYOE1aSFVRRGNsNnJFQQ?oc=5"
  },
  {
   "id": "cbf6494917",
@@ -22288,6 +22447,25 @@
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOampyR0Qtd1h1YWd2dTlsRFF1QXp5a2pqNGswRHU4dHphZDRMblRpOTA4Y0p6ZkFYOVV3WTRrU2djWnhLUmxjblcwYWRRcUtCSjZNTjAyWFp5OWUyQlpFYkI4R1hYcWdaT3FOY2Z6N1FBNzNYaGRtRmw2aXVGZFhLbW15NGswUDVSc0pualpaMmd4dm4wbVdOUi1WLWlEZG9yLWxQX3ZoX0FnY0xyRzY0?oc=5"
  },
  {
+  "id": "6aea014588",
+  "datum": "2025-01-24",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zorgfraude: ex-eigenaresse van Thuiszorg Naborgh moet 400 duizend euro betalen aan de Staat",
+  "bron": "Rijnmond",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Zorgfraude: ex-eigenaresse van Thuiszorg Naborgh moet 400 duizend euro betalen aan de Staat Rijnmond",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVo0RWhvanVxaFphZ2NhbU9mUnNzWXpXZ0pqQnE1ZEJ0YVJ4VEw2Sk9uMkUxcTNkeE5BcTBIa0hwYUkzTWcyMDM5NFZWSlg5Q2ltbjVSRlhlNTJtRWJMXzEweFNJRmloOW5PVWtJMDM5UVNaVzJ4X1dzRzlmeXRDV1pUN3JUUU1FT0NQVnZla1VXTkpraTVmYnljU19LWFFOMi0xeTJxbjdFYmNUcVNPUTg3Qm1sTnFsX21WMWRLS2pSdUh1SDNjcA?oc=5"
+ },
+ {
   "id": "badb76ef4f",
   "datum": "2025-01-23",
   "tijd": "08:00",
@@ -22463,6 +22641,25 @@
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUmd0V1huYWR6UWZ4TWV5TnZhZG9pR00zQml6SkotdWNuQV85MXdlUjJZdEh6WVBabGxCQnFrT3hBcnhGSEhOdVJNMXh2Mlcwaml1a2tlRVY5M1cxUkUydzZmdlVjSzRrX2xlUVBRQkdEcUE3WE5MMFBBMUVENWJtNzZwYjRVZkVWTWp6S244eU9CVG1BeVhwQ3NvNFFUb3V0MnBvNmUxZEdfNXlDLWxOYjU3c0xzTXZsa3V1aXNhZnZ5NlVkR0VzRE1oN3A?oc=5"
  },
  {
+  "id": "e255ba9085",
+  "datum": "2025-01-17",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zwangere Rotterdamse vrouw aangeklaagd voor zorgfraude van 1,2 miljoen euro, justitie eist 2 jaar cel",
+  "bron": "Rijnmond",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Zwangere Rotterdamse vrouw aangeklaagd voor zorgfraude van 1,2 miljoen euro, justitie eist 2 jaar cel Rijnmond",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOExwS3Nza1lLUlRFVjd0bE8tS2VHT2dGLW41Q2ttc0JUaUFSbHZWYUpxWDNNSkVfWjRGVlAyQVVoRlFyMmFjYmZSQ1ZTcTlLblRNYlhEUktlUWYzMFNqdmZPanRHV1d2OUJtVlF0YnRvelgxMkV1SzRhaFJCU2xHXzhXVW81bV9la1Z5MVQ2TF90VVJ2dmRKRTNYVE9nSlY0WFlvN1V3emlnaUJ5ZUhlYXk2Q3NZaHpRaGY3b0h2RWRZcUNwclBmNlpPa3NYclZzRmdrZTBB?oc=5"
+ },
+ {
   "id": "8764b8b6e2",
   "datum": "2025-01-16",
   "tijd": "16:26",
@@ -22500,6 +22697,25 @@
   "dossiers": [
    "Criminele samenwerkingsverbanden"
   ]
+ },
+ {
+  "id": "f1768458de",
+  "datum": "2025-01-16",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Gemeenten pionieren met aanpak zorgfraude, maar hebben het rijk nodig",
+  "bron": "Binnenlands Bestuur",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Gemeenten pionieren met aanpak zorgfraude, maar hebben het rijk nodig Binnenlands Bestuur",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczdpaVE0NHM1UWZ1bEdQOW5VSnBJTU9KaFVEYk5VVmJVQlp3UlBVVjc3MVVmcHdRWkkwSThSWlVpSzJRZzZBell5MG50YWdXSS03Z2prTEdJT0pqRTh3TnQxRUV6SDRKX0hlREctNUdndmdiNmdtbHR0MElKbmtuRFNOZlVDZHBWdlpLNC14R2Z3WnA2Mmg0a0RrOVRMY1AySjlXZjJ3TjBYTWRWaGZqU1ZUQWpycnBi?oc=5"
  },
  {
   "id": "414913bc98",
@@ -22723,6 +22939,25 @@
   ]
  },
  {
+  "id": "1a84412e77",
+  "datum": "2024-12-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zorgfraude: huilende vrouw heeft na honderdduizenden aan verdiensten geen cent meer om een miljoen terug te betalen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Zorgfraude: huilende vrouw heeft na honderdduizenden aan verdiensten geen cent meer om een miljoen terug te betalen Rijnmond",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRW5xM3lrdEgtQlk3SkFYemtWRlVSaFByRnRoTXdKaWdtc01LX0lLMjB4RlViQXhpc09qbUp1RGlJeEVIZjh4aDlTckh3RTNYWWVBLTFpMENCeUFDN3R3R0p6ZmhzUS1aVnhoS2hhYktQYlNETHY3Yi01WE5BcEEwOFV1anJFclN2N0lZdjlKUkQxS2pySzJwVFpWOXRlVkhaRElIWXV6bkY0VHBNRFpJakZ6Sllrem1XcGFzUVJyUVN5T3NwT0xneExGYThZQVVvR3VGU05DS3ZobzdTdVR5M0pteWJ3SHpF?oc=5"
+ },
+ {
   "id": "71819c977f",
   "datum": "2024-12-11",
   "tijd": "08:00",
@@ -22941,6 +23176,25 @@
    "Buitengebied & recreatie",
    "Witwassen & geldstromen"
   ]
+ },
+ {
+  "id": "c262ecd39f",
+  "datum": "2024-11-21",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Gemeente Rotterdam komt met actieplan tegen zorgfraude",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Gemeente Rotterdam komt met actieplan tegen zorgfraude NOS",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSm5DR3lSY3dFR2JlSTVUMHlIV3dVVWRNZFcwN3pPWUo3NHlFMHNpZGY5MXJDT1g2aU10SWdyd21Mdi1HdHFaaGhsMHJZUWMzUkhOZlFQZDRXdVJDakRWczNNTjZvbTdSdmYwdEc2cHBybi0wdjIzaU1wb1lEbE5SdlRyamgxYU13NGNCZld3?oc=5"
  },
  {
   "id": "6da4672353",
@@ -23248,6 +23502,25 @@
   "dossiers": [
    "Zorgfraude & sociale zekerheid"
   ]
+ },
+ {
+  "id": "cf4f788adb",
+  "datum": "2024-10-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "‘Het ‘oplossen’ van zorgfraude is allesbehalve eenvoudig’",
+  "bron": "Binnenlands Bestuur",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "‘Het ‘oplossen’ van zorgfraude is allesbehalve eenvoudig’ Binnenlands Bestuur",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdDJoQXM5M0x5bkZvc2tWQTVYNmxkMlFEb2FvMkg2S09yT1BGMGg1MDJaOTBVMmY4TkFtSFpOcklwTTZyZVJPczRpbk9wdk16a2s0YV9PVS1jUVMzbXFyQzhKN191OHRSVmpXcnVOY2Uzcld3MzRfcTVvblB1bE5nRHp1Sm5HdnJ1NkhXVGZ3S0tnX28xODNZa0p5cw?oc=5"
  },
  {
   "id": "a221e7623a",
@@ -23841,6 +24114,44 @@
   ],
   "samenvatting": "Mogelijke relatie tussen brandstichting in auto van burgemeester Buma en zijn inzet tegen drugscriminaliteit Omroep Leeuwarden",
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWd1SFlSSU1RdzhHZ0FESFU1M0tCdHcyUFFybklnN09ubFR2MmpMZDNTQ25DLXFIMUdMaXg3c3lFT1E2UUltRm9TWkJ1U1IxSkJMdF94N29VdVl4TkUyRnZtM09xZFFzaVpqVkZNU3lyRDd1bHZnRlg4VFc1ajJCSW1YQi1yUUJTWW9leDlTY1NwM1d0MzZGVElpSXZ3akZNVzBSLTBEcUpvX0xiTXZiczZDejlidjB3NHRmS05LTmc2anZoYmZ2Nm5fMGE0RHFfTHNJ?oc=5"
+ },
+ {
+  "id": "918f1ceb79",
+  "datum": "2024-08-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "SP en SGP willen opheldering van ministers over aanpak zorgfraude",
+  "bron": "Pointer",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "SP en SGP willen opheldering van ministers over aanpak zorgfraude Pointer",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2N2b1lDWFJPcTB5LVNKVXowY2VmNHBlQzM0OEYwTEtPVm0tOWtSd0E5b1pHbFlnZlFySzBXR0R5U2VaVFVPMm1UQWY3TDhUMXRZVHBOWmlURkV6Z3JzY09rTlVYclF2Q0JLd0ZwN1dQcVNub0JZVlFha1Z1TmZ2MXh1dDdIdF9nVkl1X0lCd25DQkZKOE9zZg?oc=5"
+ },
+ {
+  "id": "152fc3a502",
+  "datum": "2024-08-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM niet in staat zorgfraude voldoende te bestrijden: 'Jaarlijks wordt er voor 10 miljard gefraudeerd'",
+  "bron": "Pointer",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "OM niet in staat zorgfraude voldoende te bestrijden: 'Jaarlijks wordt er voor 10 miljard gefraudeerd' Pointer",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjd3a013elZXZkhLTUtUR3ZWdTNKelJPbDJSa2VfaG05QTdNU1l6UmRVMDY1M0RUUkFXcmR2Q2k0bDhGdmhXTW9pT1lVLXlCSDJQd2VrLWlHeDhqdi1uQWlvLWg2cnhZM0dPb3JEd2wwbmh1djh6emQ2RHUwN2htQ1hweERNUmk5cjZKUC1NUFU1eXI1QWlLekxuVHB2cldLWmZQU1FEbTkwTlhGczNiX1E5Nlhsd1N6MlBzRVpQV0dzc1Et?oc=5"
  },
  {
   "id": "07b1f449d4",
@@ -26452,6 +26763,25 @@
   ]
  },
  {
+  "id": "8260fa5909",
+  "datum": "2023-10-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "'Gaat om poen, niet om cliënt', drietal voor rechter om grote zorgfraude",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "'Gaat om poen, niet om cliënt', drietal voor rechter om grote zorgfraude Omroep Gelderland",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTVJN3gzRFlFano2S2hQeGIzdG95VERsVGV6WXltLVZfMV9JQkxsdFhnMXUybG9uc3FfWDVwWGttQThrNnpoem9FTEM2VmlLM0EyRUhXbzJoVTJWWXdMTWJFZEtCcXN2OVl4a3lPaTU0dDgxclpvaFNyTkNFUnhjZUxuMjU5N0RJVVNVdGlsWmtHN3RqVE8wLUxkdzFxTDJyTWFkYg?oc=5"
+ },
+ {
   "id": "2b55faf588",
   "datum": "2023-10-09",
   "tijd": "07:00",
@@ -27632,6 +27962,29 @@
   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUSE1aU2lCU2FkNk92Z0xIZ0xSQUtXSzlaaWh1ellHS0dtMnp0T2l1bWhtUXhROG1YWE1QbW5ZUGgxY1RiMW1pSnk1ZTQtU1h4bnc?oc=5"
  },
  {
+  "id": "253f04546d",
+  "datum": "2023-03-10",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Cryptografie als wapen in de strijd tegen zorgfraude",
+  "bron": "iBestuur",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Wapens, explosieven & vuurwerk",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "crypto",
+   "wapen",
+   "zorgfraude"
+  ],
+  "samenvatting": "Cryptografie als wapen in de strijd tegen zorgfraude iBestuur",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmZ4eGFXTWxHekNoNkxneDBmZHVGRUdwemhDMThacG9VZ3NGUlQxRlgyNllRTUR0ZXJ4T2p3UDVTTFl1S2lrN0NWVEFIdS1JVmxfLW51V1ZWRUhuY2x0dEk5Q1pCNk5URGhILS1UbUVjT0huQzYzQ0lRY1RlYk5YR2xqay1XMmlHZ3J1SmFuQXNUZl9ZSW95dg?oc=5"
+ },
+ {
   "id": "d25bfd0162",
   "datum": "2023-03-09",
   "tijd": "08:00",
@@ -28225,6 +28578,25 @@
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFsc2p1QkJwY3VySUtFRFFxY0R0dFN5ellkb3E2Z0RQbURneVFqM1RfVEJBSjlEUmZUZnh1NFlkaFJiX05aQm1sTmZvSDE4SkZwTDA2YmNjYzNEU2VuQ0RPMEEyMkJmSzRiUlhCaGlZZk9iMlZHNHktd0lYWkxXcXdtMDE4V3dqSTNUNWxiQms5M3gxTmdteFNMZTJ1OVRkOWhVV3kyMjJkZUE?oc=5"
  },
  {
+  "id": "7ac9845e7b",
+  "datum": "2022-11-03",
+  "tijd": "14:02",
+  "nieuw": false,
+  "titel": "De rol van de raad bij het voorkomen van fraude en corruptie",
+  "bron": "PwC Nederland",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie"
+  ],
+  "samenvatting": "De rol van de raad bij het voorkomen van fraude en corruptie PwC Nederland",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbW5RQ2xSRXp3ZFRGdkU2VkkxMmViakhqZFNhMnloaDc1cGx3dDhGZU1GX3F2emZtYmV2MGx5S0JQRVBWMmZMTXdvb1o0VzlheHFnN2dmMmc3a0M3Q0o1MHNPX0JzRC1MMlZ0ZUxfNy1JZF9mT1B0TkgweE5JVDdwVlRoM3VyWW9FdGpyS1VSaG42TmJUcm9SSy1sVGZTY3ZMQzMzZ0tITzJ2dUpfSlVNazlFdGJGd3QtYVFoSXZiN3QwazhmVWEzX1BlM3FpenZDNm12OWlPaHdUbTlfLXNzaw?oc=5"
+ },
+ {
   "id": "679d0d24fe",
   "datum": "2022-11-03",
   "tijd": "07:00",
@@ -28605,6 +28977,25 @@
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRFBGWmhjQjVQQ3dwelBiZENCXzdLNzg2Zl9FTjhWWlRhQkFidllGcmIwZFVsRWNZMXpZRGxLVjJRQy1oYzJFejlUbXpFMC1XYmU2NEppSGtzeGxnVUR1bzN1cXc1M3NfMEQtczBMZUJwWHlWa09nVDNKOFFwQ2xIMm55czJWNUEzS2hnR3ZUOWhtaVVwUW5ZSmtaUkpaTDBwbEF3d2ROaXVNZnEwX2Ixa2ZvbXlhSkY5cEtubjVTSjFrVHJrekNsYUNn?oc=5"
  },
  {
+  "id": "9cdccfbbbb",
+  "datum": "2022-07-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zorgfraude: vorig jaar honderden meldingen over misstanden door zorgcowboys",
+  "bron": "RTV Oost",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Zorgfraude: vorig jaar honderden meldingen over misstanden door zorgcowboys RTV Oost",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEYwQ242MldGdjdhbGtUV2g1THhsVHJ1Tk4wSzZWdmRSUzA2dUdreUstcDI5ekYtcno3RlJ0em14R3pCR3VIa1BFYTlreUhfLXB3RTh6a3VFVktkWkc0Y25PWkR1M2x6NkswWDRsaUxDS0N5V2N1bjN2MW5VOGQ3VkxtcjZFZ0czbVJrT0xzQmVpMzRzWW04LWFUUDFDYTZhdmI3UFlpNU5iUXV4YlE?oc=5"
+ },
+ {
   "id": "08e7bed390",
   "datum": "2022-06-28",
   "tijd": "07:00",
@@ -28824,6 +29215,45 @@
   ],
   "samenvatting": "Strafeisen: 4 en 8 jaar voor grootschalige drugsinvoer en witwassen Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYTZrcVl5YjlNdTdWMUdWeEcxWnlqN0lZRlpDMnJMR3ROeDRudV9CMnlqMUlQTlpFaVhRdllLYjUxX3NMMU41LWw1WWVJYldTV01uUDJvYjNCTktBa0ZtMTFTMERYX2w4NDlDWnlTbU1mOWJVZS1MMHY0ejRjbnB4THNSdkxXWEhJV2V4dkoxTU5hcUNoSkNsUTJabXNZaVJMbFBzT3Fkc00xWmc3d2NZ?oc=5"
+ },
+ {
+  "id": "368e52f2da",
+  "datum": "2022-04-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Profileren op nationaliteit weinig zinvol tegen uitkeringsfraude",
+  "bron": "esb.nu",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "uitkeringsfraude"
+  ],
+  "samenvatting": "Profileren op nationaliteit weinig zinvol tegen uitkeringsfraude esb.nu",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3V2dG5iT05MZlBqV1hqMkpNY2lDaUliVFYwb3hsWWFRN3U2TUM0ODB1MjNZWFpGOHZhdlJyQmZMSDM2SGZNN0tqRmdIdFVnbWhCRzhhYThXSDZ1UmswaFplQldaeHY0MENZdjdtcF9kWXI5UVVodHlZNjJ4dkdrZmJmQVRnUjA?oc=5"
+ },
+ {
+  "id": "bc687d1d0d",
+  "datum": "2022-04-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Tien familieleden aangehouden op verdenking van witwassen tientallen miljoenen euro's - AT5",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Tien familieleden aangehouden op verdenking van witwassen tientallen miljoenen euro's AT5",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGRsbDk4MHVlS3prd0tqY1NLc1pydUtXWlQzbjRBMThkeFhNOThsaW1sTVcxNFJaRThWRDJRT0pZZ2c2b0pPdmxmcHFFTHEwdENSUkszN0lIeHBSdlhxc051ZGtQQjAyWWdxSEROblA5ZXAtMTFiMklXTXhDZkl3VW1pczJ1aUd2X29vY3RuMEZldHNYcEZxLUFZd3o5TDhfQmtaOXZXWnFnX2JoXzZWX0dIdWo4aVFZbm9tSw?oc=5"
  },
  {
   "id": "7c1e1b2143",
@@ -29341,6 +29771,27 @@
   ],
   "samenvatting": "Steeds meer zwaar illegaal vuurwerk in Overijssel: \"Het heeft de kracht van een granaat\" RTV Oost",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbURYTWxHaVFZM3VPTEpDOXhGUlJJSnN2c3BFN1l1MzRsbnktXzAxc2JRZlc5TGNNTGtoSUh4a1dIeUU3NEs0Tjk0RmtVNWJ6YWtBaGlQbW1OLVRhRlJacF9uYmpub2dnTngzLVNfRWRrVGk0OXJ2ODlST0I0bnJFdldoMzV3NmNhR21HM3VSSXNuYXVZQzVQUkRxRmVVaGVPOHY0MWlZSTQ5dlh0TnpWQ2hVVDVIN1Q1S2hSRw?oc=5"
+ },
+ {
+  "id": "ba1ee19fee",
+  "datum": "2021-11-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Opinie: Zorgfraude is een meerkoppig monster dat je ook met verschillende wapens moet bestrijden",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "wapen",
+   "zorgfraude"
+  ],
+  "samenvatting": "Opinie: Zorgfraude is een meerkoppig monster dat je ook met verschillende wapens moet bestrijden de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVi1UMGpuOFVTZVdrbGJoQi1VWVp6dUNOVjJvNHFEVGFXS29sVzNkUlVaVWJKa2xjZW5RWjFiREJQUTBjcUh6bVhDXzU1Z2hBOS1LOXRlbURuenJYUl84RnliZDBacFZ6czl3Z01OQV9TZVg1LUJhTXY1N3BPTElrMjNEbmtfQU85MWoxMnlRaXRsNVFDUEpOYUZfSVZPUDZ4dGR6QU5NWkpUWGZ1REJ5WjlUYzZvUm16QlBXZDI2bXRMR1ZWMzIweG8wVUJtaklfcDZzUVVEeFNnRzBvS1JzeQ?oc=5"
  },
  {
   "id": "69de9f6400",
@@ -29879,6 +30330,27 @@
   "dossiers": [
    "Corruptie & integriteit"
   ]
+ },
+ {
+  "id": "ca1269656c",
+  "datum": "2021-04-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Verdachte aangehouden voor mensensmokkel en zorgfraude",
+  "bron": "Nederlandse Arbeidsinspectie",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "mensensmokkel",
+   "zorgfraude"
+  ],
+  "samenvatting": "Verdachte aangehouden voor mensensmokkel en zorgfraude Nederlandse Arbeidsinspectie",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkZXZ3FsclFxUEM4UTZHTExpTm5Qb0tnTjFWb0QtYWl6ZGFHN25QZE1yZXNHVXhublM2OFRMdTFZaFBSc3FiczNKVm9KajJ2c0V6d2FOZ1E4RkFTMkdHMEFROEdEVHNqS2EySm81ZjA1MHROV1BsdG1KekpZY09JTVljYlJiZURJY3B5Z2FMQU9ULWNMa3pieG1paklHdWRlQnNDNGZmZTRXT0tPV3BLN0p3ODU?oc=5"
  },
  {
   "id": "b8e7d22e0c",
@@ -30698,6 +31170,26 @@
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjRvdjR6NlRLdVgxckpLV0hlZ080ajRCVU84TFBGaHRMemF3TUk1cFdEcDhVQWE4NzBLU1ZCLXlUTGswSXlIWFcyaXpIeHc1bWR4M1QyRENGQk9MSXZKb2ROaW1TNWxMRjJCbGpNdVY4cy1VS2NqbHdHVUdEY0g5LVdKTU44Wmw2QjNDdU0zMEhTaHFXUV95a0dYR2MyVFBwTGV2YnVOak5RRnhWbWh0RElfLWtKWXM?oc=5"
  },
  {
+  "id": "fbfa455156",
+  "datum": "2020-04-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Taakstraffen voor echtpaar uit Uddel voor pgb-fraude",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "pgb",
+   "pgb-fraude"
+  ],
+  "samenvatting": "Taakstraffen voor echtpaar uit Uddel voor pgb-fraude De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMHJEcVR3SWp5RHo5SlNnckt2Y0QxMGdVUXRUZkZneUlFc3dFTkhxX24wZlJDNXlWVjU1YjZHQ0E3dXROR1ZxQ2FEMTROZ0I5a3RhTEQ3V2ktTU4zcU5zeDNHZVF3UTdQTVJzWFF1VXZWMy1hNjgxUl9UOVdsUmZhOXR5djJuaFBmNzRVTmtTeGNRVGthY3VNbXp1Q3pMdUhVLWR3ZjZtUnRMYWU2bEtxUllqcDgtSmJYdEtzZHVXTEVMTlFQOGtJRWFqempVV01oLUxzMWotZnVIdjJ6YnJIRU9ja3dxb0hvYk1JZzNtYWlOOXBW?oc=5"
+ },
+ {
   "id": "de3a92df6c",
   "datum": "2020-04-08",
   "tijd": "07:00",
@@ -30773,6 +31265,26 @@
   ],
   "samenvatting": "Deze twee mannen strijden tegen ondermijning in Oost-Nederland, maar wat is dat eigenlijk? de Stentor",
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOVJmYjliME1jaFJES3podmFvLXNCOW1YeDdFVDJkYWFRZWFaOHdvelJod29pendRVXJEOXVLNGZVN2dQVU1VcUc1bjYwY0lzYWZSMWJ4MjlQR3lTaFVLNzNVT3ZNUXJHTjBTUm5WM1NTUmlob2JGZS1hVlBILXVZUVVxczdjY2JOTll3Tm40Z194YmM4Z0M1RWZhQ0Q1LU4wejFEcGdBemlRWC05U3ZaaWsxdEdJUVJWdk8zVkYwNG82aUl6RWo4a1FR?oc=5"
+ },
+ {
+  "id": "5455aeb7eb",
+  "datum": "2020-03-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Utrechter veroordeeld voor PGB-fraude, dochter vrijgesproken",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "pgb",
+   "pgb-fraude"
+  ],
+  "samenvatting": "Utrechter veroordeeld voor PGB-fraude, dochter vrijgesproken De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcEdjZDhaQXJERGw4OV9keFRmS1RqSzRKNDl2ZWFFdXFUdWJRMWdOM2UtWmpLR2ZMNXFnRFZYaTJrZzdENE9Idk1lQlFEYy1qNnlNb1ViLS1ZdDV5elY4dmJRYVJfRlVTNTA0bGRnc0hReUQyQk9RY1pGek93WEd4ZmQ5TndUU1gwcXJwcjBURjJPTGF6TzBTeGo3cm5TZF9JTUEwbzVsS202aHVYenpmc2lNYUhSbHRkUXd6N1BsdmN3Z1RKUFE5bTkyaDFmSEh2XzFRUGZDREZBbXRMZFdFY05sWjJRWU1ZMUR4eTFwcUdtcGtXaDhLc0Z3ZTlIMlV1alpXV2R3?oc=5"
  },
  {
   "id": "5885d8c903",
@@ -31712,6 +32224,26 @@
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWHMzOHA2RWlLN2Q1M25JVU5KQjBpOE5YYTlZZ2RYNnpIOFYzVUJpQTBTRXdlZE9Cb3dCSXN3Ynk5Ti1YcVhtVVZza3lHZ1I1dHJoUkplN2ViRExibWZlTTFpbnNSLTZBSXF0aTJBeVZOTTRjcmNyQmZBSTNUbW84cUw4UkVWZDJpZFg3aG9IWQ?oc=5"
  },
  {
+  "id": "4656ef097f",
+  "datum": "2019-04-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "De eenzame strijd van een onbuigzame ambtenaar tegen corruptie in Zuid-Afrika",
+  "bron": "De Correspondent",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie"
+  ],
+  "samenvatting": "De eenzame strijd van een onbuigzame ambtenaar tegen corruptie in Zuid-Afrika De Correspondent",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVXdtNnQ4a1A4aXBoaFlZQkVwQVItTFAweTV3MWZqd2dfRjJrUVc0LTQyMkFfbEhJVVFFX244UmtpMXFldWFOX3N5UnRoZHpPMDFoWTgxSGlYVUtoc0JhVEdNTWZCdUt4aUZYUTMwb0UycG1rLTg0NHRyTGZMdS12d2FLbTlZSmFacll1SXRKRDI2Y2VPZFFFN0MwbkNlUnB1TnBhTWtjOVNaU0s4eVBmdk9yU1RFWXNsdHU0b1BXZm5UTjNzQTQ4cE9JNlZYNHNfNkpTUG9zR0ZWY21iWEYw?oc=5"
+ },
+ {
   "id": "0f370dbd71",
   "datum": "2019-03-21",
   "tijd": "07:00",
@@ -32453,6 +32985,45 @@
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXBHMW5VdXlxQlliUXNIZ3Vac1lEeGk5YkNyb1RpcGIzT2d4OHV0NV9JUXYwX1hMbHNoSE1ZMHU2Q2duNFdvWm1TTmY0MmNHbVRGZ3VHcFRfZlIzMHQ3RjNnS3lkNFpJVTFzeXoyUjFjS0dNdnAzTEpzRExIVTh0bURGREQwOG10R1MwdC1tOXhQOEdHY3pPMVJ6dlRYUXc?oc=5"
  },
  {
+  "id": "3410784fbf",
+  "datum": "2018-02-23",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Jaar cel voor corrupte ambtenaar die wagenpark Defensie beheerde",
+  "bron": "Accountant.nl",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corrupte ambtenaar"
+  ],
+  "samenvatting": "Jaar cel voor corrupte ambtenaar die wagenpark Defensie beheerde Accountant.nl",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1lDbndBR3pIVGw3SlZVY21oeDRPdGoweno3My1weW1fWVJpWUhWMW94VEd0cmJVZGNmbkYzUkdUbXNQQl96eTZEcDZ5VWNFQVBQckw1LXNYeVpMVzEyTGRPYW1pN1U3OUtRVXloZ25NV0NZWUxXMlJEVFdmZTlNVWhDQm41NWpCbnVfb0lWNUQ2YnZudXpfU0Rzdk85bWJoV0ZYcnJ2TDQ?oc=5"
+ },
+ {
+  "id": "08be7b21bf",
+  "datum": "2018-02-23",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Slotakkoord corruptiezaak: ambtenaar Defensie moet een jaar de cel in",
+  "bron": "Follow the Money",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie"
+  ],
+  "samenvatting": "Slotakkoord corruptiezaak: ambtenaar Defensie moet een jaar de cel in Follow the Money",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wVThDUVFGYTU5MHQzUTQxcXVaM0RUZVBXWWVkcUd3YWdwSEUwT0RxS0hENWdUQ1d1RUdybFpTUjJ6WEJQbElGVFM5d0JtVWtQNGhFWTlRcDBMM2pwNXppc1hYWTVXOTM4SmE2SGhreURuNk9hMXFCc3VpbFNEUQ?oc=5"
+ },
+ {
   "id": "0f9cdf2c18",
   "datum": "2018-02-14",
   "tijd": "08:00",
@@ -33010,6 +33581,25 @@
   ],
   "samenvatting": "Waarom zijn motorclubs als Hells Angels en Satudarah nog niet verboden? NU",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkp3STFSZFNHY1prQUpDN09WZzVfV3UyX2szMkRSSkZINFNPVGNMemRvOUtwbFc3RFI5eHR6UmRKZ2hDM29CMnBKb1RodW9zT3VtVzNqNXNGVlZ6N1d3aDVwR2dldHVEODIyT29rNkVnRnd4bzc2cHlrc01RaERkcXh2VHphOHltQ1JDaEp2TTBWUXBGUmNxRUNMN3g1NHFLbTZpZG5Ua2JiamdwdUE?oc=5"
+ },
+ {
+  "id": "6dd118c700",
+  "datum": "2016-02-25",
+  "tijd": "09:57",
+  "nieuw": false,
+  "titel": "Corruptie bij politie en defensie",
+  "bron": "Follow the Money",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie"
+  ],
+  "samenvatting": "Corruptie bij politie en defensie Follow the Money",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiTnU4ZlJDbkhJd1NFR09uOU9RZFBOMF9YQ0I3VktlVlJGZTJGaHdBVW5SOUJSQzc4X3Vzbl9iaVlYY0xTd2JvNzR0R0tXRUJjRnRDZlE2NzktZlVFVFJQb0NOT0M5QUpW?oc=5"
  },
  {
   "id": "07022d56be",
