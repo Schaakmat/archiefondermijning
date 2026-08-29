@@ -246,7 +246,7 @@
   "id": "0ab92d69c8",
   "datum": "2026-08-28",
   "tijd": "17:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Studenten ziek, ratten op de loer en koffie na brand: dit gebeurde vandaag",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -7638,6 +7638,26 @@
   ],
   "samenvatting": "Handhaver loopt openstaand pand binnen en ontdekt drugslab, maar foutje van agent kan grote gevolgen hebben De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNM3VvOERGMTlVWGdieDJHUG90cG13bElLNUg1MDdlUFNfbXNBeEdfbWxqcWRXXzF2VmhEdHVtZEh5M2FUcEpHejlSamc4eWhQcjJuU1ZNMmRjTElzLW9iNFZhdldUSVR6UDZKOXFmX2xWU3I4U3F2S3czWHU2Z1dQNmgwSlRrdGxDU2s0UGVIUmYxeUJFOGVGTTQ0VkVkQ1BCU1pKVV9vVlZ1U0IwVWdYd0IyLXdoVkd0czR1MVZIVnJkdUI3NGdPYW1QQklyR2pEaDAyNnM5VWNzb1pxdUlCUU5objZaLW8?oc=5"
+ },
+ {
+  "id": "6f376637d1",
+  "datum": "2026-07-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Illegale stroomaansluiting in de meterkast, politie zoekt verder en ontdekt hennepkwekerij",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Illegale stroomaansluiting in de meterkast, politie zoekt verder en ontdekt hennepkwekerij AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd3REcHB5QUhFQUl0OVEzMktNajZub3QxRmlIN3FPN3REN1B5d2d6bzZZa2I2QnZJM0ZjdHBBRWRURHM3SFdael9Gc3gtcEN5NWlUTGhLTHVXRHlVRHhDT3VoS2xoUExoSkFQa1FBcTNrQmJnWXcxTjQzVlN5ZlRlNlVDM3l1OUNjMjYzQ3VwLVpRQ0FfenAzS2lLSXVTZ20yX0ZMSUdmMld0ODFSVk00OG1VSjlmMEtGSW1La2RLZXJUVG1VOVNlbQ?oc=5"
  },
  {
   "id": "76647f81a9",

@@ -1,12 +1,12 @@
 {
- "run": "05:25",
+ "run": "06:25",
  "datum": "2026-08-29",
- "nieuw": 13,
- "totaal": 1717,
+ "nieuw": 12,
+ "totaal": 1718,
  "verwijderd": 11,
  "geweigerd": {
   "niet-nederlands": 1056,
-  "geen dossier": 513
+  "geen dossier": 506
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 72,
-   "status": "bij",
+   "items": 73,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -105,7 +105,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 43,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -420,7 +420,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 35,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
