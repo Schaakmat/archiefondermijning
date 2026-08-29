@@ -1,5 +1,24 @@
 [
  {
+  "id": "7c8c8fb4e2",
+  "datum": "2026-08-29",
+  "tijd": "07:05",
+  "nieuw": true,
+  "titel": "Botsende automobilist Tilburg reed ondanks ongeldig verklaard rijbewijs",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "De automobilist die vrijdagavond twee auto's ramde op de kruising van de Ringbaan Zuid met de Wethouder Baggermanlaan in Tilburg reed ondanks een ongeldig verklaard rijbewijs. Dat maakte de politie zaterdagochtend bekend. De politie vermoedt dat de 39-jarige Tilburger onder invloed was van drugs. De automobilist wilde ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025073/botsende-automobilist-tilburg-reed-ondanks-ongeldig-verklaard-rijbewijs"
+ },
+ {
   "id": "f39d15a382",
   "datum": "2026-08-29",
   "tijd": "06:32",
@@ -17,6 +36,25 @@
   ],
   "samenvatting": "Goedemorgen! De Nederlandse hockeysters spelen vandaag de WK-finale in eigen land. En in IJsland wordt een referendum gehouden over toetreding tot de Europese Unie. Eerst het weer: na een regenachtige nacht trekken vanmorgen de buien snel weg, waarna het een tijdje droog is. Later vanmiddag wordt de bewolking dikker en",
   "link": "https://nos.nl/l/2628730"
+ },
+ {
+  "id": "e91bc6f8c2",
+  "datum": "2026-08-29",
+  "tijd": "05:47",
+  "nieuw": true,
+  "titel": "A15 gedeeltelijk afgesloten door gekantelde vrachtwagen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "De A15 van Gorinchem richting Europoort is tussen knooppunt Ridderkerk-Noord en Rotterdam-Charlois afgesloten door een gekantelde vrachtwagen.",
+  "link": "https://www.rijnmond.nl/nieuws/2245853/a15-gedeeltelijk-afgesloten-door-gekantelde-vrachtwagen"
  },
  {
   "id": "f12e0c2b68",
@@ -206,7 +244,7 @@
   "id": "1456ba092f",
   "datum": "2026-08-28",
   "tijd": "17:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw krijgt alsnog celstraf voor ongeluk op snelweg: 'Dronken en druk aan het appen'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -225,7 +263,7 @@
   "id": "2f965e0679",
   "datum": "2026-08-28",
   "tijd": "17:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man uit Zwaag krijgt 32 maanden celstraf voor levensgevaarlijk drugslab in zijn woning",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -456,27 +494,6 @@
   ],
   "samenvatting": "Verdachte diefstal van cryptovaluta en witwassen aangehouden Politie.nl",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUthLXQ0Wm5veHRpWk1Wb0R2SVl5WC1WUnNLdTh1VUIzZWJBUHZpejhURGR5c3VjZS0zMzFqSDRpM1dUb09Yc290NXl0R2hIQlNta3dPMzRQR2liTTdJYms2TDYtb3FoZ2lPWEpaUm14YzRmdi1SQ3czVGNjMVI1aHdOLTlxc0pNdC10OXktZUg1cUhsNW9Fam5aQVg3UDhJMXJZeFFRSm1IRHJNek5OejJfMkdRUQ?oc=5"
- },
- {
-  "id": "12239e4f02",
-  "datum": "2026-08-28",
-  "tijd": "12:55",
-  "nieuw": false,
-  "titel": "Meeste bewoners na brand weer naar huis, aantal appartementen heeft schade",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "burgemeester",
-   "pand"
-  ],
-  "samenvatting": "De meeste bewoners van het ontruimde appartementencomplex in Valkenswaard kunnen vrijdagmiddag weer terug naar huis. Maar een aantal appartementen heeft dusdanig rook- en waterschade opgelopen dat het mogelijk langer gaat duren. Dat zegt de brandweer vrijdagmiddag. De brand heeft veel impact op bewoners van het complex",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025036/meeste-bewoners-na-brand-weer-naar-huis-aantal-appartementen-heeft-schade"
  },
  {
   "id": "dc0ee00374",
