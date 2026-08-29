@@ -1,12 +1,12 @@
 {
- "run": "04:25",
+ "run": "05:25",
  "datum": "2026-08-29",
  "nieuw": 13,
- "totaal": 1715,
+ "totaal": 1717,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1050,
-  "geen dossier": 509
+  "niet-nederlands": 1056,
+  "geen dossier": 513
  },
  "bronnen": [
   {
@@ -104,8 +104,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 42,
-   "status": "bij",
+   "items": 43,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -375,7 +375,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 14,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -419,8 +419,8 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 34,
-   "status": "bij",
+   "items": 35,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 22,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

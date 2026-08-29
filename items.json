@@ -1,5 +1,24 @@
 [
  {
+  "id": "f39d15a382",
+  "datum": "2026-08-29",
+  "tijd": "06:32",
+  "nieuw": true,
+  "titel": "Wekdienst 29/8: Hockeysters in WK-finale • IJslands referendum over toetreding tot EU",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "vaten"
+  ],
+  "samenvatting": "Goedemorgen! De Nederlandse hockeysters spelen vandaag de WK-finale in eigen land. En in IJsland wordt een referendum gehouden over toetreding tot de Europese Unie. Eerst het weer: na een regenachtige nacht trekken vanmorgen de buien snel weg, waarna het een tijdje droog is. Later vanmiddag wordt de bewolking dikker en",
+  "link": "https://nos.nl/l/2628730"
+ },
+ {
   "id": "f12e0c2b68",
   "datum": "2026-08-29",
   "tijd": "01:00",
@@ -256,7 +275,7 @@
   "id": "6cd2b61373",
   "datum": "2026-08-28",
   "tijd": "16:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Naakte vrouw rijdt door hek Eindhoven Airport: luchthaven doet onderzoek",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1008,28 +1027,6 @@
   ],
   "samenvatting": "Wekelijks rijden duizenden extra vrachtwagens over de wegen in Overijssel door de sluiting van het Twentekanaal en Kanaal Almelo-de Haandrik. Volgens de provincie gaat het om ongeveer 5000 vrachtwagens per week. Lange files leverde dat in de afgelopen weken nog niet op.",
   "link": "https://www.oost.nl/nieuws/3688960/door-sluiting-kanalen-rijden-wekelijks-5000-extra-vrachtwagens-op-overijsselse-wegen"
- },
- {
-  "id": "b2eba7aed0",
-  "datum": "2026-08-27",
-  "tijd": "14:24",
-  "nieuw": false,
-  "titel": "Eerste zitting mishandeling in Stadskanaal: 'Onderzoek een enorme klus'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jeugd",
-   "organisatie",
-   "school"
-  ],
-  "samenvatting": "De verdachten van de mishandeling van een meisje in Stadskanaal moeten voor onderzoek naar het Pieter Baan Centrum. Daar zal aan eind van het jaar worden gekeken hoe ze zich gedragen, met elkaar en los van elkaar. Dat werd duidelijk tijdens de eerste regiezitting van de zaak, waar beide verdachten niet op kwamen dagen.",
-  "link": "https://nos.nl/l/2628499"
  },
  {
   "id": "074117514a",
@@ -9005,6 +9002,26 @@
   ],
   "samenvatting": "Grond onder Trump-Kushner resort is focus van witwas­onderzoek drugsgeld Follow the Money - Platform voor onderzoeksjournalistiek",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX25MVlVieUdVcUVFRWdOdVJNRFMxOGpBajI2dHYxLWhqUkotNjZpalJPeE9vR0hZUU9vQkJkeThBZzBObUloS3ZsODFUQjA1cE9NdFVTUExfeHFVb0VDaUwwMHF3NXllUjdRNlJZcGhHQmlMbG55eEVHYWd0VWRDTGxwYUZaZDBRd2hLS2txYXdWY2cxM0xoZ2FCcXVDMGxEUUY4?oc=5"
+ },
+ {
+  "id": "cd098e9a4c",
+  "datum": "2026-06-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Aanhouding en inbeslagname bij vondst hennepkwekerij in Cruquius - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Aanhouding en inbeslagname bij vondst hennepkwekerij in Cruquius Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2dLT0xwSm1jOTNrWEY2djczdjNMb3JlWTNiTzJrNGtCU1VLelZiUC1kSGNjcFdrQ19QRTFiYXNLOWw5OXFKV01qY1N5WTlJei1NdjhtRk9VUFN3ZEVIZ001WHIxTWxCQ3dkM2dranpwWGxWYm5zMXVBQldJeDFaU0wyNnlneHR6bml0LWhzYVI2Yjh0ajRZOV94OU9NMktMZTFSaUI4b281MHVCcFRvX3JkbDVhZw?oc=5"
  },
  {
   "id": "df798bed53",
@@ -30343,6 +30360,25 @@
   ],
   "samenvatting": "Aanpak milieucriminaliteit is ontoereikend: ‘Totale keten niet op orde’ NOS",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmtaUmdFal9iN29DTjJJRGtoZURpTkZIa0pCdFZ5Z2lUalQ5cFIzRGZ2ajRiTmFoLWFYY2pFWnJneXVOZnVqOUhjSGozSW05TUVSQkJ5Y1pHV2FfdXdnMnlXcWxBaXlHRXl3ZHpQT1FnNW9PdmRZS2RMcTBKQzZpNUZBT0QzcWdtWWFKOE10UFA4OE1BV0h3NDU0M2Q3QUMteHVUekdTVjJaTzJSTVE?oc=5"
+ },
+ {
+  "id": "4376d8ff9f",
+  "datum": "2021-06-25",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Strengere regels voor bitcoin-automaten: ‘Criminelen zien een manier om geld wit te wassen’",
+  "bron": "De Standaard",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "bitcoin"
+  ],
+  "samenvatting": "Strengere regels voor bitcoin-automaten: ‘Criminelen zien een manier om geld wit te wassen’ De Standaard",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ0R0UDAzTHVwaVRRTGhzd3dLS3RkYndxbnNVQTdFWlZkcjRBOWk1aGdGUnAxbGxzT0pqLWJhbTU2OTNHcm8wRUlHUFlXUFJmUVZ4bXZfdkwyVV9oZTNzU2otYzRRQk9UemJLOFo5MzBUaFd2RnVRVFY5OE5NdkNXQzlkQ210WUZMRXZ0QnlJMUV4ZDU4bzZTZ3lWa0tuMlFuN04zb3ZPYUVGbmlBZXZ0bE9FT3AzZUozX1NoMG5LU0VjR1JJWS1lZzFEeE1zbzF6NWdRWQ?oc=5"
  },
  {
   "id": "9a4f63b089",
