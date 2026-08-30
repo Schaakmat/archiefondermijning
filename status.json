@@ -1,12 +1,12 @@
 {
- "run": "12:25",
+ "run": "13:26",
  "datum": "2026-08-30",
- "nieuw": 13,
- "totaal": 1870,
- "verwijderd": 11,
+ "nieuw": 11,
+ "totaal": 1871,
+ "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1051,
-  "geen dossier": 502
+  "niet-nederlands": 1026,
+  "geen dossier": 471
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 42,
-   "status": "bij",
+   "items": 43,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -429,7 +429,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 105,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 30,
-   "status": "3 nieuw",
+   "items": 29,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 28,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -510,8 +510,8 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 30,
-   "status": "bij",
-   "ok": true
+   "status": "fout: URLError",
+   "ok": false
   },
   {
    "naam": "1Limburg",
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 13,
-   "status": "bij",
+   "items": 14,
+   "status": "1 nieuw",
    "ok": true
   },
   {

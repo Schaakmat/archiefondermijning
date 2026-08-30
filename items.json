@@ -1,5 +1,45 @@
 [
  {
+  "id": "fbc767a75f",
+  "datum": "2026-08-30",
+  "tijd": "14:59",
+  "nieuw": true,
+  "titel": "Lelystad - Auto rijdt tegen vangrail Markerwaarddijk, bestuurder onder invloed",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Op de Markerwaarddijk (N307) is zondagmiddag een auto hard op een vangrail gebotst. Het ongeluk was 13.45 uur vlak bij de Houtribsluizen in Lelystad. De automobilist kwam uit de richting van Enkhuizen en kon de scherpe bocht naar rechts niet houden. De auto schoot door over de andere weghelft en kwam tegen de vangrail ",
+  "link": "https://www.omroepflevoland.nl/nieuws/521951/auto-rijdt-tegen-vangrail-markerwaarddijk-bestuurder-onder-invloed"
+ },
+ {
+  "id": "998d09e800",
+  "datum": "2026-08-30",
+  "tijd": "12:30",
+  "nieuw": true,
+  "titel": "Hij verhuurde alleen de loods, maar betaalt nu 55.000 euro voor de ravage van een megadrugslab in Nordhorn",
+  "bron": "Tubantia",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "loods"
+  ],
+  "samenvatting": "Hij verhuurde alleen de loods, maar betaalt nu 55.000 euro voor de ravage van een megadrugslab in Nordhorn Tubantia",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdEtiQW1TbmlZOVFRSFo1MVBVbjMyck9XZExzekNaejRqQTB5NGpIRHkxWE80VkYxSVFBWWNpaTRVZzByMWFiamJOUzlReFFUMVBZZGdaSGVMejU0a2ZNbG5sazAtdGd1S3FpeXVYWGRXbjQxT3RVd3FEZ0Qwck1nYm00NGpWa0lRTXRSTEpGMXp1NmMyalFUTXFsQlE5VS1vRi0xczgycVl6c1NnSC1NTS1qTDBTOURJOWFMeGYxbmtreXR4Z1JYSGJzNVl0OENyMkNQWFBwTXV5cElpR1ZZSEpCam0?oc=5"
+ },
+ {
   "id": "52840d72f8",
   "datum": "2026-08-30",
   "tijd": "10:50",
@@ -178,7 +218,7 @@
   "id": "4863f9381c",
   "datum": "2026-08-30",
   "tijd": "05:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bewoner thuis overvallen, twee mensen opgepakt",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -197,7 +237,7 @@
   "id": "0ca2481737",
   "datum": "2026-08-30",
   "tijd": "05:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Schade na explosie portiekwoning | Twee woningovervallers opgepakt",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -218,7 +258,7 @@
   "id": "bc1c758697",
   "datum": "2026-08-30",
   "tijd": "05:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "18 automobilisten aangehouden voor rijden onder invloed | Schade na explosie portiekwoning",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -239,7 +279,7 @@
   "id": "f821c10327",
   "datum": "2026-08-30",
   "tijd": "05:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestuurder onder invloed aangehouden na positieve drugstest",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -410,25 +450,6 @@
   ],
   "samenvatting": "Hoe AI aan het hacken sloeg Bij de hack vorige maand waarbij een losgebroken AI-programma van het bedrijf OpenAI per ongeluk inbrak bij een ander AI-bedrijf waren ruim 1200 AI-agents betrokken. OpenAI, het bedrijf achter ChatGPT wilde testen hoe goed de AI-agents - computerprogramma's die zelfstandig taken uitvoeren om",
   "link": "https://nos.nl/l/2628795"
- },
- {
-  "id": "c8a0937105",
-  "datum": "2026-08-29",
-  "tijd": "13:22",
-  "nieuw": false,
-  "titel": "Man (39) neergestoken na botsing in Grave, dader op de vlucht",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Bij een steekpartij op de Trompetterstraat in Grave is zaterdagmiddag een 39-jarige man gewond geraakt. De steekpartij vond plaats na een ongeluk. De politie is op zoek naar een man, hij is gevlucht. Het slachtoffer reed rond kwart voor drie 's middags met zijn auto achterop een andere auto die voor een verkeerslicht s",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025085/man-39-neergestoken-na-botsing-in-grave-dader-op-de-vlucht"
  },
  {
   "id": "f77303aeb9",
