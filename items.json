@@ -116,6 +116,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6025138/dode-man-gevonden-in-huis-in-geldrop-politie-houdt-alle-scenarios-open"
  },
  {
+  "id": "720cb40fa7",
+  "datum": "2026-08-30",
+  "tijd": "17:08",
+  "nieuw": true,
+  "titel": "Dode man gevonden in huis in Geldrop, geen sprake van misdrijf",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De politie heeft zondagavond een dode man gevonden in een woning aan de Sluisstraat in Geldrop. Een forensisch team deed vervolgens onderzoek naar zijn overlijden. Daaruit bleek zondagavond dat er geen sprake was van een misdrijf. De melding kwam vlak na zeven uur binnen. In de woning werd uitgebreid onderzoek gedaan n",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025138/dode-man-gevonden-in-huis-in-geldrop-geen-sprake-van-misdrijf"
+ },
+ {
   "id": "e9d4c55546",
   "datum": "2026-08-30",
   "tijd": "16:32",
@@ -197,7 +216,7 @@
   "id": "998d09e800",
   "datum": "2026-08-30",
   "tijd": "12:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hij verhuurde alleen de loods, maar betaalt nu 55.000 euro voor de ravage van een megadrugslab in Nordhorn",
   "bron": "Tubantia",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -218,7 +237,7 @@
   "id": "52840d72f8",
   "datum": "2026-08-30",
   "tijd": "10:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Steekpartij bij station Amsterdam Centraal werd gelivestreamd op sociale media",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -237,7 +256,7 @@
   "id": "011e9cb72c",
   "datum": "2026-08-30",
   "tijd": "10:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Achttien automobilisten bekeurd voor rijden onder invloed na Zomerfeest Gorinchem",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -256,7 +275,7 @@
   "id": "85dfb95d90",
   "datum": "2026-08-30",
   "tijd": "10:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Achtergelaten fietser overleden, buurvrouw probeerde met wc-rol te helpen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -275,7 +294,7 @@
   "id": "9e8600a473",
   "datum": "2026-08-30",
   "tijd": "08:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Binnen een dag twee explosies en een poging daartoe bij woning Osdorp, jongen (16) aangehouden - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -296,7 +315,7 @@
   "id": "4a3faf1063",
   "datum": "2026-08-30",
   "tijd": "08:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Fietser (82) doodgereden in Oss, auto uitgebrand teruggevonden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -315,7 +334,7 @@
   "id": "1d0ac989d8",
   "datum": "2026-08-30",
   "tijd": "08:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ravage na ongeluk in Oosterhout, automobilist aangehouden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -468,25 +487,6 @@
   ],
   "samenvatting": "Op de kruising van de Harderwijkerweg met de Geitenbergweg in Dieren heeft in de nacht van zaterdag op zondag een aanrijding plaatsgevonden tussen een auto en een scooter.",
   "link": "https://www.gld.nl/nieuws/8515367/bestuurder-onder-invloed-aangehouden-na-positieve-drugstest"
- },
- {
-  "id": "a3ee1f0edc",
-  "datum": "2026-08-30",
-  "tijd": "03:59",
-  "nieuw": false,
-  "titel": "Auto slaat over de kop op A50 bij Sint-Oedenrode, bestuurder viel in slaap",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Een auto is zaterdagnacht over de kop geslagen op de A50 van Oss richting Eindhoven, vlakbij Sint-Oedenrode. Dit gebeurde net voorbij de oprit. De bestuurder zou achter het stuur in slaap zijn gevallen. De auto raakte de vangrail en sloeg daarna om. De bestuurder werd nagekeken in een ambulance, maar hoefde niet naar e",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025099/auto-slaat-over-de-kop-op-a50-bij-sint-oedenrode-bestuurder-viel-in-slaap"
  },
  {
   "id": "8431aa9b0f",
@@ -22437,6 +22437,25 @@
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZTTWNSNk9xSWo0OF9tcnpxTjBOQXhtTC1zTXAwTGFkdVFUdlNJRmxmQ1BSRmZmV01iVW5WeVpQMldINUszSlVQQmtMMFVWazI1X0VYdFMzQ01ZN3c5a2JZTkNWOTJQLW5Lci1URkl4MnVCclVpZWcxdlNCWVFfdUZfd1Rha1hLS2FfQ0JXdEVoY3lfWHdlbUdCajNfZ24wYndaOVhqRFpBTkRuT0JnWThMM2Zxa0k?oc=5"
  },
  {
+  "id": "bfad799a9b",
+  "datum": "2025-06-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Man cel in voor drugsbezit en witwassen",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Man cel in voor drugsbezit en witwassen De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbW9oMDFHdTVJUXgzNTBqQ2RuM0UteVk4aWlSOXVFemRHLXBDZmUzM3JaZFh6NDBzcjczWUFyUE9USk9Qb1Nld0ZVY1RBNVJrOWx1V0hjbzc5WEJSYU5RcnhXMHJxNDVMczhucUxJMVk3dE5hTnVoTFNQby1LZ0dqTS1qQ2FKSHpNaXFLaV9adVF1YUZ2WTdvMmR0T2pHN2ZZcVdmdnowa2ZBS1kzT1E5Uk80R2NiU3MtbGROdUNPRmtkUG9yRS1oRFhDeXZJSU9vUkhTUEZVYjd3RlJOVHZoM0hIbw?oc=5"
+ },
+ {
   "id": "01907aba70",
   "datum": "2025-06-18",
   "tijd": "07:00",
@@ -33252,6 +33271,27 @@
   ],
   "samenvatting": "Politie Flevoland zoekt boeren op bij strijd tegen ondermijning Nieuwe Oogst",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRkRrc1ZzSlJrRlMxTFExRFpXOVFlbUdpNnc2TzdRRTkwcENUdHVKeFphaGQ0dTdrcHgyYXNlMWpvdm5pTmkwWUJza1RhbXp1VmJrRVo4dG5MTXlwNnlOTl91MUhrOUE2QTlBclU5NzZmRzNHWnVwSTVMMjI3cXpoRS1RRjlmNXVobnd5NXdxeTF0WUZQcTdLZV9DazBYMjRnM201Q0l6OGJ6RU9t?oc=5"
+ },
+ {
+  "id": "4553e86029",
+  "datum": "2021-06-01",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Celstraffen tot tien jaar geëist tegen wapenbende die vanuit kringloopwinkel opereerde",
+  "bron": "RTV Drenthe",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bende",
+   "wapen"
+  ],
+  "samenvatting": "Celstraffen tot tien jaar geëist tegen wapenbende die vanuit kringloopwinkel opereerde RTV Drenthe",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUlJLMVVkYVhuZ2dMN1Y4eW5DcVJKaHUyZHh2MVhYSDJxVUtOSVlGUU1nTV9vVGN2cXkzWUI5WFhnR3UyZFFLQmVaR2c2a0FIS0xLYjNCNEY4NC1HblBrblMzN05aYzgyTTI3QUFxWDNDc01zNG1DRDlPVEtwVGtNZWR5aVFVOTNWMU1mbE1nRnJWVnZDT2FjeVdDZWJoN1JfbHJoSjRya3R5ZWwwZ0d6MXZBOG9RdFd5OFR3Z3RRYjV0M3cwOGVv?oc=5"
  },
  {
   "id": "4fc4eab19f",

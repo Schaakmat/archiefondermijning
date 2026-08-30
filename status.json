@@ -1,12 +1,12 @@
 {
- "run": "19:25",
+ "run": "20:25",
  "datum": "2026-08-30",
- "nieuw": 17,
- "totaal": 1887,
- "verwijderd": 8,
+ "nieuw": 11,
+ "totaal": 1889,
+ "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 1010,
-  "geen dossier": 511
+  "niet-nederlands": 1023,
+  "geen dossier": 520
  },
  "bronnen": [
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 84,
-   "status": "bij",
+   "items": 85,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 52,
-   "status": "bij",
+   "items": 53,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -339,7 +339,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 20,
-   "status": "6 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -393,7 +393,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 11,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 31,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
