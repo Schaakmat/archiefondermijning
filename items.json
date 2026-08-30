@@ -1,5 +1,24 @@
 [
  {
+  "id": "8431aa9b0f",
+  "datum": "2026-08-30",
+  "tijd": "00:09",
+  "nieuw": true,
+  "titel": "Drie doden bij botsing tussen twee auto's op dijk tussen Lelystad en Enkhuizen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Bij een verkeersongeluk op de dijk Lelystad-Enkhuizen zijn gisteravond drie doden gevallen. De politie zegt dat drie auto's betrokken waren en dat twee auto's op elkaar zijn gebotst. Het ongeval gebeurde rond 22.50 uur. In de auto's zaten in totaal acht personen. Vijf van hen raakten licht tot zwaar gewond. Een van de ",
+  "link": "https://nos.nl/l/2628868"
+ },
+ {
   "id": "163b0c856d",
   "datum": "2026-08-29",
   "tijd": "17:34",
@@ -178,6 +197,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6025082/politie-maakt-zich-zorgen-over-dit-bijzondere-bordje-aan-een-boom-in-empel"
  },
  {
+  "id": "4a6003d47d",
+  "datum": "2026-08-29",
+  "tijd": "11:21",
+  "nieuw": true,
+  "titel": "Hilversumse verdacht van witwassen drugsgeld. ’Mevrouw stelde geen vragen en maakte het zich gemakkelijk’",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Hilversumse verdacht van witwassen drugsgeld. ’Mevrouw stelde geen vragen en maakte het zich gemakkelijk’ Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWUFKUmdaVGxQeWREQnY2YVI4dE8xWGhucEhPYUdxTUVtVmFua2NQalFfSXUwMEcxU0ViczdGa3U0NEtMYVZWZWRBY21nV00xd1ZWNUc5LVoxU0psQ3ZpOXNrNlpJRjVVN0hsN19ZRDBNLXFtZFpmbEpmSHNQNENOQWNxMmFfWHBMTkkzcFlCQ0Uybi1fM29ZXzZ5Uld5c1F2REpFdlU5LUswRlh5UHRadTczeFdnZkt0STlXQ3ZZY25ZZEw0cHlZSFc3UUM4ei11UWQxRGE2NW5IR0xoNFlkU0tBUVhmendaZlhZcENtdm5zTGo2MVRqMQ?oc=5"
+ },
+ {
   "id": "20d76f3041",
   "datum": "2026-08-29",
   "tijd": "11:15",
@@ -238,7 +276,7 @@
   "id": "93088b2b30",
   "datum": "2026-08-29",
   "tijd": "08:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "112 Nieuws: brand bij restaurant in Zwolle | Politie onderzoekt woningoverval in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -257,7 +295,7 @@
   "id": "67d062c63f",
   "datum": "2026-08-29",
   "tijd": "07:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man die vluchtte voor politie en auto's ramde, had geen geldig rijbewijs",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -276,7 +314,7 @@
   "id": "f39d15a382",
   "datum": "2026-08-29",
   "tijd": "06:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wekdienst 29/8: Hockeysters in WK-finale • IJslands referendum over toetreding tot EU",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -295,7 +333,7 @@
   "id": "e91bc6f8c2",
   "datum": "2026-08-29",
   "tijd": "05:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "A15 gedeeltelijk afgesloten door gekantelde vrachtwagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -834,25 +872,6 @@
   ],
   "samenvatting": "Op meerdere locaties in Breda en Sint-Willebrord zijn deze week illegale medicijnen, verdovende middelen, vuurwerk en wapens gevonden. Vier verdachten zijn aangehouden voor de overtreding van de geneesmiddelenwet en de Opiumwet. De politie had informatie dat er mogelijk illegaal gehandeld werd in medicijnen. Afgelopen ",
   "link": "https://www.omroepbrabant.nl/nieuws/6025024/illegale-medicijnen-vuurwerk-en-wapens-gevonden-vier-verdachten-opgepakt"
- },
- {
-  "id": "648b3bd22b",
-  "datum": "2026-08-28",
-  "tijd": "09:26",
-  "nieuw": false,
-  "titel": "'Veel steden doen te weinig tegen te dure studentenkamers'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "pand"
-  ],
-  "samenvatting": "Veel steden doen weinig tegen te hoge huurprijzen van studentenkamers. Dat blijkt uit onderzoek van Argos . Gemeenten moeten volgens de wet actief optreden tegen verhuurders die meer vragen dan de wettelijke huurprijs. Maar in veel steden gebeurt dat niet, concludeert het onderzoeksprogramma. De gemeenten Utrecht en Ni",
-  "link": "https://nos.nl/l/2628611"
  },
  {
   "id": "62c7275040",
@@ -4092,6 +4111,27 @@
   "dossiers": [
    "Drugsproductie & labs"
   ]
+ },
+ {
+  "id": "c5af7bfbfa",
+  "datum": "2026-08-24",
+  "tijd": "09:31",
+  "nieuw": false,
+  "titel": "Drugslab gevonden in buitengebied Bergen op Zoom",
+  "bron": "Bloemen- en plantennieuws",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "buitengebied",
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab gevonden in buitengebied Bergen op Zoom Bloemen- en plantennieuws",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX2JZRGEtdVRxYWI5VWl5OG5qSTVTeGNYX0xTM2lCNU1mMHRkOGxsWlJra25Ncm14SXZRdnMza0xQVlUyZ0Y5UVNva1dBRFJ1MF9EVXlKZGRKdnZzRUVlYXhEWjVsWTdJUGltRUs1X0duVmJjUjBibXVZVzBVY0xkTDMwU3FQNmV4ZkQzcW1ub0Y3enM?oc=5"
  },
  {
   "id": "cdc5eeccf0",
@@ -24836,6 +24876,25 @@
   "dossiers": [
    "Drugsproductie & labs"
   ]
+ },
+ {
+  "id": "e46d1df70f",
+  "datum": "2024-09-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politieactie in Almelo tegen ondermijning, invallen op meerdere plekken",
+  "bron": "RTV Oost",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Politieactie in Almelo tegen ondermijning, invallen op meerdere plekken RTV Oost",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTDZFTGhjYzFsUFFFb214bWFQRm9vZWNDakxUM094dWRfdzJ5U0dDYVNjOENLeWxjVEllTm5McFN1YnNmRnpJUmNSYkxOV3QxbG1nU182TlhsWWVmanJFOEFWSUdkcFA0cUJrSmh3UlhIUGg4Tng4elRIMnMzT3d1akJkRmFjWURmZGpXcjBDSDJ0R2RtTi1OT2ZxWFJBbEpkcXpmcU1tWEo?oc=5"
  },
  {
   "id": "45497dd4d2",
