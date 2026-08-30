@@ -1,12 +1,12 @@
 {
- "run": "16:24",
+ "run": "17:25",
  "datum": "2026-08-30",
- "nieuw": 13,
- "totaal": 1874,
+ "nieuw": 15,
+ "totaal": 1878,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1034,
-  "geen dossier": 500
+  "niet-nederlands": 1035,
+  "geen dossier": 518
  },
  "bronnen": [
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 87,
-   "status": "bij",
+   "items": 88,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 51,
-   "status": "bij",
+   "items": 52,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 91,
-   "status": "bij",
+   "items": 92,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -456,7 +456,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 27,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 30,
-   "status": "3 nieuw",
+   "items": 31,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 7,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
