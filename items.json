@@ -238,7 +238,7 @@
   "id": "bccf726ad2",
   "datum": "2026-08-29",
   "tijd": "09:24",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Hilversumse verdacht van witwassen drugsgeld. ’Mevrouw stelde geen vragen en maakte het zich gemakkelijk’",
   "bron": "De Gooi- en Eemlander",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -257,7 +257,7 @@
   "id": "98c1066dd4",
   "datum": "2026-08-29",
   "tijd": "08:52",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "112 Nieuws: politie onderzoekt woningoverval in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -18717,6 +18717,27 @@
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSS1JeV8yWVJ5ajZMMEJIX3YtS0FzNjQxMkhKSDUyN3VXWURvZHY5VGcwX2VGNUUwTmwwN091ODZYQkJxR3UxOG1FTmEtOFNZN3lOcXFrOHpXLVNGVldaM05TSDJUZGlqNWhRazZDbjdSUVNyYnV5V01EYmxGWEtva0FpNUlfclhOMlBWdDZfclVnd1R3ZmtienFzU3dGbXBJQzY3Vk1VYjlBSlRM?oc=5"
  },
  {
+  "id": "fde315c003",
+  "datum": "2025-11-19",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Twintig jaar cel geëist tegen verdachte van gruwelijke mensensmokkel vanuit Libië. ‘Hij toonde geen enkel respect voor menselijk leven’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "mensensmokkel"
+  ],
+  "samenvatting": "Twintig jaar cel geëist tegen verdachte van gruwelijke mensensmokkel vanuit Libië. ‘Hij toonde geen enkel respect voor menselijk leven’ NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUGVyemJ4UlBaeEpkRUFKX3ZHcUhKdldCSjRJNGZRWHRUZWEwb25FXzJ3eUZXMW12S2hMWERYTkdUdlFkUW1rdzlLR3FjVDFmLW50SlVwLVhDRzBBOGs5dExQTWp6c0VGcklPTTRCeS1KdFUxbldYeVl4Ni1NUWQzbi1jNF8zUXNjY2FxRi1qTFUyUVpYdlZfeXdlektfaVBaalJQTkNINWZ6RWVCZFlRMkV6bGcteF81UkhhVW81SkJsLVl2QlNFTk9fTHdGT0pXMDVjajV5a0k1dEFQeTdYY19XejVTNkM5c3dIdlNNMHh0S3RMaUlEZ1VlS3ZISHhPNkJPRF8wVkQ?oc=5"
+ },
+ {
   "id": "9c807b4335",
   "datum": "2025-11-18",
   "tijd": "08:00",
@@ -21464,6 +21485,27 @@
   ],
   "samenvatting": "180.000 euro en crypto aangetroffen na inval in Lombok, eigenaar verdacht van witwassen AD.nl",
   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS2xpODRaS1ZFaXJKZ0ZHZF9yY3pRWElZZFh1OWxCb20tY1A4ODZGX0dOdUZmbC1mWTc4WXlTcGxqX2Z4UDBFbnRhYXZuQkpPbHJPczFWS2JON2lKYTVjakJPeUlDR3JYOTRXcTNWc3FOdlctR1puZ0R3cWxMTXZBQjBBNGJmelpocXpzX1BwQmlabHR5S29WS2lUc25MdUY5ekVWNTV6MTFUS3AzOGEzaWZobGNIcTI1UmxSRTZHWDNnSDNUcEhRWmFIRW16U0NjcTJoVG9SSQ?oc=5"
+ },
+ {
+  "id": "c1f9811251",
+  "datum": "2025-07-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "180.000 euro en crypto aangetroffen na inval in Lombok, eigenaar verdacht van witwassen",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "witwassen"
+  ],
+  "samenvatting": "180.000 euro en crypto aangetroffen na inval in Lombok, eigenaar verdacht van witwassen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYWZaNVZtcFIyckxfTEhRUy1IdkxGSnR3TkptQUxfUkdNNVRvRF9RclZSbnhtZTBzVUotUkpGSUk1VWhZRl9sYThUUU1QUmxERDlrSmdJaF94LWNrcGNnV0laREowemIxYTJ1SkNDdFB2ZnBJUmd2c3IteTF1Mk5JMF9mSklXUlA0MElIN1A1UWJ6bElwZ3JxeHlaMUYtQ1gzUEx0a1dlc3VQRkRvQWlnb2NRczFPaEozZDhzQ3VlSQ?oc=5"
  },
  {
   "id": "c257627a6c",
@@ -27488,6 +27530,25 @@
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHlSNExIV0REWDhDaFQ3ajBqTGZXcGxsTGJ4eVVIVEZDUkhhUnl1M0NucUpaa0VUelBhSU5KZjR0c291RWc3QXpKRC14WnhEM0Z0ZktZN0tsa0ZyS2tncncyTGtaQ1E1VWJSWTV0M2hkdzFDd1Z3V1hmeVZfWVhiMmd6a1AyUUF3VXNVQzR1aDVObjJmTGl0VzhNMklzWV9qUjVHV2NyX2MwLUdfMnRwdWVhSE9NT2N6NVh2a0hsS0lQWk5yN0E?oc=5"
  },
  {
+  "id": "f00fc08545",
+  "datum": "2023-12-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Steenrijke Nederlandse cryptobaron (51) opgepakt in Colombia, werd over hele wereld gezocht",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "crypto"
+  ],
+  "samenvatting": "Steenrijke Nederlandse cryptobaron (51) opgepakt in Colombia, werd over hele wereld gezocht De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFJaemtqeVhWaTE4ZGV2VERXRHU5c3lqR1hEYnpjZXdYUVZ5TW9UVUZtcmxBdWdibk5XeUFHbEk3Q01iRWwxUEJiOHFycTZnbGtYb0Flc2UzRnNZOTVJSUdoZ1h0OTNGTTExelZuUGx4Z3A5QS02cXc0MWIwR29UN2g4dnhITWhkUFZyRE1RM0dUU2ZXOWdQaG1LcmJJZkRpRWY4TFNvd185cHhVbDQ1dmVwVmRBa0dvbWdRaXFZVTc5ZnkwSlZZdzhncW12TjdwYlJv?oc=5"
+ },
+ {
   "id": "00ef786db4",
   "datum": "2023-12-18",
   "tijd": "08:00",
@@ -32780,6 +32841,23 @@
   ],
   "samenvatting": "Haagse ambtenaar ontslagen op verdenking van miljoenenfraude RTL.nl",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWVzNzdlcnIyaUlHZGpzREFkYkZINFBtWmlVNG04Y3J1alU3Tmd1VFJiV3lkc3FxMHNrVGF1SW81QW5NOURvMjRadHh4bS1ZWWVPbWR6ZC0wN0VDMmZtWkt6cm1Ta0h5SkxYM0RRRC1PZXM2M2o4eDlFX3hUVEZRc0FleUVVMnBjdWZYRURUNGhqVnZMeXFLcXhNckd2SGFfUERJ?oc=5"
+ },
+ {
+  "id": "59672d0bbb",
+  "datum": "2020-06-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Project Straatwaarde(n): met een persoonlijke aanpak de aanwas van jonge criminelen voorkomen - Rijksoverheid.nl",
+  "bron": "Rijksoverheid",
+  "verzameld_via": "Rijksoverheid",
+  "soort": "Kamerbrief",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Project Straatwaarde(n): met een persoonlijke aanpak de aanwas van jonge criminelen voorkomen Rijksoverheid.nl",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWnZOV2ZpSEhOWHZ1OWxqNEEtNHJZR2l0ZGdOcG45dm1INkQzM2h5eTlvczlSRk4wMjk5dkV3NlZMN01HZzJOQzlvVzhKaTM1SzZzN2dzZmtxMjhjeHlZdU54Wjk1ZHhpajM3S3BTdUtOZWE3NHhXSGFSdFdVV09MamNvSDV0WEx4T0hOMzRfQmx2Q0JGWEI3d0dLZndBcE0wRjVRWVVWWmpJOHBZVEVRNlk2LThUVU9VZDdDRkRTRENrVzcwUExXdHZrLXJwTTFNNlY0OXVUNEd5Z3NfM3lQMjB3?oc=5"
  },
  {
   "id": "d4792b2027",

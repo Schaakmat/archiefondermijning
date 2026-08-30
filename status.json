@@ -1,12 +1,12 @@
 {
- "run": "02:25",
+ "run": "03:25",
  "datum": "2026-08-30",
- "nieuw": 12,
- "totaal": 1801,
- "verwijderd": 11,
+ "nieuw": 14,
+ "totaal": 1805,
+ "verwijderd": 10,
  "geweigerd": {
   "niet-nederlands": 1040,
-  "geen dossier": 514
+  "geen dossier": 510
  },
  "bronnen": [
   {
@@ -104,8 +104,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 43,
-   "status": "bij",
+   "items": 45,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 50,
-   "status": "bij",
+   "items": 51,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 35,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -410,8 +410,8 @@
    "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 30,
-   "status": "bij",
+   "items": 31,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -573,7 +573,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 22,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   }
  ]
