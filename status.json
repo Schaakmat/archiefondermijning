@@ -1,12 +1,12 @@
 {
- "run": "01:25",
+ "run": "02:25",
  "datum": "2026-08-30",
- "nieuw": 36,
- "totaal": 1800,
+ "nieuw": 12,
+ "totaal": 1801,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1023,
-  "geen dossier": 505
+  "niet-nederlands": 1040,
+  "geen dossier": 514
  },
  "bronnen": [
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 58,
-   "status": "24 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -266,8 +266,8 @@
    "url": "news.google.com/rss/search?q=liquidatie%20criminele%20milieu%20OR%20moor",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 34,
-   "status": "bij",
+   "items": 35,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -393,7 +393,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 10,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 13,
-   "status": "8 nieuw",
+   "items": 12,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -572,8 +572,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 21,
-   "status": "bij",
+   "items": 22,
+   "status": "1 nieuw",
    "ok": true
   }
  ]
