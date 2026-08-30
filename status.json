@@ -1,12 +1,12 @@
 {
- "run": "08:25",
+ "run": "09:25",
  "datum": "2026-08-30",
- "nieuw": 35,
- "totaal": 1863,
+ "nieuw": 13,
+ "totaal": 1866,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1034,
-  "geen dossier": 514
+  "niet-nederlands": 1009,
+  "geen dossier": 499
  },
  "bronnen": [
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 84,
-   "status": "24 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 12,
-   "status": "6 nieuw",
+   "items": 13,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -491,7 +491,7 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 29,
+   "items": 30,
    "status": "5 nieuw",
    "ok": true
   },
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 38,
-   "status": "bij",
+   "items": 39,
+   "status": "1 nieuw",
    "ok": true
   },
   {
