@@ -1,12 +1,12 @@
 {
- "run": "20:25",
+ "run": "21:25",
  "datum": "2026-08-30",
- "nieuw": 11,
- "totaal": 1889,
- "verwijderd": 9,
+ "nieuw": 13,
+ "totaal": 1894,
+ "verwijderd": 8,
  "geweigerd": {
-  "niet-nederlands": 1023,
-  "geen dossier": 520
+  "niet-nederlands": 1037,
+  "geen dossier": 518
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 44,
-   "status": "bij",
+   "items": 45,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 91,
-   "status": "bij",
+   "items": 92,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 85,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -249,7 +249,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 53,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -284,8 +284,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 25,
-   "status": "bij",
+   "items": 26,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 31,
-   "status": "3 nieuw",
+   "items": 33,
+   "status": "4 nieuw",
    "ok": true
   },
   {
