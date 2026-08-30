@@ -1,11 +1,11 @@
 {
- "run": "17:25",
+ "run": "18:25",
  "datum": "2026-08-30",
- "nieuw": 15,
+ "nieuw": 10,
  "totaal": 1878,
- "verwijderd": 11,
+ "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1035,
+  "niet-nederlands": 1038,
   "geen dossier": 518
  },
  "bronnen": [
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 43,
-   "status": "bij",
+   "items": 44,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 88,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 52,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 92,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 13,
-   "status": "7 nieuw",
+   "items": 12,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 31,
-   "status": "4 nieuw",
+   "status": "3 nieuw",
    "ok": true
   },
   {

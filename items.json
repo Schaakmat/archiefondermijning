@@ -10,14 +10,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
    "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "arbeidsmigranten",
-   "burgemeester",
-   "malafide uitzendbureau",
-   "uitzendbureau"
+   "burgemeester"
   ],
   "samenvatting": "In de vier grootste steden - Amsterdam, Rotterdam, Den Haag en Utrecht - neemt de overlast door drugsgebruik toe en groeit het aantal daklozen. De Amsterdamse burgemeester Femke Halsema luidt de noodklok: volgens haar komt de leefbaarheid in steden steeds verder onder druk te staan. Dat zei Halsema vandaag in het tv-pr",
   "link": "https://nos.nl/l/2628973"
@@ -38,8 +34,27 @@
   "tags": [
    "bestuurder"
   ],
-  "samenvatting": "Op een provinciale weg in de buurt van Dokkum zijn een motorrijder en een lijnbus op elkaar gebotst. De bestuurder van de motor is ter plaatse overleden aan zijn verwondingen. De bus is na het ongeluk in de naastgelegen rivier beland. De buschauffeur raakte lichtgewond en is door ambulancepersoneel nagekeken. Een woord",
+  "samenvatting": "Op een provinciale weg in de buurt van Dokkum zijn een motorrijder en een lijnbus op elkaar gebotst. De bestuurder van de motor is ter plaatse overleden aan zijn verwondingen. De bus is na het ongeluk in de naastgelegen rivier beland. De weg is afgesloten, hulpdiensten rukten met veel materieel uit: De buschauffeur raa",
   "link": "https://nos.nl/l/2628972"
+ },
+ {
+  "id": "b6cdc25717",
+  "datum": "2026-08-30",
+  "tijd": "18:06",
+  "nieuw": true,
+  "titel": "Nederlanders met drugslab vallen door de mand na ’ontvoering’ met jutezak: buurvrouw belt politie",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Nederlanders met drugslab vallen door de mand na ’ontvoering’ met jutezak: buurvrouw belt politie De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDF3ckVUWE8taWd5dGg1QjlXY2VIM004X1FmaUlYVExVQ2pBTi1YQUxNcS12eFNYTVFRUl9kcVhEdjk4ZFRIWG5DRWdCcXNpdkZuWjVmbmtWMER2Qk5rcEVwRGdkN3pTZ3p4ODB2OGdmV213Q09abkdOSDVLc3JyMTZqNld4YTFGc1pzMW83czFxSUZmNFJROThHU0d6a2hFSzJKVnZkNWI1YjVlNzAtdzZ3Q1RsMDRmbm1GT284Sm4tU1NJYmVheC16bWRseFlBTEVhSkpnUkFnRzlvOUE?oc=5"
  },
  {
   "id": "e58c2c68b6",
@@ -182,7 +197,7 @@
   "id": "011e9cb72c",
   "datum": "2026-08-30",
   "tijd": "10:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Achttien automobilisten bekeurd voor rijden onder invloed na Zomerfeest Gorinchem",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -201,7 +216,7 @@
   "id": "85dfb95d90",
   "datum": "2026-08-30",
   "tijd": "10:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Achtergelaten fietser overleden, buurvrouw probeerde met wc-rol te helpen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -220,7 +235,7 @@
   "id": "9e8600a473",
   "datum": "2026-08-30",
   "tijd": "08:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Binnen een dag twee explosies en een poging daartoe bij woning Osdorp, jongen (16) aangehouden - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -241,7 +256,7 @@
   "id": "4a3faf1063",
   "datum": "2026-08-30",
   "tijd": "08:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Fietser (82) doodgereden in Oss, auto uitgebrand teruggevonden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -260,7 +275,7 @@
   "id": "1d0ac989d8",
   "datum": "2026-08-30",
   "tijd": "08:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ravage na ongeluk in Oosterhout, automobilist aangehouden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -279,7 +294,7 @@
   "id": "bcdb5c4c5c",
   "datum": "2026-08-30",
   "tijd": "08:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ravage na botsing in Oosterhout, automobilist aangehouden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -705,25 +720,6 @@
   ],
   "samenvatting": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van zaterdag 29 augustus.",
   "link": "https://www.oost.nl/nieuws/3689534/112-nieuws-brand-bij-restaurant-in-zwolle-politie-onderzoekt-woningoverval-in-hengelo"
- },
- {
-  "id": "f39d15a382",
-  "datum": "2026-08-29",
-  "tijd": "06:32",
-  "nieuw": false,
-  "titel": "Wekdienst 29/8: Hockeysters in WK-finale • IJslands referendum over toetreding tot EU",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Drugsproductie & labs"
-  ],
-  "tags": [
-   "vaten"
-  ],
-  "samenvatting": "Goedemorgen! De Nederlandse hockeysters spelen vandaag de WK-finale in eigen land. En in IJsland wordt een referendum gehouden over toetreding tot de Europese Unie. Eerst het weer: na een regenachtige nacht trekken vanmorgen de buien snel weg, waarna het een tijdje droog is. Later vanmiddag wordt de bewolking dikker en",
-  "link": "https://nos.nl/l/2628730"
  },
  {
   "id": "e91bc6f8c2",
