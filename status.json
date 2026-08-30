@@ -1,12 +1,12 @@
 {
- "run": "21:25",
+ "run": "22:25",
  "datum": "2026-08-30",
- "nieuw": 13,
+ "nieuw": 10,
  "totaal": 1894,
- "verwijderd": 8,
+ "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1037,
-  "geen dossier": 518
+  "niet-nederlands": 1041,
+  "geen dossier": 519
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 45,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 92,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -285,7 +285,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 26,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
