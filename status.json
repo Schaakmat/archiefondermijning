@@ -1,12 +1,12 @@
 {
- "run": "11:25",
+ "run": "12:25",
  "datum": "2026-08-30",
- "nieuw": 11,
- "totaal": 1868,
- "verwijderd": 9,
+ "nieuw": 13,
+ "totaal": 1870,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1041,
-  "geen dossier": 519
+  "niet-nederlands": 1051,
+  "geen dossier": 502
  },
  "bronnen": [
   {
@@ -428,8 +428,8 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 104,
-   "status": "bij",
+   "items": 105,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 31,
-   "status": "4 nieuw",
+   "items": 30,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 26,
-   "status": "bij",
+   "items": 28,
+   "status": "2 nieuw",
    "ok": true
   },
   {

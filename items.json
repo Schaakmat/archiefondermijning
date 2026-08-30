@@ -19,6 +19,25 @@
   "link": "https://nos.nl/l/2628894"
  },
  {
+  "id": "011e9cb72c",
+  "datum": "2026-08-30",
+  "tijd": "10:41",
+  "nieuw": true,
+  "titel": "Achttien automobilisten bekeurd voor rijden onder invloed na Zomerfeest Gorinchem",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "De politie heeft dit weekend in Gorinchem achttien automobilisten aangehouden omdat ze reden onder invloed. Agenten deden de controles zowel vrijdag als zaterdag. Langs de Spijksedijk en Nieuwe Wolpherensedijk werden auto's van de weg gehaald en gecontroleerd.",
+  "link": "https://www.rijnmond.nl/nieuws/2246232/achttien-automobilisten-bekeurd-voor-rijden-onder-invloed-na-zomerfeest-gorinchem"
+ },
+ {
   "id": "85dfb95d90",
   "datum": "2026-08-30",
   "tijd": "10:35",
@@ -196,6 +215,27 @@
   "link": "https://www.rijnmond.nl/nieuws/2246193/schade-na-explosie-portiekwoning-twee-woningovervallers-opgepakt"
  },
  {
+  "id": "bc1c758697",
+  "datum": "2026-08-30",
+  "tijd": "05:41",
+  "nieuw": true,
+  "titel": "18 automobilisten aangehouden voor rijden onder invloed | Schade na explosie portiekwoning",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van zondag 30 augustus.",
+  "link": "https://www.rijnmond.nl/nieuws/2246193/18-automobilisten-aangehouden-voor-rijden-onder-invloed-schade-na-explosie-portiekwoning"
+ },
+ {
   "id": "f821c10327",
   "datum": "2026-08-30",
   "tijd": "05:03",
@@ -370,27 +410,6 @@
   ],
   "samenvatting": "Hoe AI aan het hacken sloeg Bij de hack vorige maand waarbij een losgebroken AI-programma van het bedrijf OpenAI per ongeluk inbrak bij een ander AI-bedrijf waren ruim 1200 AI-agents betrokken. OpenAI, het bedrijf achter ChatGPT wilde testen hoe goed de AI-agents - computerprogramma's die zelfstandig taken uitvoeren om",
   "link": "https://nos.nl/l/2628795"
- },
- {
-  "id": "5bdef363d4",
-  "datum": "2026-08-29",
-  "tijd": "14:05",
-  "nieuw": false,
-  "titel": "Tilburgse verdachten van aanslag synagoge gaan 's nachts terug voor zitting",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "explosie",
-   "pand"
-  ],
-  "samenvatting": "Rechters van de rechtbank Rotterdam willen snel gaan kijken bij de synagoge in Rotterdam, waar op 13 maart een aanslag is geweest. Dit heeft de rechtbank vrijdag besloten. De rechters willen met eigen ogen zien of het voor de Tilburgse verdachten duidelijk moet zijn geweest dat zij een aanslag pleegden op een Joodse in",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025083/tilburgse-verdachten-van-aanslag-synagoge-gaan-s-nachts-terug-voor-zitting"
  },
  {
   "id": "c8a0937105",
@@ -30357,6 +30376,25 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "74192cf349",
+  "datum": "2023-04-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist forse celstraffen voor witwassen, auto’s en rekeningen skybox - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "OM eist forse celstraffen voor witwassen, auto’s en rekeningen skybox Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObElSckUwMHN5VDhxMzkyZEQwZVJ4ZnQ2NW5DdW1JMzJvdWRNZWJrcnJYZm9JbVZPQy1NdHQ2Q2ttR0w3cnZ5Z3hfdHlUZmVnX04wckhlLTQ4Mmp0Sm9XUWN0N0VjTHQ1cnozTzlJZk5BYkJJa0gwZGxBaVhzTHBod18tU1BPLVJNOVNVcnJhZWxYX3NpUHZNeWtfRzRQcWtXbzdMRU9XazdBaE0xWk9oRg?oc=5"
  },
  {
   "id": "6d2f3ef1ad",
