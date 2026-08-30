@@ -1,5 +1,24 @@
 [
  {
+  "id": "5788d2ede8",
+  "datum": "2026-08-30",
+  "tijd": "21:04",
+  "nieuw": true,
+  "titel": "Brand hoogspanningsstation in Groningen houdt nog dagen aan",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "De brand in het hoogspanningsstation in Meeden in Oost-Groningen zal nog dagen blijven woeden. De brandweer kan het vuur niet blussen en laat het getroffen gebouw daarom gecontroleerd uitbranden. Ook de rookoverlast kan mogelijk tot dinsdag- of woensdagochtend duren, zegt de Veiligheidsregio Groningen. Omwonenden wordt",
+  "link": "https://nos.nl/l/2629003"
+ },
+ {
   "id": "6bf767b74f",
   "datum": "2026-08-30",
   "tijd": "18:29",
@@ -55,6 +74,27 @@
   ],
   "samenvatting": "Nederlanders met drugslab vallen door de mand na ’ontvoering’ met jutezak: buurvrouw belt politie De Telegraaf",
   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDF3ckVUWE8taWd5dGg1QjlXY2VIM004X1FmaUlYVExVQ2pBTi1YQUxNcS12eFNYTVFRUl9kcVhEdjk4ZFRIWG5DRWdCcXNpdkZuWjVmbmtWMER2Qk5rcEVwRGdkN3pTZ3p4ODB2OGdmV213Q09abkdOSDVLc3JyMTZqNld4YTFGc1pzMW83czFxSUZmNFJROThHU0d6a2hFSzJKVnZkNWI1YjVlNzAtdzZ3Q1RsMDRmbm1GT284Sm4tU1NJYmVheC16bWRseFlBTEVhSkpnUkFnRzlvOUE?oc=5"
+ },
+ {
+  "id": "40bb4e6ee8",
+  "datum": "2026-08-30",
+  "tijd": "17:53",
+  "nieuw": true,
+  "titel": "Tweetal aangehouden na ongeval in Gameren",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "grond"
+  ],
+  "samenvatting": "Twee personen zijn zondagmiddag aangehouden na een verkeersincident in Gameren. Volgens een 112-verslaggever ter plaatse reed de bestuurder van de Waalbandijk nadat hij een lantaarnpaal volledig uit de grond reed. Onderaan de dijk probeerden de bestuurder en zijn passagier een zwaar beschadigd wiel te vervangen, toen d",
+  "link": "https://www.gld.nl/nieuws/8516058/tweetal-aangehouden-na-ongeval-in-gameren"
  },
  {
   "id": "e58c2c68b6",
@@ -197,7 +237,7 @@
   "id": "011e9cb72c",
   "datum": "2026-08-30",
   "tijd": "10:41",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Achttien automobilisten bekeurd voor rijden onder invloed na Zomerfeest Gorinchem",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -216,7 +256,7 @@
   "id": "85dfb95d90",
   "datum": "2026-08-30",
   "tijd": "10:35",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Achtergelaten fietser overleden, buurvrouw probeerde met wc-rol te helpen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -235,7 +275,7 @@
   "id": "9e8600a473",
   "datum": "2026-08-30",
   "tijd": "08:40",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Binnen een dag twee explosies en een poging daartoe bij woning Osdorp, jongen (16) aangehouden - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -256,7 +296,7 @@
   "id": "4a3faf1063",
   "datum": "2026-08-30",
   "tijd": "08:36",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Fietser (82) doodgereden in Oss, auto uitgebrand teruggevonden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -275,7 +315,7 @@
   "id": "1d0ac989d8",
   "datum": "2026-08-30",
   "tijd": "08:17",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Ravage na ongeluk in Oosterhout, automobilist aangehouden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -8464,6 +8504,30 @@
   ],
   "samenvatting": "Woonfraude, drugsoverlast en signalen van arbeidsuitbuiting aangetroffen bij controles in Papendrecht AD.nl",
   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd0d0bjRRTDVTdnhKdm1rYk1RT0dGMGx6dmdEV3hSSE02cWkyT3l2LTVsUkluSzRrLUxMdHFNZzdXOFozaTZFVG5MOVlwZUlyUWNTQnpONWNnR2ZUMks3UTlHZklDSWdfeFJCdmVTSm1kZlJJeUFpejd1b25ja0VjRnMxanFaZkVnb21TZFJvTlZpTVJCUHdPc2NjYVB0S1QxZV80Q0xuRVZpelgwSVBDMk1SN3dnTGZpZVY2TUlmWmd6YzZ5bnJoaWhGaVdHSzZYa3pzNHpQaw?oc=5"
+ },
+ {
+  "id": "27ae30db50",
+  "datum": "2026-07-08",
+  "tijd": "14:25",
+  "nieuw": false,
+  "titel": "14 panden gesloten en 7 hennepkwekerijen opgerold: succesvolle aanpak van ondermijning in regio",
+  "bron": "Valkenswaard24",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "ondermijning",
+   "pand"
+  ],
+  "samenvatting": "14 panden gesloten en 7 hennepkwekerijen opgerold: succesvolle aanpak van ondermijning in regio Valkenswaard24",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb2l0ZTNlbTUxVFVFMm1IU19WNUcxeDMzQXdGbkNjZzQwb0ZnNHJqcUZ6NVdLSnVMSWxmZ3VmRlpjSUUyNElvX2FDdmxQSmVsbW81OUd6NnBVNHdaSVVmdW1fWUN2SG43TzFuMlNuYnA1dllXUGkxU0N1Qm9SWmE4TG5WaGIyUWtPcm03T2h6M3FzcnowX2lPQlFPS01UQlNNbkctUG91allBNWdQYXh1NzhfbWxIT251TEd4YTNrTW9MS2JKUG55QUpVdWRXOVBxWTN4cE1Pdw?oc=5"
  },
  {
   "id": "ed493cc922",
@@ -29898,6 +29962,25 @@
   ]
  },
  {
+  "id": "2440d5292c",
+  "datum": "2023-06-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "'Hells Angels voelen zich gesterkt door juridische strijd met overheid'",
+  "bron": "NPO Radio 1",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "hells angels"
+  ],
+  "samenvatting": "'Hells Angels voelen zich gesterkt door juridische strijd met overheid' NPO Radio 1",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSFZsb2RrcjgtVENUdHU3QlFqQVV1SXJZMXloZElJSmpDdjJIMmtjUlpnOWpKN0FrVEdKRXphTTZ1YnJWZHIwUDh3RXotUDFxT2xOWF9sbFdZRlJja21qdE5Jb3FHZWkyMkRyUHMwb19wWW9ibDJROXR6QnMzQ0tzbnk1ZUZxbFV4Wkh3cXpmbjNTWXQtQWVTRXpqcVg4ZG1PLTRfWWxUenJjc0tNRFJnRlZMQmRZQmF4TmFhZ3hrSy1xSmEwbDZtY05ieVdOZ01jbEdBS0Fvb1BQVEp4QUlaRm5uVQ?oc=5"
+ },
+ {
   "id": "9272c9b832",
   "datum": "2023-06-26",
   "tijd": "07:00",
@@ -33395,6 +33478,25 @@
   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNzVLdHI2U1gxYUV5MnUwV0R4em5mcnd0emp1RmxkLXRUZUxaUWZfMVBRV3NkdjRxOHJuejFuUG00ZFJEQVRLR0pvMkVvQkZqaFhEejZBQ2o5QUNwa1ZQNlp4Z0lWYXZOc2ozcVZmUFlLM0dmT1poc2FjNk9OMlJRMEVpcWcyOHZGYloxQ2stVEd2eTdXTE84SXYwOS1BMUJ5WGhsT0pqcVBKSlVpWGRQdldrUERUMzEtdnMtYjBsQkJXMjcyRG9UT2ZnU0tYY2pBdkM0X1ZQeVlhaFVVclBYRVFQdnMzYTdKTWFhWXJuRlZlbVNkaHIw?oc=5"
  },
  {
+  "id": "251837dfe9",
+  "datum": "2021-03-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Lijkt jouw stoere leren jas op die van een verboden motorbende? Dan krijg je het binnenkort aan de stok met de gemeente Den Helder",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende"
+  ],
+  "samenvatting": "Lijkt jouw stoere leren jas op die van een verboden motorbende? Dan krijg je het binnenkort aan de stok met de gemeente Den Helder Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZDJkTmtiSnRfTDVqeE52U2JBQ1ZvTjdjNzQ4Z1JTQXNiWTZxUzFVRUd2eGgzUk9PVHgzcnc5T0xMRy1WRWwzNFM0dEFyUkU1R2hGWUd2REtER2lHU2FZc0RwYlhkelhOWk9wTkg5Z1VYeDdNX3lRMG9sZzAzQUtuVVNYV0pkeHlpbUVmcFdPZmtpbzNRYTJ5a1A3UG81Tlh6V0M4UV96VWtnZzFLcHJBN3BtbHJBOE5zcGtHRXNWbFp2SkdEdWwxd2NveDA5ejJEdXhCaGZ3X1ZzcVhRQ0pud3hMZU9GbkNPU2swOUhVcUd6VVpnR19nVFRvaWZkaF9GejZtMUlpU2VjMEdqb1Y5Rnk4bnpGcGpsLWRaakhiaw?oc=5"
+ },
+ {
   "id": "50b13b72e5",
   "datum": "2021-03-10",
   "tijd": "08:00",
@@ -35218,6 +35320,44 @@
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGhBa0IzUDljZ2VnVHU1a3F5bWk2WWlET1Y0R1BvYkJleXZSZnVVNlAzV29FeHVPc2pYYmFDUldVdjBDazVIbXNqTmRtRXVCRjl3aGF5clc0SnFXOXBoVjFYTGxWaXA3ZlFaYVQ0WEVGUV9qU1dVVHpMRmlOQ0RWd3RzeEhVMERSUkZDYU1md0pwcDN4LWhueG5rQ2ZVaHJycTd5ZHVheUx3c1lub3ZNWQ?oc=5"
  },
  {
+  "id": "037782fc92",
+  "datum": "2019-06-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Minder incidenten met motorclubs, maar aantal leden neemt niet af",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "motorclub"
+  ],
+  "samenvatting": "Minder incidenten met motorclubs, maar aantal leden neemt niet af NOS",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbDdNdXA0RWhqMUJrTVBxR3NOc1hYS1N6MklGSlE4VDB0dDk5ZVRIeEVwLW82bWIwRmFrMnFSa2JfaFZzejFwaUhwTVY3WGVqTk5wZGR3dFViRW9vLS1lSGNPdnRuMFJGMk9yXzNub0Y5N0lmRjI2bXhRM2hZT1RGQWxsTURhaVp6NlJaeUQ5emRtbXo4anE1MzdTQQ?oc=5"
+ },
+ {
+  "id": "240046bc23",
+  "datum": "2019-06-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Motorbendes minder zichtbaar, maar toename in aantal leden en clubs",
+  "bron": "NU",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende"
+  ],
+  "samenvatting": "Motorbendes minder zichtbaar, maar toename in aantal leden en clubs NU",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0UxcTREclVvV2ZaNXl3YlB2UTFMOW1ZdUo0NmRZeVBRRTVNS25TdFplZ1B6X081ZkUyampZb1hUcmFIeUlxTDFtLU1HUGVSYTdLUnZ6Z0xkUWFjT3lKN0tsSVRvZmE5Nk9TZGJmal95QzFCRThGT1M2MWtyYWE5bDZFMktVRzMzYmhnTEEtbDBDMUVPcTIzd1luZ0YwYk9oeF9JS2dyNG1hcDRv?oc=5"
+ },
+ {
   "id": "8d3cf44417",
   "datum": "2019-06-20",
   "tijd": "07:00",
@@ -35468,6 +35608,25 @@
   ],
   "samenvatting": "Verzekeraars en banken keihard bij hennepteelt, ook als iemand anders een kwekerij heeft in je pand EenVandaag",
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeTh6N1dmU3JhSW9XUHJCcWNNbFktX2xKZjlpXy1JaUJkV2gxTlFhVy1IQThrTDAyUDVyV29hVUZKZ3lUWGdvZ29wWEpXNWtsdGVUQXRQWm4tTDZnd0dZWnlyZTREbkVoM3FNdmdXWmIwcGFtTG52ekE4NFV4QlYwc0RrdmFLV0NpMnJnQlVZLTdQbXY4NjZBenhMcE4tY01qaUxQN1ZpY0lUckZBY3pka1Z0X3R6R0VicFluaTUwVGRPWm5uQUxLUDRnSUc2RU1VTHpLOWlVN09DeWJhMHJr?oc=5"
+ },
+ {
+  "id": "132ef79019",
+  "datum": "2019-02-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Niet mínder maar méér motorclubs door aanpak",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "motorclub"
+  ],
+  "samenvatting": "Niet mínder maar méér motorclubs door aanpak Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY0Zkd21ZekdXUlgxVTJfTklSUmJkNkdWUF9Ud1dHbHR1cmRTNHdQVmdOZjZVQy1KMWdlMmpWaTJqSzIwQUJNUG51M0VyZmVQY0xYMS1PVGo3QkpYaXZGZ0JHZHhwNlF4NFBSWmtWQ1F3aWRwcHFocjRYNDMwZ1hSeWhyRVhRZHc?oc=5"
  },
  {
   "id": "8c7d5f3c71",
@@ -36445,6 +36604,28 @@
   ],
   "samenvatting": "Verbod Bandidos opsteker voor OM in strijd tegen andere motorclubs NOS",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckU2bk12OS1TMVJhWjR1WmNFV0lERmd1eUwyUXR1TUNyV2dFVF9TNnh1ZFR5Z3ZCbjR5QjhFX1liOERfQmkxdzkzeWdWaUZuZTM5TG52NkN4eWtJNFRBZ0ItU0dwZHR3T3ZZMEhWeWVKMUpCd3dFVmh1NFJTYzZ1VmtURmlRTDYxUWp1bDNlMy1TRlEwalJlVmNyVjYtUQ?oc=5"
+ },
+ {
+  "id": "0848165753",
+  "datum": "2017-12-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Verbod op motorclub Bandidos sterkt burgemeesters in strijd tegen motorbendes in Brabant",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende",
+   "burgemeester",
+   "motorclub"
+  ],
+  "samenvatting": "Verbod op motorclub Bandidos sterkt burgemeesters in strijd tegen motorbendes in Brabant Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOHpaYWZQLVdqM2xOOVpCbW9wZXYtRXhyeGlPMURUU2ZVT1BKQlRfQUZnbE1SYTQyZkE0eWNiOG43VHVDX05LT253bEI4S0NFWF9qLWtNV0tCbDVRb211eUZiQXpFS0Vla2tOVlgxQlhlak4tdUNoSzZSMVFyQmpSZ1Z3NXpkUnlxQjFUZk1VZzc4TXA5R0RVTTVTYVltQjlNdjBrR0M2MU9GejJJZHdJY1dIUXJOVGZ0SjRkVk1zeVdtYmdHamNuUWJKMVg?oc=5"
  },
  {
   "id": "e4c40fe9df",

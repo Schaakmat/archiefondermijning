@@ -1,12 +1,12 @@
 {
- "run": "18:25",
+ "run": "19:25",
  "datum": "2026-08-30",
- "nieuw": 10,
- "totaal": 1878,
- "verwijderd": 10,
+ "nieuw": 17,
+ "totaal": 1887,
+ "verwijderd": 8,
  "geweigerd": {
-  "niet-nederlands": 1038,
-  "geen dossier": 518
+  "niet-nederlands": 1010,
+  "geen dossier": 511
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 44,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -338,8 +338,8 @@
    "url": "news.google.com/rss/search?q=motorclub%20verboden%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 14,
-   "status": "bij",
+   "items": 20,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 10,
-   "status": "bij",
+   "items": 11,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -464,7 +464,7 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 12,
+   "items": 13,
    "status": "5 nieuw",
    "ok": true
   },
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 30,
-   "status": "bij",
+   "items": 31,
+   "status": "1 nieuw",
    "ok": true
   },
   {
