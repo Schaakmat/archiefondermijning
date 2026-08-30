@@ -276,7 +276,7 @@
   "id": "93088b2b30",
   "datum": "2026-08-29",
   "tijd": "08:52",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "112 Nieuws: brand bij restaurant in Zwolle | Politie onderzoekt woningoverval in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -295,7 +295,7 @@
   "id": "67d062c63f",
   "datum": "2026-08-29",
   "tijd": "07:05",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Man die vluchtte voor politie en auto's ramde, had geen geldig rijbewijs",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -314,7 +314,7 @@
   "id": "f39d15a382",
   "datum": "2026-08-29",
   "tijd": "06:32",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Wekdienst 29/8: Hockeysters in WK-finale • IJslands referendum over toetreding tot EU",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -333,7 +333,7 @@
   "id": "e91bc6f8c2",
   "datum": "2026-08-29",
   "tijd": "05:47",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "A15 gedeeltelijk afgesloten door gekantelde vrachtwagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -352,7 +352,7 @@
   "id": "3fbcdd1d06",
   "datum": "2026-08-29",
   "tijd": "05:47",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "A15 bij Barendrecht afgesloten door gekantelde vrachtwagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -371,7 +371,7 @@
   "id": "87ec3aa480",
   "datum": "2026-08-29",
   "tijd": "03:34",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Medewerker benzinepomp in Breda bedreigd met wapen en beroofd van horloge",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -392,7 +392,7 @@
   "id": "ffd2d98d79",
   "datum": "2026-08-29",
   "tijd": "03:34",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Overvaller slaat medewerker tankstation met wapen op hoofd en jat horloge",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -413,7 +413,7 @@
   "id": "f12e0c2b68",
   "datum": "2026-08-29",
   "tijd": "01:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Iedereen in het voetbal is gebaat bij de betaalde transfer, een eufemisme voor mensenhandel",
   "bron": "De Morgen",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -429,10 +429,106 @@
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSGVkZUdPQXM0RnRuY1pKbml3UkRDNDdFdFN5SlB3RU0xNFBkT2cxdi1xak42ODBaLS1SYUU4aVhpVWZNSmtFbi1fc01VcmF1czlGZWZ0V0RPRFNYUEJTWll5OTJTYnp6Vk1mV21Zd19UaUp6a2xSZjVGX2NQSnZtMjNDREpvVGQ5T2RydWxJVGFYVDBUWEVwMkhzT0tabEY4LVdDanJMbS1fUG0xUDgyNE91dXRDMDAteGtLODNMR3gzZ3RVMjZpVUQyQ2RxZw?oc=5"
  },
  {
+  "id": "6e0d2449aa",
+  "datum": "2026-08-29",
+  "tijd": "00:05",
+  "nieuw": true,
+  "titel": "Verdachte van diefstal 4 ton aan cryptovaluta en witwassen opgepakt",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "cryptovaluta",
+   "stal",
+   "witwassen"
+  ],
+  "samenvatting": "Verdachte van diefstal 4 ton aan cryptovaluta en witwassen opgepakt Drimble",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUhaYlFQQ1hJYnZUUlNfU0xkTE4tZHdVeEQwVTZReE56THFFenpJam9KcXhvblg5aXlYV0ptWGd3Y2tTQTN6ZmJrcHdORnk1SEVSUUNqWUF1WUh4Smh1Q2hhN2owbzdUUHNKZXJaNG5oNzhYcGw2RUxESV9tX2JIbTFMT1RJdDNoLXFaZVd6eVRXRGlkN01rMWplejFLaUowZjdQUG52NVVUZEctbW8wQU5fdk1zNi1JQkZfcm4ydi1sTWtzSUhKQQ?oc=5"
+ },
+ {
+  "id": "13f6899807",
+  "datum": "2026-08-29",
+  "tijd": "00:05",
+  "nieuw": true,
+  "titel": "Verdachte van diefstal 4 ton aan cryptovaluta en witwassen opgepakt",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "cryptovaluta",
+   "stal",
+   "witwassen"
+  ],
+  "samenvatting": "Verdachte van diefstal 4 ton aan cryptovaluta en witwassen opgepakt Drimble",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDVxb3JkeWQ5VEJNeWdzNVdJSmFuX2dlZzRWbnh1d1VWcEY3b3kzaDdKMjFmMFB3ellsZHMxcUxkRU4xTkRHVUZWWUJxUktaWGxvZ3FhNVB5bUk2a0xMWndWQmxYTE5qRDBmVGhrOHB1UVNYay1ac2hqU084WjhGalIwZ045WlN4U3RkNndZSWpSRk0wQ3RtRF9Oa19PenJPdUR1RXNrNUxHLWNqUWN5TXVKSEV0VXcwVE9OVg?oc=5"
+ },
+ {
+  "id": "3dd7b1fcab",
+  "datum": "2026-08-28",
+  "tijd": "23:19",
+  "nieuw": true,
+  "titel": "Ruurlo – Verdachte diefstal van cryptovaluta en witwassen aangehouden",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "cryptovaluta",
+   "stal",
+   "witwassen"
+  ],
+  "samenvatting": "Ruurlo – Verdachte diefstal van cryptovaluta en witwassen aangehouden Drimble",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNFd4T3p5WnRWMy1qV3djbjFCdnUtS3A5S2dzSHRwbHVibWkzeFJDMWRYa1pva1ZBRkJfNy02YkJDRHpGbWxlNWJZWi1xMktzOERBWHFXWHZyR3RxVnlSVGM3NUV4QTV2Sy1RbEFKbTJrT2FSVVBXalEwNzc1ZmljUDNHeXJnZEZLZnpNZTFiMm9yTXRlQktKV1NJSEJ2Yjl2Z1BMRVBOVDRRR0ljSWc3cHIzX0xrdlBJLW5NYzJwdFBiTkQ0RnU0Vw?oc=5"
+ },
+ {
+  "id": "fe3c855df9",
+  "datum": "2026-08-28",
+  "tijd": "23:17",
+  "nieuw": true,
+  "titel": "Ruurlo – Verdachte diefstal van cryptovaluta en witwassen aangehouden",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "cryptovaluta",
+   "stal",
+   "witwassen"
+  ],
+  "samenvatting": "Ruurlo – Verdachte diefstal van cryptovaluta en witwassen aangehouden Drimble",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR1ZtQ24wR0kwNTRJdnAyREM2UTRXOFktMzBpcmEzTHlqXzBScWIzVllxWTY5MVBtRWs3UTVaanhyUkloQUpxcHhHRy04RnNiWEhTZVE4UWFWVTNZakJQTWhseEM3T1NtLVM3ZkVMS2pCVktHbExTRTVRTi1tMVIxdHJmOVRqVXFPRnFzeGFvbk9BZEswbGhXQlA1T2dFcHVSSHlrSEUzQW1TMmw2cVN2RDRNWHQ4SW9D?oc=5"
+ },
+ {
   "id": "dd76c8c0e8",
   "datum": "2026-08-28",
   "tijd": "19:44",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Grote steden schrappen boete op buitenslapen, overlast daklozen neemt toe",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -457,7 +553,7 @@
   "id": "98358f0c87",
   "datum": "2026-08-28",
   "tijd": "19:25",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Diensthond Aron grijpt gevluchte drugsverdachte in sloot na achtervolging",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -476,7 +572,7 @@
   "id": "90331fbba2",
   "datum": "2026-08-28",
   "tijd": "19:18",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Dronken autobestuurder slaat op vlucht bij politiecontrole en ramt auto's",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -495,7 +591,7 @@
   "id": "0d1f22968e",
   "datum": "2026-08-28",
   "tijd": "18:53",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Twentekanaal gaat deels weer open voor de scheepvaart",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -514,7 +610,7 @@
   "id": "efa5cacffa",
   "datum": "2026-08-28",
   "tijd": "18:43",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Aanhouding na vondst van chemische stoffen voor drugslab woning",
   "bron": "Regio15",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -535,7 +631,7 @@
   "id": "6d8b6327fe",
   "datum": "2026-08-28",
   "tijd": "18:25",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Gestolen kerkklok duikt snel op bij metaalbedrijf: 'We hebben zijn ID gecontroleerd'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -554,7 +650,7 @@
   "id": "33051f93e6",
   "datum": "2026-08-28",
   "tijd": "18:19",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Fatbikers op de bon geslingerd tijdens grote controle in Deurne",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -573,7 +669,7 @@
   "id": "1456ba092f",
   "datum": "2026-08-28",
   "tijd": "17:34",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Vrouw krijgt alsnog celstraf voor ongeluk op snelweg: 'Dronken en druk aan het appen'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -592,7 +688,7 @@
   "id": "2f965e0679",
   "datum": "2026-08-28",
   "tijd": "17:30",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Man uit Zwaag krijgt 32 maanden celstraf voor levensgevaarlijk drugslab in zijn woning",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -613,7 +709,7 @@
   "id": "6cd2b61373",
   "datum": "2026-08-28",
   "tijd": "16:43",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Naakte vrouw rijdt door hek Eindhoven Airport: luchthaven doet onderzoek",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1007,6 +1103,25 @@
   ],
   "samenvatting": "Je dealt drugs, hebt je bankrekening laten gebruiken of bent onder druk gezet om een explosief te plaatsen. Maar hoe kom je daar weer uit? Jongeren die vastlopen in de criminaliteit kunnen anoniem aankloppen bij hulpplatform Keerpunt. Hulpverleners voeren er steeds meer gesprekken.",
   "link": "https://www.oost.nl/nieuws/3686700/steeds-meer-jongeren-zoeken-hulp-om-uit-criminaliteit-te-komen"
+ },
+ {
+  "id": "e70ae15c08",
+  "datum": "2026-08-28",
+  "tijd": "01:29",
+  "nieuw": false,
+  "titel": "Doorzoeking in Rijswijk in onderzoek naar invoer van harddrugs en witwassen",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Doorzoeking in Rijswijk in onderzoek naar invoer van harddrugs en witwassen Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaXpfbnBXQ1pGOWwyMGZmRUQydEdLR0RmNXRyQnZzMFpPSEF5QldEcWtocVFyTWVzUkdTLXpWdERqTzVkT3Q0SFZtMHJNWUJkaEVnTW9sZ0dsU2NHR3V4dlYtbFJ5VWdTZkFCQ3NkYnF6QXRIZTFqWWNFcFhRaHdaUmZ5dkVUcXlqS0xMYklmX3VnblNDeWF5M2ZoRkNzZmtQZWRBckpCWlV2Z1Z5STJaM0R5cF8tMmMyU0l1azJMMHExV3FULXF0UVlWZjBETGtsNmxvUVN3?oc=5"
  },
  {
   "id": "4d7bd29ff3",
@@ -1701,6 +1816,25 @@
   ],
   "samenvatting": "Een juwelier aan de Ginnekenstraat in Breda is in de nacht van woensdag op donderdag slachtoffer geworden van een ramkraak. De gevel van het pand werd eruit gereden. Twee verdachten zijn door de politie opgepakt. De politie kreeg rond kwart over drie melding van de ramkraak. Op het moment dat zij arriveerde stonden er ",
   "link": "https://www.omroepbrabant.nl/nieuws/6024613/winkel-juwelier-zwaar-beschadigd-na-ramkraak-twee-verdachten-opgepakt"
+ },
+ {
+  "id": "afcf7d07f3",
+  "datum": "2026-08-27",
+  "tijd": "01:15",
+  "nieuw": false,
+  "titel": "Huiszoekingen FIOD en politie in onderzoek naar drugs en witwassen",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Huiszoekingen FIOD en politie in onderzoek naar drugs en witwassen Drimble",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM1QyaEVkNkRNVTNXOW9xUXhKNzdiSm5TdnU0N1lwaVFUbENKNm5xN2NWTDhWeXliTnJQcUw3V19rbkFPb0xwRkRQMm0tRTFFR2N5SXJrZ2M1WTg4MHV3UW5abXBJaTJvSGtNNWN1U1Jhb0pjRDNGZUxhY0ZFNXE4aTlPOXhZRFNFNnd3Z1d5S0xYQUw5NlBYZGQ5UFUtUVdyV2M1b19qOHVQbURkU3ZvUXptay1hbllxYVlTbEl6WW9FOVgzVWxEOG5R?oc=5"
  },
  {
   "id": "cece29071b",
@@ -2784,6 +2918,48 @@
   ],
   "samenvatting": "Het actuele 112-nieuws uit Gelderland van deze dag bundelen we in een liveblog. Je leest en ziet hier een overzicht van ongelukken, branden, vermissingen en misdrijven in onze provincie.",
   "link": "https://www.gld.nl/nieuws/8513089/mogelijk-drugslab-gevonden-roeiers-gered"
+ },
+ {
+  "id": "cc644288d9",
+  "datum": "2026-08-26",
+  "tijd": "03:07",
+  "nieuw": false,
+  "titel": "FIOD doet inval in woning Spijkenisse bij groot onderzoek naar invoer harddrugs en witwassen",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen",
+   "woning"
+  ],
+  "samenvatting": "FIOD doet inval in woning Spijkenisse bij groot onderzoek naar invoer harddrugs en witwassen Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWDVkS2ZUMVc2c25TVl9zUzdydmJqSkJXWldfQVpwaExvNmNJZHVyOVRJV3h6bl9McF93dGxxTlZPcGNNU2JuZ3RpNFFaSDI5ZXZNbWp5UUFOYW05aTJaVm9hVjZyWndMbG5yLVljODlmZTF4WVkwb0NxUC1jUUFLNGk0TENwakVEZktCUzNwVF9rNW1yMXVCaDIwNEVtcDM4VnpHNnloNTlac3RQb3VDQ2xWVEJYZDJnM0xRSmtBQTBwOHp6Y21Ycl9VZkZYdjJ3NC1XNWlYaHRWX1lzRzlVRGVKVE1wOWJxRHRRZ1FydUE?oc=5"
+ },
+ {
+  "id": "bda8c9b119",
+  "datum": "2026-08-26",
+  "tijd": "03:04",
+  "nieuw": false,
+  "titel": "FIOD doet inval in woning Spijkenisse bij groot onderzoek naar invoer harddrugs en witwassen",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen",
+   "woning"
+  ],
+  "samenvatting": "FIOD doet inval in woning Spijkenisse bij groot onderzoek naar invoer harddrugs en witwassen Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOamdrVkc4anVkYUhrbjFBM241LVFrRnZqamNHbjE1VkFWT3lxaXgteGMyQXFNbmhrN2ZwTVFRUGllcUJ5Nld5SktlaXRJXy1WVnBmN3hBNFBXbXlJUk5NZjlLMG5GenBRVDNtei1SMjN2M3RkQzMzbFEwMjlGTlhCaUxETFkyYURwTU9fbkxwc3dvVWxaX1BaRS1mMjB2RTJUMV83VWU3NHZ5bjFtZWxRZWJFS052MmhYSmtRdmQ2T0dMX0VGQll6bTNHRDZSRzJsaXd5SzVoZUtGMml4T0NwR3FLZHhGdXhLenU3SlNKN1M4Zw?oc=5"
  },
  {
   "id": "c1b5be8639",
@@ -7829,6 +8005,25 @@
   "dossiers": [
    "Cocaine, haven & logistiek"
   ]
+ },
+ {
+  "id": "6f76493e4d",
+  "datum": "2026-07-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Woonfraude, drugsoverlast en signalen van arbeidsuitbuiting aangetroffen bij controles in Papendrecht",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "arbeidsuitbuiting"
+  ],
+  "samenvatting": "Woonfraude, drugsoverlast en signalen van arbeidsuitbuiting aangetroffen bij controles in Papendrecht AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd0d0bjRRTDVTdnhKdm1rYk1RT0dGMGx6dmdEV3hSSE02cWkyT3l2LTVsUkluSzRrLUxMdHFNZzdXOFozaTZFVG5MOVlwZUlyUWNTQnpONWNnR2ZUMks3UTlHZklDSWdfeFJCdmVTSm1kZlJJeUFpejd1b25ja0VjRnMxanFaZkVnb21TZFJvTlZpTVJCUHdPc2NjYVB0S1QxZV80Q0xuRVZpelgwSVBDMk1SN3dnTGZpZVY2TUlmWmd6YzZ5bnJoaWhGaVdHSzZYa3pzNHpQaw?oc=5"
  },
  {
   "id": "ed493cc922",
@@ -20442,6 +20637,25 @@
   ]
  },
  {
+  "id": "af60c0cd88",
+  "datum": "2025-09-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Bosschenaar krijgt jaren cel voor drugsdelict en witwassen",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Bosschenaar krijgt jaren cel voor drugsdelict en witwassen De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRzdIS3FnUlNobld1M0FJOWFRb04tVEVqc0hDOW5JUTN0dW9xNXJaZEtwODFwR2dfTXp0TF9LSXJnd3ZUUE9LZ2Ridm5xeWNFRF8tQUFVVmhYQnpvSjQ2UE1ZMVdzSF9rMTJtYUk0ZHNpT1ZjOFRWOHVDSFUzWlk3NVpTSmpfMTNMMnlnNF9UZU95TUQtbnBJNERFcU95eURxcTJiMkRnb1NhQl9TeHZkLWVjaXpEemVWQkxqV2c5SUNrM1IxZ2gwSG5zRGZCNXBoTWloSGhzY3IxbTFpQzdYYVFrb2s4cnE4SnJpVXNmT0RhaDZfNmYwXzRXcl90cVk?oc=5"
+ },
+ {
   "id": "140db6bc78",
   "datum": "2025-09-03",
   "tijd": "07:00",
@@ -20502,6 +20716,27 @@
   ],
   "samenvatting": "Beslisnota bij Kamerbrief over ondermijnende criminaliteit in de persoonlijke verzorgingsbranche Rijksoverheid.nl",
   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb0pqbUpvamJ4VzVfZHlTb1RGLWRhMjhleWloNFFTSGp2SWQ2MlI2YUZ6TThOVHRVVUtFSDhWc3RrLU1WNG5Oa1pBZXJxem40QTlqQmk0dUdFSEQwcEtYX19wNmpkUzFzVXE2X0V1SE5xTUhncjBrNW1oZTNRRGZUeGQwTjdBaEV4NElfRE5BZEdEVVB3RkFaZmdPOVpEQjdqV3M0bnlmNlpYNVdNb010enlsV1ZlV3pXTTJETFJBZ1VROUVDWUMyeERXTEpZUUdsQmFMSnZCdkJFZDNOcE5zeUhn?oc=5"
+ },
+ {
+  "id": "e0b5e82d81",
+  "datum": "2025-09-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ondergronds bankieren ontwikkelt zich tot versie 2.0 - WODC - Wetenschappelijk Onderzoek- en Datacentrum",
+  "bron": "Nieuws — Witwassen & geldstromen",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "grond",
+   "ondergronds bankieren"
+  ],
+  "samenvatting": "Ondergronds bankieren ontwikkelt zich tot versie 2.0 WODC - Wetenschappelijk Onderzoek- en Datacentrum",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWhKOFNRT1A5QURLdmZqRGJIZXIyc1phMVFuQ1h4d2JWak12a3BfSUMtdHlzczhKWnltSUZxd2Y1TGdKd1NyU18yMDR3UW9lcG9JcUpmWWRHeEZ1MERVd3JNUEVCb19YYzdwRzJWNHhsalJINkd6c0VEY2E5Z3NHUTNrdXBkUXpleG1iQlZQcHN0ZWpEX2QzeE9Fc1N2OWs?oc=5"
  },
  {
   "id": "8d70fef0f9",
@@ -21531,6 +21766,27 @@
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmsxU0Y1QnMzVk95ZnFJTDJIUlkyanhhdUlzUldHU1lsLVhIeVU0YV9XZDVteFh2TENfLUs3alMtU0RwZGNJd0hFd1RsNFRnMXE0TGplZm81NnZONVhOYzdIMjZ6WUtGcVN5UDhfSFhnRmZNaGU5eDk2U0RPVWhfQl9aZVF0eDI4SkpXck5QVmk2N3VZWjg0TnRDQXdib3NCTmxLdFZfbG12Zw?oc=5"
  },
  {
+  "id": "9c9f427b16",
+  "datum": "2025-06-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gevangenisstraf voor drugsbezit, vuurwapenbezit en witwassen",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "wapen",
+   "witwassen"
+  ],
+  "samenvatting": "Gevangenisstraf voor drugsbezit, vuurwapenbezit en witwassen De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT3M0em8yNUZBTTN3dTR1SUtnRHJJS1YxdV92VERNd0czWDZRcGlQTThhLVVXd3RTZGhSTlZWNzh2d1ZUWmZnczM3Nzk3QWRZREx3MXhYZHREcEp6eTJLU2gtRGpBREk1OEZMbWdOZUx6MmlHNHozWFpYRWhreS1MUkNlSklmVXFtMzhoM0xyb2VyM2tjUDhDRWVMR1RNMVFJdHdwenBBX0xFQ0xjU3NLRmJRdEpLY0tPOXFjZzV6bWR0bU1xUGliQm56VEZQRGlwR0VXa1NrRDhzR183ZHB1aE43elp1MzJ1NmttRmd1QkIwTDdNQlFrOTkzN0Rldw?oc=5"
+ },
+ {
   "id": "119d1a55c7",
   "datum": "2025-06-17",
   "tijd": "07:00",
@@ -21548,6 +21804,25 @@
   ],
   "samenvatting": "Geld uitgeven als water valt op, duo opgepakt voor witwassen Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYi03UHdLWWY5X0U5akFnVUMwSlRsYnl2Ynd6dWNJdHB1NDNsRDdkSkU2eEdhME5uTWU1MmVUOHVsWDlHQWo2M1ZaWlIzU2ZKZGZiM2h1Y1ZtbU9FdW5wZkxJVkptVTlqa2ZORWNLZ29JSlVCLVc3ZUpBT1N0Z3FidmtZbHFGcXlhcC0tbk5FRFFNYzYxc1RkOFhwTlg0Rms3eVlvbS1B?oc=5"
+ },
+ {
+  "id": "4f11cac879",
+  "datum": "2025-06-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "In hoger beroep vrijspraak voor witwassen 500 eurobiljetten",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "In hoger beroep vrijspraak voor witwassen 500 eurobiljetten De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcU5Ud240YmZYWmNaVEN1VG1zNGVsS0FSNS1keXktV0VXaDJyY19KRmVBWGhuU2pCNld3OXBlQTgtclYzUkVVZERERU5tcDZKZm4zR0M3bldwbHpFWDlhMHUtS2dBTDZHWlpreWJzVEpMMm1YRHdOSVZ5VE1oZGdKcEszMmNabmpiMjBRWDd6RXFEUmJ5a1lXZ2ZBb0pvMmFDWXBYSnlDWTlpUDRhSjF1NEJIZVdkRHlKYVhfaUJNbnotZ0hzZ1pxSTdZVVJ4WmczNE1Ta3pwaEhfc0JXQ1VUUW54cEJYU1BGNmRVcUdfckdLa0NwR2U0MFJQWW9RM213YjVBS04zMm5mUQ?oc=5"
  },
  {
   "id": "1f0806fba9",
@@ -22558,6 +22833,27 @@
   ],
   "samenvatting": "Controles in buitengebied brengen foute boel aan het licht: motorclubruimte en sekswerk op vakantiepark Omroep Tilburg",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV1REMHhEaUFmU3JlYjZ0Snh0dFF6NG1NdzhDY1lZNkliUXhka19vVFpPR2hwdkhDbnVTUGVtOXI1VHlWTHE4LWkyZjNVRkk1NmN3MHpnajczbmV6czRnbk9DYmZZZGVYYU5DZkVxeGJmOUszTk5JSnFmdTRYWjVmc0lfcElDTkZiVW81QV9GWmNqTF9Cd0tpSWtITkVGbV9BQ0h4aEZ0ejltVWVCMXQ0bnN2MzgtcmV2S253Ymx4ZWxOTG41SlFyZW1tVXNWUS01YjRVWg?oc=5"
+ },
+ {
+  "id": "5fddaeddcc",
+  "datum": "2025-04-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gemeenteraadslid cel in voor witwassen, partner veroordeeld voor drugsdelicten",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "witwassen"
+  ],
+  "samenvatting": "Gemeenteraadslid cel in voor witwassen, partner veroordeeld voor drugsdelicten De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQellnT1NNYk9XZ2RjTjVyV0FvRGZpaXVjNVMtakhNdDhKRWZqUFVtVzYtWHEzc0xoMlQyTklHR3pRTWdYbVdLMXRvdjdpTW96Q0JkaU84dzBMaEYydlphVGlFdGtidXdxVnVNYmpseHBoV3Y2VHN5d1d5UnUxT2lwTDdid2NEY01IWFFxZ2ZGbGg2ODlNSUdOTkpjMlhzZE5GWkZzd0pWZWpCUGRvUm14SE5mcHhseFUwejF4bFlpRnlJWmxWUlpQQ1FxNGZiUFlhZTRGU1R4UnBIQ1ZvbGItUjBrOVFyX0VPM1VpTVBoR0Q4ME92UmJIZW9HeUo5ZGd5Y2xTSFotX3lnQXdJOTFlZE1xbFJkbExQ?oc=5"
  },
  {
   "id": "56ae951607",
@@ -25892,6 +26188,28 @@
   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaDIzU3hEXzRiWV91M1Nia1NGTHVlOWNzY0h3dGl4Rlg0WGJNVzBmYmhnMW5wbmNFVmUzNUo3ZFJiMjZzZHlNVnpzcF9wTTBHcnNhQ1p4eUE3aUZwNlpreEFjUWlzV1dOdHJhUklOSXFHVEFERWN4ZFdwR3BCT0sxcXZ6Y0Q1cDJXc2JXT0ZINEVfMTBhRm1xdkdmMkJ6U2NmNkNCTmR1Smw1cWI4UEVRRVVISmVDRFplbENfOGxYQzV4eERSNEphc21MUDhYNnlDT2IzN1E3c2gtcy1ROUlDb1czNjE0TGpJUV9kUVYtME80NUhPdUtKYWVOZ0lZc3dwN2ttVm4zb04?oc=5"
  },
  {
+  "id": "58f6a851cf",
+  "datum": "2024-05-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ontwikkelaar van Tornado Cash gaat cel in voor witwassen van miljarden dollars aan cryptovaluta | Uitspraak",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "cryptovaluta",
+   "witwassen"
+  ],
+  "samenvatting": "Ontwikkelaar van Tornado Cash gaat cel in voor witwassen van miljarden dollars aan cryptovaluta | Uitspraak De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNN0ZVNXVMOW92WklHQ1NZVkpCaUxkMm9hQXN1MGo3UlZUQ2RMUi0yLUM4b0k1X2JyX0Q0ZHJydXVVWU5ydFNUcXluWURGdVFQa1pNZzNLd0lpOG9tNWs2ZnltLWgxVFEtdEFHck05UVh0ZkxzRHpPM29RLUZTak5RbjNHOThCeFRiVUFKQzFHQjY0eHZkQUlVUkdpYzFjU2ZDQTB4TVFfNFE0OFhZVkFDVkZiOW1EdjRBS1BsQzBON0ZtOHdCZDNUUVE2ckduUnpHNDMwRk9JLUwyR1l6dUR5aFVscU81dUFkdnk3Mk9Rby1Uc09jQUtOTWdfYTBHTGJYYndpUGdLbVhicE1BdTBFREZTejZYMGdDQ05sVV9JNGZhSVQySkRpUUJoWktDb0pj?oc=5"
+ },
+ {
   "id": "fc32730145",
   "datum": "2024-05-13",
   "tijd": "07:00",
@@ -26434,6 +26752,25 @@
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYkVyc0E4dWE1N084blFYc0FsMjhKNFpuWWNTbDlqYzVIeWlicEZxRGRQY0R6R2hqSFMwbU9XOEU2RUFIM21ReDBkNkJNVVROYUpGV1hCOXJ4S2RKR01QcGNhVXNxTGJzaDZtTUZCaUowOVUydkFjLUtzVUxnRFg0UnZwTk9vdWVsaXpld0dESkMxcHB3RWIxVUxEWEtFVTZaWWFPX0hCck1qOFhDV2QwWTN3ZzQxRUpSNXlkRDk0TjBhYk5Wbnk3Ul9oclBBUG5ZOUFva3IxWkRGRzhJd2tB?oc=5"
  },
  {
+  "id": "efdaaea6ed",
+  "datum": "2024-02-21",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Tot 5 jaar cel voor witwassen van tientallen miljoenen euro's",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Tot 5 jaar cel voor witwassen van tientallen miljoenen euro's De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOE1telg0UzZnc3U4NGpJX2ZfRlVILU9TWnIyeFBoQ1hVTkt5NFN6TkZSQndURkdOQW1zWEZMU0dDQzBXMXUzaGtvTjdVU1Z3bktsRWFiSXRmMlg3OFRZdVNoYmZZMVFZb0dobW04YWZ4cUFfeEdDcUhxSUpmU1cxZVdZSEktRkt1THZpdlIxQk9GMUpuLWhjekd1LTFmMG5nTDc3dnd4QmJObjVYV2ROd2F0X0FIaFdQS0cxQkdKbDRSMnhjTTNXSlVGdnpnTG8tbmZoM2ppem9FbUF5ZzhIS1A0YlZSSTY4clFXeGhyTTE3Z3phMDR6MDl6UG9LYnZ6alE?oc=5"
+ },
+ {
   "id": "54229cb565",
   "datum": "2024-02-20",
   "tijd": "08:00",
@@ -26694,6 +27031,25 @@
    "Beleid, wetgeving & toezicht",
    "Ondernemers & weerbaarheid"
   ]
+ },
+ {
+  "id": "42ecf640ba",
+  "datum": "2024-01-22",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Eindhovenaar 30 maanden cel in voor witwassen van ruim 6,1 miljoen euro",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Eindhovenaar 30 maanden cel in voor witwassen van ruim 6,1 miljoen euro De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSWVmajFSY2pONElQSDQ5MXZQT3JJMHBSV0RoeUdoaHJsWTJoOFFOM2pkTjA1anNwUXYxOXJ0UzBmNlhXaFJUZ2hpVlR4WEx2NGFtdFdINzhtMFNKZzNBa1hkam1MWGFSRU00SjlNMG93ZG1ROGlUeXRRWFh5RFQxaXBnZkdlcktCUWJ1M29sNG10NGgySzRjQ1VoVzg0UVJCWk82X25fZVF5UU5jdENJYm9hTkVTaHNzbWhQQVVFVG1weTkyUDVjZjZFUmJBWE1jZlZRUjFEYWNvb3VSeF9IdEUtYWt3Slp5VmZ0QzFNTzBLNXVGNDZlcGF3Y254VUNKeXRveTZqSEh4aWRSYXhZ?oc=5"
  },
  {
   "id": "86f0b18bfe",
@@ -27038,6 +27394,25 @@
   ],
   "samenvatting": "Achttien jaar cel voor opdracht liquidatie op Israëliër Jonet.nl",
   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oUFRiZUhqS09ZRWhoTzJfVTFoVVhKbHBxMzRfV3pSRmZrcDZqX2EwcUNvaFE0WmhiT3IxTlcwMXZpNzRETWFGMDl4VnZSdDJYbTdxeXN5NThaMk00TE9ibkRDTXE5ejFvYXRsVWVWeDNqSkVyV25Bd2YxejBpUQ?oc=5"
+ },
+ {
+  "id": "ec04cd4b44",
+  "datum": "2023-12-22",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Celstraf voor witwassen van miljoenen euro's",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Celstraf voor witwassen van miljoenen euro's De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaklpMmNhMlpRS0JUaWpZMVlNeWk0VjlwRldwMndTZnBwNi1HcXRKUm1PMEo4V0FRS2hqSHFMaEVlYmZpa0RsYUpyNkpfaDhWVkF4d1JybS1sc1ZibHVOVF9HcTVlb2Q2RnVzanItRDh5cE8xNTdCU0NtdFhqNnJnQXJwdmxVU3RSSE02X0tmLWtXUmNoRDhSUGFNcFVlR1FzcWhNSkhJN2ZSQTBrYmoydTFvRkdxSmRxM1VBajR1cDNXb1VSY2dEUjE1cnhsbVpJOEpLRWRlMXpmMGlJbkVmZVByZVZvODA0a1BVSQ?oc=5"
  },
  {
   "id": "2dd8d1a6bb",
@@ -30483,6 +30858,25 @@
   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMFYyNVlkbE5DWUd1TjV1cF9wTy16R3gycjZ1Z1FSc24xNGJMamQ2c0gzX1ZQWU00RGhsdGFqUHJpZ0FzaVAwUTYxVjh5LXdsUkpnZldRaG1jUk42VUtuRTZLSVhqNXVkY0QtcW0za0phTlRnVHQ1d3ViVlpkRzRCOFJ6eFVfbTByUVNrYk4tc0Y5VHE4S0Nhellrdk03NWFRaVNJMkp0RWJvWmlhLUFCWXRpQjdiU2twdDRBNmhxbkRVQTJ2VlFQREwydWo4bUR5QWZva3pSaTBLeUtI?oc=5"
  },
  {
+  "id": "e7b8878c0d",
+  "datum": "2022-04-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Tot 30 maanden cel en geldboete voor onder andere witwassen geld van een geloofsgemeenschap",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Tot 30 maanden cel en geldboete voor onder andere witwassen geld van een geloofsgemeenschap De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOMmVjUEZzSW5wS0NnQ05wTHhTQTY1YUZ3OVlwQUdUbEhaTG81akNwSjhpVVJ5Z05Oc2pOX3hkWXVGSzhqY1Q4eDZoWnlLZzVWYlFtRnpCdWt2XzVSRnFFSUpNQnFWOFhkY1JHRWdaZGl4eFpQUlRWUDV2TlpFUThsR3NfaHhlU2NCS0Z5SWItSjdHX3oybS1qeHlFMDl4QUE1ay1wYXJfVFg0WFBIelVRQWhadFhOSFFSZHJpa1U4aDYyQ1VuMEQ1bVY2d21GaDUzbUktU1ZrdmFZc2w0OTNrZnZZRjJkYlhIbmN3VnhsMHp3bXFEVHdtVFoyYXlKS0hHcDQ5NVdrS1FlSXhwVDRZTVpoYjd3UFJidHBaclIxTHNPUQ?oc=5"
+ },
+ {
   "id": "395309484a",
   "datum": "2022-04-15",
   "tijd": "07:00",
@@ -30673,6 +31067,25 @@
   ],
   "samenvatting": "Dokwerker in beroep vrijgesproken voor hulp aan drugssmokkelaars dankzij chatberichten met collega VRT",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0ZzWXNrWlBlZGsxajBacG5XN0owY2kyWHU4Zm5qaURaUVRQdHlRVm1CZURIbS1fWXV4V2FDRTJyWS1QVFo3dV9udE5HaVlTbk9uVVNuWUFRNUo2djYyd3c4alpoYzlJcTZiRndTdzRLa0VLZ3J4NVJNQjF1YnZtZW85b1BubTdqdlRHX0t6TV9jY2hzWk1OSHRzV0Z0SmhicVpidmxDbw?oc=5"
+ },
+ {
+  "id": "45b9bbe048",
+  "datum": "2022-03-02",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Cel voor witwassen van ruim 1 miljoen euro aan contanten en drugshandel via post",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Cel voor witwassen van ruim 1 miljoen euro aan contanten en drugshandel via post De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVklxMjJjdzBpU3oxNnlaQVBsX1NxQXkyOGU3RmdKVmNjcEhtN0VjeWhDRGxPeDg0Z2oySFM4OVhZeWkydnV6T2ZaSGxabmt1dzhnN240RkI4NDJVVDNsVV9WZXVMUWg2R19qMHhTWkxCREpuV2Y4c2dEZ2lZbERWUDdKMERENVItQ2tlbkJ1Q1hGUTVnTHFYSkdtRFlxQUFXTnpHUFJWWGg5Y0ktQm5mTVdEVlotYk1MU2ExNzhWbW01d0h3b3g5d2d1MmxwLU5PWE8tNFRWTGFUbnlPOTMxS0pnU1BwMXpSTkZhNFhEV085TER5SHJhVUNpNS0xYUFsMzhLVGd4dkdBOWlJSkItVlBaUUlrZUduanBEbA?oc=5"
  },
  {
   "id": "a26ea7324c",
@@ -31681,6 +32094,25 @@
   ]
  },
  {
+  "id": "a48fc140ec",
+  "datum": "2021-03-31",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Broers veroordeeld voor witwassen crimineel geld",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Broers veroordeeld voor witwassen crimineel geld De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNzVLdHI2U1gxYUV5MnUwV0R4em5mcnd0emp1RmxkLXRUZUxaUWZfMVBRV3NkdjRxOHJuejFuUG00ZFJEQVRLR0pvMkVvQkZqaFhEejZBQ2o5QUNwa1ZQNlp4Z0lWYXZOc2ozcVZmUFlLM0dmT1poc2FjNk9OMlJRMEVpcWcyOHZGYloxQ2stVEd2eTdXTE84SXYwOS1BMUJ5WGhsT0pqcVBKSlVpWGRQdldrUERUMzEtdnMtYjBsQkJXMjcyRG9UT2ZnU0tYY2pBdkM0X1ZQeVlhaFVVclBYRVFQdnMzYTdKTWFhWXJuRlZlbVNkaHIw?oc=5"
+ },
+ {
   "id": "50b13b72e5",
   "datum": "2021-03-10",
   "tijd": "08:00",
@@ -31823,6 +32255,25 @@
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc25iaXNEMzlLdkZVak56WFZJbkpieGZ3TEgxc1dPMWZCT1JNZUdJVkZycjhKUC0zN2ZaLXNtOU93R1Z2QnZjeS1LX281ekJyM21LUG9pbFBQZWUwYVdVanFlNDlobWNhWV9UTEFxTk4zdE1KRWhaME4tTzgwckl6bGpGTktRTkVOSUxJS2NQUlBQMlg2Vjh0Wm9MUTVuZmR5c25YMlVULUFvNkZxS3JPR0VBSUozd21pMm1yUlpYMS1fcTl0WGlPeA?oc=5"
  },
  {
+  "id": "3f3e11b508",
+  "datum": "2021-02-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Gevangenisstraf van 24 maanden voor witwassen van grote hoeveelheid geld",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Gevangenisstraf van 24 maanden voor witwassen van grote hoeveelheid geld De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOU3RBSG9tMHBKT0N5Nmt6ejJPTFhuOTFOQW5QZ0ZCMTFXbU9mMFNCQzdWQThTQ0lmcG1GZTBYTXplMmgtbUR3dEtqS192MENZbXJWNl9DYTU2c1R2OHF1bUdnR0NoQ1lEN0NGV0diaDhWUURlcjdtLU5UTnJ2X2xLYUNQQ3UwRTNEQ1pySml1Rkd3TXRrNUJpM25UdDV3ZUpHaTBBSUNkMEx5bUVlRVIteFJDaEpCaWNYZlkwbm1lSE9WVXdNeU5DUnBxbFZVSkRYTlJVNHVmVEFsM2E4XzNncERFSHduVUMxOWJNalhSbjBweHQ5RGtRTXdVbHdJdG85YU5TRWw3ay1FQnJJdDhJbkNmMnl6UQ?oc=5"
+ },
+ {
   "id": "39abbe68c7",
   "datum": "2021-01-13",
   "tijd": "08:00",
@@ -31917,6 +32368,25 @@
   ],
   "samenvatting": "Amsterdams trustkantoor krijgt hoge boete voor rol bij fraude in Mozambique Follow the Money - Platform voor onderzoeksjournalistiek",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcERjejl4bW5VekZQUWlBbV8xbmp2Z2xjQTNHSEpubm9XUU5IWE9UdGFnRS1Yc19qQlF4d2Q1aTdfVVluQTFsZG81NDA1cDk2a3lrUlNSTTBBZ1luZnd1bFhsWTdidXVoTnJ5b3hOUjhqeFFXMG8yVDl5Yi1sTW1QNEViUnNiaDQ?oc=5"
+ },
+ {
+  "id": "30eb5d9df2",
+  "datum": "2020-12-03",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Het Anti Money Laundering Centre (AMLC): samenwerken tegen witwassen",
+  "bron": "Rijksoverheid.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Het Anti Money Laundering Centre (AMLC): samenwerken tegen witwassen Rijksoverheid.nl",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFF4VHJRckhmb05uRC1ycDV1S2hmN2pTX01xWVN4MlY5bnpHNnVPWUozUWJFbkFDTzhxejhJdjJSeXZDYmtxZW9yOTlXTms5dHdCVE5aY213QXluSHBNSDYyYUZ1aFFaMGJhQ214WVloSGlJaVNUcU04M1EyZHVLZ1pzMmpxY2hVQzRmMDlSeW50UTM5LVVXMVVBRHl1UUI1MHpyWnhvV1AtdW5hS0VOSzUxaWRQLVh1eVgxRE5xWElTYWRwdkpKM0kwNkRaaHdGS2RJ?oc=5"
  },
  {
   "id": "cdf2b3ad26",
@@ -32317,6 +32787,25 @@
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWVzNzdlcnIyaUlHZGpzREFkYkZINFBtWmlVNG04Y3J1alU3Tmd1VFJiV3lkc3FxMHNrVGF1SW81QW5NOURvMjRadHh4bS1ZWWVPbWR6ZC0wN0VDMmZtWkt6cm1Ta0h5SkxYM0RRRC1PZXM2M2o4eDlFX3hUVEZRc0FleUVVMnBjdWZYRURUNGhqVnZMeXFLcXhNckd2SGFfUERJ?oc=5"
  },
  {
+  "id": "d4792b2027",
+  "datum": "2020-06-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "2,5 jaar gevangenisstraf voor witwassen van bijna 1,4 miljoen euro",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "2,5 jaar gevangenisstraf voor witwassen van bijna 1,4 miljoen euro De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkRnbXpvNjhpd25GcnFxamtDcURNT0JlVkpTbDlnVHpuMUpVeF9fZ2lXOG0xaEVDLVZoc2Z4OHlfSHhXaTlTMG9iYm5EbVpSNXdfYUx5YWdvOEJQcmRpRWxBYU16VUVxY1NtbFp0b2tsMnhOTkRrY0tfS1EwQmN4bmRnWnhKSmVUOEM1Yktic1RJZno4ZGd1X3AwRER6alpBd0lvNk5rbHd6dENrQ2ZzbVA0bkVaSU03c0JaNU9NNk9uRm5Vc09BUGZzZjM0RW9OUUd5SGJGbmtWOXQxT01BR3Yxd0xBVlV4T2xOamVPQ08ybnBXS0tpdDg5eEZDeFhLcDJhWGo2em5rQ1k?oc=5"
+ },
+ {
   "id": "4fbaeec3b7",
   "datum": "2020-06-18",
   "tijd": "07:00",
@@ -32454,6 +32943,25 @@
   ],
   "samenvatting": "Bende haalde 700 vuurwapens uit Slowaakse wapenshop naar Nederland De Telegraaf",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjRvdjR6NlRLdVgxckpLV0hlZ080ajRCVU84TFBGaHRMemF3TUk1cFdEcDhVQWE4NzBLU1ZCLXlUTGswSXlIWFcyaXpIeHc1bWR4M1QyRENGQk9MSXZKb2ROaW1TNWxMRjJCbGpNdVY4cy1VS2NqbHdHVUdEY0g5LVdKTU44Wmw2QjNDdU0zMEhTaHFXUV95a0dYR2MyVFBwTGV2YnVOak5RRnhWbWh0RElfLWtKWXM?oc=5"
+ },
+ {
+  "id": "b1149d02cf",
+  "datum": "2020-04-18",
+  "tijd": "09:23",
+  "nieuw": false,
+  "titel": "Drie mannen in Amsterdam aangehouden voor witwassen van bijna miljoen euro",
+  "bron": "Trouw",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Drie mannen in Amsterdam aangehouden voor witwassen van bijna miljoen euro Trouw",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjIyUTY5Tmhaem9qZWZURUFfZWdFdF9JWmxOcUN6Ml9MZHdGTDBXaEl4bUoydUpSWFBGWEFhWlUyMnloaXBsbU1KWW8zUW15Q1RwSDM2OFN2cnJaUE1zRkRBMExvcXdSR2h3Ukp5WU01MkpSOHRpeXIxU2IwU211R0dLOGxaRThrQUhiRnotVl9paTVIWlQ0WnhTNHlvbVUwci1IMzh4TVNKLXUwUGVDbmJ1dWY1TUk?oc=5"
  },
  {
   "id": "fbfa455156",

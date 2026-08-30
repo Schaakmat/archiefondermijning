@@ -1,12 +1,12 @@
 {
- "run": "00:25",
+ "run": "01:25",
  "datum": "2026-08-30",
- "nieuw": 14,
- "totaal": 1775,
+ "nieuw": 36,
+ "totaal": 1800,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1034,
-  "geen dossier": 510
+  "niet-nederlands": 1023,
+  "geen dossier": 505
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 40,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 34,
-   "status": "1 nieuw",
+   "items": 58,
+   "status": "24 nieuw",
    "ok": true
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 9,
-   "status": "bij",
+   "items": 10,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -573,7 +573,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 21,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   }
  ]
