@@ -1,5 +1,24 @@
 [
  {
+  "id": "4a3faf1063",
+  "datum": "2026-08-30",
+  "tijd": "08:36",
+  "nieuw": true,
+  "titel": "Fietser (82) doodgereden in Oss, auto uitgebrand teruggevonden",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "In Oss is vannacht een 82-jarige fietser overleden aan zijn verwondingen nadat hij was aangereden door een automobilist. Dat meldt de politie Oost-Brabant. Het ongeluk gebeurde rond kwart voor acht 's avonds op de Hertog Antonstraat, schrijft Omroep Brabant . De bestuurder van de auto is vervolgens gevlucht en liet het",
+  "link": "https://nos.nl/l/2628887"
+ },
+ {
   "id": "1949dd5303",
   "datum": "2026-08-30",
   "tijd": "06:00",
@@ -38,6 +57,46 @@
   ],
   "samenvatting": "In Capelle aan den IJssel is zaterdagavond een woning overvallen. Het gebeurde rond 18:00 uur op de Blinkert.",
   "link": "https://www.rijnmond.nl/nieuws/2246200/bewoner-thuis-overvallen-twee-mensen-opgepakt"
+ },
+ {
+  "id": "0ca2481737",
+  "datum": "2026-08-30",
+  "tijd": "05:41",
+  "nieuw": true,
+  "titel": "Schade na explosie portiekwoning | Twee woningovervallers opgepakt",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van zondag 30 augustus.",
+  "link": "https://www.rijnmond.nl/nieuws/2246193/schade-na-explosie-portiekwoning-twee-woningovervallers-opgepakt"
+ },
+ {
+  "id": "f821c10327",
+  "datum": "2026-08-30",
+  "tijd": "05:03",
+  "nieuw": true,
+  "titel": "Bestuurder onder invloed aangehouden na positieve drugstest",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Op de kruising van de Harderwijkerweg met de Geitenbergweg in Dieren heeft in de nacht van zaterdag op zondag een aanrijding plaatsgevonden tussen een auto en een scooter.",
+  "link": "https://www.gld.nl/nieuws/8515367/bestuurder-onder-invloed-aangehouden-na-positieve-drugstest"
  },
  {
   "id": "a3ee1f0edc",
@@ -219,7 +278,7 @@
   "id": "5bdef363d4",
   "datum": "2026-08-29",
   "tijd": "14:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tilburgse verdachten van aanslag synagoge gaan 's nachts terug voor zitting",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -237,10 +296,29 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6025083/tilburgse-verdachten-van-aanslag-synagoge-gaan-s-nachts-terug-voor-zitting"
  },
  {
+  "id": "c8a0937105",
+  "datum": "2026-08-29",
+  "tijd": "13:22",
+  "nieuw": false,
+  "titel": "Man (39) neergestoken na botsing in Grave, dader op de vlucht",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Bij een steekpartij op de Trompetterstraat in Grave is zaterdagmiddag een 39-jarige man gewond geraakt. De steekpartij vond plaats na een ongeluk. De politie is op zoek naar een man, hij is gevlucht. Het slachtoffer reed rond kwart voor drie 's middags met zijn auto achterop een andere auto die voor een verkeerslicht s",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025085/man-39-neergestoken-na-botsing-in-grave-dader-op-de-vlucht"
+ },
+ {
   "id": "f77303aeb9",
   "datum": "2026-08-29",
   "tijd": "13:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "A12 in Den Haag korte tijd geblokkeerd door klimaatactivisten",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -261,7 +339,7 @@
   "id": "c5e5cc3b17",
   "datum": "2026-08-29",
   "tijd": "13:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie maakt zich zorgen over dit bijzondere bordje aan een boom in Empel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -280,7 +358,7 @@
   "id": "4a6003d47d",
   "datum": "2026-08-29",
   "tijd": "11:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hilversumse verdacht van witwassen drugsgeld. ’Mevrouw stelde geen vragen en maakte het zich gemakkelijk’",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -299,7 +377,7 @@
   "id": "20d76f3041",
   "datum": "2026-08-29",
   "tijd": "11:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Politie deelt 31 boetes uit voor niet-goedgekeurde fatbikes in Almere",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -318,7 +396,7 @@
   "id": "bccf726ad2",
   "datum": "2026-08-29",
   "tijd": "09:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hilversumse verdacht van witwassen drugsgeld. ’Mevrouw stelde geen vragen en maakte het zich gemakkelijk’",
   "bron": "De Gooi- en Eemlander",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -337,7 +415,7 @@
   "id": "98c1066dd4",
   "datum": "2026-08-29",
   "tijd": "08:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "112 Nieuws: politie onderzoekt woningoverval in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -356,7 +434,7 @@
   "id": "93088b2b30",
   "datum": "2026-08-29",
   "tijd": "08:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "112 Nieuws: brand bij restaurant in Zwolle | Politie onderzoekt woningoverval in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -372,29 +450,10 @@
   "link": "https://www.oost.nl/nieuws/3689534/112-nieuws-brand-bij-restaurant-in-zwolle-politie-onderzoekt-woningoverval-in-hengelo"
  },
  {
-  "id": "67d062c63f",
-  "datum": "2026-08-29",
-  "tijd": "07:05",
-  "nieuw": true,
-  "titel": "Man die vluchtte voor politie en auto's ramde, had geen geldig rijbewijs",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "De automobilist die vrijdagavond twee auto's ramde op de kruising van de Ringbaan Zuid met de Wethouder Baggermanlaan in Tilburg had helemaal niet mogen rijden. Zijn rijbewijs was eerder ongeldig verklaard. Dat maakte de politie zaterdagochtend bekend. De politie vermoedt bovendien dat de 39-jarige Tilburger onder invl",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025073/man-die-vluchtte-voor-politie-en-autos-ramde-had-geen-geldig-rijbewijs"
- },
- {
   "id": "f39d15a382",
   "datum": "2026-08-29",
   "tijd": "06:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wekdienst 29/8: Hockeysters in WK-finale • IJslands referendum over toetreding tot EU",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -865,26 +924,6 @@
   ],
   "samenvatting": "Een nepagent die er met sieraden vandoor gaat en een bijna volledig vermomde man bij een geldautomaat. De politie vraagt in oplichtingszaken in Rijssen en Hengelo om jouw hulp.",
   "link": "https://www.oost.nl/nieuws/3679737/sieraden-weg-en-duizenden-euros-gepind-na-overtuigende-verhalen-van-oplichters"
- },
- {
-  "id": "23a0585616",
-  "datum": "2026-08-28",
-  "tijd": "15:16",
-  "nieuw": false,
-  "titel": "Trimbos waarschuwt voor 'zeer gevaarlijke' xtc-pillen, met hoofd van Trump",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Drugsproductie & labs"
-  ],
-  "tags": [
-   "amfetamine",
-   "mdma"
-  ],
-  "samenvatting": "Het Trimbos-instituut komt met een uitzonderlijke waarschuwing voor een bepaald soort xtc-pil. Die pillen met het hoofd van de Amerikaanse president Trump erop bevatten een gevaarlijke stof en werken daardoor anders dan gebruikelijk. Bij locaties waar drugs op kwaliteit kunnen worden getest, zijn de afgelopen week meer",
-  "link": "https://nos.nl/l/2628653"
  },
  {
   "id": "ca2e36a990",
@@ -6754,6 +6793,25 @@
   ],
   "samenvatting": "Celstraf voor broers uit Maassluis na mensenhandel van Oekraïense minderjarigen rodi.nl",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3JjcXF0WThhXzB1Q21NdlE2NjNQbUg2TUFoS3FUd3ZfRlJHWDJ0MzduYTVGQ1IzQUItcVJUVzg1SUdlazVhUlJJcmhDSkNVWnBhd1FYOWZBMDhfUFhaMGVLQzllNXdFZnZOWFBpdTQ1VnZMNjk3Q0tLWlRHS1pmbGxQbEM5dWpjRUloWnhMME9uMGlHOTZkQmtYZVo4NUVzV3JseXIybTlWUk1kUDRsZ1FBMTJwNHcyMFB6NEIyVjBCUkJNUVE?oc=5"
+ },
+ {
+  "id": "b0c4ae092e",
+  "datum": "2026-07-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Openbaar Ministerie neemt accountants op de korrel bij bestrijding witwassen",
+  "bron": "Accountantweek",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Openbaar Ministerie neemt accountants op de korrel bij bestrijding witwassen Accountantweek",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcy1wY2JlQ2ZTamtNQnI3bWFrUThZQU1IMWxVeFhKNTExQnpJYVNVdUwzb0JlMlFXUFhEcFljTjlSMDJkcGZSd295bnc2Mk9zZlhDSkdIRHJERG51SDhTRlBPNjJycGRqLVc2ei01TnBBTm4xb2V4MWR2WVdraE9VQncyUGdscVMzMHFUVUF1MC13MHBTWjV3ckZXVGJ4N1Q3VlJJdzNmX2EzWFI1Wm1SOQ?oc=5"
  },
  {
   "id": "939a353cb3",
