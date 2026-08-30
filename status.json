@@ -1,12 +1,12 @@
 {
- "run": "14:25",
+ "run": "15:25",
  "datum": "2026-08-30",
- "nieuw": 10,
- "totaal": 1871,
+ "nieuw": 11,
+ "totaal": 1872,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1056,
-  "geen dossier": 482
+  "niet-nederlands": 1007,
+  "geen dossier": 529
  },
  "bronnen": [
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 29,
-   "status": "2 nieuw",
+   "items": 30,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -510,8 +510,8 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 30,
-   "status": "fout: URLError",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "1Limburg",
