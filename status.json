@@ -1,12 +1,12 @@
 {
- "run": "05:25",
+ "run": "06:25",
  "datum": "2026-08-30",
- "nieuw": 14,
- "totaal": 1825,
+ "nieuw": 21,
+ "totaal": 1835,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1011,
-  "geen dossier": 492
+  "niet-nederlands": 1042,
+  "geen dossier": 519
  },
  "bronnen": [
   {
@@ -14,7 +14,7 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 41,
+   "items": 42,
    "status": "1 nieuw",
    "ok": true
   },
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 90,
-   "status": "bij",
+   "items": 91,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 58,
-   "status": "bij",
+   "items": 59,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 12,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -419,8 +419,8 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 42,
-   "status": "bij",
+   "items": 48,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 24,
-   "status": "bij",
+   "items": 25,
+   "status": "1 nieuw",
    "ok": true
   },
   {
