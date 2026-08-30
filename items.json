@@ -97,6 +97,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6025105/ravage-na-botsing-in-oosterhout-automobilist-aangehouden"
  },
  {
+  "id": "8f5846131e",
+  "datum": "2026-08-30",
+  "tijd": "08:17",
+  "nieuw": true,
+  "titel": "Grote ravage en gewonde in Oosterhout na crash, bestuurder opgepakt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Op de Kreeksluisweg in Oosterhout zijn zondagochtend twee auto's op elkaar gebotst. Bij het ongeluk raakte een van de inzittenden gewond. De weg is in beide richtingen afgesloten voor onderzoek. Een van de auto's crashte na de botsing tegen een lantaarnpaal. De bestuurder van die auto is aangehouden door de politie. De",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025105/grote-ravage-en-gewonde-in-oosterhout-na-crash-bestuurder-opgepakt"
+ },
+ {
   "id": "1949dd5303",
   "datum": "2026-08-30",
   "tijd": "06:00",
@@ -199,7 +218,7 @@
   "id": "8431aa9b0f",
   "datum": "2026-08-30",
   "tijd": "00:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -218,7 +237,7 @@
   "id": "163b0c856d",
   "datum": "2026-08-29",
   "tijd": "17:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kabinet maakt excuses aan jongeren die in gesloten jeugdzorg zaten",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -238,7 +257,7 @@
   "id": "33d6a8c003",
   "datum": "2026-08-29",
   "tijd": "17:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Excuses kabinet aan jongeren voor misstanden in gesloten jeugdzorg",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -351,46 +370,6 @@
   ],
   "samenvatting": "Het is tien jaar geleden dat de partner van Henri Diekmann (59) uit Asten plotseling overleed aan een hersenbloeding. Nog altijd is hij dankbaar voor de liefde die Maroesja hem gaf. De tattoo waarin haar naam staat, geeft hem nog steeds kracht. \"De kracht om door te gaan.\" Als je Henri hoort dan denk je niet gelijk aan",
   "link": "https://www.omroepbrabant.nl/nieuws/6025061/henri-verloor-zijn-partner-en-hun-baby-maar-zijn-tattoo-geeft-hem-kracht"
- },
- {
-  "id": "5bdef363d4",
-  "datum": "2026-08-29",
-  "tijd": "14:05",
-  "nieuw": false,
-  "titel": "Tilburgse verdachten van aanslag synagoge gaan 's nachts terug voor zitting",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "explosie",
-   "pand"
-  ],
-  "samenvatting": "Rechters van de rechtbank Rotterdam willen snel gaan kijken bij de synagoge in Rotterdam, waar op 13 maart een aanslag is geweest. Dit heeft de rechtbank vrijdag besloten. De rechters willen met eigen ogen zien of het voor de Tilburgse verdachten duidelijk moet zijn geweest dat zij een aanslag pleegden op een Joodse in",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025083/tilburgse-verdachten-van-aanslag-synagoge-gaan-s-nachts-terug-voor-zitting"
- },
- {
-  "id": "c8a0937105",
-  "datum": "2026-08-29",
-  "tijd": "13:22",
-  "nieuw": false,
-  "titel": "Man (39) neergestoken na botsing in Grave, dader op de vlucht",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Bij een steekpartij op de Trompetterstraat in Grave is zaterdagmiddag een 39-jarige man gewond geraakt. De steekpartij vond plaats na een ongeluk. De politie is op zoek naar een man, hij is gevlucht. Het slachtoffer reed rond kwart voor drie 's middags met zijn auto achterop een andere auto die voor een verkeerslicht s",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025085/man-39-neergestoken-na-botsing-in-grave-dader-op-de-vlucht"
  },
  {
   "id": "f77303aeb9",
@@ -37139,5 +37118,25 @@
   "dossiers": [
    "Vastgoed & huisvesting"
   ]
+ },
+ {
+  "id": "62ad9e39d0",
+  "datum": "2008-11-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Kabinet bindt strijd aan met vastgoedfraude",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Vastgoed & huisvesting",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "vastgoed",
+   "vastgoedfraude"
+  ],
+  "samenvatting": "Kabinet bindt strijd aan met vastgoedfraude Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmRHT0NoamVjWDR0TFU2MnhRTml3RF8zejNPT1RFdGxMazN4NUhGTEVCNjBGTEVELTRtWEw4RUhiOGRIQWs5dmFUTmZ2Qmt3ZXdnUnZwNi15UHg2Ni1mcm83WUIyQjhXd2VJdFRmaWI5dnNBMkN2SUxJQ2J2aERHWVhkNFg0NVk0SFE?oc=5"
  }
 ]

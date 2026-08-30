@@ -1,12 +1,12 @@
 {
- "run": "09:25",
+ "run": "10:25",
  "datum": "2026-08-30",
- "nieuw": 13,
+ "nieuw": 11,
  "totaal": 1866,
- "verwijderd": 10,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1009,
-  "geen dossier": 499
+  "niet-nederlands": 1015,
+  "geen dossier": 517
  },
  "bronnen": [
   {
@@ -122,8 +122,8 @@
    "url": "news.google.com/rss/search?q=vastgoedfraude%20OR%20%22ondermijning%20vas",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 11,
-   "status": "bij",
+   "items": 12,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 30,
-   "status": "5 nieuw",
+   "items": 29,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -555,7 +555,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 39,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
