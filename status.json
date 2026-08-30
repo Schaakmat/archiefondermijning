@@ -1,12 +1,12 @@
 {
- "run": "04:25",
+ "run": "05:25",
  "datum": "2026-08-30",
- "nieuw": 27,
- "totaal": 1822,
- "verwijderd": 10,
+ "nieuw": 14,
+ "totaal": 1825,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1037,
-  "geen dossier": 512
+  "niet-nederlands": 1011,
+  "geen dossier": 492
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 40,
-   "status": "bij",
+   "items": 41,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 90,
-   "status": "15 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 10,
-   "status": "bij",
+   "items": 12,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -474,7 +474,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 3,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

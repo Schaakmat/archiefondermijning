@@ -99,6 +99,27 @@
   "link": "https://www.gld.nl/nieuws/8514717/excuses-kabinet-aan-jongeren-voor-misstanden-in-gesloten-jeugdzorg"
  },
  {
+  "id": "65c2051571",
+  "datum": "2026-08-29",
+  "tijd": "17:18",
+  "nieuw": true,
+  "titel": "Mogelijk drugslab ontdekt in woning aan de Scheepmakersstraat in Den Haag",
+  "bron": "rodi.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "woning"
+  ],
+  "samenvatting": "Mogelijk drugslab ontdekt in woning aan de Scheepmakersstraat in Den Haag rodi.nl",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVRTRlYwTldHaFhGTkRMWGRka25PMEwyYnZfRHJDY0t1RFdjMmM1TG1pYkszYVF4a1JpLUUtOC1sZVM4bnMyVjRDcTNiLWxnVEQ3dEdvTjlzM2tRY2hud1Q5WTd6Um14WXNMWWJWY0w2Q1pNTk1mT1lRbV9ITE0tYXpub3hKaUZiaFBhc1FwT0tCYzdfMWljSzdqZVk1UjNHZjhySXFtd2ZoODg2ZEpmbWxVSUV0LXpFX0lz?oc=5"
+ },
+ {
   "id": "7fbe0e174d",
   "datum": "2026-08-29",
   "tijd": "17:00",
@@ -259,7 +280,7 @@
   "id": "20d76f3041",
   "datum": "2026-08-29",
   "tijd": "11:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Politie deelt 31 boetes uit voor niet-goedgekeurde fatbikes in Almere",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -278,7 +299,7 @@
   "id": "bccf726ad2",
   "datum": "2026-08-29",
   "tijd": "09:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hilversumse verdacht van witwassen drugsgeld. ’Mevrouw stelde geen vragen en maakte het zich gemakkelijk’",
   "bron": "De Gooi- en Eemlander",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -297,7 +318,7 @@
   "id": "98c1066dd4",
   "datum": "2026-08-29",
   "tijd": "08:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "112 Nieuws: politie onderzoekt woningoverval in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -316,7 +337,7 @@
   "id": "93088b2b30",
   "datum": "2026-08-29",
   "tijd": "08:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "112 Nieuws: brand bij restaurant in Zwolle | Politie onderzoekt woningoverval in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -335,7 +356,7 @@
   "id": "67d062c63f",
   "datum": "2026-08-29",
   "tijd": "07:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man die vluchtte voor politie en auto's ramde, had geen geldig rijbewijs",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -354,7 +375,7 @@
   "id": "f39d15a382",
   "datum": "2026-08-29",
   "tijd": "06:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wekdienst 29/8: Hockeysters in WK-finale • IJslands referendum over toetreding tot EU",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -373,7 +394,7 @@
   "id": "e91bc6f8c2",
   "datum": "2026-08-29",
   "tijd": "05:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "A15 gedeeltelijk afgesloten door gekantelde vrachtwagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -392,7 +413,7 @@
   "id": "3fbcdd1d06",
   "datum": "2026-08-29",
   "tijd": "05:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "A15 bij Barendrecht afgesloten door gekantelde vrachtwagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -411,7 +432,7 @@
   "id": "87ec3aa480",
   "datum": "2026-08-29",
   "tijd": "03:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Medewerker benzinepomp in Breda bedreigd met wapen en beroofd van horloge",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -432,7 +453,7 @@
   "id": "ffd2d98d79",
   "datum": "2026-08-29",
   "tijd": "03:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overvaller slaat medewerker tankstation met wapen op hoofd en jat horloge",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -453,7 +474,7 @@
   "id": "f12e0c2b68",
   "datum": "2026-08-29",
   "tijd": "01:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Iedereen in het voetbal is gebaat bij de betaalde transfer, een eufemisme voor mensenhandel",
   "bron": "De Morgen",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -472,7 +493,7 @@
   "id": "6e0d2449aa",
   "datum": "2026-08-29",
   "tijd": "00:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte van diefstal 4 ton aan cryptovaluta en witwassen opgepakt",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -496,7 +517,7 @@
   "id": "13f6899807",
   "datum": "2026-08-29",
   "tijd": "00:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte van diefstal 4 ton aan cryptovaluta en witwassen opgepakt",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -520,7 +541,7 @@
   "id": "3dd7b1fcab",
   "datum": "2026-08-28",
   "tijd": "23:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ruurlo – Verdachte diefstal van cryptovaluta en witwassen aangehouden",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -30657,6 +30678,25 @@
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFBEaktmZUpJNnNROTgtMWZRSXJXa3U1MGFSZGcxOWlKV3V1bTM3c1lNZEJvZHg3UVJ5N1Z1MUtRWl9EN0k5NUxRVHhyZUd5VU9aWU9jel9qQi0tNDdWNTBsZlFRZklnb2VOTXpNck02bFdGZXN1WnhLbkNFdFpMaTdhSkFFR3lrRUpUOHRuTi13MTM0Nmw0Z0hkR0p1LTlIZndULXBWcTl6V1NXWVFMNWVtSndkNVRldlVzTkp1UHI4dw?oc=5"
  },
  {
+  "id": "5cd1d34647",
+  "datum": "2022-08-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "De Bibob wordt door ministeries nauwelijks gebruikt",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "De Bibob wordt door ministeries nauwelijks gebruikt NOS",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3hSUDQxOG85b0diYmxseDUxNXJPS082UVZZUDA4N1loUEx3cTY5NkdpdENaVGZZWWI2NUt6Ym9LNWx4d2pTbnJDXzhCSWRaTmZUQXFUWDR0OXpwMDNEejJDVy02MjFnUUw2MEREOVpxQXh0Q2VFb24xY1hKT3lKQldQTUhzT2pMamd0SUw2dzZKNWZN?oc=5"
+ },
+ {
   "id": "4bed570c9a",
   "datum": "2022-08-10",
   "tijd": "07:00",
@@ -31647,6 +31687,26 @@
   ],
   "samenvatting": "10 personen veroordeeld voor grootschalige hennephandel en witwassen vanuit woonwagenkamp Stein De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQaWlYZUxhVURsUXJFUFBnZ0dtSS1VSlZiMGdiampNcklWdkc4b3BYem8zdWNrZFp0LUQtQXA4cWNCdl8wdklCb1FLT3RqeGJkNEVGdmZ4eG1MdUhQYkFXNmpmdWRmSmZHSVNpT2hJVlF5YVVJM2p3TlZzWUtiWWlPVVJFY2xId1A5aHVQZEdYNW5odmZXWGQzbUFjV2RlaDVDb2pnSTltcUl2S1NhbEtwdXlDejZJeHBjV0hBYjdxelJlOVk1cDRaaVNwVEkzVnJsNmtUWjB0QzJVdzlEZmtCZU1lSXNRS1dCTi1aSXdRRlhRY0tJYXdibk05MThMUHdWMHpkVU1zdEdmeFRDb0tMYTdyZ3JjcEFyWHVSYXVKbWpSdWFheWdsaUpB?oc=5"
+ },
+ {
+  "id": "949b265dd9",
+  "datum": "2021-11-22",
+  "tijd": "18:46",
+  "nieuw": false,
+  "titel": "Wet Bibob - Het Nederlands Genootschap van Burgemeesters",
+  "bron": "Nieuws — Bibob & bestuurlijke aanpak",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Wetgeving",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob",
+   "burgemeester"
+  ],
+  "samenvatting": "Wet Bibob Het Nederlands Genootschap van Burgemeesters",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EUjlBWmFhaUF4eW1Wak1zNl84ZDMwanItZkhSOVc0WG5weG1LNW9MMDQxSGx0MWhNTGdhWnJHQ2d4WXlWOG5fNzl3RzBfUGE3V0pnYkFkLTdYX0tzVU1iQThtMWVkLTZYTDE4?oc=5"
  },
  {
   "id": "8fcf30e2ba",
