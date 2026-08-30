@@ -1,5 +1,45 @@
 [
  {
+  "id": "1949dd5303",
+  "datum": "2026-08-30",
+  "tijd": "06:00",
+  "nieuw": true,
+  "titel": "Podcast | Internet­pionier Marleen Stikker: ‘We kunnen ons ontworstelen aan de almacht van big tech’",
+  "bron": "Follow the Money",
+  "verzameld_via": "Follow the Money",
+  "soort": "Onderzoek",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "toezichthouder",
+   "witwassen"
+  ],
+  "samenvatting": "In ‘Follow the Money interviewt’ spreken journalisten Annette van Soest en Harm Ede Botje met sleutelfiguren uit verschillende FTM-dossiers. Van toezichthouders en wetenschappers tot politici en juristen. Of het nu gaat om fraude en witwassen, de toekomst van ons landbouwbeleid of onze rechtsstaat: Follow the Money int",
+  "link": "https://www.ftm.nl/artikelen/ftm-interviewt-marleen-stikker"
+ },
+ {
+  "id": "a3ee1f0edc",
+  "datum": "2026-08-30",
+  "tijd": "03:59",
+  "nieuw": true,
+  "titel": "Auto slaat over de kop op A50 bij Sint-Oedenrode, bestuurder viel in slaap",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een auto is zaterdagnacht over de kop geslagen op de A50 van Oss richting Eindhoven, vlakbij Sint-Oedenrode. Dit gebeurde net voorbij de oprit. e bestuurder zou achter het stuur in slaap zijn gevallen. De auto raakte de vangrail en sloeg daarna om. De bestuurder werd nagekeken in een ambulance, maar hoefde niet naar ee",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025099/auto-slaat-over-de-kop-op-a50-bij-sint-oedenrode-bestuurder-viel-in-slaap"
+ },
+ {
   "id": "8431aa9b0f",
   "datum": "2026-08-30",
   "tijd": "00:09",
@@ -276,7 +316,7 @@
   "id": "93088b2b30",
   "datum": "2026-08-29",
   "tijd": "08:52",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "112 Nieuws: brand bij restaurant in Zwolle | Politie onderzoekt woningoverval in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -295,7 +335,7 @@
   "id": "67d062c63f",
   "datum": "2026-08-29",
   "tijd": "07:05",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Man die vluchtte voor politie en auto's ramde, had geen geldig rijbewijs",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -314,7 +354,7 @@
   "id": "f39d15a382",
   "datum": "2026-08-29",
   "tijd": "06:32",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Wekdienst 29/8: Hockeysters in WK-finale • IJslands referendum over toetreding tot EU",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -333,7 +373,7 @@
   "id": "e91bc6f8c2",
   "datum": "2026-08-29",
   "tijd": "05:47",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "A15 gedeeltelijk afgesloten door gekantelde vrachtwagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -352,7 +392,7 @@
   "id": "3fbcdd1d06",
   "datum": "2026-08-29",
   "tijd": "05:47",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "A15 bij Barendrecht afgesloten door gekantelde vrachtwagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -371,7 +411,7 @@
   "id": "87ec3aa480",
   "datum": "2026-08-29",
   "tijd": "03:34",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Medewerker benzinepomp in Breda bedreigd met wapen en beroofd van horloge",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -392,7 +432,7 @@
   "id": "ffd2d98d79",
   "datum": "2026-08-29",
   "tijd": "03:34",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Overvaller slaat medewerker tankstation met wapen op hoofd en jat horloge",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -413,7 +453,7 @@
   "id": "f12e0c2b68",
   "datum": "2026-08-29",
   "tijd": "01:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Iedereen in het voetbal is gebaat bij de betaalde transfer, een eufemisme voor mensenhandel",
   "bron": "De Morgen",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -432,7 +472,7 @@
   "id": "6e0d2449aa",
   "datum": "2026-08-29",
   "tijd": "00:05",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Verdachte van diefstal 4 ton aan cryptovaluta en witwassen opgepakt",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -456,7 +496,7 @@
   "id": "13f6899807",
   "datum": "2026-08-29",
   "tijd": "00:05",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Verdachte van diefstal 4 ton aan cryptovaluta en witwassen opgepakt",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -480,7 +520,7 @@
   "id": "3dd7b1fcab",
   "datum": "2026-08-28",
   "tijd": "23:19",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Ruurlo – Verdachte diefstal van cryptovaluta en witwassen aangehouden",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -1868,6 +1908,25 @@
   ],
   "samenvatting": "Hoe een verlaten manege opeens een hennepplantage wordt: ‘De eigenaar is vier weken geleden verdwenen met zijn camper’ De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSjhobVdUaGxTNngwMHNETmh5VGY1ME5lSmhONUZmY2thZVAtVXVWM21LalRBbmYwN2ZCYkRnVzBhdXNrc0pxYUxZNS1Kc005QXBBa09lQmhoaFJQWDRvUS0yZW9WZlpTbkh3SERyTjE2T2VoYkRnYWZmWTlsWlU0OE10NUF0QkFPZDZ4R0ozSzdhcnI5VHlpSWFueFh2dEZQT250Qy12ZDctOWNJQUlxZ2dwWlNRWG11Zmp5alJCRlRLcUVLWERMUHpad3RUdi1pcEVFaFN1bHdEN3hUb3ozeGhGUS0xQU5kYWF6amk1Tk5YalVDRGtJ?oc=5"
+ },
+ {
+  "id": "97518785c0",
+  "datum": "2026-08-26",
+  "tijd": "18:28",
+  "nieuw": false,
+  "titel": "Hoe een verlaten manege opeens een hennepplantage wordt: ‘De eigenaar is vier weken geleden verdwenen met zijn camper’",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepplantage"
+  ],
+  "samenvatting": "Hoe een verlaten manege opeens een hennepplantage wordt: ‘De eigenaar is vier weken geleden verdwenen met zijn camper’ AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR0ROQmkyMGpEblJLQ2lRSmVHSmE5QU41S2dxT3lDdEVIWWI1cVd3VWYtRW4yalRkUGxqSmpNaEJfbmt3SVExcGNEbFJKMUtHSjJ5LXk4RjFFN05MLXZHLW02NUM3OUNWOE9Ha2YyTHEtV2hidVp5UnYtbjQ2YUpaOXRoN3Jhd3FLMGNVNUNXTVhab0gyRmRYRHBxc0hsMjR1QzJRSWZKSE93b2haV2V6ZEhmQ3ZQdmtZUHY5X1BUeGI1VkFsN3pEVUNZdWpvb0EtLUx6bzVueWFPd1R5R3Ffc2RncW5EYldkNEE?oc=5"
  },
  {
   "id": "40e241ed13",
@@ -21204,6 +21263,28 @@
   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTmdUaC1GWEZpdElMVnNIbHdQcGhGbXZaX0xUcFJhdVlQWFRKdWUtLVpBU0JEU1B1a0lXbV9oRzdiVXRGWnpON1V6aTRlc2V6Q09MU2k5aF9fb3BHTmtqdU04WW9EdDhnWkRsOWNreDBkbkdyNDVWV3VIdjNycl9GcVBxU2xwXzlsR2l0OWJLY2RORlBJWncyUk9lYkdQbHoyNktIWHdaRXd0MXQ4eTRVNkcySzJZY0JHVERZU2RiVDJyY1k1RWdwbUJ1eVB3X3ZKY3hBcXhVQm41RWZwYzN5SGJqWnVpZjc5QkcwNVg1aVB3SG5wUzFBVDc2dHBtb3c1TVNYbVFCNUdQZFo4?oc=5"
  },
  {
+  "id": "74c71bb6a3",
+  "datum": "2025-07-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gevangenisstraf geëist voor witwassen en voorbereiden hennepteelt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "hennep",
+   "hennepteelt",
+   "witwassen"
+  ],
+  "samenvatting": "Gevangenisstraf geëist voor witwassen en voorbereiden hennepteelt Omroep Gelderland",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbE9sblJoZUdKbjdlY25HTnJXck5JR2RqOVRaNmFvR3lWQ2pxdFo3dFotU0NCMjhRb1BheTE1NE12blRKSUdFVTk2NllVR0tWRlZXTUxTSWtLWGt4MjlKdTNHcFV5OHNnWTl6OEo3aDJ1cUF2ODYxOWdRX1hNT2x4TktnZlo2Y2dhc3pZbWlhb014VXhGVlpRR1p3MTdlN1pG?oc=5"
+ },
+ {
   "id": "e7f4627264",
   "datum": "2025-07-15",
   "tijd": "07:00",
@@ -23498,6 +23579,26 @@
   ]
  },
  {
+  "id": "eeb9d9f308",
+  "datum": "2025-02-19",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie rolt hennepkwekerij met 1000 planten op in Kuinre",
+  "bron": "RTV Oost",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Politie rolt hennepkwekerij met 1000 planten op in Kuinre RTV Oost",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3hvclI2cC1lcEYyQkZSWlFnWjZrUjNBQ0JiYnFvRFY0NGxCdkl4bjNVbi1iZFkzT25iTE5OMGM2bnFuaUZoVFlOSmd3MDZCdS1NcU9XYXhiRDF6WjRqdkZMemFxbWZrQTdNYWJST0ZYbFB5Q2hJZnpvcjAyM1U4MTJhZllZbUhPWmRBWmotbnF6anRhdk8w?oc=5"
+ },
+ {
   "id": "fba9e1cfed",
   "datum": "2025-02-18",
   "tijd": "08:00",
@@ -23621,6 +23722,25 @@
   ],
   "samenvatting": "Zeven verdachten opgepakt voor invoer van cocaïne: “Uithalers zaten dagenlang vast in ‘Trojaanse container’” HLN",
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeTkya1lEc19uTk9zRzFiU0VGQ3kzazRlRzNHUTlJX0ZiaEdLNkVrREVZaHh0N3BPdmY4cExkTVJscVFmY2c1ZEZsYmZkbmhtanlLd2dKU3l1V2x4amRHSjdxYW5lb2RpOWZ5eXZqbVUxbzNaTVNldTM5N1gxb1BJbGViNnFwVXFrcjZJLTVXNWhfNkRnOVI2cTJOblQ0RE8ycVExSnFjSWNQTUhvRTdzcmZTNFdjU3JLOHpuaWI2ZVRZeUU3UDQyLTZqWFBCbjRza1BZaDBJSDVjZw?oc=5"
+ },
+ {
+  "id": "ca28296238",
+  "datum": "2025-02-13",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Niet alleen een overduidelijke wietlucht: zo herken je een hennepkwekerij",
+  "bron": "RTV Utrecht",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Niet alleen een overduidelijke wietlucht: zo herken je een hennepkwekerij RTV Utrecht",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWQ4VmRmM0lqak1PcHdhREFqNGhCcGFzb2RuZE4wREN4ZUs4VGI2RERmOXBOOXJULUZyaF9NSTYyaF9WeFNPT1ZlQ0JUWGtGRGNiVU4zM2Z3T1JLZXZUT2VoRUtMOENudDZPQjlUd3E1elFMaTd4UnZvdU1Td1dQbjYxTEZGRUExUzFUMjV2YVN5dEwyem9DMFotaWJPeFRSTFRpUTNWdFdpejBLZ2R3amU2aw?oc=5"
  },
  {
   "id": "9d6a13aa7e",
@@ -24336,6 +24456,28 @@
   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRW5xM3lrdEgtQlk3SkFYemtWRlVSaFByRnRoTXdKaWdtc01LX0lLMjB4RlViQXhpc09qbUp1RGlJeEVIZjh4aDlTckh3RTNYWWVBLTFpMENCeUFDN3R3R0p6ZmhzUS1aVnhoS2hhYktQYlNETHY3Yi01WE5BcEEwOFV1anJFclN2N0lZdjlKUkQxS2pySzJwVFpWOXRlVkhaRElIWXV6bkY0VHBNRFpJakZ6Sllrem1XcGFzUVJyUVN5T3NwT0xneExGYThZQVVvR3VGU05DS3ZobzdTdVR5M0pteWJ3SHpF?oc=5"
  },
  {
+  "id": "f96f0c3b82",
+  "datum": "2024-12-12",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Gemeente sluit twee woningen vanwege hennepkwekerij en handelshoeveelheid drugs",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "woning"
+  ],
+  "samenvatting": "Gemeente sluit twee woningen vanwege hennepkwekerij en handelshoeveelheid drugs Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUFmNFNZQlZIY00zU2V2ZzFXT04yeEdWaVJUdVJoRU41NWw1NzZvM3cwaUVMazZReWl3QXlJTHJXalVXTlozS3ViNVZmU1M5RERsZXlmRlNzVVUzMzQ4eENESUNKQWlYNnVBLWY5WC1mMkFCNTZvUWk5bnJ0cjBmRDY5S3BiQjFJdzY5WFR2VzU0M0ZzNHdSN2JUMFN0TGMxa2lnWnh0cm1xajBNU1BFMklnbGp6ZTFnVWN2Q3Fn?oc=5"
+ },
+ {
   "id": "71819c977f",
   "datum": "2024-12-11",
   "tijd": "08:00",
@@ -25047,6 +25189,25 @@
   "tags": [],
   "samenvatting": "ECLI:NL:RBZWB:2024:6759, Rechtbank Zeeland-West-Brabant, 02-081913-23 en 02-243714-21 (tul) De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94eFBRTUhKRElfTW53Yy1oQlBLcDVfck0xb3NwS1NRXzk4bGsyVHFEV05CbDBNbmhrbFlwLWp5ejlXV0lwX3REdFhGQTAyRGZKcXZ4U0VTWkx1UWZlN3pjT2pfSHZNeTVpWE1kbHVPeTFZNFQ3Sk40?oc=5"
+ },
+ {
+  "id": "461fe6c6da",
+  "datum": "2024-10-03",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Kleinzoon bouwt wietplantage op zolder van oma, nu moet zij haar huis uit",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Kleinzoon bouwt wietplantage op zolder van oma, nu moet zij haar huis uit Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMm9CVFUwSU5WSEVxMm91V0x5WUFtSGFZNDlCVW1VaUtPeFZpRVlubXRzcm5KamEwZlV2SnB3MXZXRnBjc1dxanJvem5EQy1DazlCbDRQcUF5MVNjOVZZVS1NWkNoa3lVa2RRcTNyODJMR0VyR2xVd0lyQWYzZV9aQnRuNTZpTk41QmNMYWhrdlRlSmMzZlZhM0lVaVg5cTEzaE1HZjNCOV9teTBuTUFlNFJjWmwzWUU?oc=5"
  },
  {
   "id": "6374d2c9e2",
@@ -26507,6 +26668,26 @@
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYWUxbW93OGloZGJsZTVVX2dBNW0wdXduZ3N1QzEwU2dwRzlGM0I4cnNPOTlhbWh3Vk9DYzhVQkdqdzNxbE1jbmU4VXNuZWRHNlY3V3RwMkpIX2FpTlVONmNDd2hQUUwyV1FxZlRKeVpBZ3RZR3k3YmUtaWpHVDFnbGJTMGpoeTZqYm1SYTFlaVJSSGFkbTlDdzBZdVFSZU00c2wtY0NqRUVCWjlNYWtrY1lLT3N6NGN5U0h2N3JtMm4?oc=5"
  },
  {
+  "id": "9eaede572f",
+  "datum": "2024-03-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Schuur in Zuidbroek die dienst deed als hennepkwekerij, is half jaar gesloten",
+  "bron": "RTV Noord",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Schuur in Zuidbroek die dienst deed als hennepkwekerij, is half jaar gesloten RTV Noord",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelFSTEo0cVNlaXlDYzlfUkRXVXpIaGZEMk8wdkdyeXRhM3dzNXVnYVlMYTRSMGhRUVJwNWhiOFhCNG5mVzF1dTlRd1RBdzg1cVZnS2xyTXo4ZDlXYmh4VzNYWFIyQ0lzSm5ZY2x2UmpsYW1zcnlCcUZiVkVzT2YtTGZNdDFUSm52NGQ5cXJ0ZDVNMUd4ZlBQR3hqck1GUHhjRlJCTDJLVFdmZmNKWFVlTnptYjNHcTg?oc=5"
+ },
+ {
   "id": "c0d2fd588e",
   "datum": "2024-03-21",
   "tijd": "18:54",
@@ -27911,6 +28092,25 @@
   ],
   "samenvatting": "Liquidatiedossiers van crimineel Samir Jabli (38) en Mohammed Alarasi (22) heropend Het Parool",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcDRmY2RERU1MOElpVGxrWnpFck5CTFB2RWpyckE2eGN4VktFZnR4dlBWODJsQWhqMS12QUxyVTQ3blc5bng3V3BDTkRfdU0xeW1kZ3hlNjVvajFISE1odmJpSjgwUTcxR1NZYVdjU0NvRjJLT1oyQk82RlVEcE9YSzFtTHhjdWQ3VzNjUVU2akR3cDk0bDBWWlQ3eFR2dDNoQmJiUm5NOXlQdGVSNmkyaHktdTI0aS1hWGtJcUln?oc=5"
+ },
+ {
+  "id": "16762fc785",
+  "datum": "2023-11-21",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie rolt wietplantage op aan Poortstraat Haarlem: verdachte wordt 'ontboden'",
+  "bron": "NH Nieuws",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Politie rolt wietplantage op aan Poortstraat Haarlem: verdachte wordt 'ontboden' NH Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOG9zV1c2b0lQN1N1TGpCRXNITUp5Q1dxVFBaTklDYlBXSjIxd25CUHg3YnpIbGFDZDRqZ292NHI4ZHBsbGVWNGtmZmxnTUNnXzdpYjFKaVRXOTRMOEZ1N2RXb09CdzBIYl84cmFobU5OYUlHMXJ0SmNvWi11WnlWYWxRNUgxTzhEVU14VzVUNldfYUJhRFpZNG0ya0FWTnFOamJfcVZhMGljWnF6LVU4Qkhxa3oydw?oc=5"
  },
  {
   "id": "990bed874d",
@@ -31166,6 +31366,26 @@
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUlLYlFRTmc2ZmlObHplZFZGRUR2eElzRm1tUlhfVjhYQUNITnAwcjRxRTJQbGJuVFJyX0FEakJOaDgtWDlXdUZvUlB6MlludjYyRFM4UkdWWlE2eURBa0UyZkVjTmhBd2NORzl5VVlCUzk0dVktQVRGUVRLd2Nrck5LUS1BdmhrWGJRallOZU5zdXQ0cEpsR01wOHByTWtsbHZYQzBiNmMxVVdPUWQzZA?oc=5"
  },
  {
+  "id": "690ce2fa4e",
+  "datum": "2022-02-28",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie rolt hennepkwekerij met 1000 planten op in Enschede",
+  "bron": "RTV Oost",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Politie rolt hennepkwekerij met 1000 planten op in Enschede RTV Oost",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHdGUzdENmlMbUlwOVdmSzlHZEJUUXRpT25US0Vwc1A0VmZpVlBpMnowbEhQQXRwVUt0QTNwckxsVVlXZ01BM01hWTdYMkY1TTN1TzIxRWtxRGxlUFB0Y1JhaE1TUEtOWjhQOEZPWUIxdVNDRWdTN0xmaXFMaURHMVBfLWptQWZqWmpPTjNxSHJ3UndhUGxYUA?oc=5"
+ },
+ {
   "id": "873044b9cb",
   "datum": "2022-02-10",
   "tijd": "08:00",
@@ -32507,6 +32727,25 @@
   ],
   "samenvatting": "'Zuid-Afrika zet veroordeelde wapenhandelaar Guus Kouwenhoven het land uit' AD.nl",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQU1VUDFqUFVyRUN5aHVqMW1LUTFadFV3VHZ5ZGlGd1hHVlBkZ3BNQm1KaXoyV3JQaTJVTi1jV3ZXRGl5Xzg5Ynd2X1BxUWdQZ0lSd2NfcFRsRGlzM0lsRjQtODhSak5xTTNwRWcwUDJGaXlmSTA4Q0lEU0l0Mk5KN1VacHhYd1I2c041TjZSaWlXOEpyN3dITHdGblppTUhiTXBqNTJGaUZQeDRKZ0puUjJn?oc=5"
+ },
+ {
+  "id": "0d506472f2",
+  "datum": "2020-11-10",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie verwacht wietplantage op te rollen in Geleen, maar stuit op witlof",
+  "bron": "NU",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Politie verwacht wietplantage op te rollen in Geleen, maar stuit op witlof NU",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkRLeGl1X2c1bl9ld2JUWGk5WG9KOVRHSWh4ZjlqQ3BXMGMyOFNkaVZidDlYa1AzY285NF9zTlpIZUpUckdqZV9pck5JblhCWklqTDNYdmdJNnl5UkpCWEdTZWpEcUVoR0VLRkpDenZCM1I5QThIMGU0MFRZOFNvMFRaOTllODloU053bk1pU1VmMGVkalQxMFItelk1djMwZTNLaldXOXBOREdCblI1NWxLY3Z2UFk?oc=5"
  },
  {
   "id": "99883ab6dc",
@@ -34149,6 +34388,25 @@
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVNlWDZ5QTExVzFlYmlKSl9oZF9EbEw5OU1XRDFBRmZxUHowMEkwcVZUVWNuVTBOdU1NdTZRbmdYLV9tWDlsV0FLY0Z5LUJSZ3Juc3Z6ZHpXQmtPajg3a1B6cE4zVEZNS25lUkRJVnpYZnlmaVFKVDVmaWdBcHdmMVdQTFp3SVE4M0tFMjgtWk85M09FTHZGOEd2ZGVHV3YyWlVKQVVuTkd1c2pGMjJLbjl4ZlJENkZE?oc=5"
  },
  {
+  "id": "4a9267a6d7",
+  "datum": "2019-02-28",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Verzekeraars en banken keihard bij hennepteelt, ook als iemand anders een kwekerij heeft in je pand",
+  "bron": "EenVandaag",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepteelt"
+  ],
+  "samenvatting": "Verzekeraars en banken keihard bij hennepteelt, ook als iemand anders een kwekerij heeft in je pand EenVandaag",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeTh6N1dmU3JhSW9XUHJCcWNNbFktX2xKZjlpXy1JaUJkV2gxTlFhVy1IQThrTDAyUDVyV29hVUZKZ3lUWGdvZ29wWEpXNWtsdGVUQXRQWm4tTDZnd0dZWnlyZTREbkVoM3FNdmdXWmIwcGFtTG52ekE4NFV4QlYwc0RrdmFLV0NpMnJnQlVZLTdQbXY4NjZBenhMcE4tY01qaUxQN1ZpY0lUckZBY3pka1Z0X3R6R0VicFluaTUwVGRPWm5uQUxLUDRnSUc2RU1VTHpLOWlVN09DeWJhMHJr?oc=5"
+ },
+ {
   "id": "8c7d5f3c71",
   "datum": "2019-02-11",
   "tijd": "08:00",
@@ -34339,6 +34597,26 @@
   ],
   "samenvatting": "Rem op Nederlandse wapenhandel naar doelen in Jemen NOS",
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOejA4bVlGNzJfWFQxSlBxdkFkbDlMcVVQcG5XOVFONGZwZTMyLVY4OHdJWUlnajh6ZTFMVjBYUkxKYXpqZ0kzczYyQ0JUUG5RbUd3a3ByMTQ2MmtTT0ctZlFpZDhUTXJOTDlDcHVUdVRHbnp5dFN4TXhYQzVyaWlkenY2SnZzNi1kNkE?oc=5"
+ },
+ {
+  "id": "ff72a62341",
+  "datum": "2018-11-29",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zelf de gevaren ontdekken van illegale hennepteelt in Overvechtse 'kwekerij'",
+  "bron": "RTV Utrecht",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepteelt"
+  ],
+  "samenvatting": "Zelf de gevaren ontdekken van illegale hennepteelt in Overvechtse 'kwekerij' RTV Utrecht",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkJPVmJTbXlxQU8tbG1ocWpTcUJLcDdYSWNWOW5jTUtoWjF3d0x3WEJfQ1hHdGg2M2tWcm9raDFWak5FY3dxNzBWN19Pclp2NGUtNnltZjd2Y1I5NkNJbGYyYTdzOXBDQ3lhZEo0NVRlbEo5NVJGLXFZRWhMUDAtMnRKNml3YU5zb2RUblVhcHpNYktMZzM5M1pkWWFPNUNQeC1Oc2NPanh1VVlXYTBhX2hJT0VUZw?oc=5"
  },
  {
   "id": "6dad7ae2fd",
@@ -34689,6 +34967,25 @@
   ],
   "samenvatting": "Politie rolt groothandel voor hennepteelt in Leeuwarden op NOS",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkdrcGFNdXBzcWdkaDhXN1RzUE5maWVfdFVEOGJXVjVfUzl4R3A2RGxfZk9GN3A1emxlYk5nWTdSUWtSeFRrMjEyOURBbnd1alBIU3JoTzFuWEF5R0gwRFNGd3FHZWhBTmVpdGZlUlJ0Um5mdVNtTU80SnpMcmp4c2hvQWViOVhlQ2pjSUZBZ3VrdEk?oc=5"
+ },
+ {
+  "id": "e38f321edf",
+  "datum": "2018-07-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Geheime lift op toilet leidt naar grote wietplantage",
+  "bron": "NH Nieuws",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Geheime lift op toilet leidt naar grote wietplantage NH Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNazAxOE11RHVrRTFoTVFUVzNIWWRvdERlczQ3d1p1Y0UzVVhsNzAtVTVYdjhKeGdlSzBOSWEtOEc1VGtIajR6SE1DLVBqaGNwd3BDNlAzUnlhZ0diWXBVeVJWbzFMal9JRFpURVBzLU1RT0ZvTHoyYmE3M1BsT2VsMmJkd3FJcU1KWkllWmYybmlJbkhD?oc=5"
  },
  {
   "id": "1d84cf0006",
@@ -35597,6 +35894,45 @@
   "dossiers": [
    "Jeugd & jonge aanwas"
   ]
+ },
+ {
+  "id": "fb2ec047ed",
+  "datum": "2015-12-17",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij met 33.000 planten: 1,5 jaar cel voor Rosmalenaar",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij met 33.000 planten: 1,5 jaar cel voor Rosmalenaar Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2ZYY19xeFZQTExxRXhweFE1ZE1jNDVudzh3cElLalFJRUhGYTd1Y0hYVlZzS1Nua3JtYU9vVVg1V1I3OFJwbjBCTkZ1WlRVY0UxdnZUanFLRGRORGx3ODMzdG1rLUowQlFTUEtUM3l2X0FXVEozb2hRQzh3cW5WMlF6dmtJdlpvb2NZYmp6S3V2d241MTM3dG9qYXIwVnlMRlZsR0lOMGQ?oc=5"
+ },
+ {
+  "id": "f51ce9d185",
+  "datum": "2015-12-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie stuit op hennepkwekerij na overval op huis aan de Reginadonk in Roosendaal",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Politie stuit op hennepkwekerij na overval op huis aan de Reginadonk in Roosendaal Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWF1d1NLbXAtMklFZ3ZaLXBDaVNFdXBZN0o0ampCLXFCMDN5SUVCTktvVW5RcTFFRlRhS2VTV2hiMllhdE9JTXRKX3VCTE9VcXo0dDRVdGt3TUItamQ5cU1BbWMxMGFnWDNHT0d5OFFfYjJrOFRQeEJPZHM3Q09ORmd4Z0lzUmRYeTVjNHo3UWRGVXdITXJRMTlPVVJxaXk0aWlZS2RiQ1JHdGhwaEk5UEYxVDFzQ3BMSHk0eW5VR28xdE54?oc=5"
  },
  {
   "id": "60e131b608",
