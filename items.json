@@ -1,5 +1,24 @@
 [
  {
+  "id": "7d6265bdb3",
+  "datum": "2026-08-30",
+  "tijd": "15:43",
+  "nieuw": true,
+  "titel": "Twee mannen met bivakmutsen én mes maken Kapelle en omstreken onveilig: meerdere meldingen van bedreiging",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bedreiging"
+  ],
+  "samenvatting": "Ze bedreigden tot drie keer toe personen op straat. De politie is op zoek naar getuigen.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18740308/twee-mannen-met-bivakmutsen-en-mes-maken-kapelle-en-omstreken-onveilig-meerdere-meldingen-van-bedreiging"
+ },
+ {
   "id": "fbc767a75f",
   "datum": "2026-08-30",
   "tijd": "14:59",
@@ -216,7 +235,7 @@
   "id": "1949dd5303",
   "datum": "2026-08-30",
   "tijd": "06:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Podcast | Internet­pionier Marleen Stikker: ‘We kunnen ons ontworstelen aan de almacht van big tech’",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -32214,6 +32233,23 @@
   ],
   "samenvatting": "Politie rolt hennepkwekerij met 1000 planten op in Enschede RTV Oost",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHdGUzdENmlMbUlwOVdmSzlHZEJUUXRpT25US0Vwc1A0VmZpVlBpMnowbEhQQXRwVUt0QTNwckxsVVlXZ01BM01hWTdYMkY1TTN1TzIxRWtxRGxlUFB0Y1JhaE1TUEtOWjhQOEZPWUIxdVNDRWdTN0xmaXFMaURHMVBfLWptQWZqWmpPTjNxSHJ3UndhUGxYUA?oc=5"
+ },
+ {
+  "id": "b1a655e258",
+  "datum": "2022-02-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "'Ik weet waar je woont', één op de vijf raadsleden stuit op criminelen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "'Ik weet waar je woont', één op de vijf raadsleden stuit op criminelen Omroep Gelderland",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZTBnZFVVYWtGMi1nQlhfOVJFV2pkZ1BsVkxhNGpvOHJQMHE3S2VmbHFDNGJjel8xMHU2TkhtYmRUWHl5bVpfeHlRNG5zbGdJb2dCcHoyVnRBRE5JZG4wVWFJd0ZsYV90ZVpJSENXdGFWSmpqZmVJZWwxMmpOU1pxMDVsUk5ocF9zb0htZl9kTW9VVmlSZ01Ec0xVTWV2VHhmUzN3?oc=5"
  },
  {
   "id": "873044b9cb",

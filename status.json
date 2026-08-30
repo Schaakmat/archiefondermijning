@@ -1,12 +1,12 @@
 {
- "run": "15:25",
+ "run": "16:24",
  "datum": "2026-08-30",
- "nieuw": 11,
- "totaal": 1872,
- "verwijderd": 10,
+ "nieuw": 13,
+ "totaal": 1874,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1007,
-  "geen dossier": 529
+  "niet-nederlands": 1034,
+  "geen dossier": 500
  },
  "bronnen": [
   {
@@ -455,8 +455,8 @@
    "url": "news.google.com/rss/search?q=RIEC+OR+LIEC+OR+%22Centrum+voor+Criminalite",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 26,
-   "status": "bij",
+   "items": 27,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 6,
-   "status": "bij",
+   "items": 7,
+   "status": "1 nieuw",
    "ok": true
   },
   {
