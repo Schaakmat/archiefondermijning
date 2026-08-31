@@ -1,5 +1,24 @@
 [
  {
+  "id": "64adeda396",
+  "datum": "2026-08-31",
+  "tijd": "11:51",
+  "nieuw": true,
+  "titel": "Dronten - Opnieuw zoektocht naar vermiste Marc Jaskulski in Roggebotsebos",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "De politie zoekt maandag opnieuw in het Roggebotsebos naar sporen van de vermiste Marc Jaskulski uit Dronten. Er wordt gezocht in het bos langs de Hanzeweg, vlak bij het asielzoekerscentrum. De zoekactie duurt waarschijnlijk enkele uren. Jaskulski wordt al twee jaar vermist. Sinds zijn verdwijning heeft de politie meer",
+  "link": "https://www.omroepflevoland.nl/nieuws/522062/opnieuw-zoektocht-naar-vermiste-marc-jaskulski-in-roggebotsebos"
+ },
+ {
   "id": "6738cf9841",
   "datum": "2026-08-31",
   "tijd": "10:31",
@@ -17,6 +36,25 @@
   ],
   "samenvatting": "Een motorrijder is zondagavond gewond geraakt bij een ongeluk op de A6 bij Emmeloord. Dat meldt de politie. De bestuurder botste in de bocht van knooppunt Emmeloord tegen de vangrail. Het slachtoffer reed richting Lemmer. De oorzaak van het ongeluk is nog onduidelijk. De motorrijder is met onbekende verwondingen naar e",
   "link": "https://www.omroepflevoland.nl/nieuws/522057/motorrijder-gewond-na-botsing-op-vangrail-op-a6-bij-emmeloord"
+ },
+ {
+  "id": "bd511ccac5",
+  "datum": "2026-08-31",
+  "tijd": "10:05",
+  "nieuw": true,
+  "titel": "Trekpontje bij Oldemarkt na noodlottig ongeval weer in de vaart",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "Het trekpontje bij Oldemarkt is vanaf vandaag weer in gebruik. De gemeenten Steenwijkerland en Weststellingwerf hebben na onderzoek besloten dat fietsers en voetgangers het pontje over de Lende weer veilig kunnen gebruiken.",
+  "link": "https://www.oost.nl/nieuws/3690054/trekpontje-bij-oldemarkt-na-noodlottig-ongeval-weer-in-de-vaart"
  },
  {
   "id": "69bdf094f2",
@@ -202,7 +240,7 @@
   "id": "19f53d0ae8",
   "datum": "2026-08-31",
   "tijd": "03:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM blaast op laatste moment deal met broer Bolle Jos af",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -228,7 +266,7 @@
   "id": "5788d2ede8",
   "datum": "2026-08-30",
   "tijd": "21:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Brand hoogspanningsstation in Groningen houdt nog dagen aan",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -244,29 +282,10 @@
   "link": "https://nos.nl/l/2629003"
  },
  {
-  "id": "18621db175",
-  "datum": "2026-08-30",
-  "tijd": "20:58",
-  "nieuw": true,
-  "titel": "Psychiater betuigt spijt aan ouders Milou: ‘Ongelofelijk pijnlijk’",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "bedreiging"
-  ],
-  "samenvatting": "Psychiater Jim van Os heeft in 2024 al zijn excuses aangeboden aan de ouders van de overleden 17-jarige Milou uit Bavel. Dat vertelt hij in het tv-programma Zomergasten. Milou overleed in 2023 door euthanasie. Van Os en een aantal andere psychiaters stuurden daarna een brief naar het Openbaar Ministerie met de vraag of",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025143/psychiater-betuigt-spijt-aan-ouders-milou-ongelofelijk-pijnlijk"
- },
- {
   "id": "6bf767b74f",
   "datum": "2026-08-30",
   "tijd": "18:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Halsema: leefbaarheid in steden onder druk door dakloosheid en drugsgebruik",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -285,7 +304,7 @@
   "id": "35bb71a320",
   "datum": "2026-08-30",
   "tijd": "18:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Motorrijder overleden na botsing met lijnbus in Friesland",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -304,7 +323,7 @@
   "id": "45c81d29e1",
   "datum": "2026-08-30",
   "tijd": "18:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Algerije en Italië breiden samenwerking tegen mensensmokkel uit",
   "bron": "MAROKKO.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -323,7 +342,7 @@
   "id": "b6cdc25717",
   "datum": "2026-08-30",
   "tijd": "18:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nederlanders met drugslab vallen door de mand na ’ontvoering’ met jutezak: buurvrouw belt politie",
   "bron": "De Telegraaf",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -890,27 +909,6 @@
   ],
   "samenvatting": "Hoe AI aan het hacken sloeg Bij de hack vorige maand waarbij een losgebroken AI-programma van het bedrijf OpenAI per ongeluk inbrak bij een ander AI-bedrijf waren ruim 1200 AI-agents betrokken. OpenAI, het bedrijf achter ChatGPT wilde testen hoe goed de AI-agents - computerprogramma's die zelfstandig taken uitvoeren om",
   "link": "https://nos.nl/l/2628795"
- },
- {
-  "id": "f77303aeb9",
-  "datum": "2026-08-29",
-  "tijd": "13:18",
-  "nieuw": false,
-  "titel": "A12 in Den Haag korte tijd geblokkeerd door klimaatactivisten",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "burgemeester",
-   "grond"
-  ],
-  "samenvatting": "Klimaatactivisten van Extinction Rebellion (XR) hebben korte tijd een deel van de A12 in Den Haag geblokkeerd. Kort na 13.00 uur bezetten tientallen actievoerders de Utrechtsebaan om aandacht te vragen voor de klimaatproblemen. De activisten waren vanaf de oprit de weg opgelopen. Op deze plek demonstreerde XR al vaker.",
-  "link": "https://nos.nl/l/2628780"
  },
  {
   "id": "c5e5cc3b17",
