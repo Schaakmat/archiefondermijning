@@ -1,5 +1,64 @@
 [
  {
+  "id": "86b61e061f",
+  "datum": "2026-08-31",
+  "tijd": "15:34",
+  "nieuw": true,
+  "titel": "Man vrijgesproken van beramen ontvoering prinsessen Amalia en Alexia",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bedreiging",
+   "erf"
+  ],
+  "samenvatting": "De 33-jarige man die verdacht werd van het plannen van het ontvoeren van prinsessen Amalia en Alexia is vrijgesproken. Volgens de rechtbank in Den Haag verkeerde Anne Romke van der H. in een psychose en had hij nooit plannen voor een ontvoering. Het Openbaar Ministerie had eerder tbs met dwangverpleging tegen hem geëis",
+  "link": "https://nos.nl/l/2629126"
+ },
+ {
+  "id": "c5b0ef432f",
+  "datum": "2026-08-31",
+  "tijd": "13:46",
+  "nieuw": true,
+  "titel": "Drugs op en geen geldig rijbewijs: zo vervoert begeleider kwetsbare cliënten",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "leider"
+  ],
+  "samenvatting": "Een ambulant begeleider is door de politierechter veroordeeld tot een taakstraf van 150 uur en een voorwaardelijke gevangenisstraf van twee weken. De man werd tussen augustus 2025 en maart 2026 herhaaldelijk aangehouden voor het rijden zonder geldig rijbewijs, waarbij hij in één geval onder invloed van drugs achter het",
+  "link": "https://www.gld.nl/nieuws/8516390/drugs-op-en-geen-geldig-rijbewijs-zo-vervoert-begeleider-kwetsbare-clienten"
+ },
+ {
+  "id": "2a44521623",
+  "datum": "2026-08-31",
+  "tijd": "13:36",
+  "nieuw": true,
+  "titel": "Man verkoopt gestolen gsm’s: “Maar witwassen deed ik niet”",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Man verkoopt gestolen gsm’s: “Maar witwassen deed ik niet” HLN",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdi12YnVkQXZWTk83RHRwaXdZNGFBOUdqSFlGRDhFeWtiZ25XS2xkSUh5T3RZUzgyMDFmQW5JbVlLbkZ5YmlVdmJnenBURXByTGZKeUdycDZ5dWI2aDNhdDNqTlhGZ3Z3bzRMUnpuTVliMlJONU1OV1lqU2dKX2dZQ1dZTFpMY1NoNk5wQ2VrZVFpV3B3MUE?oc=5"
+ },
+ {
   "id": "6ef95cba57",
   "datum": "2026-08-31",
   "tijd": "13:15",
@@ -214,7 +273,7 @@
   "id": "c6b672c888",
   "datum": "2026-08-31",
   "tijd": "06:58",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Digiborden en speelgoed vernield: basisschool blijft dicht na inbraak",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -320,6 +379,40 @@
   ],
   "samenvatting": "Het Openbaar Ministerie wil toch geen deal sluiten met Harry Leijdekkers, de broer van de Bredase topcrimineel 'Bolle Jos'. Dat meldt het AD maandagochtend. De top van het OM heeft op het laatste moment besloten geen akkoord te geven. Dinsdag staat Harry Leijdekkers tijdens een voorbereidende zitting voor de rechter. D",
   "link": "https://www.omroepbrabant.nl/nieuws/6025147/om-blaast-op-laatste-moment-deal-met-broer-bolle-jos-af"
+ },
+ {
+  "id": "c1ae582100",
+  "datum": "2026-08-31",
+  "tijd": "00:54",
+  "nieuw": false,
+  "titel": "platform/Devops-engineer - Team Digitale Opsporing - Kom bij de politie",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "platform/Devops-engineer - Team Digitale Opsporing Kom bij de politie",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzBKMUtseTBhbTRWNGVCaWM3V205R1piQjFKUUItaTVJWElRb21MZTMtMkpHejZJRGxLRzNaXy1ibWxnOVVNazJCckJHQmtaOUlCNXBhOEh0T3RJRVpWSGJBY19HTzhlaHotby12S1ZWck8xT3ZzbTNaN2hhQVNqMUpQblVFX2Y5VFBLZFhzTjkyakRRTG9mTUJWTFFkQm00dkE?oc=5"
+ },
+ {
+  "id": "4243ec92ee",
+  "datum": "2026-08-30",
+  "tijd": "23:30",
+  "nieuw": false,
+  "titel": "centralist 144 - Meldpunt Dierenwelzijn - Kom bij de politie",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "centralist 144 - Meldpunt Dierenwelzijn Kom bij de politie",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1c0b3pROUxDOTRPdHQ5dEh5SWM1TGRtUkFScjlCSHR4cFVsbWlxeTJqZ0ozbnl6WDFFWml6eTdVbkNLdGdLa1lBcWZETXZ3M1hMeC1TbzRNM3VvM2VmeGZFMVFMdk54R1FEYmptNHJxc1FuYldWZ3ZQN212Qy1ScjZmWWloUllDTlR4OHBuNzlCRW8?oc=5"
  },
  {
   "id": "5788d2ede8",
@@ -552,25 +645,6 @@
   ],
   "samenvatting": "Op de Markerwaarddijk (N307) is zondagmiddag een auto hard op een vangrail gebotst. Het ongeluk was om 13.45 uur vlak bij de Houtribsluizen in Lelystad. De automobilist kwam uit de richting van Enkhuizen en kon de scherpe bocht naar rechts niet houden. De auto schoot door over de andere weghelft en kwam tegen de vangra",
   "link": "https://www.omroepflevoland.nl/nieuws/521951/auto-rijdt-tegen-vangrail-markerwaarddijk-bestuurder-onder-invloed"
- },
- {
-  "id": "dc9e0b10a2",
-  "datum": "2026-08-30",
-  "tijd": "14:17",
-  "nieuw": false,
-  "titel": "Festivalganger met waanbeelden duikt kanaal in en houdt hulpdiensten bezig",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "camping"
-  ],
-  "samenvatting": "Een bezoeker van hardstylefestival Decibel in Hilvarenbeek heeft de hulpdiensten zowel zaterdagnacht als zondag flink beziggehouden. De man kampte met waanbeelden en dacht dat hij werd achtervolgd. Hij vluchtte van het festivalterrein, dook een kanaal in en raakte vervolgens zoek. De man verbleef op de camping van het ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025131/festivalganger-met-waanbeelden-duikt-kanaal-in-en-houdt-hulpdiensten-bezig"
  },
  {
   "id": "998d09e800",
@@ -20241,6 +20315,23 @@
   "dossiers": [
    "Cocaine, haven & logistiek"
   ]
+ },
+ {
+  "id": "331b38cd26",
+  "datum": "2025-11-06",
+  "tijd": "15:53",
+  "nieuw": false,
+  "titel": "dr. A. (Anne) van Uden - WODC - Wetenschappelijk Onderzoek- en Datacentrum",
+  "bron": "WODC",
+  "verzameld_via": "WODC",
+  "soort": "Rapport",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "dr. A. (Anne) van Uden WODC - Wetenschappelijk Onderzoek- en Datacentrum",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00Zk5pLWVKVDJrVUFwWjV1Zm5BNHpMUkNiTUQyazhuX3MzU0pnUkpTYzlmRFBNeWlkTVUtU2xKc0oxUGx1V2RBa2RBdHpzWmdmMV9pSjNjQy1xSTdKMTZWTA?oc=5"
  },
  {
   "id": "df76754684",
