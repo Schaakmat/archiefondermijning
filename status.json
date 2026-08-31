@@ -1,12 +1,12 @@
 {
- "run": "07:25",
+ "run": "08:25",
  "datum": "2026-08-31",
- "nieuw": 16,
- "totaal": 1917,
+ "nieuw": 15,
+ "totaal": 1920,
  "verwijderd": 12,
  "geweigerd": {
-  "niet-nederlands": 1039,
-  "geen dossier": 525
+  "niet-nederlands": 1029,
+  "geen dossier": 520
  },
  "bronnen": [
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 86,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 13,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -393,7 +393,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 12,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 29,
-   "status": "bij",
+   "items": 30,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 24,
-   "status": "1 nieuw",
+   "items": 26,
+   "status": "2 nieuw",
    "ok": true
   },
   {

@@ -1,5 +1,24 @@
 [
  {
+  "id": "ac8c22e9c9",
+  "datum": "2026-08-31",
+  "tijd": "08:01",
+  "nieuw": true,
+  "titel": "Politie rukt uit voor 'man met hakbijl' in de straat 'Onrust'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "leider"
+  ],
+  "samenvatting": "De politie kreeg zondagavond een melding over een man die met een hakbijl zou rondlopen in Zwijndrecht. Veel agenten gingen er op af en zelfs een hondengeleider en politiehelikopter werden ingezet. Uiteindelijk werd de man (43) in de straat Onrust gevonden, maar zonder hakbijl.",
+  "link": "https://www.rijnmond.nl/nieuws/2246670/politie-rukt-uit-voor-man-met-hakbijl-in-de-straat-onrust"
+ },
+ {
   "id": "a8d8538584",
   "datum": "2026-08-31",
   "tijd": "07:18",
@@ -168,25 +187,6 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6025143/psychiater-betuigt-spijt-aan-ouders-milou-ongelofelijk-pijnlijk"
  },
  {
-  "id": "44ec5affc4",
-  "datum": "2026-08-30",
-  "tijd": "19:21",
-  "nieuw": true,
-  "titel": "Gildeleden Luc en Stefan redden man uit zinkende auto: 'Dat doe je gewoon'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "De leden van het Sint Catherinagilde uit Son komen zondagmiddag terug van een gezellige dag op de kringgildedag, compleet met traditionele kleding, een rit in de huifkar en natuurlijk met de nodige pilsjes. Tot ze ineens een auto zien zinken in het kanaal. Gildebroeders Luc Theunisse en Stefan Verhagen twijfelen geen s",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025141/gildeleden-luc-en-stefan-redden-man-uit-zinkende-auto-dat-doe-je-gewoon"
- },
- {
   "id": "6bf767b74f",
   "datum": "2026-08-30",
   "tijd": "18:29",
@@ -306,7 +306,7 @@
   "id": "720cb40fa7",
   "datum": "2026-08-30",
   "tijd": "17:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dode man gevonden in huis in Geldrop, geen sprake van misdrijf",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -478,6 +478,25 @@
   ],
   "samenvatting": "De politie heeft dit weekend in Gorinchem achttien automobilisten aangehouden omdat ze reden onder invloed. Agenten deden de controles zowel vrijdag als zaterdag. Langs de Spijksedijk en Nieuwe Wolpherensedijk werden auto's van de weg gehaald en gecontroleerd.",
   "link": "https://www.rijnmond.nl/nieuws/2246232/achttien-automobilisten-bekeurd-voor-rijden-onder-invloed-na-zomerfeest-gorinchem"
+ },
+ {
+  "id": "85dfb95d90",
+  "datum": "2026-08-30",
+  "tijd": "10:35",
+  "nieuw": false,
+  "titel": "Achtergelaten fietser overleden, buurvrouw probeerde met wc-rol te helpen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "De impact van het ongeluk waarbij zaterdag een 82-jarige fietser uit Oss om het leven kwam, is zondagochtend nog goed voelbaar. De hoogbejaarde man werd aangereden door een auto die daarna wegreed. Buurtbewoners schoten het slachtoffer te hulp. Een van de buurvrouwen die in hetzelfde appartementencomplex woont als het ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025111/achtergelaten-fietser-overleden-buurvrouw-probeerde-met-wc-rol-te-helpen"
  },
  {
   "id": "9e8600a473",
@@ -5836,6 +5855,25 @@
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ2FBLXJ0T2x5cDF0RTI2TnJLUjRGVjJyV0JMX3c4MUtURVQ5MUI3WWpVVGp5R2l6QU9LSU0tTzBPZXVfUUloWVB1RUw4dmltR2JhVXp2cElnZDd6LXhYaEVyWU1VT2Y4SEdrZVZtdXRfeHRkdFFvRURTWUx1YzRjV0R6UzhpcUNmdnpSbVlNUi1NUzJBck9mSENMV19WUF9KZ09PZGdZdTh0NXR4cTNQaDQwU3RSZU5RTWRxR1lVQmlUa1ctaTNZVFlfMlU4YVFYR0tJRDZUSlZ1b1pOYnU3MFE0QUg?oc=5"
  },
  {
+  "id": "b77723bc9c",
+  "datum": "2026-08-19",
+  "tijd": "12:29",
+  "nieuw": false,
+  "titel": "Schip opgesloten in haven Hardenberg door stremming sluis Eefde in Twentekanaal",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Binnenvaartschip Onderneming ligt noodgedwongen aan de ketting bij de betonfabriek in de haven van Hardenberg. Mogelijk blijft het vrachtschip daar nog weken liggen. Schipper Jan Figge kan geen kant op door de stremming van Sluis Eefde, die ook het kanaal Almelo-De Haandrik treft.",
+  "link": "https://www.oost.nl/nieuws/3685018/schip-opgesloten-in-haven-hardenberg-door-stremming-sluis-eefde-in-twentekanaal"
+ },
+ {
   "id": "239e18f413",
   "datum": "2026-08-19",
   "tijd": "07:00",
@@ -6037,6 +6075,29 @@
   "dossiers": [
    "Arbeidsuitbuiting & mensenhandel"
   ]
+ },
+ {
+  "id": "aaa9f8afb1",
+  "datum": "2026-08-18",
+  "tijd": "05:03",
+  "nieuw": false,
+  "titel": "Tweede man aangehouden voor mogelijke betrokkenheid drugslab IJsselmuiden",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie",
+   "pand"
+  ],
+  "samenvatting": "De politie heeft gisteravond een tweede man aangehouden voor mogelijke betrokkenheid bij de explosie in IJsselmuiden. Het pand aan de Spoordwarsstraat is inmiddels afgezet met hekken. Ook vandaag doet de politie daar verder onderzoek.",
+  "link": "https://www.oost.nl/nieuws/3684337/tweede-man-aangehouden-voor-mogelijke-betrokkenheid-drugslab-ijsselmuiden"
  },
  {
   "id": "1d55d5ecf6",
