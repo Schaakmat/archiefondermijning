@@ -10,10 +10,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
+   "Cocaine, haven & logistiek",
    "Trustkantoren & rechtspersonen"
   ],
   "tags": [
-   "bestuurder"
+   "bestuurder",
+   "vrachtwagen"
   ],
   "samenvatting": "De provincie Flevoland onderzoekt de verkeersveiligheid van de dijk tussen Lelystad en Enkhuizen, waar dit weekend drie tieners om het leven kwamen bij een ernstig ongeluk. Een woordvoerder laat weten dat de verkeersveiligheid op de Markerwaarddijk altijd al een belangrijk aandachtspunt is geweest en dat ook zal blijve",
   "link": "https://www.omroepflevoland.nl/nieuws/522065/provincie-onderzoekt-verkeersveiligheid-markerwaarddijk:-conclusies-dit-najaar"
@@ -212,7 +214,7 @@
   "id": "c6b672c888",
   "datum": "2026-08-31",
   "tijd": "06:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Digiborden en speelgoed vernield: basisschool blijft dicht na inbraak",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -337,6 +339,25 @@
   ],
   "samenvatting": "De brand in het hoogspanningsstation in Meeden in Oost-Groningen zal nog dagen blijven woeden. De brandweer kan het vuur niet blussen en laat het getroffen gebouw daarom gecontroleerd uitbranden. Ook de rookoverlast kan mogelijk tot dinsdag- of woensdagochtend duren, zegt de Veiligheidsregio Groningen. Omwonenden wordt",
   "link": "https://nos.nl/l/2629003"
+ },
+ {
+  "id": "18621db175",
+  "datum": "2026-08-30",
+  "tijd": "20:58",
+  "nieuw": false,
+  "titel": "Psychiater betuigt spijt aan ouders Milou: ‘Ongelofelijk pijnlijk’",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bedreiging"
+  ],
+  "samenvatting": "Psychiater Jim van Os heeft in 2024 al zijn excuses aangeboden aan de ouders van de overleden 17-jarige Milou uit Bavel. Dat vertelt hij in het tv-programma Zomergasten. Milou overleed in 2023 door euthanasie. Van Os en een aantal andere psychiaters stuurden daarna een brief naar het Openbaar Ministerie met de vraag of",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025143/psychiater-betuigt-spijt-aan-ouders-milou-ongelofelijk-pijnlijk"
  },
  {
   "id": "6bf767b74f",
@@ -830,25 +851,6 @@
   "link": "https://www.gld.nl/nieuws/8515367/bestuurder-onder-invloed-aangehouden-na-positieve-drugstest"
  },
  {
-  "id": "8431aa9b0f",
-  "datum": "2026-08-30",
-  "tijd": "00:09",
-  "nieuw": false,
-  "titel": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "haven"
-  ],
-  "samenvatting": "Bij een verkeersongeluk op de dijk Lelystad-Enkhuizen zijn gisteravond drie doden gevallen. De politie zegt dat drie auto's betrokken waren en dat twee auto's op elkaar zijn gebotst. Het ongeval gebeurde rond 22.50 uur. In de auto's zaten in totaal acht personen. Vijf van hen raakten licht tot zwaar gewond. Op beelden ",
-  "link": "https://nos.nl/l/2628868"
- },
- {
   "id": "163b0c856d",
   "datum": "2026-08-29",
   "tijd": "17:34",
@@ -947,25 +949,6 @@
   ],
   "samenvatting": "De politie heeft tijdens een verkeerscontrole vrijdagavond aan de Ringbaan-Zuid in Tilburg meer dan veertig bekeuringen uitgedeeld. Elf bestuurders werden betrapt op rijden onder invloed van drugs of een combinatie van drugs en alcohol. Ook sloeg een bestuurder op de vlucht en veroorzaakte die vlak bij de controle een ",
   "link": "https://www.omroepbrabant.nl/nieuws/6025090/vluchter-veroorzaakt-crash-en-tien-bestuurders-onder-invloed-bij-controle"
- },
- {
-  "id": "1275892633",
-  "datum": "2026-08-29",
-  "tijd": "15:55",
-  "nieuw": false,
-  "titel": "29/8 in Nieuwsuur: Hoe AI aan het hacken sloeg • De positie van de ultraorthodoxen in Israël • Game-industrie onder druk",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "pand"
-  ],
-  "samenvatting": "Hoe AI aan het hacken sloeg Bij de hack vorige maand waarbij een losgebroken AI-programma van het bedrijf OpenAI per ongeluk inbrak bij een ander AI-bedrijf waren ruim 1200 AI-agents betrokken. OpenAI, het bedrijf achter ChatGPT wilde testen hoe goed de AI-agents - computerprogramma's die zelfstandig taken uitvoeren om",
-  "link": "https://nos.nl/l/2628795"
  },
  {
   "id": "c5e5cc3b17",
@@ -37869,6 +37852,26 @@
   ],
   "samenvatting": "'Jan B. uit Hulten grootste wapenhandelaar van Nederland', negen jaar cel geëist Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWdBWkpFMFh3V0RCX29qd1d1ZExUOU5RX3laeEd2N1VNOF9pNzdlQThJa2t2azgyMnZLeEFwamhTa3VnTzd0S2xQaUljUTI3dzdxcFRYbXBCaGRUekFhOTUwcWtTdVhrZWp6YkF0eC0wd0JvUktucG1QTlU4MzN3WGdxVkdXQXl3V2tZOURYSlJDTjlJOXhWSmpRS3NCdlBuSWZwdDdzZzZsWk9BWlVHMUJCSWE5T3VxX0MzTA?oc=5"
+ },
+ {
+  "id": "fda0e830c9",
+  "datum": "2017-01-06",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Onderzoek naar hennepkwekerij resulteert in nóg een vondst",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Onderzoek naar hennepkwekerij resulteert in nóg een vondst Omroep Gelderland",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSVFpeGszSTEtZi0xX2k1eXVoNTJoaGJCQnNqbmlZemhnekpTWG83LUNhUWpGZWZBcmVKQVE2ZDRFUG9Eem1oMnU2SXI3dEJTRHpFb1gzOVRZT25JQkVDcmdab1VCbzdmdnNxb3pGQ3ZieUZrT2lBYXJEaGFieFBOcHlxX3Fxd3M2VHBzdGVnMEM5Nm9mSjl3?oc=5"
  },
  {
   "id": "dbb3d211fe",

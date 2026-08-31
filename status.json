@@ -1,12 +1,12 @@
 {
- "run": "12:26",
+ "run": "13:25",
  "datum": "2026-08-31",
- "nieuw": 12,
+ "nieuw": 11,
  "totaal": 1931,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1034,
-  "geen dossier": 521
+  "niet-nederlands": 1029,
+  "geen dossier": 515
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 93,
-   "status": "bij",
+   "items": 94,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 88,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 12,
-   "status": "4 nieuw",
+   "items": 10,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 32,
-   "status": "2 nieuw",
+   "items": 33,
+   "status": "3 nieuw",
    "ok": true
   },
   {
