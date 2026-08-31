@@ -1,12 +1,12 @@
 {
- "run": "15:25",
+ "run": "16:25",
  "datum": "2026-08-31",
- "nieuw": 12,
- "totaal": 1938,
+ "nieuw": 14,
+ "totaal": 1942,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1032,
-  "geen dossier": 525
+  "niet-nederlands": 1043,
+  "geen dossier": 517
  },
  "bronnen": [
   {
@@ -491,7 +491,7 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 33,
+   "items": 34,
    "status": "3 nieuw",
    "ok": true
   },
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 33,
-   "status": "1 nieuw",
+   "items": 35,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 28,
-   "status": "bij",
+   "items": 29,
+   "status": "1 nieuw",
    "ok": true
   },
   {

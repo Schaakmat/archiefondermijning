@@ -1,5 +1,48 @@
 [
  {
+  "id": "81fb5d1686",
+  "datum": "2026-08-31",
+  "tijd": "16:00",
+  "nieuw": true,
+  "titel": "Veilingmeester komt parken van Peter Gillis niet op: 'Geen toestemming'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "organisatie",
+   "pand",
+   "vakantiepark",
+   "vastgoed"
+  ],
+  "samenvatting": "De veilingmeester die drie vakantieparken van Peter Gillis gedwongen moet verkopen, kan de terreinen voorlopig niet op. Ook grote doeken waarmee de openbare veiling maandag bij de parken werd aangekondigd, waren volgens hem binnen een kwartier alweer verdwenen. Wie ze heeft weggehaald, is niet duidelijk. Het gaat om va",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025341/veilingmeester-komt-parken-van-peter-gillis-niet-op-geen-toestemming"
+ },
+ {
+  "id": "9661066b94",
+  "datum": "2026-08-31",
+  "tijd": "15:58",
+  "nieuw": true,
+  "titel": "Telefoon brengt verdachte in beeld bij gewapende overval Giethoorn",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Een telefoon brengt een 32-jarige man in verband met de gewapende overval op een paardenhandelaar in Giethoorn. Zijn neef wordt niet langer vervolgd, maar hijzelf blijft vastzitten.",
+  "link": "https://www.oost.nl/nieuws/3690436/telefoon-brengt-verdachte-in-beeld-bij-gewapende-overval-giethoorn"
+ },
+ {
   "id": "86b61e061f",
   "datum": "2026-08-31",
   "tijd": "15:34",
@@ -19,6 +62,25 @@
   ],
   "samenvatting": "De 33-jarige man die verdacht werd van het plannen van het ontvoeren van prinsessen Amalia en Alexia is vrijgesproken. Volgens de rechtbank in Den Haag verkeerde Anne Romke van der H. in een psychose en had hij nooit plannen voor een ontvoering. Het Openbaar Ministerie had eerder tbs met dwangverpleging tegen hem geëis",
   "link": "https://nos.nl/l/2629126"
+ },
+ {
+  "id": "6770bc604b",
+  "datum": "2026-08-31",
+  "tijd": "15:03",
+  "nieuw": true,
+  "titel": "Van camping gezet én 80.000 euro kwijt: vrienden blijven doorvechten tegen campingeigenaar",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "camping"
+  ],
+  "samenvatting": "Hun chalets zijn van camping De Fontein in Eibergen verwijderd en inmiddels ligt er beslag op spaargeld en loon. Toch geven Cristi, Ben en hun vriend Leo hun juridische strijd tegen de nieuwe campingeigenaar niet op.",
+  "link": "https://www.gld.nl/nieuws/8513391/van-camping-gezet-en-80000-euro-kwijt-vrienden-blijven-doorvechten-tegen-campingeigenaar"
  },
  {
   "id": "c5b0ef432f",
@@ -57,6 +119,25 @@
   ],
   "samenvatting": "Een ambulant begeleider is door de politierechter veroordeeld tot een taakstraf van 150 uur en een voorwaardelijke gevangenisstraf van twee weken. De man werd tussen augustus 2025 en maart 2026 herhaaldelijk aangehouden voor het rijden zonder geldig rijbewijs, waarbij hij in één geval onder invloed van drugs achter het",
   "link": "https://www.gld.nl/nieuws/8516390/begeleider-vervoert-zonder-rijbewijs-en-met-drugs-op-kwetsbare-clienten"
+ },
+ {
+  "id": "0933385a99",
+  "datum": "2026-08-31",
+  "tijd": "13:46",
+  "nieuw": true,
+  "titel": "Begeleider vervoert zonder rijbewijs en met drugs op een kwetsbare cliënt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "leider"
+  ],
+  "samenvatting": "Een ambulant begeleider is door de politierechter veroordeeld tot een taakstraf van 150 uur en een voorwaardelijke gevangenisstraf van twee weken. De man werd tussen augustus 2025 en maart 2026 herhaaldelijk aangehouden voor het rijden zonder geldig rijbewijs, waarbij hij in één geval onder invloed van drugs achter het",
+  "link": "https://www.gld.nl/nieuws/8516390/begeleider-vervoert-zonder-rijbewijs-en-met-drugs-op-een-kwetsbare-client"
  },
  {
   "id": "2a44521623",
@@ -197,7 +278,7 @@
   "id": "69bdf094f2",
   "datum": "2026-08-31",
   "tijd": "09:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rhenen pakt afvaldumping aan met meertalige informatie en gerichte wijkacties",
   "bron": "rijnpost.nl",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -216,7 +297,7 @@
   "id": "de0be496fd",
   "datum": "2026-08-31",
   "tijd": "08:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding",
   "bron": "Brabants Dagblad",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -321,7 +402,6 @@
    "Jeugd & jonge aanwas"
   ],
   "tags": [
-   "jeugd",
    "school"
   ],
   "samenvatting": "Basisschool de Kleine Vos aan de Graspieper in Mierlo blijft ook dinsdag dicht nadat er zondagavond werd ingebroken. Volgens de politie zijn er 'grove vernielingen' aangericht. Het is onduidelijk wanneer de school weer open kan. Digiborden zijn vernield, meubels zijn omgegooid, ramen ingegooid en lesmateriaal is door d",
