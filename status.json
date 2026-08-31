@@ -1,12 +1,12 @@
 {
- "run": "18:25",
+ "run": "19:25",
  "datum": "2026-08-31",
- "nieuw": 16,
- "totaal": 1948,
- "verwijderd": 14,
+ "nieuw": 22,
+ "totaal": 1955,
+ "verwijderd": 15,
  "geweigerd": {
   "niet-nederlands": 1028,
-  "geen dossier": 514
+  "geen dossier": 513
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 95,
-   "status": "bij",
+   "items": 97,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 94,
-   "status": "bij",
+   "items": 95,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 12,
-   "status": "bij",
+   "items": 13,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -419,8 +419,8 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 52,
-   "status": "bij",
+   "items": 54,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -429,7 +429,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 118,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 35,
-   "status": "4 nieuw",
+   "items": 34,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 20,
-   "status": "6 nieuw",
+   "items": 22,
+   "status": "8 nieuw",
    "ok": true
   },
   {
