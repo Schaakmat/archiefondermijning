@@ -197,7 +197,7 @@
   "id": "7d6265bdb3",
   "datum": "2026-08-30",
   "tijd": "15:43",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Twee mannen met bivakmutsen én mes maken Kapelle en omstreken onveilig: meerdere meldingen van bedreiging",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -216,7 +216,7 @@
   "id": "fbc767a75f",
   "datum": "2026-08-30",
   "tijd": "14:59",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Lelystad - Auto rijdt tegen vangrail Markerwaarddijk, bestuurder onder invloed",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -11160,6 +11160,25 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUstalltSXF2eXA0QXVScGticFMxcld2MFRnNXdaN25hUzJGZTVCQ2RnVHQwX21FRVFxUGJBMEZMNXI1d0ZKaEZkTVFnXzBzeG1BU0dILVhFUlVJYU5UYVliYjZpM0NxY21BMHBGUS1xU2xwZ1RDV0NvRWVxQW9UZEhOUmptcXp5eEdPRVdIS2syRmhwNjZDeDR3R3p5ZFFTOExtc09WMVhZbk5qNlMzT2E1X1RNQU10dVFkRG5B?oc=5"
  },
  {
+  "id": "9c9ac28e96",
+  "datum": "2026-06-08",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Kabinet scherpt regels aan tegen zorgfraude | Strengere eise",
+  "bron": "Nieuws.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Kabinet scherpt regels aan tegen zorgfraude | Strengere eise Nieuws.nl",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHliLWtxT3ZlQzZBamg1djhuOElwNlgyclVhVlpYbUszeEI1MXJNVThfWlZKdS1oOVhWSXlCQUdFYXFvVnJVNXFvT3NKZ1JNSmJJNUtHS0NVUFVqOFRmV2RLTEluWGxNQng4RlpadEJEbmlKZzNEak9oOEdvbzNoMURUc2xEcmpzS0xtU2dLbXJTcDVNZ0lqMg?oc=5"
+ },
+ {
   "id": "3faaf210fd",
   "datum": "2026-06-05",
   "tijd": "11:27",
@@ -11313,6 +11332,27 @@
   ],
   "samenvatting": "Politie treft ingemetseld lichaam van 99-jarige vrouw aan: mogelijk sprake van uitkeringsfraude De Telegraaf",
   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNajVMMVgwU1R2UTRrbC1BWlJFMTNVdnVwYlJiazFQYWhDYmREQTVXWmhGdzFyNjRlSlh4RXR0aGp5Mi05RjlFRDdURVE0VE5waGtOQnVBSFRfSmUyb29ITy1iQ1BhMi1aS016OTczX0JYUUFiTFc4M1ZxQjgxeW1QR1BnaHJkRzRZbWZHcmlrTU10RFJsclBjMUlwZWRobnlzOXhkWVFqRUU3OEhrbEd6Z3FKZS1xUEJEbXRndW1GME9BSDVkQUtWWExDeXB5UHQ0dkQwenI0UVc0eDMtcHc?oc=5"
+ },
+ {
+  "id": "08252c9caf",
+  "datum": "2026-06-03",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Medewerker begraafplaatsen aangehouden voor diefstal en witwassen",
+  "bron": "070online",
+  "verzameld_via": "Nieuws — Goudhandel & edelmetalen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "stal",
+   "witwassen"
+  ],
+  "samenvatting": "Medewerker begraafplaatsen aangehouden voor diefstal en witwassen 070online",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbjFiQUFYS0VuMVg5NXZ4bmxwV1NSTGo0Z1AxX3ZMMjg2OUNkX0ZLcE9FYTZGOXZQaHBMaGlWN0hMRGhldmxWY1BaOXVsY2JDT2tfeC1nbjFZenB2VWRMZTlOTEhaY0UxbnJ0NHQtZ1BwekV2Q09nOWMzVzdSSDdFb2ZtUjBDb2JmV3cxU3F4aU5tVXlYblFNWV82d21KR0E?oc=5"
  },
  {
   "id": "8d8ae783eb",

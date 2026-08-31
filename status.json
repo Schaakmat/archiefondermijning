@@ -1,11 +1,11 @@
 {
- "run": "01:25",
+ "run": "02:25",
  "datum": "2026-08-31",
- "nieuw": 10,
- "totaal": 1894,
+ "nieuw": 12,
+ "totaal": 1896,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1038,
+  "niet-nederlands": 1033,
   "geen dossier": 524
  },
  "bronnen": [
@@ -86,8 +86,8 @@
    "url": "news.google.com/rss/search?q=goudhandel%20witwassen%20OR%20goudopkoper%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 4,
-   "status": "bij",
+   "items": 5,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 88,
-   "status": "bij",
+   "items": 89,
+   "status": "1 nieuw",
    "ok": true
   },
   {
