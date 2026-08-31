@@ -1,5 +1,81 @@
 [
  {
+  "id": "6738cf9841",
+  "datum": "2026-08-31",
+  "tijd": "10:31",
+  "nieuw": true,
+  "titel": "Emmeloord - Motorrijder gewond na botsing op vangrail op A6 bij Emmeloord",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een motorrijder is zondagavond gewond geraakt bij een ongeluk op de A6 bij Emmeloord. Dat meldt de politie. De bestuurder botste in de bocht van knooppunt Emmeloord tegen de vangrail. Het slachtoffer reed richting Lemmer. De oorzaak van het ongeluk is nog onduidelijk. De motorrijder is met onbekende verwondingen naar e",
+  "link": "https://www.omroepflevoland.nl/nieuws/522057/motorrijder-gewond-na-botsing-op-vangrail-op-a6-bij-emmeloord"
+ },
+ {
+  "id": "69bdf094f2",
+  "datum": "2026-08-31",
+  "tijd": "09:12",
+  "nieuw": true,
+  "titel": "Rhenen pakt afvaldumping aan met meertalige informatie en gerichte wijkacties",
+  "bron": "rijnpost.nl",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "Rhenen pakt afvaldumping aan met meertalige informatie en gerichte wijkacties rijnpost.nl",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdUZ6T2liQ2ZIdjVYNzFGWlFCeV9vRk5TTzZYOUl3dnByQzNCQUxWaGY2SVNZVHA5UWpfUUFPVnQyZkJEQU95c3A0Q004M1ZWOW5RU280SF9MVDhPVVhjLXliY3VJUWI5REU0bjBib0p6YWlFblljblpmdWVORGV4ZXFseWxxM2xEMUZneFNZNFQ2UzFFOG92UFc2eGpkbV9GVVFzNUM4Y2hvVzVYZWc4amlhanZMUQ?oc=5"
+ },
+ {
+  "id": "de0be496fd",
+  "datum": "2026-08-31",
+  "tijd": "08:30",
+  "nieuw": true,
+  "titel": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNVRVeC05MktPVHRmMV9wQ2l1NGNHUmptcmJNNzZoMHlNeTFjaHNkbXR6ajBFX1VaSV9UYUlGZXpPV3ctTU9KTWRhSUJkd1BLYjZPZlJIQ0JTUnBSbkdtVTlKNVU0aE1rSTVndVJxbFpaVXRBNE42SmR4Y0w2ZDhxSVg2VzRVd0Fkak9Kdy1RSlNvRXVQTUQ3M19yczlLN1kzSnFWcVZyU0oxSVB6RFV0RXFDZkhaWHRoWVRKd2tta0RwbG85STBnMWdMME50dw?oc=5"
+ },
+ {
+  "id": "d4703b5290",
+  "datum": "2026-08-31",
+  "tijd": "08:04",
+  "nieuw": true,
+  "titel": "Veel vacatures voor boa's in onze regio: meldingen blijven langer liggen en controles gaan niet door",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Minder toezicht op straat, controles die niet doorgaan en meldingen die langer blijven liggen. In meerdere gemeenten in de regio heeft een tekort aan boa’s direct gevolgen voor de handhaving. Ook als het gaat om bescherming van de boa’s worden er door gemeenten verschillende keuzes gemaakt: van geen bodycam tot een pro",
+  "link": "https://www.rijnmond.nl/nieuws/2245867/veel-vacatures-voor-boas-in-onze-regio-meldingen-blijven-langer-liggen-en-controles-gaan-niet-door"
+ },
+ {
   "id": "ac8c22e9c9",
   "datum": "2026-08-31",
   "tijd": "08:01",
@@ -38,11 +114,11 @@
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWnVqRlpiU0pKNFBLd25aRzlBUk9nS2xLejVvTjNCajl6d3lBazdWd0ZwOGpiYzUxamFyZHFDcV8ySmt2MUNab0Z1NVdvSXlNdUVMOWVOcTljZTVmVWN2aG9OVnJsUDdjQUJ0eFJoMDNaZEZiV3FoV2N1Z3RXTjZpdmczMVhqUFVCNFVsWVFIR1NuWXdyUE5Kd3ViX3hZZWx0QlE?oc=5"
  },
  {
-  "id": "37d8ee2d39",
+  "id": "c6b672c888",
   "datum": "2026-08-31",
   "tijd": "06:58",
   "nieuw": true,
-  "titel": "Basisschool in Mierlo vandaag dicht na inbraak, meerdere ruimtes vernield",
+  "titel": "Digiborden en speelgoed vernield: basisschool blijft dicht na inbraak",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -54,7 +130,7 @@
    "school"
   ],
   "samenvatting": "Basisschool de Kleine Vos aan de Graspieper in Mierlo blijft maandag dicht nadat er zondagnacht werd ingebroken. De directie van de school zegt dat het waarschijnlijk gaat om vandalisme. Digiborden zijn vernield, meubels zijn omgegooid en lesmateriaal is door de klassen gegooid. Ook speelgoed van de kinderen en boeken ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025152/basisschool-in-mierlo-vandaag-dicht-na-inbraak-meerdere-ruimtes-vernield"
+  "link": "https://www.omroepbrabant.nl/nieuws/6025152/digiborden-en-speelgoed-vernield-basisschool-blijft-dicht-na-inbraak"
  },
  {
   "id": "b94c293512",
@@ -266,7 +342,7 @@
   "id": "40bb4e6ee8",
   "datum": "2026-08-30",
   "tijd": "17:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tweetal aangehouden na ongeval in Gameren",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -287,7 +363,7 @@
   "id": "e58c2c68b6",
   "datum": "2026-08-30",
   "tijd": "17:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dode man gevonden in huis in Geldrop, politie houdt alle scenario's open",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -478,25 +554,6 @@
   ],
   "samenvatting": "De politie heeft dit weekend in Gorinchem achttien automobilisten aangehouden omdat ze reden onder invloed. Agenten deden de controles zowel vrijdag als zaterdag. Langs de Spijksedijk en Nieuwe Wolpherensedijk werden auto's van de weg gehaald en gecontroleerd.",
   "link": "https://www.rijnmond.nl/nieuws/2246232/achttien-automobilisten-bekeurd-voor-rijden-onder-invloed-na-zomerfeest-gorinchem"
- },
- {
-  "id": "85dfb95d90",
-  "datum": "2026-08-30",
-  "tijd": "10:35",
-  "nieuw": false,
-  "titel": "Achtergelaten fietser overleden, buurvrouw probeerde met wc-rol te helpen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "De impact van het ongeluk waarbij zaterdag een 82-jarige fietser uit Oss om het leven kwam, is zondagochtend nog goed voelbaar. De hoogbejaarde man werd aangereden door een auto die daarna wegreed. Buurtbewoners schoten het slachtoffer te hulp. Een van de buurvrouwen die in hetzelfde appartementencomplex woont als het ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025111/achtergelaten-fietser-overleden-buurvrouw-probeerde-met-wc-rol-te-helpen"
  },
  {
   "id": "9e8600a473",
@@ -1381,6 +1438,25 @@
   ],
   "samenvatting": "Een nepagent die er met sieraden vandoor gaat en een bijna volledig vermomde man bij een geldautomaat. De politie vraagt in oplichtingszaken in Rijssen en Hengelo om jouw hulp.",
   "link": "https://www.oost.nl/nieuws/3679737/sieraden-weg-en-duizenden-euros-gepind-na-overtuigende-verhalen-van-oplichters"
+ },
+ {
+  "id": "832362bccc",
+  "datum": "2026-08-28",
+  "tijd": "16:03",
+  "nieuw": false,
+  "titel": "Oudere in Hengelo opgelicht: 7 uur aan de telefoon gehouden en 5000 euro kwijt",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "geldautomaat"
+  ],
+  "samenvatting": "Een bijna volledig vermomde man bij een geldautomaat. De politie vraagt voor een oplichtingszaak in Hengelo om jouw hulp.",
+  "link": "https://www.oost.nl/nieuws/3679737/oudere-in-hengelo-opgelicht-7-uur-aan-de-telefoon-gehouden-en-5000-euro-kwijt"
  },
  {
   "id": "ca2e36a990",
@@ -6585,6 +6661,29 @@
   ],
   "samenvatting": "Grote hennepkwekerij met 456 planten gevonden in Crabbehof na klachten over lekkage BN DeStem",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2t5XzNDY0dxSFhwSFNzWk83Q0lyQk5NbUplWWNlYm5CMGV4WTYwQ01LU3AxZ205SG1uUEhSdmxIN3phRS1PUzVqaTUydDZEbXBCMkJfMVVTdGpYUkZWVXdqV3I0YUlEUmFIekFyVjlkeVJnTnRKS0Y0UGZvMkhtRzJRMWc4MW45azd3eGFOSjF4cXhIbXJWazR2NElOYXN2dHFyUl9oT05VZVhuWXVDZ09aaElsbWRaZ2MtN2JjVGxwa3c2dkE?oc=5"
+ },
+ {
+  "id": "5148e268eb",
+  "datum": "2026-08-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Man uit Zwaag had levensgevaarlijk drugslab in zijn woning. Officier: ’Er was gevaar voor brand en explosie’",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "Man uit Zwaag had levensgevaarlijk drugslab in zijn woning. Officier: ’Er was gevaar voor brand en explosie’ Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNX3J5dG5WSjl4N0VaUml0cndiU2luRUFybG4xaWVEa1Z3ZFB5MnpFRXkzbkZTaWVaVmhkaWVaUVg3M3ViSG5kcFM4NVpkMUlOLTVadTI3UlQtc0dUbnktOFl1Tl9sd242c2t3YW9RMnZYdWpCRi1Ua2hJNmRKZlROVGs5TGdHVDhIUFA3c040ZkR4LXJxUERUYTd0YTZQQmw4Ml9TLWlxZ2pxRmJnSHlHV2R5SGpfaE8zcEVWbnlCZm1MOFJWanlXZENZMXJMS3k4OF9EeDlJaEZRbVBGWDRJVTZGcC1LYUhRUHZLQ0pkcEp2YlotV1YtYlRzQ1ZseGE4czdPVzBYRUc?oc=5"
  },
  {
   "id": "0948ca742c",

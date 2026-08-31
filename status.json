@@ -1,12 +1,12 @@
 {
- "run": "08:25",
+ "run": "09:25",
  "datum": "2026-08-31",
- "nieuw": 15,
- "totaal": 1920,
+ "nieuw": 17,
+ "totaal": 1925,
  "verwijderd": 12,
  "geweigerd": {
   "niet-nederlands": 1029,
-  "geen dossier": 520
+  "geen dossier": 509
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 45,
-   "status": "bij",
+   "items": 46,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 92,
-   "status": "bij",
+   "items": 93,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 92,
-   "status": "bij",
+   "items": 93,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 34,
-   "status": "5 nieuw",
+   "items": 33,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -500,7 +500,7 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 30,
+   "items": 31,
    "status": "1 nieuw",
    "ok": true
   },
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 26,
-   "status": "2 nieuw",
+   "items": 27,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 15,
-   "status": "2 nieuw",
+   "items": 16,
+   "status": "3 nieuw",
    "ok": true
   },
   {
