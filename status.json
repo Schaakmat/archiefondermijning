@@ -1,12 +1,12 @@
 {
- "run": "16:25",
+ "run": "17:25",
  "datum": "2026-08-31",
- "nieuw": 14,
- "totaal": 1942,
- "verwijderd": 10,
+ "nieuw": 15,
+ "totaal": 1946,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1043,
-  "geen dossier": 517
+  "niet-nederlands": 1039,
+  "geen dossier": 512
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 94,
-   "status": "bij",
+   "items": 95,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 11,
-   "status": "3 nieuw",
+   "items": 12,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 34,
-   "status": "3 nieuw",
+   "items": 35,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 35,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 29,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 18,
-   "status": "4 nieuw",
+   "items": 19,
+   "status": "5 nieuw",
    "ok": true
   },
   {
