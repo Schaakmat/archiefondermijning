@@ -1,12 +1,12 @@
 {
- "run": "19:25",
+ "run": "20:25",
  "datum": "2026-08-31",
- "nieuw": 22,
- "totaal": 1955,
+ "nieuw": 17,
+ "totaal": 1957,
  "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1028,
-  "geen dossier": 513
+  "niet-nederlands": 1030,
+  "geen dossier": 511
  },
  "bronnen": [
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 97,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 95,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -393,7 +393,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 13,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -420,7 +420,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 54,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 29,
-   "status": "bij",
+   "items": 30,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,7 +545,7 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 22,
+   "items": 23,
    "status": "8 nieuw",
    "ok": true
   },

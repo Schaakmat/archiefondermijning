@@ -1,5 +1,49 @@
 [
  {
+  "id": "2d305cbd0c",
+  "datum": "2026-08-31",
+  "tijd": "22:04",
+  "nieuw": true,
+  "titel": "Flevoland - Na vechtpartij hoeven broers en neven niet meer terug naar de gevangenis",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "geweld",
+   "grond",
+   "jeugd"
+  ],
+  "samenvatting": "Vijf leden van de Flevolandse familie V. hebben een taakstraf gekregen voor een vechtpartij in Amsterdam. De broers en neven hoeven niet meer terug naar de cel, zo oordeelde de rechtbank maandag. Het Openbaar Ministerie (OM) eiste twee weken geleden nog forse celstraffen, hoewel het om grotendeels voorwaardelijke straf",
+  "link": "https://www.omroepflevoland.nl/nieuws/522133/na-vechtpartij-hoeven-broers-en-neven-niet-meer-terug-naar-de-gevangenis"
+ },
+ {
+  "id": "53d48677dd",
+  "datum": "2026-08-31",
+  "tijd": "22:03",
+  "nieuw": true,
+  "titel": "Dronten - Politie: onbekende dode in Roggebotsebos was een man met een lederen kruisje aan zijn ketting",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Goudhandel & edelmetalen",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "goud",
+   "grond"
+  ],
+  "samenvatting": "Een ketting met lederen kruisje, mogelijk afkomstig uit de orthodoxe kerk. Dat is een van de aanwijzingen die de politie heeft gevonden bij de botresten van een onbekende man in het bos bij het asielzoekerscentrum in Dronten. De politie hoopt zijn identiteit te achterhalen met een oproep in het televisieprogramma Opspo",
+  "link": "https://www.omroepflevoland.nl/nieuws/522149/politie:-onbekende-dode-in-roggebotsebos-was-een-man-met-een-lederen-kruisje-aan-zijn-ketting"
+ },
+ {
   "id": "0b1e74323d",
   "datum": "2026-08-31",
   "tijd": "21:19",
@@ -36,9 +80,7 @@
    "hennep",
    "hennepplantage",
    "hennepteelt",
-   "huurwoning",
-   "wietplantage",
-   "wietteelt"
+   "woning"
   ],
   "samenvatting": "Buren roken een wietlucht in hun straat, waarna de politie een hennepplantage met ruim 150 planten ontdekte in een woning aan het Vosplantsoen in Almere Buiten. De bewoner bekende maandag in de rechtszaal dat hij deze plantage had vanwege \"financiële redenen\". Dat kan grote gevolgen hebben: woningcorporatie GoedeStede ",
   "link": "https://www.omroepflevoland.nl/nieuws/522108/goedestede-wil-huurder-uit-huis-hebben:-'hennepteelt-is-voor-ons-een-no-go'"
@@ -84,6 +126,25 @@
   ],
   "samenvatting": "De afsluiting van de Norgerbrug bij Assen zou een half jaar duren, tot afgelopen mei. De verwachting van de provincie is nu dat er pas begin volgend jaar weer verkeer over de brug kan rijden. \"Dat heeft te maken met tegenslagen aan het begin, maar nu is ook een broedende beschermde vogel ons letterlijk in de weg gaan z",
   "link": "https://nos.nl/l/2629159"
+ },
+ {
+  "id": "88d9611131",
+  "datum": "2026-08-31",
+  "tijd": "18:49",
+  "nieuw": true,
+  "titel": "Na bijna 3 jaar wordt gekraakt kantoorpand Zwolle dan toch echt ontruimd",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand"
+  ],
+  "samenvatting": "De bewoners van een voormalig kantoorpand aan de Dokter Spanjaardweg in Zwolle krijgen geen uitstel. De rechter heeft hun verzoek afgewezen. Daardoor kan het pand vanaf morgen worden ontruimd.",
+  "link": "https://www.oost.nl/nieuws/3690517/na-bijna-3-jaar-wordt-gekraakt-kantoorpand-zwolle-dan-toch-echt-ontruimd"
  },
  {
   "id": "f28fec8678",
@@ -300,7 +361,7 @@
   "id": "2e300aedac",
   "datum": "2026-08-31",
   "tijd": "13:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Begeleider vervoert zonder rijbewijs en met drugs op kwetsbare cliënten",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -319,7 +380,7 @@
   "id": "0933385a99",
   "datum": "2026-08-31",
   "tijd": "13:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Begeleider vervoert zonder rijbewijs en met drugs op een kwetsbare cliënt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -338,7 +399,7 @@
   "id": "2a44521623",
   "datum": "2026-08-31",
   "tijd": "13:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man verkoopt gestolen gsm’s: “Maar witwassen deed ik niet”",
   "bron": "HLN",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -357,7 +418,7 @@
   "id": "6ef95cba57",
   "datum": "2026-08-31",
   "tijd": "13:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Provincie onderzoekt verkeersveiligheid Markerwaarddijk: conclusies dit najaar",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -378,7 +439,7 @@
   "id": "863cadf2c5",
   "datum": "2026-08-31",
   "tijd": "12:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "“Ik wilde mijn gezin helpen”: jongeman (24) krijgt mildere straf voor witwassen van 3.000 euro buit door phishing",
   "bron": "HLN",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -397,7 +458,7 @@
   "id": "64adeda396",
   "datum": "2026-08-31",
   "tijd": "11:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dronten - Opnieuw zoektocht naar vermiste Marc Jaskulski in Roggebotsebos",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -416,7 +477,7 @@
   "id": "56293591a4",
   "datum": "2026-08-31",
   "tijd": "11:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twintiger uit Molenbeek krijgt twaalf maanden celstraf voor heling en witwassen",
   "bron": "BRUZZ",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -435,7 +496,7 @@
   "id": "6738cf9841",
   "datum": "2026-08-31",
   "tijd": "10:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - Motorrijder gewond na botsing op vangrail op A6 bij Emmeloord",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -961,25 +1022,6 @@
   ],
   "samenvatting": "Ze bedreigden tot drie keer toe personen op straat. De politie is op zoek naar getuigen.",
   "link": "https://www.omroepzeeland.nl/nieuws/18740308/twee-mannen-met-bivakmutsen-en-mes-maken-kapelle-en-omstreken-onveilig-meerdere-meldingen-van-bedreiging"
- },
- {
-  "id": "fbc767a75f",
-  "datum": "2026-08-30",
-  "tijd": "14:59",
-  "nieuw": false,
-  "titel": "Lelystad - Auto rijdt tegen vangrail Markerwaarddijk, bestuurder onder invloed",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Op de Markerwaarddijk (N307) is zondagmiddag een auto hard op een vangrail gebotst. Het ongeluk was om 13.45 uur vlak bij de Houtribsluizen in Lelystad. De automobilist kwam uit de richting van Enkhuizen en kon de scherpe bocht naar rechts niet houden. De auto schoot door over de andere weghelft en kwam tegen de vangra",
-  "link": "https://www.omroepflevoland.nl/nieuws/521951/auto-rijdt-tegen-vangrail-markerwaarddijk-bestuurder-onder-invloed"
  },
  {
   "id": "998d09e800",
