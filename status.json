@@ -1,12 +1,12 @@
 {
- "run": "03:25",
+ "run": "04:25",
  "datum": "2026-08-31",
- "nieuw": 10,
- "totaal": 1896,
+ "nieuw": 12,
+ "totaal": 1898,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1007,
-  "geen dossier": 487
+  "niet-nederlands": 1033,
+  "geen dossier": 524
  },
  "bronnen": [
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 52,
-   "status": "bij",
+   "items": 53,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 33,
-   "status": "4 nieuw",
+   "items": 34,
+   "status": "5 nieuw",
    "ok": true
   },
   {
