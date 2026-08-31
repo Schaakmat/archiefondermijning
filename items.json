@@ -1,5 +1,24 @@
 [
  {
+  "id": "6ef95cba57",
+  "datum": "2026-08-31",
+  "tijd": "13:15",
+  "nieuw": true,
+  "titel": "Lelystad - Provincie onderzoekt verkeersveiligheid Markerwaarddijk: conclusies dit najaar",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "De provincie Flevoland onderzoekt de verkeersveiligheid van de dijk tussen Lelystad en Enkhuizen, waar dit weekend drie tieners om het leven kwamen bij een ernstig ongeluk. Een woordvoerder laat weten dat de verkeersveiligheid op de Markerwaarddijk altijd al een belangrijk aandachtspunt is geweest en dat ook zal blijve",
+  "link": "https://www.omroepflevoland.nl/nieuws/522065/provincie-onderzoekt-verkeersveiligheid-markerwaarddijk:-conclusies-dit-najaar"
+ },
+ {
   "id": "64adeda396",
   "datum": "2026-08-31",
   "tijd": "11:51",
@@ -15,8 +34,27 @@
   "tags": [
    "geweld"
   ],
-  "samenvatting": "De politie zoekt maandag opnieuw in het Roggebotsebos naar sporen van de vermiste Marc Jaskulski uit Dronten. Er wordt gezocht in het bos langs de Hanzeweg, vlak bij het asielzoekerscentrum. De zoekactie duurt waarschijnlijk enkele uren. Jaskulski wordt al twee jaar vermist. Sinds zijn verdwijning heeft de politie meer",
+  "samenvatting": "De politie zoekt maandag opnieuw in het Roggebotsebos in Dronten naar sporen van de vermiste Marc Jaskulski uit die plaats. Er wordt gezocht in het bos langs de Hanzeweg, vlakbij het asielzoekerscentrum. De zoekactie duurt waarschijnlijk enkele uren en er is een graafmachine bij betrokken. Jaskulski wordt al twee jaar ",
   "link": "https://www.omroepflevoland.nl/nieuws/522062/opnieuw-zoektocht-naar-vermiste-marc-jaskulski-in-roggebotsebos"
+ },
+ {
+  "id": "56293591a4",
+  "datum": "2026-08-31",
+  "tijd": "11:01",
+  "nieuw": true,
+  "titel": "Twintiger uit Molenbeek krijgt twaalf maanden celstraf voor heling en witwassen",
+  "bron": "BRUZZ",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Twintiger uit Molenbeek krijgt twaalf maanden celstraf voor heling en witwassen BRUZZ",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX1U1NzNyTHNPWFRQaXVKc3NVM3VKZEJwckM2ZlA4VjlFaDZfWWg0SEttODZJdkhrdUcySS1NRDRGX3pidDMyOVNjMFgyZjdOMlY5bFhLczlvSlpQZVVtVVVlNUlMakNYeFJEVHJKaC1ONFg5aEZyQk1iT3VEcFMzZGZVblZDcFpsOFRhcjNmZkZmcDNEWmxTRGhSQ19TYktqczB2N3owdHRoeDduNXplYjVrdmRZS2xqcy1BSTVHQVFoaFg2?oc=5"
  },
  {
   "id": "6738cf9841",
@@ -165,9 +203,10 @@
    "Jeugd & jonge aanwas"
   ],
   "tags": [
+   "jeugd",
    "school"
   ],
-  "samenvatting": "Basisschool de Kleine Vos aan de Graspieper in Mierlo blijft maandag dicht nadat er zondagnacht werd ingebroken. De directie van de school zegt dat het waarschijnlijk gaat om vandalisme. Digiborden zijn vernield, meubels zijn omgegooid en lesmateriaal is door de klassen gegooid. Ook speelgoed van de kinderen en boeken ",
+  "samenvatting": "Basisschool de Kleine Vos aan de Graspieper in Mierlo blijft maandag dicht nadat er zondagavond werd ingebroken. Volgens de politie zijn er 'grove vernielingen' aangericht. Het is onduidelijk wanneer de school weer open kan. Digiborden zijn vernield, meubels zijn omgegooid, ramen ingegooid en lesmateriaal is door de kl",
   "link": "https://www.omroepbrabant.nl/nieuws/6025152/digiborden-en-speelgoed-vernield-basisschool-blijft-dicht-na-inbraak"
  },
  {
@@ -240,7 +279,7 @@
   "id": "19f53d0ae8",
   "datum": "2026-08-31",
   "tijd": "03:35",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "OM blaast op laatste moment deal met broer Bolle Jos af",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -266,7 +305,7 @@
   "id": "5788d2ede8",
   "datum": "2026-08-30",
   "tijd": "21:04",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Brand hoogspanningsstation in Groningen houdt nog dagen aan",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -1594,6 +1633,23 @@
   ],
   "samenvatting": "Op meerdere locaties in Breda en Sint-Willebrord zijn deze week illegale medicijnen, verdovende middelen, vuurwerk en wapens gevonden. Vier verdachten zijn aangehouden voor de overtreding van de geneesmiddelenwet en de Opiumwet. De politie had informatie dat er mogelijk illegaal gehandeld werd in medicijnen. Afgelopen ",
   "link": "https://www.omroepbrabant.nl/nieuws/6025024/illegale-medicijnen-vuurwerk-en-wapens-gevonden-vier-verdachten-opgepakt"
+ },
+ {
+  "id": "1de38efaec",
+  "datum": "2026-08-28",
+  "tijd": "10:55",
+  "nieuw": false,
+  "titel": "‘Velen hebben geen benul van het gevaar’ - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "‘Velen hebben geen benul van het gevaar’ Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjdlhjM3BQZW5Ta0JzLVZfS05INi1FTkhTLTNwcmlDWVJKdEs3bHVCZ1FmdEZ2NnA4NFdNbG9ER0VKWTBLNnFwUXIyVmNEbWlqZWZMcmZDNGNqd1BiUHh1MWhWNmNSdG5uV3JVSU1vS2dFMDlVS2N0cw?oc=5"
  },
  {
   "id": "62c7275040",
@@ -3703,6 +3759,23 @@
   ],
   "samenvatting": "FIOD doet inval in woning Spijkenisse bij groot onderzoek naar invoer harddrugs en witwassen Drimble",
   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOamdrVkc4anVkYUhrbjFBM241LVFrRnZqamNHbjE1VkFWT3lxaXgteGMyQXFNbmhrN2ZwTVFRUGllcUJ5Nld5SktlaXRJXy1WVnBmN3hBNFBXbXlJUk5NZjlLMG5GenBRVDNtei1SMjN2M3RkQzMzbFEwMjlGTlhCaUxETFkyYURwTU9fbkxwc3dvVWxaX1BaRS1mMjB2RTJUMV83VWU3NHZ5bjFtZWxRZWJFS052MmhYSmtRdmQ2T0dMX0VGQll6bTNHRDZSRzJsaXd5SzVoZUtGMml4T0NwR3FLZHhGdXhLenU3SlNKN1M4Zw?oc=5"
+ },
+ {
+  "id": "77ef9629ca",
+  "datum": "2026-08-25",
+  "tijd": "21:24",
+  "nieuw": false,
+  "titel": "operationeel specialist A - Basisteam Utrecht-West - Kom bij de politie",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "operationeel specialist A - Basisteam Utrecht-West Kom bij de politie",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQm1USzdCVTNyUS16LWNRM0d1UU81emNhS0J1cmZGb3h5M0prOXFqQWVMcEk1cDM0OWE5U0t5UkVXLWhrcmhxZVQ0U2tKRHVqY1VxTF9sdHVaZTRTd0ZmLVVfZnJKVGwtZlphbjBtQ2I4TDNIaWhzZjJmd2ZfY3oxUFEybG5XdnFFMDFkaWlTNjRvRGN4WGMwQVFTNGdteVVnYWc?oc=5"
  },
  {
   "id": "c1b5be8639",
@@ -19040,6 +19113,29 @@
   ],
   "samenvatting": "De verborgen wereld achter een autohandel in Best: drugsmiljoenen witwassen op volle toeren Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ0Z5ZUN2S3QyN1pmR1IwaVV6cmtrSHc1RlkxUzYtR1NzWWdNZzREbmJRbkJkZk40VkphM0FjWGhKdWFsdjFQMHRyUER2cnpsdGxCTVZQeXVGb1dHUmM5YURyaVdDZEltTGhLd0Y0akFmMVQxMWRtVUlmM0tEY2diTmtxUE84SzBWcGdTc00wdlpadl9WY0xpa0VDNTMzQ1hnVkpuVjFpVkNLOEg0S1dlU3hDWC1HaWdnUktlbEJzdDVUYkpOZFVv?oc=5"
+ },
+ {
+  "id": "3208d2a3f0",
+  "datum": "2025-12-05",
+  "tijd": "11:51",
+  "nieuw": false,
+  "titel": "Kopstuk afval- en mestfraude sluit deal met justitie: Peet W. moet 1,3 miljoen betalen en krijgt 900 uur werkstraf | Foto",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "kopstuk",
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Kopstuk afval- en mestfraude sluit deal met justitie: Peet W. moet 1,3 miljoen betalen en krijgt 900 uur werkstraf | Foto BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONkdXQkZxSkxHM1FlR1RXdlo0Ukt5b2NSeXlzNl9QUkxzQ3VvbkdPYzktbm1tV3NoZXhLM0U5RkdxQ2tORWhTSmFhWHlKOUhLMVoyMGstMjlqWEpkamV5QXNvUGItTGhlUjRjUU5vTDFPa1ZJRVVMWThMaHVCY2FoUWw0OTJpRlZkUU1pb3pCcUFVZDRTMUJwcXhRTi1pM3V2MURjV3ZrZ2k5UFZuT2IxOFVfN21tSi1aNmlCcUE1a1FLYk03ZVpBSmhWMTAyM09TdzBKQXhtMExwdHFnUmxIZ08xeVNfU1NKbERNVEMwb3VTR21qRFp5dlIzSFVpZw?oc=5"
  },
  {
   "id": "bf9b4ca29f",

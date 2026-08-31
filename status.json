@@ -1,11 +1,11 @@
 {
- "run": "10:25",
+ "run": "11:26",
  "datum": "2026-08-31",
- "nieuw": 12,
- "totaal": 1925,
- "verwijderd": 12,
+ "nieuw": 16,
+ "totaal": 1930,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1040,
+  "niet-nederlands": 1031,
   "geen dossier": 523
  },
  "bronnen": [
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 86,
-   "status": "bij",
+   "items": 87,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 93,
-   "status": "bij",
+   "items": 94,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -419,8 +419,8 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 49,
-   "status": "bij",
+   "items": 50,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -428,8 +428,8 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 116,
-   "status": "bij",
+   "items": 117,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 28,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 17,
-   "status": "3 nieuw",
+   "items": 18,
+   "status": "4 nieuw",
    "ok": true
   },
   {
