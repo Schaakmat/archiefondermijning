@@ -19,6 +19,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522065/provincie-onderzoekt-verkeersveiligheid-markerwaarddijk:-conclusies-dit-najaar"
  },
  {
+  "id": "863cadf2c5",
+  "datum": "2026-08-31",
+  "tijd": "12:11",
+  "nieuw": true,
+  "titel": "“Ik wilde mijn gezin helpen”: jongeman (24) krijgt mildere straf voor witwassen van 3.000 euro buit door phishing",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "“Ik wilde mijn gezin helpen”: jongeman (24) krijgt mildere straf voor witwassen van 3.000 euro buit door phishing HLN",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1kya3hxam50UFQ2VlpqbzEwVGdzeTNLTTBqaTdhT240ZkRSWkdOTG1GWThLVl85LU4yOWRaaUc5dHdMTGw1dXdVbkxNdEdxN3Q2aURSRFRyWEtCSHR1Nm9lOVIwNnJlYXNSQ1dweTV1cmNveTFiZmtjV0JNZjdtR2xlb1NKX0ZibjJjVy1rUjA2ekRYVTh2NVEyelVfbG1KaUFScmlPXzdpRWphdVJmVjBRZjJsTHFtenNyUWZVZVAwcEVhRDNPR3pDelJvTW16TVlmUlYySkxmUTAyc3kwMFMtYVlFcmE0Njgwaw?oc=5"
+ },
+ {
   "id": "64adeda396",
   "datum": "2026-08-31",
   "tijd": "11:51",
@@ -203,7 +222,6 @@
    "Jeugd & jonge aanwas"
   ],
   "tags": [
-   "jeugd",
    "school"
   ],
   "samenvatting": "Basisschool de Kleine Vos aan de Graspieper in Mierlo blijft maandag dicht nadat er zondagavond werd ingebroken. Volgens de politie zijn er 'grove vernielingen' aangericht. Het is onduidelijk wanneer de school weer open kan. Digiborden zijn vernield, meubels zijn omgegooid, ramen ingegooid en lesmateriaal is door de kl",
@@ -213,7 +231,7 @@
   "id": "b94c293512",
   "datum": "2026-08-31",
   "tijd": "06:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Ooit was het een bunker voor grote bedrijven, nu wordt het gebouw gesloopt: Dit gebeurde er in het Getronics-gebouw",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -241,7 +259,7 @@
   "id": "a448f107b1",
   "datum": "2026-08-31",
   "tijd": "04:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Deventer wakker geschud door explosie, uitgebrande auto afgezet door politie",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -260,7 +278,7 @@
   "id": "c90b18e8b5",
   "datum": "2026-08-31",
   "tijd": "04:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw gewond na steekpartij in Hoek van Holland, jongen (17) opgepakt",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -279,7 +297,7 @@
   "id": "19f53d0ae8",
   "datum": "2026-08-31",
   "tijd": "03:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM blaast op laatste moment deal met broer Bolle Jos af",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -305,7 +323,7 @@
   "id": "5788d2ede8",
   "datum": "2026-08-30",
   "tijd": "21:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Brand hoogspanningsstation in Groningen houdt nog dagen aan",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
