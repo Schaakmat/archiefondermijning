@@ -1,12 +1,12 @@
 {
- "run": "06:25",
+ "run": "07:25",
  "datum": "2026-08-31",
- "nieuw": 12,
- "totaal": 1913,
+ "nieuw": 16,
+ "totaal": 1917,
  "verwijderd": 12,
  "geweigerd": {
-  "niet-nederlands": 1023,
-  "geen dossier": 507
+  "niet-nederlands": 1039,
+  "geen dossier": 525
  },
  "bronnen": [
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 85,
-   "status": "bij",
+   "items": 86,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 12,
-   "status": "bij",
+   "items": 13,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 11,
-   "status": "bij",
+   "items": 12,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 23,
-   "status": "bij",
+   "items": 24,
+   "status": "1 nieuw",
    "ok": true
   },
   {
