@@ -1,12 +1,12 @@
 {
- "run": "03:33",
+ "run": "04:32",
  "datum": "2026-09-01",
- "nieuw": 15,
- "totaal": 1965,
+ "nieuw": 16,
+ "totaal": 1966,
  "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1036,
-  "geen dossier": 523
+  "niet-nederlands": 1001,
+  "geen dossier": 480
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 97,
-   "status": "bij",
+   "items": 98,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -455,8 +455,8 @@
    "url": "news.google.com/rss/search?q=RIEC+OR+LIEC+OR+%22Centrum+voor+Criminalite",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 27,
-   "status": "bij",
+   "items": 28,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -474,8 +474,8 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 3,
-   "status": "bij",
-   "ok": true
+   "status": "fout: TimeoutError",
+   "ok": false
   },
   {
    "naam": "Investico",
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 34,
-   "status": "3 nieuw",
+   "items": 33,
+   "status": "2 nieuw",
    "ok": true
   },
   {
