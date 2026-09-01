@@ -1,5 +1,25 @@
 [
  {
+  "id": "2b875f1813",
+  "datum": "2026-09-01",
+  "tijd": "20:31",
+  "nieuw": true,
+  "titel": "Deur weggeblazen door explosie bij flatgebouw in Rosmalen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "vuurwerk"
+  ],
+  "samenvatting": "Een explosie heeft dinsdagavond rond half tien voor flinke schade gezorgd bij een flatgebouw aan de Fort Prins Willem in Rosmalen. Door de knal werd de deur weggeblazen en sneuvelden meerdere ramen. De politie vermoedt dat er zwaar vuurwerk is gebruikt. Het is nog niet bekend wat er precies is gebeurd en of er gewonden",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025513/deur-weggeblazen-door-explosie-bij-flatgebouw-in-rosmalen"
+ },
+ {
   "id": "a2a3f6afe6",
   "datum": "2026-09-01",
   "tijd": "19:44",
@@ -400,6 +420,25 @@
   "link": "https://nos.nl/l/2629264"
  },
  {
+  "id": "b9cccf28da",
+  "datum": "2026-09-01",
+  "tijd": "14:24",
+  "nieuw": false,
+  "titel": "LEES TERUG | Mogelijk wapen gevonden na zoekactie • paard liep schotwond op",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De politie is dinsdag bezig met een zeer grote operatie in Overasselt. 's Nachts gingen agenten af op een melding aan de Ewijkseweg. Daarbij kwam iemand door pistoolschoten om het leven en raakten twee politieagenten gewond. In dit liveblog houden we je op de hoogte van het laatste nieuws.",
+  "link": "https://www.gld.nl/nieuws/8516970/lees-terug-mogelijk-wapen-gevonden-na-zoekactie-paard-liep-schotwond-op"
+ },
+ {
   "id": "339b38dee4",
   "datum": "2026-09-01",
   "tijd": "14:18",
@@ -424,6 +463,25 @@
   ],
   "samenvatting": "Bredanaar Harry Leijdekkers (51) wil naar huis. Hij heeft al genoeg in de cel gezeten en het is de autoriteiten alleen maar te doen om zijn achternaam. \"Dit heeft toch niks met gerechtigheid te maken?\" Dat vertelde hij samen met zijn advocaat dinsdag op zijn eerste openbare zitting rond deze broer van 'Bolle' Jos Leijd",
   "link": "https://www.omroepbrabant.nl/nieuws/6025378/broer-van-bolle-jos-wil-vrijgelaten-worden-het-is-alleen-om-achternaam"
+ },
+ {
+  "id": "46d92fc40a",
+  "datum": "2026-09-01",
+  "tijd": "14:05",
+  "nieuw": false,
+  "titel": "Nijmegen sluit 'hangplek' voor daklozen vanwege incidenten en overlast",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "De gemeente Nijmegen sluit de ontmoetingsplek voor dak- en thuislozen aan de Schevichavenstraat vanwege toenemende drukte en overlast. De plek is een pilot om overlast te verminderen, maar lijkt juist een aanzuigende werking te hebben. De politie waarschuwt dat de locatie de grote groep niet meer aankan. De plek gaat d",
+  "link": "https://www.gld.nl/nieuws/8516743/nijmegen-sluit-hangplek-voor-daklozen-vanwege-incidenten-en-overlast"
  },
  {
   "id": "339f2e6eee",
@@ -38465,6 +38523,23 @@
   "tags": [],
   "samenvatting": "Vacatures zoeken Kom bij de politie",
   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03ZlBYZGdqbXFySXZnaUtKcVl6VXc0VE45Qnp5RjBlSXB4dzhLRHNsaHU3R1hBWFo1YnhTUGxSZ3ZldWJuR2s5VTBXZWItQQ?oc=5"
+ },
+ {
+  "id": "8cecc68470",
+  "datum": "2019-02-01",
+  "tijd": "07:59",
+  "nieuw": false,
+  "titel": "Werken in de Intelligence: opsporing met data - Kombijdepolitie",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Werken in de Intelligence: opsporing met data Kombijdepolitie",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GRDNJT0lWUGc5MzlwSTAyeW1hYXp0S05ENm1TTVBTT1YtdEJYcjZ2R3E3MFpZN3JnUHRuaDBWc1NwdEltTzdsandEM1pwcVBvaE9vemZaOUMzS0tzcTVpRzNYRW1GVTMwaGc?oc=5"
  },
  {
   "id": "6b61195f3d",
