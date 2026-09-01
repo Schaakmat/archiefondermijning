@@ -1,5 +1,36 @@
 [
  {
+  "id": "1975a2b8ea",
+  "datum": "2026-09-01",
+  "tijd": "23:48",
+  "nieuw": true,
+  "titel": "Oproep om binnen te blijven in Overasselt vervallen na dag met 'on-Nederlands' geweld",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Drugsproductie & labs",
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bende",
+   "boerderij",
+   "burgemeester",
+   "cocaïne",
+   "doodgeschoten",
+   "drugslab"
+  ],
+  "samenvatting": "De oproep aan de inwoners van Overasselt om binnen te blijven, is ingetrokken. De politie zegt dat er geen aanwijzingen zijn dat zich nog verdachten in of rond het dorp schuilhouden. Wel blijft de oproep van kracht om meteen 112 te bellen als inwoners een verdachte situatie zien. Vannacht is in het gebied verscherpt to",
+  "link": "https://nos.nl/l/2629323"
+ },
+ {
   "id": "2b875f1813",
   "datum": "2026-09-01",
   "tijd": "20:31",
@@ -378,7 +409,7 @@
   "id": "b3ec5ea05b",
   "datum": "2026-09-01",
   "tijd": "14:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wietkwekerij met honderden planten ontmanteld, drie verdachten aangehouden",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -392,6 +423,25 @@
   ],
   "samenvatting": "De kwekerij is ontmanteld en de politie doet verder onderzoek.",
   "link": "https://www.omroepzeeland.nl/nieuws/18745741/wietkwekerij-met-honderden-planten-ontmanteld-drie-verdachten-aangehouden"
+ },
+ {
+  "id": "b9cccf28da",
+  "datum": "2026-09-01",
+  "tijd": "14:24",
+  "nieuw": false,
+  "titel": "LEES TERUG | Mogelijk wapen gevonden na zoekactie • paard liep schotwond op",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De politie is dinsdag bezig met een zeer grote operatie in Overasselt. 's Nachts gingen agenten af op een melding aan de Ewijkseweg. Daarbij kwam iemand door pistoolschoten om het leven en raakten twee politieagenten gewond. In dit liveblog houden we je op de hoogte van het laatste nieuws.",
+  "link": "https://www.gld.nl/nieuws/8516970/lees-terug-mogelijk-wapen-gevonden-na-zoekactie-paard-liep-schotwond-op"
  },
  {
   "id": "b42ffc6e75",
@@ -418,25 +468,6 @@
   ],
   "samenvatting": "Grote politieactie in Overasselt Een grote politieactie in het Gelderse dorp Overasselt, nadat daar bij een schietpartij een dode viel en twee agenten gewond raakten. Het dorp werd afgesloten en zwaar bewapende agenten begonnen een klopjacht naar verdachten. De Telegraaf schrijft dat een mogelijk drugsconflict gelieerd",
   "link": "https://nos.nl/l/2629264"
- },
- {
-  "id": "b9cccf28da",
-  "datum": "2026-09-01",
-  "tijd": "14:24",
-  "nieuw": false,
-  "titel": "LEES TERUG | Mogelijk wapen gevonden na zoekactie • paard liep schotwond op",
-  "bron": "Omroep Gelderland",
-  "verzameld_via": "Omroep Gelderland",
-  "soort": "Nieuwsbericht",
-  "regio": "Gelderland",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "wapen"
-  ],
-  "samenvatting": "De politie is dinsdag bezig met een zeer grote operatie in Overasselt. 's Nachts gingen agenten af op een melding aan de Ewijkseweg. Daarbij kwam iemand door pistoolschoten om het leven en raakten twee politieagenten gewond. In dit liveblog houden we je op de hoogte van het laatste nieuws.",
-  "link": "https://www.gld.nl/nieuws/8516970/lees-terug-mogelijk-wapen-gevonden-na-zoekactie-paard-liep-schotwond-op"
  },
  {
   "id": "339b38dee4",
@@ -3180,6 +3211,26 @@
   ],
   "samenvatting": "Verdwenen eigenaar, ontsnapte paarden en een wietkwekerij in de schuur: dit speelt bij verwaarloosde Betuwse manege De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeG5IQjFaWTFiOFIyaEJCV3NacWxUSlZadC1HdURsRE8xRmh1WWZva1I0b1pfSXZCZmtvT1EtLWIxZ191OGp0S3htaFo0aWk0QnEyUmtLc0tBcFpXQllmR2RZQ1lrNkt3cjhkaXA3bTYtdlhSd3NLVU1PYTlkRHA1VjVhei1RTDk1anVHTlkwcGp2LW9qSkwwcFZ0OThBbmRhb3lSd3VDX1h1ZmZGUURSUUpwZURJb1EwT2tJdl9HTDdleUdhTHFMVWFvRTlvZmpURlBCRTdwd0szc19OSmJWMk9JbEE2TTgxUFpIUnFvMFV6Rl9H?oc=5"
+ },
+ {
+  "id": "af700facd7",
+  "datum": "2026-08-27",
+  "tijd": "17:44",
+  "nieuw": false,
+  "titel": "Leden van drugslijn in Hoensbroek verdacht van inzetten kwetsbare verslaafden en eigen kinderen: cocaïne op salontafel",
+  "bron": "limburger.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne",
+   "drugslijn"
+  ],
+  "samenvatting": "Leden van drugslijn in Hoensbroek verdacht van inzetten kwetsbare verslaafden en eigen kinderen: cocaïne op salontafel limburger.nl",
+  "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTk5YOTQ2VENsZFN5blM3bi1oa2JQand1UE9OSWlVRWVsM3lBX2pwYnpVQ2FLVVR6VFk4U2ZqQUFNOEdrS0lNcUFlV2dhWVFFdzZlOXVwQlRoeTE5dzlCUnV2Tk9NejJGWndTSFZ5S2hFMGhsV1NBRmtRNFB1WFR2a0dNdDJQMDYzN05FUTNnQW02aTFVU1l6M180MHhINDBGUGladXh4LUR5LWJTcEZvMWwyVGlaSndjSkdnODFBR3FaMDRfMVQyVjJwcGJMU2Q1dG53dm9WaDZHZTFhY2ZLSV9nM085b0dJWFcybEl4NFl1bTZ4WDlmN0hCVV9CZFIzamJGS3gzME5kTWlZZ1E?oc=5"
  },
  {
   "id": "0209b5b589",
@@ -8767,6 +8818,25 @@
   ],
   "samenvatting": "Braziliaanse politie rolt internationaal drugskartel op met crypto-constructies voor witwassen Crypto.nl",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZW4xQWZhTTdwQ0V6TVJfb3JwN3NnbmU0TFV1emRWa0s2cmlwZmJBb0pON0RRM3czbl9YWnREUlFFWWQyMFdEck42b01VZXl4amFJdlVIcl9faHd0UXpOQ2pFSVZ3QnZmQjN1WWk3YkQ5eTdDNXYwLUdySldjRzFEdUM4ZjY1VGpDaC1PTlhqcmF4SlFuUm8zN28yUDl0VDk3dTVmYXJ4MnZ3T3VzcjlaVEVaNXlEeVoxSDltSG1jdTM5cFB6cnYxVjVOMmhSQQ?oc=5"
+ },
+ {
+  "id": "610739cede",
+  "datum": "2026-07-27",
+  "tijd": "10:01",
+  "nieuw": false,
+  "titel": "Accountants en administratiekantoren aangesproken op poortwachtersfunctie criminele geldstromen",
+  "bron": "Taxlive",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "criminele geldstromen"
+  ],
+  "samenvatting": "Accountants en administratiekantoren aangesproken op poortwachtersfunctie criminele geldstromen Taxlive",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdnd5Yy1XOVkyazN1RjVPcjJuSHZ2NGlDdVF0Vy14WnpRQW05RTBfNXIxMmQwZ1lHMEYzOWM4ZC1yVzlrdGl4cU5iTGxlU3FhNXJmT00wdE1sdVpRTjljOHVDd2VkWkVyT0dfVjZwaWlFNlk1RU9PUVdTdmRxTmVRcmV5Zmg3cTlNRmNBWEdwUmZZcFJxS1o3Y0tmTUVpTHBsS0V0Wm9JWDNSZE5ENjl5d1ROZHJQbDRCRk1xV2FTUndvWlpjU24tQmZ5NnEta1pGTHdpbWk1Zw?oc=5"
  },
  {
   "id": "0b5830a1af",
@@ -30371,6 +30441,25 @@
   ],
   "samenvatting": "Opmerkelijke conclusies over liquidaties: criminelen vaker vermoord door ’vrienden’ dan vijand De Telegraaf",
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQVc3c0dtUDE0NUdxMm5PZlF3c3BqdHZXUVZ4WW9HNkNpOTd4bXJSMnRqUEtuRjBpaWgyN1N1ZnJLRF80SGNsVmFzOWM0SWhTbnZmWVdCRmxDWVNERUYxNUhpX3FhSEU4ZFAzNDc0LUU5UUpXYlI4bmRwTks1VzRQd3pSYy1GWDdZdnFUNWo1TW45ZmJjRVUtYVJNZ2JFNVAteFFEcDREa3h0UnBWMGpqZVpZRF8zNkY3V0pKTndMbFhza3lPb3phUHBOQ0Z6QWtmbUowX25DSzk?oc=5"
+ },
+ {
+  "id": "6fbdf4fc3d",
+  "datum": "2024-02-01",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Liquidatieplegers in beeld: gedreven door wrok, geldlust en loyaliteit",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Geweld, liquidaties & bedreiging",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "Liquidatieplegers in beeld: gedreven door wrok, geldlust en loyaliteit NOS",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEFxRWNYUFNxSVhweFkzUEJ2NW1QVk5Ta0tFdEhOdVNQSVFTMWdqN3pLb1dPU1FOb01aVXo2X05lZlh3MkFlS2NFM3lBSmdrNDhKd3F3eHEtd2hzYkpZekx6amsxR1loVk0tc1U1dU5vZTZqRXdXc3kweVVwTUhDV0o2RVVKVEY3WVpFSFk4UXhUUEpwTkl6ZFdMdHg0VVkz?oc=5"
  },
  {
   "id": "fc951af054",
