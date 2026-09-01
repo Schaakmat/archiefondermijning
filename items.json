@@ -1,22 +1,22 @@
 [
  {
-  "id": "eba18344f7",
+  "id": "de7ddd47f5",
   "datum": "2026-09-01",
-  "tijd": "07:04",
+  "tijd": "06:59",
   "nieuw": true,
-  "titel": "Dode bij schietpartij Overasselt, twee agenten gewond",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
+  "titel": "Jongen op fatbike rijdt meer dan 80 km/u, politie zet achtervolging in ‘met geknepen billen’",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
   "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
+  "regio": "Rotterdam",
   "dossiers": [
-   "Wapens, explosieven & vuurwerk"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "wapen"
+   "haven"
   ],
-  "samenvatting": "Bij een schietpartij op de Ewijkseweg in het Gelderse Overasselt is iemand om het leven gekomen. Twee agenten die op een melding afkwamen, raakten gewond. Wat er precies gebeurd is, is onduidelijk. Een omwonende zegt tegen Omroep Gelderland dat hij rond 04.20 uur knallen hoorde en ambulances en een traumahelikopter zag",
-  "link": "https://nos.nl/l/2629203"
+  "samenvatting": "Een minderjarige jongen is op het Havenspoorpad tussen Rotterdam en Barendrecht gevlucht toen hij de politie zag. Dat deed hij afgelopen zondagavond op een fatbike die hij zelf had opgevoerd. Volgens de jongen kan de fiets een snelheid van 100 kilometer per uur halen.",
+  "link": "https://www.rijnmond.nl/nieuws/2247189/jongen-op-fatbike-rijdt-meer-dan-80-km-u-politie-zet-achtervolging-in-met-geknepen-billen"
  },
  {
   "id": "8dd27e79b7",
@@ -315,7 +315,7 @@
   "id": "1703ab9b1f",
   "datum": "2026-08-31",
   "tijd": "18:09",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "digitaal professional - Kom bij de politie",
   "bron": "Politie",
   "verzameld_via": "Politie",
@@ -34980,6 +34980,25 @@
   ],
   "samenvatting": "Verdachte aangehouden voor mensensmokkel en zorgfraude Nederlandse Arbeidsinspectie",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkZXZ3FsclFxUEM4UTZHTExpTm5Qb0tnTjFWb0QtYWl6ZGFHN25QZE1yZXNHVXhublM2OFRMdTFZaFBSc3FiczNKVm9KajJ2c0V6d2FOZ1E4RkFTMkdHMEFROEdEVHNqS2EySm81ZjA1MHROV1BsdG1KekpZY09JTVljYlJiZURJY3B5Z2FMQU9ULWNMa3pieG1paklHdWRlQnNDNGZmZTRXT0tPV3BLN0p3ODU?oc=5"
+ },
+ {
+  "id": "09e9677031",
+  "datum": "2021-04-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Justitie nam dit jaar voor 8 miljoen euro aan bitcoins in, fors meer dan vorig jaar",
+  "bron": "Trouw",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "bitcoin"
+  ],
+  "samenvatting": "Justitie nam dit jaar voor 8 miljoen euro aan bitcoins in, fors meer dan vorig jaar Trouw",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV2Q3ZjNNcUJ1SGU3Qm1kcnlQWmdyUjFaLVVZaVFBT0VjMkRzc1h6WjQ4TUxGMjdENnZWX2c4ZTdqeXNmUUpjeXM1d0lQbFRaOUUtMF92MVFoeFdSSW1qOW1hYmV4X2hSdWNKczIzT2hSVnp6RF9QUDRLeVRJUkJnRmhJZFFkUU9iNTd1Vkh5ZFZYSlJoYmI3VnFNeWtBT3lNMmZvaFgxWUhwSGlkNkljVktoNTIteXdWSDlOTmpmcw?oc=5"
  },
  {
   "id": "73ae1cc88d",
