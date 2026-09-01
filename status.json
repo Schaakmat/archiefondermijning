@@ -1,12 +1,12 @@
 {
- "run": "22:29",
+ "run": "23:26",
  "datum": "2026-09-01",
- "nieuw": 19,
- "totaal": 2038,
+ "nieuw": 18,
+ "totaal": 2041,
  "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1049,
-  "geen dossier": 510
+  "geen dossier": 497,
+  "niet-nederlands": 1030
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 100,
-   "status": "bij",
+   "items": 101,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 95,
-   "status": "1 nieuw",
+   "items": 97,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 55,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 36,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 17,
-   "status": "8 nieuw",
+   "status": "7 nieuw",
    "ok": true
   },
   {

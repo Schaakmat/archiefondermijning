@@ -10,22 +10,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Drugsproductie & labs",
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "bende",
-   "boerderij",
-   "burgemeester",
-   "cocaïne",
-   "doodgeschoten",
-   "drugslab"
+   "geweld"
   ],
   "samenvatting": "De oproep aan de inwoners van Overasselt om binnen te blijven, is ingetrokken. De politie zegt dat er geen aanwijzingen zijn dat zich nog verdachten in of rond het dorp schuilhouden. Wel blijft de oproep van kracht om meteen 112 te bellen als inwoners een verdachte situatie zien. Vannacht is in het gebied verscherpt to",
   "link": "https://nos.nl/l/2629323"
@@ -390,7 +378,7 @@
   "id": "4fe54b1e3e",
   "datum": "2026-09-01",
   "tijd": "14:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Piet en Astrid stellen hun oprit gratis open voor campers: 'Het is echt booming'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -7404,6 +7392,25 @@
   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTRENnMtVFdnQ2tXME1aLUhlRnB2MWdkekFqcDZST2s0bDFDYlYxVE10cTVET2tzUWEwTkcwWjBYZzVXQW1EZUNLSHpvRmE5R2FVZXZQRExXZEtJMGJBeEFUQ0RkV0Y5YjZaaEpDUkw0Nlhzd05CQnVoeWlySllJVE5qOE8yRFA3TnlqWUwxMVlNRXZuclVGVWdnYVVKbUZ3LTBWVjFwSDBweFB1VmdROUxDUWNmTzJqQld4S29QQm5iQUVrUHl4Z3VfZ1JmbEpiSDlvcHpBTFZONHZfemw4Zy1UVGV2cjd6Mk11WVNLcWU3bUdqVUticm80YlVzQQ?oc=5"
  },
  {
+  "id": "ab6ffe2c59",
+  "datum": "2026-08-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Barendrecht legt dwangsom op aan dealer en wietplantage",
+  "bron": "pzc.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Barendrecht legt dwangsom op aan dealer en wietplantage pzc.nl",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFF2a19nRldDUXp5QkxVeXh5a3lPUlIwN29rdk4yMEJSX1o2bXBscWl0MUxveDVJTEJ2cFJwOV9xdE9RbW1neDJmcy1EeWl1LUpTUjk1cVBnU3FJbDE0QXFibTc5cEI2TFFqVzN1ZmRMaVBKQ3ZyVDhWUnJQcFlINnM1aVAwYXhJYXdERi1wcU5yejhVUVZZbkdB?oc=5"
+ },
+ {
   "id": "e992af25a5",
   "datum": "2026-08-19",
   "tijd": "06:00",
@@ -13100,6 +13107,25 @@
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcW5LaGwxUHZvTzdMbE9IdlJCQnpMaUZ5WDh4akUtVzNFVER6bHFXZmM1VTZjLVNuOFBLbTJjUVJyaUpGaWpwMzFLdDNQdXhFUVJ1anlvVFpDWGlXZVlFLTdDekpOZDlFT1prbTlNb3pPcGFOVkxINld0bXhhQUxmR2VucHUtU3V3TkhRd3RZT2lyZWN0QTh0OHhndGRwMTI3VDlDbktNNA?oc=5"
  },
  {
+  "id": "dce83b4296",
+  "datum": "2026-06-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vijf mensen gearresteerd wegens witwassen van 2 miljoen euro aan zorggeld",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Vijf mensen gearresteerd wegens witwassen van 2 miljoen euro aan zorggeld De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkRLNUZMUXU4ZkI0Z1JCRjJ0TF9wQ3NQWGliTXN6d0xJWXhuaEx6WFBuMjV4NDFZZlFZWXZPS01OaXdvRk8wTHB6S3FOMG1HMVozZ0VqR3hfUWk1c29xYnY3c1lPeFowUmJCVVdlSWN1YmR5dmFrdDMzVGNfY1pSaXUtby1mcUI0RWxhUjY2czRiMDhJdE85dTMyazUyT1ZKeDE1OElRMFJGZ004WGRNTXZXdGFBWDFhTnVXR0p4Yw?oc=5"
+ },
+ {
   "id": "24131f5aed",
   "datum": "2026-06-03",
   "tijd": "07:00",
@@ -15623,6 +15649,25 @@
   ],
   "samenvatting": "Minder hennepkwekerijen ontmanteld in Amsterdam, ook veel minder dumplocaties drugsafval Het Parool",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZGdCRF9Vbm5zRktWWkxhdFp6VTBXNkZFTW9OdFBZeDA3NHNMVFZad050TFZFelZibTlYZllBZGdUUzc2X0IzekdFOFIxX01CX1h2Z1NReWtZbmM0ZzBteGFOMEhmTXlpekVvYzJEZGZQY0NjYlVwRXdQZFJTUnVuQnRsR3h6SVpTWFNxUEltMUhlaV92NnU2ZDZpWGo4YUNBUjFtVTRoSS1mSHdoVXB3RDRPZVpxWXVrNGtXZXRFVHFXQ0pCbmVHMw?oc=5"
+ },
+ {
+  "id": "af3593f945",
+  "datum": "2026-04-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Inval bij bloemengroothandel na verdenking van witwassen miljoenen",
+  "bron": "Nieuws | WOS",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Inval bij bloemengroothandel na verdenking van witwassen miljoenen Nieuws | WOS",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTlFzUkpmNnpoUVp0TVVwalU5dE8ydmI5b2RPeDNucjdxVjQtMDRlV2luMUQxYXBzMlRLdnpqNkpMeTJLNDNXQTJ4TXdITkJoem1rYVlIOWJRRjlTU1ZqQ1BmMWNCamtSazcwQ0V6U0JNSHp5SUw0M1k3TWtwcDdxUmRiNTFaTi15OU9FZHdpdDR6NXlZT09BdzJnWERCVFNieWRONmIxejVfZFpt?oc=5"
  },
  {
   "id": "28124ee9cd",
