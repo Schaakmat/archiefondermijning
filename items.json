@@ -1,5 +1,24 @@
 [
  {
+  "id": "eba18344f7",
+  "datum": "2026-09-01",
+  "tijd": "07:04",
+  "nieuw": true,
+  "titel": "Dode bij schietpartij Overasselt, twee agenten gewond",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Bij een schietpartij op de Ewijkseweg in het Gelderse Overasselt is iemand om het leven gekomen. Twee agenten die op een melding afkwamen, raakten gewond. Wat er precies gebeurd is, is onduidelijk. Een omwonende zegt tegen Omroep Gelderland dat hij rond 04.20 uur knallen hoorde en ambulances en een traumahelikopter zag",
+  "link": "https://nos.nl/l/2629203"
+ },
+ {
   "id": "8dd27e79b7",
   "datum": "2026-09-01",
   "tijd": "06:44",
@@ -86,11 +105,11 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522133/na-vechtpartij-hoeven-broers-en-neven-niet-meer-terug-naar-de-gevangenis"
  },
  {
-  "id": "53d48677dd",
+  "id": "053feb3599",
   "datum": "2026-08-31",
   "tijd": "22:03",
   "nieuw": true,
-  "titel": "Dronten - Politie: onbekende dode in Roggebotsebos was een man met een lederen kruisje aan zijn ketting",
+  "titel": "Dronten - Politie: onbekende dode in Roggebotsebos was een man met een lederen kruisje aan een hanger om zijn hals",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -104,7 +123,7 @@
    "grond"
   ],
   "samenvatting": "Een hanger van leer met een kruisje, mogelijk afkomstig uit de orthodoxe kerk. Dat is een van de aanwijzingen die de politie heeft gevonden bij de botresten van een onbekende man in het bos bij het asielzoekerscentrum in Dronten. De politie hoopt zijn identiteit te achterhalen met een oproep in het televisieprogramma O",
-  "link": "https://www.omroepflevoland.nl/nieuws/522149/politie:-onbekende-dode-in-roggebotsebos-was-een-man-met-een-lederen-kruisje-aan-zijn-ketting"
+  "link": "https://www.omroepflevoland.nl/nieuws/522149/politie:-onbekende-dode-in-roggebotsebos-was-een-man-met-een-lederen-kruisje-aan-een-hanger-om-zijn-hals"
  },
  {
   "id": "0b1e74323d",
@@ -274,6 +293,25 @@
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmpiS2VoNWV6WWFYZVUycFFDOFdKUkR0Z2sxbnJaUEk4VHY2TUZNV0Jhbkw1NEEyamlmcXBPdkV3T3JpdWtYNnEyekVaNEJKXzF1al96akl5SEl2ZFRrQ3p5NTFZcTdpOHV6ZzZNNkEyQm9uN3NpZlhkMVlETDZKVkExZ1N0YW5lTHQwWVFnQUwxS1BrNUpqby1YVGFQSklYT1ptcHJtVXNSQzJKZkhJVEM0eXpOUGttZlMw?oc=5"
  },
  {
+  "id": "5c1410cee3",
+  "datum": "2026-08-31",
+  "tijd": "18:28",
+  "nieuw": true,
+  "titel": "GoedeStede wil huurder uit huis hebben: 'Hennepteelt is voor ons een no-go'",
+  "bron": "omroepflevoland.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepteelt"
+  ],
+  "samenvatting": "GoedeStede wil huurder uit huis hebben: 'Hennepteelt is voor ons een no-go' omroepflevoland.nl",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0pvUEdrTmh0VlRnSHZsTFRkM1Nsdm9raU8tUF84YXgyUVliYm1IaF9rNjdwVGZJaTgtOTNwT1oteUNXVE5pTGk0SlVvUVplWS1uOWxXTjhCQ2dENWgwajVzZnB5SWRmVDlfVVl6Z3NLclA4TWNmTDlrWW9SMlNPZ2UtaWZuMHZwbUpXTnlSWUxfTS04X0ZHVURkdFlLSTk3Mk52aFpINGttalhSU25pZ2U2b29ITHB4cm9LWWxB?oc=5"
+ },
+ {
   "id": "1703ab9b1f",
   "datum": "2026-08-31",
   "tijd": "18:09",
@@ -294,7 +332,7 @@
   "id": "29190bfa92",
   "datum": "2026-08-31",
   "tijd": "17:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Miljard voor water, camera’s tegen branden en zorgbegeleider veroordeeld op 31 augustus",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -315,7 +353,7 @@
   "id": "af6e279008",
   "datum": "2026-08-31",
   "tijd": "16:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Herculesramp, Peter Gillis en slager Henk: dit mag je niet missen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -343,7 +381,7 @@
   "id": "81fb5d1686",
   "datum": "2026-08-31",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Veilingmeester komt parken van Peter Gillis niet op: 'Geen toestemming'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
