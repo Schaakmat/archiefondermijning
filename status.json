@@ -1,12 +1,12 @@
 {
- "run": "18:35",
+ "run": "19:29",
  "datum": "2026-09-01",
- "nieuw": 20,
- "totaal": 2027,
- "verwijderd": 18,
+ "nieuw": 18,
+ "totaal": 2028,
+ "verwijderd": 17,
  "geweigerd": {
-  "niet-nederlands": 1062,
-  "geen dossier": 495
+  "niet-nederlands": 1041,
+  "geen dossier": 516
  },
  "bronnen": [
   {
@@ -50,7 +50,7 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 48,
+   "items": 49,
    "status": "1 nieuw",
    "ok": true
   },
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 94,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 14,
-   "status": "bij",
+   "items": 15,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 39,
-   "status": "5 nieuw",
+   "items": 38,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -546,7 +546,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 22,
-   "status": "5 nieuw",
+   "status": "4 nieuw",
    "ok": true
   },
   {

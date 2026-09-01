@@ -10,17 +10,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Trustkantoren & rechtspersonen"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "bestuurder",
-   "beveiliging",
    "motorclub",
-   "satudarah",
-   "schiphol"
+   "satudarah"
   ],
   "samenvatting": "Een voormalig bestuurder van de in 2018 verboden motorclub Satudarah legt zich er niet bij neer dat het hem onmogelijk wordt gemaakt om te werken als beveiliger op Schiphol. In 2023 werd zijn verklaring van geen bezwaar (VGB) door de minister ingetrokken. Daardoor verloor de man zijn baan. Ook zijn partner raakte haar ",
   "link": "https://www.omroepflevoland.nl/nieuws/522243/hij-wil-aan-de-slag-op-schiphol-maar-verleden-bij-motorclub-zit-lelystedeling-in-de-weg"
@@ -383,7 +377,7 @@
   "id": "b42ffc6e75",
   "datum": "2026-09-01",
   "tijd": "14:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "1/9 in Nieuwsuur: Grote politieactie Overasselt • Details Prinsjesdagstukken lekken uit • Top VWS wilde geen kritiek op corona-aanpak",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -409,7 +403,7 @@
   "id": "339b38dee4",
   "datum": "2026-09-01",
   "tijd": "14:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Broer van Bolle Jos wil vrijgelaten worden: 'Het is alleen om achternaam'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -591,28 +585,6 @@
   ],
   "samenvatting": "Een groep van bijna dertig mensen was betrokken bij het incident in de nacht van maandag op dinsdag aan de in Overasselt. Bij dat incident werd meermaals geschoten, kwam iemand om het leven en raakten twee politieagenten gewond.",
   "link": "https://www.gld.nl/nieuws/8516689/zien-tientallen-mannen-lopen-gewapend-naar-woning-in-overasselt"
- },
- {
-  "id": "e5d7c7599e",
-  "datum": "2026-09-01",
-  "tijd": "09:50",
-  "nieuw": false,
-  "titel": "Ook Best heeft na 167 dagen (bijna) een bestuursakkoord, als laatste",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "burgemeester",
-   "gemeenteraad",
-   "vuurwerk"
-  ],
-  "samenvatting": "Als laatste gemeente van de provincie heeft ook Best nu bijna een bestuursakkoord. De lokale politiek in de gemeente heeft na 167 dagen onderhandelen een conceptakkoord bereikt. De gesprekken tussen partijen duurden lang, omdat ze van de informateur eerst aan de onderlinge verhoudingen moesten werken. Ook mochten inwon",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025395/ook-best-heeft-na-167-dagen-bijna-een-bestuursakkoord-als-laatste"
  },
  {
   "id": "7c65c15224",
@@ -18250,6 +18222,27 @@
   ],
   "samenvatting": "8 miljard bezuinigen, 10 miljard verspild: wanneer stopt de zorgfraude Nieuws van de Dag",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ3hqMGhMcy11Z0U5TG14bFlaRFl2blJTVmYxXzIxZU5UVWRlaWdncjl3WS1MZUNNMHI4T1M4TzBPQmMxUl96V1l5TXM4V1BEQjdPbjVESzFaanJGSE9PMkxqaVphUWZIN2pDRFkxSmhMb3pUT2wwVGh6S3RvMmFyZWVrZVNZTmNLY3oxdUo4eTB1dWNiWnhnQnlmajJLdDNHVk1WUmRiOVQwWE1abHNKYWxnOGJHTy0wUFpQRFUwTVg5eEU?oc=5"
+ },
+ {
+  "id": "51ffa44665",
+  "datum": "2026-03-04",
+  "tijd": "00:51",
+  "nieuw": false,
+  "titel": "Cafébaas Marinus Maat: De Bibob, de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, zou toegepast moeten worden op de gemeente zélf",
+  "bron": "Liwwadders",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "bibob",
+   "integriteit"
+  ],
+  "samenvatting": "Cafébaas Marinus Maat: De Bibob, de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, zou toegepast moeten worden op de gemeente zélf Liwwadders",
+  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVlVTRTFyU1hDLXBXN2xYbktxQ0taRlRMSk9Ub0xSQl9mV0VnSmJhSmtsdlliX2ZNdDM4dENmRXVHajdEeXNfVUt5LW94a0JzV1hpeFdkUXJKajJFOEgxOXhXOHQ0WWRyaDNZeThVUUMyU2tPeWxuVHZIM1QxUEdKYndYSHVZWEZjaGxySVFhWUlFblJ5TnhpWUZ5OWU3eHJMc3BqU043bU8tOEZvVlhjdGlVOVZMb2NzS3hIaFdvbHFiUG5pcktfUktkR082RzhPcTJDd29WcG5kNnlfRXJWS1VxbDdsLWNtYWhlQm9PZDRpMjFsZnZhZ1AtZmpGd0k3MTZPdDlvTQ?oc=5"
  },
  {
   "id": "5f050ff53d",
@@ -36258,6 +36251,27 @@
   ],
   "samenvatting": "Gevangenisstraf van 24 maanden voor witwassen van grote hoeveelheid geld De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOU3RBSG9tMHBKT0N5Nmt6ejJPTFhuOTFOQW5QZ0ZCMTFXbU9mMFNCQzdWQThTQ0lmcG1GZTBYTXplMmgtbUR3dEtqS192MENZbXJWNl9DYTU2c1R2OHF1bUdnR0NoQ1lEN0NGV0diaDhWUURlcjdtLU5UTnJ2X2xLYUNQQ3UwRTNEQ1pySml1Rkd3TXRrNUJpM25UdDV3ZUpHaTBBSUNkMEx5bUVlRVIteFJDaEpCaWNYZlkwbm1lSE9WVXdNeU5DUnBxbFZVSkRYTlJVNHVmVEFsM2E4XzNncERFSHduVUMxOWJNalhSbjBweHQ5RGtRTXdVbHdJdG85YU5TRWw3ay1FQnJJdDhJbkNmMnl6UQ?oc=5"
+ },
+ {
+  "id": "b895e53c3b",
+  "datum": "2021-02-04",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Drugsuithalers die vanuit container naar politie belden, komen voor rechter",
+  "bron": "GVA",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container",
+   "uithaler",
+   "uithalers"
+  ],
+  "samenvatting": "Drugsuithalers die vanuit container naar politie belden, komen voor rechter GVA",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2RQbEpBaU5KNlpSbHFxSG54V3lLd21HQUVkcHl2Umkya2JoZzBEU0lnN1V3dEpSeTNWN3VaUTlvVk1fYUR0UE00MnVlVGdodU4wU04xZnBkbHlTXzMtY0wzMHUwVGdnelpqSXUzNkx6TVNSOEZRTk10ZDJPZ1BRR3c0UExhMkduXzlhaExNSmQxZnVJZHNhdTRZWmhhLXFfbFNXV29nM2E2S3VqM1Q1dENmbGVQbTY1Znc?oc=5"
  },
  {
   "id": "4ad4b90066",
