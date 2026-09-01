@@ -1,12 +1,12 @@
 {
- "run": "19:29",
+ "run": "20:30",
  "datum": "2026-09-01",
  "nieuw": 18,
- "totaal": 2028,
- "verwijderd": 17,
+ "totaal": 2030,
+ "verwijderd": 16,
  "geweigerd": {
-  "niet-nederlands": 1041,
-  "geen dossier": 516
+  "niet-nederlands": 1040,
+  "geen dossier": 469
  },
  "bronnen": [
   {
@@ -51,7 +51,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 49,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -104,8 +104,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 48,
-   "status": "bij",
+   "items": 49,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 15,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -338,8 +338,8 @@
    "url": "news.google.com/rss/search?q=motorclub%20verboden%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 21,
-   "status": "bij",
+   "items": 22,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 38,
-   "status": "4 nieuw",
+   "items": 37,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -510,8 +510,8 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 43,
-   "status": "bij",
-   "ok": true
+   "status": "fout 404",
+   "ok": false
   },
   {
    "naam": "1Limburg",
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 9,
-   "status": "bij",
+   "items": 10,
+   "status": "1 nieuw",
    "ok": true
   },
   {
