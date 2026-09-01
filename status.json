@@ -1,12 +1,12 @@
 {
- "run": "14:32",
+ "run": "15:50",
  "datum": "2026-09-01",
- "nieuw": 21,
- "totaal": 2000,
- "verwijderd": 15,
+ "nieuw": 22,
+ "totaal": 2005,
+ "verwijderd": 17,
  "geweigerd": {
-  "niet-nederlands": 982,
-  "geen dossier": 489
+  "niet-nederlands": 1019,
+  "geen dossier": 501
  },
  "bronnen": [
   {
@@ -50,8 +50,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 44,
-   "status": "bij",
+   "items": 45,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 89,
-   "status": "bij",
+   "items": 90,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 13,
-   "status": "bij",
+   "items": 14,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -249,7 +249,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 54,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -338,8 +338,8 @@
    "url": "news.google.com/rss/search?q=motorclub%20verboden%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 20,
-   "status": "bij",
+   "items": 21,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -456,7 +456,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 29,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 15,
-   "status": "7 nieuw",
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -509,7 +509,7 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 41,
+   "items": 42,
    "status": "1 nieuw",
    "ok": true
   },
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 8,
-   "status": "bij",
+   "items": 9,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 23,
-   "status": "7 nieuw",
+   "items": 22,
+   "status": "6 nieuw",
    "ok": true
   },
   {

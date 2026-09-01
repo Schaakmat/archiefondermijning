@@ -1,5 +1,24 @@
 [
  {
+  "id": "041484cafc",
+  "datum": "2026-09-01",
+  "tijd": "16:36",
+  "nieuw": true,
+  "titel": "Almere - Marria leerde in Almere chimpansee te zijn, maar plaatsing bij soortgenoten eindigt tragisch",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Autobranche & garages"
+  ],
+  "tags": [
+   "garage"
+  ],
+  "samenvatting": "Een chimpansee die jarenlang werd opgevangen bij stichting AAP in Almere heeft haar plaatsing bij soortgenoten niet overleefd. Ze overleed na een vechtpartij. De oud-verzorgers van Marria noemen haar dood 'tragisch'. \"Wij zijn diep bedroefd dat haar leven op deze manier is geëindigd en willen iedereen bedanken die haar",
+  "link": "https://www.omroepflevoland.nl/nieuws/522226/marria-leerde-in-almere-chimpansee-te-zijn-maar-plaatsing-bij-soortgenoten-eindigt-tragisch"
+ },
+ {
   "id": "ddc1666156",
   "datum": "2026-09-01",
   "tijd": "16:09",
@@ -29,22 +48,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "beveiliging",
-   "burgemeester",
-   "criminele organisatie",
-   "erf",
-   "geweld",
-   "jeugd"
+   "geweld"
   ],
   "samenvatting": "\"We werden wakker van het geluid van veel sirenes en helikopters\", zegt een bewoner van het dorp Nederasselt over de politieactie in de naastgelegen plaats Overasselt. Hij dacht eerst dat het om een ongeluk ging. \"Ik zag twee politieauto's snel wegrijden naar de dijk in Nederasselt. Ik zag zeker twintig politiewagens e",
   "link": "https://nos.nl/l/2629275"
@@ -67,6 +74,25 @@
   ],
   "samenvatting": "Vijf tieners zijn aangehouden na een mishandeling en beroving op klaarlichte dag in Purmerend. Het gaat om drie 15-jarigen en twee 14-jarigen. Twee van hen zitten nog vast, de drie anderen zijn weer naar huis gestuurd, maar blijven wel verdachten in de zaak. Op 20 augustus rond 15.40 uur fietste het slachtoffer met een",
   "link": "https://nos.nl/l/2629272"
+ },
+ {
+  "id": "b3ec5ea05b",
+  "datum": "2026-09-01",
+  "tijd": "14:39",
+  "nieuw": true,
+  "titel": "Wietkwekerij met honderden planten ontmanteld, drie verdachten aangehouden",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietkwekerij"
+  ],
+  "samenvatting": "De kwekerij is ontmanteld en de politie doet verder onderzoek.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18745741/wietkwekerij-met-honderden-planten-ontmanteld-drie-verdachten-aangehouden"
  },
  {
   "id": "b42ffc6e75",
@@ -95,11 +121,11 @@
   "link": "https://nos.nl/l/2629264"
  },
  {
-  "id": "4e1ff30dbf",
+  "id": "339b38dee4",
   "datum": "2026-09-01",
   "tijd": "14:18",
   "nieuw": true,
-  "titel": "Broer Bolle Jos voelt zich 'een speelbal om zijn broer uit te roken'",
+  "titel": "Broer van Bolle Jos wil vrijgelaten worden: 'Het is alleen om achternaam'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -118,7 +144,7 @@
    "witwassen"
   ],
   "samenvatting": "Bredanaar Harry Leijdekkers (51) wil naar huis. Hij heeft al genoeg in de cel gezeten en het is de autoriteiten alleen maar te doen om zijn achternaam. \"Dit heeft toch niks met gerechtigheid te maken?\" Dat vertelde hij samen met zijn advocaat dinsdag op zijn eerste openbare zitting rond deze broer van 'Bolle' Jos Leijd",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025378/broer-bolle-jos-voelt-zich-een-speelbal-om-zijn-broer-uit-te-roken"
+  "link": "https://www.omroepbrabant.nl/nieuws/6025378/broer-van-bolle-jos-wil-vrijgelaten-worden-het-is-alleen-om-achternaam"
  },
  {
   "id": "339f2e6eee",
@@ -342,6 +368,25 @@
   "link": "https://www.gld.nl/nieuws/8516653/een-echte-kogelregen-expert-geschokt-door-wapenarsenaal-in-overasselt"
  },
  {
+  "id": "8ad4b609f3",
+  "datum": "2026-09-01",
+  "tijd": "09:30",
+  "nieuw": true,
+  "titel": "‘Zeker acht AK's’ bij dodelijke schietpartij in Overasselt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De groep van bijna dertig mensen die in de nacht van maandag op dinsdag betrokken was bij de schietpartij in Overasselt, beschikte over een 'ongebruikelijk aantal wapens'. Er werd meerdere keren geschoten, waarbij een persoon om het leven kwam en twee politieagenten gewond raakten. 'On-Nederlandse taferelen', zeggen de",
+  "link": "https://www.gld.nl/nieuws/8516653/zeker-acht-aks-bij-dodelijke-schietpartij-in-overasselt"
+ },
+ {
   "id": "e6dd0dc6b5",
   "datum": "2026-09-01",
   "tijd": "09:17",
@@ -407,7 +452,7 @@
   "id": "6848ffe0d3",
   "datum": "2026-09-01",
   "tijd": "08:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Geweldsexplosie net over provinciegrens, 'mogelijk gelieerd aan Bolle Jos'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -431,7 +476,7 @@
   "id": "c316260eae",
   "datum": "2026-09-01",
   "tijd": "08:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "operationeel specialist A - Basisteam Roosendaal - Kom bij de politie",
   "bron": "Politie",
   "verzameld_via": "Politie",
@@ -996,27 +1041,6 @@
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdi12YnVkQXZWTk83RHRwaXdZNGFBOUdqSFlGRDhFeWtiZ25XS2xkSUh5T3RZUzgyMDFmQW5JbVlLbkZ5YmlVdmJnenBURXByTGZKeUdycDZ5dWI2aDNhdDNqTlhGZ3Z3bzRMUnpuTVliMlJONU1OV1lqU2dKX2dZQ1dZTFpMY1NoNk5wQ2VrZVFpV3B3MUE?oc=5"
  },
  {
-  "id": "6ef95cba57",
-  "datum": "2026-08-31",
-  "tijd": "13:15",
-  "nieuw": false,
-  "titel": "Lelystad - Provincie onderzoekt verkeersveiligheid Markerwaarddijk: conclusies dit najaar",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder",
-   "vrachtwagen"
-  ],
-  "samenvatting": "De provincie Flevoland onderzoekt de verkeersveiligheid van de dijk tussen Lelystad en Enkhuizen, waar dit weekend drie tieners om het leven kwamen bij een ernstig ongeluk. Een woordvoerder laat weten dat de verkeersveiligheid op de Markerwaarddijk altijd al een belangrijk aandachtspunt is geweest en dat ook zal blijve",
-  "link": "https://www.omroepflevoland.nl/nieuws/522065/provincie-onderzoekt-verkeersveiligheid-markerwaarddijk:-conclusies-dit-najaar"
- },
- {
   "id": "863cadf2c5",
   "datum": "2026-08-31",
   "tijd": "12:11",
@@ -1034,25 +1058,6 @@
   ],
   "samenvatting": "“Ik wilde mijn gezin helpen”: jongeman (24) krijgt mildere straf voor witwassen van 3.000 euro buit door phishing HLN",
   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1kya3hxam50UFQ2VlpqbzEwVGdzeTNLTTBqaTdhT240ZkRSWkdOTG1GWThLVl85LU4yOWRaaUc5dHdMTGw1dXdVbkxNdEdxN3Q2aURSRFRyWEtCSHR1Nm9lOVIwNnJlYXNSQ1dweTV1cmNveTFiZmtjV0JNZjdtR2xlb1NKX0ZibjJjVy1rUjA2ekRYVTh2NVEyelVfbG1KaUFScmlPXzdpRWphdVJmVjBRZjJsTHFtenNyUWZVZVAwcEVhRDNPR3pDelJvTW16TVlmUlYySkxmUTAyc3kwMFMtYVlFcmE0Njgwaw?oc=5"
- },
- {
-  "id": "64adeda396",
-  "datum": "2026-08-31",
-  "tijd": "11:51",
-  "nieuw": false,
-  "titel": "Dronten - Opnieuw zoektocht naar vermiste Marc Jaskulski in Roggebotsebos",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "De politie zoekt maandag opnieuw in het Roggebotsebos in Dronten naar sporen van de vermiste Marc Jaskulski uit die plaats. Er wordt gezocht in het bos langs de Hanzeweg, vlakbij het asielzoekerscentrum. De zoekactie duurt waarschijnlijk enkele uren en er is een graafmachine bij betrokken. Jaskulski wordt al twee jaar ",
-  "link": "https://www.omroepflevoland.nl/nieuws/522062/opnieuw-zoektocht-naar-vermiste-marc-jaskulski-in-roggebotsebos"
  },
  {
   "id": "56293591a4",
@@ -13617,6 +13622,25 @@
   ]
  },
  {
+  "id": "8dd2fc1cdc",
+  "datum": "2026-05-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vader van Bolle Jos vrijgesproken van witwassen dure horloges",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Vader van Bolle Jos vrijgesproken van witwassen dure horloges De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHZ4UmRxdUdhbDhFQTRwN1hWS1MzM3F2OC1KSHBjS2F1VDF2TlBQT1p5dHlWV0kwTnF0QWRrb2tIUXhCWnM4YW9mWlU4a0VDTVlfaG9PYTRfLW4zalp2bTVlaWhVdGxvLUU4cVJ0ZHBJaUxzd3c1clpaNFpaTkJTajJIN2RtbFYxcDBBSnFCOFJOaVNSc3lNY3FCREFwelc0bDNoTDd6aW1Ec1lLOWFv?oc=5"
+ },
+ {
   "id": "57616a4b0c",
   "datum": "2026-05-19",
   "tijd": "07:00",
@@ -25951,6 +25975,25 @@
   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9JSExIb2JZWW9Qc3gxWFpYSmFtS2Q3b0c0WDhoSWZOb2xyeXVqNHFKT3BSdXg0b09BZ3BPWg?oc=5"
  },
  {
+  "id": "3f218d6878",
+  "datum": "2025-02-26",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Deel je ervaringen en help mee aan Bibob-software die als gegoten zit",
+  "bron": "Binnenlands Bestuur",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Deel je ervaringen en help mee aan Bibob-software die als gegoten zit Binnenlands Bestuur",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVmV5ZGU0ZWpqa0ZhaWdLczJOdU1tX2tDVXBUMDFQRHNwS3lWaTVPVFlnR2hqTmxXWklhT1dEOVFKTUpxMlJNdWk2aGdmUG5fUGdJYTBaZ051WHkteUN2cjhOS3BtbFlWTlBxeFZybE1hQjAxX2YwYjh2SmNiZE8zeXZXREdwUzZqLVRiTVZQTURNMjhUTmRHVjA5RHJHcE85MDdfTGNwQzd1QQ?oc=5"
+ },
+ {
   "id": "2bb71a898f",
   "datum": "2025-02-25",
   "tijd": "08:00",
@@ -35809,6 +35852,26 @@
   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rRWdpWk96ZklqVVR3NHNLYXpLZXJHcU4wa3QxcGpvdWVLcUhtNjRQY3RuUnlhODdndVppcnZsWlZQaGdFVzVNZ041RkpGalUzWkx5c1VvUEY4UVBwNUtUeQ?oc=5"
  },
  {
+  "id": "3f22772446",
+  "datum": "2021-02-01",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Hardnekkig probleem in de Rotterdamse haven: de smokkelaars die drugs uit containers veiligstellen",
+  "bron": "Trouw",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container",
+   "haven"
+  ],
+  "samenvatting": "Hardnekkig probleem in de Rotterdamse haven: de smokkelaars die drugs uit containers veiligstellen Trouw",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMHFQS195Q3hPNjdONkN1OElya0ZpNDhmcWhHUXRhVEs3VEVnNm1Bc1c0U004OVZNSnU0SV9XdGJDcm55OWVhM1pienRoVFdqQUhOSXctS1oybWd4Qm1hcm9FS25OUmVtSzVvTHJtRjUxMFlUQ1RtdmRESnJXbmxIMHVEZG5oZ1RTU0QzSi1nVkZhYmVEZ2xHZ2JzaGpoMGtuemFjbzNHOUFKTHFLQ2xXY1FaeUZRMWpWTXQ2eVZTSmwybFd6MFpHNTlRMUI2Q2JBSFV3MHVR?oc=5"
+ },
+ {
   "id": "39abbe68c7",
   "datum": "2021-01-13",
   "tijd": "08:00",
@@ -37642,6 +37705,25 @@
   ],
   "samenvatting": "Satudarah is en blijft verboden, zegt ook het hof Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX01DZTNfYTNZNzhHS1lUVjFHWmpNNmdFMEVidjc3MkhzWGxfaFBXbV9QUlowdTNuVFA2RG9VcFlRdmF4TnFVYmd5eFNnbWg1eERhRERqamZrVVItYV80TnFfTG9HYVVFT3JGTUJmcUctSm5jLU1aQXA2dW5KMzBrY1pFamNNNmZxZUlDTjJ1YnB5c0I1OTN3?oc=5"
+ },
+ {
+  "id": "14f7a18aab",
+  "datum": "2019-06-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "'Je moet zorgvuldig zijn in het verbieden van motorclubs'",
+  "bron": "NPO Radio 1",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "motorclub"
+  ],
+  "samenvatting": "'Je moet zorgvuldig zijn in het verbieden van motorclubs' NPO Radio 1",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEUwZmlOcU5VOGhmT3p3OGV0TnVqcVlLZ2R4MjdoQmFtZXQ4V1NBTVAwcWxvdjJyMWtNSmtIbms4MU1fYVI2VGktc00wbmpfNS1Nc25fWFN4SmZxdnd4WlM3Z2J1c0ozaWozNjJUMS1uVl81S1BmQUVwSi1YZnM5TmF0Y3hLYW1yME5ESzJDcGpJa3lHQjFnYV94TTNiaFdVVzNldlFrRzV2T1NsMTcyZEFNSDhsSkZiUlpnOWFfU0pXamJ4Nkd4NHliQndCU2N0RmU0?oc=5"
  },
  {
   "id": "1c57e65447",
