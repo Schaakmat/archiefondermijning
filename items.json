@@ -1,5 +1,53 @@
 [
  {
+  "id": "2ee3e58fa3",
+  "datum": "2026-09-01",
+  "tijd": "08:52",
+  "nieuw": true,
+  "titel": "Politie doet inval in woning in Zierikzee en houdt iemand aan",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Een politiewoordvoerder laat weten dat de inval werd gedaan in verband met een lopend onderzoek.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18744244/politie-doet-inval-in-woning-in-zierikzee-en-houdt-iemand-aan"
+ },
+ {
+  "id": "b46275ef60",
+  "datum": "2026-09-01",
+  "tijd": "08:42",
+  "nieuw": true,
+  "titel": "Dode bij geweldsexplosie in Overasselt, 'mogelijk gelieerd aan Bolle Jos'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Drugsproductie & labs",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "boerderij",
+   "cocaïne",
+   "criminele organisatie",
+   "drugslab",
+   "explosie",
+   "geweld"
+  ],
+  "samenvatting": "Een schietpartij dinsdagochtend net over de provinciegrens van Brabant is volgens bronnen gelieerd aan de criminele organisatie van 'Bolle Jos' Leijdekkers. Dat schrijft De Telegraaf. Bij de schietpartij in het Gelderse Overasselt is een dode gevallen en raakten twee politieagenten gewond. De schietpartij heeft volgens",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025398/dode-bij-geweldsexplosie-in-overasselt-mogelijk-gelieerd-aan-bolle-jos"
+ },
+ {
   "id": "de7ddd47f5",
   "datum": "2026-09-01",
   "tijd": "06:59",
@@ -332,7 +380,7 @@
   "id": "29190bfa92",
   "datum": "2026-08-31",
   "tijd": "17:37",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Miljard voor water, camera’s tegen branden en zorgbegeleider veroordeeld op 31 augustus",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -14869,6 +14917,25 @@
   ],
   "samenvatting": "Praat mee | Angela over daders zorgfraude: 'die mensen wens je weinig goeds toe' AD.nl",
   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EV3VzTWhYNzhhYmUtOUlCUEhMdkhSbkZ0Vlk0cWVxS29maW5BeGNOMi13V1J3T1d0X3NfLU9OVldZQ3lMWmdXUEh0eHA4c2FxWHU4VVZPbzhqczZza3lmZ2poSHgwQ21wOFB0ZEp3ZklWZw?oc=5"
+ },
+ {
+  "id": "33ca5b7f66",
+  "datum": "2026-04-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Lakshmi bij Eva over zorgfraude: 'We hadden al in de gaten, dit klopt niet'",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Lakshmi bij Eva over zorgfraude: 'We hadden al in de gaten, dit klopt niet' Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MTC11d0oySk5lcTdvQUMzbjRZd3ZmNVhEXzNpZGdhcDRsRHdFOXB6RFc2cWZFc01HbWgyRWNSMlVmUmpHSk1MUUtVaXJCUUdmSlM4REszUTY3amw4S1NaOXF1NWkzcnBI?oc=5"
  },
  {
   "id": "55814a2b1d",
@@ -35261,6 +35328,23 @@
   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOU3RBSG9tMHBKT0N5Nmt6ejJPTFhuOTFOQW5QZ0ZCMTFXbU9mMFNCQzdWQThTQ0lmcG1GZTBYTXplMmgtbUR3dEtqS192MENZbXJWNl9DYTU2c1R2OHF1bUdnR0NoQ1lEN0NGV0diaDhWUURlcjdtLU5UTnJ2X2xLYUNQQ3UwRTNEQ1pySml1Rkd3TXRrNUJpM25UdDV3ZUpHaTBBSUNkMEx5bUVlRVIteFJDaEpCaWNYZlkwbm1lSE9WVXdNeU5DUnBxbFZVSkRYTlJVNHVmVEFsM2E4XzNncERFSHduVUMxOWJNalhSbjBweHQ5RGtRTXdVbHdJdG85YU5TRWw3ay1FQnJJdDhJbkNmMnl6UQ?oc=5"
  },
  {
+  "id": "4ad4b90066",
+  "datum": "2021-02-01",
+  "tijd": "08:10",
+  "nieuw": false,
+  "titel": "Stage lopen bij de politie - Kom bij de politie",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Stage lopen bij de politie Kom bij de politie",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rRWdpWk96ZklqVVR3NHNLYXpLZXJHcU4wa3QxcGpvdWVLcUhtNjRQY3RuUnlhODdndVppcnZsWlZQaGdFVzVNZ041RkpGalUzWkx5c1VvUEY4UVBwNUtUeQ?oc=5"
+ },
+ {
   "id": "39abbe68c7",
   "datum": "2021-01-13",
   "tijd": "08:00",
@@ -35512,6 +35596,25 @@
   "tags": [],
   "samenvatting": "Richtlijn voor strafvordering rijden onder invloed van alcohol en/of drugs en rijden tijdens een rijverbod (2019R013) Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOa25fbjV3Sl9MVEl6RU1zaXllbUs4RmJNVVA1RnlGV0NjUWJKVzU3SXp0RzFYN0ZyRmFhMDdySjZjZWdkMDZkWm1KOVhLUFRYLVFwLXVHeXlGeXNmTm9LYUZ2YmFnV0dqR09SX3h2MTJCY3ZlTHVNakJ4Q1pFYlIwLW1vdFdEbWhoUUZncXlsaFhHU2RUOW5ua0RRMkRjcHZ2cmNhblA5Y2Q3clhqOW5jTUZEdnE0a0pDN0c5NFNrTk9mUFdCX04xQTZUUWQyLW5zd0NXZk5yZGhxS1BVdkF3aFdoSHpEdklkcS1mQmpqN2JPanVJZkQyQ0lQSmpFRlNNYkJNY2NfbmV6cHRtWEI2SHJIaUtkY1JLLUE3WmtuTUhUeExWR2daUWUtbzU?oc=5"
+ },
+ {
+  "id": "8f6da1c09b",
+  "datum": "2020-10-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie rolt drugslab op in Eersel en Mill, zes arrestaties",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie rolt drugslab op in Eersel en Mill, zes arrestaties Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeE12SExOZHhZeVJSb3B6LU10RWtReVhpYS0xZWlWcDhDRVdBSkVQNm5YSzlWWTBsZ0hjdV9DV3RfNDMwRFRJQXI0eXYwXzVWdDVvdlRDU0stLXV5LTdvdElFaVdFX1luRWxIaEVPMUxfNldGZ053bDF3THFRUzFQVmJocTExanByZXppR0liU203M3I5QXFJNnVNQjF6R2ZJZGFGVQ?oc=5"
  },
  {
   "id": "0d43ee6852",

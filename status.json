@@ -1,12 +1,12 @@
 {
- "run": "08:34",
+ "run": "09:31",
  "datum": "2026-09-01",
- "nieuw": 16,
- "totaal": 1972,
- "verwijderd": 15,
+ "nieuw": 19,
+ "totaal": 1977,
+ "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1014,
-  "geen dossier": 505
+  "niet-nederlands": 1017,
+  "geen dossier": 511
  },
  "bronnen": [
   {
@@ -105,7 +105,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 47,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 89,
-   "status": "bij",
+   "items": 90,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -419,8 +419,8 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 55,
-   "status": "bij",
+   "items": 56,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 33,
-   "status": "2 nieuw",
+   "items": 34,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 32,
-   "status": "2 nieuw",
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 7,
-   "status": "bij",
+   "items": 8,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 57,
-   "status": "bij",
+   "items": 58,
+   "status": "1 nieuw",
    "ok": true
   },
   {
