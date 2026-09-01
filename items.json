@@ -1,5 +1,51 @@
 [
  {
+  "id": "8dd27e79b7",
+  "datum": "2026-09-01",
+  "tijd": "06:44",
+  "nieuw": true,
+  "titel": "Almere - Politie deelt signalement van daders overval op hoogbejaarde Almeerders",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De politie is op zoek naar camerabeelden en informatie over de gewapende overval op twee hoogbejaarde bewoners van de Elbastraat in Almere Buiten. Dat bleek maandagavond in het televisieprogramma Opsporing Verzocht. De overval vond maandagavond 20 juli rond 23.00 uur plaats. De overvallers gingen er onder meer vandoor ",
+  "link": "https://www.omroepflevoland.nl/nieuws/522151/politie-deelt-signalement-van-daders-overval-op-hoogbejaarde-almeerders"
+ },
+ {
+  "id": "b3bbb00e21",
+  "datum": "2026-09-01",
+  "tijd": "06:39",
+  "nieuw": true,
+  "titel": "Wekdienst 1/9: Pools smartphoneverbod op scholen • Shein gaat naar de beurs in Hongkong",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bende",
+   "criminele organisatie",
+   "moord",
+   "organisatie",
+   "school",
+   "wapen"
+  ],
+  "samenvatting": "Goedemorgen! Polen voert een verbod in voor mobiele telefoons op scholen en Shein gaat naar de beurs in Hongkong Eerst het weer: vanochtend vooral in het zuiden en noorden enkele buien. Vanmiddag blijft het droog en is het 20 of 21 graden. De wind komt uit het westen. Ga je vandaag op pad? Hier vind je het overzicht va",
+  "link": "https://nos.nl/l/2629200"
+ },
+ {
   "id": "3402ad8920",
   "datum": "2026-08-31",
   "tijd": "23:12",
@@ -321,7 +367,7 @@
   "id": "9661066b94",
   "datum": "2026-08-31",
   "tijd": "15:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Telefoon brengt verdachte in beeld bij gewapende overval Giethoorn",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -878,25 +924,6 @@
   ],
   "samenvatting": "Projectleider Mainport - Leiding District Zeehaven Kom bij de politie",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVEzNXRZZlZiT21qdUNxT1MwUW10cW01QnlhbjN2ZVNBWHA2cUV5RzI2VmQzV0owa01yVE9Ea3U4UzJidnlMQ2U5V29JRnY3SnJ3WVRJaGtXOVg3SUw3Qm1HeTZjNWFKTVZSRHBQT0czaG1EeWlKb0Q0NjZFVGV4VHVVUlF3ZnNsSzJ0c1Vqb2JZZmxZNVl4UUxIakdIaVVpNWc?oc=5"
- },
- {
-  "id": "5788d2ede8",
-  "datum": "2026-08-30",
-  "tijd": "21:04",
-  "nieuw": false,
-  "titel": "Brand hoogspanningsstation in Groningen houdt nog dagen aan",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "stal"
-  ],
-  "samenvatting": "De brand in het hoogspanningsstation in Meeden in Oost-Groningen zal nog dagen blijven woeden. De brandweer kan het vuur niet blussen en laat het getroffen gebouw daarom gecontroleerd uitbranden. Ook de rookoverlast kan mogelijk tot dinsdag- of woensdagochtend duren, zegt de Veiligheidsregio Groningen. Omwonenden wordt",
-  "link": "https://nos.nl/l/2629003"
  },
  {
   "id": "6bf767b74f",
@@ -15633,6 +15660,25 @@
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnVhb2lWWlphTHN5eFBCeHRNTU40YWdtejhkRzFpWHQ4alcyczNjTmdsYkZjTmc0RmtYMkUyaXd0U2ZlVVdFaGNCRl9GelVZTmctX3VvaUZjeWNYR0pkY0pkUF9xRG9WOXpKcW9pUFp2Nk9HQUdfcUF4dHptNG4xNWM1Rkpzb3RTbER3aVVSZDBZQ0hod2hKbkxfS0I3X2FyZGRHX2EzVUtqNjB5M3ZSOGtJYllkZmM3YlV3QkZ4eVNJXy1JUTc1dHhiRV9FV1g1OVVOelZxbVQtVFk?oc=5"
  },
  {
+  "id": "521e5e5df4",
+  "datum": "2026-04-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "De zoveelste afvaldumping in Zoelense buitengebied",
+  "bron": "Het Kontakt",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "De zoveelste afvaldumping in Zoelense buitengebied Het Kontakt",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMUxFaUpld21XTTB0bUV1dE14VVdiUFk5QjNDa2pXdWZibFlRS1FzbUZ3R0g0TFp6VTVLZ2JhcC1iRGtFSnZVcnZOWml4amhwTmJmTzBiMmJWd3NleEJDMHdGWUstUzg1X1VtMVc0dnctUWdFTW9pd2kwNkZod3ZPZ3RXOFdhc3hMTndxUXRyaXVFTlJNbDZ6RlVrZDAwNTVVN1JPdA?oc=5"
+ },
+ {
   "id": "8e7716131f",
   "datum": "2026-04-08",
   "tijd": "07:00",
@@ -24041,6 +24087,29 @@
   ],
   "samenvatting": "Burgemeester sluit drugspand in Leidsebuurt in Haarlem. ’Krachtig optreden in de strijd tegen de georganiseerde misdaad en ondermijning’ IJmuider Courant",
   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQSVFLUVBhVXhmXzdERWJuT1ExdkU3NFNObkpDQ2tCRmItSnR5cEFIbG5JcDlBRXN2SkJvVXEweDE4Z0ZaY3puaDN5Z3BmdktuYU4xU2U4RmU5Zm5FSmFkM0xpWFp3S0Z3aWM2SFJCU3lteDE4dVBDcVJqX1UwZV9BZnY3d21NRC1LcWFVX00yREhETXRXM29hWXRLV1JmTlpMMGJoc3B5VWI2bDVrODQyTGx1enlhUV91WHRyd2Fva0RpbzRHcmFmN3BFWEFpMVRFVzRyXzhSZ29tYlNpbk1mZ1M4XzB0dE44VjZrZ0dwYkZWTUh4MnBsZkt2SnhyREpwMF9uS0NrUDNmVVZuUXpjSWRKMjI5QzQ2RDBrb3Nn?oc=5"
+ },
+ {
+  "id": "0fa1a18eb8",
+  "datum": "2025-05-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Burgemeester sluit drugspand in Leidsebuurt in Haarlem. ’Krachtig optreden in de strijd tegen de georganiseerde misdaad en ondermijning’",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "ondermijning",
+   "pand"
+  ],
+  "samenvatting": "Burgemeester sluit drugspand in Leidsebuurt in Haarlem. ’Krachtig optreden in de strijd tegen de georganiseerde misdaad en ondermijning’ Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPaG9CMTBsYl9ZaVpndHpZOUx1T01sOWt5Rk80WU80eFZMVFl0akZ4el96SlphMFFRcEM3UHg1Wno4LTJFNUxFYzY3SVJwX1p6XzdDcG5hMkI2OHZOYXVZMkRwQ0RLaExyUWpKTW1oR2RoN1dTaWhreV9CMzF0Vm9VbzVkUlFrNEdHTWdvb2hLRFZVT1Q5M05TQmxlU0pmakJlWDJfYlJ1Q2p2MEhKVDZ6Q0gwZTFFamc3R3U2Z194b19CdHUzWmgtSkFCeE5URm1WeGo4SWg3R2xLaXpaY2tDX0pqWm9sZ0R2YW5OdmpZMVFOREFLRS0xVmY1ODMzNTlqNUNhRmhuUXdCa2s1dzdxWnowZlBqdVVsUmRMQlRrV052eHRP?oc=5"
  },
  {
   "id": "5da7759d86",
