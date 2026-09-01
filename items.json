@@ -1,5 +1,31 @@
 [
  {
+  "id": "b42ffc6e75",
+  "datum": "2026-09-01",
+  "tijd": "14:24",
+  "nieuw": true,
+  "titel": "1/9 in Nieuwsuur: Grote politieactie Overasselt • Details Prinsjesdagstukken lekken uit • Top VWS wilde geen kritiek op corona-aanpak",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Criminele samenwerkingsverbanden",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "criminele organisatie",
+   "evaluatie",
+   "organisatie",
+   "pand",
+   "wapen"
+  ],
+  "samenvatting": "Grote politieactie in Overasselt Een grote politieactie in het Gelderse dorp Overasselt, nadat daar bij een schietpartij een dode viel en twee agenten gewond raakten. Het dorp werd afgesloten en zwaar bewapende agenten begonnen een klopjacht naar verdachten. De Telegraaf schrijft dat een mogelijk drugsconflict gelieerd",
+  "link": "https://nos.nl/l/2629264"
+ },
+ {
   "id": "fb3ab89580",
   "datum": "2026-09-01",
   "tijd": "10:58",
@@ -160,6 +186,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6025395/ook-best-heeft-na-167-dagen-bijna-een-bestuursakkoord-als-laatste"
  },
  {
+  "id": "7c65c15224",
+  "datum": "2026-09-01",
+  "tijd": "09:38",
+  "nieuw": true,
+  "titel": "Huis in Overasselt werd eerder onder vuur genomen met zeker 25 kogels",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De woning aan de Ewijkseweg in Overasselt, die dinsdag het middelpunt is van een groot incident en zeer veel politie-inzet, was vorig jaar ook al in het nieuws.",
+  "link": "https://www.gld.nl/nieuws/8516660/huis-in-overasselt-werd-eerder-onder-vuur-genomen-met-zeker-25-kogels"
+ },
+ {
   "id": "e6dd0dc6b5",
   "datum": "2026-09-01",
   "tijd": "09:17",
@@ -287,7 +332,7 @@
   "id": "b3bbb00e21",
   "datum": "2026-09-01",
   "tijd": "06:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wekdienst 1/9: Pools smartphoneverbod op scholen • Shein gaat naar de beurs in Hongkong",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -314,7 +359,7 @@
   "id": "3402ad8920",
   "datum": "2026-08-31",
   "tijd": "23:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "operationeel specialist A wijkagent - Basisteam Leiden-Zuid - Kom bij de politie",
   "bron": "Politie",
   "verzameld_via": "Politie",
@@ -331,7 +376,7 @@
   "id": "2d305cbd0c",
   "datum": "2026-08-31",
   "tijd": "22:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Na vechtpartij hoeven broers en neven niet meer terug naar de gevangenis",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -354,7 +399,7 @@
   "id": "053feb3599",
   "datum": "2026-08-31",
   "tijd": "22:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dronten - Politie: onbekende dode in Roggebotsebos was een man met een lederen kruisje aan een hanger om zijn hals",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -622,30 +667,6 @@
   ],
   "samenvatting": "De broer van Bolle Jos krijgt toch geen deal met het Openbaar Ministerie, weer een slachtoffer van de Herculesramp en steun voor de slager uit Boxmeer. Dit zijn de verhalen van maandag. Het Openbaar Ministerie blaast op het laatste moment een deal met Harry Leijdekkers af, de broer van topcrimineel 'Bolle Jos'. De 51-j",
   "link": "https://www.omroepbrabant.nl/nieuws/6025356/herculesramp-peter-gillis-en-slager-henk-dit-mag-je-niet-missen"
- },
- {
-  "id": "81fb5d1686",
-  "datum": "2026-08-31",
-  "tijd": "16:00",
-  "nieuw": false,
-  "titel": "Veilingmeester komt parken van Peter Gillis niet op: 'Geen toestemming'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "organisatie",
-   "pand",
-   "vakantiepark",
-   "vastgoed"
-  ],
-  "samenvatting": "De veilingmeester die drie vakantieparken van Peter Gillis gedwongen moet verkopen, kan de terreinen voorlopig niet op. Ook grote doeken waarmee de openbare veiling maandag bij de parken werd aangekondigd, waren volgens hem binnen een kwartier alweer verdwenen. Wie ze heeft weggehaald, is niet duidelijk. Het gaat om va",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025341/veilingmeester-komt-parken-van-peter-gillis-niet-op-geen-toestemming"
  },
  {
   "id": "9661066b94",
@@ -35035,6 +35056,27 @@
   ],
   "samenvatting": "Met deze nieuwe methode spoort de Douane in een handomdraai drugs op in containers Omroep Zeeland",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWC1LaVFyTUZnejViTFpGaFZGRkxwVTZISkF4d213Ti1ydGpvdlF5YUtILTFmNVl3dkVud2RJTE1oVllRbUhiVmtaZFdWdWdOMWJFZVdxSmMxTVhvbmJSYkVXWWJzektKVHRqbjdfN0t1NGFIOEJfZkdaaGNPelZKQmNkcEViSXQ0TVBTZVRkcXo1RkU3UWpvenFBN1QtaXFvWGZRQU9TYjFhWHc5OUNjTUVBSVZ3S2FKSFhSQ1pCdkNIRFR4WkE?oc=5"
+ },
+ {
+  "id": "bf86382a78",
+  "datum": "2021-06-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "'Mannen uit drugslab zwommen de hele haven over'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "haven"
+  ],
+  "samenvatting": "'Mannen uit drugslab zwommen de hele haven over' Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX3J6d3kzejZqSTRPRVFYUVRWem9NOHk5aVpGbG1SS3piSkpQU3RLVjFEdlhnSFJmb1BPdFE5WEhlVHppNWRld0R0SHVRMmNSQUk4OHhYdmJIQTBCZmN1dDNXM0RQNGVTenFJSHEtRE44YVAyLVQ4UVdOWFRxMVVDanI4ZHBzMV9YdHFxWmdNMmhSYzhG?oc=5"
  },
  {
   "id": "90bf8ddb2c",

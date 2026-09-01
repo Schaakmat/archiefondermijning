@@ -1,12 +1,12 @@
 {
- "run": "11:31",
+ "run": "12:37",
  "datum": "2026-09-01",
- "nieuw": 18,
- "totaal": 1987,
- "verwijderd": 15,
+ "nieuw": 16,
+ "totaal": 1989,
+ "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1027,
-  "geen dossier": 510
+  "niet-nederlands": 1049,
+  "geen dossier": 525
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 47,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 11,
-   "status": "3 nieuw",
+   "items": 12,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 36,
-   "status": "3 nieuw",
+   "items": 35,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 39,
-   "status": "2 nieuw",
+   "items": 40,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 31,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 58,
-   "status": "bij",
+   "items": 59,
+   "status": "1 nieuw",
    "ok": true
   },
   {
