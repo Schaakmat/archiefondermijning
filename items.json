@@ -1,5 +1,55 @@
 [
  {
+  "id": "ddc1666156",
+  "datum": "2026-09-01",
+  "tijd": "16:09",
+  "nieuw": true,
+  "titel": "Podcast de Dag: Crack in de stad: wat gebeurt er op straat?",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Het is relatief goedkoop en extreem verslavend: crack, ook wel basecoke genoemd. In stadsparken zitten verslaafden het spul openlijk te roken op een bankje, met de dealers ernaast. Op steeds meer plekken verschijnen tentenkampen waar mensen 's nachts slapen. Anderen zoeken een plekje in de buurt en brengen de nacht doo",
+  "link": "https://nos.nl/l/2629278"
+ },
+ {
+  "id": "c06d5f3fb2",
+  "datum": "2026-09-01",
+  "tijd": "15:40",
+  "nieuw": true,
+  "titel": "Overasselt opgeschrikt door gewelddadig schietincident, veel nog onduidelijk",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "beveiliging",
+   "burgemeester",
+   "criminele organisatie",
+   "erf",
+   "geweld",
+   "jeugd"
+  ],
+  "samenvatting": "\"We werden wakker van het geluid van veel sirenes en helikopters\", zegt een bewoner van het dorp Nederasselt over de politieactie in de naastgelegen plaats Overasselt. Hij dacht eerst dat het om een ongeluk ging. \"Ik zag twee politieauto's snel wegrijden naar de dijk in Nederasselt. Ik zag zeker twintig politiewagens e",
+  "link": "https://nos.nl/l/2629275"
+ },
+ {
   "id": "a02e63b4a3",
   "datum": "2026-09-01",
   "tijd": "15:29",
@@ -45,6 +95,32 @@
   "link": "https://nos.nl/l/2629264"
  },
  {
+  "id": "4e1ff30dbf",
+  "datum": "2026-09-01",
+  "tijd": "14:18",
+  "nieuw": true,
+  "titel": "Broer Bolle Jos voelt zich 'een speelbal om zijn broer uit te roken'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Goudhandel & edelmetalen",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "geweld",
+   "goud",
+   "goudstaven",
+   "organisatie",
+   "witwassen"
+  ],
+  "samenvatting": "Bredanaar Harry Leijdekkers (51) wil naar huis. Hij heeft al genoeg in de cel gezeten en het is de autoriteiten alleen maar te doen om zijn achternaam. \"Dit heeft toch niks met gerechtigheid te maken?\" Dat vertelde hij samen met zijn advocaat dinsdag op zijn eerste openbare zitting rond deze broer van 'Bolle' Jos Leijd",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025378/broer-bolle-jos-voelt-zich-een-speelbal-om-zijn-broer-uit-te-roken"
+ },
+ {
   "id": "339f2e6eee",
   "datum": "2026-09-01",
   "tijd": "13:22",
@@ -57,16 +133,12 @@
   "dossiers": [
    "Cocaine, haven & logistiek",
    "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk",
-   "Witwassen & geldstromen"
+   "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
    "cocaïne",
-   "doodgeschoten",
    "explosie",
-   "geweld",
-   "haven",
-   "vrachtwagen"
+   "geweld"
   ],
   "samenvatting": "De geweldsexplosie dinsdagochtend net over de provinciegrens in het Gelderse Overasselt is volgens Het Parool het gevolg van een conflict over 812 kilo cocaïne. De drugs zouden toebehoren aan de groepering rond Bolle Jos uit Breda. Ook De Telegraaf legde eerder al een link tussen de geweldsexplosie, waarbij een dode vi",
   "link": "https://www.omroepbrabant.nl/nieuws/6025467/ruzie-om-812-kilo-coke-leidt-tot-geweldsexplosie-net-over-provinciegrens"
@@ -251,6 +323,25 @@
   "link": "https://www.gld.nl/nieuws/8516660/huis-in-overasselt-werd-eerder-onder-vuur-genomen-met-zeker-25-kogels"
  },
  {
+  "id": "a7f36192d6",
+  "datum": "2026-09-01",
+  "tijd": "09:30",
+  "nieuw": true,
+  "titel": "‘Een echte kogelregen’, expert geschokt door wapenarsenaal in Overasselt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De groep van bijna dertig mensen die in de nacht van maandag op dinsdag betrokken was bij de schietpartij in Overasselt, beschikte over een 'ongebruikelijk aantal wapens'. Er werd meerdere keren geschoten, waarbij een persoon om het leven kwam en twee politieagenten gewond raakten. 'On-Nederlandse taferelen', zeggen de",
+  "link": "https://www.gld.nl/nieuws/8516653/een-echte-kogelregen-expert-geschokt-door-wapenarsenaal-in-overasselt"
+ },
+ {
   "id": "e6dd0dc6b5",
   "datum": "2026-09-01",
   "tijd": "09:17",
@@ -357,7 +448,7 @@
   "id": "de7ddd47f5",
   "datum": "2026-09-01",
   "tijd": "06:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jongen op fatbike rijdt meer dan 80 km/u, politie zet achtervolging in ‘met geknepen billen’",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -376,7 +467,7 @@
   "id": "8dd27e79b7",
   "datum": "2026-09-01",
   "tijd": "06:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Politie deelt signalement van daders overval op hoogbejaarde Almeerders",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -27836,6 +27927,23 @@
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTDZFTGhjYzFsUFFFb214bWFQRm9vZWNDakxUM094dWRfdzJ5U0dDYVNjOENLeWxjVEllTm5McFN1YnNmRnpJUmNSYkxOV3QxbG1nU182TlhsWWVmanJFOEFWSUdkcFA0cUJrSmh3UlhIUGg4Tng4elRIMnMzT3d1akJkRmFjWURmZGpXcjBDSDJ0R2RtTi1OT2ZxWFJBbEpkcXpmcU1tWEo?oc=5"
  },
  {
+  "id": "7eb73a6b36",
+  "datum": "2024-09-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Coördinator tegen discriminatie dringt aan op onderzoek naar racisme bij aanpak criminaliteit",
+  "bron": "Follow the Money",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Coördinator tegen discriminatie dringt aan op onderzoek naar racisme bij aanpak criminaliteit Follow the Money",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVZ2LVpUcTBCX3ZVc1ZnWkhESmpsYk5JbFNhNjhBUkxieWdqLVdwang1TS1NblNudHpvWEJZNVkySkMwZC1oajZteFctNnJRQy1UZnlabXU4ZVRfVUJzRUUxckpuQVplTUh1bTQ3SEVOWTFWY1ZOSldCMTc0cnEzUnRSMVRrODNSRXQ1cTdQRktkS19VT2ZGNnBNenBlbS1YVXVoenlIQ2lnYWdReDVLblBtUnoyRW5EeEI2Y1g1S1BpUmo2?oc=5"
+ },
+ {
   "id": "45497dd4d2",
   "datum": "2024-09-16",
   "tijd": "07:00",
@@ -28149,6 +28257,28 @@
   ],
   "samenvatting": "Drugslab wordt onder zware bewaking ontruimd, zo ziet het eruit Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUtpRTR6TWlhYnQtT0pUVmlYZjJpSFFSeGJ1TFc4NG1wVjltcWdKcE9Ia2pyUUt1RjZZcXFiMFg0VG9CM09mR1RETjZ1Wmd1YUhsbHI2LVcxM3czd19RX3duQ2FBVTNwQ0g2aG1GemgtajhtOFVQMzBvRHFIZHhCb1RZQjdrU2dEOHhMU1o4Z3ZpamVQSjdEaUxGZGpxRUlCLXJlakVnS1hVdw?oc=5"
+ },
+ {
+  "id": "1d79fd191f",
+  "datum": "2024-08-16",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Nieuwe aanhouding voor explosie woning overleden Vlaardingse loodgieter",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "explosie woning",
+   "woning"
+  ],
+  "samenvatting": "Nieuwe aanhouding voor explosie woning overleden Vlaardingse loodgieter Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmM1cnhqQV9NdzJLMktmcmg0UWdmZW9wVmJVNE1HclN5ZnpqWllnSEVTWE1fWVNOMnN3SThjVTA5STY5eGUxV3h3emxjU0pkNW5rZV9GYVFCLU5MYnpXUWtXaHdxVWViTHB6eFJIb0NzWWh2V21JR01maFFMVU1HWmFqZTF1ZS1OenhMOU5jeUhlVXhOYzhvWWp4LXU4b1NfbVV4aDJhTWM0cFRkdEhOT19JakxhWjFDdHc?oc=5"
  },
  {
   "id": "1d9662a236",

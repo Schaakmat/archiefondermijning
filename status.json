@@ -1,12 +1,12 @@
 {
- "run": "13:32",
+ "run": "14:32",
  "datum": "2026-09-01",
- "nieuw": 19,
- "totaal": 1994,
- "verwijderd": 14,
+ "nieuw": 21,
+ "totaal": 2000,
+ "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1040,
-  "geen dossier": 506
+  "niet-nederlands": 982,
+  "geen dossier": 489
  },
  "bronnen": [
   {
@@ -177,7 +177,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 5,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 53,
-   "status": "bij",
+   "items": 54,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -393,7 +393,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 14,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -420,7 +420,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 57,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -455,8 +455,8 @@
    "url": "news.google.com/rss/search?q=RIEC+OR+LIEC+OR+%22Centrum+voor+Criminalite",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 28,
-   "status": "bij",
+   "items": 29,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 13,
-   "status": "5 nieuw",
+   "items": 15,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -491,7 +491,7 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 36,
+   "items": 37,
    "status": "3 nieuw",
    "ok": true
   },
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 40,
-   "status": "bij",
+   "items": 41,
+   "status": "1 nieuw",
    "ok": true
   },
   {
