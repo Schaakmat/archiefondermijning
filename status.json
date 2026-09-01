@@ -1,12 +1,12 @@
 {
- "run": "15:50",
+ "run": "16:48",
  "datum": "2026-09-01",
- "nieuw": 22,
- "totaal": 2005,
- "verwijderd": 17,
+ "nieuw": 21,
+ "totaal": 2010,
+ "verwijderd": 16,
  "geweigerd": {
-  "niet-nederlands": 1019,
-  "geen dossier": 501
+  "niet-nederlands": 1031,
+  "geen dossier": 491
  },
  "bronnen": [
   {
@@ -51,7 +51,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 45,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 90,
-   "status": "1 nieuw",
+   "items": 92,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 14,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -339,7 +339,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 21,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 15,
-   "status": "6 nieuw",
+   "items": 16,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 37,
-   "status": "3 nieuw",
+   "items": 38,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -509,7 +509,7 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 42,
+   "items": 43,
    "status": "1 nieuw",
    "ok": true
   },
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 9,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

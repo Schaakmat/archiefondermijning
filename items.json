@@ -1,5 +1,75 @@
 [
  {
+  "id": "0765f2d5c2",
+  "datum": "2026-09-01",
+  "tijd": "18:45",
+  "nieuw": true,
+  "titel": "Flevoland - Nieuwsoverzicht 01/09 | Vier tips over gevonden botresten • Botenbeurs begint morgen",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "haven",
+   "school"
+  ],
+  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Politie krijgt vier tips na uitzending over gevonden botresten • Bataviahaven Lelystad klaar voor watersportevenement Hiswa te Water • Chimpansee Marria ove",
+  "link": "https://www.omroepflevoland.nl/nieuws/522245/nieuwsoverzicht-0109-or-vier-tips-over-gevonden-botresten-*-botenbeurs-begint-morgen"
+ },
+ {
+  "id": "c0c43aad20",
+  "datum": "2026-09-01",
+  "tijd": "18:30",
+  "nieuw": true,
+  "titel": "Heel het dorp weet 'het', maar bewoners Overasselt houden zich op de vlakte",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Horeca, winkels & dienstverlening",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "erf",
+   "pand",
+   "supermarkt",
+   "vuurwerk",
+   "wapen"
+  ],
+  "samenvatting": "\"Ik denk van: wat gebeurt hier nou? Het is eigenlijk altijd een rustig dorpje. Zo'n klein dorpje, daar heb je toch altijd een goed en veilig gevoel bij. In één keer sta je vol in de belangstelling.\" Gelaten, maar ook geschrokken reageren inwoners van Overasselt op de ongekende gebeurtenissen van vannacht. Sommigen dach",
+  "link": "https://nos.nl/l/2629302"
+ },
+ {
+  "id": "efeffca287",
+  "datum": "2026-09-01",
+  "tijd": "17:24",
+  "nieuw": true,
+  "titel": "Dronten - Leren hanger met kruisje levert vier tips op over dode man in Roggebotsebos",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Goudhandel & edelmetalen",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "goud",
+   "grond"
+  ],
+  "samenvatting": "De politie heeft dinsdag vier tips gekregen over de gevonden menselijke botresten in het Roggebotsebos bij Dronten. In het programma Opsporing Verzocht werd maandagavond aandacht besteed aan de vondst. In de uitzending werd een leren hanger met een kruisje getoond, die mogelijk afkomstig is uit de orthodoxe kerk. De ha",
+  "link": "https://www.omroepflevoland.nl/nieuws/522149/leren-hanger-met-kruisje-levert-vier-tips-op-over-dode-man-in-roggebotsebos"
+ },
+ {
   "id": "041484cafc",
   "datum": "2026-09-01",
   "tijd": "16:36",
@@ -38,6 +108,46 @@
   "link": "https://nos.nl/l/2629278"
  },
  {
+  "id": "8eae6eece6",
+  "datum": "2026-09-01",
+  "tijd": "15:55",
+  "nieuw": true,
+  "titel": "Patstelling over groot distributiecentrum Nuenen: 'Zitten in de rats'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "vergunning"
+  ],
+  "samenvatting": "Al jaren word er onderhandeld, gepraat, vergaderd en gedemonstreerd over de komst van een groot distributiecentrum naar Nuenen. Veel mensen die dicht in de buurt wonen, zien de komst van dat centrum niet zitten. Dinsdag stonden de gemeente en de bouwers voor de rechter omdat alles ‘klem’ zit, en ‘op slot’. De gemeente ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025451/patstelling-over-groot-distributiecentrum-nuenen-zitten-in-de-rats"
+ },
+ {
+  "id": "1d53b17656",
+  "datum": "2026-09-01",
+  "tijd": "15:49",
+  "nieuw": true,
+  "titel": "Amsterdammer Yusuf U. (26) blijft in cel voor witwassen 38 miljoen, volgens OM ook via zorgbedrijven",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Amsterdammer Yusuf U. (26) blijft in cel voor witwassen 38 miljoen, volgens OM ook via zorgbedrijven Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVW9XQVA3N1ZrQTJ5OVBKMmhReUdlM0FJNmxpZWt4RVhnSFBCdDUwbnh6dUMwNzRNdnh5cXJQdXpsQWpoVDlsOVpheWcwT1ZzVUJHR3VRMFZPbXFnNE1iOWRWbkxNOHFxRDhlWExRcF9LZXByVDdfOXhPeV81MGtpUHBqcVVwNWZEdkw1S25KOXJaSDJqN0pMWlI0R045N3hZT3k0VnpJYTdBamw2cTloLXV3czlWcnByY0FqUy00VVlqd0ZsNmdjYnEySUFUQzVza0E?oc=5"
+ },
+ {
   "id": "c06d5f3fb2",
   "datum": "2026-09-01",
   "tijd": "15:40",
@@ -74,6 +184,25 @@
   ],
   "samenvatting": "Vijf tieners zijn aangehouden na een mishandeling en beroving op klaarlichte dag in Purmerend. Het gaat om drie 15-jarigen en twee 14-jarigen. Twee van hen zitten nog vast, de drie anderen zijn weer naar huis gestuurd, maar blijven wel verdachten in de zaak. Op 20 augustus rond 15.40 uur fietste het slachtoffer met een",
   "link": "https://nos.nl/l/2629272"
+ },
+ {
+  "id": "19fcb4ff86",
+  "datum": "2026-09-01",
+  "tijd": "15:13",
+  "nieuw": true,
+  "titel": "TERUGLEZEN | Wijchenaar (51) doodgeschoten • mogelijk langlopend conflict",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "doodgeschoten"
+  ],
+  "samenvatting": "De politie is dinsdag bezig met een zeer grote operatie in Overasselt. 's Nachts gingen agenten af op een melding aan de Ewijkseweg. Daarbij kwam iemand door pistoolschoten om het leven en raakten twee politieagenten gewond. In dit liveblog volg je alle updates van minuut tot minuut.",
+  "link": "https://www.gld.nl/nieuws/8516576/teruglezen-wijchenaar-51-doodgeschoten-mogelijk-langlopend-conflict"
  },
  {
   "id": "b3ec5ea05b",
@@ -311,7 +440,7 @@
   "id": "e5d7c7599e",
   "datum": "2026-09-01",
   "tijd": "09:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ook Best heeft na 167 dagen (bijna) een bestuursakkoord, als laatste",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -333,7 +462,7 @@
   "id": "7c65c15224",
   "datum": "2026-09-01",
   "tijd": "09:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Huis in Overasselt werd eerder onder vuur genomen met zeker 25 kogels",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -352,7 +481,7 @@
   "id": "a7f36192d6",
   "datum": "2026-09-01",
   "tijd": "09:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "‘Een echte kogelregen’, expert geschokt door wapenarsenaal in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -371,7 +500,7 @@
   "id": "8ad4b609f3",
   "datum": "2026-09-01",
   "tijd": "09:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "‘Zeker acht AK's’ bij dodelijke schietpartij in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -390,7 +519,7 @@
   "id": "e6dd0dc6b5",
   "datum": "2026-09-01",
   "tijd": "09:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "College gaat strijd aan met afvaldumping: Hoe schoon is jouw wijk?",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -409,7 +538,7 @@
   "id": "2ee3e58fa3",
   "datum": "2026-09-01",
   "tijd": "08:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie doet inval in woning in Zierikzee en houdt iemand aan",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -428,7 +557,7 @@
   "id": "b46275ef60",
   "datum": "2026-09-01",
   "tijd": "08:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dode bij geweldsexplosie in Overasselt, 'mogelijk gelieerd aan Bolle Jos'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -488,6 +617,25 @@
   "tags": [],
   "samenvatting": "operationeel specialist A - Basisteam Roosendaal Kom bij de politie",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbnFiaGlUQlVNSE53WWRBbEdoSHllXzllb3ZhUzJkQkllcFdSQ2lSbEZZM01CbFRHVC1hNkhHdVpzMHRYRzA3N2VwNkJxbkYwajRyS1N6amZpaUNjU0dxb25sbEtZSFFRZ3BkNFlDY2JJYkxKaTFZenRyTjJCblEtS0JIVmhkZGM4bTNZdWl0WXJFRmxwUnd6VHY3ZEt5NW5K?oc=5"
+ },
+ {
+  "id": "5725ece64d",
+  "datum": "2026-09-01",
+  "tijd": "08:02",
+  "nieuw": false,
+  "titel": "Rijk worden én een brandschoon huis zonder veel moeite? Luister naar de nieuwe podcast ‘Witwassen’",
+  "bron": "Libelle",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Rijk worden én een brandschoon huis zonder veel moeite? Luister naar de nieuwe podcast ‘Witwassen’ Libelle",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ09xSnY3Z0hfNDRPcVBtSGd5eUhVUDVMS0lmc3huVE5tSlhyT2lKcHRKc3lfczBRM1g0NXAxdkNsUmw1Y1ZucmJmTjBCM1dkd1B1NTdmTFZEdUJQNy1WZDJFYS1faGZxaGptcTB2c2c5ZUhoS29WSG9jdHpwR3ItODR1azYwNFk?oc=5"
  },
  {
   "id": "de7ddd47f5",
@@ -595,27 +743,6 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522133/na-vechtpartij-hoeven-broers-en-neven-niet-meer-terug-naar-de-gevangenis"
  },
  {
-  "id": "053feb3599",
-  "datum": "2026-08-31",
-  "tijd": "22:03",
-  "nieuw": false,
-  "titel": "Dronten - Politie: onbekende dode in Roggebotsebos was een man met een lederen kruisje aan een hanger om zijn hals",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Goudhandel & edelmetalen",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "goud",
-   "grond"
-  ],
-  "samenvatting": "Een hanger van leer met een kruisje, mogelijk afkomstig uit de orthodoxe kerk. Dat is een van de aanwijzingen die de politie heeft gevonden bij de botresten van een onbekende man in het bos bij het asielzoekerscentrum in Dronten. De politie hoopt zijn identiteit te achterhalen met een oproep in het televisieprogramma O",
-  "link": "https://www.omroepflevoland.nl/nieuws/522149/politie:-onbekende-dode-in-roggebotsebos-was-een-man-met-een-lederen-kruisje-aan-een-hanger-om-zijn-hals"
- },
- {
   "id": "0b1e74323d",
   "datum": "2026-08-31",
   "tijd": "21:19",
@@ -717,32 +844,6 @@
   ],
   "samenvatting": "De bewoners van een voormalig kantoorpand aan de Dokter Spanjaardweg in Zwolle krijgen geen uitstel. De rechter heeft hun verzoek afgewezen. Daardoor kan het pand vanaf morgen worden ontruimd.",
   "link": "https://www.oost.nl/nieuws/3690517/na-bijna-3-jaar-wordt-gekraakt-kantoorpand-zwolle-dan-toch-echt-ontruimd"
- },
- {
-  "id": "f28fec8678",
-  "datum": "2026-08-31",
-  "tijd": "18:45",
-  "nieuw": false,
-  "titel": "Flevoland - Nieuwsoverzicht 31/08 | Verkeersveiligheid op dijk onderzocht • Legervliegtuigen laag over provincie",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "afval",
-   "bestuurder",
-   "container",
-   "grond",
-   "school"
-  ],
-  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Provincie onderzoekt verkeersveiligheid op Markerwaarddijk • Militaire vliegtuigen trekken laag over Flevoland vanwege oefening • Politie zoekt opnieuw naar",
-  "link": "https://www.omroepflevoland.nl/nieuws/522115/nieuwsoverzicht-3108-or-verkeersveiligheid-op-dijk-onderzocht-*-legervliegtuigen-laag-over-provincie"
  },
  {
   "id": "4c97b0e049",
