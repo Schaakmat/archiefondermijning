@@ -1,12 +1,12 @@
 {
- "run": "09:31",
+ "run": "10:35",
  "datum": "2026-09-01",
- "nieuw": 19,
- "totaal": 1977,
+ "nieuw": 21,
+ "totaal": 1984,
  "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1017,
-  "geen dossier": 511
+  "niet-nederlands": 1028,
+  "geen dossier": 512
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 99,
-   "status": "bij",
+   "items": 100,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 90,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 96,
-   "status": "bij",
+   "items": 97,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -420,7 +420,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 56,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 34,
-   "status": "3 nieuw",
+   "items": 36,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 32,
-   "status": "1 nieuw",
+   "items": 35,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 8,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 58,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
