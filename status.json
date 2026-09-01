@@ -1,12 +1,12 @@
 {
- "run": "12:37",
+ "run": "13:32",
  "datum": "2026-09-01",
- "nieuw": 16,
- "totaal": 1989,
+ "nieuw": 19,
+ "totaal": 1994,
  "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1049,
-  "geen dossier": 525
+  "niet-nederlands": 1040,
+  "geen dossier": 506
  },
  "bronnen": [
   {
@@ -176,8 +176,8 @@
    "url": "news.google.com/rss/search?q=shishalounge%20OR%20nagelstudio%20witwassen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 4,
-   "status": "bij",
+   "items": 5,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 13,
-   "status": "bij",
+   "items": 14,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -419,8 +419,8 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 56,
-   "status": "bij",
+   "items": 57,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 12,
-   "status": "4 nieuw",
+   "items": 13,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 35,
-   "status": "2 nieuw",
+   "items": 36,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 40,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 59,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

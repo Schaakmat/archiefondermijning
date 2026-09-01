@@ -1,5 +1,24 @@
 [
  {
+  "id": "a02e63b4a3",
+  "datum": "2026-09-01",
+  "tijd": "15:29",
+  "nieuw": true,
+  "titel": "Vijf tieners aangehouden na mishandeling en beroving in Purmerend",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Vijf tieners zijn aangehouden na een mishandeling en beroving op klaarlichte dag in Purmerend. Het gaat om drie 15-jarigen en twee 14-jarigen. Twee van hen zitten nog vast, de drie anderen zijn weer naar huis gestuurd, maar blijven wel verdachten in de zaak. Op 20 augustus rond 15.40 uur fietste het slachtoffer met een",
+  "link": "https://nos.nl/l/2629272"
+ },
+ {
   "id": "b42ffc6e75",
   "datum": "2026-09-01",
   "tijd": "14:24",
@@ -24,6 +43,33 @@
   ],
   "samenvatting": "Grote politieactie in Overasselt Een grote politieactie in het Gelderse dorp Overasselt, nadat daar bij een schietpartij een dode viel en twee agenten gewond raakten. Het dorp werd afgesloten en zwaar bewapende agenten begonnen een klopjacht naar verdachten. De Telegraaf schrijft dat een mogelijk drugsconflict gelieerd",
   "link": "https://nos.nl/l/2629264"
+ },
+ {
+  "id": "339f2e6eee",
+  "datum": "2026-09-01",
+  "tijd": "13:22",
+  "nieuw": true,
+  "titel": "'Ruzie om 812 kilo coke leidt tot geweldsexplosie net over provinciegrens'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "cocaïne",
+   "doodgeschoten",
+   "explosie",
+   "geweld",
+   "haven",
+   "vrachtwagen"
+  ],
+  "samenvatting": "De geweldsexplosie dinsdagochtend net over de provinciegrens in het Gelderse Overasselt is volgens Het Parool het gevolg van een conflict over 812 kilo cocaïne. De drugs zouden toebehoren aan de groepering rond Bolle Jos uit Breda. Ook De Telegraaf legde eerder al een link tussen de geweldsexplosie, waarbij een dode vi",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025467/ruzie-om-812-kilo-coke-leidt-tot-geweldsexplosie-net-over-provinciegrens"
  },
  {
   "id": "fb3ab89580",
@@ -289,6 +335,23 @@
   ],
   "samenvatting": "Een schietpartij dinsdagochtend net over de provinciegrens met Gelderland is volgens bronnen gelieerd aan de criminele organisatie van 'Bolle Jos' Leijdekkers uit Breda. Dat schrijft De Telegraaf. Bij de schietpartij in het Gelderse Overasselt is een dode gevallen en raakten twee politieagenten gewond. De schietpartij ",
   "link": "https://www.omroepbrabant.nl/nieuws/6025398/geweldsexplosie-net-over-provinciegrens-mogelijk-gelieerd-aan-bolle-jos"
+ },
+ {
+  "id": "c316260eae",
+  "datum": "2026-09-01",
+  "tijd": "08:31",
+  "nieuw": true,
+  "titel": "operationeel specialist A - Basisteam Roosendaal - Kom bij de politie",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "operationeel specialist A - Basisteam Roosendaal Kom bij de politie",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbnFiaGlUQlVNSE53WWRBbEdoSHllXzllb3ZhUzJkQkllcFdSQ2lSbEZZM01CbFRHVC1hNkhHdVpzMHRYRzA3N2VwNkJxbkYwajRyS1N6amZpaUNjU0dxb25sbEtZSFFRZ3BkNFlDY2JJYkxKaTFZenRyTjJCblEtS0JIVmhkZGM4bTNZdWl0WXJFRmxwUnd6VHY3ZEt5NW5K?oc=5"
  },
  {
   "id": "de7ddd47f5",
@@ -6689,6 +6752,25 @@
   "dossiers": [
    "Witwassen & geldstromen"
   ]
+ },
+ {
+  "id": "574946338a",
+  "datum": "2026-08-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gesloten shishalounge en restaurant aan Kruisstraat in Eindhoven voorlopig tóch open: rechter fluit Dijsselbloem terug",
+  "bron": "gelderlander.nl",
+  "verzameld_via": "Nieuws — Horeca, winkels & dienstverlening",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "shishalounge"
+  ],
+  "samenvatting": "Gesloten shishalounge en restaurant aan Kruisstraat in Eindhoven voorlopig tóch open: rechter fluit Dijsselbloem terug gelderlander.nl",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObFhEQXBQeEt3Q3ZXTFFCV3F5MlptSmJsRG5hbWh0Q1hpd1JHd1NueVpESjNqSklNZlhKTDFYNkJIRS1aMFNSRVJLd0JmUmlGaFRMdkJYbW1DNkZsWUZhWFFCa05kRERGRWdQanNQWDN3ano5UkFST1ZzZGkxZHpkTjBZZjFkWHVEVXo0RlBzSWFlVm1PSndFWGlxbzV4SVhwRU9UTmpRQ19LbTBDbVhQWmlyajBYdjdaZFRwSVVGdENQWjBpZEhXUExHRDFKUEFXeWc?oc=5"
  },
  {
   "id": "b659b37087",
@@ -14764,6 +14846,25 @@
   ],
   "samenvatting": "Flakka bij de buren: steeds meer drugslabs in Zeeuwse straten pzc.nl",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbWpMbzFnWWs4UkpDRlc4Q0lsTmtSSS14SmZvZ1FWSU9XX2ZHcEp2OGlaT18yWFROeUV0VVZuVm5SYlFsQVMzSFlzY1c5WWgzd3JsMDZyVVVzaU00VDMyTjByVDdjMXF1b094VnZoNkdPM3FvV2RXSVh0RmgzeGI4WmRvaHNHelp3SU1PSXFRVzh4dDhWUFdjcTRrd0kwUFI1dmc?oc=5"
+ },
+ {
+  "id": "b3d5f32439",
+  "datum": "2026-04-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Flevoland zwaar getroffen door ondermijning: ‘Veel ruimte en weinig toezicht’",
+  "bron": "Zeewolde Actueel",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Flevoland zwaar getroffen door ondermijning: ‘Veel ruimte en weinig toezicht’ Zeewolde Actueel",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbFRXcWQwTEdWUXR2RE5DalBlaXU3N29qdFE1RVhMSktZM1lDX3dINlRIc3pTRHFzS2xGcG0xQUExNVJVck1XMkVjQS1HU2JqM3dHUmVsLTI3dzlObmJ2ZEYzQWVvM2VJLUNDd01Tc1puQUE5QUdRaGdiVzhaRU85dUdhV2VmRVNWa3AyRnhZUFJhQlY1SG1ZSVQ0cllhaXFjOC12bUhtWW83YWhaUDI5UDRjcmpBYTNhTFBhU2xWSVVoMTEyQzIwTVpwb29ZS0VidHc?oc=5"
  },
  {
   "id": "5bc31499ce",
