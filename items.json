@@ -1,5 +1,31 @@
 [
  {
+  "id": "a2a3f6afe6",
+  "datum": "2026-09-01",
+  "tijd": "19:44",
+  "nieuw": true,
+  "titel": "Lelystad - Hij wil aan de slag op Schiphol, maar verleden bij motorclub zit Lelystedeling in de weg",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "beveiliging",
+   "motorclub",
+   "satudarah",
+   "schiphol"
+  ],
+  "samenvatting": "Een voormalig bestuurder van de in 2018 verboden motorclub Satudarah legt zich er niet bij neer dat het hem onmogelijk wordt gemaakt om te werken als beveiliger op Schiphol. In 2023 werd zijn verklaring van geen bezwaar (VGB) door de minister ingetrokken. Daardoor verloor de man zijn baan. Ook zijn partner raakte haar ",
+  "link": "https://www.omroepflevoland.nl/nieuws/522243/hij-wil-aan-de-slag-op-schiphol-maar-verleden-bij-motorclub-zit-lelystedeling-in-de-weg"
+ },
+ {
   "id": "0765f2d5c2",
   "datum": "2026-09-01",
   "tijd": "18:45",
@@ -409,7 +435,7 @@
   "id": "339f2e6eee",
   "datum": "2026-09-01",
   "tijd": "13:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Ruzie om 812 kilo coke leidt tot geweldsexplosie net over provinciegrens'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -432,7 +458,7 @@
   "id": "fb3ab89580",
   "datum": "2026-09-01",
   "tijd": "10:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Slachtoffer moord Zwolle werd met appje in de val gelokt: 'Ben je in de buurt?'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -451,7 +477,7 @@
   "id": "41c3fad690",
   "datum": "2026-09-01",
   "tijd": "10:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Afschuwelijk geweld', zegt minister na schietpartij Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -470,7 +496,7 @@
   "id": "9cebd006b6",
   "datum": "2026-09-01",
   "tijd": "10:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (41) opgepakt voor steekpartij in bovenwoning Vlaardingen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -489,7 +515,7 @@
   "id": "bff1bf47d5",
   "datum": "2026-09-01",
   "tijd": "10:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto in brand gestoken door bestuurder",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -508,7 +534,7 @@
   "id": "f56a1520b8",
   "datum": "2026-09-01",
   "tijd": "09:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto in brand gestoken door bestuurder | Man (41) opgepakt voor steekpartij in bovenwoning",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -529,7 +555,7 @@
   "id": "ef53cdf18c",
   "datum": "2026-09-01",
   "tijd": "09:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Schuur aan de Baarleseweg in Chaam gesloten na vondst hennepkwekerij",
   "bron": "Gemeente Alphen Chaam",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -549,7 +575,7 @@
   "id": "3d7d404bcd",
   "datum": "2026-09-01",
   "tijd": "09:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "ZIEN | Tientallen mannen lopen gewapend naar woning in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -570,7 +596,7 @@
   "id": "e5d7c7599e",
   "datum": "2026-09-01",
   "tijd": "09:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ook Best heeft na 167 dagen (bijna) een bestuursakkoord, als laatste",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -592,7 +618,7 @@
   "id": "7c65c15224",
   "datum": "2026-09-01",
   "tijd": "09:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Huis in Overasselt werd eerder onder vuur genomen met zeker 25 kogels",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -611,7 +637,7 @@
   "id": "a7f36192d6",
   "datum": "2026-09-01",
   "tijd": "09:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "‘Een echte kogelregen’, expert geschokt door wapenarsenaal in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -630,7 +656,7 @@
   "id": "8ad4b609f3",
   "datum": "2026-09-01",
   "tijd": "09:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "‘Zeker acht AK's’ bij dodelijke schietpartij in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -649,7 +675,7 @@
   "id": "e6dd0dc6b5",
   "datum": "2026-09-01",
   "tijd": "09:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "College gaat strijd aan met afvaldumping: Hoe schoon is jouw wijk?",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -932,27 +958,6 @@
   ],
   "samenvatting": "Buren roken een wietlucht in hun straat, waarna de politie een hennepplantage met ruim 150 planten ontdekte in een woning aan het Vosplantsoen in Almere Buiten. De bewoner bekende maandag in de rechtszaal dat hij deze plantage had vanwege \"financiële redenen\". Dat kan grote gevolgen hebben: woningcorporatie GoedeStede ",
   "link": "https://www.omroepflevoland.nl/nieuws/522108/goedestede-wil-huurder-uit-huis-hebben:-'hennepteelt-is-voor-ons-een-no-go'"
- },
- {
-  "id": "1f919e3823",
-  "datum": "2026-08-31",
-  "tijd": "19:39",
-  "nieuw": false,
-  "titel": "Almere - OM eist zes jaar cel tegen Almeerder voor bankhelpdeskfraude vanuit vakantiehuisje",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "katvanger",
-   "vakantiepark"
-  ],
-  "samenvatting": "Tegen een 26-jarige man uit Almere is zes jaar celstraf geëist voor betrokkenheid bij grootschalige bankhelpdeskfraude. Volgens het Openbaar Ministerie (OM) had de Almeerder samen met andere verdachten een vakantiehuisje ingericht als callcenter en heeft hij van daaruit slachtoffers telefonisch opgelicht. De zaak kwam ",
-  "link": "https://www.omroepflevoland.nl/nieuws/522130/om-eist-zes-jaar-cel-tegen-almeerder-voor-bankhelpdeskfraude-vanuit-vakantiehuisje"
  },
  {
   "id": "894efad83b",
@@ -1766,6 +1771,30 @@
   ],
   "samenvatting": "Annemarie van Gaal: zorgfraude is pure diefstal en moet harder worden aangepakt De Telegraaf",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNDVxNl9UdEpvMHFuSjdvNkJBejV5NWtubFZXQTExTU1IWENmeWFxZC1aSmlHd0ZKcWZvUW13RllpZWZDSXVxMWNaVENVUllyTWV2OXJkYXQtWEpUUE1OTVl0ZXUxZjVkdXlGZy04dHpneXFjSUZaZVlhYnE4dG82RVBLelZRNHF4bUhLWV9mWGV4YjFxY1p2S1pnU3kweXk3NXZ2aWhQRHg1cDdDZlNLSVhpV3VXXzJXOVlqckdoWW9OLTg?oc=5"
+ },
+ {
+  "id": "c0ad372f96",
+  "datum": "2026-08-30",
+  "tijd": "16:07",
+  "nieuw": false,
+  "titel": "Verdachte diefstal van cryptovaluta en witwassen aangehouden",
+  "bron": "112 Achterhoek Nieuws",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "cryptovaluta",
+   "stal",
+   "witwassen"
+  ],
+  "samenvatting": "Verdachte diefstal van cryptovaluta en witwassen aangehouden 112 Achterhoek Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlVZMndhSFVxZlk4Q1RCeTdqNmhnQWVjS2t6dU9XRGZIU04wWmMyR1ZtMEdmWmw0ZDlzRXBsZ3F3eFN0WDFsMGxleTZRQVJfek02Ym90UTVRMUUwY05ZTW1nbkNLdDhQd1dlWlAtLVFlYmdMdXJucmF1S1dHWGRtM2RXMEwxTTlHRUpPZ0VPdVZWUjlnS2dzZHRWNHJCb3RIZzdoaE1kTDZZTHJUTXhF?oc=5"
  },
  {
   "id": "7d6265bdb3",
@@ -35887,6 +35916,27 @@
   "tags": [],
   "samenvatting": "Geen vrijspraak meer na overschrijding termijn afname bloed bij rijden onder invloed van drugs Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3hvQThVT3B3THUtZldOSGJWY1hwZDlZYjk5blpTQTl0VnZUcDhkeGNWbGsxMjRYTlRWQ19jU0ZacWJQNlNHR3BKcS1ldWZKelBVemdScElZclhWMGNMYlRNa3R0UGtQRnNyVVFFUWR2MmtJbS1VTkU2SjVSMXhBS2p6NkY3TUo0YnlRYnlGSl9pUzN1TVkzUVdQZ0xDM2lLSDc2bmpkelpMZkpsMFBGeTBrVGhIaHpFNkwxdVBmRkxMQ2tWb3RzUldZS3lreXpJV3JIaA?oc=5"
+ },
+ {
+  "id": "33b1733171",
+  "datum": "2021-04-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Uithalers die door politie gered werden uit snikhete container: “Drugsbazen weigerden ons te komen bevrijden”",
+  "bron": "GVA",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container",
+   "uithaler",
+   "uithalers"
+  ],
+  "samenvatting": "Uithalers die door politie gered werden uit snikhete container: “Drugsbazen weigerden ons te komen bevrijden” GVA",
+  "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZ1lNOG1Tcl84QmZPMGZJa3VQTXF2OGljU1o1WkNfbVh5VXI0QTlGanhCRW5QajhsVWVpS2hRUEhObHNYU2VRT1F5ZjVJRm5KYjhJT1lnbVpHMkpLNHBoMEJLaVgwWi1iZS1YMkRFMVRyV3I0bzc5QnZmNVNJM1JmYXBHVS0tS3pkMlZscHNGYy1TQlg0bWcxREs3TnpVT2d2TE9XVGg3QWFvM09JVlNpLXBhN1F1a3VDRmVkcG9uWVhjam5RR0RLQ201SUhJRVlwOEEwY3pkMGFfUlFLb1MwQ0x2ekFDU0VVT2I0NDI2a1daRldNamUxOTB0eV9mMDR0SU1ZNEtYQXc4cUN3SUE?oc=5"
  },
  {
   "id": "7753632bcd",

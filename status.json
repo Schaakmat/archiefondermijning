@@ -1,12 +1,12 @@
 {
- "run": "17:30",
+ "run": "18:35",
  "datum": "2026-09-01",
- "nieuw": 32,
- "totaal": 2025,
- "verwijderd": 17,
+ "nieuw": 20,
+ "totaal": 2027,
+ "verwijderd": 18,
  "geweigerd": {
-  "niet-nederlands": 1053,
-  "geen dossier": 512
+  "niet-nederlands": 1062,
+  "geen dossier": 495
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 50,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -50,8 +50,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 47,
-   "status": "2 nieuw",
+   "items": 48,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -68,7 +68,7 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 93,
+   "items": 94,
    "status": "1 nieuw",
    "ok": true
   },
@@ -105,7 +105,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 48,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 54,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 102,
-   "status": "5 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 36,
-   "status": "2 nieuw",
+   "status": "1 nieuw",
    "ok": true
   },
   {
