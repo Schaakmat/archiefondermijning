@@ -340,7 +340,7 @@
   "id": "86b61e061f",
   "datum": "2026-08-31",
   "tijd": "15:34",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Man vrijgesproken van beramen ontvoering prinsessen Amalia en Alexia",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -361,7 +361,7 @@
   "id": "6770bc604b",
   "datum": "2026-08-31",
   "tijd": "15:03",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Van camping gezet én 80.000 euro kwijt: vrienden blijven doorvechten tegen campingeigenaar",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -1844,6 +1844,30 @@
   ],
   "samenvatting": "Tijdens een verkeerscontrole zijn woensdagavond twintig boetes uitgedeeld in de wijk Koolhof in Deurne. Ook zijn softdrugs en een uitschuifbare wapenstok in beslag genomen. De controle was vooral gericht op de overlast van fatbikes, omdat er de afgelopen maanden veel klachten uit de buurt zijn. De politie had een rolle",
   "link": "https://www.omroepbrabant.nl/nieuws/6025062/fatbikers-op-de-bon-geslingerd-tijdens-grote-controle-in-deurne"
+ },
+ {
+  "id": "86941350c5",
+  "datum": "2026-08-28",
+  "tijd": "18:17",
+  "nieuw": false,
+  "titel": "Verdachte diefstal van cryptovaluta en witwassen aangehouden",
+  "bron": "StadIndex",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "cryptovaluta",
+   "stal",
+   "witwassen"
+  ],
+  "samenvatting": "Verdachte diefstal van cryptovaluta en witwassen aangehouden StadIndex",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3NrWk1IZG0tTk9ZMjVNaUkyQmxxM0ROeDF0bW9icTdGV0stb1ZZTVlqNlZPQ0wwM1hSRDRxbElXanZ0LUkwODc5RFRpeE0yUTZYeFBTSTdPems0VmJKcVpmWlhzUVF4WERNdTFzTnlIb1hvYkV6bGtfNjMzUjhrWDhUbEJ1QU1XVGU2anFVMWFCSFpMYV9ZM0NNa2tXT1E4WEE?oc=5"
  },
  {
   "id": "1456ba092f",
@@ -23462,6 +23486,27 @@
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3hHd3Q4SjJnLTRaZWRINkEzNWsyNW1naHpGOGJoQ3ZSVnN1VGM4NXRmU092UFJBM3hKb3hacENUQkd1WkxvckF5S2ZlakMyU1RmamhhLTRZUmotbUNsOHN2Mm1lLVAtNVRCR0FHaXhtWnNxVzdqSFVQSEExYzRNWmNnVkxnQzlneFNGdGgtOHZDNnJiYU10NW5pV2gyakV6NGQyRjNnMU5tUlVSeEFVZFJkOTFhLUE?oc=5"
  },
  {
+  "id": "9abe817753",
+  "datum": "2025-07-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Schuur met ondergronds drugslab gaat zes maanden op slot: 'Noodzaak'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "drugslab",
+   "grond"
+  ],
+  "samenvatting": "Schuur met ondergronds drugslab gaat zes maanden op slot: 'Noodzaak' Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSS1uTmNHTzFSd0lETHJEZUgzVW41MjJTS0FRdnJLMXF2VEZDQnlnT3E1a2RVT3d5bm8tUVMwNEV1VlROejVaS2VYaVliZXVQQlFQSzR2STJuSXMyaG5zcWhMOGNFblJKWnlRNnQ4V20xUVo4bXFmM1VDN1IteFpRVjdGYVRHa05uMlJvZE1mbmhRR1ZhUHl1MTlGT2pBMjZnTVY2LUVBQVBqR0hLNnc?oc=5"
+ },
+ {
   "id": "99c5c8f983",
   "datum": "2025-06-30",
   "tijd": "07:00",
@@ -32392,6 +32437,25 @@
   "dossiers": [
    "Corruptie & integriteit"
   ]
+ },
+ {
+  "id": "dfbe1f9143",
+  "datum": "2023-01-17",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Tot 9 jaar cel voor drugslab in Neerkant en opslag van drugs in Someren",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Tot 9 jaar cel voor drugslab in Neerkant en opslag van drugs in Someren De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUUdyRmFpTEZmaG1zYkdfRWNZelI2UUJER01tMHdFbVJBS3QxeDhBUGUxclY0QmFLb29BaFpSLVRtUU5fVkpsMzdsZ3RBODB3aVpaSE1WNWhPUm41UVIxbnlRVVdhdDRwQWhRMFhfbFZkVU5JVDVEZjFZb2lJYUplVzhJNVU0bEY3MDVUTkpYVnQyZ0V2UXhjbTdzaldxbGNocHc5elh0VU1Gd05yNGpnc3lSYTA4QWVZNkxNLVNqSVhKVlFCSmlCelY4YW05UzdNaDd4X19NQUVfVTRxV1FubHdtWnpoaVBHRmZFUnlSZGpVOHZiOF9kNVFFcDk0dmxIcmlWMklEVk9YdHg4NFF0OA?oc=5"
  },
  {
   "id": "99fae4ef2d",
