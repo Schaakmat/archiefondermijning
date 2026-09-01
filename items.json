@@ -1,5 +1,43 @@
 [
  {
+  "id": "fb3ab89580",
+  "datum": "2026-09-01",
+  "tijd": "10:58",
+  "nieuw": true,
+  "titel": "Slachtoffer moord Zwolle werd met appje in de val gelokt: 'Ben je in de buurt?'",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "\"Salam broer, ben je in de buurt?\" Met die woorden wordt Zwollenaar 'Morto' (34) volgens justitie naar zijn dood gelokt. Vandaag begon de zaak tegen de 51-jarige verdachte met een eerste voorbereidende zitting. Pikant detail: een belangrijk deel van het bewijs leverde de verdachte zelf aan de politie.",
+  "link": "https://www.oost.nl/nieuws/3690655/slachtoffer-moord-zwolle-werd-met-appje-in-de-val-gelokt-ben-je-in-de-buurt"
+ },
+ {
+  "id": "41c3fad690",
+  "datum": "2026-09-01",
+  "tijd": "10:17",
+  "nieuw": true,
+  "titel": "'Afschuwelijk geweld', zegt minister na schietpartij Overasselt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Minister David van Weel van Justitie en Veiligheid noemt het geweld in Overasselt van afgelopen nacht afschuwelijk. \"Ik leef mee met de gewonde agenten en de omwonenden die dit hebben meegemaakt\", aldus de minister.",
+  "link": "https://www.gld.nl/nieuws/8516703/afschuwelijk-geweld-zegt-minister-na-schietpartij-overasselt"
+ },
+ {
   "id": "9cebd006b6",
   "datum": "2026-09-01",
   "tijd": "10:04",
@@ -77,6 +115,27 @@
   ],
   "samenvatting": "Schuur aan de Baarleseweg in Chaam gesloten na vondst hennepkwekerij Gemeente Alphen Chaam",
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3VZQWhTbWRGZ1NkSjJ0aGlHckJTZGtlRU03TUNlRFBPaHBMdXNwOG9QQVI1bmRvQ1dmX0ZkZDd2cXpiN3VSaFpiZmI2eVJYbXpnVXdQZngtVXJmVElQSDFlY0p6VWV6bGNPd3BZb09BaWgyanZ5Tm0wNG5JRlBoTXZJN29ISmM3Z2JKNHg2Ml9jSjdNRC00VDlKczBjODE1a0ZVYi1lYzhHemFfM3dicHdiNEJvTTFldXRQRjdqcWtLZXlQbncxUVQwelJ2OFhG?oc=5"
+ },
+ {
+  "id": "3d7d404bcd",
+  "datum": "2026-09-01",
+  "tijd": "09:56",
+  "nieuw": true,
+  "titel": "ZIEN | Tientallen mannen lopen gewapend naar woning in Overasselt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Een groep van bijna dertig mensen was betrokken bij het incident in de nacht van maandag op dinsdag aan de in Overasselt. Bij dat incident werd meermaals geschoten, kwam iemand om het leven en raakten twee politieagenten gewond.",
+  "link": "https://www.gld.nl/nieuws/8516689/zien-tientallen-mannen-lopen-gewapend-naar-woning-in-overasselt"
  },
  {
   "id": "e5d7c7599e",
@@ -173,20 +232,15 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
    "Criminele samenwerkingsverbanden",
-   "Drugsproductie & labs",
    "Geweld, liquidaties & bedreiging",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "boerderij",
-   "cocaïne",
    "criminele organisatie",
-   "drugslab",
    "explosie",
-   "geweld"
+   "geweld",
+   "organisatie"
   ],
   "samenvatting": "Een schietpartij dinsdagochtend net over de provinciegrens met Gelderland is volgens bronnen gelieerd aan de criminele organisatie van 'Bolle Jos' Leijdekkers uit Breda. Dat schrijft De Telegraaf. Bij de schietpartij in het Gelderse Overasselt is een dode gevallen en raakten twee politieagenten gewond. De schietpartij ",
   "link": "https://www.omroepbrabant.nl/nieuws/6025398/geweldsexplosie-net-over-provinciegrens-mogelijk-gelieerd-aan-bolle-jos"
@@ -321,7 +375,7 @@
   "id": "0b1e74323d",
   "datum": "2026-08-31",
   "tijd": "21:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Eemmeerdijk tussen Almere en Zeewolde ruim een maand dicht voor groot onderhoud",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -340,7 +394,7 @@
   "id": "58a952c569",
   "datum": "2026-08-31",
   "tijd": "20:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - GoedeStede wil huurder uit huis hebben: 'Hennepteelt is voor ons een no-go'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -363,7 +417,7 @@
   "id": "1f919e3823",
   "datum": "2026-08-31",
   "tijd": "19:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - OM eist zes jaar cel tegen Almeerder voor bankhelpdeskfraude vanuit vakantiehuisje",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -384,7 +438,7 @@
   "id": "894efad83b",
   "datum": "2026-08-31",
   "tijd": "19:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Boerenzwaluw vertraagt bouw Norgerbrug bij Assen: tot begin 2027 dicht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -405,7 +459,7 @@
   "id": "88d9611131",
   "datum": "2026-08-31",
   "tijd": "18:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Na bijna 3 jaar wordt gekraakt kantoorpand Zwolle dan toch echt ontruimd",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -424,7 +478,7 @@
   "id": "f28fec8678",
   "datum": "2026-08-31",
   "tijd": "18:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Nieuwsoverzicht 31/08 | Verkeersveiligheid op dijk onderzocht • Legervliegtuigen laag over provincie",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -1033,34 +1087,6 @@
   ],
   "samenvatting": "Basisschool de Kleine Vos aan de Graspieper in Mierlo blijft ook dinsdag dicht nadat er zondagavond werd ingebroken. Volgens de politie zijn er 'grove vernielingen' aangericht. Het is onduidelijk wanneer de school weer open kan. Digiborden zijn vernield, meubels zijn omgegooid, ramen ingegooid en lesmateriaal is door d",
   "link": "https://www.omroepbrabant.nl/nieuws/6025152/basisschool-blijft-ook-dinsdag-dicht-na-inbraak-met-grote-vernielingen"
- },
- {
-  "id": "b94c293512",
-  "datum": "2026-08-31",
-  "tijd": "06:40",
-  "nieuw": false,
-  "titel": "Lelystad - Ooit was het een bunker voor grote bedrijven, nu wordt het gebouw gesloopt: Dit gebeurde er in het Getronics-gebouw",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "erf",
-   "gemeenteraad",
-   "jongeren",
-   "organisatie",
-   "pand",
-   "stal"
-  ],
-  "samenvatting": "Langs het spoor in Lelystad staat een groot, leegstaand kantoor. Veel ramen zijn ingegooid of gebarsten. Het staat op de nominatie om gesloopt te worden en plaats te maken voor woningbouw. Maar ooit hield dit gebouw de grootste bedrijven van Nederland draaiende. Dit is wat er gebeurde in het 'Getronics-gebouw'. Misschi",
-  "link": "https://www.omroepflevoland.nl/nieuws/519606/ooit-was-het-een-bunker-voor-grote-bedrijven-nu-wordt-het-gebouw-gesloopt:-dit-gebeurde-er-in-het-getronics-gebouw"
  },
  {
   "id": "a448f107b1",
@@ -12803,6 +12829,27 @@
   ],
   "samenvatting": "Zes mannen aangehouden op verdenking van witwassen van 38 miljoen euro Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3hCLTNLQ2txbE1MUkpRS1FrZzYxdzZ2WXBEY0VFMm9Hc19TNlJxUGFmYXBhUnI4cEZ2c0gwZ1RhZWdBSnFXMXI1bEQzV3FJSVB1dFV3ejdzT2pLMlVza2Zfb2l1ZGxOTTN6X0lIX0txdzRoSmROUENMQnZtdTVOVFhrTkYyeWhEOU9PZHh2eFYzamxvejhUMFNIV1d0YXUySVpGZnFnQVNibGF6ZE9OeFVEVWk?oc=5"
+ },
+ {
+  "id": "40f4251881",
+  "datum": "2026-06-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Het CCV lanceert webdossier over aanpak drugsafval - Centrum voor Criminaliteitspreventie en Veiligheid",
+  "bron": "Nieuws — Drugsproductie & labs",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Het CCV lanceert webdossier over aanpak drugsafval Centrum voor Criminaliteitspreventie en Veiligheid",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VTzlhcWM5Vy1HeGdnMzc2ZS0xeHF2dGhHTld6WWJEeVlzaFJUcGJwYnNRdVEwOEFJY2F5cGo4ZHUzMG1WS1o5bjlYM3dtbGRzVEVtQi1GcnJ0RHdYQUVSSDhUZGdZVXpnNmh5cm5iSlU3UkRDNmNOMw?oc=5"
  },
  {
   "id": "afc2c69131",
