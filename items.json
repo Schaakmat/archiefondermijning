@@ -359,7 +359,7 @@
   "id": "19fcb4ff86",
   "datum": "2026-09-01",
   "tijd": "15:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "TERUGLEZEN | Wijchenaar (51) doodgeschoten • mogelijk langlopend conflict",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -13633,6 +13633,27 @@
   ]
  },
  {
+  "id": "606d3ef450",
+  "datum": "2026-05-29",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie ziet water aan voor drugsafval: 250 schapen blijven dorstig achter",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Politie ziet water aan voor drugsafval: 250 schapen blijven dorstig achter NOS",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkdQNENMYUJmSk40NXkxT0NEUFlZQnBCYmR0UEI2R1ZybXdPeTNRTmtCbWhRY1E2bENtbHp4Z2lJd3IwNUp6eW1BdklqQ3pFNml2NnpETXQ3clNqc0JDYzl3M3BtQVQzRnRrRnF2YVJ0YzgwUGFLRTBiOTBURkljTFI1ZlZUUS1rNEM0VFd5a3lHd3VRSm42MEcwbGNYVGtkSjJtYnZsdw?oc=5"
+ },
+ {
   "id": "72dcc6f962",
   "datum": "2026-05-28",
   "tijd": "15:07",
@@ -14082,6 +14103,27 @@
   ],
   "samenvatting": "Vader van Bolle Jos vrijgesproken van witwassen dure horloges De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHZ4UmRxdUdhbDhFQTRwN1hWS1MzM3F2OC1KSHBjS2F1VDF2TlBQT1p5dHlWV0kwTnF0QWRrb2tIUXhCWnM4YW9mWlU4a0VDTVlfaG9PYTRfLW4zalp2bTVlaWhVdGxvLUU4cVJ0ZHBJaUxzd3c1clpaNFpaTkJTajJIN2RtbFYxcDBBSnFCOFJOaVNSc3lNY3FCREFwelc0bDNoTDd6aW1Ec1lLOWFv?oc=5"
+ },
+ {
+  "id": "3b712d7fed",
+  "datum": "2026-05-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ondernemers verdacht van witwassen voor No Limit Soldiers",
+  "bron": "nu.CW",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Ondernemers & weerbaarheid",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "ondernemers",
+   "witwassen"
+  ],
+  "samenvatting": "Ondernemers verdacht van witwassen voor No Limit Soldiers nu.CW",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbVVoY0xvMzVjUkE1NnpQNXNUdmxGY3lZTlFGbE9pUWVKMUdvOUhXTGNpeUdpanpHaXRPMFVfNHBWbG5LQXRXbnpRVkluV2tWZHpMRjVaVXhRblY4LUw1YjdLMENZeFZmZ2o3Y2NMUlBRanUyR1VQcUtiTGFUXy1GZ1pzTFdJdW1vMjU0?oc=5"
  },
  {
   "id": "57616a4b0c",

@@ -1,12 +1,12 @@
 {
- "run": "23:26",
- "datum": "2026-09-01",
- "nieuw": 18,
- "totaal": 2041,
+ "run": "00:39",
+ "datum": "2026-09-02",
+ "nieuw": 17,
+ "totaal": 2043,
  "verwijderd": 15,
  "geweigerd": {
-  "geen dossier": 497,
-  "niet-nederlands": 1030
+  "niet-nederlands": 1054,
+  "geen dossier": 514
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 50,
-   "status": "bij",
+   "items": 51,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 101,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 97,
-   "status": "2 nieuw",
+   "items": 98,
+   "status": "1 nieuw",
    "ok": true
   },
   {
