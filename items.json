@@ -10,22 +10,38 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
    "Geweld, liquidaties & bedreiging",
    "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "bende",
-   "criminele organisatie",
    "geweld",
    "jongeren",
-   "organisatie",
    "wapen"
   ],
   "samenvatting": "Minister Van Weel van Justitie zegt dat het geweld van gisteren in Overasselt iets is wat Nederland niet eerder in deze vorm heeft gezien. \"Dat je hier hordes hebt van tientallen jongeren die gewapend door de straten van het dorp gaan, en ook meteen het vuur openen op de politie, dat is ongekend en nieuw\", zegt Van Wee",
   "link": "https://nos.nl/l/2629328"
+ },
+ {
+  "id": "3afcf09868",
+  "datum": "2026-09-02",
+  "tijd": "03:42",
+  "nieuw": true,
+  "titel": "Harde knal bij huis in Oss: voorruit volledig vernield",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "Een huis aan de Repelstraat in Oss is dinsdagavond beschadigd geraakt door een explosie. Op het moment van de ontploffing was een gezin met jonge kinderen thuis. Niemand raakte gewond. De explosie gebeurde iets na 23.00 uur. Door de knal werd de voorruit van de woning volledig vernield. Glasscherven kwamen in de voortu",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025519/harde-knal-bij-huis-in-oss-voorruit-volledig-vernield"
  },
  {
   "id": "1975a2b8ea",
@@ -406,7 +422,7 @@
   "id": "4fe54b1e3e",
   "datum": "2026-09-01",
   "tijd": "14:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Piet en Astrid stellen hun oprit gratis open voor campers: 'Het is echt booming'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -425,7 +441,7 @@
   "id": "b3ec5ea05b",
   "datum": "2026-09-01",
   "tijd": "14:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wietkwekerij met honderden planten ontmanteld, drie verdachten aangehouden",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -993,25 +1009,6 @@
   ],
   "samenvatting": "Vijf leden van de Flevolandse familie V. hebben een taakstraf gekregen voor een vechtpartij in Amsterdam. De broers en neven hoeven niet meer terug naar de cel, zo oordeelde de rechtbank maandag. Het Openbaar Ministerie (OM) eiste twee weken geleden nog forse celstraffen, hoewel het om grotendeels voorwaardelijke straf",
   "link": "https://www.omroepflevoland.nl/nieuws/522133/na-vechtpartij-hoeven-broers-en-neven-niet-meer-terug-naar-de-gevangenis"
- },
- {
-  "id": "0b1e74323d",
-  "datum": "2026-08-31",
-  "tijd": "21:19",
-  "nieuw": false,
-  "titel": "Flevoland - Eemmeerdijk tussen Almere en Zeewolde ruim een maand dicht voor groot onderhoud",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "ondernemers"
-  ],
-  "samenvatting": "Automobilisten en fietsers kunnen tot begin oktober niet over de Eemmeerdijk rijden. Dat meldt de provincie Flevoland. De weg tussen Almere en Zeewolde gaat op de schop om de verkeersveiligheid te verbeteren. Ook de aansluiting tussen de Eemmeerdijk en de Gooiseweg (N305) is tijdelijk dicht. De provincie is deze week b",
-  "link": "https://www.omroepflevoland.nl/nieuws/522089/eemmeerdijk-tussen-almere-en-zeewolde-ruim-een-maand-dicht-voor-groot-onderhoud"
  },
  {
   "id": "58a952c569",
@@ -6949,6 +6946,25 @@
   ],
   "samenvatting": "De politie heeft vrijdagavond een burgernetbericht verstuurd met het signalement van een man. Dat gebeurde na een overval bij een woning aan de Stationsweg in Oosterbeek, eerder op de avond.",
   "link": "https://www.gld.nl/nieuws/8511760/politie-zoekt-man-na-woningoverval-oosterbeek"
+ },
+ {
+  "id": "49c0a8676f",
+  "datum": "2026-08-21",
+  "tijd": "18:03",
+  "nieuw": false,
+  "titel": "Agenten vragen tweetal om ID, dan gaat het verschrikkelijk mis",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Omstanders en een stroomstootwapen moesten er aan te pas komen om agenten te ontzetten: het liep in april vorig jaar in Lochem helemaal uit de hand toen om een identiteitsbewijs werd gevraagd. De rechtbank boog zich vrijdag over de zaak tegen twee mannen, die geprobeerd zouden hebben twee politiemensen te wurgen.",
+  "link": "https://www.gld.nl/nieuws/8508368/agenten-vragen-tweetal-om-id-dan-gaat-het-verschrikkelijk-mis"
  },
  {
   "id": "a5fd264a08",
@@ -14466,6 +14482,25 @@
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelFQOS14ZlBBTWZPX1E5S21CQjNLQXFuRHh2MXdMa2dleDZ6dGdBWEtQWmxNTzNrT2x4bHFNWWlYQVhKNHFtV0ZrV2huaFlZU0txNUhic2xhOTZyNnFFX1NEQk9JOThIVFFucVZ5VVkzMlEyNTFPUEJYdTZ4Q3ZKVnZHZ24wMkNjX1I1U3g1ZzRvbWhCdjE5cXF1X0R5bDNJRnlF?oc=5"
  },
  {
+  "id": "81a6ff7186",
+  "datum": "2026-05-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Geldkoerier gepakt met 295.220 euro in auto: ‘Volstrekt onaannemelijk dat dit zijn eerste rit was’",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "geldkoerier"
+  ],
+  "samenvatting": "Geldkoerier gepakt met 295.220 euro in auto: ‘Volstrekt onaannemelijk dat dit zijn eerste rit was’ BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWkpCZ3JuTlo3ampGdVQzX2tOSG83Slc2N1ZQUVd6VzRDMGtzT0VOelJJSElUWDlBUEp4a25mT1o0Y2IxTjE4TlpxMDJ5N3VGT3FJSUxLaS1FX3Q4VDBZRWk4Z2VjWUdFUjRVT1RjTUxubmRFanpjWTMzaWczNWRZanVNbk5uaEpfakNvYWNyT2hfaFdBTnd6LUJMcnhoRTBleC1wcVpwbUpibmVKVTlaNUxwc3RNMUJXSGU0bU16Y2RMc3FXSVNlTGxSTGNYa3E5Nng3R1k3bl8xdmE2?oc=5"
+ },
+ {
   "id": "c14b830f45",
   "datum": "2026-05-13",
   "tijd": "10:04",
@@ -15129,6 +15164,25 @@
   ],
   "samenvatting": "OM eist zeven maanden cel tegen vader Jos Leijdekkers voor witwassen peperduur horloge De Telegraaf",
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR1YzODNVVld4YmxYRHRzV3dwaExyR21mS2lKZmR2QnJVZ2dnblQ2OTdZRmFnS3BJNlBuNTRtcTh3RHlPTE5tbWRKakJXcms1aW5lWU4wQnpXVHBiNUxIa2JFRFRTRlV5TWdzUlZpaGhRZzZOYmtvRTJ0TDU3LXBkaG5YLVd4bVpzY25hUkowdGJUMktORF9KTWZLRkwtbXZ6WnJOTE04Q2w2d2paeksxQlpjWXpOdUZuMERVNkVtNWZCbk91aXVZQUJUOTM2X0VkaW1R?oc=5"
+ },
+ {
+  "id": "d637f7ac27",
+  "datum": "2026-05-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist 7 maanden cel tegen vader Jos Leijdekkers voor witwassen",
+  "bron": "Leidsch Dagblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "OM eist 7 maanden cel tegen vader Jos Leijdekkers voor witwassen Leidsch Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzdPbWhHTXBwTWdHbnpha1FfLU05c2xIalQ0ak9qb3hHR04xemw0WHVsUC1yTmhqbFdKbXJESTJPNlg0Z3BxMm54aFNLa0p3bkNHb05Ec3NlSjVQdWRwck1xWVlyNVdSWjU1T0dVN2hjRXFPZmNWU093Xzc3U1ZQcmNET3ZVOGpodEtnTFFJMXpVWjFGU045RWtuNkthMk9QOFljMmd0OGpnWWg3NWNxTk1CcVRUWW1fc2NuSQ?oc=5"
  },
  {
   "id": "cb620f9624",
@@ -16146,6 +16200,25 @@
   ],
   "samenvatting": "Vlak voordat vader jaren de cel in moest voor witwassen, schonk hij Rachel een appartement van 8 ton Het Financieele Dagblad",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQVNXM2pVRjJmQU1iaHZmY0pCTDUxcDE4c1VkS2NmUWFzRFpMTnJKVUJISlBxYmxyeU5vSk43NkZCNjY5QU1XcG1Md3VwQUYzYXJibjRWd1FDWUE0d3hWMjBWQm4tVFZBWHJuc2dBZEVfdVA1WV81VDFDX19wRm05Nk1KVEh5elhQa1J5SkhvQjA4aVRRN091QjBKTkQ3ZTVKendwOFAyOGsxSWtfOGdhY3doVVliY2xRdVlQQ3MwZUU2QXVJRWtXUllaS2VyZw?oc=5"
+ },
+ {
+  "id": "4c8e7ab80f",
+  "datum": "2026-04-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Auto en boot in beslag genomen in onderzoek naar witwassen",
+  "bron": "NH Nieuws",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Auto en boot in beslag genomen in onderzoek naar witwassen NH Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSWc5SndrRE5zOFpyRzBvS0Z5dnRpQm5KS1F6czNrOXpFdDh5eENPWnE4WmoyZEx5cXVvZVRRNktRanBDeElCdlZBRnFmYkliVFUzTjQzVFJ4NWk4emhETV9KVkptMjZKYkpxWVQ0Zl9xR1ZUQThzNUhhcFNmTmJMV3MtQ3IzSTExaExheUQyZjR5T0RBYTBkYmtDNW4?oc=5"
  },
  {
   "id": "e943f86458",
@@ -19873,6 +19946,27 @@
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE9mb0V5cUpTU0NoWmQxN2JnX0llaTJqMXgydU1mM1Z2dnUzeXpXbkRxLVdJaW00R2EzWHRILTBDRS16WS1CZlNGV3hHYjhzczhFcXhKOF8xNEQ0TWM3R1UzcmEyLTZicTc5Tm15U0hFajdQNHQ2aFZ5VEwyS2JTaXpfRTg3Wkk1LUpTTHhJbnZ0NVcyUHhucWJyQnJTcEdZYkE?oc=5"
  },
  {
+  "id": "5964976760",
+  "datum": "2026-01-24",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Plegen Amsterdamse criminelen straks liquidaties met drones uit Oekraïne? ‘Gebeurde ook bij wapens uit de Balkanoorlogen’",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "liquidatie",
+   "wapen"
+  ],
+  "samenvatting": "Plegen Amsterdamse criminelen straks liquidaties met drones uit Oekraïne? ‘Gebeurde ook bij wapens uit de Balkanoorlogen’ Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdUxwWGpQUTdTYlZFblViUE0tWWp6R1FGWE9xUGRpeU5vRTU0NDJUTGJ5cFhNbmxGSnJFVzEwRks2Mjh0ME1ySTVfd3pQaWw1SUZNTW9iQkFjWGtWSS1VT3pYVmNnZjd0UEpMWVpINlc2R2NHR0VMNVlCSUhaN2d2OE5zZzhfVEg4Q3J3M1A0VG1HV1p6Yy10WnJXT29yaW5IY3RRNEJWRGgzQzNsbGdZV2FZd2R0b3lpcUdZNFpaaFQxYmMyRjVULW9JcGJYNzM1aDlZbGh5aG5vQ1RJQUhLQUwybV96QVlxZ3lzM0JTQQ?oc=5"
+ },
+ {
   "id": "5c2513a0cf",
   "datum": "2026-01-23",
   "tijd": "08:00",
@@ -21811,6 +21905,26 @@
   ],
   "samenvatting": "Criminele Crypto: waarom een sekswerker een QR-code op haar dij moest tatoeëren Knack",
   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQN2EtQUpNRlk5cnNtbzFwckhCQTF3Y0dXSFA1TlhrQ1ZhSmdubjl1WkxvT2I2ZVZzWEZUR1RPUHEyc0U3MjlxN3dTZFhNOW53VmVuUVgzQ2tBeWMxbW5jbzRsWUtXRWl2SzhRX2NrOXlrMTJNNW1qaG1MQnZEdzhQdG13RTNCVko3RGlReUx0UDVfZG4xVTZ6ZG9jQ05jRG04QzRXQlRsRnUtM3ZhN29WSEFGUUMxQkY3Yk1PYVBYci1NX1JZTV9qXzU5bmNwT3Y1VTJEUTBRQlFCX2FoSF8tVUdtMjZiN0pDUnhTaXZOVFl2aFFURVJKaU1SN2F5b19QOFBDZE9FY0k?oc=5"
+ },
+ {
+  "id": "b74aee8666",
+  "datum": "2025-11-17",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Hoger beroep over uitkeringsfraude: ‘Als je één keer per dag de wc doortrekt, verbruik je al meer water dan zij’",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "uitkeringsfraude"
+  ],
+  "samenvatting": "Hoger beroep over uitkeringsfraude: ‘Als je één keer per dag de wc doortrekt, verbruik je al meer water dan zij’ Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZjVoUVRENnhjd0VLNXBZRDZoLVJMSHpQU0J5ZmpzampEcVdseGctSEZmRXk3SVJmVG1JT0UxM0lIUjA1NVRVUUxUZmlGU0R5aDBkMXFUYkVTZmRrY0lJUWxhTG5DRjRCTXUzMFBuSnRkcmdFR0VaMkhyaElwcTBFTmdfZzM2NE5Nbm5LOFNOQ2dXbVpWR21mcnk3emlSX0NlelRfamZnTTlUcndBQlhmckRYdFZFNm12RElMdmFXUGlJMlFqMnA4cF9kMHE5SmFocGRxMEo2N1E3ckpyNzkxOQ?oc=5"
  },
  {
   "id": "3baf0cbb4a",
