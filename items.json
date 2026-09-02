@@ -1,5 +1,33 @@
 [
  {
+  "id": "6cb97ecd0c",
+  "datum": "2026-09-02",
+  "tijd": "05:14",
+  "nieuw": true,
+  "titel": "Van Weel: vorm van geweld in Overasselt ongekend en nieuw",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bende",
+   "criminele organisatie",
+   "geweld",
+   "jongeren",
+   "organisatie",
+   "wapen"
+  ],
+  "samenvatting": "Minister Van Weel van Justitie zegt dat het geweld van gisteren in Overasselt iets is wat Nederland niet eerder in deze vorm heeft gezien. \"Dat je hier hordes hebt van tientallen jongeren die gewapend door de straten van het dorp gaan, en ook meteen het vuur openen op de politie, dat is ongekend en nieuw\", zegt Van Wee",
+  "link": "https://nos.nl/l/2629328"
+ },
+ {
   "id": "1975a2b8ea",
   "datum": "2026-09-01",
   "tijd": "23:48",
@@ -359,7 +387,7 @@
   "id": "19fcb4ff86",
   "datum": "2026-09-01",
   "tijd": "15:13",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "TERUGLEZEN | Wijchenaar (51) doodgeschoten • mogelijk langlopend conflict",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -378,7 +406,7 @@
   "id": "4fe54b1e3e",
   "datum": "2026-09-01",
   "tijd": "14:45",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Piet en Astrid stellen hun oprit gratis open voor campers: 'Het is echt booming'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -397,7 +425,7 @@
   "id": "b3ec5ea05b",
   "datum": "2026-09-01",
   "tijd": "14:39",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Wietkwekerij met honderden planten ontmanteld, drie verdachten aangehouden",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -1180,27 +1208,6 @@
   ],
   "samenvatting": "Politie op de markt in Hoorn om milieucriminaliteit bespreekbaar te maken rodi.nl",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa09XM1N6SzJZa09qRnlZZDlORU12ZUZ2X2s5ci14d0RBTEhOMnRMdFlqSjRPNE1tSDQxVlNjT051OTI3VkN6bTNEelZrUnFnOWNBZ2ttdGo2Q0J2b0ZuVWUxSm01SHA0VXhtLTFIZGdyc1BSRGpaa3pOM00weXBYRC1RZVZOWl9TRllhaERMMGlRNGRUaWUxU2Exd2VYVG0xb3o2QmN5TzBVWWlRNmVUN1UwNA?oc=5"
- },
- {
-  "id": "86b61e061f",
-  "datum": "2026-08-31",
-  "tijd": "15:34",
-  "nieuw": false,
-  "titel": "Man vrijgesproken van beramen ontvoering prinsessen Amalia en Alexia",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "bedreiging",
-   "erf"
-  ],
-  "samenvatting": "De 33-jarige man die verdacht werd van het plannen van het ontvoeren van prinsessen Amalia en Alexia is vrijgesproken. Volgens de rechtbank in Den Haag verkeerde Anne Romke van der H. in een psychose en had hij nooit plannen voor een ontvoering. Het Openbaar Ministerie had eerder tbs met dwangverpleging tegen hem geëis",
-  "link": "https://nos.nl/l/2629126"
  },
  {
   "id": "6770bc604b",
@@ -11284,6 +11291,25 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOTQ1M213NXBVVHFNQlBaRlRNX3o5QkdYOGhwNEhPbUVFSkV5ZXU4aVZscENSdk1xTC04dnN0TTBzeEliSHBibkJjSXVZQnhSQkFtdnpwS0k0LTY3c0JLN2pJUG1rM3Bnd19SSEx3ZUIxUFV6VXhCbzRNd3RPY1duMTVrNlU4WV9xU1FrdWlLSUVUOHZBOC1zVldSdFB6OHV0azF6QWFIamdzSTNyU2J4NzU2SUhQd0NYZkN6cTl3?oc=5"
  },
  {
+  "id": "c34ae60ba7",
+  "datum": "2026-06-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Wietplantage in Alkmaarse flat blijkt levensgevaarlijk: “Het was een kwestie van tijd”",
+  "bron": "Streekstad Centraal",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Wietplantage in Alkmaarse flat blijkt levensgevaarlijk: “Het was een kwestie van tijd” Streekstad Centraal",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhb2Y1NkNkZnNjQzV2aEFOUWt3OUl3YWRmZTgtRlRFSWlYSHo4YmlSbVYyRGJCbTlnNG9iNFRmeldmVmViTTRvU25Ha24tWFhD?oc=5"
+ },
+ {
   "id": "922be937f9",
   "datum": "2026-06-29",
   "tijd": "07:00",
@@ -15086,6 +15112,25 @@
   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZkRsRHhHTnBsZ2lfbFBtTWNFZnhURlBmR2hPUVh2YmYtcEhJNzFpRHRudkZhQUhZN3VPWXl1TlhSajEtMl9MNVZnS1VGS0RKcThydjhOczBha3p5cW8zQzBMNTJrUEVLQXJtTm9GejBQWHJpa0swaUJUOFM4VGg5YUhLdmJjN3pGbmw5d3J1MVpqdmhDRXlTQTN0UVZyMTRCNHdSZjF1Tkh2Z0hTMjIzYzJDSjBDWWwtRlVLZURrX3RhWTB4NG9yNXVWX1VVZmdIOUtDcEk3NUFNQ0JudEtYV1NDdXJrQUtIRHR4N05uNndvRzQ4T3NkanBPcnlsVXFCaGVwbw?oc=5"
  },
  {
+  "id": "8d2913f6e0",
+  "datum": "2026-05-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist zeven maanden cel tegen vader Jos Leijdekkers voor witwassen peperduur horloge",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "OM eist zeven maanden cel tegen vader Jos Leijdekkers voor witwassen peperduur horloge De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR1YzODNVVld4YmxYRHRzV3dwaExyR21mS2lKZmR2QnJVZ2dnblQ2OTdZRmFnS3BJNlBuNTRtcTh3RHlPTE5tbWRKakJXcms1aW5lWU4wQnpXVHBiNUxIa2JFRFRTRlV5TWdzUlZpaGhRZzZOYmtvRTJ0TDU3LXBkaG5YLVd4bVpzY25hUkowdGJUMktORF9KTWZLRkwtbXZ6WnJOTE04Q2w2d2paeksxQlpjWXpOdUZuMERVNkVtNWZCbk91aXVZQUJUOTM2X0VkaW1R?oc=5"
+ },
+ {
   "id": "cb620f9624",
   "datum": "2026-05-05",
   "tijd": "07:00",
@@ -17282,6 +17327,25 @@
   ],
   "samenvatting": "Anonieme tip leidt naar € 275.000 euro contant en meer dan een miljoen aan crypto. Drietal uit Rotterdam aangehouden. Politie.nl",
   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPQ0FuRm5GM05Ld3A2RkxUV2dVdlFXckQzdDFRQ242aHlTRGVoWVpYYnd0SWljV2tRNzFCUlgtQWdnSTN0NzkzMk1rcGZzdnZvbV9rc1Z0NG0tTEJ3ZVVBT3JYeFJ2Wk9ETXpieEI1VVBOSTMzXzY2SUVnSEdEeVU1aER5bmtSRmZSV2VGeFFtVG40UjRxZHlaUF9POGJhRWFmWlR3UllPY1lNeG8xd0FZYkIxWEdNcHJSZXJQc2E0SGJqd0diVEx2Yk5kT3kxcHlMNkMtdkRHN1BXbmRkdGtqbmRmek1LT0RSQUgzZWJsTXJMNG8tRGlDM3RtNHJzOEdFNU10am1YSFRXSmNBSUVnOTFsZzlyWEcyanVpVXBwZFg4M1Z0UV95U3I2MXI?oc=5"
+ },
+ {
+  "id": "b163740870",
+  "datum": "2026-03-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Fantoombedrijven, valse facturen en versluierde transacties: zo wordt drugsgeld in de pgb-zorg witgewassen",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "pgb"
+  ],
+  "samenvatting": "Fantoombedrijven, valse facturen en versluierde transacties: zo wordt drugsgeld in de pgb-zorg witgewassen Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObTNEV19nNktVUC1VdVdvenMzSTZMUmlhdDZzX1ZWYS1ySHduazVsaFNka0tVMzdJNGVwdDF4Qy04R2ZzRzhReWJnRjJLc3JtSlhTLUlDNHhpcTJadHYzYllwa1RnNVcySEhaaGZaSzNXSWpFalVxVDJfUFhzUzdJd1RqMFFKOUN4d2RHNEFJSkl1WkRqRzBzYUkwRUFVb3p2bktoTUpORzJyTTRBdDQ1STdheURnVmUwT1FYZTdWaUlxZ2ZoMWRQby1DNDNXZ3ZFSXg4c2l2aFF5MWFkcHluVWhmRjZZT2dSYjZUX0FOZHFnNW5teFhURGtn?oc=5"
  },
  {
   "id": "6ea242a94d",
@@ -20299,6 +20363,25 @@
   ],
   "samenvatting": "Daders illegale afvaldumping langs Oud Eemnesserweg Baarn wacht mogelijk een hoge boete De Gooi- en Eemlander",
   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb0ZHaHRETWo4QUswZllOYS1zUVVxQ1d2NjZ4X28yajFueWdZbkJoVTNUT2hsRzcxajN5RVcwNnBxc0VuOHBjaHdqQzFaRDkyLTQ0aHplaXpBaWFETXRNdm9CU2haNzRoOXFrbnNxTnhPUE1yRGhub0kwS0Y4SVlfYlhXX1J1Zm5VdXFqbmFDSjJkTFdULXNEUUM3Q28zM25LdWJ6aXRpeW9VcV9ER0RNdlVrSUQxWlZWMnY4bVEzRXpzUmlEVGxYWFdFLS1UdWY0dFJHeEV4c1Z4UEU5c2ZDTWJ2QXVaRDY5bzFz?oc=5"
+ },
+ {
+  "id": "8b88bddb97",
+  "datum": "2025-12-24",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Van mensensmokkel verdachte Eritreeër Kidane H. uitgeleverd aan Nederland",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Van mensensmokkel verdachte Eritreeër Kidane H. uitgeleverd aan Nederland de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkZVd0FhejNkQ1poVUJJYTdXLS1HcE1Talc2cVVCZnB0b0Y0SllCd0ExVTExbkJDenNWTnVxanlwMVcwR2U2ZXNKSVphdTd3VHdCYl8yS0YxRW9xQnBKRThvQkd4aktLVHY1WUFYZ3BrOURLcG8xMHZURE5JWkdBRmNPc0MzOXNTRmFjak1hN1Z6dnAycFF5TkFmNFFIZGRlX2sxcU12WWRCWk1CalcySjRUS280SEFFWmNZ?oc=5"
  },
  {
   "id": "280ef8a397",
@@ -39382,6 +39465,25 @@
   ]
  },
  {
+  "id": "8a29b6250b",
+  "datum": "2018-06-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Burgemeesters aan zet tegen Satudarah",
+  "bron": "Gemeente.nu",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "satudarah"
+  ],
+  "samenvatting": "Burgemeesters aan zet tegen Satudarah Gemeente.nu",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZFBnaV9RcjNIVnM3bGowRXVScWZKaFhYY3ZZaHkyQW5YYVMzamVfYXItd3BybnJZZzdIRHRzMmtmeDhjU1hUSVhUT0YycjVYc2ZyOVFsWjM3VlRqUERnM0c4R05hWXhDaFRCUV9ISzFhVV9TeUVJZ0xaOVZVaWRYRmp3aVV4eG9WM1V4b2JRU2V4UQ?oc=5"
+ },
+ {
   "id": "6769ac351c",
   "datum": "2018-06-18",
   "tijd": "07:00",
@@ -39595,6 +39697,27 @@
   ],
   "samenvatting": "Opnieuw inval bij W Daas om mestfraude en rode diesel Nieuwe Oogst",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXBHMW5VdXlxQlliUXNIZ3Vac1lEeGk5YkNyb1RpcGIzT2d4OHV0NV9JUXYwX1hMbHNoSE1ZMHU2Q2duNFdvWm1TTmY0MmNHbVRGZ3VHcFRfZlIzMHQ3RjNnS3lkNFpJVTFzeXoyUjFjS0dNdnAzTEpzRExIVTh0bURGREQwOG10R1MwdC1tOXhQOEdHY3pPMVJ6dlRYUXc?oc=5"
+ },
+ {
+  "id": "f6b80f76ea",
+  "datum": "2018-02-26",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Motorclubs wegpesten? Nu zit België met het probleem - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Criminele samenwerkingsverbanden",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "motorclub"
+  ],
+  "samenvatting": "Motorclubs wegpesten? Nu zit België met het probleem NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZFhhYlIxeEFubFVfY1lzd3FqS0tJZ25uWGhUcU9LTnhQVVNpakNLbU9valozSlVVOWdvd2JoLThXbWpWRXRVanAwcXRkQ2ZHREs2Wk15ZHI0SUYyU21tQ3JsREJfa080clJJSHFXVWlWejZnY0hKMFBYbVhZT1VheUd3VGJ6WVJQdHdEUlB4blBiTXFvUGNrVTJyM2Z5UQ?oc=5"
  },
  {
   "id": "3410784fbf",
