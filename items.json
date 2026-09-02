@@ -1,10 +1,40 @@
 [
  {
+  "id": "c69c00da10",
+  "datum": "2026-09-02",
+  "tijd": "12:58",
+  "nieuw": true,
+  "titel": "Inwoners Overasselt hopen dat Jan G. vertrekt, 'Zo veel ellende elke keer'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Drugsproductie & labs",
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "cocaïne",
+   "doodgeschoten",
+   "drugslab",
+   "erf",
+   "mdma"
+  ],
+  "samenvatting": "Meerdere inwoners van Overasselt willen dat de woning wordt gesloten waar de schietpartij gisteren plaatsvond. \"We hebben allemaal zoiets: 'Die mensen moeten gewoon vertrekken.' Er is zo veel ellende elke keer daar\", zegt een vrouw tegen de NOS. In de nacht van maandag op dinsdag liepen tientallen gemaskerde mannen met",
+  "link": "https://nos.nl/l/2629357"
+ },
+ {
   "id": "312ca48456",
   "datum": "2026-09-02",
   "tijd": "12:27",
   "nieuw": true,
-  "titel": "Flevoland - Nieuwe scholen krijgen meer ruimte, maar klassen vol krijgen blijft lastig",
+  "titel": "Almere - Nieuwe scholen krijgen meer ruimte, maar klassen vol krijgen blijft lastig",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -21,11 +51,113 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522273/nieuwe-scholen-krijgen-meer-ruimte-maar-klassen-vol-krijgen-blijft-lastig"
  },
  {
-  "id": "dff0b6f51d",
+  "id": "c766b9c2d7",
+  "datum": "2026-09-02",
+  "tijd": "11:10",
+  "nieuw": true,
+  "titel": "Haven Deventer vanaf dinsdag weer bereikbaar na wekenlange sluiting",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "De haven in Deventer is vanaf komende dinsdag weer bereikbaar voor schepen. Dat heeft de gemeente bekendgemaakt. De Prins Bernhardsluis kan vanaf die dag weer open en dat betekent dat schepen de haven weer kunnen bereiken.",
+  "link": "https://www.oost.nl/nieuws/3691146/haven-deventer-vanaf-dinsdag-weer-bereikbaar-na-wekenlange-sluiting"
+ },
+ {
+  "id": "ec0dc2cab3",
+  "datum": "2026-09-02",
+  "tijd": "11:02",
+  "nieuw": true,
+  "titel": "Wending in moordzaak: verdachte liquidatie bij molen Zwolle is vrijgelaten",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "liquidatie",
+   "liquidatiezaak",
+   "moord"
+  ],
+  "samenvatting": "Een opvallende wending in de Zwolse liquidatiezaak rond ‘Morto’ (34), die bij de molen aan de Vondelkade werd doodgeschoten. Verdachte S. (51), die ruim drie maanden vastzat, is vrijgelaten.",
+  "link": "https://www.oost.nl/nieuws/3691141/wending-in-moordzaak-verdachte-liquidatie-bij-molen-zwolle-is-vrijgelaten"
+ },
+ {
+  "id": "c8a1732688",
+  "datum": "2026-09-02",
+  "tijd": "11:00",
+  "nieuw": true,
+  "titel": "LIVE | 35ste verdachte opgepakt • inwoners kijken geschrokken terug",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Overasselt stond dinsdag in het middelpunt van de belangstelling. Een grote groep gemaskerde mannen liep er over straat, een deel van hen met zware vuurwapens. Voor de woning van een man die met drugshandel in verband wordt gebracht, schoot één van hen een beveiliger dood. In de uren die volgden verrichtte de politie t",
+  "link": "https://www.gld.nl/nieuws/8517066/live-35ste-verdachte-opgepakt-inwoners-kijken-geschrokken-terug"
+ },
+ {
+  "id": "c51aeda8e6",
+  "datum": "2026-09-02",
+  "tijd": "10:45",
+  "nieuw": true,
+  "titel": "Daniëlle stak haar man dood uit noodweer: 'Hij mishandelde mij'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "De 49-jarige Daniëlle van der A., die op 25 mei haar man doodstak in hun huis aan de Trouwlaan in Tilburg, heeft daar ontzettend veel spijt van. Dat bleek woensdag in de rechtbank in Breda tijdens een eerste tussentijdse zitting. Daniëlle moest zich volgens haar advocaat verdedigen toen haar man haar aanviel, maar dat ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025648/danielle-stak-haar-man-dood-uit-noodweer-hij-mishandelde-mij"
+ },
+ {
+  "id": "b516135c28",
+  "datum": "2026-09-02",
+  "tijd": "10:21",
+  "nieuw": true,
+  "titel": "Grote hoeveelheid drugs aangetroffen in Enschede: burgemeester sluit huis",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "woning"
+  ],
+  "samenvatting": "Een woning aan de Ahuislanden in Enschede moet van burgemeester Roelof Bleker drie maanden op slot vanwege een overtreding van de Opiumwet. De politie trof eerder een grote hoeveelheid drugs aan in de woning.",
+  "link": "https://www.oost.nl/nieuws/3691125/grote-hoeveelheid-drugs-aangetroffen-in-enschede-burgemeester-sluit-huis"
+ },
+ {
+  "id": "02e162f5ea",
   "datum": "2026-09-02",
   "tijd": "10:20",
   "nieuw": true,
-  "titel": "Man die doorreed na fatale aanrijding in Oss vrijgelaten, blijft verdachte",
+  "titel": "Man die doorreed na dodelijke aanrijding vrijgelaten, blijft wel verdachte",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -37,7 +169,7 @@
    "bestuurder"
   ],
   "samenvatting": "De dertigjarige man die wordt verdacht van het doorrijden na een aanrijding met dodelijk afloop in Oss is woensdag vrijgelaten. De man uit Vinkel blijft nog wel verdachte, meldt de politie. Bij het ongeluk kwam afgelopen weekend een man van 82 om het leven. Het slachtoffer reed op de fiets op de Hertog Antonstraat in O",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025641/man-die-doorreed-na-fatale-aanrijding-in-oss-vrijgelaten-blijft-verdachte"
+  "link": "https://www.omroepbrabant.nl/nieuws/6025641/man-die-doorreed-na-dodelijke-aanrijding-vrijgelaten-blijft-wel-verdachte"
  },
  {
   "id": "6d7d9f8da3",
@@ -59,6 +191,27 @@
   ],
   "samenvatting": "In verschillende WhatsApp-groepen gaat een video rond, waarop onbekenden aankondigen een aanslag te zullen plegen op het leven van Jan G. uit Overasselt. Vier mannen, van wie er drie gewapend zijn, waarschuwen G. dat hij een gestolen lading drugs moet teruggeven. Doet hij dat niet 'binnnen twaalf uur', dan moet hij dat",
   "link": "https://www.gld.nl/nieuws/8517209/video-duikt-op-met-mogelijke-doodsbedreiging-aan-jan-g-uit-overasselt"
+ },
+ {
+  "id": "8185f80bc6",
+  "datum": "2026-09-02",
+  "tijd": "09:44",
+  "nieuw": true,
+  "titel": "Video duikt op met doodsbedreiging aan Jan G. uit Overasselt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "wapen"
+  ],
+  "samenvatting": "In verschillende WhatsApp-groepen gaat een video rond, waarop onbekenden aankondigen een aanslag te zullen plegen op het leven van Jan G. uit Overasselt. Vier mannen, van wie er drie gewapend zijn, waarschuwen G. dat hij een gestolen lading drugs moet teruggeven. Doet hij dat niet 'binnen twaalf uur', dan moet hij dat ",
+  "link": "https://www.gld.nl/nieuws/8517209/video-duikt-op-met-doodsbedreiging-aan-jan-g-uit-overasselt"
  },
  {
   "id": "8bba5e138e",
@@ -435,7 +588,7 @@
   "id": "2b875f1813",
   "datum": "2026-09-01",
   "tijd": "20:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Deur weggeblazen door explosie bij flatgebouw in Rosmalen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -455,7 +608,7 @@
   "id": "a2a3f6afe6",
   "datum": "2026-09-01",
   "tijd": "19:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Hij wil aan de slag op Schiphol, maar verleden bij motorclub zit Lelystedeling in de weg",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -475,7 +628,7 @@
   "id": "0765f2d5c2",
   "datum": "2026-09-01",
   "tijd": "18:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Nieuwsoverzicht 01/09 | Vier tips over gevonden botresten • Botenbeurs begint morgen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -494,7 +647,7 @@
   "id": "c0c43aad20",
   "datum": "2026-09-01",
   "tijd": "18:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Heel het dorp weet 'het', maar bewoners Overasselt houden zich op de vlakte",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -519,31 +672,10 @@
   "link": "https://nos.nl/l/2629302"
  },
  {
-  "id": "efeffca287",
-  "datum": "2026-09-01",
-  "tijd": "17:24",
-  "nieuw": true,
-  "titel": "Dronten - Leren hanger met kruisje levert vier tips op over dode man in Roggebotsebos",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Goudhandel & edelmetalen",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "goud",
-   "grond"
-  ],
-  "samenvatting": "De politie heeft dinsdag vier tips gekregen over de gevonden menselijke botresten in het Roggebotsebos bij Dronten. In het programma Opsporing Verzocht werd maandagavond aandacht besteed aan de vondst. In de uitzending werd een leren hanger met een kruisje getoond, die mogelijk afkomstig is uit de orthodoxe kerk. De ha",
-  "link": "https://www.omroepflevoland.nl/nieuws/522149/leren-hanger-met-kruisje-levert-vier-tips-op-over-dode-man-in-roggebotsebos"
- },
- {
   "id": "80bdcc6041",
   "datum": "2026-09-01",
   "tijd": "17:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie vreest even voor drugsafval, maar treft 18 bidons met motorolie en koelvloeistof aan",
   "bron": "HLN",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1815,6 +1947,25 @@
   ],
   "samenvatting": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWW5tM2JvcmpRdzZGNnNxTGV0SWRVWUNYd1lVYXlIaV9pTUkyMFhDTmRJQ21tQ296OE4yRGFLQjhrWG5UZHYxWmhaY0ZZN0h4dzdwRTNuOF9YRy1mNHJ0a2xPdnhWemhCVnZlMnFiOEJyd3puQkxYc204bHYzTnpkUXZMTmFUVTZVa0FzVVlWTnlCOXF2cGNSbnRYOXJPaDUxYmRKTXBlOW9Zenp6Z21ySHd1NmU2RTBtWDd2b19jLWtVdWR3QkdFOTg1Z3g?oc=5"
+ },
+ {
+  "id": "d4703b5290",
+  "datum": "2026-08-31",
+  "tijd": "08:04",
+  "nieuw": false,
+  "titel": "Veel vacatures voor boa's in onze regio: meldingen blijven langer liggen en controles gaan niet door",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Minder toezicht op straat, controles die niet doorgaan en meldingen die langer blijven liggen. In meerdere gemeenten in de regio heeft een tekort aan boa’s direct gevolgen voor de handhaving. Ook als het gaat om bescherming van de boa’s worden er door gemeenten verschillende keuzes gemaakt: van geen bodycam tot een pro",
+  "link": "https://www.rijnmond.nl/nieuws/2245867/veel-vacatures-voor-boas-in-onze-regio-meldingen-blijven-langer-liggen-en-controles-gaan-niet-door"
  },
  {
   "id": "ac8c22e9c9",
@@ -13124,6 +13275,25 @@
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHdfWDNzekhmRWVNZXpmNDdaUlNWdmRkU3JCbXdDZmhJTXlkWTgwQXppNlNEeXAxME81aHdETXNKbzNlOWRUWkJUaDRjNnpnakVwZzRCZ1RBajdVYjRoR3RZZ21rOVZPRE5jOG1WQ1FoZ25KVURGeDFKX3p5NUNUZHM0SV95LUJ5cW4xYUNjNDR5UE84b1QzVjdSaTRMMVNuN0N2cEI3TFJwT19PaEVuUnE5ZENodlRkX19n?oc=5"
  },
  {
+  "id": "0c6b24cd76",
+  "datum": "2026-06-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Man aangehouden voor betrokkenheid bij drugslab Bovensmilde",
+  "bron": "RTV Drenthe",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Man aangehouden voor betrokkenheid bij drugslab Bovensmilde RTV Drenthe",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUJ0WTJVd1lVdExjaXQ5dWtLcG1FMDE0MXh4NkZaalhJQmU2QkI0V0hhazl6VUNReGl3VnNWM2NkcFN2VVlkZ21xVlZfMHFMRjA2dXZJSy12WFctbDdZN3N4QXUwZFJtTEZVN1k2dEgwRzJyRTA1czRvckZjY2loZ3ZIZnU2cXlkbTdYNW1GVi05Z3cxRm9aUUlsT2dpVHYtWndB?oc=5"
+ },
+ {
   "id": "a0a33c10b4",
   "datum": "2026-06-11",
   "tijd": "16:01",
@@ -13345,6 +13515,25 @@
   ],
   "samenvatting": "Zorgkantoor Menzis scherpt toezicht aan: screening met gegevens politie Tubantia",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGRvLU56U2FDTkp3ajBtZjhtdFU5SmpaNndkZnhsei1FOGF1bFZybXhZZ0I3YXhMVXh2a29wS3d0eUVHWlpSdXVwRlRYNURnY19QUm40TmcxT19NYVE1ckpLLWZHQWpfZXBvMkVNMURpS2J1V2JjdVpiRXBvWE1VQl81azNTckR0QVlIS0ZPSlFTT1JWZkpuVmsxaVJBWGx4SFdqcTZGU2Vpb0M4N3dnbDFUZw?oc=5"
+ },
+ {
+  "id": "ecab4211b3",
+  "datum": "2026-06-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hilversummer opgepakt in Marokko voor drugshandel en witwassen",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Hilversummer opgepakt in Marokko voor drugshandel en witwassen Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXQxbElMUzFiQ3FZY2s3ZlY5S09ZaEt4Z2RfbkdBX0Yxdm5Ca2c5dTNGRzdaOF9NR0JSVmlNVlY5ZDFoREZqRy0tWXdTQkJSMXh2ck9aSDV1TUtDaFUwVm02cF9Na2dGY29HRk42ZG9UZ1V1SmJhVnZNR054VWRVYVc1NEE1SXYxLWFHby1BbEZJYmRBQVBCVXV6el8xRjJlTEExVzBuOXpvcTBGMGtkM2I5LXJENTVLNjc5REtjakQ3UQ?oc=5"
  },
  {
   "id": "ea61e759eb",
@@ -14742,6 +14931,25 @@
   ],
   "samenvatting": "Sluiting azc, aanpak van afvaldumping en ruimte voor de auto: Rijswijk slaat nieuwe weg in AD.nl",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM2txZHgya3c2MDBBWENQblVZX2ExRUVPRXYzT1VCdGNpdGJRT2VvOXIydXJxWlhIOVo1a3FUTW1kRlRELU5nTEd4MU9NNEVPTmJPeGhfMTBQNllrQlEwZGlIQlVteGxTOHVhWHo4RlozZk1ZXzRhWUJKRXFhRTQ5dHZZWFE5alZQU0FfNm5QQncxZzhBSFVnRU1MNzYyM3ZadjlVQzhmV2dneHVQZDFuWHdHaVlhb0dubThkTlg3ZUxlSXc?oc=5"
+ },
+ {
+  "id": "953f2a7923",
+  "datum": "2026-05-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie neemt dertien dure auto’s in beslag na aanhouding van mannen uit Boxtel voor witwassen",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Politie neemt dertien dure auto’s in beslag na aanhouding van mannen uit Boxtel voor witwassen Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXN2YkN2c0dQWjNjLUtVc0lxQU4xRlhjdEFkaWxXX29wT0c3SDZuMXNQOXhQYkR0NzNqNjd4ODl5V091MUo4V2F4dmtuYkVKclZ6djEwOFlDSjBYaURtVmtpYkZxNmZjeVFxQXNScnd2NEEyN0FLYUVJeHZxR3FwYXV2VVAzRHVhU1dJNUZ5dVdBZkpNSWxpWGRQenBmTFJCNXZsdHlaajJ6UVhSdUhOSHNuMnZhWTAxQnc1WFE2VllHVFpiS25Z?oc=5"
  },
  {
   "id": "d8a4bdb84b",
@@ -17068,6 +17276,25 @@
   ],
   "samenvatting": "De rol van de gemeentesecretaris bij de aanpak van ondermijning Binnenlands Bestuur",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcXdCV2UwNFowYjY1Zks5dE5KR1dIRFdYZGM5VldLVVRsajR0UWVjblVWaUxxb2c0b0RUanFTME15YWZZcVptTjJkTWQ5X1FXTFNMaFdaSzgwdnhzWDRFdk0zR0JIdFFlZXJsaG5IeUp5RlFoeGdsd29ROEx5eXF1VVdhTzJ3OUZaWm8xNDJld1ZWUmR3di0tNmtQQ3REd2ZwWjJFWGVUcUptaDZtdDA4UHVGWmcxSENJNEE?oc=5"
+ },
+ {
+  "id": "c6679c8444",
+  "datum": "2026-04-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Corrupte vorkheftruckchauffeur uit Kapelle krijgt lagere straf: vrijspraak voor witwassen",
+  "bron": "pzc.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Corrupte vorkheftruckchauffeur uit Kapelle krijgt lagere straf: vrijspraak voor witwassen pzc.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbjRmMUVDblBoVXpVVi1TOVJaTVhlTmg2Q0F3YzZ2aEh4VG9BS2haNy04VUZhNG5aQjVQSG04dXJTV2RXSkd1ZXRsTWhZdFJUbzlqbER6SFhlV2VSeTN5dlhUcmp2bmlIT3FZdXVlVUFMeFhuY1V0UTF0ckpHNzhCaWg3VnBoVE1DWGlQRzJ2RjE0dXdSZE8zazExMnBYbUtaeEVlRHl6Ri1CNXZvWGJQWTU0RWEySl9RN3ptUEx4S3Vhck0?oc=5"
  },
  {
   "id": "fa47ecdbd4",
@@ -29329,6 +29556,25 @@
   "dossiers": [
    "Drugsproductie & labs"
   ]
+ },
+ {
+  "id": "789f558168",
+  "datum": "2024-10-16",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drie jaar cel voor Urker die betrapt werd bij drugslab in Zeeland",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drie jaar cel voor Urker die betrapt werd bij drugslab in Zeeland Omroep Flevoland",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY2F0OXBsaU9EUmhYXzI3bDhHSnZDOU9WSVAtWlRCbVRlQ2FRLW1ZbXhuZDdkU0NkUndMTWNKM1ZGWHF0eEJGYi1RS3IzRElNLXB1b3AyLUs2Qjg3QTF3VVg2c1FLakJQclBtQ3dOSXpaVnhidU1XTF8tVDdSOXBNeHZyUTJUdmRERFlBVXVlVkF2QUVrVzhsYW5GWTNVVjlacFRYQXQ3QXM5OFIwdjVj?oc=5"
  },
  {
   "id": "95118a800f",
