@@ -1,12 +1,12 @@
 {
- "run": "13:32",
+ "run": "14:31",
  "datum": "2026-09-02",
- "nieuw": 23,
- "totaal": 2127,
- "verwijderd": 16,
+ "nieuw": 27,
+ "totaal": 2139,
+ "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1026,
-  "geen dossier": 488
+  "geen dossier": 470,
+  "niet-nederlands": 1012
  },
  "bronnen": [
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 92,
-   "status": "bij",
+   "items": 96,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 39,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -285,7 +285,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 30,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -302,8 +302,8 @@
    "url": "news.google.com/rss/search?q=%22ondermijning%20buitengebied%22%20OR%20va",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 15,
-   "status": "bij",
+   "items": 16,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 105,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -356,8 +356,8 @@
    "url": "news.google.com/rss/search?q=%22jonge%20aanwas%22%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 22,
-   "status": "bij",
+   "items": 23,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 46,
-   "status": "8 nieuw",
+   "items": 49,
+   "status": "11 nieuw",
    "ok": true
   },
   {
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 10,
-   "status": "bij",
+   "items": 11,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 22,
-   "status": "3 nieuw",
+   "items": 24,
+   "status": "4 nieuw",
    "ok": true
   },
   {
