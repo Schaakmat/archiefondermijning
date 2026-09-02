@@ -1,12 +1,12 @@
 {
- "run": "14:31",
+ "run": "15:35",
  "datum": "2026-09-02",
- "nieuw": 27,
- "totaal": 2139,
- "verwijderd": 15,
+ "nieuw": 38,
+ "totaal": 2161,
+ "verwijderd": 16,
  "geweigerd": {
-  "geen dossier": 470,
-  "niet-nederlands": 1012
+  "niet-nederlands": 1008,
+  "geen dossier": 491
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 56,
-   "status": "bij",
+   "items": 58,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 113,
-   "status": "bij",
+   "items": 114,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 96,
-   "status": "4 nieuw",
+   "items": 97,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 67,
-   "status": "bij",
+   "items": 79,
+   "status": "12 nieuw",
    "ok": true
   },
   {
@@ -303,7 +303,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 16,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -357,7 +357,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 23,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 49,
-   "status": "11 nieuw",
+   "status": "9 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 35,
-   "status": "bij",
+   "items": 37,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 56,
-   "status": "bij",
+   "items": 57,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -527,7 +527,7 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 11,
+   "items": 12,
    "status": "1 nieuw",
    "ok": true
   },
@@ -546,7 +546,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 24,
-   "status": "4 nieuw",
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 61,
-   "status": "bij",
+   "items": 62,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -572,8 +572,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 25,
-   "status": "bij",
+   "items": 26,
+   "status": "1 nieuw",
    "ok": true
   }
  ]
