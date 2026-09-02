@@ -23,11 +23,51 @@
   "link": "https://nos.nl/l/2629328"
  },
  {
-  "id": "3afcf09868",
+  "id": "341b2a14cb",
+  "datum": "2026-09-02",
+  "tijd": "05:11",
+  "nieuw": true,
+  "titel": "Minister: 'Deze vorm van geweld is ongekend en nieuw'",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Minister David van Weel van Justitie zegt dat het geweld van dinsdag in Overasselt iets is wat Nederland niet eerder in deze vorm heeft gezien.",
+  "link": "https://www.gld.nl/nieuws/8517088/minister-deze-vorm-van-geweld-is-ongekend-en-nieuw"
+ },
+ {
+  "id": "7fd9df0599",
+  "datum": "2026-09-02",
+  "tijd": "03:56",
+  "nieuw": true,
+  "titel": "LIVE | Overasselt start de dag op • politieonderzoek gaat verder",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Overasselt stond dinsdag in het middelpunt van de belangstelling. Een grote groep gemaskerde mannen liep er over straat, een deel van hen met zware vuurwapens. Voor de woning van een man die met drugshandel in verband wordt gebracht, schoot één van hen een beveiliger dood. In de uren die volgden verrichtte de politie t",
+  "link": "https://www.gld.nl/nieuws/8517066/live-overasselt-start-de-dag-op-politieonderzoek-gaat-verder"
+ },
+ {
+  "id": "35aed58524",
   "datum": "2026-09-02",
   "tijd": "03:42",
   "nieuw": true,
-  "titel": "Harde knal bij huis in Oss: voorruit volledig vernield",
+  "titel": "Explosie bij huis in Oss, gezin met jonge kinderen ongedeerd",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -41,7 +81,7 @@
    "woning"
   ],
   "samenvatting": "Een huis aan de Repelstraat in Oss is dinsdagavond beschadigd geraakt door een explosie. Op het moment van de ontploffing was een gezin met jonge kinderen thuis. Niemand raakte gewond. De explosie gebeurde iets na 23.00 uur. Door de knal werd de voorruit van de woning volledig vernield. Glasscherven kwamen in de voortu",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025519/harde-knal-bij-huis-in-oss-voorruit-volledig-vernield"
+  "link": "https://www.omroepbrabant.nl/nieuws/6025519/explosie-bij-huis-in-oss-gezin-met-jonge-kinderen-ongedeerd"
  },
  {
   "id": "1975a2b8ea",
@@ -346,7 +386,7 @@
   "id": "8e1ab177b9",
   "datum": "2026-09-01",
   "tijd": "15:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Amsterdammer Yusuf U. (26) blijft in cel voor witwassen 38 miljoen",
   "bron": "Het Parool",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -365,7 +405,7 @@
   "id": "c06d5f3fb2",
   "datum": "2026-09-01",
   "tijd": "15:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overasselt opgeschrikt door gewelddadig schietincident, veel nog onduidelijk",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -384,7 +424,7 @@
   "id": "a02e63b4a3",
   "datum": "2026-09-01",
   "tijd": "15:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vijf tieners aangehouden na mishandeling en beroving in Purmerend",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -403,7 +443,7 @@
   "id": "19fcb4ff86",
   "datum": "2026-09-01",
   "tijd": "15:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "TERUGLEZEN | Wijchenaar (51) doodgeschoten • mogelijk langlopend conflict",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -986,29 +1026,6 @@
   "tags": [],
   "samenvatting": "operationeel specialist A wijkagent - Basisteam Leiden-Zuid Kom bij de politie",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU5BbGpwb3otbGRxeXE4WHFFd2txc05xb1Qyd2FXRFVOSzF3azBRYmFzZVNRQkwwUll2aHpvaHRmMzdKZGlkOTJsTDU2cTRralJhRHR4emlZZWszLUpLamVOMGtxSDdSa003NjI3WG9UQ3FpMHlBRWhzMkVWbHBDakdOc3F1bU42M0FvdERpaDlhSFk2Z2RNT2h0cUhPbGprWmpLQ0oxYVg2b3l3UU5n?oc=5"
- },
- {
-  "id": "2d305cbd0c",
-  "datum": "2026-08-31",
-  "tijd": "22:04",
-  "nieuw": false,
-  "titel": "Flevoland - Na vechtpartij hoeven broers en neven niet meer terug naar de gevangenis",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "geweld",
-   "grond",
-   "jeugd"
-  ],
-  "samenvatting": "Vijf leden van de Flevolandse familie V. hebben een taakstraf gekregen voor een vechtpartij in Amsterdam. De broers en neven hoeven niet meer terug naar de cel, zo oordeelde de rechtbank maandag. Het Openbaar Ministerie (OM) eiste twee weken geleden nog forse celstraffen, hoewel het om grotendeels voorwaardelijke straf",
-  "link": "https://www.omroepflevoland.nl/nieuws/522133/na-vechtpartij-hoeven-broers-en-neven-niet-meer-terug-naar-de-gevangenis"
  },
  {
   "id": "58a952c569",
@@ -10006,6 +10023,25 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVpFTDNBMnB0NnZoSllZM3RnVnVXVkpyOWdhdVphVmtQeFZqcWMxRUJIdVI2azJWQlVrdkRLaU5RTHkxNVpIT25WNi1hV3lsTUtZVUpNLTM5ZEdoOWlraFpFcTNQdjd5N0RfdW1GaVhTQ2RCdFhhQkVUNHJOY0RHSEw3enJHVVNfSVdHMkd0Ri1wX2t2N3B6anFaZEtQcmd5WER0bV96UnR6cW8wV2xoRDRNUGVVSkp6VGswY1h3?oc=5"
  },
  {
+  "id": "001b564caa",
+  "datum": "2026-07-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Grote politieactie op de Wallen in onderzoek naar mensenhandel, zeven verdachten aangehouden",
+  "bron": "Crimesite",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Grote politieactie op de Wallen in onderzoek naar mensenhandel, zeven verdachten aangehouden Crimesite",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVHRYbkRMdVFpQXpQVW9SdzBadGs1RkxlTm9KWm1FVnFacTR5X2JXaVZDZkFPdzc3LURnbGRuUl9reWdITTVuc05lOE9VY0UtbmF2bjFvLVB6N0dlOTdFMi00YnA0M0VxWnZrajJUVTBnUEE5NmQ2ZnZDZEJVYW9selpLZTdtRF92aTNHUHp3NEpVQQ?oc=5"
+ },
+ {
   "id": "31007220a9",
   "datum": "2026-07-14",
   "tijd": "07:51",
@@ -10938,6 +10974,25 @@
   ],
   "samenvatting": "Afvaldumping in de natuur: wat moet er gebeuren tegen overlast bij zwemplekken in Berkelland? Tubantia",
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY0pZUHN1MWt1M3haMFlNV3k5QnFWb3BJX0VKa0czWEp1c052UVh0eU1LdXhGWTc0VUx4MHFZa2otdF9HZUlHRERqb2I3ZHI1VW42Y3FqV3RtN1pFdzNVUGIweXVlT1NjUWpJVFAzcTZxS0ZhV1hFRmFqeDZ4QzRNTEg4X1A3cW1NTFd1RmQzQXVhTG00alhtWm5vTE1lTHRHX0RWZ3BKYlZBcTR3aHlDSGZEY1ExMkcwX0I5UzlycEQtTFlXaGMxYnEyX2tDbHJBWXc?oc=5"
+ },
+ {
+  "id": "b70c130192",
+  "datum": "2026-07-03",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Anderhalf jaar cel geëist voor hulp bij mensensmokkel",
+  "bron": "Omroep Land van Cuijk",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Anderhalf jaar cel geëist voor hulp bij mensensmokkel Omroep Land van Cuijk",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDdMYmRuM0YxQkNnYTlVWURiTVRrcjFxSmtVemxHamVpRXVWSUlvYmpTa2dPbWFPLXpoSGpHZm0zbVJtbXNhTURLWmJwMFlTVXF4Mng2M1VOUnFKRkZUdS1vSTV0VWpnRlhiZDZwUlZkRHphRVdIVWloOGlEYmRRVWUxWndld0pxUHBPN0NXeFd1dDhEcjRMNg?oc=5"
  },
  {
   "id": "3defb30078",
@@ -18571,6 +18626,27 @@
   ],
   "samenvatting": "Mannen verdacht van witwassen door bezit woningen in Rotterdam Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeXlxTGlYT3p6N19NWDU5cDdrS1NvcEtEQUJTU3ZfbGJfX21QbGUtbldxajVQa2hFLU9tbkx5VVdMUkVaZ2h0ZmV3cmU1V1hBZ1M2RnFGMG1IQXAwbzhsU2dFdlNfaTQwMVJhTmUtSUNsTWNJbklqdk14VWFtZTE1TWRaZWlKR2tIQVhFZlVDOVlobTB4UHhlMGhQWldQTWZHbnQ1c0diNWFvQQ?oc=5"
+ },
+ {
+  "id": "69cf3762e9",
+  "datum": "2026-03-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "OM eist 8 jaar cel tegen Delfzijlster die in de cel doorging met witwassen van cryptogelden",
+  "bron": "RTV Noord",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "witwassen"
+  ],
+  "samenvatting": "OM eist 8 jaar cel tegen Delfzijlster die in de cel doorging met witwassen van cryptogelden RTV Noord",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSVNNRDNEb19uLXItV3lROHM0RC1pYllCMjlHUEVINGI1eFhZbTZjUHJnaVlNUDc0YWRPUUFGWV9MYjByT3NqM3d1VjZ6UUZlX0dkQ1J2eWxMSjhTT1dZaGRmb29kTXhtQ3ZJand3RGpYMllWd0F3UlFBa0xqRGRyMjFRclhObHZiY3VWS28tM2Y3aXJIbWI1djV4NWZyLVhLeTJMbWhZaTBnUnJEVEZWeGgzMmJoNG05Q0hyaVMyd3lnUjVLYlNGbjgwRQ?oc=5"
  },
  {
   "id": "59f409469b",
