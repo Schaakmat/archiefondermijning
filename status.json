@@ -1,12 +1,12 @@
 {
- "run": "18:35",
+ "run": "19:29",
  "datum": "2026-09-02",
- "nieuw": 29,
- "totaal": 2198,
- "verwijderd": 14,
+ "nieuw": 21,
+ "totaal": 2203,
+ "verwijderd": 16,
  "geweigerd": {
   "niet-nederlands": 1011,
-  "geen dossier": 482
+  "geen dossier": 444
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 60,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 107,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -50,8 +50,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 51,
-   "status": "bij",
+   "items": 52,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 117,
-   "status": "3 nieuw",
+   "items": 118,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -123,7 +123,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 14,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 16,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 100,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 83,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 109,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -357,7 +357,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 24,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 38,
-   "status": "bij",
+   "items": 39,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -510,8 +510,8 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 58,
-   "status": "bij",
-   "ok": true
+   "status": "fout 404",
+   "ok": false
   },
   {
    "naam": "1Limburg",
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 25,
-   "status": "2 nieuw",
+   "items": 27,
+   "status": "4 nieuw",
    "ok": true
   },
   {

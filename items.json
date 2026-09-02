@@ -1,5 +1,51 @@
 [
  {
+  "id": "af54e14f02",
+  "datum": "2026-09-02",
+  "tijd": "21:15",
+  "nieuw": true,
+  "titel": "Almere - Fietser aangereden door stadsbus bij oversteken busbaan in Almeerse Faunabuurt",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "supermarkt"
+  ],
+  "samenvatting": "Een fietser is woensdagmiddag zwaargewond geraakt door een botsing met een stadsbus in Almere Buiten. Vanwege de ernst van de verwondingen van het slachtoffer landde een team van de traumahelikopter langs de route naar het ziekenhuis. De aanrijding gebeurde rond 15.10 uur op de busbaan van het Spoorbaanpad in de Faunab",
+  "link": "https://www.omroepflevoland.nl/nieuws/522374/fietser-aangereden-door-stadsbus-bij-oversteken-busbaan-in-almeerse-faunabuurt"
+ },
+ {
+  "id": "0c51f7972f",
+  "datum": "2026-09-02",
+  "tijd": "21:11",
+  "nieuw": true,
+  "titel": "Lelystad - Verdachte van schietpartij bij supermarkt wil cel uit: 'Ik heb dat pistool niet in handen gehad'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Horeca, winkels & dienstverlening",
+   "Jeugd & jonge aanwas",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "geweld",
+   "school",
+   "supermarkt",
+   "wapen"
+  ],
+  "samenvatting": "De 27-jarige man die wordt verdacht van een schietpartij in Lelystad op 17 mei blijft voorlopig vastzitten. Volgens de officier van justitie schoot hij op een Mercedes met vier inzittenden, nadat er eerder die avond bij de Jumbo aan de Voorstraat ruzie was geweest. De man ontkent dat hij heeft geschoten. De verdachte -",
+  "link": "https://www.omroepflevoland.nl/nieuws/522359/verdachte-van-schietpartij-bij-supermarkt-wil-cel-uit:-'ik-heb-dat-pistool-niet-in-handen-gehad'"
+ },
+ {
   "id": "babd8b8954",
   "datum": "2026-09-02",
   "tijd": "20:01",
@@ -29,6 +75,25 @@
   ],
   "samenvatting": "Een hoog opgelopen drugsruzie zou de reden zijn dat een groep van tientallen zwaarbewapende mannen naar Overasselt afreisde. Een 51-jarige beveiliger kwam om het leven en twee agenten raakten gewond. Justitieminister Van Weel noemt het een vorm van ongekend en nieuw geweld. De burgemeester van Heumen bestempelt het als",
   "link": "https://nos.nl/l/2629409"
+ },
+ {
+  "id": "5907a9149a",
+  "datum": "2026-09-02",
+  "tijd": "19:09",
+  "nieuw": true,
+  "titel": "Man rijdt opzettelijk met auto het water in en wordt aangehouden",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Een man heeft woensdagavond opzettelijk een auto het water ingereden. Dat gebeurde in de Prins Johan Frisohaven in Rotterdam, bij de Eemlandweg. De politie meldt dat het voertuig hoogstwaarschijnlijk niet van hem was. De man is aangehouden.",
+  "link": "https://www.rijnmond.nl/nieuws/2248032/man-rijdt-opzettelijk-met-auto-het-water-in-en-wordt-aangehouden"
  },
  {
   "id": "47a25c7bc3",
@@ -88,11 +153,11 @@
   "link": "https://nos.nl/l/2629403"
  },
  {
-  "id": "50ab72e748",
+  "id": "f0da952ebf",
   "datum": "2026-09-02",
   "tijd": "17:30",
   "nieuw": true,
-  "titel": "Brabant pakt loodvervuiling in bodem aan: eerste moestuintjes gesaneerd",
+  "titel": "Een meter grond eruit: sanering van lood in Heusden begonnen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -109,7 +174,7 @@
    "stal"
   ],
   "samenvatting": "In Heusden is woensdag begonnen met het saneren van vier kleine moestuintjes in het midden van het vestingstadje. In de bodem is lood aangetroffen. De sanering maakt deel uit van het project Bodemlood, waarin de provincie en Brabantse gemeenten samenwerken om lood uit de grond te halen op plekken waar kinderen spelen. ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025692/brabant-pakt-loodvervuiling-in-bodem-aan-eerste-moestuintjes-gesaneerd"
+  "link": "https://www.omroepbrabant.nl/nieuws/6025692/een-meter-grond-eruit-sanering-van-lood-in-heusden-begonnen"
  },
  {
   "id": "42d505b5ba",
@@ -132,6 +197,27 @@
   ],
   "samenvatting": "Archeologen doen een week lang onderzoek naar restanten van de Burcht van Kuinre in de Noordoostpolder. De burcht kwam in 1942 tevoorschijn na de drooglegging van de polder. Een jaar later deed archeoloog Pieter Jan Modderman uitgebreid archeologisch onderzoek en werden onder meer funderingen, waterputten, aardewerk en",
   "link": "https://www.omroepflevoland.nl/nieuws/522336/archeologen-vol-spanning-bij-hernieuwde-opgraving-burcht-van-kuinre"
+ },
+ {
+  "id": "6b80fb0b85",
+  "datum": "2026-09-02",
+  "tijd": "16:24",
+  "nieuw": true,
+  "titel": "Wapens, vals geld, witwassen: dit zijn de verdenkingen tegen beschoten familie Overasselt",
+  "bron": "RTL.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "wapen",
+   "witwassen"
+  ],
+  "samenvatting": "Wapens, vals geld, witwassen: dit zijn de verdenkingen tegen beschoten familie Overasselt RTL.nl",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRi03TGZHY3MtajEtTHRZek9xcDd3dWsyUkRUcDhlaXhtRWFQZ1UzR3EwYk5zcGFGX25RTTVMdlQtb3BsaXNrM1RSR19SbThPcXM2QVBlTl9kTkdSdnUxZTdMb2lnYkdzOU5SQkhleWRoZG05NnU4RDl0RWVLTjJQa1RpdUlRWEgwM3BBc056U053UndOTlczcDhFM051RzZ4TUNweU9OelFkVHE1VUZfUw?oc=5"
  },
  {
   "id": "3ea11ff402",
@@ -353,7 +439,7 @@
   "id": "a197ee142a",
   "datum": "2026-09-02",
   "tijd": "14:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bryton (6) vliegt door de lucht na aanrijding, bestuurder had al dik verkeersdossier",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -372,7 +458,7 @@
   "id": "1697013604",
   "datum": "2026-09-02",
   "tijd": "14:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie wethouders Sluis • Wethouders Borsele geïnstalleerd",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -393,7 +479,7 @@
   "id": "b363555e70",
   "datum": "2026-09-02",
   "tijd": "14:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Portefeuilleverdeling wethouders Sluis • Wethouders Borsele geïnstalleerd",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -414,7 +500,7 @@
   "id": "138b275341",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tegel van verdachte wijkagent Erwin weggehaald uit Tilburgse Walk of Fame",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -435,7 +521,7 @@
   "id": "73d4d3f723",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | 'Onder protest' mee naar Overasselt • inwoners kijken geschrokken terug",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -456,7 +542,7 @@
   "id": "685085b379",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Politie vindt meerdere pistolen • morgen meer duidelijkheid over woning Jan G.",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -477,7 +563,7 @@
   "id": "ac680ea73c",
   "datum": "2026-09-02",
   "tijd": "13:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie onderzoekt dreigvideo aan adres Jan G., bewoner pand Overasselt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -496,7 +582,7 @@
   "id": "9a8bd0cd91",
   "datum": "2026-09-02",
   "tijd": "13:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Koffers van zes vluchten blijven achter op Eindhoven Airport na storing",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -515,7 +601,7 @@
   "id": "978f7ac01d",
   "datum": "2026-09-02",
   "tijd": "13:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw met verf bespoten in Den Bosch: man (41) dertig dagen langer vast",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -534,7 +620,7 @@
   "id": "4d714f6242",
   "datum": "2026-09-02",
   "tijd": "13:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Stroomstoring treft zo'n 900 huishoudens in Noordoostpolder en Urk",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -553,7 +639,7 @@
   "id": "c69c00da10",
   "datum": "2026-09-02",
   "tijd": "12:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inwoners Overasselt hopen dat Jan G. vertrekt, 'Zo veel ellende elke keer'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -572,7 +658,7 @@
   "id": "68d4b395c6",
   "datum": "2026-09-02",
   "tijd": "12:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dreigvideo duikt op na extreem geweld in Overasselt: 'Je zal sterven'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -32903,6 +32989,25 @@
   ],
   "samenvatting": "Tot 5 jaar cel voor witwassen van tientallen miljoenen euro's De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOE1telg0UzZnc3U4NGpJX2ZfRlVILU9TWnIyeFBoQ1hVTkt5NFN6TkZSQndURkdOQW1zWEZMU0dDQzBXMXUzaGtvTjdVU1Z3bktsRWFiSXRmMlg3OFRZdVNoYmZZMVFZb0dobW04YWZ4cUFfeEdDcUhxSUpmU1cxZVdZSEktRkt1THZpdlIxQk9GMUpuLWhjekd1LTFmMG5nTDc3dnd4QmJObjVYV2ROd2F0X0FIaFdQS0cxQkdKbDRSMnhjTTNXSlVGdnpnTG8tbmZoM2ppem9FbUF5ZzhIS1A0YlZSSTY4clFXeGhyTTE3Z3phMDR6MDl6UG9LYnZ6alE?oc=5"
+ },
+ {
+  "id": "38ae6d2b75",
+  "datum": "2024-02-20",
+  "tijd": "12:10",
+  "nieuw": false,
+  "titel": "44-jarige Schiedammer en planner voor ECT verdacht van grootschalige drugshandel en corruptie - Twee",
+  "bron": "Het nieuws uit Vlaardingen en Schiedam",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie"
+  ],
+  "samenvatting": "44-jarige Schiedammer en planner voor ECT verdacht van grootschalige drugshandel en corruptie Twee - Het nieuws uit Vlaardingen en Schiedam",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGF6cE5scFc2UUZDWUNISlVTQ29nbkpyODNsUm5JZlJLempPSmVTYTItVDQ2RjlXOGlkMjFXdk16cy1JNlBDR2F1X1dCX0xmcWVEdlR5VnV1NG94emRDY2FnNkV3RTNzSnNPSTItRjhmdmlRT0cxR1FOdmZXUzg4T25MYzlrNm1oMnk0c2Q2VmM2WFZoSW03NG9ncDdLSXVxMHlvR0t5dVMtQVhoc2szTmJsX2RRVjJfNFFuSTNNdFk2a3VOY1E?oc=5"
  },
  {
   "id": "54229cb565",
