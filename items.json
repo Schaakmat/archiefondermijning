@@ -1,5 +1,28 @@
 [
  {
+  "id": "f6894ce44d",
+  "datum": "2026-09-02",
+  "tijd": "23:47",
+  "nieuw": true,
+  "titel": "Inzet ME bij Overasselt afgerond: meerdere wapens gevonden",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "De inzet van de mobiele eenheid (ME) in en rond Overasselt is klaar. Bij de uitgebreide zoektocht zijn meerdere wapens aangetroffen. Dat heeft de politie gemeld. Ook buiten het zoekgebied werden wapens gevonden, zoals in het nabijgelegen Wijchen na melding van een burger. Wel roept de politie op alert te blijven en bij",
+  "link": "https://nos.nl/l/2629438"
+ },
+ {
   "id": "98bceeffd4",
   "datum": "2026-09-02",
   "tijd": "21:46",
@@ -47,6 +70,25 @@
   ],
   "samenvatting": "Almere voert de druk op Den Haag op over de bouw van Pampus. De gemeente wil bij het Rijk een structurele jaarlijkse bijdrage afdwingen voor voorzieningen en bereikbaarheid. Blijven harde afspraken uit, dan dreigt de ontwikkeling te worden gepauzeerd en schuiven 6.000 woningen door tot na 2040. De gemeenteraad moet uit",
   "link": "https://www.omroepflevoland.nl/nieuws/522347/almere-zet-pampus-op-scherp-in-haagse-lobby:-zonder-geld-en-bereikbaarheid-geen-bouw"
+ },
+ {
+  "id": "0d94529205",
+  "datum": "2026-09-02",
+  "tijd": "21:22",
+  "nieuw": true,
+  "titel": "Raad steunt plan tegen ‘veelkoppig monster’ mensenhandel, maar wil meetbare doelen en meer inzet op preventie",
+  "bron": "OOG Groningen",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Raad steunt plan tegen ‘veelkoppig monster’ mensenhandel, maar wil meetbare doelen en meer inzet op preventie OOG Groningen",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNFhUbTNtRzJ0dDFHRlZlYjFVXzA5c2NlbHZOZENpbzBwVkd6MWJDQWNvWkpHNmx5X1BQMFhXX3JrempjOVl4VjM3SGk3bnlpeUdwNVNYenBFQmVNUmRpMWVVQ3pRMDhySnlRQlloNzdfRmdpZVlZdF9RRGU0MVdhMzZ1aVNwaVpJODRtMGVyQi1aUmJ2RmZzUzJ4VVdkTEhuczZOc2ZiZ21VYnJnUEdRM1NMNVVtQUVtU3ZESk9MM2IxVHJ0bmNCUkdIUW5INzZMX1E?oc=5"
  },
  {
   "id": "af54e14f02",
@@ -208,13 +250,11 @@
   "regio": "Gelderland",
   "dossiers": [
    "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
    "jongeren",
-   "wapen",
-   "woning"
+   "wapen"
   ],
   "samenvatting": "De afgelopen dagen was het onrustig in Overasselt. Op bewakingsbeelden is te zien dat er in de nacht een grote groep personen met vuurwapens naar een huis aan de Ewijkseweg in Overasselt loopt. Er wordt gevuurd met een wapen en vervolgens loopt de groep weg. Daar lijken veel jongeren tussen te zitten. Eerder is er op d",
   "link": "https://www.gld.nl/nieuws/8517256/verdachten-schietincident-overasselt-mogelijk-geronseld-via-sociale-media-het-zijn-vaak-nog-kinderen"
@@ -468,7 +508,7 @@
   "id": "9635514620",
   "datum": "2026-09-02",
   "tijd": "14:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "2/9 in Nieuwsuur: Overasselt hoopt dat buurman Jan vertrekt • Wat Roemenië merkt van de Oekraïne-oorlog • Waarom lezen onze kinderen zo slecht?",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -487,7 +527,7 @@
   "id": "bcd469700d",
   "datum": "2026-09-02",
   "tijd": "14:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Deventer ziet meer daklozen en drugsoverlast: 'Loopt ons over de schoenen'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -506,7 +546,7 @@
   "id": "4a91481c99",
   "datum": "2026-09-02",
   "tijd": "14:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tientallen mogelijk met drugsafval gevulde jerrycans gedumpt bij eindpunt tram 26",
   "bron": "oost-online.amsterdam",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -527,7 +567,7 @@
   "id": "a197ee142a",
   "datum": "2026-09-02",
   "tijd": "14:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bryton (6) vliegt door de lucht na aanrijding, bestuurder had al dik verkeersdossier",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -546,7 +586,7 @@
   "id": "1697013604",
   "datum": "2026-09-02",
   "tijd": "14:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie wethouders Sluis • Wethouders Borsele geïnstalleerd",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -567,7 +607,7 @@
   "id": "b363555e70",
   "datum": "2026-09-02",
   "tijd": "14:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Portefeuilleverdeling wethouders Sluis • Wethouders Borsele geïnstalleerd",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -588,7 +628,7 @@
   "id": "138b275341",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tegel van verdachte wijkagent Erwin weggehaald uit Tilburgse Walk of Fame",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -609,7 +649,7 @@
   "id": "73d4d3f723",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | 'Onder protest' mee naar Overasselt • inwoners kijken geschrokken terug",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -630,7 +670,7 @@
   "id": "685085b379",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Politie vindt meerdere pistolen • morgen meer duidelijkheid over woning Jan G.",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -651,7 +691,7 @@
   "id": "0dc69e6029",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "TERUGLEZEN | Politie vindt meerdere pistolen • morgen meer duidelijkheid over woning Jan G.",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -1705,32 +1745,6 @@
   "link": "https://www.gld.nl/nieuws/8516970/teruglezen-mogelijk-wapen-gevonden-na-zoekactie-paard-liep-schotwond-op"
  },
  {
-  "id": "b42ffc6e75",
-  "datum": "2026-09-01",
-  "tijd": "14:24",
-  "nieuw": false,
-  "titel": "1/9 in Nieuwsuur: Grote politieactie Overasselt • Details Prinsjesdagstukken lekken uit • Top VWS wilde geen kritiek op corona-aanpak",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Criminele samenwerkingsverbanden",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "criminele organisatie",
-   "evaluatie",
-   "organisatie",
-   "pand",
-   "wapen"
-  ],
-  "samenvatting": "Grote politieactie in Overasselt Een grote politieactie in het Gelderse dorp Overasselt, nadat daar bij een schietpartij een dode viel en twee agenten gewond raakten. Het dorp werd afgesloten en zwaar bewapende agenten begonnen een klopjacht naar verdachten. De Telegraaf schrijft dat een mogelijk drugsconflict gelieerd",
-  "link": "https://nos.nl/l/2629264"
- },
- {
   "id": "46d92fc40a",
   "datum": "2026-09-01",
   "tijd": "14:05",
@@ -2470,6 +2484,25 @@
   ],
   "samenvatting": "“Ik wilde mijn gezin helpen”: jongeman (24) krijgt mildere straf voor witwassen van 3.000 euro buit door phishing HLN",
   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1kya3hxam50UFQ2VlpqbzEwVGdzeTNLTTBqaTdhT240ZkRSWkdOTG1GWThLVl85LU4yOWRaaUc5dHdMTGw1dXdVbkxNdEdxN3Q2aURSRFRyWEtCSHR1Nm9lOVIwNnJlYXNSQ1dweTV1cmNveTFiZmtjV0JNZjdtR2xlb1NKX0ZibjJjVy1rUjA2ekRYVTh2NVEyelVfbG1KaUFScmlPXzdpRWphdVJmVjBRZjJsTHFtenNyUWZVZVAwcEVhRDNPR3pDelJvTW16TVlmUlYySkxmUTAyc3kwMFMtYVlFcmE0Njgwaw?oc=5"
+ },
+ {
+  "id": "fb89cd69a3",
+  "datum": "2026-08-31",
+  "tijd": "11:35",
+  "nieuw": false,
+  "titel": "Rechter geeft twintiger gevangenisstraf voor heling en witwassen",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Rechter geeft twintiger gevangenisstraf voor heling en witwassen Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0FuR3JzdUNGMXVLQ0pfX3V5RjFwUXBPdFUtZ0l4VG0zQzN5RTJTOVNPeVNZblhBb1Q5eWdWazdiaVl1TnpZd3Y2NFdnTEQ4UkNDeURfUWRMcVFsY1pvcWlHU044OTJNUVpFa1dOQnpCMUNNaTdQTnQwSVFVTmt2X0NkMUV5M0VTQWVmZXFKZS1KZDhLNjFpUlZjZGRiTFkzcTZONmxZWXdyb3l3U2t2ZDhERzQyQVVjNklOMWF0Z2RLdC1wb2c?oc=5"
  },
  {
   "id": "56293591a4",
@@ -38842,6 +38875,26 @@
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmxjLUZTZUlFR2FYd2ZIREU2bVpMUHZiVkloYzhZQkJ4ejQyZzdhX3pTRzh0RHplQ1dJZU9CNEtWTjUzM2JPeHA5TVl5cFJYOHJXdURRNUJ4d3F4bm9vSVdhUGRFQjBwc3gwOXp5R256QS1NLWpxS3pfb054LTZaU3lOaURnekhPN1JETUpEVUNsSi16cWxEREhmUlZqS1M4cURzZkFxMW55NWcwSmpkSGdEa1BxcU1NWnE4?oc=5"
  },
  {
+  "id": "94802dae94",
+  "datum": "2021-09-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Visafval vermengd met mest en illegaal geëxporteerd: boetes geëist",
+  "bron": "omroepbrabant.nl",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "mest"
+  ],
+  "samenvatting": "Visafval vermengd met mest en illegaal geëxporteerd: boetes geëist omroepbrabant.nl",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ3VfRkZzRVZRV3JaQS1OSDF5Q0RKOWQ2VDhrSEFfSDRtaW1pb3RuQnZLcW1jZ2tkT1VXdmI1S1J1dUdmNEdONS1mNjg1TG1NOG5YWUNjZlZPWWtnSk5jZjdDWnlVNzZZT0NZUkJ2NExzMGRCVHM2d2x5QUZZcUprU29EOWV0S01SZF9kSk1qcVQxSm8wSDYxRDZnVDFGdVp5ek1udm5CSk1tSWhFT2c?oc=5"
+ },
+ {
   "id": "375ae1137b",
   "datum": "2021-09-19",
   "tijd": "07:00",
@@ -39859,6 +39912,25 @@
   ],
   "samenvatting": "Hardnekkig probleem in de Rotterdamse haven: de smokkelaars die drugs uit containers veiligstellen Trouw",
   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMHFQS195Q3hPNjdONkN1OElya0ZpNDhmcWhHUXRhVEs3VEVnNm1Bc1c0U004OVZNSnU0SV9XdGJDcm55OWVhM1pienRoVFdqQUhOSXctS1oybWd4Qm1hcm9FS25OUmVtSzVvTHJtRjUxMFlUQ1RtdmRESnJXbmxIMHVEZG5oZ1RTU0QzSi1nVkZhYmVEZ2xHZ2JzaGpoMGtuemFjbzNHOUFKTHFLQ2xXY1FaeUZRMWpWTXQ2eVZTSmwybFd6MFpHNTlRMUI2Q2JBSFV3MHVR?oc=5"
+ },
+ {
+  "id": "0ad3d63a53",
+  "datum": "2021-01-28",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "CPI 2020: Nederland staat stil in de strijd tegen corruptie",
+  "bron": "Transparency International Nederland",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie"
+  ],
+  "samenvatting": "CPI 2020: Nederland staat stil in de strijd tegen corruptie Transparency International Nederland",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHlidS1IMUVibEFhODl0aHFyeEp5ak5UZ3pNOTZIM0FURlVnR1lHS0xOYzNjelR1dGFsUE1WbFZCYkxfcmp4TGQ2SjdTbzJVeGxWRWJtdXFfRlhaTm5hQVVDMWRzZHRUNUN0bEtmOGx0Q3Vac1JDRGVVelhQT0FTc1RONTVWWnZURWRURTQ5THdLZFA5cVoyeHlDSU1VN0E3SWw1Vw?oc=5"
  },
  {
   "id": "39abbe68c7",
@@ -41338,6 +41410,27 @@
   "dossiers": [
    "Corruptie & integriteit"
   ]
+ },
+ {
+  "id": "610c43a56f",
+  "datum": "2019-10-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Van corruptie verdachte Richard de Mos gaat gemeenteraad weer in: ‘We gaan Den Haag leuker maken’",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie",
+   "gemeenteraad"
+  ],
+  "samenvatting": "Van corruptie verdachte Richard de Mos gaat gemeenteraad weer in: ‘We gaan Den Haag leuker maken’ AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWkZLWndkcWZYcXd6b3VHR1pZUlNOODh2SFQ3Zy1ocWwtS0puYnlRcHYtUzZBeEJ6YnRiZmt4a1pjb3dsZHgxYkR6bFhseTNlNGlwNWtLREJ1aTJuS2ZadEdzNVA4a0E0VFhTdm9laWgxSS13bXhYZ1U3aUNWZjdyTTJlZXJGTUpnekZ2cVVVcS03SmtfNWxSemJvV0I1RWdDczNDZjVxMV9PTVpSX2RmeWZYMkZqQXFXU25sU2UzcWIwT0I5VFZ5Q1JHNVlOZw?oc=5"
  },
  {
   "id": "8602b3b11d",
