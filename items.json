@@ -1,5 +1,54 @@
 [
  {
+  "id": "98bceeffd4",
+  "datum": "2026-09-02",
+  "tijd": "21:46",
+  "nieuw": true,
+  "titel": "Advocaten Richard K. krijgen uitstel van pleidooi in beroep Weiteveen-zaak",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "bedreiging",
+   "moord",
+   "organisatie",
+   "woning"
+  ],
+  "samenvatting": "De advocaten van Richard K. hebben met succes uitstel gevraagd in het hoger beroep rond de dubbele moord in Weiteveen begin 2024. Bij het advocatenkantoor meldde zich gisteren onverwachts een nieuwe getuige. De getuige zegt zelf te maken hebben gehad met pesterijen van het vermoorde echtpaar. \"We voelen ons niet in sta",
+  "link": "https://nos.nl/l/2629424"
+ },
+ {
+  "id": "275b97e44b",
+  "datum": "2026-09-02",
+  "tijd": "21:44",
+  "nieuw": true,
+  "titel": "Almere - Almere zet Pampus op scherp in Haagse lobby: zonder geld en bereikbaarheid geen bouw",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "grond",
+   "stort",
+   "vastgoed",
+   "woning"
+  ],
+  "samenvatting": "Almere voert de druk op Den Haag op over de bouw van Pampus. De gemeente wil bij het Rijk een structurele jaarlijkse bijdrage afdwingen voor voorzieningen en bereikbaarheid. Blijven harde afspraken uit, dan dreigt de ontwikkeling te worden gepauzeerd en schuiven 6.000 woningen door tot na 2040. De gemeenteraad moet uit",
+  "link": "https://www.omroepflevoland.nl/nieuws/522347/almere-zet-pampus-op-scherp-in-haagse-lobby:-zonder-geld-en-bereikbaarheid-geen-bouw"
+ },
+ {
   "id": "af54e14f02",
   "datum": "2026-09-02",
   "tijd": "21:15",
@@ -31,16 +80,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Horeca, winkels & dienstverlening",
-   "Jeugd & jonge aanwas",
-   "Wapens, explosieven & vuurwerk"
+   "Horeca, winkels & dienstverlening"
   ],
   "tags": [
-   "geweld",
-   "school",
-   "supermarkt",
-   "wapen"
+   "supermarkt"
   ],
   "samenvatting": "De 27-jarige man die wordt verdacht van een schietpartij in Lelystad op 17 mei blijft voorlopig vastzitten. Volgens de officier van justitie schoot hij op een Mercedes met vier inzittenden, nadat er eerder die avond bij de Jumbo aan de Voorstraat ruzie was geweest. De man ontkent dat hij heeft geschoten. De verdachte -",
   "link": "https://www.omroepflevoland.nl/nieuws/522359/verdachte-van-schietpartij-bij-supermarkt-wil-cel-uit:-'ik-heb-dat-pistool-niet-in-handen-gehad'"
@@ -61,6 +104,7 @@
    "Cocaine, haven & logistiek",
    "Criminele samenwerkingsverbanden",
    "Geweld, liquidaties & bedreiging",
+   "Horeca, winkels & dienstverlening",
    "Jeugd & jonge aanwas",
    "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
@@ -439,7 +483,7 @@
   "id": "a197ee142a",
   "datum": "2026-09-02",
   "tijd": "14:11",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Bryton (6) vliegt door de lucht na aanrijding, bestuurder had al dik verkeersdossier",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -458,7 +502,7 @@
   "id": "1697013604",
   "datum": "2026-09-02",
   "tijd": "14:04",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Drie wethouders Sluis • Wethouders Borsele geïnstalleerd",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -479,7 +523,7 @@
   "id": "b363555e70",
   "datum": "2026-09-02",
   "tijd": "14:04",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Portefeuilleverdeling wethouders Sluis • Wethouders Borsele geïnstalleerd",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -500,7 +544,7 @@
   "id": "138b275341",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Tegel van verdachte wijkagent Erwin weggehaald uit Tilburgse Walk of Fame",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -521,7 +565,7 @@
   "id": "73d4d3f723",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "LIVE | 'Onder protest' mee naar Overasselt • inwoners kijken geschrokken terug",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -542,7 +586,7 @@
   "id": "685085b379",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "LIVE | Politie vindt meerdere pistolen • morgen meer duidelijkheid over woning Jan G.",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -8297,6 +8341,25 @@
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3VsQ0NLQ3ZYd2tQblN3aWZBZEF0WnlvYTF2dk9QME5UclpycHh2OE9YZjVnRm5hdkR0eGRiWE14SW1xV2x0bVlJdDBPX2dJM1N4REViemFlS201OEVOdmxVeWVOXzQyaG9HY2Q5OVBPb1NEX0R1djFUb29ZYzFWcG1uazdUajh6RHZuMFRjbGN1R3Y2ZDNYTDcwS0tWZktKdXZaMjdfXzljOVZhQTV0WGkyMGw?oc=5"
  },
  {
+  "id": "64eb7c251f",
+  "datum": "2026-08-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gesloten shishalounge en restaurant aan Kruisstraat in Eindhoven voorlopig tóch open: rechter fluit Dijsselbloem terug",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Horeca, winkels & dienstverlening",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "shishalounge"
+  ],
+  "samenvatting": "Gesloten shishalounge en restaurant aan Kruisstraat in Eindhoven voorlopig tóch open: rechter fluit Dijsselbloem terug De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcDJsY2sxU2FzS0ZPMGxQYXQ3eG5WbDFtMFBzVnVwRmhpSmJrck9nX2tNeEtPdnAxX3RJMUtFeXhoWnRXRHpZcjdiaXJWWi1qTlQ2RWp5SkhYTS1FRm12ZmNhN3pXbmJLTXFDeDRhY09MN0I4V2M0emg1c2xQMHhYdWlxa05PVHNUWWl5N04xZFhwQVd0Y0VXdzlxSGRrQmZ5eUlKRzJ5c095dGxlaDZuTnE1MkxING0zUXhIUHAyVDdzdExoTjRJdUxKd2I4dS1ldXJfWHpvOUJqZ0wyTjV5WnJjUDZEYnA1SGxkbF9Qb25TRVRibXV4NA?oc=5"
+ },
+ {
   "id": "b659b37087",
   "datum": "2026-08-20",
   "tijd": "06:00",
@@ -9449,6 +9512,25 @@
   ],
   "samenvatting": "Burgemeester König teruggefloten: dwangsommen tegen verdachten van hennepteelt mogen niet Tubantia",
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWlZIbXZ6RGRvNS1mZ00xaXFfZG51NXJQZHJsOUNlZG5RVDBYSktUNU1OU1FNNmEyWnBINU0tVUdYM2FnLW9FT2s0ajl5QkJwZmZiRVFOeTZaeE0xRnZZN1ZJTXFkaFcta3J6dzR2c0lNaERvY1RhdHpXeHpfc0VMTUN6QlZiWUs2UDJHUWZRcnFqQkMtTU1IbjVld3BTYm5TMFBvZjZxZklWT2ZLaU1hYktQZHlYQ3c5VER6SDBXaDljRFVqSkl1ZVBtRQ?oc=5"
+ },
+ {
+  "id": "f2bcfe45ac",
+  "datum": "2026-08-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Parket gooit de handdoek in de ring. Australische Hanna (28) definitief vrijgesproken van mensensmokkel",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Parket gooit de handdoek in de ring. Australische Hanna (28) definitief vrijgesproken van mensensmokkel HLN",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVzBwbDQzOWtkenFyUER0WGtfMlp5MWRmTmktdlBBVE1HYzAtRzZYZTI5WEZJV2ItckhoTC1SN0o0WXNXVGhMZTcwS0hwNDNtNXlaZXdPMU5PdUczdjNYb2RfaHh5ZWtNaS1BVGF0N0poRUVzN2pVTVV5MkJqdnFqWGk0V24xOXNwUEhIYVJQR3g5RXBQb2VIMzVBVHFDQ2RiTGlKVmg2SFNZdERnQlNyM2RvZjB4NGQtOGcxdC04QUFxM01ITFJLNXk4MVR0U3hjN0EwZQ?oc=5"
  },
  {
   "id": "7169f985a8",
@@ -22492,6 +22574,29 @@
   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HUjJ3VFppTmFBeFRfb0FMR1N5ZWM4ZUp1VFhHMVBrZ3pqRmZsbE1pRmJ0SGlJSy0yV3BIdmxmLTR3UVlKSjg1MEpoaWVQUnBYVDdXTHBEVjVyeEt2Y3JoUEIwZXBOMVFjeWdCNXpZRE1MbUY1c05hYQ?oc=5"
  },
  {
+  "id": "05531fdc9c",
+  "datum": "2025-12-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie vindt in meerdere panden aan de Emrikweg in Haarlem 1.100 kg vuurwerk en 1.000 hennepplanten",
+  "bron": "politie.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "hennep",
+   "pand",
+   "vuurwerk"
+  ],
+  "samenvatting": "Politie vindt in meerdere panden aan de Emrikweg in Haarlem 1.100 kg vuurwerk en 1.000 hennepplanten politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYm5wbF9jZ1RNQ25fYm9ialZXek9QSDRhMGlucm5fLUFyQ0ZpRGthd3ZpTmFrQlJiUGw2aUlWQ0wyWjFMeTUyRmk2bU0xZ3RiNkdWZnlkQ2gtOVYwMzBqZEtyY1ZjUHprNTM5R1JOVlVoSnpubEdlVmJEU1NwMEhLREVOcDYtSncta2RpOXh5NHdJVFhBVG9tbVAwRHp3eFdqT0FIQzQ2aW1rcllPb3RtNm1pQTg4Q1c0X2w4VXY5VkNXTlQxc3RlMlR0U05nUnJaeTZUbl8tR0JBODZUdVhNM1JqOFNIUzdPOEFN?oc=5"
+ },
+ {
   "id": "1b1af23a57",
   "datum": "2025-12-17",
   "tijd": "08:00",
@@ -28101,6 +28206,25 @@
   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aRWo2aDZrTGZxSEc5V2xKWlJUcERYLU0yVHRjSnNPNTRVd1doU05JdlU5RnEya1VhRVFqbWpUWGFWdlhMb0U3VFkyU0RxLThVSDVkOVRR?oc=5"
  },
  {
+  "id": "78f0e448b0",
+  "datum": "2025-05-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Geertje werd als tienermoeder geronseld door loverboys en wil nu anderen behoeden",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Jeugd & jonge aanwas",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "loverboy"
+  ],
+  "samenvatting": "Geertje werd als tienermoeder geronseld door loverboys en wil nu anderen behoeden Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2VZcDRpMDl1ZV9zcFJBRXpVQ3ktX0ZFOUlDd2FaZnpfZjQtMkU1YURFOFBEdVdCdWdsQmNmZUNMTmpIZjVaM3F3MEJYMElJTHlBZE5CLU9aYVpxc0N5bDZZa3p4U3NWOWE0RTFtdEo4NlFzcC0zdThIM2xCclowakRJLXBfRlpHc3NFbm9ZYUN6ZVJ2bjlMRTZQc2R4TzdfbERUTGtjOVhOVmxITS1UdW5EaDZqNzRxRU01aU5hd181VzA?oc=5"
+ },
+ {
   "id": "dfcf12bb4e",
   "datum": "2025-05-08",
   "tijd": "07:00",
@@ -28584,6 +28708,25 @@
   ],
   "samenvatting": "RIEC: drugsgeld wordt belegd in horecapanden De Nieuwe Ster Maastricht",
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzA1OUxwa1BJc1hiRGNpcVRPZ2ZhZmRiam5UemtnR1B0a3hyakpxdUxpeWVhNTlKNkhaSEM1VHZnRVBEWmUtYTVqNFpLUk5DcUtvcHZSbU9uWDl2U3VVbTZzd3hwMFNrVVlnS2hhZzBSTlh4R0IxbWJrSEQxeGJ0WGJjaW5BZ0ZWMEE?oc=5"
+ },
+ {
+  "id": "1f461c65fc",
+  "datum": "2025-04-07",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Van Oosten - Waarom is Bibob niet ook voor ambtenaren?",
+  "bron": "Nieuws030",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Van Oosten - Waarom is Bibob niet ook voor ambtenaren? Nieuws030",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM09BcTJIVE1Rai1XaFZ3cUNsbnRaM2VUYmF1d3hoZUphOG9WV201Q2VTZE9UYkxnVzQwNm9WTUlrb0JmNHlQdmwxUTNJQ0FuQXp0YTZCQTZwbm42dDRqUlJIU2FyM0VYMUF4VXNTVXZBV2hfcTJodWNLZDVFU182NjE5Q2g2OFJOOFA0cF9B?oc=5"
  },
  {
   "id": "a1c74b0527",
@@ -29978,6 +30121,25 @@
   ],
   "samenvatting": "Gemeenten pionieren met aanpak zorgfraude, maar hebben het rijk nodig Binnenlands Bestuur",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczdpaVE0NHM1UWZ1bEdQOW5VSnBJTU9KaFVEYk5VVmJVQlp3UlBVVjc3MVVmcHdRWkkwSThSWlVpSzJRZzZBell5MG50YWdXSS03Z2prTEdJT0pqRTh3TnQxRUV6SDRKX0hlREctNUdndmdiNmdtbHR0MElKbmtuRFNOZlVDZHBWdlpLNC14R2Z3WnA2Mmg0a0RrOVRMY1AySjlXZjJ3TjBYTWRWaGZqU1ZUQWpycnBi?oc=5"
+ },
+ {
+  "id": "26141a35b4",
+  "datum": "2025-01-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Valkenswaard krijgt traag Bibob-onderzoek met grote gevolgen niet ontrafeld: Ederveen neemt ‘mist’ niet weg",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Valkenswaard krijgt traag Bibob-onderzoek met grote gevolgen niet ontrafeld: Ederveen neemt ‘mist’ niet weg Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZHR4ZHVoU29iUmUxTEdXemk1ZUZBLXZ5bFF4emExdUczWjFJRVFHYXY5Z2RtUHlrTHdIZUY3Zk5Xd1JKMEtzZWx5dzk5MTJ4UHhKaFA1QmNoVW1zVnVsbmQzaUJGSHplZGVZUi1USlRnbERwbVFLU056YlpMckhKSERCNnlqYUtfWjdDb1N6cUxNa0tlZktudUdGR2tGeHdjU3R5eUlTYWpNcVl0YW9LSDM0V0NQa2ltcnowRTRHQU9BZXpuRVVYTzF0U01yZXM4TjF5MjR0WkUxa3pEUVE?oc=5"
  },
  {
   "id": "414913bc98",
@@ -32490,6 +32652,25 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "2bcdb0aa80",
+  "datum": "2024-04-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Deventer trio veroordeeld voor betrokkenheid bij mensensmokkel",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Deventer trio veroordeeld voor betrokkenheid bij mensensmokkel De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRDZ3MHZjQmlqbW15dUUtMFlhVHVQdlVWR3Q3VVJTalh5cTBqWlltdWgyXzdzYUpOOWFlYno4YzVrYUhpbVBMcjJMcTlXTUp0NV85X1N0TElhck5iY3NNT3gyZVlZZ1hjTVBuaFJ5MDdVTjFCQzNXUWxaUjNOZFBRNERnbVF4MDFlQXhmTFRZdTB0Tm5CeWRUX3JFWUdYYVN5MWpoUUY2X3p4bEdyMWxHMmpDZE9zRFhhT2lzZVMzbjdYbTlMdDJyUlcwOUJRaEpUVzJqM2pyQ3FzTjF0OWUzY2cwR1JNazBrWWZ3NDE3MHpsWTQ3WDd1SFlxejBxSGZ4TWc?oc=5"
  },
  {
   "id": "c5b43e4d04",
@@ -40028,6 +40209,25 @@
   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wQjJqX0wta2NIYzNiX3FuOVNFVGtaZFZLMVM5MFdac0c4M2JnVk8tUXdvOFZ5Sm1FMVZQalNLNkNVRnJyajFvZlIyemVQb3pCbFk3UThhcWMwNm9QZGtJeDNmaUdQcmpfa01iQmN5YkdScDdBd3dtUjd2ZXdtU00?oc=5"
  },
  {
+  "id": "3e0118c9f0",
+  "datum": "2020-07-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hart van Nederland - Late Editie: Explosief in Amsterdam-Noord is handgranaat",
+  "bron": "kijk.nl",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Hart van Nederland - Late Editie: Explosief in Amsterdam-Noord is handgranaat kijk.nl",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TS0dyUG5fNURhQ25XdlplMnFRSjJSaHY3VFRCWlp0WmdQcTc0SUhlaXQ5RzJaVlhWcnU2eExQMjRCTUZYUHlheHY4REFBQ2JaVlBSTEVURENOX3RPWlJFS2lLYWE3Y1ZIU0p5QlBBUkFuZHc5NW1RWC1zVVNaM3c?oc=5"
+ },
+ {
   "id": "c8ba1f09fd",
   "datum": "2020-07-20",
   "tijd": "07:00",
@@ -42239,6 +42439,25 @@
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnI1Y2ExS0pPd3FjT05RTngxYi1fNjZzSHlVS3lkMlhVMjBZOE9CVy1tTDFORmlzTzljRkk4WTFhX3QteHozQXF5T1hSQmlaNGs2aUVOclZPLWVSOHo4dnAxNDg2QWFhaWpwenFFZ3ZGVkdFUlM0V1RKQnI0TzNVZFVSNDBXSmVuOXF0MWgxRzZyVHhVMFk5aHdWSG0?oc=5"
  },
  {
+  "id": "cac1952e2e",
+  "datum": "2018-08-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Arnhemmer 7 jaar in cel voor mensenhandel en opsluiting 3 vrouwen",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Arnhemmer 7 jaar in cel voor mensenhandel en opsluiting 3 vrouwen De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQmlFVU4xLXRCUUFQM3VuU1g3WmhDeE16Ykx5UVVZQ2hkMEZ2NlZuSk9XMTNIdXZxcFppdDMwWmgtRGJzc0dnc1Z4amptX2xKN3pGQnYtVmVpV2U0X1J3b3dEUk45TjdpdDJORnVYSjZNXzNmSWVTdkNsY2dnNWROa2ZMTVpZQjQ0LVNBOUVkNGlDS2FyYnRabV9TUElkdWt4WUItNE14ZFJhX1BCM3NkdkVVa29rZUlmVUVtb2l5MEUtRGFTZ1Rha18wOXNFT3BTUXR1Y2NxeklpdzBPOERWWVRxMnZZY0pMenpDYmVqUzF1bzlOa0dfQkRnZXZFYnFzMDdZd1BvMDdvNXNacVI5Tm5DQQ?oc=5"
+ },
+ {
   "id": "68400d5fb7",
   "datum": "2018-08-06",
   "tijd": "07:00",
@@ -42452,6 +42671,28 @@
   ],
   "samenvatting": "Veroordelingen voor witwassen en heling in Wormerveers garagebedrijf De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQlpFV2toWnhuMWNrLTlobV85SExDeTRZcnFfcndhQjJZcENVby15WnFLeF9PcFRiRnNXcHBFRTdFNFBBRktOUVg5T1dsbzBNZzNKRU44S3I2aGxkODk5M0NBZFZxRjlSN3NtVkxSaGVmSUtIcWVkVzN5bnZuMEtXR2tRM2JUbExrQWxQSFpnYk1EaXlISXZqTGpNX1NOSzk1Y3BYSDhwVnJzNFVQOURBWkZXNE9JWFc2WWhhX0tQZDVWM1FQWjVDNFlBREdWcGFyZXBiYi1Vb29Yd3ZHRl9PTWZfbnNycnFLTWlvY0k5VzBINEttbVdWOVNwS2U4aHdmeWpoX2hEenVXZw?oc=5"
+ },
+ {
+  "id": "f5c5524cf7",
+  "datum": "2018-04-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Criminelen profiteren van inconsistente regels wapenhandel - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Wapens, explosieven & vuurwerk",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "grond",
+   "wapen",
+   "wapenhandel"
+  ],
+  "samenvatting": "Criminelen profiteren van inconsistente regels wapenhandel NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41RVNLZkxvdmZNal9iWWNTR2RsbUlUZUZfaFZ5aS1VS014WHNzWXdtTVdDYU5GdHZ5TGplX3BKRkhVWUxJdk5IM0lmLWM5dDJSR2poWlJhQklJLW5aZXp3bmVOcmFyc3MyQXR3bFJzWmtEV3NSSmdTNndtM0ZNUQ?oc=5"
  },
  {
   "id": "afc9c62a66",
