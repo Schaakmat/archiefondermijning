@@ -1,12 +1,12 @@
 {
- "run": "09:31",
+ "run": "10:32",
  "datum": "2026-09-02",
- "nieuw": 22,
- "totaal": 2089,
+ "nieuw": 27,
+ "totaal": 2103,
  "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1075,
-  "geen dossier": 507
+  "niet-nederlands": 1025,
+  "geen dossier": 491
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 54,
-   "status": "2 nieuw",
+   "items": 55,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 104,
-   "status": "bij",
+   "items": 106,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -122,8 +122,8 @@
    "url": "news.google.com/rss/search?q=vastgoedfraude%20OR%20%22ondermijning%20vas",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 12,
-   "status": "bij",
+   "items": 13,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 92,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 63,
-   "status": "bij",
+   "items": 67,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 37,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -285,7 +285,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 27,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -491,7 +491,7 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 43,
+   "items": 45,
    "status": "7 nieuw",
    "ok": true
   },
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 52,
-   "status": "1 nieuw",
+   "items": 54,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 32,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 21,
-   "status": "2 nieuw",
+   "items": 22,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -572,8 +572,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 23,
-   "status": "bij",
+   "items": 24,
+   "status": "1 nieuw",
    "ok": true
   }
  ]

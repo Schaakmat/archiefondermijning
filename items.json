@@ -1,5 +1,85 @@
 [
  {
+  "id": "312ca48456",
+  "datum": "2026-09-02",
+  "tijd": "12:27",
+  "nieuw": true,
+  "titel": "Flevoland - Nieuwe scholen krijgen meer ruimte, maar klassen vol krijgen blijft lastig",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "evaluatie",
+   "school"
+  ],
+  "samenvatting": "In Almere zijn deze maand twee opvallend verschillende scholen van start gegaan. De Renaissanceschool opende opnieuw de deuren, met zes geregistreerde leerlingen. Een paar kilometer verderop begon ook het islamitische Novum Saeculum Lyceum, met achttien leerlingen. De scholen hebben ieder een uitgesproken eigen visie o",
+  "link": "https://www.omroepflevoland.nl/nieuws/522273/nieuwe-scholen-krijgen-meer-ruimte-maar-klassen-vol-krijgen-blijft-lastig"
+ },
+ {
+  "id": "dff0b6f51d",
+  "datum": "2026-09-02",
+  "tijd": "10:20",
+  "nieuw": true,
+  "titel": "Man die doorreed na fatale aanrijding in Oss vrijgelaten, blijft verdachte",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "De dertigjarige man die wordt verdacht van het doorrijden na een aanrijding met dodelijk afloop in Oss is woensdag vrijgelaten. De man uit Vinkel blijft nog wel verdachte, meldt de politie. Bij het ongeluk kwam afgelopen weekend een man van 82 om het leven. Het slachtoffer reed op de fiets op de Hertog Antonstraat in O",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025641/man-die-doorreed-na-fatale-aanrijding-in-oss-vrijgelaten-blijft-verdachte"
+ },
+ {
+  "id": "6d7d9f8da3",
+  "datum": "2026-09-02",
+  "tijd": "09:44",
+  "nieuw": true,
+  "titel": "Video duikt op met mogelijke doodsbedreiging aan Jan G. uit Overasselt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "wapen"
+  ],
+  "samenvatting": "In verschillende WhatsApp-groepen gaat een video rond, waarop onbekenden aankondigen een aanslag te zullen plegen op het leven van Jan G. uit Overasselt. Vier mannen, van wie er drie gewapend zijn, waarschuwen G. dat hij een gestolen lading drugs moet teruggeven. Doet hij dat niet 'binnnen twaalf uur', dan moet hij dat",
+  "link": "https://www.gld.nl/nieuws/8517209/video-duikt-op-met-mogelijke-doodsbedreiging-aan-jan-g-uit-overasselt"
+ },
+ {
+  "id": "8bba5e138e",
+  "datum": "2026-09-02",
+  "tijd": "09:35",
+  "nieuw": true,
+  "titel": "Marria spreekt chimpanseetaal niet en moet dat met de dood bekopen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages"
+  ],
+  "tags": [
+   "garage"
+  ],
+  "samenvatting": "Chimpansee Marria (22) is vorige maand omgekomen bij een vechtpartij met soortgenoten in Safaripark Beekse Bergen. De door mensen opgevoede Marria werd begin juni voorzichtig geïntroduceerd in de groep om haar te leren 'chimpansee te zijn'. Dat leek goed te gaan tot de fatale nacht op 8 augustus. \"Het is heel zuur dat ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025633/marria-spreekt-chimpanseetaal-niet-en-moet-dat-met-de-dood-bekopen"
+ },
+ {
   "id": "da854901c6",
   "datum": "2026-09-02",
   "tijd": "09:15",
@@ -10,15 +90,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
    "explosie",
-   "jongeren",
-   "vuurwerk",
-   "woning"
+   "vuurwerk"
   ],
   "samenvatting": "Een explosie zorgt voor geschokte reacties in Rosmalen. De deur van een flat aan de Fort Prins Willem is weggeblazen en ruiten sneuvelden. “Piepende oren! Het leek wel een bom”, vertelt overbuurvrouw Annemarie Hop. De politie vermoedt dat er zwaar vuurwerk is gebruikt . De ingang van de flat is woensdagochtend dichtget",
   "link": "https://www.omroepbrabant.nl/nieuws/6025632/explosie-in-rosmalen-zorgt-voor-geschokte-reacties-leek-wel-een-bom"
@@ -89,6 +165,27 @@
   ],
   "samenvatting": "Overasselt stond dinsdag in het middelpunt van de belangstelling. Een grote groep gemaskerde mannen liep er over straat, een deel van hen met zware vuurwapens. Voor de woning van een man die met drugshandel in verband wordt gebracht, schoot één van hen een beveiliger dood. In de uren die volgden verrichtte de politie t",
   "link": "https://www.gld.nl/nieuws/8517066/live-mobiele-eenheid-helpt-politie-in-overasselt-bel-112-bij-een-verdachte-situatie"
+ },
+ {
+  "id": "361a87bff6",
+  "datum": "2026-09-02",
+  "tijd": "08:33",
+  "nieuw": true,
+  "titel": "LIVE | Grote zoekactie op grasveld • heftige video duikt op",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Overasselt stond dinsdag in het middelpunt van de belangstelling. Een grote groep gemaskerde mannen liep er over straat, een deel van hen met zware vuurwapens. Voor de woning van een man die met drugshandel in verband wordt gebracht, schoot één van hen een beveiliger dood. In de uren die volgden verrichtte de politie t",
+  "link": "https://www.gld.nl/nieuws/8517066/live-grote-zoekactie-op-grasveld-heftige-video-duikt-op"
  },
  {
   "id": "1d5e4054d3",
@@ -162,18 +259,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
    "Geweld, liquidaties & bedreiging",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "cocaïne",
-   "criminele organisatie",
-   "doodgeschoten",
    "explosie",
-   "geweld",
-   "haven"
+   "geweld"
   ],
   "samenvatting": "Justitieminister David van Weel noemt de geweldsexplosie van dinsdag, net over de provinciegrens in het Gelderse Overasselt, een vermoedelijke criminele afrekening. Hij legt daarbij een link met de georganiseerde misdaad rond drugscriminelen als de uit Breda afkomstige Bolle Jos en Ridouan Taghi die vast zit in Vught. ",
   "link": "https://www.omroepbrabant.nl/nieuws/6025526/geweldsexplosie-overasselt-minister-wijst-naar-drugskartels-en-maffia"
@@ -8659,6 +8750,28 @@
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdm5INWNWTllWN3pCUTE1MTE2Y2lOLWNta1lSUmVVZ3IxMzVTQmxRV1FZNGlCNy1rZm5tQ3RfZW85R2FHT3YwSHEzVnUwT2g4R0ppNll1TktsUWo0M0xDNUJXZHZLWU9KLXlZZ0p5cFBNTFFoVklkdHdFOVV4SFd1XzN4YTEzZUpmS01TUkVTSWxIQWdOSG1jWFRwTU8?oc=5"
  },
  {
+  "id": "3c8f6c2a65",
+  "datum": "2026-08-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Burgemeester König teruggefloten: dwangsommen tegen verdachten van hennepteelt mogen niet",
+  "bron": "Tubantia",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "burgemeester",
+   "hennep",
+   "hennepteelt"
+  ],
+  "samenvatting": "Burgemeester König teruggefloten: dwangsommen tegen verdachten van hennepteelt mogen niet Tubantia",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWlZIbXZ6RGRvNS1mZ00xaXFfZG51NXJQZHJsOUNlZG5RVDBYSktUNU1OU1FNNmEyWnBINU0tVUdYM2FnLW9FT2s0ajl5QkJwZmZiRVFOeTZaeE0xRnZZN1ZJTXFkaFcta3J6dzR2c0lNaERvY1RhdHpXeHpfc0VMTUN6QlZiWUs2UDJHUWZRcnFqQkMtTU1IbjVld3BTYm5TMFBvZjZxZklWT2ZLaU1hYktQZHlYQ3c5VER6SDBXaDljRFVqSkl1ZVBtRQ?oc=5"
+ },
+ {
   "id": "7169f985a8",
   "datum": "2026-08-05",
   "tijd": "07:00",
@@ -8818,6 +8931,25 @@
   ],
   "samenvatting": "Tweede explosie in vier dagen bij buitenschoolse opvang op Bos en Lommerweg, twee jongens aangehouden Het Parool",
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFlNNFQ5c2kydVp6cUJsODdJY1p3amI3TzdVOHgwNHpuYWxWV2FkWTRtMEkzMTJudUNPbFZCUDYwcVlnWnNZY3p5ZXNfaTlkdXh6WDRhYlFwemxyUmlFVVY0TEJobE1qVHFYNHpXM2s5bUttZnpocHVDbkJnYTluZHdDanhIVl9WVnRsZUtjYXM3eDNGVEhmaTRZRG1iaC1aUkJrWU5NMmstV0d1dXoxMXBGY29GS0c4YWU4ejFXQkEwTnVpTFNNM3A0b3BTTlZOQjJ3M25aclZUZw?oc=5"
+ },
+ {
+  "id": "a20a5cac63",
+  "datum": "2026-08-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Droneschild Oostkust speurt boven strand en duin naar mensensmokkel",
+  "bron": "flows.be",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Droneschild Oostkust speurt boven strand en duin naar mensensmokkel flows.be",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEpFbDlxQXhDXzFSZlUtbTlQbnFhNzdLelMwQkY2b2hwX01MVk5qdDVDaFZSVnlOckFaOE5zVlJUVnRxWWRNc1VOX3FNZURUcUlCODB3Y0JYSUxwQWdYaV9uNWE5UU5OYVlEeW4zTS1KaGFJY0xZRkpzb29IcENCdkZOdlppQ3VfRllYNlljZTJPdElOamZwMy1ZbXhiYWlibkRTcGtiQQ?oc=5"
  },
  {
   "id": "c1539e32ec",
@@ -9779,6 +9911,25 @@
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0JKNUV3VGVPdlZfRG9BSy1qWkR6VzlwTEVBdVI5bXlNNWVTajlKWm9oRzFUNk1Fd002NXVxY1hwUU41ekNZSDBnMDVYZEJUTVZ4NHJBbHZ2Q0J4OHVUTHBPcG1FTWpwcVUtVVdCV2djejU0R0dTNEYzR1JzZy1rUktrNXpwN2ZyVHV5Y0hWX04zTzV0Mm5XVXI2UXRkZ3FpMUxyRkctUVBLZ2VJNllOWUxlOTZpMW15SkhpQg?oc=5"
  },
  {
+  "id": "a372d940b1",
+  "datum": "2026-07-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Verdachte uit Etten-Leur opgepakt in onderzoek naar mensensmokkel",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Verdachte uit Etten-Leur opgepakt in onderzoek naar mensensmokkel Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSzhlblctT2dZNHFGSVRVbXBYQnBZRGNLWGFPdTZSQWNTRnIzNlRoc2FlajBGNXhpVzJaMUtSdXpJYVo3X1liSEJ0M3JqV2x2RFB5ODU2SEhOUHMwT2NhV2pkczExMUJ4RjBiYzRrOHlXY2VWZGNOYWZsTmE2a2dybGkzbUlDYmQybjk5ekliTnRFNlFqTlhzVi1IWEc4V0J3?oc=5"
+ },
+ {
   "id": "92b06a6fcb",
   "datum": "2026-07-20",
   "tijd": "07:00",
@@ -9916,6 +10067,25 @@
   ],
   "samenvatting": "Influencers Andrew en Tristan Tate opgepakt in Miami: broers verdacht van verkrachting en mensenhandel Het Parool",
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcC1GTlFEaGxoeE9BeHFLdVhKTFVFQnFwVkNZUDdIb0FrNmZ5MEQ5eGxaMU9WdVd2d3VQREhNNkw1cDhtcEtNS3dVSzV1T1hrRzI2bjRRX0V3NmYwN2ZyMEhVa2M4UDlTZG5uTmJiN0dxaHRiNXZoZzRPMkRER0hNSVh2ZENMWndiTW9LU3M3dmFCbjlxaXpVaVMwdWJxZjFPZW1yQ0NrSzlOY1pIcFhaR2ZzQWVPdFlvRG43XzFYbWRKTHlLa0NicjFGUTBXdHdTMnhXTmhaV29mQlE?oc=5"
+ },
+ {
+  "id": "dd6d3a5a69",
+  "datum": "2026-07-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Manosfeer-influencers Andrew en Tristan Tate opgepakt in VS op verdenking van verkrachting en mensenhandel",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Manosfeer-influencers Andrew en Tristan Tate opgepakt in VS op verdenking van verkrachting en mensenhandel de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMWgyYktqRHJsLWxfcHlsSDZXOHJSN3l2WTRDUG9wdE80d0FuWFVxaDV4TGtHcGNHTHMxQnotZVhuRG5LSGNocFMwMXBKa3ZSRjU2VEVKNjFHel80MFdhS0t2RUJXRm9GVldreUpvV3E1TkJUREF2ZUVTdV84RmRzeGtrM05UaVZkaS1TWG0yQ3BrbWIwME42Rk9WaWFJa2U2dW1UbHU0Q3dUSTlCR2c1UzJ5UFJpVU80ZExUeXZaa3ozX18wWmQ2Q0ZESFMzZzhKcVpYQXh4WWw2RGJKakVMT3MwQkxWbUh3?oc=5"
  },
  {
   "id": "b1a06327eb",
@@ -10333,6 +10503,25 @@
   ],
   "samenvatting": "Grote politieactie op de Wallen in onderzoek naar mensenhandel, zeven verdachten aangehouden Crimesite",
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVHRYbkRMdVFpQXpQVW9SdzBadGs1RkxlTm9KWm1FVnFacTR5X2JXaVZDZkFPdzc3LURnbGRuUl9reWdITTVuc05lOE9VY0UtbmF2bjFvLVB6N0dlOTdFMi00YnA0M0VxWnZrajJUVTBnUEE5NmQ2ZnZDZEJVYW9selpLZTdtRF92aTNHUHp3NEpVQQ?oc=5"
+ },
+ {
+  "id": "f3612f1d03",
+  "datum": "2026-07-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie Amsterdam in actie tegen mensenhandel op de Wallen",
+  "bron": "Nieuws.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Politie Amsterdam in actie tegen mensenhandel op de Wallen Nieuws.nl",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMzlkZjY5d01GbURZVHp2cjZEZjA3SUU1MGJMa0ZpeXRNTnl3bEF3UzBjZ05zYnliZjA2ZlZJMEVYeFpNNmd5TWpUbHA3c1RoUFpuZnJjMzNNcWRqZTFzeHMtRElOTUZaZlFBZUt2TWNGN040WUZHaXVieFBGLXk0akZUWUVYRW1ZZXRKbElR?oc=5"
  },
  {
   "id": "31007220a9",
@@ -12637,6 +12826,25 @@
   ],
   "samenvatting": "OM bevestigt dat ‘belangrijkste scenario’ voor explosie Osdorp ‘criminele activiteiten’ in kelderbox zijn Het Parool",
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTHRkWndLMnpvdW1VQ2VqSk1jWFN1Qi0xNVQ5LWNZNjkzRWZfNEZXZ3RDZUUwaUE5Wm5RdjllZ2FPRmhIcDJVQko5eWtuV01vVXo4ZjVKTEFDNV8tUXpmcDRaTDQyWlY1b3NOVEtFMlM4UDhxMl9JV1BvNThYMnBWeUplMlU3RnhqVEZ1R19tdTlYNXVsY1c0UGVRcHZLOW9iTVAzZDdRMWVVWU85VmJGYVpGd0c3V2x0cXJlWnd0d19TQmY0YlBrMGZEbVJzZVNaRUlJWHAzQzc?oc=5"
+ },
+ {
+  "id": "7b95922b95",
+  "datum": "2026-06-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Man die drugslab in Almeers appartement opbouwde, deed dat met hulp van AI en internet",
+  "bron": "omroepflevoland.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Man die drugslab in Almeers appartement opbouwde, deed dat met hulp van AI en internet omroepflevoland.nl",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU2lwMm9WQl9EQUQ4ZURUai01am5lc1dtS25uWVEwLTI3Q3pqSGJXVTdGT1c3ZVVILWJCMnBWSlVjc0ZDSjVpLUwyNUhMMXhqNzVIc0U1UDFsWkY3UmhvdzQ2WDZSTmdRYjhuWmk3bUhfWmFzLUJJUE4yd1I2dk45ZkgxZWhRMnQtQUFCRl9wY1JVSmZnVjlyZXVKUUR4b2EtQTRTSFRvVS1CY3JCLTRRd2dtT1dmV0EyaW9nRTBQd0FraTBrN2NTTEhR?oc=5"
  },
  {
   "id": "eedeeccf65",
@@ -19277,6 +19485,28 @@
   ],
   "samenvatting": "Drugslab aangetroffen aan de Jousterweg in Oudehaske Mijn Politie",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVjh2NVNVQkJCNzR1OXBTcDBjSjE5M2F6dmRiaHdPQkoyWTBPdE9lTnY0dXpSVEZ6TVlfUDBvdnRFakNNYmZtVUNRUFBTd0xwem1TeUZkRk9QTC1yaEFoTndCMERXaVdrQjd0QlhQZk8weDVRNC1ObDFRNk5DNUtoazlXendTQnlMclJnQUJ4TGh6NUxRbERSMzFITW5mU2FPbmo1WGtfMl95LWs?oc=5"
+ },
+ {
+  "id": "46a0af134e",
+  "datum": "2026-02-25",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij met bijna 200 planten ontdekt door politie in Oisterwijkse bovenwoning",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "woning"
+  ],
+  "samenvatting": "Hennepkwekerij met bijna 200 planten ontdekt door politie in Oisterwijkse bovenwoning Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWjBJbVNWMVlxUnA4UmYzc1pac2RrRFdvSHJna0JfSkEyU2U4T2NiTk82d2hxMU1DWTV6cGtpZGNUYXFOVWV0Q2kxUEk2VEFnbFB6Mms1cGpaNHFrQmhTVWZCTGNOT0kxbGR5TEFHc3hKQVBoYnFtdTU2SVBCVi1iWGQ0cUdodWxZQ3l1cFpWZGEwRVN6b3ZfeUxxUFZOYVI1cFZMNlU5TU1Tdms?oc=5"
  },
  {
   "id": "d5883ec5df",
@@ -26835,6 +27065,26 @@
   ],
   "samenvatting": "Gemeenteraadslid cel in voor witwassen, partner veroordeeld voor drugsdelicten De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQellnT1NNYk9XZ2RjTjVyV0FvRGZpaXVjNVMtakhNdDhKRWZqUFVtVzYtWHEzc0xoMlQyTklHR3pRTWdYbVdLMXRvdjdpTW96Q0JkaU84dzBMaEYydlphVGlFdGtidXdxVnVNYmpseHBoV3Y2VHN5d1d5UnUxT2lwTDdid2NEY01IWFFxZ2ZGbGg2ODlNSUdOTkpjMlhzZE5GWkZzd0pWZWpCUGRvUm14SE5mcHhseFUwejF4bFlpRnlJWmxWUlpQQ1FxNGZiUFlhZTRGU1R4UnBIQ1ZvbGItUjBrOVFyX0VPM1VpTVBoR0Q4ME92UmJIZW9HeUo5ZGd5Y2xTSFotX3lnQXdJOTFlZE1xbFJkbExQ?oc=5"
+ },
+ {
+  "id": "403951e290",
+  "datum": "2025-04-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gemeenten tevreden over ACT-interventieteam tegen ondermijnende criminaliteit",
+  "bron": "Heuvelland Vandaag",
+  "verzameld_via": "Nieuws — Vastgoed & huisvesting",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijnend",
+   "ondermijnende criminaliteit"
+  ],
+  "samenvatting": "Gemeenten tevreden over ACT-interventieteam tegen ondermijnende criminaliteit Heuvelland Vandaag",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDF4SkM1OFRMNmYwVG0tRzIzRjVyLWR0SW01ZnkzRWpqa1FBQUlVVU1zakxYUGFmaXQ2dWFKVVl6Tmx0aU1LaFVMaWxQMm5HQk4xZS14cVpYS2twWFBhcmYzRkEzbWg5RUlPaDdSZl9Bc0txSzJ1VWlYYkNzbm5HOVByOFFkY2df?oc=5"
  },
  {
   "id": "56ae951607",
@@ -38486,6 +38736,25 @@
   "dossiers": [
    "Witwassen & geldstromen"
   ]
+ },
+ {
+  "id": "e11430a3f7",
+  "datum": "2020-01-24",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Burgemeester mag sportcomplex OFC niet sluiten van de rechter",
+  "bron": "Het Parool",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Burgemeester mag sportcomplex OFC niet sluiten van de rechter Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnEtUWluei1ERURKMWpYWUZQR3Q1NDFGWmswV2Q0VjUzVEFoQlk2Z3p2NTk5TGJBTk1QTjhOQU5sMDFjQU9ZV1oyRUlnaEtwZ2JieFN0TnJLbG9jdGFneWdQTjZNVzhJYm82Ny10V0pUa1VOZXFuQ2QzS2RKYzF2Q29mS1gzTzlueURqWThtOV9ydWliV18wWUR5c0xja0xDT29uSEVn?oc=5"
  },
  {
   "id": "beb88213f5",
