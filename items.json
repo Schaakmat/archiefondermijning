@@ -10,14 +10,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "doodgeschoten",
-   "wapen",
-   "woning"
+   "wapen"
   ],
   "samenvatting": "De inzet van de mobiele eenheid (ME) in en rond Overasselt is klaar. Bij de uitgebreide zoektocht zijn meerdere wapens aangetroffen. Dat heeft de politie gemeld. Ook buiten het zoekgebied werden wapens gevonden, zoals in het nabijgelegen Wijchen na melding van een burger. Wel roept de politie op alert te blijven en bij",
   "link": "https://nos.nl/l/2629438"
@@ -508,7 +504,7 @@
   "id": "9635514620",
   "datum": "2026-09-02",
   "tijd": "14:34",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "2/9 in Nieuwsuur: Overasselt hoopt dat buurman Jan vertrekt • Wat Roemenië merkt van de Oekraïne-oorlog • Waarom lezen onze kinderen zo slecht?",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -527,7 +523,7 @@
   "id": "bcd469700d",
   "datum": "2026-09-02",
   "tijd": "14:28",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Deventer ziet meer daklozen en drugsoverlast: 'Loopt ons over de schoenen'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -546,7 +542,7 @@
   "id": "4a91481c99",
   "datum": "2026-09-02",
   "tijd": "14:21",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Tientallen mogelijk met drugsafval gevulde jerrycans gedumpt bij eindpunt tram 26",
   "bron": "oost-online.amsterdam",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -567,7 +563,7 @@
   "id": "a197ee142a",
   "datum": "2026-09-02",
   "tijd": "14:11",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Bryton (6) vliegt door de lucht na aanrijding, bestuurder had al dik verkeersdossier",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -586,7 +582,7 @@
   "id": "1697013604",
   "datum": "2026-09-02",
   "tijd": "14:04",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Drie wethouders Sluis • Wethouders Borsele geïnstalleerd",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -607,7 +603,7 @@
   "id": "b363555e70",
   "datum": "2026-09-02",
   "tijd": "14:04",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Portefeuilleverdeling wethouders Sluis • Wethouders Borsele geïnstalleerd",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -628,7 +624,7 @@
   "id": "138b275341",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Tegel van verdachte wijkagent Erwin weggehaald uit Tilburgse Walk of Fame",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -649,7 +645,7 @@
   "id": "73d4d3f723",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "LIVE | 'Onder protest' mee naar Overasselt • inwoners kijken geschrokken terug",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -670,7 +666,7 @@
   "id": "685085b379",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "LIVE | Politie vindt meerdere pistolen • morgen meer duidelijkheid over woning Jan G.",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -691,7 +687,7 @@
   "id": "0dc69e6029",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "TERUGLEZEN | Politie vindt meerdere pistolen • morgen meer duidelijkheid over woning Jan G.",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -712,7 +708,7 @@
   "id": "ac680ea73c",
   "datum": "2026-09-02",
   "tijd": "13:31",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Politie onderzoekt dreigvideo aan adres Jan G., bewoner pand Overasselt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -731,7 +727,7 @@
   "id": "9a8bd0cd91",
   "datum": "2026-09-02",
   "tijd": "13:30",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Koffers van zes vluchten blijven achter op Eindhoven Airport na storing",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -8094,6 +8090,28 @@
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlhxczZUQm1ueEI3Mkl2WHhaX3g0bWZhRm90dlNTZ3BFZUEzZ2xKd1ZHcThwRnI2UHJlNkMxUmFTZEdNRFBfUEhNd3ViWldSdmc2TExDX0l1Tk5NMDFHZ3kxcmQ2TmFyeXZxWUd3b2J5RFJzTFoyQlJkN1cwVG9vS2N5Z0plQlUtVXdDTVpUU01hSWlHU0Jta09NM2dsTUo3UDJpNW5uUEt3SVZl?oc=5"
  },
  {
+  "id": "deba60158e",
+  "datum": "2026-08-21",
+  "tijd": "19:00",
+  "nieuw": false,
+  "titel": "Van dakplaten tot drugsafval: afvaldumpingen blijven terugkeren in Vught",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "afvaldumping",
+   "drugsafval"
+  ],
+  "samenvatting": "Van dakplaten tot drugsafval: afvaldumpingen blijven terugkeren in Vught De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN01hb203MW1lOE1MSDhPX0FSVWx4SUhnaF9fUWpHNHNMd2w4cHhaZjZWeHNtMV9fWWYzckhnZGs4c21UdmZGVmZXVmVDMlVoNUJBRlczX2JpRkduTFlmZ3k5MWhvSEhsVlJzUUwweUtXZlV1YUpYb0FiNVMwbVBsbHZVT2owWTMxeml1YlNqS3F5WlhxaXA1RWtzRUdhcGJGV1ZCTngzLXgyYUk1YklCbkl0RF9UWUFD?oc=5"
+ },
+ {
   "id": "6702ce0036",
   "datum": "2026-08-21",
   "tijd": "18:42",
@@ -12380,6 +12398,25 @@
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDdMYmRuM0YxQkNnYTlVWURiTVRrcjFxSmtVemxHamVpRXVWSUlvYmpTa2dPbWFPLXpoSGpHZm0zbVJtbXNhTURLWmJwMFlTVXF4Mng2M1VOUnFKRkZUdS1vSTV0VWpnRlhiZDZwUlZkRHphRVdIVWloOGlEYmRRVWUxWndld0pxUHBPN0NXeFd1dDhEcjRMNg?oc=5"
  },
  {
+  "id": "d3d50cfbce",
+  "datum": "2026-07-03",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Afvaldumping in de natuur: wat moet er gebeuren tegen overlast bij zwemplekken in Berkelland?",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "Afvaldumping in de natuur: wat moet er gebeuren tegen overlast bij zwemplekken in Berkelland? de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbWJ6NUM2NDhUSkYtZG9nSnlKUElfUkEtdGE0UUJKYmo2UVBuNDMyamQzSFlaS2plT1lJZkJPSGw3djQ3THFfRm41bXN6RlQtQzNOYkpDXzhmSWM5NUZoU1ljSjR5X0JIc3Flb2R3aWgtZjJMdkR4YS1HcFE2RkhZOVk1N3hIa1pmZUczRDB4WWNWNGFNVExOb0RzTV91UTBlbkJYdmhRdWJKTkp1YjY5REpSbmpwcmhOQUhWenhtNDMxbzZYUG9FT1VVUGFmWjhyai1F?oc=5"
+ },
+ {
   "id": "3defb30078",
   "datum": "2026-07-02",
   "tijd": "07:00",
@@ -16079,6 +16116,25 @@
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmdCclJYc2tKWk9QTklkSTQtampBYWtVdEsxcDBKb2RSRktDakt0eU9qZnhiZjFBZUthaC1uSEpmMTdGV01MVmcxckg2SGp1YVNFQzkwT2tXTVRzZkJlbXZFd1JJUXpKZ2VlZHJfYzNNM3VOZHd6VGM4REZINS05RkNza0RhdDAwbHE0SnpnLXJVdWhFUVJnM25wQjl4YjBN?oc=5"
  },
  {
+  "id": "b7fa9e4d6e",
+  "datum": "2026-05-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Celstraf voor man die lichaam vriend probeerde te verbergen na ongeluk drugslab",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Celstraf voor man die lichaam vriend probeerde te verbergen na ongeluk drugslab NOS",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3p1c09VTGg1cVJNT2k2UGpfeXdDQktia2FCbXFGeWtydHhvZDVjVHhoeE9WaTV3YmRSZ3F5cUFwT2ZEM0xZU0VZbTRVdEJnWXZwTUdzeEFyU2FxRC1xYUpPSjd5YWdxbGk3c2lnaTV6M1NLTFktRFVGbVBCaVlwTHdEZXk3RE9WaWtpemhseVJHYUJaRDdSdWNzbndFV0hsaG1RVUtiVFBoMElONmI0?oc=5"
+ },
+ {
   "id": "340c2c0a83",
   "datum": "2026-05-14",
   "tijd": "07:00",
@@ -19058,6 +19114,25 @@
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbHhFUkRlQl8zTk8wLW94SEl6SVNiaWFMd0xoQUVrMHVYZVk5enN4ZlFIVUZIT050aDMzX3ZXNkF4U1I5aHJaRm9PTng1dUxDZzcwSTdMZUZIZ2RUZWpwWXZ2c3h5cmlHR3JtX0xwR3JJeVRrWTVNbkhCdjIyWkpxRzVjRGxVTzZLQ1pKNlpzQXhlaFA5SkkzYm5yMnQtTDFfNmw0RTBQRVpUU2V2T2JBUjg1eDU1NEtJRzZDR1RVaVhuNGZNeno4bThYaw?oc=5"
  },
  {
+  "id": "3edf23de94",
+  "datum": "2026-04-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vier mannen uit Brabant aangehouden na vondst drugslab in Zeeland",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Vier mannen uit Brabant aangehouden na vondst drugslab in Zeeland De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDZ4QzBZYlFhQThocUY0YlhDNGNPRzNpaVpia0RpTGtvLW5uZTB4TGF2VEg0cDZMakdoZllzZEpHX3M3QkNMVElUeDJFc1NZd0pDWDI1OFFlNXNBSE1fWUVrc1AxOFNYbmhUMjBvN2ZFMmZiejBhU1p3THNpUGlSV2ZsekY1NDh6eEYwSXhJWHZBWEw1a2RnR29NYkZJb1Z1WFV1TUNxWjhsMmt5Wml1QXdNdw?oc=5"
+ },
+ {
   "id": "44a801fc70",
   "datum": "2026-04-01",
   "tijd": "07:00",
@@ -20524,6 +20599,27 @@
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeG9yZFRaMFpZMk5Jdk5kVjFiNDBaWlY4NUJJX3BDVXBpc05OeUdLZzV2OHBrTkZmei04SUNrdzBVZVVlcFg1bXdTLTcxSDZLRmdTVkI5UmlDenVQUUMwZThTaHhWeHNxamRoeXF6T2Y0aXltakFkQ182TzEyRngwRktNZ0dBS3ZweXJNdS10U0dXd1VYYUV6Q19EX1pFVlNZS1RRNHdaS0tnS3JPNnF1OTVXRQ?oc=5"
  },
  {
+  "id": "56cf5c9d25",
+  "datum": "2026-03-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Twee mannen aangehouden voor witwassen en drugshandel, beslag op woning in Huizen",
+  "bron": "NH Gooi",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen",
+   "woning"
+  ],
+  "samenvatting": "Twee mannen aangehouden voor witwassen en drugshandel, beslag op woning in Huizen NH Gooi",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWs0ZTJ6Sm9vbnIyWThZQ1hxRUlWdWhoMzAwWUZ0aU9XazluWTFnOU9wWlA3Rmgta1lYZlBpbTBFT1o0eVRYUXVyM05ycTIyR1JhRDVZNktfalJnYTF2XzczUnBpemhlSDlHVHdxNDlkU1J6d3lfTnQ4X1BFVnRTOWRSR1UwSF9ibGVKcndDenlMa25BWVg0VlNhdlV4Q3FDTm90d2d0NA?oc=5"
+ },
+ {
   "id": "59f409469b",
   "datum": "2026-03-04",
   "tijd": "08:00",
@@ -20580,6 +20676,25 @@
   ],
   "samenvatting": "Cafébaas Marinus Maat: De Bibob, de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, zou toegepast moeten worden op de gemeente zélf Liwwadders",
   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVlVTRTFyU1hDLXBXN2xYbktxQ0taRlRMSk9Ub0xSQl9mV0VnSmJhSmtsdlliX2ZNdDM4dENmRXVHajdEeXNfVUt5LW94a0JzV1hpeFdkUXJKajJFOEgxOXhXOHQ0WWRyaDNZeThVUUMyU2tPeWxuVHZIM1QxUEdKYndYSHVZWEZjaGxySVFhWUlFblJ5TnhpWUZ5OWU3eHJMc3BqU043bU8tOEZvVlhjdGlVOVZMb2NzS3hIaFdvbHFiUG5pcktfUktkR082RzhPcTJDd29WcG5kNnlfRXJWS1VxbDdsLWNtYWhlQm9PZDRpMjFsZnZhZ1AtZmpGd0k3MTZPdDlvTQ?oc=5"
+ },
+ {
+  "id": "08e419e99a",
+  "datum": "2026-03-03",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Inval bij twee zaken aan de Kruisstraat in Eindhoven in onderzoek naar witwassen",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Inval bij twee zaken aan de Kruisstraat in Eindhoven in onderzoek naar witwassen Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZGNkQlJmc2hPcndpYVNGUk91XzcteTFud3l5WXV3d3MwNE9QTS1kQ3J3WW1KVW4yeWZCQ3gzVWxMTTI0MDNDOEw1bjl0Y3NnM1hjVVJwUFNJeTExQ1BjcDJ0dHlEcFlUdTk2NHNDZlloa1U5allYa0JXc0w3Z1JCekVnQzRQSncwMzJ2UjZxWjZuYjVuZEZzME9ITUg2UEZ5MERMWUdRQkEwODhVMF9NQVB2RFZDcjhycEd4bEJXRFo?oc=5"
  },
  {
   "id": "5f050ff53d",
@@ -21375,6 +21490,25 @@
   ],
   "samenvatting": "Drie jaar cel geëist tegen oud-Oranjevoetballer Romeo C. voor witwassen RTL.nl",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEpodDR0aDVjVE5CNDZTXzRmUnBOVElzQlBKbUFKLUFFZWZ6LW1RbElKVDlBOVMtRkY4b1N6dHVNX0hEX3M4RkllSDlJSHpGYjFKS1BBbWo2bThINkFWTUR1TFJpNTBYX01yT2t3azkxb241VVM5RTJLeDN0akNaMGpEdzBtMDBKaU11QnQySQ?oc=5"
+ },
+ {
+  "id": "4ef618ca3e",
+  "datum": "2026-02-12",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "‘Romeo Castelen jarenlang spil bij witwassen via China’: drie jaar cel geëist tegen ex-international",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "‘Romeo Castelen jarenlang spil bij witwassen via China’: drie jaar cel geëist tegen ex-international AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjc2TzBBZDBOWXpoNUlqVmxialZGanFBVkN4eGJVRnNzNzY0eDNYSjhsaU9vNHpTc2drN2RfaVhIdE4wUzNpR29lVXlKaUVYdHlDUTJDdHdEX1lHdnlJTHFBNWZwYmtmckVHZ1NWWHd1TENCTnpTSXVSVmZ6d3MxbTRwRlh6dWlNdW8tQWJaN0otNkNLOGpSeURxbUlHQ21GZ1dpX3o1Rmg3X0JJX1FYUG1JRTR3RkI1ckc4TnREVkxObW55TXYzSi1mSEdQa0hkZVE?oc=5"
  },
  {
   "id": "70d80832ba",
@@ -23461,6 +23595,29 @@
   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcVFVV2g3V2stWHoyQnlBa0hfektXSnU0bV9CNHhrQ080U242dzN5RWdYTXQ0Vm1LdXhBQXZBT1c0LTJoeEd1Q0x0cmczSzhBQTBjb0xtVkZxek9jeWdCY1lMOUt4NHZpb01Va20wZUV0bklMVENVTE1ia0tTOHg3QUZDOUg4QzZGa09mT3gwV3RZbWtJcFFFWFc4Sjc1bjhuazhLaFlGN24tLWtqcVRpYnhWMnhRVGtOYUNOVm8za0JpUjMwYkpmVmlPamZJQWppUzM2dTJn?oc=5"
  },
  {
+  "id": "a2d0f20fdb",
+  "datum": "2025-12-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Kopstuk van Kempense afval- en mestfraude sluit deal met Nederlandse justitie in gelijkaardig dossier: “Winstbejag was het enige doel”",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "kopstuk",
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Kopstuk van Kempense afval- en mestfraude sluit deal met Nederlandse justitie in gelijkaardig dossier: “Winstbejag was het enige doel” Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeG8yX25fVTctbWFENU1xWUlXd0xlRVNtVmZsajQyZDlTY1duOHVROS1tZUQ0UEkzZGNSS0pKdkwyOGV1aUg3dVlMWG94NWdQWHVpZGYtNjhjZVJ0MmhvS0c0ekZHMzhsZlI2TkxOaHctRWFiRGREWmZaZm5iRm9sbHVnT1V3bjEtd3RvR2s3NlUwb0k1Sk52RzhZVkNZX0dTNi1YY0xJclFQMkVObk1OZnRWY3MyRmRwZWVBNUFZSVpKLUMxMVBYSHBMZUFBNFZUWEpQWFVpYlAzTWJGOEtNVnlFQkl0ZEpmc3VOSlItQjBMOXJIMDhybUhQckxrSkxm?oc=5"
+ },
+ {
   "id": "d5493f27cb",
   "datum": "2025-12-04",
   "tijd": "08:00",
@@ -24407,6 +24564,28 @@
   ],
   "samenvatting": "Afvaldumping op Laanplein in Baarn nu ook met kliko’s Baarnsche Courant",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWZhdEtESnBWT21hQm1VZnppd0VWN3dxS0tTVzN2STgtS3RpSGlSSXBuTjk3a3QwbXI1TnJfencwMmlUckRHd3hzOElHOEJDU1VMTUlEOUVWNzBfWV9GcklHWjFOTDZrUURZcU02QXBEbTJ5U09mMFB6NnJkLXA4ekNrUDhCYVlJM3JqWFA4dkRFMFQ3OXdOM1E0MVl3M1ZtT1BZRjdFMGpiZw?oc=5"
+ },
+ {
+  "id": "257c1d47a5",
+  "datum": "2025-11-10",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Advocaat kreeg vijf jaar cel voor cocaïnesmokkel en witwassen",
+  "bron": "Advocatie",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "cocaïne",
+   "cocaïnesmokkel",
+   "witwassen"
+  ],
+  "samenvatting": "Advocaat kreeg vijf jaar cel voor cocaïnesmokkel en witwassen Advocatie",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmNfWGt2TjhpREJyWlFyTWVlTlA3TndWaGZRdzZ1bm44al9DTzd4WEwweG9BXzNTMWs3eUMtZTZwSmxmeDViVTl1UUR3VFo4X3dFMExDVlo0QWUyRjJwVHFUZDJTV05qWDVveFJDaHBGaG9QNkpvYTgySVktc2lhWlNrem9ieXRpX0JYamZ2NDVYdEhaaGdLNnN3?oc=5"
  },
  {
   "id": "63893d1183",
@@ -26700,6 +26879,27 @@
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFVjX29fbC1iUW44SEhKbDM3WnloMXJhUGpvMG9zRTBPbHQtYmhaYngzYW9rcDVtWWg4N3JiYkVwY1Bmd1BfdS1BbUlVeVQySDRZVlI3QU9xclA0STlvbThGZHAxbGRlcTAxUzlYQW9kLWFSYkdhSnNzRWZvTzJEc2h4S1BEMzZ5cUFLMWh0T2U2ZGs4YnUxR3dEVTV5ajRFYkRDVlN3Y09Qb0Utbk03TE1EUG9Pc2VxNU8yeVZ5cjRtejdVNkE?oc=5"
  },
  {
+  "id": "f35a6dd40c",
+  "datum": "2025-08-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie doet inval in loods: eigenaar ontkent dat er een drugslab zit",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "loods"
+  ],
+  "samenvatting": "Politie doet inval in loods: eigenaar ontkent dat er een drugslab zit Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1JjWmlyQ3FhUlFpM1d4bG9hVlZDRXRQejRyY0lJTUh0TTBMWjhLMXBkaTdPenRka0ZnQTJUc29Gem9aTUh5all6eFNELWRtVzA3UHBvY2pmbVVQMElGMlowVGg0VE8zLTFRdjRwU05FSkRBbGJ6enRmUm91ekxwZ1M0b3hzRHVPNjFQZ2t3Y0I1RVA0emJfOE1tUmlVQzdLcS1feWRzWERTWGoxZ3BiNFJ3?oc=5"
+ },
+ {
   "id": "efbc1d9cb4",
   "datum": "2025-08-17",
   "tijd": "07:00",
@@ -27010,6 +27210,26 @@
   ],
   "samenvatting": "Drugslabs en gestolen auto's: waarom criminaliteit op bedrijventerreinen zo lastig te stoppen is Brabants Dagblad",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFEteUczSk9iR2tFQm9RSG9WNGRKWnR2OHhpajJweU94VEZmSmhZbmFHbkdLNHEtcTJKNGFFcmROandzQ0h6VFVTT0IyM2dqZXVtWHVIZ3ZXQXhnb2JMNHhiem9TQ29QNWV5RlJfbzRYUGN2REhEbmRHS1V4bUJJWTB0dEQwTklmTmxub09xSTFYeGw0UnNWYVZTVHREak5uZjNKbGRCQUhoa25PY0pjQ2VPQVJqNFJHaFROMENnUGVWbW5mZzNtWGhsQUc?oc=5"
+ },
+ {
+  "id": "b9e0f7690b",
+  "datum": "2025-07-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Veroordelingen en vrijspraken in groot onderzoek naar pgb-fraude in Utrecht",
+  "bron": "De Utrechtse Internet Courant",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "pgb",
+   "pgb-fraude"
+  ],
+  "samenvatting": "Veroordelingen en vrijspraken in groot onderzoek naar pgb-fraude in Utrecht De Utrechtse Internet Courant",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFR2bjA1aHVucmdtdXM0R0Z0TS05Nkt0eGlnV2VwNEJzdUh6eU1YOFRpXzBneHZSa0tPR3BONndxZ0hORV9PY1FIRGU2UThNUFhWcGU1WURLMDBReTdESUxaNTZfb0tFcmZDaE1LN3hkQ2VSUDJwXy1sMkc3U1B6NGRQUmUzaDBPUmcyUTUtV25nZld5QUxQalEteXFGejdCdjhGQ3Rha0wyQTh0ZUZsbjlRMWJiX19Tb1RZ?oc=5"
  },
  {
   "id": "88caf360f5",
@@ -27376,6 +27596,25 @@
   ],
   "samenvatting": "180.000 euro en crypto aangetroffen na inval in Lombok, eigenaar verdacht van witwassen AD.nl",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYWZaNVZtcFIyckxfTEhRUy1IdkxGSnR3TkptQUxfUkdNNVRvRF9RclZSbnhtZTBzVUotUkpGSUk1VWhZRl9sYThUUU1QUmxERDlrSmdJaF94LWNrcGNnV0laREowemIxYTJ1SkNDdFB2ZnBJUmd2c3IteTF1Mk5JMF9mSklXUlA0MElIN1A1UWJ6bElwZ3JxeHlaMUYtQ1gzUEx0a1dlc3VQRkRvQWlnb2NRczFPaEozZDhzQ3VlSQ?oc=5"
+ },
+ {
+  "id": "f11068bbd6",
+  "datum": "2025-07-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Doorzoekingen in zorgfraudeonderzoek met subsidieregelingen voor onverzekerden",
+  "bron": "Nederlandse Arbeidsinspectie",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Doorzoekingen in zorgfraudeonderzoek met subsidieregelingen voor onverzekerden Nederlandse Arbeidsinspectie",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQel95SUdoMmkwM1dyZ3g3bTNuOXFzclhSX3VjYlc1dUFUT01HNXNNUHN2WWExNlNIdFRVdEJaT1BnR2VzSFB1Zjk1a2JRX2tyQ3BfeEhlS0g0NXlMVnh3R012Mk1nYktCUUNJUFliWXlZcW52Nkh2WmNVdmNHQzRrQzNnc3B4ZmM5YXZzZmhnYXF1T2tSSVZmUWNxNXIyYWpVWW8xUW53TFRhNjRtUXhuUHZxMmdncWQ5U1A4TXBlRmI1dXBBTTFxZjc1VzRzaWE1TW0tSw?oc=5"
  },
  {
   "id": "c257627a6c",
@@ -34501,6 +34740,25 @@
   ]
  },
  {
+  "id": "4e465d8c20",
+  "datum": "2023-12-07",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Inwoner van Diemen (42) aangehouden tijdens onderzoek naar drugshandel en witwassen",
+  "bron": "DiemerNieuws",
+  "verzameld_via": "Nieuws — Autobranche & garages",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Inwoner van Diemen (42) aangehouden tijdens onderzoek naar drugshandel en witwassen DiemerNieuws",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYXVackxvd2lTSVZUQm1EbFY2ZkJVcmJabUhZeVVYc0RBd1Y1X3h2dHRiYVlCa3lXUG1xb0JqMjNBLURXNmZ3OW9IZl9tWWJLRHBYbm93VFVNMnBfRXNvOEd2TWRfeTRPYzJfZnd6VG1iU0tzcmdxWkROdHdaZzFzMjNvUDNDMmJJTlRVMjdjbzNFVnRPTWExR1lLc3hwRWRKZHE2U2Zndk15bENFeGJ0VDZjQ3VNU05INmFIWF9ZbUdoYWtlcXRraUtUM0tKUzQ?oc=5"
+ },
+ {
   "id": "7dbce05898",
   "datum": "2023-12-06",
   "tijd": "08:00",
@@ -37565,6 +37823,25 @@
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3hSUDQxOG85b0diYmxseDUxNXJPS082UVZZUDA4N1loUEx3cTY5NkdpdENaVGZZWWI2NUt6Ym9LNWx4d2pTbnJDXzhCSWRaTmZUQXFUWDR0OXpwMDNEejJDVy02MjFnUUw2MEREOVpxQXh0Q2VFb24xY1hKT3lKQldQTUhzT2pMamd0SUw2dzZKNWZN?oc=5"
  },
  {
+  "id": "f7e12311c1",
+  "datum": "2022-08-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "100 uur werkstraf geëist voor afvaldumping tijdens boerenprotest",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "100 uur werkstraf geëist voor afvaldumping tijdens boerenprotest De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQzFUTW1FUzBVWmdCZXV5T2RRNTZrOXhVbjFQYmJ0eW9XT1pzX2RHUDhUS2Jfd2ZpSDA0NXV2UkNZNlFBYVJ1TGtiVFhpZGgxcnRsMGJqOVhIdW05M2VzaTlvRGdjVXlYN2dDc1hyVHZCajNnN2hnY2FiemhwdzFnUHZuWVgzX0lhS1dSaFc3SGNTczJWQWxKbjJHUG1PaUx3Umoxd0xUbll5cHJMZF9xaWxiclA?oc=5"
+ },
+ {
   "id": "4bed570c9a",
   "datum": "2022-08-10",
   "tijd": "07:00",
@@ -38590,6 +38867,25 @@
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNVVFMUFvLXVFVnAzeTlOT1ZSYVI0QmdBWnd1RGVWVE83V05XLXJPMEdTVDQ4VWVSRnhRTnFYbFI4ZTJNRnktTG4yVFVEdUJRYXN2ZW13MTA5ejNKckIyRHJTWnNpUHVXdHJqSXFkZzhhRXROSzluYlcwQ2ZUbGdLSXZPbEI1SHRwUVRVOXRqbXpYVHVwLXJQMXh4WThoUjFwejhRcFhXVQ?oc=5"
  },
  {
+  "id": "1ecaccd388",
+  "datum": "2021-12-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Afvaldumping bij Peest: 'Ik vond zelfs een kippenhok'",
+  "bron": "RTV Drenthe",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "Afvaldumping bij Peest: 'Ik vond zelfs een kippenhok' RTV Drenthe",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1VfRl81YmN6dUJjTWtKTjN0aHNlM3BPTERSUlljSlNPVWNTZUluVXNkdnFrRjU0Q0lOWVJNUndCNDlHTS0zbDlIcHpDV2xsZl8tYTk4c2hwRnJSbkFFN0VUUDZZOE5wM2VIWllRS01BWlFVMTBldjhRRElZYTNTMHU4SDVXSzEzWlJRV05uU0IwOUhu?oc=5"
+ },
+ {
   "id": "af2d7d0d99",
   "datum": "2021-12-14",
   "tijd": "08:00",
@@ -39111,6 +39407,26 @@
   ],
   "samenvatting": "Wat zijn de gevaren van een hennepkwekerij? Politie.nl",
   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbm5femNvWG9DbjJEWFhva2ZuTmdhUFVJSGxybDJOREE5X255Rm9fY2xDUE1VWFFCUDJOeU1KcXpmRjl4OV8yb3QzRGkxck1Fc3FRVHAyMmk3c1p0ZzQ3LWtWM1NuUlY5LXVLVlQxQmcyWVBSRFJRLVZXRHBBYldzYXd0Wll6aUow?oc=5"
+ },
+ {
+  "id": "73ecd8a19e",
+  "datum": "2021-08-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Dreiging van mestfraude maakt van mug een olifant",
+  "bron": "Boerenbusiness",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Dreiging van mestfraude maakt van mug een olifant Boerenbusiness",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTUtPbFJpYWZnQ0R6RjhCbFJGU2d2R1lCVUMxQWRZU29nQmR6YUFudWRfLXBaWWkyZmRuWEZBeHJwQWc1eUhiZFFQSDRuQ2NMR21CbndveVdYcXFyLUNRdVJQUVh5Q3VIUTVidUk2TUo3dlo1cDZqazhsaDE0MXVZT3g4UU4yMU56b1gtamEwMjNKVVlHY0lBbEFNUlp6dUc2YzlrMmZDYnd1Wl9WdXlUYVUwMmVPSTE0ek1N?oc=5"
  },
  {
   "id": "ab4ee4313a",
@@ -40520,6 +40836,25 @@
   ],
   "samenvatting": "Hart van Nederland - Late Editie: Explosief in Amsterdam-Noord is handgranaat kijk.nl",
   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TS0dyUG5fNURhQ25XdlplMnFRSjJSaHY3VFRCWlp0WmdQcTc0SUhlaXQ5RzJaVlhWcnU2eExQMjRCTUZYUHlheHY4REFBQ2JaVlBSTEVURENOX3RPWlJFS2lLYWE3Y1ZIU0p5QlBBUkFuZHc5NW1RWC1zVVNaM3c?oc=5"
+ },
+ {
+  "id": "a387bd7c87",
+  "datum": "2020-07-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hart van Nederland - Late Editie: Handgranaat op straat gevonden in woonwijk Zandvoort",
+  "bron": "KIJK",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Hart van Nederland - Late Editie: Handgranaat op straat gevonden in woonwijk Zandvoort KIJK",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMVgzeEx0aUtadV9rZHFpTkFFRThuSFVHbW5ZRmw3T1JFai1SRGJUR2VIY2VQQW9mNXdYM21nUDBYNEdiSDF5XzZXSEFhbEd3eGhQWHBuMzRjZ0ZrMm44bFRWaUtVaFpuRVpmZEVyMGpYYzJXU0UybE95cHJSMTA?oc=5"
  },
  {
   "id": "c8ba1f09fd",
@@ -42441,6 +42776,26 @@
   ],
   "samenvatting": "Ruim acht ton geëist van kippenboeren voor plegen van mestfraude: is dat te veel? de Volkskrant",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWIxbkJwc04wS1FodzN3cFlUM2JQdlNkb1FRZHk5bnUzNUxDTk9zQXA4cXREY1pvQzN6N2syWjZtMjhSR1h1LVJtOEpuMG5OdmlCemw1MjVPVWRnVHBiN3U4SlVCUVhxYjcyeEhoRU9CYnlQcjhUM3lrZmFLQVZXNHpFa1VPVDBBZDVqakI4UmlleDdRWHU4TmIyR1lubEsyRjY1eG1sSEEyVTQyTWhYT2pwckdYWU5RWUhxM3ZYUy0ydw?oc=5"
+ },
+ {
+  "id": "3c5007acaa",
+  "datum": "2018-11-21",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Is het einde van de mestfraude in zicht? En hoe werkt dat frauderen eigenlijk precies?",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Is het einde van de mestfraude in zicht? En hoe werkt dat frauderen eigenlijk precies? de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc1BqczBlNUUxX3FnY2lhLUtIWUtESzJzQ1JoMEtwb0pkdEs0SjQwRVZRLVZVdS1UbUJlcVdqQ21rM2EwYmpuZ2taamZROHBRTVROM1EyaFY2TWhmUkxRczNvYXd5SWZjcnpDZzBldmVOaldzVHNwUjdZeDhHMm1kSXZJRjBJM1lUeVVwRnl0bGR4LWxHUGpkd3lyRVpJWFBWS2NwOTB2Z21VV2NqZnhYN0ZJTzFsb3YtbHRLSzNvd05maXNrb01NUER3?oc=5"
  },
  {
   "id": "0d137b3a89",

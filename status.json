@@ -1,12 +1,12 @@
 {
- "run": "22:30",
+ "run": "23:28",
  "datum": "2026-09-02",
- "nieuw": 24,
- "totaal": 2233,
- "verwijderd": 19,
+ "nieuw": 36,
+ "totaal": 2251,
+ "verwijderd": 18,
  "geweigerd": {
-  "geen dossier": 476,
-  "niet-nederlands": 1048
+  "geen dossier": 477,
+  "niet-nederlands": 1047
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 61,
-   "status": "bij",
+   "items": 63,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 121,
-   "status": "1 nieuw",
+   "items": 125,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -194,8 +194,8 @@
    "url": "news.google.com/rss/search?q=autohandel%20witwassen%20OR%20garagebedrijf",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 24,
-   "status": "bij",
+   "items": 25,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 100,
-   "status": "bij",
+   "items": 102,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 89,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 60,
-   "status": "bij",
+   "items": 61,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -285,7 +285,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 32,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 110,
-   "status": "1 nieuw",
+   "items": 116,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 23,
-   "status": "7 nieuw",
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 62,
-   "status": "bij",
+   "items": 64,
+   "status": "2 nieuw",
    "ok": true
   },
   {
