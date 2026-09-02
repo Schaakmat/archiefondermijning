@@ -1,5 +1,47 @@
 [
  {
+  "id": "9635514620",
+  "datum": "2026-09-02",
+  "tijd": "14:34",
+  "nieuw": true,
+  "titel": "2/9 in Nieuwsuur: Overasselt hoopt dat buurman Jan vertrekt • Wat Roemenië merkt van de Oekraïne-oorlog • Waarom lezen onze kinderen zo slecht?",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Overasselt hoopt dat buurman Jan vertrekt Een dag na de wildwesttaferelen in Overasselt hopen de inwoners van het Gelderse dorpje dat hun buurman Jan G. vertrekt . De man wordt in verband gebracht met drugshandel en zijn huis is al meerdere keren doelwit geweest van aanslagen. De burgemeester van Heumen, waar Overassel",
+  "link": "https://nos.nl/l/2629370"
+ },
+ {
+  "id": "ac680ea73c",
+  "datum": "2026-09-02",
+  "tijd": "13:31",
+  "nieuw": true,
+  "titel": "Politie onderzoekt dreigvideo aan adres Jan G., bewoner pand Overasselt",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "cocaïne",
+   "moord",
+   "pand"
+  ],
+  "samenvatting": "De politie onderzoekt een dreigvideo aan het adres van Jan G. junior. Hij is de bewoner van het pand in Overasselt waar gisteren werd geschoten en een 51-jarige man werd gedood. In de video, die ook in handen is van de NOS, zegt een gemaskerde man in het Engels en met een Spaans accent dat de 28-jarige G. een partij co",
+  "link": "https://nos.nl/l/2629364"
+ },
+ {
   "id": "c69c00da10",
   "datum": "2026-09-02",
   "tijd": "12:58",
@@ -10,21 +52,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Drugsproductie & labs",
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Vastgoed & huisvesting"
   ],
   "tags": [
-   "burgemeester",
-   "cocaïne",
-   "doodgeschoten",
-   "drugslab",
-   "erf",
-   "mdma"
+   "woning"
   ],
   "samenvatting": "Meerdere inwoners van Overasselt willen dat de woning wordt gesloten waar de schietpartij gisteren plaatsvond. \"We hebben allemaal zoiets: 'Die mensen moeten gewoon vertrekken.' Er is zo veel ellende elke keer daar\", zegt een vrouw tegen de NOS. In de nacht van maandag op dinsdag liepen tientallen gemaskerde mannen met",
   "link": "https://nos.nl/l/2629357"
@@ -49,6 +80,25 @@
   ],
   "samenvatting": "In Almere zijn deze maand twee opvallend verschillende scholen van start gegaan. De Renaissanceschool opende opnieuw de deuren, met zes geregistreerde leerlingen. Een paar kilometer verderop begon ook het islamitische Novum Saeculum Lyceum, met achttien leerlingen. De scholen hebben ieder een uitgesproken eigen visie o",
   "link": "https://www.omroepflevoland.nl/nieuws/522273/nieuwe-scholen-krijgen-meer-ruimte-maar-klassen-vol-krijgen-blijft-lastig"
+ },
+ {
+  "id": "e62a32242e",
+  "datum": "2026-09-02",
+  "tijd": "12:15",
+  "nieuw": true,
+  "titel": "Jelle D. 45 dagen langer in de cel na dood hoogbejaarde bewoners Joris Zorg",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "leider"
+  ],
+  "samenvatting": "Verpleger Jelle D., die verdacht wordt van betrokkenheid bij de dood van twee hoogbejaarde bewoners van Joris Zorg in Oirschot, blijft 45 dagen langer in de gevangenis. Dat heeft de raadkamer woensdagmiddag besloten. D. werd zondag 23 augustus thuis van zijn bed gelicht door een arrestatieteam . Een van de overleden be",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025662/jelle-d-45-dagen-langer-in-de-cel-na-dood-hoogbejaarde-bewoners-joris-zorg"
  },
  {
   "id": "c766b9c2d7",
@@ -405,7 +455,7 @@
   "id": "2e25cf76cd",
   "datum": "2026-09-02",
   "tijd": "08:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Geweldsexplosie Overasselt: minister wijst naar drugskartels en maffia",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -426,7 +476,7 @@
   "id": "1089816ec8",
   "datum": "2026-09-02",
   "tijd": "06:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Politie nog aanwezig in Overasselt • onderzoek gaat verder",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -447,7 +497,7 @@
   "id": "6cb97ecd0c",
   "datum": "2026-09-02",
   "tijd": "05:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Van Weel: vorm van geweld in Overasselt ongekend en nieuw",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -470,7 +520,7 @@
   "id": "341b2a14cb",
   "datum": "2026-09-02",
   "tijd": "05:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Minister: 'Deze vorm van geweld is ongekend en nieuw'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -489,7 +539,7 @@
   "id": "942bbeb0d5",
   "datum": "2026-09-02",
   "tijd": "04:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Internationale media berichten massaal over schietpartij in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -508,7 +558,7 @@
   "id": "7fd9df0599",
   "datum": "2026-09-02",
   "tijd": "03:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Overasselt start de dag op • politieonderzoek gaat verder",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -529,7 +579,7 @@
   "id": "35aed58524",
   "datum": "2026-09-02",
   "tijd": "03:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explosie bij huis in Oss, gezin met jonge kinderen ongedeerd",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -550,7 +600,7 @@
   "id": "d3cd85c4b0",
   "datum": "2026-09-02",
   "tijd": "01:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Waarom luidt burgemeester Femke Halsema juist nú de noodklok over het aantal drugsverslaafde daklozen in de stad? En nog acht vragen - parool.nl",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -569,7 +619,7 @@
   "id": "1975a2b8ea",
   "datum": "2026-09-01",
   "tijd": "23:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oproep om binnen te blijven in Overasselt vervallen na dag met 'on-Nederlands' geweld",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -691,37 +741,6 @@
   ],
   "samenvatting": "Politie vreest even voor drugsafval, maar treft 18 bidons met motorolie en koelvloeistof aan HLN",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTXB6NW13ZTJrZWMtWU1CU08wZ0stN2hSS0NvUy1vOWhaSmdHOVlDdTlmemM1LTJnTVVqM3UyTmRwSms0SmdBaWhTNVdKTDlFb3pkc0xxQ25USHd0a21MY0NmRldEcU1Ma2Rfc2x1Yms4TUdIUHI4NHNpYWRLRDNrdDdkdWdlRlBDd25JVUI2MVo2Y3JhSWY3a0cxRWYwYWMxN0JMaldkakFpVEVBYVlQcTBfVzR3SERaLVdWQVprLVRmXzNhTVd4N1NNMjRYdw?oc=5"
- },
- {
-  "id": "6512d56b80",
-  "datum": "2026-09-01",
-  "tijd": "17:15",
-  "nieuw": false,
-  "titel": "Geweldsexplosie en een filmende snackbareigenaar: dit gebeurde vandaag",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Autobranche & garages",
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Drugsproductie & labs",
-   "Geweld, liquidaties & bedreiging",
-   "Horeca, winkels & dienstverlening",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "boerderij",
-   "criminele organisatie",
-   "doodgeschoten",
-   "drugslab",
-   "explosie",
-   "garage"
-  ],
-  "samenvatting": "Een geweldsexplosie net over de provinciegrens die mogelijk gelieerd is aan Bolle Jos, sneeuwschuivers in de zomer en Jan slacht wilde zwijnen zelf in zijn garage. Dit is het nieuws dat je dinsdag gelezen moet hebben. Bij een schietpartij in het Gelderse Overasselt is dinsdagochtend een dode gevallen en zijn twee polit",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025506/geweldsexplosie-en-een-filmende-snackbareigenaar-dit-gebeurde-vandaag"
  },
  {
   "id": "f8d8b05d06",
@@ -1947,25 +1966,6 @@
   ],
   "samenvatting": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWW5tM2JvcmpRdzZGNnNxTGV0SWRVWUNYd1lVYXlIaV9pTUkyMFhDTmRJQ21tQ296OE4yRGFLQjhrWG5UZHYxWmhaY0ZZN0h4dzdwRTNuOF9YRy1mNHJ0a2xPdnhWemhCVnZlMnFiOEJyd3puQkxYc204bHYzTnpkUXZMTmFUVTZVa0FzVVlWTnlCOXF2cGNSbnRYOXJPaDUxYmRKTXBlOW9Zenp6Z21ySHd1NmU2RTBtWDd2b19jLWtVdWR3QkdFOTg1Z3g?oc=5"
- },
- {
-  "id": "d4703b5290",
-  "datum": "2026-08-31",
-  "tijd": "08:04",
-  "nieuw": false,
-  "titel": "Veel vacatures voor boa's in onze regio: meldingen blijven langer liggen en controles gaan niet door",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "wapen"
-  ],
-  "samenvatting": "Minder toezicht op straat, controles die niet doorgaan en meldingen die langer blijven liggen. In meerdere gemeenten in de regio heeft een tekort aan boa’s direct gevolgen voor de handhaving. Ook als het gaat om bescherming van de boa’s worden er door gemeenten verschillende keuzes gemaakt: van geen bodycam tot een pro",
-  "link": "https://www.rijnmond.nl/nieuws/2245867/veel-vacatures-voor-boas-in-onze-regio-meldingen-blijven-langer-liggen-en-controles-gaan-niet-door"
  },
  {
   "id": "ac8c22e9c9",
@@ -21721,6 +21721,27 @@
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUpETG1CaEhaeTNOMHF2eUNTWkJWM1N6RDJzRDc2M2pMX2o1cS1iU09rQTlzSHFPaEZVQnZLSmxhcXE2NW5jZV9kb2VEN3AxZkl3OVZtaDNpMVpwc0FQbzZzc1NQY1hQT0JHR3ZuODJaZVpvR3plR3hjbnlxNFRzV0tiRWRNVGc0ZF9xZUQ5MnR4a2psQktLVjJvSmMtZ3hSc2xURXdOaHFNSDN5cWk5NGdLTS1jdUZoV3lIQjlBd0ZFQnB5R3JpREp0aw?oc=5"
  },
  {
+  "id": "0963e7c09b",
+  "datum": "2025-12-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "‘Hulp aan ongedocumenteerden toch strafbaar, als witwassen.’ In wetswijziging zitten gaten, zegt advocaat - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Witwassen & geldstromen",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "grond",
+   "witwassen"
+  ],
+  "samenvatting": "‘Hulp aan ongedocumenteerden toch strafbaar, als witwassen.’ In wetswijziging zitten gaten, zegt advocaat NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWVJCWU1zVjRrZXAtNW1yS0cwYXhMWmFXOENVeUpJcWc0Y2ZSUDdVRzJleEF1UnRKUVprUUN5MXJiSmJQSkl5bE5oeVdjUE92ek8wZzMtTzFURU9uWVI3OEVRU3ppdjhPbGpZblV6WVk1bEw3c0ZBQWY3UFBMOXQwam9QYXpRbUlneTV2bUhTQjRvb3MtZnlLaA?oc=5"
+ },
+ {
   "id": "4f74d695cf",
   "datum": "2025-12-12",
   "tijd": "08:00",
@@ -22912,6 +22933,25 @@
   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZjVoUVRENnhjd0VLNXBZRDZoLVJMSHpQU0J5ZmpzampEcVdseGctSEZmRXk3SVJmVG1JT0UxM0lIUjA1NVRVUUxUZmlGU0R5aDBkMXFUYkVTZmRrY0lJUWxhTG5DRjRCTXUzMFBuSnRkcmdFR0VaMkhyaElwcTBFTmdfZzM2NE5Nbm5LOFNOQ2dXbVpWR21mcnk3emlSX0NlelRfamZnTTlUcndBQlhmckRYdFZFNm12RElMdmFXUGlJMlFqMnA4cF9kMHE5SmFocGRxMEo2N1E3ckpyNzkxOQ?oc=5"
  },
  {
+  "id": "8ab2a81c30",
+  "datum": "2025-11-16",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zaanse burgemeester Jan Hamming strijdbaar: ’Bewoners moeten weer de baas zijn, niet de criminelen’",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Zaanse burgemeester Jan Hamming strijdbaar: ’Bewoners moeten weer de baas zijn, niet de criminelen’ De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ2dSb2VXeFFUUndYd1JaQ2VCN3pkMWtCM3VEMmFFQ2VMeklQaDZPbWVOeEJ5VlJJU3c4YzU5eElQQzNVRkZFMFd0Q29MVFhQNUVJWUJYMzZMaU4tcVQ0ZGx1NmcwNlQzMW9vR1hvUlFBM2kzWUpta0RiUEZReHIzRmNfM3pSbE1mLWp5VjR3TE13WklmZzVmdlo3ajJDb1hacThxNE5nV3dFY2lpZThyemNrY25OR0ZPbFZyNk96a2RFb2lQMFkwd19BWTlPVnJhZDZEUjZrN3pXd2dkRjhB?oc=5"
+ },
+ {
   "id": "3baf0cbb4a",
   "datum": "2025-11-14",
   "tijd": "08:00",
@@ -24093,6 +24133,26 @@
   ],
   "samenvatting": "Onderzoeksjournalist Judith Spanjers vertelt in Apeldoorn over zorgfraude De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmVOQzJ4M0hoSmZQMWE1TzNIQXBfS1RsQTlEWWZ2QlA3RjEzR3ZGUV9kN1FGX2lBU0RjMThrU1JaZlFwWWcxdEE2NG1mWE12YW9sSEVVUWpZalE2dG5hX2lJRi04VGhxMHhSSjZJSGxuYWlUUFhMdllIS3pRZ21wWXFSalRUNHl1MEFWYVRwd1I4V1E1VXYtX29nSkg3Y0hwOU9sV2VwRUhsR1FZU3I4ZjZuLXVhc01hd3RYLTNB?oc=5"
+ },
+ {
+  "id": "d9ae9690e9",
+  "datum": "2025-10-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Mestfraude met valse mestwagens en documenten: Peet W. voor drie jaar uit beroep gezet",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Mestfraude met valse mestwagens en documenten: Peet W. voor drie jaar uit beroep gezet HLN",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTRmM3BuZ281YWhZckRyamZ3bTJiblRObUFaQ0J0TTJtRG5KOEg1NjlPenNRZEdMeHhaeTRqdWtIN2tHM0dmeUpfU056WHh5dkhqcXlxcW5tVWEzLU4zSjVPMGhoMW52dkJiN3h1SGllLWZuTlFScFZlY1FHdE9sbkZlME5rZGE4VkI0TWhkRU9tWm5FTVVMdnpfVHd1eDctZVVHLUxpc0tRZzNKQTdrbUd2LVIwQzJzOS1lZi1LTWRKLUNXZHc?oc=5"
  },
  {
   "id": "aede0de45c",
@@ -32348,6 +32408,26 @@
   ],
   "samenvatting": "Celstraf voor witwassen van miljoenen euro's De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaklpMmNhMlpRS0JUaWpZMVlNeWk0VjlwRldwMndTZnBwNi1HcXRKUm1PMEo4V0FRS2hqSHFMaEVlYmZpa0RsYUpyNkpfaDhWVkF4d1JybS1sc1ZibHVOVF9HcTVlb2Q2RnVzanItRDh5cE8xNTdCU0NtdFhqNnJnQXJwdmxVU3RSSE02X0tmLWtXUmNoRDhSUGFNcFVlR1FzcWhNSkhJN2ZSQTBrYmoydTFvRkdxSmRxM1VBajR1cDNXb1VSY2dEUjE1cnhsbVpJOEpLRWRlMXpmMGlJbkVmZVByZVZvODA0a1BVSQ?oc=5"
+ },
+ {
+  "id": "856ec9a9cf",
+  "datum": "2023-12-21",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Suzanne Hensels-van Straaten directeur Strategisch Kenniscentrum Ondermijnende Criminaliteit bij JenV",
+  "bron": "algemenebestuursdienst.nl",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijnend",
+   "ondermijnende criminaliteit"
+  ],
+  "samenvatting": "Suzanne Hensels-van Straaten directeur Strategisch Kenniscentrum Ondermijnende Criminaliteit bij JenV algemenebestuursdienst.nl",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQM2xuaGJUN1Z2WmU0VDFsb1RNNkZ6WUYtcW1VM19ZM1RzVkdGdWNGX0xQR1N3SWpVNnd6eUEza1l2WDlZLUlvSnVIZlZ6MjdaMkw4TXl1MXpXM1FyWWRaZklaR1F6VkhoZmx0VTUzdlVmWEdFVDBaeTRJU0czWUlSaWFyMjF3VXB1aEpVNC1WV05KZ1FiSGNGU09Ga08wLXg0aWdjTXk3bHJMZHdhaUdvR3JtdzNKSGctZ3lXV2NrR0RKbG1yUS05QUt2UFVqYnlwWnZVQU5lQUFjQ2JNWVBfUkpNdXgtWHZwYU9GZ3ZYZ2xnTkVvY0ZQNQ?oc=5"
  },
  {
   "id": "2dd8d1a6bb",
