@@ -1,5 +1,36 @@
 [
  {
+  "id": "babd8b8954",
+  "datum": "2026-09-02",
+  "tijd": "20:01",
+  "nieuw": true,
+  "titel": "Hoe on-Nederlands, ongekend en nieuw is het geweld in Overasselt?",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "cocaïne",
+   "criminele organisatie",
+   "explosie",
+   "geweld",
+   "huurmoordenaar"
+  ],
+  "samenvatting": "Een hoog opgelopen drugsruzie zou de reden zijn dat een groep van tientallen zwaarbewapende mannen naar Overasselt afreisde. Een 51-jarige beveiliger kwam om het leven en twee agenten raakten gewond. Justitieminister Van Weel noemt het een vorm van ongekend en nieuw geweld. De burgemeester van Heumen bestempelt het als",
+  "link": "https://nos.nl/l/2629409"
+ },
+ {
   "id": "47a25c7bc3",
   "datum": "2026-09-02",
   "tijd": "19:05",
@@ -10,16 +41,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting"
+   "Jeugd & jonge aanwas"
   ],
   "tags": [
-   "jeugd",
-   "organisatie",
-   "vergunning",
-   "woning"
+   "jeugd"
   ],
   "samenvatting": "Een Groningse nephulpverlener moet per direct stoppen met zijn diensten vanuit zijn bedrijf en stichting. Dat zegt de Inspectie Gezondheidszorg en Jeugd (IGJ). De man deed zich de afgelopen jaren meermaals voor als hulpverlener. De inspectie begon vorig jaar een onderzoek naar de toen 22-jarige Ayrton P., een student v",
   "link": "https://nos.nl/l/2629407"
@@ -35,19 +60,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Ondernemers & weerbaarheid"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "bedreiging",
-   "bedrijventerrein",
-   "bestuurlijke maatregel",
-   "cocaïne",
-   "geweld",
-   "school"
+   "cocaïne"
   ],
   "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Werkstraf geëist tegen vrouw die inreed op file op Oostvaardersdijk • Archeologen onderzoeken opnieuw restanten Burcht van Kuinre • Almere krijgt nieuwe sch",
   "link": "https://www.omroepflevoland.nl/nieuws/522346/nieuwsoverzicht-0209-or-'ongeluk-onder-invloed-van-cocaine'-*-nieuw-onderzoek-burcht-van-kuinre"
@@ -63,17 +79,37 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Horeca, winkels & dienstverlening",
-   "Milieucriminaliteit & afval",
-   "Wapens, explosieven & vuurwerk"
+   "Milieucriminaliteit & afval"
   ],
   "tags": [
-   "grond",
-   "massagesalon",
-   "wapen"
+   "grond"
   ],
   "samenvatting": "Het Openbaar Ministerie (OM) heeft in het onderzoek naar de in maart in Schoonhoven neergeschoten politiemedewerker met een Iraanse achtergrond tot dusver geen verband gevonden met het Iraanse regime. De verdachte uit Turkije, die als asielzoeker in Duitsland verbleef, ontkende vandaag tijdens de eerste pro-formazittin",
   "link": "https://nos.nl/l/2629403"
+ },
+ {
+  "id": "50ab72e748",
+  "datum": "2026-09-02",
+  "tijd": "17:30",
+  "nieuw": true,
+  "titel": "Brabant pakt loodvervuiling in bodem aan: eerste moestuintjes gesaneerd",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Milieucriminaliteit & afval",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "afval",
+   "bestuurder",
+   "grond",
+   "stal"
+  ],
+  "samenvatting": "In Heusden is woensdag begonnen met het saneren van vier kleine moestuintjes in het midden van het vestingstadje. In de bodem is lood aangetroffen. De sanering maakt deel uit van het project Bodemlood, waarin de provincie en Brabantse gemeenten samenwerken om lood uit de grond te halen op plekken waar kinderen spelen. ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025692/brabant-pakt-loodvervuiling-in-bodem-aan-eerste-moestuintjes-gesaneerd"
  },
  {
   "id": "42d505b5ba",
@@ -563,7 +599,7 @@
   "id": "366ae8e879",
   "datum": "2026-09-02",
   "tijd": "12:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Almere krijgt nieuwe scholen dankzij soepelere onderwijsregels",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -15735,6 +15771,25 @@
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0FpeDRSdWpnV3ZJOHFtV3JDeHZ1cjgtQmwtcFVTVFdFY3FCNV81RUZtckRqWHhTWlktWFN5bTJORTYzTS1lMkY1VGp6WTM5RWtvaWd2eXhtWk94WDg3NVRKOUN5SmhJTjVpOGJRai1lWERidDdGMUpNSVNaNjVLbnZXWkxVOGp4U2thOHVrOHBhc3FJbFZhVmlKZUh0M0N4Z1o4a0xwNzNkOEhRQmc?oc=5"
  },
  {
+  "id": "b581a2589e",
+  "datum": "2026-05-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Celstraf voor verbergen lijk Nijmeegse man die omkwam in drugslab",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Celstraf voor verbergen lijk Nijmeegse man die omkwam in drugslab Omroep Gelderland",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmdCclJYc2tKWk9QTklkSTQtampBYWtVdEsxcDBKb2RSRktDakt0eU9qZnhiZjFBZUthaC1uSEpmMTdGV01MVmcxckg2SGp1YVNFQzkwT2tXTVRzZkJlbXZFd1JJUXpKZ2VlZHJfYzNNM3VOZHd6VGM4REZINS05RkNza0RhdDAwbHE0SnpnLXJVdWhFUVJnM25wQjl4YjBN?oc=5"
+ },
+ {
   "id": "340c2c0a83",
   "datum": "2026-05-14",
   "tijd": "07:00",
@@ -19863,6 +19918,25 @@
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEhCNldvYVVwOWt0S3IwRnJueV9lVktlMGpOcTd0MVoxVF9sazN4T3NFNnRhNXdzTkVScWZGOTg2bjZJUzJ6VmZFTi1QdlZHTXZQd2xxMnFHRlBlQ20zS2FRR1JvbGZoRUUtSjNGTmZVWXYtbjdHRTljaFZDX0JvcHpnZFpFbjh1SFpmX2V6SVlmSFFHXzBSb3VobjR5bkhLM0RlRUItelI0WGNjSHVVbW52OA?oc=5"
  },
  {
+  "id": "30f25a83b2",
+  "datum": "2026-03-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Poolse OM opent onderzoek naar banden Epstein met mensenhandel",
+  "bron": "De Gooi- en Eemlander",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Poolse OM opent onderzoek naar banden Epstein met mensenhandel De Gooi- en Eemlander",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVFXcWN6MUM4eVE4MEJqUG5XWktsc2lWeXQ2MzhMS3dwWXZYLWR0NFFzOEVTam0tYTFTenRmTkVuX2gwTHJGOUpyTFU5X1FCUFY3eDB3dTVzOGlIWlc4Qmk3RTY5YTE4OURLc2xDSFRYUERFUzFOMjhQUjZFZlJOWnJyMFV1bHhZZ21RaDFPTzhRX1Vvc3hJd1dUTy0wTzc4MFRFWXhQblRzZ3oweFBHdW9pQ0lEZk1EN09r?oc=5"
+ },
+ {
   "id": "3e6cf97ab9",
   "datum": "2026-03-09",
   "tijd": "07:00",
@@ -20658,6 +20732,27 @@
   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNjM3d2VyWTRoUzVuZlEwSWhMbXdySjMxMC02N1NCS3FMV2lHRzI0dWx2S1g0blI0UncybWNyTmxIVzFlMUZLSS1ZTUp4WDZybzRNNTNrN1VybUNlRFZKRHhIcl9Eb25qUlQ5OGY5dDdyNUdrejRuWnFCQ3hJOUpRS1hnTHYtempqLVJFQTRLQ0EtMHdjQXVHVmlKQ3hEanJkUzRMWjVFRnhsNVNGTTZqN0RaSVlVcE8tSW0tMVplaXhXLTRZa3ZjWXdkVFBfWXRiYzEwdUx4dkRPbmUydEFpXzhPZzZrN0dURkNSWWNFYWdIUkFNeWJESTkxUmtTZ19yd0VwUC1RMzZsUQ?oc=5"
  },
  {
+  "id": "4d560b702b",
+  "datum": "2026-02-17",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Halsema sluit pand in Slotermeer na vermoedens van drugshandel en witwassen",
+  "bron": "AT5",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "pand",
+   "witwassen"
+  ],
+  "samenvatting": "Halsema sluit pand in Slotermeer na vermoedens van drugshandel en witwassen AT5",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTU5lT1FKVmZsSEZBZFo1YmxzbTh6SktzbEh6cnFSMEttc2hNWWdJNHFKUnRsbWNHZzRMQWRDTy1xS3RPcW00dVdEZGFmbkNDbm1xeHpBSjVTRGRnd1BYN0Q1QjVlUjNuN2ljOHpuZ29EVERvaVNTckJWZjBpeW90ZnRXdHEzS19VV0pud1RRS3l3X1NyMXUtTWE2dl9Fc2F5bFp1N3hIZk82VjZiWGlidA?oc=5"
+ },
+ {
   "id": "41f9ddcf89",
   "datum": "2026-02-15",
   "tijd": "08:00",
@@ -20915,6 +21010,25 @@
   ],
   "samenvatting": "Vrouw kon bij Louis Vuitton in Nederland miljoenen aan crimineel geld witwassen: bedrijf krijgt half miljoen boete Het Parool",
   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVElCbnZfa01rcnAxdWxhYWN2bzB0Q0h0RTg3eEdZQlhDa2k0Tl9rb3cxZHEzZ1lsZUtZV3VoVEZ6VW9iQm96dWZMN2pFT0dPNDFvNG9nVXJfVUtWWENERDVyTlczVEFCNUlKRlF3LTEzOGl1TFlnZmlwaG5YY18xekV2TWVLVmNmRzc3RkVJbXBCTFhmLU9LRzJnYXJLWnhpNjlwSmtjQVMxOTlfRk9wREVDQy11LXhBSDVjTFp5dUNxWkdCMGRBdnJzZ1NmQ2NOVjBPVEx0TGVUZm80SEdwcW9XQXZQSElMVWRJ?oc=5"
+ },
+ {
+  "id": "3792d822de",
+  "datum": "2026-02-12",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "OM eist drie jaar cel tegen oud-Feyenoorder Romeo Castelen voor witwassen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "OM eist drie jaar cel tegen oud-Feyenoorder Romeo Castelen voor witwassen Rijnmond",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnVwdmIzYUxCNXVDTHc3eWxmcm1DZXMzYlh2V2VlUGpTd3dKN2hEN3pKRTk0Vks2TDZ4MF9BbV9TVFZsY3dvaFVPamNWTmRlMk5Bb2Q0SjZhZTc1TXNBQ3RsRnRtaTNnNVdra09hd0tyZXlfeUY2Y2ZaUjFKcjV1RWx1eU5reW00ZVlDUGk2QXEwOWlYeGdxTGtkOHRNcS1zTi1pd2JkSi1pVmRpYjJma0ZR?oc=5"
  },
  {
   "id": "70d80832ba",
@@ -21416,6 +21530,25 @@
   ]
  },
  {
+  "id": "713a951d42",
+  "datum": "2026-01-29",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Deutsche Bank binnengevallen op verdenking van witwassen",
+  "bron": "Financieel Management",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Deutsche Bank binnengevallen op verdenking van witwassen Financieel Management",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOE8yUDZ3OE9hTnpDdDFoN1pUUmFUaEhjNkRxQm1ja0hfOHlKY0daaEo1RDRNVzNlelNPZnM1TXZIYTRpdGw1QkN3ODZaMEpFTmNlUkxkclhxVEZMRm9hWXdiaERXVXV4UE1UYnhhNXh3R2R1VG9KeW5BOHJmVTFvdzhDSlgxalBoYVBjVzBMME8xZGFnU2hodXkySnJyZw?oc=5"
+ },
+ {
   "id": "3d83fd66d2",
   "datum": "2026-01-28",
   "tijd": "08:00",
@@ -21619,6 +21752,29 @@
   "dossiers": [
    "Arbeidsuitbuiting & mensenhandel"
   ]
+ },
+ {
+  "id": "e033cbd375",
+  "datum": "2026-01-22",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "AI en drones moeten de kleine havens beschermen tegen drugs- en mensensmokkel - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "haven",
+   "mensensmokkel"
+  ],
+  "samenvatting": "AI en drones moeten de kleine havens beschermen tegen drugs- en mensensmokkel NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTC1rYmNLY05Nd3hVRUZKa2gwdExia3RaeFE5SC0zOHQ3VU1SRGhqOU1qSWJEcFRFcjQ0TUh2X1ktV3dxempjQmllNnJVMzFaaGV5bDJuNldKcGlzX2ZqNmEwS0o1RFFUMUp6RGN5SGJwQU9IdWNPX0NGY0RtYnlJWXRBMXIwN2V1aXRMWGpuMmgtZFhWV1VZV2l2bmY3RkJkNHdDUjJCenUxYWxjNDI3M2YzTmNNdTZJVnVsbkxRbw?oc=5"
  },
  {
   "id": "d16808c495",
@@ -21932,6 +22088,26 @@
   ],
   "samenvatting": "Realityster Gijs H. verdacht van bijzonder drugslab in Vleuten, rol Harrie Snijders nog onduidelijk De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMXp1cXFLWF9UREdaajJDbzg0UnQ5ZE9Pakp1ZEJ4MERHdS0xSnJOS3BLbzA3dU4tNHYwVVlSZTNaaGlMNmNFMjNrUnJ4SFlabU9Bd0o2dk5ma0k5VE5DWnpfUXBPUU9udWQwZ3hMOWJsYlo1cEN4NHRZQlgxbldBeWRfTm1uOHAyZXV6OEE1YU9Fb2pxSVBGV1pnUTFEWkdlNFVLYkdqNnpHZXJaeHNZUlVEVUhiOVU4QTRpOXNKdWxJUFNsaTVRMnJpa3pqREsySUNIbElZS3dVY28?oc=5"
+ },
+ {
+  "id": "ae4148bd3c",
+  "datum": "2026-01-09",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie Almere: zo herken je een hennepkwekerij in de sneeuw",
+  "bron": "1Almere",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Politie Almere: zo herken je een hennepkwekerij in de sneeuw 1Almere",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHZ2SlRVWTZOSGZfQXNYUnZWYl9fWnA4SmxWQ1l5MFZONkhqc0toeVQ4d3JyQXpPMDUzek1wQ1c5TkQ1VVc3RUtsdnBXX3FMeldMeG9Dc3dfZGgzQ1JrZ0NUcUdVZUxyQTlCTVpKeXNFQUpoZVRMNEVtd1VVdXY1ajhJX1JSOWFQQ2E4dlhTZXNKNkExUlBfTDBEdzNZMXlhYm9FVVp3eWhEbFlJdlhSMV9POWFEWXhXc05oZA?oc=5"
  },
  {
   "id": "039b2b1c54",
@@ -22249,6 +22425,26 @@
   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYXR6VnFSMzZDZ1ozQXg0UEROUkE5OTZISVotV21Kei1SeWNPaWplN1dNa2ZVbnhucGZ3LXdLRm9VbGd3R0JaNUJ3c3hHdjNUWnhWZFBDNzh2MWp0akdxWFM5aTNyVVNnblBzOEFlY1J2YS1IdHNRcDd4Y2NDUHNKS0o3dVppcTdVUkhNMVZSVDRSNDNDTEdRQWlEbXJJRzloR3VxY05kN2dGbUdwYU9icm9ITmp3Vy1LQzNMLXl6b1JZNDhRYzliTUZQajQ3a2hJWmd0eEpxUUlOT2VJY2dObEk1b1NZZw?oc=5"
  },
  {
+  "id": "d98e393edb",
+  "datum": "2025-12-17",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Van kunstroven tot uitkeringsfraude: dit is 'Van Gogh-dief' Okkie Durham, vader van Nino van der Meijde",
+  "bron": "RTL.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "uitkeringsfraude"
+  ],
+  "samenvatting": "Van kunstroven tot uitkeringsfraude: dit is 'Van Gogh-dief' Okkie Durham, vader van Nino van der Meijde RTL.nl",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSmpHMG9MMWhWNTdlTzZ6QnZIZUFzRnZ2NUc3dTdpY2VweFJkUjNSN1ZLY3lPcGtIVzR2RkpuTWYwUDdlVlZyVXpWU3dHdzRZcGhjZGR3VnQwV3lOUTdxSVhNZnJreHJTNmFMbGc2RFdEWmsyMnlmeGNaZkpDTUxGTUVyVXFIdG9XczA3X0lwWjlNLVhQSi1wYXBlZnp5bzMydW5QMGIwYWN1eTM5S291cGRCX2NMN0VG?oc=5"
+ },
+ {
   "id": "7841d5d4c6",
   "datum": "2025-12-16",
   "tijd": "08:00",
@@ -22469,6 +22665,25 @@
   ],
   "samenvatting": "Mestfraude levert ook in hoger beroep celstraffen, taakstraffen en geldboetes op De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQUlg2bFFNR1hTN0ZoWTJWXzhMQ2o2cFR1WUw4eGtYR1J4M1NlMFdONFhiNDdNMm1CbmUzREN3dkpKSmRZbFh1OTB6alZrQzBwSUl2ZGVGMzJkRGdWVVBYbkFNMkRuRVlWR19feWxGbXEydTF5WTZGdVRMWHB3U0tmSTQyU09nQ1ZzZVlDTllGZVZqZURaSF83blBJeERwaGVCamdsUUVpckNScW1rWnJzWWlBb2ZPd0owTy1na2JuTi1RMkg0NWdOc0tuRl9XUDdRR19EeF84SEFzMm80OXpYQlNDLWRjMjlXaEhVR3V2NEVaSXBUdmg5YjNjVXNtaHl2Vm1mUDFBeVFOTERudnpPZGxCV2Naa2ZWZ3hmTDZESzlZMkhp?oc=5"
+ },
+ {
+  "id": "e2e3e808e1",
+  "datum": "2025-12-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Bodemdeskundige moet afvaldumping Merksplas en Ravels in kaart brengen: “Er mag geen grond worden weggevoerd zonder dat we weten wat er in zit”",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "Bodemdeskundige moet afvaldumping Merksplas en Ravels in kaart brengen: “Er mag geen grond worden weggevoerd zonder dat we weten wat er in zit” Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNUjNUdWxWM0ZoRFB6NmVJNnl0Vl9jR3EtU1pjeGV4cDF2VFF4aFJNUFZBb190djNkbVROdEMyMWs0OEN4UVVjb1pMZnAyZzdLcS1JZ0JyeHhkTW80emh5RVhtSHVGMTNpbExETzVqaHItM2h1bXBNV0dUTDF5MFZfU0wwSEkzYUM5U3hNV3VWZzJLWlI0UHZfdHYwUFNNQkxHQWFCOVcyenhsaF8xcTAtUVJFTFpseV9RZi0zT19VUEh4Ymk4WXptSk45RTZKMnBRM0JreTVvZ0RpQUM0Z0stSXRPdGVUamhGdEZfSXJOVDc4WlF2N3hwbTNfUFNPUEpPWHI3a0puMmVudDc0akNmTlpVYms1a085NkVVeW4yMnNNbnV5eFVfSG5rTV8wUVItYmNQSnhma1cxZw?oc=5"
  },
  {
   "id": "0d712e2f76",
@@ -25385,6 +25600,25 @@
   ]
  },
  {
+  "id": "dcdcd1facf",
+  "datum": "2025-09-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Moet burgemeester van Ermelo de cel in, als de rechter eendenslachterij gelijk geeft?",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Moet burgemeester van Ermelo de cel in, als de rechter eendenslachterij gelijk geeft? de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVlVzc2dSOTdiVUFmVTdBTkZZZVh6QTlPZVdfZk5zTDRnU3I0cllLZDR3ZThFaktHeXdFR3dhRjBlbzJvU0hzdFlVUTAxMEwtQk1HNldYOW5VYXBMWHJHRXRncFJZTWFUU0FWclN1RWszd3ZWYXpNS1dDS2ZiOFdRQ3ZVV2tUWTEzMU52Q2JXTG9JNkJOaVg4dnRCcFZoclF5T1VKRjV5VUFZdmtFRk9rNEJTVFJZNUY4VW4wVmRWV0s2N3c?oc=5"
+ },
+ {
   "id": "2128443b4b",
   "datum": "2025-09-22",
   "tijd": "07:00",
@@ -25656,6 +25890,25 @@
   "dossiers": [
    "Corruptie & integriteit"
   ]
+ },
+ {
+  "id": "330442f822",
+  "datum": "2025-09-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "‘Gelegaliseerde afvaldumping’: natuurclubs willen actie tegen omstreden bouwstof Beaumix",
+  "bron": "De Limburger",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "‘Gelegaliseerde afvaldumping’: natuurclubs willen actie tegen omstreden bouwstof Beaumix De Limburger",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNazVCdWJfeFBweGlYNnZUZFlfYzlOSnlLd3d3MlNtbUVpSk1Ja21wY2VaeG5hdjhMVXpfLVR2czgydUxXLXpQYjNCLU1iME9QbWNUbWpaNzJJUE83X3I5Skt4aGxtNVhjc1JZVS1FRUJvaGdNcXYxR0hNUGxfMXRIdHZBVFpQemFEemYzdUswdDlqZ1ZETUJqbEdkOFhudHAwQkJGdjFRcHRYOGduUWx1dFZZMlhWdHk1Y2xVWWdDeXJmQkVkTGlQTDc5Nm0zRXZsSUxQTA?oc=5"
  },
  {
   "id": "090543e984",
@@ -30975,6 +31228,25 @@
   "dossiers": [
    "Jeugd & jonge aanwas"
   ]
+ },
+ {
+  "id": "0720c7497c",
+  "datum": "2024-09-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Steeds meer jongeren worden op social media geronseld voor criminele klussen: 'Geen weg terug'",
+  "bron": "EenVandaag",
+  "verzameld_via": "Nieuws — Jeugd & jonge aanwas",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Steeds meer jongeren worden op social media geronseld voor criminele klussen: 'Geen weg terug' EenVandaag",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM2cyN1Y0aHUtWUNOckpwR255LUVsbmNnOXBzYXV2dzBrTlFRdGdieWoxc3JvaUV0MXZEV0hvNWZnZV9qbnp2UVRzMGo3bzVpRnBRaE80MDFDNVFIVnRQdXF1S0Z6ajBrcW10eHlnclI0bTRzZVVxOENyX1YzaFFrdkFFQXREQXFnZVVpaGlmZFRsb3FnaFZVTlhyRDJiYVF1ZjZjcnktclFYQnhOQS1jVVhVRDJQRUZoU2NtVTlyQmdhN2NNMTh4LVVqdzVKeUZNcVpJOE9B?oc=5"
  },
  {
   "id": "6327a6a53e",
@@ -36300,6 +36572,25 @@
   "dossiers": [
    "Corruptie & integriteit"
   ]
+ },
+ {
+  "id": "500683eff4",
+  "datum": "2022-12-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Huisjesmelker Marcel van Hooijdonk wil niet bekend zijn, maar dat maakt BOOS hem toch",
+  "bron": "VK Magazine",
+  "verzameld_via": "Nieuws — Vastgoed & huisvesting",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "huisjesmelker"
+  ],
+  "samenvatting": "Huisjesmelker Marcel van Hooijdonk wil niet bekend zijn, maar dat maakt BOOS hem toch VK Magazine",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMndzUVpxbXp1LUlaVnVvdmsyWmJrYjZXMHlhZWhGMmxEMHFSRXVJeDJVM3hKRXpkWjYtdkdGR0Y5dlk3cFdNRnlnTjNQX3ZIcW40cFhxeDdJZ0pJZnhWZ2hfcFFyYUItaWhzODZkbzRJRVBDOEhxVzZhM3k1NnpNS3E1ZnMxOGpQTkVTb0xDMkhIVldZWGdOSUdzd3FsS3ZfS3prMTBUdVhTNU1INUs0WG5aVk1OZ9IBuwFBVV95cUxNQmNrVzNydjh0bmJNUDhveVFkSDk1Z2lkYWdubV9XdE5BRHZpRGx2TDFNdXhuSXpHN3M4QzNoVUoyVk1aOVNxZ3MwMlAxalpFVlQyQjBFREFNZktlVDJZRnIyVWtnT3ZXNFFZcEVPLU1seHN2cFQ1RW5EaGlyQ2tEMUJOUjJlZ1ZoLVY3S3ktZk1OZ3FsSXZ0ZndXdlllU0NLeEJ6UVpzc2pLQnRXUThXcmNteHJOU2kwN19v?oc=5"
  },
  {
   "id": "e9097e5f38",
