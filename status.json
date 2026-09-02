@@ -1,12 +1,12 @@
 {
- "run": "20:32",
+ "run": "21:30",
  "datum": "2026-09-02",
- "nieuw": 29,
- "totaal": 2215,
- "verwijderd": 17,
+ "nieuw": 32,
+ "totaal": 2228,
+ "verwijderd": 19,
  "geweigerd": {
-  "geen dossier": 471,
-  "niet-nederlands": 1014
+  "geen dossier": 490,
+  "niet-nederlands": 1018
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 60,
-   "status": "bij",
+   "items": 61,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -24,7 +24,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 108,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -42,7 +42,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 118,
-   "status": "bij",
+   "items": 120,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -78,7 +78,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -104,8 +104,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 49,
-   "status": "bij",
+   "items": 50,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 18,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -177,7 +177,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 6,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 86,
-   "status": "3 nieuw",
+   "items": 88,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -248,7 +248,7 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 58,
+   "items": 60,
    "status": "2 nieuw",
    "ok": true
   },
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -266,8 +266,8 @@
    "url": "news.google.com/rss/search?q=liquidatie%20criminele%20milieu%20OR%20moor",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 41,
-   "status": "bij",
+   "items": 43,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -357,7 +357,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 25,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 19,
-   "status": "bij",
+   "items": 20,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 58,
-   "status": "bij",
+   "items": 60,
+   "status": "2 nieuw",
    "ok": true
   },
   {
