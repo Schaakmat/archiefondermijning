@@ -1,12 +1,12 @@
 {
- "run": "05:33",
+ "run": "06:41",
  "datum": "2026-09-02",
- "nieuw": 18,
- "totaal": 2063,
- "verwijderd": 14,
+ "nieuw": 17,
+ "totaal": 2067,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1044,
-  "geen dossier": 509
+  "niet-nederlands": 1053,
+  "geen dossier": 499
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 102,
-   "status": "bij",
+   "items": 104,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 105,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 60,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 48,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 20,
-   "status": "2 nieuw",
+   "items": 21,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 39,
-   "status": "bij",
+   "items": 40,
+   "status": "1 nieuw",
    "ok": true
   },
   {

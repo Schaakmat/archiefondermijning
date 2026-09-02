@@ -1,5 +1,46 @@
 [
  {
+  "id": "1d5e4054d3",
+  "datum": "2026-09-02",
+  "tijd": "08:29",
+  "nieuw": true,
+  "titel": "Voormalige bestuurders en diplomaten roepen op tot strengere maatregelen tegen Israël",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bestuurder",
+   "wapen"
+  ],
+  "samenvatting": "Meer dan 230 voormalige bewindspersonen, ambassadeurs, diplomaten en ambtenaren roepen het kabinet op om meer maatregelen te nemen tegen Israël. In een brief vragen ze onder meer om een volledig wapenembargo en het opschorten van het handelsverdrag tussen de Europese Unie en Israël. Volgens de ondertekenaars blijven de",
+  "link": "https://nos.nl/l/2629335"
+ },
+ {
+  "id": "83f203c4ce",
+  "datum": "2026-09-02",
+  "tijd": "08:22",
+  "nieuw": true,
+  "titel": "Dronten - Broodjesliefhebbers in Dronten staan voor dichte deur van Amerikaanse fastfoodketen",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bestuurlijke maatregel",
+   "exploitatievergunning"
+  ],
+  "samenvatting": "Inwoners van Dronten die een broodje willen halen bij de Subway op industrieterrein Poort van Dronten, staan sinds half augustus voor een dichte deur. De eigenaar van de broodjeswinkel mag voorlopig geen mensen meer binnenlaten. Volgens de gemeente Dronten gaat het om een bestuurlijke maatregel. Die is opgelegd omdat d",
+  "link": "https://www.omroepflevoland.nl/nieuws/522242/broodjesliefhebbers-in-dronten-staan-voor-dichte-deur-van-amerikaanse-fastfoodketen"
+ },
+ {
   "id": "6cb97ecd0c",
   "datum": "2026-09-02",
   "tijd": "05:14",
@@ -82,6 +123,25 @@
   ],
   "samenvatting": "Een huis aan de Repelstraat in Oss is dinsdagavond beschadigd geraakt door een explosie. Op het moment van de ontploffing was een gezin met jonge kinderen thuis. Niemand raakte gewond. De explosie gebeurde iets na 23.00 uur. Door de knal werd de voorruit van de woning volledig vernield. Glasscherven kwamen in de voortu",
   "link": "https://www.omroepbrabant.nl/nieuws/6025519/explosie-bij-huis-in-oss-gezin-met-jonge-kinderen-ongedeerd"
+ },
+ {
+  "id": "d3cd85c4b0",
+  "datum": "2026-09-02",
+  "tijd": "01:00",
+  "nieuw": true,
+  "titel": "Waarom luidt burgemeester Femke Halsema juist nú de noodklok over het aantal drugsverslaafde daklozen in de stad? En nog acht vragen - parool.nl",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Waarom luidt burgemeester Femke Halsema juist nú de noodklok over het aantal drugsverslaafde daklozen in de stad? En nog acht vragen parool.nl",
+  "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSGdTYzE1YjcyTUhKaGdNUHNfTUtZLTU3OXhnQWFxOUZNbVZ4QmdOQ0M2S1FBTC1Vcl93UDRPQUlhRTNGRE54c1BBLUdTNk9NVGFQazJmYnVJUjJxNUFXR09IV054STRvUWZDNVVmQ1hMc2VIVGhnSnhoaUd5RVFwVUxOYmZFN0JiRjRWQWM4NXdGZkhfREVTUTBUeGRQNnJiZzk3VkE3WHFfVlJsdzlzbmkzdk85b2N4d1JOWjlhX0NJT1BCWUYxa09IYW9TUFNENXFVZkhqaEFYdTJWRzRKOTc4N3V3elAxYW9JMTVSeHlYTjM2MVZnZnFYNmcwelRIMVo0?oc=5"
  },
  {
   "id": "1975a2b8ea",
@@ -308,7 +368,7 @@
   "id": "041484cafc",
   "datum": "2026-09-01",
   "tijd": "16:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Marria leerde in Almere chimpansee te zijn, maar plaatsing bij soortgenoten eindigt tragisch",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -327,7 +387,7 @@
   "id": "ddc1666156",
   "datum": "2026-09-01",
   "tijd": "16:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Podcast de Dag: Crack in de stad: wat gebeurt er op straat?",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -346,7 +406,7 @@
   "id": "8eae6eece6",
   "datum": "2026-09-01",
   "tijd": "15:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Patstelling over groot distributiecentrum Nuenen: 'Zitten in de rats'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -367,7 +427,7 @@
   "id": "1d53b17656",
   "datum": "2026-09-01",
   "tijd": "15:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Amsterdammer Yusuf U. (26) blijft in cel voor witwassen 38 miljoen, volgens OM ook via zorgbedrijven",
   "bron": "Het Parool",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -1051,27 +1111,6 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522108/goedestede-wil-huurder-uit-huis-hebben:-'hennepteelt-is-voor-ons-een-no-go'"
  },
  {
-  "id": "894efad83b",
-  "datum": "2026-08-31",
-  "tijd": "19:04",
-  "nieuw": false,
-  "titel": "Boerenzwaluw vertraagt bouw Norgerbrug bij Assen: tot begin 2027 dicht",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Jeugd & jonge aanwas",
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "jongeren",
-   "ondernemers"
-  ],
-  "samenvatting": "De afsluiting van de Norgerbrug bij Assen zou een half jaar duren, tot afgelopen mei. De verwachting van de provincie is nu dat er pas begin volgend jaar weer verkeer over de brug kan rijden. \"Dat heeft te maken met tegenslagen aan het begin, maar nu is ook een broedende beschermde vogel ons letterlijk in de weg gaan z",
-  "link": "https://nos.nl/l/2629159"
- },
- {
   "id": "88d9611131",
   "datum": "2026-08-31",
   "tijd": "18:49",
@@ -1469,6 +1508,25 @@
   ],
   "samenvatting": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding AD.nl",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZVNJcmVLWUJYcXNuUXJJUHZ6Nnp6b3VET3A3YUhTMUstRC1wYU1rdGNEUnVpVlJKTGdrZjUyWjNXd2J6Ul9MWkJYakExX1o3TDZFbmV5b21vWXEtUEpwLXU0b2tvRUc0UnZ6Mk9TSVQ0SmlJdnFMc2V3STZTV01oMVhudV8tTHdVbk9DM2l1MWFfbHdQNGx4T18yX3lSQ1R3ZXd6VXowNjBiUHFxdVc1eFZ6MjdLcks4bkZSQzVDR3FVQzhsWUFoRjNQTlk0Zw?oc=5"
+ },
+ {
+  "id": "80d2d01a25",
+  "datum": "2026-08-31",
+  "tijd": "08:30",
+  "nieuw": false,
+  "titel": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWW5tM2JvcmpRdzZGNnNxTGV0SWRVWUNYd1lVYXlIaV9pTUkyMFhDTmRJQ21tQ296OE4yRGFLQjhrWG5UZHYxWmhaY0ZZN0h4dzdwRTNuOF9YRy1mNHJ0a2xPdnhWemhCVnZlMnFiOEJyd3puQkxYc204bHYzTnpkUXZMTmFUVTZVa0FzVVlWTnlCOXF2cGNSbnRYOXJPaDUxYmRKTXBlOW9Zenp6Z21ySHd1NmU2RTBtWDd2b19jLWtVdWR3QkdFOTg1Z3g?oc=5"
  },
  {
   "id": "d4703b5290",
@@ -11601,6 +11659,26 @@
   ],
   "samenvatting": "Annemieke van Dam directeur-generaal Ondermijning, Politie en Veiligheidsregio’s bij JenV Algemene Bestuursdienst",
   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSjhHNnV5anV0dGJ3YU9kYUpkeFZJZjFQdUVzcDlxS1FGQ2JkSXhmZnNDS096Mk1KekZzMERyU1ZOVjZaZUR6WVN2aUxqRkhNMHozdWVaNXFOUU42djlfLXY3Rk1UYTJBWFp0eTZTWVpjOGp3VnRRYWFwUThtS1RUZENyTGFuc0h4a2FJRDEzWDVzWUV6eWloRDJNdjBHMmJySjFTRVFENlMwRXY1UFd5MFc2dG50RTdIMXZqd2hjVnhlQ3BVbk9sa19Fal80RElvUHczZ2VKZ1JCaFpDRlNlcmYwQm52dw?oc=5"
+ },
+ {
+  "id": "dbff884dfc",
+  "datum": "2026-06-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie doet invallen in Westerkwartier: drugs, geld en materialen voor hennepkwekerij in beslag genomen",
+  "bron": "rtvzulthe.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Politie doet invallen in Westerkwartier: drugs, geld en materialen voor hennepkwekerij in beslag genomen rtvzulthe.nl",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2hjS2M5UlJpRXBUWVl6VEI5b1UwVmx0Vy0zQlY5OUI5dWxUbFl4QzFUc1JhQ0JIR1JFQTlJR2daZURMem1yVWlBR0tPVV9oTjVDY1E2VGpyeGd6ZTY0UzUwQVNVUVRGZ1o3bUJpTkM4eWp1ME5QTmtYd3BaVjg0SUN5di1YR3BNaGZUcU44WTlMZWlmc1ZObUZlUFZXNmtobXA2MTlXSUtkbVNRWXdPdEoyaTE3TURhNXFRV2hPTUJJWDM2ZWE4NEIxOA?oc=5"
  },
  {
   "id": "e5eb027054",
