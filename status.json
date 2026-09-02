@@ -1,12 +1,12 @@
 {
- "run": "07:31",
+ "run": "08:33",
  "datum": "2026-09-02",
- "nieuw": 18,
- "totaal": 2072,
+ "nieuw": 21,
+ "totaal": 2080,
  "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1033,
-  "geen dossier": 509
+  "niet-nederlands": 1034,
+  "geen dossier": 512
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 51,
-   "status": "bij",
+   "items": 52,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 108,
-   "status": "3 nieuw",
+   "items": 109,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 60,
-   "status": "bij",
+   "items": 63,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -356,8 +356,8 @@
    "url": "news.google.com/rss/search?q=%22jonge%20aanwas%22%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 21,
-   "status": "bij",
+   "items": 22,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 39,
-   "status": "4 nieuw",
+   "items": 40,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 50,
-   "status": "2 nieuw",
+   "items": 51,
+   "status": "1 nieuw",
    "ok": true
   },
   {

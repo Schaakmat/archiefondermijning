@@ -40,6 +40,33 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522242/broodjesliefhebbers-in-dronten-staan-voor-dichte-deur-van-amerikaanse-fastfoodketen"
  },
  {
+  "id": "249294b5dd",
+  "datum": "2026-09-02",
+  "tijd": "08:15",
+  "nieuw": true,
+  "titel": "Geweldsexplosie over provinciegrens: 'drugskartels en maffia hier actief'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "cocaïne",
+   "criminele organisatie",
+   "doodgeschoten",
+   "explosie",
+   "geweld",
+   "haven"
+  ],
+  "samenvatting": "Justitieminister David van Weel noemt de geweldsexplosie van dinsdag, net over de provinciegrens in het Gelderse Overasselt, een vermoedelijke criminele afrekening. Hij legt daarbij een link met de georganiseerde misdaad rond drugscriminelen als de uit Breda afkomstige Bolle Jos en Ridouan Taghi die vast zit in Vught. ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025526/geweldsexplosie-over-provinciegrens-drugskartels-en-maffia-hier-actief"
+ },
+ {
   "id": "1089816ec8",
   "datum": "2026-09-02",
   "tijd": "06:45",
@@ -386,7 +413,7 @@
   "id": "bd7df6cb07",
   "datum": "2026-09-01",
   "tijd": "16:47",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Tientallen gevulde jerrycans, mogelijk drugsafval, gedumpt bij Strandeiland op IJburg",
   "bron": "Het Parool",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -407,7 +434,7 @@
   "id": "041484cafc",
   "datum": "2026-09-01",
   "tijd": "16:36",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Almere - Marria leerde in Almere chimpansee te zijn, maar plaatsing bij soortgenoten eindigt tragisch",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -639,6 +666,25 @@
   ],
   "samenvatting": "Grote politieactie in Overasselt Een grote politieactie in het Gelderse dorp Overasselt, nadat daar bij een schietpartij een dode viel en twee agenten gewond raakten. Het dorp werd afgesloten en zwaar bewapende agenten begonnen een klopjacht naar verdachten. De Telegraaf schrijft dat een mogelijk drugsconflict gelieerd",
   "link": "https://nos.nl/l/2629264"
+ },
+ {
+  "id": "9bb827e35c",
+  "datum": "2026-09-01",
+  "tijd": "14:24",
+  "nieuw": false,
+  "titel": "TERUGLEZEN | Mogelijk wapen gevonden na zoekactie • paard liep schotwond op",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De politie is dinsdag bezig met een zeer grote operatie in Overasselt. 's Nachts gingen agenten af op een melding aan de Ewijkseweg. Daarbij kwam iemand door pistoolschoten om het leven en raakten twee politieagenten gewond. In dit liveblog houden we je op de hoogte van het laatste nieuws.",
+  "link": "https://www.gld.nl/nieuws/8516970/teruglezen-mogelijk-wapen-gevonden-na-zoekactie-paard-liep-schotwond-op"
  },
  {
   "id": "339b38dee4",
@@ -8681,6 +8727,25 @@
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFlNNFQ5c2kydVp6cUJsODdJY1p3amI3TzdVOHgwNHpuYWxWV2FkWTRtMEkzMTJudUNPbFZCUDYwcVlnWnNZY3p5ZXNfaTlkdXh6WDRhYlFwemxyUmlFVVY0TEJobE1qVHFYNHpXM2s5bUttZnpocHVDbkJnYTluZHdDanhIVl9WVnRsZUtjYXM3eDNGVEhmaTRZRG1iaC1aUkJrWU5NMmstV0d1dXoxMXBGY29GS0c4YWU4ejFXQkEwTnVpTFNNM3A0b3BTTlZOQjJ3M25aclZUZw?oc=5"
  },
  {
+  "id": "c1539e32ec",
+  "datum": "2026-08-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Migratie: EU gaat meer focussen op buitengrenzen, partners en mensensmokkel",
+  "bron": "De Tijd",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Migratie: EU gaat meer focussen op buitengrenzen, partners en mensensmokkel De Tijd",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmpUQ2s0cl93UmF4d1VscGZ2N2NHd0ttZ3BUcXNQTGlIQ19ZcHBaUl95ZTgwZE55dmZOZ2xKN1o5N2dxT0VxOHU3VVZ5VVkwNzRxWlNuZ0lZUjJiRTNSSnFhS3E3N1ZQZk91RXRKd0JKaG1zOWQ3Sm8tX3B6QXFnWk15Y3FBbF9JaHE2R2ZfRUEzaWh0c3pKZHhrbFNkVnhrdUlNanp4MmdnRWYxMFdpNlo5ZXhrc0dKSVllVWYwMVZjY09LUlZsMTRn?oc=5"
+ },
+ {
   "id": "033d447794",
   "datum": "2026-08-03",
   "tijd": "07:00",
@@ -9602,6 +9667,25 @@
   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObllaUHMxVS01VHF4R2RmeXFWT1FteVQtYW9WZ25qLXRwZ1hxTXRJeFVqUXU2RVlFZHpoQWxsNGFpam05a0hGa2Vacm9SVUlSODJZTzU5WHl2SlJ5blR4NlkzZy1STnVlSmZ6UWxTRnN5MDdIS25wcFZrTUhfcHJjY205MUQtbzRtTXdDVGRjN0t4OHd4eUk3ZWJDT2JFZmFTVHRpdTA4dXpxa3RSQmo5N041alVOWTYtU1dLdnB6NU1MOFgxRVBIUm9kNlo4X0d5STkzdm5VNE1adUoyNjdIMXltSld5d0k2Q0lKemcwQlo?oc=5"
  },
  {
+  "id": "cf6507ffa9",
+  "datum": "2026-07-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Arrestatie in Nederland bij oprollen van bende die via Balkan mensen smokkelde",
+  "bron": "NU",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende"
+  ],
+  "samenvatting": "Arrestatie in Nederland bij oprollen van bende die via Balkan mensen smokkelde NU",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0JKNUV3VGVPdlZfRG9BSy1qWkR6VzlwTEVBdVI5bXlNNWVTajlKWm9oRzFUNk1Fd002NXVxY1hwUU41ekNZSDBnMDVYZEJUTVZ4NHJBbHZ2Q0J4OHVUTHBPcG1FTWpwcVUtVVdCV2djejU0R0dTNEYzR1JzZy1rUktrNXpwN2ZyVHV5Y0hWX04zTzV0Mm5XVXI2UXRkZ3FpMUxyRkctUVBLZ2VJNllOWUxlOTZpMW15SkhpQg?oc=5"
+ },
+ {
   "id": "92b06a6fcb",
   "datum": "2026-07-20",
   "tijd": "07:00",
@@ -9720,6 +9804,25 @@
   "dossiers": [
    "Arbeidsuitbuiting & mensenhandel"
   ]
+ },
+ {
+  "id": "8bcaa12c1e",
+  "datum": "2026-07-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Influencers Andrew en Tristan Tate opgepakt in Miami: broers verdacht van verkrachting en mensenhandel",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Influencers Andrew en Tristan Tate opgepakt in Miami: broers verdacht van verkrachting en mensenhandel Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcC1GTlFEaGxoeE9BeHFLdVhKTFVFQnFwVkNZUDdIb0FrNmZ5MEQ5eGxaMU9WdVd2d3VQREhNNkw1cDhtcEtNS3dVSzV1T1hrRzI2bjRRX0V3NmYwN2ZyMEhVa2M4UDlTZG5uTmJiN0dxaHRiNXZoZzRPMkRER0hNSVh2ZENMWndiTW9LU3M3dmFCbjlxaXpVaVMwdWJxZjFPZW1yQ0NrSzlOY1pIcFhaR2ZzQWVPdFlvRG43XzFYbWRKTHlLa0NicjFGUTBXdHdTMnhXTmhaV29mQlE?oc=5"
  },
  {
   "id": "b1a06327eb",
@@ -14637,6 +14740,25 @@
   ]
  },
  {
+  "id": "e8628c82a0",
+  "datum": "2026-05-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drie jaar cel voor verbergen dode vriend die overleed in drugslab",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drie jaar cel voor verbergen dode vriend die overleed in drugslab Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0FpeDRSdWpnV3ZJOHFtV3JDeHZ1cjgtQmwtcFVTVFdFY3FCNV81RUZtckRqWHhTWlktWFN5bTJORTYzTS1lMkY1VGp6WTM5RWtvaWd2eXhtWk94WDg3NVRKOUN5SmhJTjVpOGJRai1lWERidDdGMUpNSVNaNjVLbnZXWkxVOGp4U2thOHVrOHBhc3FJbFZhVmlKZUh0M0N4Z1o4a0xwNzNkOEhRQmc?oc=5"
+ },
+ {
   "id": "340c2c0a83",
   "datum": "2026-05-14",
   "tijd": "07:00",
@@ -17631,6 +17753,25 @@
   ],
   "samenvatting": "Fantoombedrijven, valse facturen en versluierde transacties: zo wordt drugsgeld in de pgb-zorg witgewassen Noordhollands Dagblad",
   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObTNEV19nNktVUC1VdVdvenMzSTZMUmlhdDZzX1ZWYS1ySHduazVsaFNka0tVMzdJNGVwdDF4Qy04R2ZzRzhReWJnRjJLc3JtSlhTLUlDNHhpcTJadHYzYllwa1RnNVcySEhaaGZaSzNXSWpFalVxVDJfUFhzUzdJd1RqMFFKOUN4d2RHNEFJSkl1WkRqRzBzYUkwRUFVb3p2bktoTUpORzJyTTRBdDQ1STdheURnVmUwT1FYZTdWaUlxZ2ZoMWRQby1DNDNXZ3ZFSXg4c2l2aFF5MWFkcHluVWhmRjZZT2dSYjZUX0FOZHFnNW5teFhURGtn?oc=5"
+ },
+ {
+  "id": "64f426f391",
+  "datum": "2026-03-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vrouw (74) verdacht van witwassen 7,3 miljoen via paardenbedrijf Assen. ‘Onterecht. Mijn man heeft zich doodgeknooid’",
+  "bron": "dvhn.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Vrouw (74) verdacht van witwassen 7,3 miljoen via paardenbedrijf Assen. ‘Onterecht. Mijn man heeft zich doodgeknooid’ dvhn.nl",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUwzQTRxUlBWbm5pdlJpeHZnY25TOHBQaGJnMmRPV0J3TjJabVRqRjNsTXV4Q0pFRVRRSTB3WWQxU3ZjdHhyMlRRdmlkU0VNRXpoRVozcW4ySzhGWFcyWjhDZmJVc00wc2ZjZEpBQVlVVWdYYW1pRm5LOU54cDVFWGVwOHFIeElXbEtnV1ROQlFPRVMweUp2TVAwb19TcGJCRy10akZib0RDX21sT0xCdA?oc=5"
  },
  {
   "id": "6ea242a94d",
@@ -23240,6 +23381,28 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "c90136d290",
+  "datum": "2025-10-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Rotterdamse burgemeester Carola Schouten maakt zich grote zorgen: 'Drugsuithalers steeds jonger. Soms maar elf jaar'",
+  "bron": "WNL",
+  "verzameld_via": "Nieuws — Jeugd & jonge aanwas",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "burgemeester",
+   "uithaler",
+   "uithalers"
+  ],
+  "samenvatting": "Rotterdamse burgemeester Carola Schouten maakt zich grote zorgen: 'Drugsuithalers steeds jonger. Soms maar elf jaar' WNL",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcXhKUHFwMEVHcVlndGFmVmZXM09sZEU1MDZRd1VfN2xxdFhBOXl2eGpfVGgxZDctZUlSOUJaUnFCNDlDVWlSWFpCWk9GTUZNcjVWT2NXbUEzckhoY2FJQlZiNUdKTEVvOWpFRE9VazY5cmNaUXg5d3JEREJTek54czlMakpFRV9YZEV1czc3cXEwRENSbnBGWmhNcXVBWlZ2V2QzR1dFWk1CYmZTUk9JeHJDTVR6cGNzN0ZLTVpuTUdaZkdpN0RDd0FJYk1teW43UTRDdA?oc=5"
  },
  {
   "id": "14e18f46b4",
