@@ -127,6 +127,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6025701/inbrekers-gaan-ervandoor-met-kluizen-en-gereedschap-van-het-proeflokaal"
  },
  {
+  "id": "5d95c5b722",
+  "datum": "2026-09-03",
+  "tijd": "04:58",
+  "nieuw": true,
+  "titel": "Roemeense kraanmachinist verdachte na dood bouwvakker uit Rijssen",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container"
+  ],
+  "samenvatting": "De Duitse justitie heeft een kraanmachinist uit Roemenië (35) als verdachte aangemerkt na het dodelijke bouwongeval in Bernau, vlak bij Berlijn. Daarbij kwam twee weken geleden een 56-jarige bouwvakker uit Rijssen om het leven. Een vallende container raakte hem op de bouwplaats.",
+  "link": "https://www.oost.nl/nieuws/3691246/roemeense-kraanmachinist-verdachte-na-dood-bouwvakker-uit-rijssen"
+ },
+ {
   "id": "73a097f0ec",
   "datum": "2026-09-03",
   "tijd": "04:25",
@@ -509,7 +528,7 @@
   "id": "473323f0c1",
   "datum": "2026-09-02",
   "tijd": "16:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wie is Jan G., de Nederlandse drugshandelaar die in zijn onderbroek moest vluchten voor een liquidatie? “Als hij ergens binnenkomt, ga je weg”",
   "bron": "HBVL",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -530,7 +549,7 @@
   "id": "42d505b5ba",
   "datum": "2026-09-02",
   "tijd": "16:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Luttelgeest - Archeologen vol spanning bij hernieuwde opgraving Burcht van Kuinre",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -552,7 +571,7 @@
   "id": "6b80fb0b85",
   "datum": "2026-09-02",
   "tijd": "16:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wapens, vals geld, witwassen: dit zijn de verdenkingen tegen beschoten familie Overasselt",
   "bron": "RTL.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -573,7 +592,7 @@
   "id": "3ea11ff402",
   "datum": "2026-09-02",
   "tijd": "16:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Amsterdam halveert sluitingstermijn: winkels en restaurants na explosie drie maanden korter dicht - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -592,7 +611,7 @@
   "id": "c99a7ec263",
   "datum": "2026-09-02",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Daniëlle vreest dat waakhond Rebel is gestolen: 'Ze is veel te lief'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -613,7 +632,7 @@
   "id": "1db1665cb2",
   "datum": "2026-09-02",
   "tijd": "15:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Zijn vriendin heeft spijt van haar aangifte, maar toch krijgt Harry uit Lelystad tbs voor bedreiging en geweld",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -633,7 +652,7 @@
   "id": "7b5415844b",
   "datum": "2026-09-02",
   "tijd": "15:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Justitie: 'Vrouw reed onder invloed van cocaïne in op file Oostvaardersdijk'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -652,7 +671,7 @@
   "id": "e3b5c80b10",
   "datum": "2026-09-02",
   "tijd": "15:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Van zakenmagnaat naar vermeend spion: de ondergang van Nikos B.",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1070,27 +1089,6 @@
   ],
   "samenvatting": "Jan G., wiens boerderij in Overasselt net over de provinciegrens dinsdag werd bestormd door tientallen gewapende mannen, wordt in een online video bedreigd. Vier gemaskerde mannen eisen in gebrekkig Engels dat hij een partij cocaïne terugbrengt. Doet hij dat niet, dan wordt iedereen vermoord. De zaak zou gelieerd zijn ",
   "link": "https://www.omroepbrabant.nl/nieuws/6025653/dreigvideo-duikt-op-na-extreem-geweld-in-overasselt-je-zal-sterven"
- },
- {
-  "id": "366ae8e879",
-  "datum": "2026-09-02",
-  "tijd": "12:27",
-  "nieuw": false,
-  "titel": "Almere - Almere krijgt nieuwe scholen dankzij soepelere onderwijsregels",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "evaluatie",
-   "school"
-  ],
-  "samenvatting": "In Almere zijn deze maand twee opvallend verschillende scholen van start gegaan. De Renaissanceschool opende opnieuw de deuren, met zes geregistreerde leerlingen. Een paar kilometer verderop begon ook het islamitische Novum Saeculum Lyceum, met achttien leerlingen. De scholen hebben ieder een uitgesproken eigen visie o",
-  "link": "https://www.omroepflevoland.nl/nieuws/522273/almere-krijgt-nieuwe-scholen-dankzij-soepelere-onderwijsregels"
  },
  {
   "id": "e62a32242e",
@@ -2790,25 +2788,6 @@
   ],
   "samenvatting": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWW5tM2JvcmpRdzZGNnNxTGV0SWRVWUNYd1lVYXlIaV9pTUkyMFhDTmRJQ21tQ296OE4yRGFLQjhrWG5UZHYxWmhaY0ZZN0h4dzdwRTNuOF9YRy1mNHJ0a2xPdnhWemhCVnZlMnFiOEJyd3puQkxYc204bHYzTnpkUXZMTmFUVTZVa0FzVVlWTnlCOXF2cGNSbnRYOXJPaDUxYmRKTXBlOW9Zenp6Z21ySHd1NmU2RTBtWDd2b19jLWtVdWR3QkdFOTg1Z3g?oc=5"
- },
- {
-  "id": "d4703b5290",
-  "datum": "2026-08-31",
-  "tijd": "08:04",
-  "nieuw": false,
-  "titel": "Veel vacatures voor boa's in onze regio: meldingen blijven langer liggen en controles gaan niet door",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "wapen"
-  ],
-  "samenvatting": "Minder toezicht op straat, controles die niet doorgaan en meldingen die langer blijven liggen. In meerdere gemeenten in de regio heeft een tekort aan boa’s direct gevolgen voor de handhaving. Ook als het gaat om bescherming van de boa’s worden er door gemeenten verschillende keuzes gemaakt: van geen bodycam tot een pro",
-  "link": "https://www.rijnmond.nl/nieuws/2245867/veel-vacatures-voor-boas-in-onze-regio-meldingen-blijven-langer-liggen-en-controles-gaan-niet-door"
  },
  {
   "id": "ac8c22e9c9",
@@ -12957,6 +12936,25 @@
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUER2SXB0bFFReHh6ZlZDMHppTHNFeFAtczhIdkdEcVJnbjJKdmg2bFBhMHc4RnJLSExaZFMxeVpXaTFKWlJZbGo5X1gzUXFYblJiVFBlSTRnUmt5ZUY5MzNoTGFkbnozdnRPZXVGYVhnUXdXSndpY0Q2VVJwb2x3RGFHUmhmMDlvTGxqS3dBSkNPSXVGdWhfa1BwY0ZuZUVaUGIzY3VjaThtOUdfU2dpNlhWTQ?oc=5"
  },
  {
+  "id": "446470ab62",
+  "datum": "2026-07-03",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Limburger (49) opgepakt voor witwassen en drugshandel in Spanje en Nederland",
+  "bron": "L1 Nieuws",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Limburger (49) opgepakt voor witwassen en drugshandel in Spanje en Nederland L1 Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTR0SDNDVnBJVlV2dUl2SkZsWnFwOUhoT0VHZFc0b2hOSU42MVpRTFJPZExQaElYNTluZ1NZbWd6ZG9ITGFDdFlHNEdub0wxY25RTjA4V0RjekFhQ2p3V1AyNVQtMFpnQU9xbXhuMnRxNmlJRWZtUENmb2l6dGlESzRiWjdaUnJORXVyN29TWURmSkkxb1VjeXEyRkZ4cEkwOUI0d2o1WUhGeW5kWDdF?oc=5"
+ },
+ {
   "id": "3defb30078",
   "datum": "2026-07-02",
   "tijd": "07:00",
@@ -15481,6 +15479,25 @@
   ],
   "samenvatting": "Meerdere aanhoudingen voor witwassen miljoenen aan zorggeld De Telegraaf",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGFWRE1ISHNIbkdyODBRZkV6V3ZsMHFhSTlvVjhoTmlaYUR2eFAyTDFNY0FRZUw0ZXV3eldaZ2phazY2SlNNNVpxcnU2Uk5KOGJsdmVRb0ZsN05vcGVIV0I3VWVnc25IYVQ3NnBxdGlQLUpwWVJ2cDFFNzlrMlFEVEJCaTYtVk1Kd1d3X2I5Qks4dWhiQ3NfYWpYLU5OcjJlZjNYLUxSOF80Tmc0VGY4?oc=5"
+ },
+ {
+  "id": "02ae9a8df2",
+  "datum": "2026-06-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Irakees krijgt 30 maanden cel met uitstel voor mensensmokkel omdat hij al in Franse cel zit",
+  "bron": "vrt.be",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Irakees krijgt 30 maanden cel met uitstel voor mensensmokkel omdat hij al in Franse cel zit vrt.be",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96aXJ1a3dsRWhpMGFfLWNkSGJQMnVld1czcTFVWWdFZzZNcmk5WGdqM3FjNVZzRkgtVDF6RVVmaXVDTVU0MjVSWi14OHJucUNNaGQwSmswakNzUGZXenNUOWhBdkJEVE9Nd1NIRHVmbHA?oc=5"
  },
  {
   "id": "24131f5aed",
@@ -21178,6 +21195,27 @@
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdV81ODNnVGh0V2hBWjdqUm8zeTl2amc4ZE13eWZvaS1wb3cwQS1PdDlpcGk2eTl6YVUyRmVWSVVvaHJtdklRai1nLW9vM3hOeHBoNzFIVlhsQkNvUlZKSVU2TU9iZVBIdEFka2dOWXY4VE5ibXpwOFhZbjdQbGRuN1RvOUZsRlBWOEhweGRhV3RXb29JUGstdUI5SENfN3ItYmdVNFpfbEprbjU5aFpWNEZqWnRKSlZlcDNHVW5MOVc3cFBkeDhkWmJOQmM?oc=5"
  },
  {
+  "id": "38933ac1af",
+  "datum": "2026-03-16",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Enorme wapenvondst en wietplantage in kelder Kerkrade, toch hoeft woningeigenaar (72) niet de cel in: ‘Ik wilde alleen mijn jongen beschermen’",
+  "bron": "De Limburger",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapenvondst",
+   "wietplantage"
+  ],
+  "samenvatting": "Enorme wapenvondst en wietplantage in kelder Kerkrade, toch hoeft woningeigenaar (72) niet de cel in: ‘Ik wilde alleen mijn jongen beschermen’ De Limburger",
+  "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOYlZrSTdlaUlhVW5GUWdFSlVTQk1Bb3JJYlBmZDBjeFAzdjJkNGk2NDEyZTdYZnJrV2pFWHQzbUh5UWhMcnBjdnM2ZVdLRU1aNTN5dGhDZ1BIajVDWHA0NlhKMFhjT00wOVFUR2h4bTE3b05SUU0zeXdvY2dGVmI0UzFDbVVXU2JaNlNidnBWbG03MDdKSkRuODY4SnBuaHh5QUU4QWRvNjROd0N2cjB0ZGJqNmhYT3NueHIxTXNvMi1GVGZBX08yWDhJZmtlakJQakFSbGh3ZUs0OElBaGEzbnY3SHRoMFgxQTFFMHlXR1J5SVMxcVl5d0JKLVR4Wjg0eU1BcDZVRjg2U3JsOWpQNDFKVHBlN3lEdUJz?oc=5"
+ },
+ {
   "id": "0bd1d5bc65",
   "datum": "2026-03-14",
   "tijd": "07:00",
@@ -24833,6 +24871,29 @@
   ],
   "samenvatting": "Kopstuk afval- en mestfraude sluit deal met justitie: Peet W. moet 1,3 miljoen betalen en krijgt 900 uur werkstraf AD.nl",
   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX3E5VllGc2luRUFTT0hydWdZQzZscVFLM0paSGhHM2lxLWpaR1dzLTVaRUdWQ3dUMDR4MHdja2t1NUlEbFlOdkkyLUF2X3RrM2I1cF9mRUNNWU5ncW9TbXRQbkFzT1Q1MHFHWTVZYTVzWEdXeWdZZlMzV1ZVZU5qczh0UVhDZ2d5TFR3Ykt5aUREZGJMbW1WMnNFYUtGNDFkUk0yeEVFOU9KZDc2enFVOWVwUDBpUWdLREZJczBzZ1M5M0Y2VDFKWFBrUHNDSEtjNnRnTEFIQldpM1BDQlhtRjlDV0xDVk0?oc=5"
+ },
+ {
+  "id": "a20484468d",
+  "datum": "2025-12-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Kopstuk afval- en mestfraude sluit deal met justitie: Peet W. moet 1,3 miljoen betalen en krijgt 900 uur werkstraf",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "kopstuk",
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Kopstuk afval- en mestfraude sluit deal met justitie: Peet W. moet 1,3 miljoen betalen en krijgt 900 uur werkstraf HLN",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdkRkUmZheHRpcGJ3ZFdtU2ZLQl9CcE1taHZqQ1l6N2FhbEJLRmlpRjg2UWFsLV9kZE1Kclh2VV93UWNTU3J2YnVGZDYzZkxwODNUck1TYnhQQWdQY2hvT01yQVNkSU51cEdlaV9DVFN4WVhpNzMzZnJqelRsUTFKT3JaMWhhMXhTYl92em45ZHBOdUFEVC10ME1PblBUazlnaU05RU00WWNraXlPZmRCMlVzeFNTNm1iMTlzM2N0MHNzRTRRUlNvcjNmcEpKNmxNaVNkRTlsMTEyMFZBdHJPOUxEYTdEX0pOSXc?oc=5"
  },
  {
   "id": "d5493f27cb",
@@ -42441,6 +42502,25 @@
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWThWeTBJeV9VZGZMNnpVSjBHYmlYdEdkaW5helI3ZGpVZE5OMzF3aEtBUkRhc0VFdndSYkR5VWFBMXNmcWJBS3Bhb3dUcmtDdG1tQllCUE1FZW91ZTR4SU9WRXhVX3MyRGx5ampHRWJMekR4Qk9nVzlXS3FCWXFJY0hhaDh0QWs?oc=5"
  },
  {
+  "id": "acf8d4bb5d",
+  "datum": "2020-07-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hart van Nederland - Late Editie: Handgranaat achtergelaten bij bedrijfspand Amsterdam",
+  "bron": "KIJK",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Hart van Nederland - Late Editie: Handgranaat achtergelaten bij bedrijfspand Amsterdam KIJK",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZXUxQ01aOV9FbnZBWFYwSllUdDJveHZoWDB5RmZtZnoybzVIdTRuaWlJVG5qWFB4UVpqbklpNTQxRmttNmRpc0N3WnkzcWpJMEtUUmNScWFvRVJlZUcwM29YSHJEU3Z4bE1YTzllUmVFMXdBUTdGTTR4ZkNNdUU?oc=5"
+ },
+ {
   "id": "ede0729e57",
   "datum": "2020-07-25",
   "tijd": "07:00",
@@ -42553,6 +42633,26 @@
   ],
   "samenvatting": "Hart van Nederland - Late Editie: Mogelijk handgranaat aan deurklink café in binnenstad Zwolle KIJK",
   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSXZpejhGMnZLQmw4d0hLMVlhbWNCTGg4YmpoSl9HSHRqel9VX2U1ZW9WWnlqQTV6T3hTMlFCZGtfUzRKXzNoU0NRVWg4MTNWZWR6Z1V2alNGbFlKRnBzb0dxRnZVSWdxd241UFo2NFlhcVU4SlZUYTY2MmxMYWs?oc=5"
+ },
+ {
+  "id": "3a0063eeed",
+  "datum": "2020-07-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hart van Nederland - Late Editie: Handgranaat afgeleverd bij politiebureau in Utrecht",
+  "bron": "KIJK",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "granaat",
+   "handgranaat"
+  ],
+  "samenvatting": "Hart van Nederland - Late Editie: Handgranaat afgeleverd bij politiebureau in Utrecht KIJK",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTeHRBUUJHcmpHWG9NS29YR0JOcjlyazN0UHhfUUJPVU9sYzVXZVhqckN5cGVnRGxMRkJzbEF1VXJOaTFoQVp0WGJQeUlnWFJJM0gyTVgwZEFUNlVWQmVTQ0NEVDN5ajhJYlNralVtaDhtelRwazFSR1YyXzN0Unc?oc=5"
  },
  {
   "id": "c8ba1f09fd",
@@ -43502,6 +43602,25 @@
   ],
   "samenvatting": "Van corruptie verdachte Richard de Mos gaat gemeenteraad weer in: ‘We gaan Den Haag leuker maken’ AD.nl",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWkZLWndkcWZYcXd6b3VHR1pZUlNOODh2SFQ3Zy1ocWwtS0puYnlRcHYtUzZBeEJ6YnRiZmt4a1pjb3dsZHgxYkR6bFhseTNlNGlwNWtLREJ1aTJuS2ZadEdzNVA4a0E0VFhTdm9laWgxSS13bXhYZ1U3aUNWZjdyTTJlZXJGTUpnekZ2cVVVcS03SmtfNWxSemJvV0I1RWdDczNDZjVxMV9PTVpSX2RmeWZYMkZqQXFXU25sU2UzcWIwT0I5VFZ5Q1JHNVlOZw?oc=5"
+ },
+ {
+  "id": "84f6f99d69",
+  "datum": "2019-10-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie over zwijgcultuur rond liquidaties: ‘Práát in plaats van stille tochten’",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Geweld, liquidaties & bedreiging",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "Politie over zwijgcultuur rond liquidaties: ‘Práát in plaats van stille tochten’ Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHZ5T29FT2FXbkdTNEZLeWxtLWw5OFFKMWRiMzlKaXVNR0VzY1BJRXhid2NuSnIyYzk0Nzd2TVdhb1NEMlhRVDYxN0xRSXdyODl3OTljVXJnVTkyYm16WURON2VXb0Vwa2xMallDZmZkSm51ajRGZDZQVlVibUsyWE02SHlGcDRudjJ5NFJEUUQweDZhcV9vZFdxcnJNVXZSTHdVRm83cndObGdSdUFjQThPd3lreFltaGNr?oc=5"
  },
  {
   "id": "8602b3b11d",
