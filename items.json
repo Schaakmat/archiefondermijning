@@ -1,10 +1,86 @@
 [
  {
-  "id": "82db205236",
+  "id": "bc231124c6",
+  "datum": "2026-09-03",
+  "tijd": "14:12",
+  "nieuw": true,
+  "titel": "Almere - Twee jaar cel geëist voor veroorzaken ongeluk onder invloed van drugs",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne"
+  ],
+  "samenvatting": "\"Ja, dit is veel.\" K. wrijft in zijn ogen terwijl de officier van justitie de gevolgen van het verkeersongeluk beschrijft. Hij heeft moeite om stil te zitten en kijkt geregeld om zich heen. Hij kijkt naar de zijkant, vervolgens naar het plafond en daarna weer naar links. De rechter vraagt of hij op dit moment onder inv",
+  "link": "https://www.omroepflevoland.nl/nieuws/522455/twee-jaar-cel-geeist-voor-veroorzaken-ongeluk-onder-invloed-van-drugs"
+ },
+ {
+  "id": "160e6c783d",
+  "datum": "2026-09-03",
+  "tijd": "12:05",
+  "nieuw": true,
+  "titel": "Agenten die drugslab Kallenkote ontdekten worden door rechter verhoord",
+  "bron": "Steenwijker Courant",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Agenten die drugslab Kallenkote ontdekten worden door rechter verhoord Steenwijker Courant",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ051b2UwdDFuTEJTZ2dOTDNuSUI4aXpkUlRSMEF3RlpMcjhnT2FRR1psU0NGRFZSdjVnUDR3SzJxOVVjMVRrdnpqb1JtUWRwNjNUU0lxMEpRRHR3dWFGVlFDU3V6dkhuN3U4YjVOMUhYZ3gwM1R5WnJxUW1pWnlHMTFsTWJUbi16ZkI0V3dId0ZlcFl6eGVPYTJOTzFqU2YweHo3eWsyc25MNFA3TGkzejBZa3lSNXhHb0I4bTlFeTNZVElGZ1JHTUVQUXE0ZXdj?oc=5"
+ },
+ {
+  "id": "c75c9ceb16",
+  "datum": "2026-09-03",
+  "tijd": "11:40",
+  "nieuw": true,
+  "titel": "Randy (37) won loterij en wilde droom waarmaken, oude veroordeling rond wietplantage zit dwars",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Randy (37) won loterij en wilde droom waarmaken, oude veroordeling rond wietplantage zit dwars De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0hQRzZLT3ZxUnhfVnR3Qm5rWHF4MGxvdDRDVFJwOVVOMmh1UVdDaW9zX0NIaW1FeGltOW90Y0YtQmdBeVA2X0dvZ3dSN0pYUnF6M1NOYkVqU0pKQ1Rhek5rR2VGUWpaZklINlE4eERGNnJsU2VMRDNLbHR0NXgyMkh6SEZLYU1NejZBVXByRExZTXBWYUZtbWd2eHdlSnN2M0xZTXRrcG9GVTI3bGRGZFFHSWtLcUcwUzFlZWVqUzMyeEJ4bTQ1UFM3Y2tDcDZa?oc=5"
+ },
+ {
+  "id": "6f08448b67",
+  "datum": "2026-09-03",
+  "tijd": "11:25",
+  "nieuw": true,
+  "titel": "Diefstal uit voertuigen neemt sterk toe in Rotterdam, Ridderkerk, Schiedam en Barendrecht",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Het aantal geregistreerde diefstallen uit auto’s en andere motorvoertuigen is in Rotterdam flink gestegen. In de eerste zeven maanden van 2026 registreerde de politie 3074 diefstallen. Dat zijn er 706 meer dan in dezelfde periode vorig jaar, een stijging van bijna 30 procent. Dat is geheel tegen de landelijke trend in ",
+  "link": "https://www.rijnmond.nl/nieuws/2248497/diefstal-uit-voertuigen-neemt-sterk-toe-in-rotterdam-ridderkerk-schiedam-en-barendrecht"
+ },
+ {
+  "id": "19b46ec51e",
   "datum": "2026-09-03",
   "tijd": "11:05",
   "nieuw": true,
-  "titel": "Datalek bij sociale dienst Brabantse Wal: mogelijk alle cliënten getroffen",
+  "titel": "Gegevens van mogelijk alle cliënten op straat na lek bij sociale dienst",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -18,7 +94,7 @@
    "uitkering"
   ],
   "samenvatting": "Persoonsgegevens van mogelijk alle 2542 cliënten van de Intergemeentelijke Sociale Dienst (ISD) Brabantse Wal zijn bij andere cliënten terechtgekomen. Het datalek bij de overheidsinstantie die inwoners van Bergen op Zoom, Steenbergen en Woensdrecht helpt met geld, werk of schulden, werd op 18 augustus ontdekt door de g",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025834/datalek-bij-sociale-dienst-brabantse-wal-mogelijk-alle-clienten-getroffen"
+  "link": "https://www.omroepbrabant.nl/nieuws/6025834/gegevens-van-mogelijk-alle-clienten-op-straat-na-lek-bij-sociale-dienst"
  },
  {
   "id": "32cafbb6d2",
@@ -408,29 +484,6 @@
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkpPZi1WcXZjVGFXSlcwUmdaVXNTZWY3SkctZjAySUswNWp1MTBXUEpzbV9IZGF2NWpaUkpUMmJ0SzVTTW9rR2pabE1qNEdVUVhmMDBrdl9Nc2JqVWJvU3ZBOTFKN2xOeHo2RjAzMC1GRGFGbVJqUERVR2Y3UTFidVd1Vkd1allPMXF6V3gtWXhIMkU?oc=5"
  },
  {
-  "id": "221d692a44",
-  "datum": "2026-09-03",
-  "tijd": "05:00",
-  "nieuw": true,
-  "titel": "Inbrekers gaan ervandoor met kluizen en gereedschap van het Proeflokaal",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "geweld",
-   "organisatie",
-   "pand"
-  ],
-  "samenvatting": "Vrijwilligers van Berne Abdijbier schrokken toen ze woensdagochtend het Proeflokaal in Heeswijk Dinther openden. Inbrekers hadden 's nachts toegeslagen en gingen er vandoor met twee kluizen, consumptiemunten, gereedschap en zelfs kratten bier en frisdrank. \"De hele kast was geforceerd\", vertelt medewerker Gijs van Dore",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025701/inbrekers-gaan-ervandoor-met-kluizen-en-gereedschap-van-het-proeflokaal"
- },
- {
   "id": "5d95c5b722",
   "datum": "2026-09-03",
   "tijd": "04:58",
@@ -641,7 +694,7 @@
   "id": "0c51f7972f",
   "datum": "2026-09-02",
   "tijd": "21:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Verdachte van schietpartij bij supermarkt wil cel uit: 'Ik heb dat pistool niet in handen gehad'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -660,7 +713,7 @@
   "id": "babd8b8954",
   "datum": "2026-09-02",
   "tijd": "20:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hoe on-Nederlands, ongekend en nieuw is het geweld in Overasselt?",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -692,7 +745,7 @@
   "id": "5907a9149a",
   "datum": "2026-09-02",
   "tijd": "19:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man rijdt opzettelijk met auto het water in en wordt aangehouden",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -3043,6 +3096,25 @@
   ],
   "samenvatting": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWW5tM2JvcmpRdzZGNnNxTGV0SWRVWUNYd1lVYXlIaV9pTUkyMFhDTmRJQ21tQ296OE4yRGFLQjhrWG5UZHYxWmhaY0ZZN0h4dzdwRTNuOF9YRy1mNHJ0a2xPdnhWemhCVnZlMnFiOEJyd3puQkxYc204bHYzTnpkUXZMTmFUVTZVa0FzVVlWTnlCOXF2cGNSbnRYOXJPaDUxYmRKTXBlOW9Zenp6Z21ySHd1NmU2RTBtWDd2b19jLWtVdWR3QkdFOTg1Z3g?oc=5"
+ },
+ {
+  "id": "d6209d71e5",
+  "datum": "2026-08-31",
+  "tijd": "08:30",
+  "nieuw": false,
+  "titel": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmwzWDdjY2trNDlwQ1RPUEJ1QU92N2xGM0w5OVNxZTdmOXUza01Vd01lMVFiVEdTNkk1VDYyclByRUx3OVlIN3YtX2VqSGRXbGcyMkcxNVAwNXhtZjVFbzhfU2hncUMwVjFWM0FQV3RWYlFFSTBNWlJoZTVLZ05rdmFieGNyVHZ6UlBDdVhHT0ZaeENNQmpPM1RpRHEyX2lEN2hUUUxoampIUC1sSWMzdmVHeDdNZERVWGhzUHhIY0VVVkczMTY5MHhUX2piUFQ5cUF4Sw?oc=5"
  },
  {
   "id": "ac8c22e9c9",
@@ -17238,6 +17310,28 @@
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUVgwVnpRdkJSNEwweHV6NXRuVW4yV2hxUnJta05IOElFRjV5Nk5qYVF2Rlg2SklNbDNJd09OakRXZ1JYS1JFeW83T0ZNVnF3VTFvVTh0RFlYaWRuT3BmaVBTdm8xbHdZX05RcXdXdVc3MXY4ZXRHYTlmUExsQTIwRzI3U1ZwN2RmNEdBd2lVWFlCVG9ia3BZLQ?oc=5"
  },
  {
+  "id": "922ac6bd86",
+  "datum": "2026-05-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ruim duizend liter drugsafval in vaten gedumpt in bos bij Soest",
+  "bron": "De Gooi- en Eemlander",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval",
+   "vaten"
+  ],
+  "samenvatting": "Ruim duizend liter drugsafval in vaten gedumpt in bos bij Soest De Gooi- en Eemlander",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTkdCakplNjlzc2JNRm9fQmtRNi1QUkZSVFhYelp6M0Q2SW5zcld6OE01dU1DODNVOEVIYXBBWFRXSTg2OENaTnRjN3VyWW90UkNfeXdkUE5qM05XYnJxeHdnclJaRVlkaE1hX0JSMFJoaHpTa0p1Q2RqT3M2Z0JWUG0xUkFETHp5ZFZMN2xTeXMxY0RpRTI1UzV0b3lQOG05UU1YZlVXNlBBczFSM1Ftby1GU1hodUQ5OTVPdUQ3RVlzNGp6S0lENWFHQQ?oc=5"
+ },
+ {
   "id": "f2c00ba0df",
   "datum": "2026-05-21",
   "tijd": "14:16",
@@ -21651,6 +21745,29 @@
   ]
  },
  {
+  "id": "a271fd6dc9",
+  "datum": "2026-03-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugslab ontdekt in garage van woning in Lienden, bewoner aangehouden",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Autobranche & garages",
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "garage",
+   "woning"
+  ],
+  "samenvatting": "Drugslab ontdekt in garage van woning in Lienden, bewoner aangehouden De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDJBdEhydTJHX2k4ejg0alJWb3NRblB0Qkl1RTE4cWFBY3VJT0hxemVTRnplcjBTWDlOX2NJZHdZV3BJUjVCTFZOZkI3N0Fla2o0VW5Va2w5MUlmaTZnbWpPR2VXdjE4SUU2anJmZFVQVzdIalF3RWlYWFFYTk9yck41ZVBjeHNLS01pT3l5LUNXZXpvcXVfdENGaUEzZndKQWdpS040ZGttUUFxSm9PbHd3U0tKZmQ2akdCd2lCbw?oc=5"
+ },
+ {
   "id": "2ca5fe097e",
   "datum": "2026-03-25",
   "tijd": "07:00",
@@ -21930,6 +22047,27 @@
   ],
   "samenvatting": "Politie deelt beelden van verdachte explosie kantoorpand Zuidas Het Parool",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObElKNG9DemNsTXh0V01hYmpzS0loRnZBNjBVSmpNcGR3R0Fsdng5MEd1QUxNTXduajdZX3RZaDZBb2k2QlRNVXRFamFVWmZzUmZURjR4UFZzamRXbTJzcE1tWWV3RE5Pb1plX2U5SG9hZDl3bm45cUdIZXhmUXpZRjc4R29sRWhnUmxIdVhyWmNPSzlrLTNFTTY0WHFPR1dLY1VfUnB0anI?oc=5"
+ },
+ {
+  "id": "66a8d67215",
+  "datum": "2026-03-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Onder meer verdachte van mensensmokkel opgepakt en cocaïne gevonden in voertuig in Limburg tijdens grootschalige grenscontrole",
+  "bron": "De Limburger",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne",
+   "mensensmokkel"
+  ],
+  "samenvatting": "Onder meer verdachte van mensensmokkel opgepakt en cocaïne gevonden in voertuig in Limburg tijdens grootschalige grenscontrole De Limburger",
+  "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdXEtVkZFTVRNeVZZaEVTSHlJNVVfZFBRSmt3MWs3SmhDaTAzSW52cGFkUldVNWpnV2xxejR5MkVMaTZ0bWNfbjdxMU5LYXd5V25oTVA2b2MzNDZoWHhFY0R5ckN5bVhUMXhwYXFfX0hWd1NLMnNyeWVnUFE3aTUza3lwbFhNci1oWkt4Vm5kS1VNNVVzLVJSdDdVOUtzaWszYTZVUWljQWpkOVdYbEJtbnNzaVl6RHdWNUxXemVyU2lKcTRKeEN5VEJ1R3kwSXZ0V1JNbjJxa08wVUkzNDFQMVNMY2JMVHI4b2txb0dDRW9xSzlYQnhkRmRqOVB6c2JsSDdyU1dZLXhVQW8?oc=5"
  },
  {
   "id": "0595f07150",
@@ -22606,6 +22744,27 @@
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOEN4bmk5NEc4ZVNmdElEcF81dGdLMXFmM3RGQ3BqcXktN0tzRXgtRmNOWHdLSW1MSkJlb0c4QTZyeVBiY0pyaEZob0p1NWxndXhVUTBJYVZ5RzhnN3VtNmd6blZzVFJkMnRJWE9BZGtoWEtnY0doTGdwOTY1QUpLcHNUMktGand0LW1sWHpBRU43TGFOczY2ZnhwOEVlLXRXTGFxcTh3X3lUclV3YWhWWFJ4U2dtcUhqa2EtUldMT21YcXhEWHVN0gHMAUFVX3lxTFBfbzN2c1BqaElKbkduWFJVTkdNYVo5MFJuX2JGdzI1dzVCcG5zMTdpR0RnRVdKTi13YU14UmhlUmF1eDdGUGdiRklseVBmemNrQXNzR1dUQVdhX19rVEJwZElnNlpTZzdpWFZZTmEybnJIQlJfMEtlQ01SWEJKU29fMUs2cE1mVS00RGpBTEhBOEZfdmdEZFBrOHhKTEdDdlVsa3RrZ210aTdTUTlhbXJjRndaR1FHSGtWWFVHSjhOY0RBbWtzTmFlaTR1Tg?oc=5"
  },
  {
+  "id": "ff2b8f8315",
+  "datum": "2026-03-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Soester echtpaar zegt onder druk te hebben meegewerkt aan drugslab van jeugdvriend",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "drugslab",
+   "jeugd"
+  ],
+  "samenvatting": "Soester echtpaar zegt onder druk te hebben meegewerkt aan drugslab van jeugdvriend AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmo3dXZGeDZ2c0VvSG1VV09DbGhNdDZwUjlTbGs4WEpUeHo4LUtVbmh4WlVHUzdmdHZhOXlFY3JPZ0xqWG84eWpuNEM1YnN3LTQ2RHhOalFJTGRBTnJ6MXl5MUJkUk0yaVBvRG1jR3RzdURzQkZQVm1GRFMtMmxVbXh4UmtRbmEtazJ4U2VNTVRNSFNIaXpIU3N5c0RGR0pZX1BtQkxGbnBUbmIzNjNlQ1NUaEhHOEE?oc=5"
+ },
+ {
   "id": "0cc9675d7a",
   "datum": "2026-03-07",
   "tijd": "08:00",
@@ -22886,6 +23045,27 @@
   ],
   "samenvatting": "Twee mannen aangehouden voor witwassen en drugshandel, beslag op woning in Huizen NH Gooi",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWs0ZTJ6Sm9vbnIyWThZQ1hxRUlWdWhoMzAwWUZ0aU9XazluWTFnOU9wWlA3Rmgta1lYZlBpbTBFT1o0eVRYUXVyM05ycTIyR1JhRDVZNktfalJnYTF2XzczUnBpemhlSDlHVHdxNDlkU1J6d3lfTnQ4X1BFVnRTOWRSR1UwSF9ibGVKcndDenlMa25BWVg0VlNhdlV4Q3FDTm90d2d0NA?oc=5"
+ },
+ {
+  "id": "3ed35e3844",
+  "datum": "2026-03-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Deze mannen zorgen ervoor dat drugsafval wordt opgeruimd",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Deze mannen zorgen ervoor dat drugsafval wordt opgeruimd Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUd0d2dpLU5KaUtoMlpQc0g2dTh5bzVpSVp5aWZFVDBJaXJ4emxhWmFEYWlPMmJXMFg1OG5QdVY2NjNoRDE5bnpsVmozZFRPcmNLYnNKVUxkY0cteU90Y1RyejR0T3VldEt1SGJaN3pMblBMdWc0SU9GX1RiRVdMa0JjSUpWWUF4VGYwVXRXSTlrZS0yeFpqZU9XTW42R3hQNkE?oc=5"
  },
  {
   "id": "59f409469b",
@@ -23202,6 +23382,25 @@
   ],
   "samenvatting": "Waarom de liquidatie van Stanley Hillis, kopstuk van de Amsterdamse onderwereld, 15 jaar later nog altijd vragen oproept: ‘Het klopt gewoon niet’ Het Parool",
   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRE5sY0d0LWk2WTlsd3A3c1A2bkd4MF9GdG5QcmZ6WXRnaHk1YnFVMnRlRDBWbFBrT0ZGNmo3OWpLbnFScUJBa21ObDJ4SFlWR3hYT2Q3UzVGRXFqRXE2b1hYdjJMekN3dGpjOE9GQzhxRVdSZnE0RjZ2MGgyR2RSVFhkSXN6WHVUU2ZYOV8xN1dVRGltSFN4UjloTXRuYWx4aVRzWndRXzN0Q1Z3VEpQSDNqR0ZxSUxXVjZIbUJQcF92WWI5NVo3MG1PYkthTXpjbEJzS21xdWMySkN3UmJveEs2YmpuaVY5UC1MRkQ4Wm80UzJ2YlhkOHR3R3M0ODZqWnp5bG1NNUZhWEJI?oc=5"
+ },
+ {
+  "id": "a3c638cfc8",
+  "datum": "2026-02-21",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie treft verstekelingen uit Afghanistan en Irak aan in vrachtwagen bij veerboot Vlaardingen",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Politie treft verstekelingen uit Afghanistan en Irak aan in vrachtwagen bij veerboot Vlaardingen De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNXdLNTNpdkE3SnRCTHhJdkpESmp1amtfRjM3UFRaWEFOaWF4c0VCVjFwYzd1SjVPbTVJc1hTVlhpYUk2UnRpYTNjN3ZUZFM4SUVrRTRTdHJqc1hKZjJUWkJxNzRNa0RMYU5JYUYxSGxHWmhZWEFVM2Z5SDR6aEVPcnFrMWtwTURBLV9NckdtNDJqYjU2ajg1SzZIMWpJMWxoMUxVX2NzNnV3OFRTTG0xN0pFMGJHUS1mT1pOLW1WQTR5VE1Oa1RMa213VEwyaWJQcDdNNTVWWGx5NXc2NWRXTQ?oc=5"
  },
  {
   "id": "0adf6a3951",
@@ -25073,6 +25272,25 @@
   ]
  },
  {
+  "id": "8a45141870",
+  "datum": "2025-12-28",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "‘Ik was met anderen op zoek naar een beter leven, ik ben geen mensensmokkelaar’, zegt de man uit Albanië",
+  "bron": "nrc.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "‘Ik was met anderen op zoek naar een beter leven, ik ben geen mensensmokkelaar’, zegt de man uit Albanië nrc.nl",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSXNRb3lsczFrdGtzMENYaHdUS2p3OGNuRTB2dEpPTUR2NGtURXQ4aWFRdnlIY1JBd1M4RTJmeXRQQWRUN19HUVV1eHlQMW9JWEJuNTZZbkc5STdrQ1h2Y2JiT2lhakh4TGlrSElyeTVOcTduN1otLXN3bVM0V3VNemNoSGNxUjVIN05jTF8yQXJYbWF6LVc5aEx0aUt1QzlhOGJRcVFTbVFNb1NLOW1LNFhGZ3I3RElmZVR0dnNqbXFvUnJfTFpqdTJvbkpyUERxSkR4NDlOWFFKeW5Ca2JN?oc=5"
+ },
+ {
   "id": "e6860d4e4c",
   "datum": "2025-12-27",
   "tijd": "08:00",
@@ -25150,6 +25368,25 @@
   ],
   "samenvatting": "Vermeend mensensmokkelaar en afperser Kidane H. uitgeleverd aan Nederland NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOW1YT0RkZWRDQnc0UV9kVG1WQUxPRV81eUN3NlYwWlhtS3dWSEFhWURmeEc5V01BUDFaRVVYWTNOcWR3VldSRThFbHp2cGYyVUhKUUpseDBId001ZFQ1TEVRbzhyZ1VwYWNPUlVvcHJMLUVPcVVfZXNFTXhtS2U3V3BkOGgzODMxTENLa3BuN1RJcnBRYU0ydHB1Z1R1cmFXcU05RDNkdXlzMDdTcnFCdjNBdk5nQUM3dWc?oc=5"
+ },
+ {
+  "id": "d8e63cedd9",
+  "datum": "2025-12-24",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Eritreeër (41) verdacht van mensensmokkel uitgeleverd aan Nederland",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Eritreeër (41) verdacht van mensensmokkel uitgeleverd aan Nederland De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDZ5R0lzNU43cGRWdHN4RFVrM1Jmbk1XV0d1SFdod29HaFJUVDc3VjNKdE1ETE1fZk84dVBpb0lPWXJHM0x3ci04N3JtQmNpRXNLOTdYTW1xblpyd0t2UmVfY0Z0b2ZuWE5DSG1PeUxkU3Y4MUJIRUpJejk5UFBkWGNOOEJJdTZYcDByZnpMUFJ6UDJ1Q1g1VlNsNW9OVDJfN0pqVF9WeWZIMHFEeExrZGx3N0pXSUk?oc=5"
  },
  {
   "id": "280ef8a397",
@@ -25292,6 +25529,25 @@
   ],
   "samenvatting": "Politie vindt in meerdere panden aan de Emrikweg in Haarlem 1.100 kg vuurwerk en 1.000 hennepplanten politie.nl",
   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYm5wbF9jZ1RNQ25fYm9ialZXek9QSDRhMGlucm5fLUFyQ0ZpRGthd3ZpTmFrQlJiUGw2aUlWQ0wyWjFMeTUyRmk2bU0xZ3RiNkdWZnlkQ2gtOVYwMzBqZEtyY1ZjUHprNTM5R1JOVlVoSnpubEdlVmJEU1NwMEhLREVOcDYtSncta2RpOXh5NHdJVFhBVG9tbVAwRHp3eFdqT0FIQzQ2aW1rcllPb3RtNm1pQTg4Q1c0X2w4VXY5VkNXTlQxc3RlMlR0U05nUnJaeTZUbl8tR0JBODZUdVhNM1JqOFNIUzdPOEFN?oc=5"
+ },
+ {
+  "id": "b050f7d9a5",
+  "datum": "2025-12-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Man (32) aangehouden op A2 voor mensensmokkel: meerdere jerrycans en rubberboot in auto gevonden",
+  "bron": "L1 Nieuws",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Man (32) aangehouden op A2 voor mensensmokkel: meerdere jerrycans en rubberboot in auto gevonden L1 Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM2RQcmgwbC1yMG1YcDZ1TVN3SDl2Xzg5c1ZVOHBWNDM4NmtYSmg4RG4wa1o5YS00N1ZkVFZiTlFtU3YxeFZadlNON0FRWjJsbXJCbUhXRGtQQzJ4cFlac2R6N1h0Xzg2Yzg3dzRUbENxczRPWUc0cTdwdzc3dWU2MWZPYkFkSVNQOHBqdWF5THNtYk1DWEswWTlCWFROczJqY0VwZVhPRl9JdVV1Z2hsbnk1dUUwbWtDcmI4bk1UVWM1Qmp5NEJ4ZQ?oc=5"
  },
  {
   "id": "1b1af23a57",
@@ -27459,6 +27715,25 @@
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUW5ucE1wZXVhc2RfRjRhWUlkY2lCQkpENnh2WGZUYURJeU5NcWRteXM0NXBlT1ZnYnpxTlk2enRTY3NJMWV1UXRVTmd5a19veXBzYngyajFZV05iR1JWMWRPZXlNc3NTaEpweVpJYXlwYkNZblNBeklWb0o2ZWJ5ZkFnYndsWmpTbXg5aVRtYW81ZXIwU1VoODMzQjU2enVnMV9hZjJR?oc=5"
  },
  {
+  "id": "4e0548f480",
+  "datum": "2025-11-03",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Verdachte van grootschalige mensensmokkel staat terecht voor Nederlandse rechtbank",
+  "bron": "nrc.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Verdachte van grootschalige mensensmokkel staat terecht voor Nederlandse rechtbank nrc.nl",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWRqenFPRXJEN19xbElmVHVjY2N4UWdqa2RtWVdKODZWMTFra1FHT1hVUm9icGxDVm1wdlhOa2FvQnpVeHI2RVFFYW90dU9WQWN0cjNlVGI0U05JWWFOckY1UXZjck0zUjZBbVVXLXdBM1lpWFNFVk9qMEJQdHhvcEZGcjBwTmFMU2M5OGkwdG5lZ0FFYUhKVnliZlgzWW5QdnoxZGF1MFIzRVkyZndpdE9lYXoyWjhkYm16bjdUUFpMenlwMnFn?oc=5"
+ },
+ {
   "id": "b8e43e8bb2",
   "datum": "2025-11-03",
   "tijd": "07:25",
@@ -27645,6 +27920,27 @@
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDUzR1BUY0V1S24yUXN1eS1tTzI3cjNPT013MllnbVN1bkNkWS1KVjRKbllUZlRzNGRnLVo4dmNJN2RkZjRRNHgweFQwdVp4WFBnQzRINV9fdDFYVmt0cG9RWm1hRFB2NFR5aWI0NzNnUTZJZldHd29nYWZNMFBjaGdCdGNxNlUtWG5sUHVRT2IyU1FkRkpGT0pyU2NqLTJnOThzUkk2amZ4R0xabXotVUpnMXFISkU?oc=5"
  },
  {
+  "id": "8e973191c8",
+  "datum": "2025-10-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Luxe sportschoolketen verdacht van mensensmokkel en valsheid in geschrifte",
+  "bron": "NH Nieuws",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "mensensmokkel",
+   "school"
+  ],
+  "samenvatting": "Luxe sportschoolketen verdacht van mensensmokkel en valsheid in geschrifte NH Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVgxaWs2aWRxUjlFczF5bko0LUZQR3VhemtITWJ1RG4zd1hLM0tUZzRZZmpHNHk4eGtzUk9hV3Y3eGNzNmlMa05EYlpBT2FDUW1RNnVwMzRvQU02NkFFVFZmV1I5clltOXVybWlpdlMwQmQ5Q3AyY0NGeXM4R3hrOHdvZUQ0UndxVkxzM2I4b0JwM0tmWVZFeDlCUHM2Wk15dGVvSGJFQ3hwYllrdjdBRDlB?oc=5"
+ },
+ {
   "id": "2549202cde",
   "datum": "2025-10-27",
   "tijd": "07:00",
@@ -27681,6 +27977,25 @@
   ],
   "samenvatting": "Dubai levert voor drugs en witwassen veroordeelde Hoofddorper Gaby H. uit aan Nederland Het Parool",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUdfWTdQcXJfY3p5NVBOR2JSOFpjUFRlb1NyaDBlS201cFAtcDZ3S0pOSV9PejY0am0tazM4dDVTam96VkdGYUNwUFU2Q0x6U21wQXFIYXNDY1VwenB1WEhQdWF0eFdrcjVHcUZnXzZMbXkzSzktYmQyNDZkQXB3b2VLazBuSnQzT18wMlhJQ1lnMERDbnlBa1otM3lOSl9lbmc4bWw2R0VKQVpPNXBjeEdRbE1OT1dBbElBN2J2NEJuOXpN?oc=5"
+ },
+ {
+  "id": "1c102d1a82",
+  "datum": "2025-10-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Justitie beperkt onderzoek luxegym Saints & Stars tot mensensmokkel: ex-schoonmakers moeten Nederland waarschijnlijk uit",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Justitie beperkt onderzoek luxegym Saints & Stars tot mensensmokkel: ex-schoonmakers moeten Nederland waarschijnlijk uit Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNlZEaXJfOVMwNmJ1TG0wV1JFZVFSaEQ5TjlxenNPaFVjWmNCa1NfZElCUkdTN2xOVVVTdnRGTUNQRGlFR0VmR3hTaDZaZmZEYlFpX3NzSE1GcXQwV21mYVpXSFVqbzZXMlBuZlhzY2RIc0NCZmd6c2IyVE5RZGJ4UURLcVFEY0RjZll6T01VT2NGMkt2N0Y4RzVpb2FzclMxa1lEcmU3MVJRUFMyckhjcTJIWEkzNXpNQ2l6X1dsdVhranhHOFdSQ3E5TnBlSW50ak9rLWliSmtkQmo5TzUtclZQVVB0czB5TmZNUDlPUHQ?oc=5"
  },
  {
   "id": "2b369e23b2",
@@ -42521,6 +42836,26 @@
   ],
   "samenvatting": "Veroordelingen en vrijspraken in wapenhandelzaak Ultegra De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeUdEMUthZkpXNFFsaHdJaTQ5cDNxd1pvRC1LSjJGTUxCMEcxYVBlZTloWjExZVFxWWJUZDcwMkNNV25aWE5wSEtOdU9oVzJmS0hoN1pKVTBERmE1Wl9ZaE5ERHRZN3hWTUdCdE9QdUpDc2RrYzZPZHNlLVdCUGhtTGNtX3VRUjRJc3hxMWxhcUVpNWc5NElIaC1UaEV1Y3JBUUoxTGE2Yl9kVVIyYlVFSHhaUFRfaHFVUi12R1hfYmNkT2ZtSWhfOFVwUURjeGJVZ3BTWU5kdmlqMDBsTDduZlkxRG1TalZ1ZEhXbjh2SFlnOUVvVU9nRmxJSXJoQlhZ?oc=5"
+ },
+ {
+  "id": "c5fa98f5d5",
+  "datum": "2021-07-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Mestfraude: de vergeten bijdrage aan de stikstofcrisis",
+  "bron": "ftm.nl",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Mestfraude: de vergeten bijdrage aan de stikstofcrisis ftm.nl",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydW5VT3VBX1l1MjVnLThTNWliTXI3U1piRVU0Tm15OWxkVk5zVkdWRzBaWWxQbXk0ajhacDlMQzJtSEpMaUV5a0JFODFwZnpYWU5pbF9hYmNQV3ZsX3lDVEl5M1Z5dElnOXc?oc=5"
  },
  {
   "id": "2a0f37ad7e",
