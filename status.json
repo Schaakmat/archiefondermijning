@@ -1,12 +1,12 @@
 {
- "run": "19:27",
+ "run": "20:30",
  "datum": "2026-09-03",
- "nieuw": 24,
- "totaal": 2551,
- "verwijderd": 21,
+ "nieuw": 29,
+ "totaal": 2560,
+ "verwijderd": 20,
  "geweigerd": {
-  "niet-nederlands": 1027,
-  "geen dossier": 469
+  "niet-nederlands": 1017,
+  "geen dossier": 464
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 88,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -140,8 +140,8 @@
    "url": "news.google.com/rss/search?q=trustkantoor%20witwassen%20OR%20katvanger%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 25,
-   "status": "bij",
+   "items": 26,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 34,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 137,
-   "status": "bij",
+   "items": 139,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -249,7 +249,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 76,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -284,8 +284,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 33,
-   "status": "bij",
+   "items": 34,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 127,
-   "status": "bij",
+   "items": 129,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 26,
-   "status": "4 nieuw",
+   "items": 27,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 51,
-   "status": "8 nieuw",
+   "items": 52,
+   "status": "9 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 73,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -572,8 +572,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 31,
-   "status": "bij",
+   "items": 32,
+   "status": "1 nieuw",
    "ok": true
   }
  ]

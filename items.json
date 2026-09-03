@@ -1,5 +1,64 @@
 [
  {
+  "id": "58004e2295",
+  "datum": "2026-09-03",
+  "tijd": "21:58",
+  "nieuw": true,
+  "titel": "Ontmoetingsplek voor daklozen in Nijmegen sluit na overlast: 'Kan zo niet verder'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "burgemeester",
+   "ondernemers"
+  ],
+  "samenvatting": "De openbare ontmoetingsplek voor dak- en thuislozen in Nijmegen is op last van de gemeente vanwege aanhoudende overlast permanent gesloten. De locatie werd begin dit jaar als proef geopend en leek in eerste instantie een succes. De ontmoetingsplek zit naast een opvanglocatie voor verslaafde dak- en thuislozen. De gemee",
+  "link": "https://nos.nl/l/2629574"
+ },
+ {
+  "id": "d46abcc4e8",
+  "datum": "2026-09-03",
+  "tijd": "21:47",
+  "nieuw": true,
+  "titel": "Nederlander wint Ig Nobelprijs voor duizenden begraven onderbroeken",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "Met zijn onderzoek naar duizenden begraven onderbroeken heeft een Nederlandse wetenschapper een Ig Nobelprijs gewonnen. Het doel was om meer inzicht te krijgen in de activiteit van allerlei organismen in de grond. Ieder jaar worden deze Ig Nobelprijzen uitgereikt aan wetenschappers die met hun onderzoeken mensen aan he",
+  "link": "https://nos.nl/l/2629573"
+ },
+ {
+  "id": "6384573088",
+  "datum": "2026-09-03",
+  "tijd": "19:37",
+  "nieuw": true,
+  "titel": "Lange achtervolging op de A2: politiehelikopter en speciaal team ingezet",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Een auto is donderdagavond door meerdere politieauto's en een politiehelikopter achtervolgd op de A2. De achtervolging ging door een groot deel van het oosten van Brabant. Ook wagens van de Dienst Speciale Interventie (DSI) werden ingezet. Dat is een speciaal politieteam voor arrestaties van bijvoorbeeld vuurwapengevaa",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025901/lange-achtervolging-op-de-a2-politiehelikopter-en-speciaal-team-ingezet"
+ },
+ {
   "id": "014dd53185",
   "datum": "2026-09-03",
   "tijd": "19:35",
@@ -521,7 +580,7 @@
   "id": "503433414a",
   "datum": "2026-09-03",
   "tijd": "15:24",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Huis burgemeester Heumen beveiligd met politiecamera's",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -540,7 +599,7 @@
   "id": "77e5934bc7",
   "datum": "2026-09-03",
   "tijd": "15:24",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Huis burgemeester Heumen beveiligd met politiecamera's: 'Er wordt voor mij gezorgd'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -1160,28 +1219,6 @@
   ],
   "samenvatting": "Een auto is donderdagochtend op een vrachtwagen gebotst op de A16 bij Prinsenbeek. De auto raakte door de klap aan de voorkant beschadigd. De vrachtwagenchauffeur reed na de aanrijding door. Mogelijk heeft de chauffeur de botsing niet gemerkt. De bestuurster van de auto is nagekeken door ambulancepersoneel, zij raakte ",
   "link": "https://www.omroepbrabant.nl/nieuws/6025730/auto-botst-op-vrachtwagen-op-a16-vrachtwagenchauffeur-rijdt-door"
- },
- {
-  "id": "ddd24faec4",
-  "datum": "2026-09-03",
-  "tijd": "06:46",
-  "nieuw": false,
-  "titel": "Wekdienst 3/9: Gemeente bepaalt of huis Overasselt dichtgaat • Debat Spanje over Ceuta",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "doodgeschoten",
-   "geweld",
-   "jongeren"
-  ],
-  "samenvatting": "Goedemorgen! De Spaanse premier Sánchez moet zich verantwoorden over de migratiecrisis in Ceuta en de gemeente Heumen maakt bekend of het beschoten huis in Overasselt wordt gesloten. Eerst het weer: de dag begint met veel bewolking en soms regen. Later breekt vanuit het westen op meer plaatsen de zon door. Het wordt 22",
-  "link": "https://nos.nl/l/2629447"
  },
  {
   "id": "da4bd0adb1",
@@ -5714,6 +5751,25 @@
   ],
   "samenvatting": "Het Teesinkbos moet tijdens de Military Boekelo dicht om te voorkomen dat dieren worden vertrapt of verstoord. Dat eiste stichting Natuuralert in een rechtszaak. De organisatie van het paardensportevenement zegt dat alle voorzorgsmaatregelen zijn genomen.",
   "link": "https://www.oost.nl/nieuws/3688997/kleine-muis-kan-groot-probleem-worden-natuuralert-sleept-military-voor-rechter"
+ },
+ {
+  "id": "2448c2506c",
+  "datum": "2026-08-27",
+  "tijd": "14:41",
+  "nieuw": false,
+  "titel": "Trustkantoor moet op billen en blaren zitten",
+  "bron": "Accountancy Vanmorgen ·",
+  "verzameld_via": "Nieuws — Trustkantoren & rechtspersonen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "trustkantoor"
+  ],
+  "samenvatting": "Trustkantoor moet op billen en blaren zitten Accountancy Vanmorgen ·",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3VwQzRuRVNqcXN4dlVhTlpKQVhTUEhqa3pPQW11UU1VQTR3R0hOU1hGUy16U2lYUEFWbjdxWUpWV3M0cWh6TVo0aTUzZFBYRjFnZFMzT185TUxjQ0xOTHJHdGxCVkI4ay0yTnpSQlhRNFFtT0oyWmppd3ZrTDhob1c2d0dwUmZJODJYY1hEUTQ1UnVWa0VJ?oc=5"
  },
  {
   "id": "29a8467077",
@@ -12725,6 +12781,25 @@
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzR0Z1owUFJrdFN5cjE5QXBQZmZRUnVGRzA4Q1B1TFJVbmExdzZZR1JPRXhkWU5tNExTbHUyRVVuU3ZXQlc2aHgxM01wLVhvZzBTQTVNaGV0clduek1ieHVnNE5TZkFjNWZkV011U3J6c3BRTEZRTUZ0a1ZtbDY5X1M4SjhSWlZ3RzVjd1E1SE42Zw?oc=5"
  },
  {
+  "id": "418bcf00c1",
+  "datum": "2026-07-16",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zes vrouwen dienen klacht in wegens verkrachting en mensenhandel tegen Gérald Marie, voormalig topman modellenagentschap",
+  "bron": "De Morgen",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Zes vrouwen dienen klacht in wegens verkrachting en mensenhandel tegen Gérald Marie, voormalig topman modellenagentschap De Morgen",
+  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbUYxUTU3aGNXR0RSd0lJQWNpSTdGdmdTOTZ1c3ExSHBaX0RvdkV3QlNQWUVVNE83WFotWUVucF9GVUxIcHM1cGlnM2lqenJ2a2liYnNSbmpES3Q5c3hTQWFuYkR4VHJsOUxNMUpRNldDX2NFRHFrWUF6SzM2dnRMa1hKcTZBTUFOb2ZfQVhLdVYzaW15bTFnNTI1QklZMkxTUzFoZW5IY184eEhzM0hPdHUtS2Y4Y09VZ1hFQzB6bnZmVGhqNENfREltQXpuOG1lU0xwangyWG1KWFl5TkplUlFuYUdCWklYTE9zWDNTcTRqMmNPZDA0?oc=5"
+ },
+ {
   "id": "80932c035d",
   "datum": "2026-07-15",
   "tijd": "07:00",
@@ -18204,6 +18279,25 @@
   ],
   "samenvatting": "Ruim duizend liter drugsafval in vaten gedumpt in bos bij Soest De Gooi- en Eemlander",
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTkdCakplNjlzc2JNRm9fQmtRNi1QUkZSVFhYelp6M0Q2SW5zcld6OE01dU1DODNVOEVIYXBBWFRXSTg2OENaTnRjN3VyWW90UkNfeXdkUE5qM05XYnJxeHdnclJaRVlkaE1hX0JSMFJoaHpTa0p1Q2RqT3M2Z0JWUG0xUkFETHp5ZFZMN2xTeXMxY0RpRTI1UzV0b3lQOG05UU1YZlVXNlBBczFSM1Ftby1GU1hodUQ5OTVPdUQ3RVlzNGp6S0lENWFHQQ?oc=5"
+ },
+ {
+  "id": "5db2fd6467",
+  "datum": "2026-05-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Meisje moest vanaf haar 13de dagenlang werken op markten, ouders uit regio Den Bosch opgepakt voor mensenhandel",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Meisje moest vanaf haar 13de dagenlang werken op markten, ouders uit regio Den Bosch opgepakt voor mensenhandel Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM0d2c3ZjOUNlMW40aTl4Vm5iNDB6cEZQeE5uaTJHUWdQbXhnbjB0MS1sakVhcElLemRHZWpGbWNhYnE1VGhpa1p1ODJQNnplelkwVVF6dkJucEFERkFvWUxwMnctTDhnMzMtRXBwNi00ZnBlM3MzSWZSYkdlNjg1TkN2TFlidDVfR24yWFdXLVcwMUxWaU51XzZZcDF6aDBod09zNkxsVXA3RnJQTU9IVTdaemg0enNMWThoN2pZNkZvQlNhNk93RHF6Y3BtSGdoVHpkRkJjaEVCcmMteHlmeEV3?oc=5"
  },
  {
   "id": "f2c00ba0df",
@@ -30575,6 +30669,27 @@
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUViTUlqamljdkcxc1l4OVpHU2ZVWnJWRGR6ZTFlU1RpME80bUw4VFpONDE3dFp5X3NfQnYtcWdkXzh6b3NqMUVfenA1ekFpS0JwVTk1VmpWajMzbURRSDVFN1JCSXh1cFJ4dnE1R25Ya0J0ajVPRnBMSWtDZ01KS0pIM3Q3TnZDX1IyaHFwdml3Y054UTcya1BvUlhPeWdjNk1IUlBBWml5eHZoN2l5WWExSDduRkl4Vk1pUw?oc=5"
  },
  {
+  "id": "0a8fe4166e",
+  "datum": "2025-09-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gemeenteraadsleden gewaarschuwd voor risico’s van ondermijning",
+  "bron": "Weekblad De Brug",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "ondermijning"
+  ],
+  "samenvatting": "Gemeenteraadsleden gewaarschuwd voor risico’s van ondermijning Weekblad De Brug",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcjdFTnpYaUtSSFNzSnNCRE41enVXeFhXczZNLW44NTNtTTdybVhuTWVzZGtjbklVcXVLY3cxN21mQXN0YXFBXzZ5cjNvMjJEaTExWGlNY1NzZnViamhpZkZfcFppdlR1VUtmR0ROWHNfVXJkd1lQeTJOeWdkNVMzbEJJMGt1ZGFkem9QMnY5b2EtNVhNcnVkQ0lvN196VUtXRTMxSGx4MS1XOUdKazRZRQ?oc=5"
+ },
+ {
   "id": "53253472c6",
   "datum": "2025-09-17",
   "tijd": "07:00",
@@ -42570,6 +42685,25 @@
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZF9UWF96d2pMZDRZcUdqQlRWYmcya1g4Y3R0c2plUlZPclhpOERoc29mV0d3bXh0LWszVHA4b1QwMWM3WE43QlNfbGtnUExGVmxhMGVLbTZwbHdhUE1MQ0FQR1BsVUMxSnRkMEFwQVRNc1d5dFVwTS0wa3JrM3hLc0VEUXk4TV9SMUZpNVpaVThNZ1A3ckZnQk8yYlRZQXJ3d29BNjFHMlNVamZYVXJxX0ZuNlhaUQ?oc=5"
  },
  {
+  "id": "d022ab7099",
+  "datum": "2022-11-23",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Opinie | Strafbaarstelling ecocide moet meer zijn dan symboliek - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Milieucriminaliteit & afval",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "Opinie | Strafbaarstelling ecocide moet meer zijn dan symboliek NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNlpkYmdzZDJoUHhUSThHRWJGT2lEbXd1aVFZMGZMY29Xa015ejE1eVdFcElYa1lyRWd1c0g3X2xOREVVZVQ5elpXQ3ZDNzFoOGtqMVFvNGU4YldEQkE5Mkg0RlFwNTNJNHVhMUpzUWY4ZlFELUh3UHE2dE1YUXdsQnRRWU1Fd0FoTVVvYW1mZkVhVGpXeXZsd1Z0VVplMnlDaXc?oc=5"
+ },
+ {
   "id": "3490e1e12d",
   "datum": "2022-11-15",
   "tijd": "08:00",
@@ -45590,6 +45724,27 @@
   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOU3RBSG9tMHBKT0N5Nmt6ejJPTFhuOTFOQW5QZ0ZCMTFXbU9mMFNCQzdWQThTQ0lmcG1GZTBYTXplMmgtbUR3dEtqS192MENZbXJWNl9DYTU2c1R2OHF1bUdnR0NoQ1lEN0NGV0diaDhWUURlcjdtLU5UTnJ2X2xLYUNQQ3UwRTNEQ1pySml1Rkd3TXRrNUJpM25UdDV3ZUpHaTBBSUNkMEx5bUVlRVIteFJDaEpCaWNYZlkwbm1lSE9WVXdNeU5DUnBxbFZVSkRYTlJVNHVmVEFsM2E4XzNncERFSHduVUMxOWJNalhSbjBweHQ5RGtRTXdVbHdJdG85YU5TRWw3ay1FQnJJdDhJbkNmMnl6UQ?oc=5"
  },
  {
+  "id": "5c64a0c075",
+  "datum": "2021-02-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Internationaal onderzoek naar mestfraude in België en Nederland - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Milieucriminaliteit & afval",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Internationaal onderzoek naar mestfraude in België en Nederland NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVdGbDFGTDRjQTRGTWVrWFFKWGlyQUFqOGdjWWtEcVN5NmJ5MkkzZW5zLU9UNEhHbjl4M3U5MDcwbEJNZjNuaDJ4Z3M3Y3dtS1BDUmlxa1gydXdIamdXeGxtaXVKcXdibHFCTGM4cXlKUmplRWtGTklpR3czNzZnNU9PdWc4UmpEblZhaHNJb0pKN21jODN0RjdNUnZjUGh0aThjcGlQSV9JcDNMNGc?oc=5"
+ },
+ {
   "id": "b895e53c3b",
   "datum": "2021-02-04",
   "tijd": "08:00",
@@ -45665,6 +45820,26 @@
   ],
   "samenvatting": "CPI 2020: Nederland staat stil in de strijd tegen corruptie Transparency International Nederland",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHlidS1IMUVibEFhODl0aHFyeEp5ak5UZ3pNOTZIM0FURlVnR1lHS0xOYzNjelR1dGFsUE1WbFZCYkxfcmp4TGQ2SjdTbzJVeGxWRWJtdXFfRlhaTm5hQVVDMWRzZHRUNUN0bEtmOGx0Q3Vac1JDRGVVelhQT0FTc1RONTVWWnZURWRURTQ5THdLZFA5cVoyeHlDSU1VN0E3SWw1Vw?oc=5"
+ },
+ {
+  "id": "a82563da7f",
+  "datum": "2021-01-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Samsung-baas Lee Jae-jung voor 2,5 jaar de cel in wegens omkoping en corruptie",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie",
+   "omkoping"
+  ],
+  "samenvatting": "Samsung-baas Lee Jae-jung voor 2,5 jaar de cel in wegens omkoping en corruptie de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcUJlQjRNcnNDX0R6WGhpU1FQOWlISDhlbkRRNEtObDBPc3h0eFk5MTVRVThnMmRwNEdjVjRicTFkQzkxUE1KMFd0YkVwZDJYd3JaTE9PQi1QZFFMMnNCcXM0eS05VzJGdVVZMmY0cnhkRXRnQ0pnUFZUeWZJa3d2d1RiUVBJMHlVaGVQc3FZS2F0T2JGTF9BMGN2eTRfLW9CTl9hX0xYSUNIV1VHVVlUNjc1TjBRdm4zRlJTc0V4dmlJLTYyb25oYVNlQ1U0Zw?oc=5"
  },
  {
   "id": "39abbe68c7",
