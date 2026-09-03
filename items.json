@@ -1,5 +1,24 @@
 [
  {
+  "id": "32cafbb6d2",
+  "datum": "2026-09-03",
+  "tijd": "10:54",
+  "nieuw": true,
+  "titel": "Flevoland - Onderzoekers slaan alarm over chemische vervuiling van Flevolands zwemwater",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "Flevolandse zwemwateren zijn verontreinigd met chemische stoffen, maar zwemmers worden daar niet voor gewaarschuwd. Dat melden Natuur & Milieu en het Nederlands Instituut voor Ecologie (NIOO). Zij onderzochten de chemische vervuiling van zwemwater in Nederland. De vervuiling komt volgens de onderzoekers in het hele lan",
+  "link": "https://www.omroepflevoland.nl/nieuws/522407/onderzoekers-slaan-alarm-over-chemische-vervuiling-van-flevolands-zwemwater"
+ },
+ {
   "id": "f7c0e8e9c3",
   "datum": "2026-09-03",
   "tijd": "10:30",
@@ -30,23 +49,40 @@
   "regio": "Landelijk",
   "dossiers": [
    "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Drugsproductie & labs",
    "Geweld, liquidaties & bedreiging",
    "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Vastgoed & huisvesting"
   ],
   "tags": [
-   "boerderij",
    "burgemeester",
    "doodgeschoten",
-   "drugslab",
-   "geweld",
-   "grond"
+   "grond",
+   "pand",
+   "woning"
   ],
   "samenvatting": "De woning in Overasselt waar deze week een 51-jarige beveiliger werd doodgeschoten, wordt per direct voor een jaar gesloten. Dat heeft de burgemeester van de gemeente Heumen bepaald. Ook mag een van de bewoners van het pand twee weken lang niet op het grondgebied van de gemeente komen. De gemeente wil niet zeggen om we",
   "link": "https://nos.nl/l/2629465"
+ },
+ {
+  "id": "8953c011d0",
+  "datum": "2026-09-03",
+  "tijd": "09:09",
+  "nieuw": true,
+  "titel": "Ontmoetingsplek voor dak- en thuislozen sluit: 'Het is uit de hand gelopen'",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "burgemeester",
+   "haven"
+  ],
+  "samenvatting": "De ontmoetingsplek voor dak- en thuislozen aan de Van Schevichavenstraat in Nijmegen is permanent gesloten. De plek is een pilot om overlast te verminderen, maar de gemeente stopt er na acht maanden mee. Na de Nijmeegse Vierdaagse nam de overlast rond de plek steeds verder toe, terwijl het in de eerste maanden nog goed",
+  "link": "https://www.gld.nl/nieuws/8517412/ontmoetingsplek-voor-dak-en-thuislozen-sluit-het-is-uit-de-hand-gelopen"
  },
  {
   "id": "dda5a7aec7",
@@ -66,6 +102,66 @@
   ],
   "samenvatting": "Groningen trekt jaarlijks 300.000 euro uit voor aan voor aanpak mensenhandel Groninger Internet Courant",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGMwc0VuVmtVU0ZRcVlMbS1yV2lDR3Z5WW9iazlKVGtUZ1p4V2otZXMtWnFyMnM0V2lUVURkYy1jQzJwVVZBWGF5el9jbjhtR1dSWnVJTGh4OUE2SnpsZGtxSmtsUy1DSHExNkZfT0dQbTJRN1hVaXRaRmYyVnJYNnliV3RUN1dHZ2ZwZTRwSUdKWGxDUnhMcEhQVnpSYmNUZDB0SQ?oc=5"
+ },
+ {
+  "id": "e00d0022e3",
+  "datum": "2026-09-03",
+  "tijd": "08:19",
+  "nieuw": true,
+  "titel": "Half uur vertraging op A67 door vrachtwagen met pech",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Een gestrande vrachtwagen heeft dinsdag een file van een half uur veroorzaakt op de A67 voor Geldrop in de richting van Eindhoven. De vrachtwagen houdt de rechterrijstrook bezet. Volgens de melding kampt de vrachtwagen met zogeheten 'luchtproblemen', dan is er sprake van problemen met het persluchtsysteem. Daardoor bes",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025797/half-uur-vertraging-op-a67-door-vrachtwagen-met-pech"
+ },
+ {
+  "id": "ebdccd735d",
+  "datum": "2026-09-03",
+  "tijd": "07:42",
+  "nieuw": true,
+  "titel": "Woning Jan G. in Overasselt voor een jaar op slot",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "Burgemeester Joerie Minses van de gemeente Heumen heeft besloten het pand aan de Ewijkseweg in Overasselt met onmiddellijke ingang voor de duur van één jaar te sluiten. De sluiting wordt op dit moment verricht.",
+  "link": "https://www.gld.nl/nieuws/8517564/woning-jan-g-in-overasselt-voor-een-jaar-op-slot"
+ },
+ {
+  "id": "5d6db0f3c9",
+  "datum": "2026-09-03",
+  "tijd": "07:18",
+  "nieuw": true,
+  "titel": "Auto botst op vrachtwagen op A16, vrachtwagenchauffeur rijdt door",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Een auto is donderdagochtend op een vrachtwagen gebotst op de A16 bij Prinsenbeek. De auto raakte door de klap aan de voorkant beschadigd. De vrachtwagenchauffeur reed na de aanrijding door. Mogelijk heeft de chauffeur de botsing niet gemerkt. De bestuurster van de auto is nagekeken door ambulancepersoneel, zij raakte ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025730/auto-botst-op-vrachtwagen-op-a16-vrachtwagenchauffeur-rijdt-door"
  },
  {
   "id": "ddd24faec4",
@@ -515,7 +611,7 @@
   "id": "ae8ca8ddf8",
   "datum": "2026-09-02",
   "tijd": "19:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Heemskerk gaat de strijd aan met mensenhandel. Maar politiek nog niet tevreden met beleidsplan: ’We vinden dit te mager’",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -534,7 +630,7 @@
   "id": "b60b7a10df",
   "datum": "2026-09-02",
   "tijd": "18:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Nieuwsoverzicht 02/09 | 'Ongeluk onder invloed van cocaïne' • Nieuw onderzoek Burcht van Kuinre",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -553,7 +649,7 @@
   "id": "bde5aac1e5",
   "datum": "2026-09-02",
   "tijd": "18:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte (27) van schietpartij Schoonhoven weet niets van betrokkenheid Iran",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -652,28 +748,6 @@
   ],
   "samenvatting": "Wie is Jan G., de Nederlandse drugshandelaar die in zijn onderbroek moest vluchten voor een liquidatie? “Als hij ergens binnenkomt, ga je weg” HBVL",
   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQNHJKdkltbXp2MmFpakh4WTRtV0x2eXp0SjRvWVprMVZHd0Jua3dNbjNPQVlscUNIZE5WWG51NEdZU1loQXdObVJFOHRDQ0tFd1FjVXlnYzlRNzJ5Q0MyZGlnZnZla1Y4UlV2bGd2dU44emkxbll5REhmZU1RbHZKV3luYVZ2bXpyMFMxTmt5RjdxUVF3YWJKV3A0S2dRS0ZuU3l3LUhQbGN1clBZWXh4WXEzYTJoQ0RvNkUwZXdyOVFMTWp5dXV0ekZWQ1Q0UmNHQ1Rhdlo1U245aXB2NVl3MDhPSDVqWG5XZzk4dkc3NzNDTVJFa05PSVhQSGpIMUZlX09pamhUUDNoYXlFcnBVZW9zWUZaRjQ?oc=5"
- },
- {
-  "id": "42d505b5ba",
-  "datum": "2026-09-02",
-  "tijd": "16:31",
-  "nieuw": false,
-  "titel": "Luttelgeest - Archeologen vol spanning bij hernieuwde opgraving Burcht van Kuinre",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "erf",
-   "stal",
-   "woning"
-  ],
-  "samenvatting": "Archeologen doen een week lang onderzoek naar restanten van de Burcht van Kuinre in de Noordoostpolder. De burcht kwam in 1942 tevoorschijn na de drooglegging van de polder. Een jaar later deed archeoloog Pieter Jan Modderman uitgebreid archeologisch onderzoek en werden onder meer funderingen, waterputten, aardewerk en",
-  "link": "https://www.omroepflevoland.nl/nieuws/522336/archeologen-vol-spanning-bij-hernieuwde-opgraving-burcht-van-kuinre"
  },
  {
   "id": "6b80fb0b85",
@@ -911,6 +985,27 @@
   ],
   "samenvatting": "Tientallen mogelijk met drugsafval gevulde jerrycans gedumpt bij eindpunt tram 26 oost-online.amsterdam",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVdINXJrNnZhRWtpVzFySTFmb0RGVUlWVkx4QWx4NnFJSC1VWUtlNS02M0Z1bWprVFRVTjF4UF9ZOFlvQUFVemJFWDZlRGRjOUk2RjdpXzl5UmJZdTlnY0ZTdmctbG1GdHQ3T09JODlwWlphdkRoaXFKMDByV1JWcE9IdmRoZDJVRTBYVkxFdnIwN25IRHF3dXpNZmFnekdnZER3OFZtWHg?oc=5"
+ },
+ {
+  "id": "8dd7a3ec74",
+  "datum": "2026-09-02",
+  "tijd": "14:18",
+  "nieuw": false,
+  "titel": "Bewustwordingsactie tegen ondermijning in het buitengebied",
+  "bron": "Gemeente Hellendoorn",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "buitengebied",
+   "ondermijning"
+  ],
+  "samenvatting": "Bewustwordingsactie tegen ondermijning in het buitengebied Gemeente Hellendoorn",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTBYOFFiT1JKTS1BMWZwV2tDV0JhTF9iNXBNbUloSk9BQ0hvaEF2M0VfRlBZVGlBS3JtZm5weG9uTVR4elc2RUkwVHN1MXVzNmM4QzV1QUpqa3FwY3JxeXowejZTQ3RjNGhGYXdkSEVRTVhtUUpzSmZ4YmRWMGZGYkdqd21UU1doakpLclVaQmpIWXpzdmxaZFln?oc=5"
  },
  {
   "id": "a197ee142a",
@@ -2875,25 +2970,6 @@
   ],
   "samenvatting": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWW5tM2JvcmpRdzZGNnNxTGV0SWRVWUNYd1lVYXlIaV9pTUkyMFhDTmRJQ21tQ296OE4yRGFLQjhrWG5UZHYxWmhaY0ZZN0h4dzdwRTNuOF9YRy1mNHJ0a2xPdnhWemhCVnZlMnFiOEJyd3puQkxYc204bHYzTnpkUXZMTmFUVTZVa0FzVVlWTnlCOXF2cGNSbnRYOXJPaDUxYmRKTXBlOW9Zenp6Z21ySHd1NmU2RTBtWDd2b19jLWtVdWR3QkdFOTg1Z3g?oc=5"
- },
- {
-  "id": "d4703b5290",
-  "datum": "2026-08-31",
-  "tijd": "08:04",
-  "nieuw": false,
-  "titel": "Veel vacatures voor boa's in onze regio: meldingen blijven langer liggen en controles gaan niet door",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "wapen"
-  ],
-  "samenvatting": "Minder toezicht op straat, controles die niet doorgaan en meldingen die langer blijven liggen. In meerdere gemeenten in de regio heeft een tekort aan boa’s direct gevolgen voor de handhaving. Ook als het gaat om bescherming van de boa’s worden er door gemeenten verschillende keuzes gemaakt: van geen bodycam tot een pro",
-  "link": "https://www.rijnmond.nl/nieuws/2245867/veel-vacatures-voor-boas-in-onze-regio-meldingen-blijven-langer-liggen-en-controles-gaan-niet-door"
  },
  {
   "id": "ac8c22e9c9",
@@ -10837,6 +10913,25 @@
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1ExSHotMjA1OFhBNG5MQXJiX19MZGliY3QxNG5jTUdOQ1lkQnREeWpwbnBPaHNSY0dKQUIwelRfazd4THAyS1VrUExaSXp6LTVzTk9NQ3hzVl83RzFaNU9mS2dYMEVNUjNmYkQzUk9mZGhZOTNEN2ZhdjJ3TjN2NnNRSGEzTmF1bHpWbzlxQVJnVkVE?oc=5"
  },
  {
+  "id": "640e284bee",
+  "datum": "2026-07-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Amerikaanse justitie jaagt op $25 miljoen aan crypto na wereldwijde fraude",
+  "bron": "Newsbit",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "crypto"
+  ],
+  "samenvatting": "Amerikaanse justitie jaagt op $25 miljoen aan crypto na wereldwijde fraude Newsbit",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWEp3ZDlMbk1TTmlDVThCckMyaTFTLUw4TmZjX3JidVJya2lHazBqREhoWE1ReDI0UzhaaFZpWTIyZWZWckVvUVJQdVRfWDk1V1RjSE10TFVhMzk2Tzdlc0swNll4Q1g2YlZYSWtuaUlDXzUwVTR6RjVEWV9EVzB2NC1MNkY3UEh1bWR4OU1RdWcwNEJ5LS1GTVU1V1FzQ2VoZ0FWdUZIU2htT1E?oc=5"
+ },
+ {
   "id": "63ba123f4f",
   "datum": "2026-07-23",
   "tijd": "11:48",
@@ -11304,6 +11399,25 @@
   ],
   "samenvatting": "Vergoeding opruimen drugsafval Centrum voor Criminaliteitspreventie en Veiligheid",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFVsalpaM0ZIM3NCenFBcUxDekZsel9YMXpiVFlhS2YzRzF2czZCazc0S1o5TnhLVjJDLW5abl9vbDVtQl9rcl9sNzVmUVlnQm1mZUt0VUFLZE5Bc0QyQzM0emlxakRfUEl1YTVyWnZlUlEtSzI1ZHd4MWxkVWVwUnVmbi1abDRuSVo2VHpKT2FuOVhENV80ZzlDVkVGeDE3Ry0xY1BuS29vUUx2d1dVN3VB?oc=5"
+ },
+ {
+  "id": "463d9cf2fe",
+  "datum": "2026-07-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "‘Hinderlijke geur’ leidt naar overleden persoon en wietplantage in woning Benesserlaan Uitgeest",
+  "bron": "rodi.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "‘Hinderlijke geur’ leidt naar overleden persoon en wietplantage in woning Benesserlaan Uitgeest rodi.nl",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS0ZDUUhtZ0xpMlFzVXJkdTB4UV9JVHgzS1lMZzRreFJFd01meDk0WW9Nam9pa3NRb2FTTDIwTFZ0d0k5R28tTENiU09mUVBNQVBxalBzOVVnRWMzbGV3dE1kNnc3N3RwYW90dDBmcDVJanB5R091QmVHRkJ4aDBETDdyVGtxYWFaLUl2aUVlMEgwQjdhVW9RSHV0Q0hJWFdmV0s3a3BMSHVGRl9aeUpzazZGYmxlSl8tOHBvbmJrYnF5dEhFOHd2djhjWU5jWWZXS3F5SVFSaEU5bU5IclN1cnNB?oc=5"
  },
  {
   "id": "c3caff8fee",
@@ -14411,6 +14525,25 @@
   ],
   "samenvatting": "Aanhouding en inbeslagname bij vondst hennepkwekerij in Cruquius Politie.nl",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2dLT0xwSm1jOTNrWEY2djczdjNMb3JlWTNiTzJrNGtCU1VLelZiUC1kSGNjcFdrQ19QRTFiYXNLOWw5OXFKV01qY1N5WTlJei1NdjhtRk9VUFN3ZEVIZ001WHIxTWxCQ3dkM2dranpwWGxWYm5zMXVBQldJeDFaU0wyNnlneHR6bml0LWhzYVI2Yjh0ajRZOV94OU9NMktMZTFSaUI4b281MHVCcFRvX3JkbDVhZw?oc=5"
+ },
+ {
+  "id": "6ac9a7d866",
+  "datum": "2026-06-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij ontdekt op zolder van woning in Waalre",
+  "bron": "ed.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij ontdekt op zolder van woning in Waalre ed.nl",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXQxX0tYLWRIWFBLQjFfNTNyUzZUUUNJT2xMV0E1c2JvVkR1Sk5xV1NDSjBDbkRRS3hDSWlXSjlaRHlLZy1SV2R4U0pNQk05TjhSRDBUdTBOVWd2WHpxSmNzMlVneHNSV0gwR2p1V1lKVUNPdHhINUVRVk1YOFRKLV9uTGVZUE1pZnEzekV3bjB1Wld2Z2NoMUU0b3ctMS1m?oc=5"
  },
  {
   "id": "df798bed53",
@@ -20292,6 +20425,25 @@
   ],
   "samenvatting": "Vier mannen uit Brabant aangehouden na vondst drugslab in Zeeland De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDZ4QzBZYlFhQThocUY0YlhDNGNPRzNpaVpia0RpTGtvLW5uZTB4TGF2VEg0cDZMakdoZllzZEpHX3M3QkNMVElUeDJFc1NZd0pDWDI1OFFlNXNBSE1fWUVrc1AxOFNYbmhUMjBvN2ZFMmZiejBhU1p3THNpUGlSV2ZsekY1NDh6eEYwSXhJWHZBWEw1a2RnR29NYkZJb1Z1WFV1TUNxWjhsMmt5Wml1QXdNdw?oc=5"
+ },
+ {
+  "id": "b544a5c877",
+  "datum": "2026-04-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Onderzoeksjournalist Kees van der Spek komt naar Vijfheerenlanden voor een interactieve avond over ondermijning",
+  "bron": "Het Kontakt",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Onderzoeksjournalist Kees van der Spek komt naar Vijfheerenlanden voor een interactieve avond over ondermijning Het Kontakt",
+  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMmUtSWN0eHQtc0JmZEJMZWM3VDl5bXZpWEdDM3JBSkwzcjNXSjdhX1FQNmNEWFkzMXN0VE9zZEExOXpHbFFtSXhHMTBRZGpkcHBXMFY4eWd4NFNSWk0xd3N1bk9TZnpuSVg2UU1QMDlRU2ZzQ1FXRXdlblM4RERGQ0lpck9GWXhmemEyY2hsMlk3TUdyVmtnUzNlNndRR0ItVE9TNFJvM1V2R0EtWTRydnk0SmV3Z2Ria2p2Y245VjNWR1lETjNndHBXRlkxaUNMYjZBTG9wQVM4bGZGUWV0VkFfZTUzcWNTMGdQaHpYSnFWMXF6b0F2Y0ZUSVA?oc=5"
  },
  {
   "id": "44a801fc70",
@@ -34075,6 +34227,25 @@
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUmJPNVQySUFuUm5uUml1M3RNQVprdTZlWTZYb0s3Z21FYk50NHFSU0VXcXpVZXVjUjYzRWxNYi1BcjNfY0tHX0NJSmJmemp0bzJhSzRGek8tT01BalpMNVI4ajRSR2ZtMWtXZFVReENWQnFFdTkzRHlZbi1VQ3V4d29VQkc2OEtOVm5zQUVyV2gzcEhQWEd0T0p6Q3A3TFVLT1VKUTVwakNNZUpTR2kwaXF2UlZ6VW1pS1J3?oc=5"
  },
  {
+  "id": "630f28bab7",
+  "datum": "2024-07-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Mislukte aanslag met handgranaat in Spijkenisse: explosie veroorzaakt schade",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Mislukte aanslag met handgranaat in Spijkenisse: explosie veroorzaakt schade Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmFQX0VGWnJOXzUzb2MzazF1WWtMOGJvV1FxeG1qWDV3RXMzNWtycHk1eTJfNlJuamlXNGJQVnVCLXl1cUVZV0JXTjdPV0swWkJTLWtvMS1BTnhWMlpaV1FLTGYtb0V1ak9sZGNCNWQwcVl2ck55ZGpabHBtTVp6QTFwSzF4cC1yZ0FWaHpNS1R2Ukp1aDVOYWpYWVYzRzRvTmhiMjVJNllMbHF2WU9WcUFranpFRGUyQTg2MFZfT0Z2dw?oc=5"
+ },
+ {
   "id": "2f2a03b0ca",
   "datum": "2024-07-13",
   "tijd": "07:00",
@@ -43382,6 +43553,25 @@
   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcEdjZDhaQXJERGw4OV9keFRmS1RqSzRKNDl2ZWFFdXFUdWJRMWdOM2UtWmpLR2ZMNXFnRFZYaTJrZzdENE9Idk1lQlFEYy1qNnlNb1ViLS1ZdDV5elY4dmJRYVJfRlVTNTA0bGRnc0hReUQyQk9RY1pGek93WEd4ZmQ5TndUU1gwcXJwcjBURjJPTGF6TzBTeGo3cm5TZF9JTUEwbzVsS202aHVYenpmc2lNYUhSbHRkUXd6N1BsdmN3Z1RKUFE5bTkyaDFmSEh2XzFRUGZDREZBbXRMZFdFY05sWjJRWU1ZMUR4eTFwcUdtcGtXaDhLc0Z3ZTlIMlV1alpXV2R3?oc=5"
  },
  {
+  "id": "826dfeeb92",
+  "datum": "2020-03-07",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "OFC ‘onaangenaam verrast’ door Bibob-onderzoek",
+  "bron": "De Orkaan",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "OFC ‘onaangenaam verrast’ door Bibob-onderzoek De Orkaan",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EWnhZUG5ycGoyMTV2Y0ZvU2Z5UEw4VHMtYzVCdjdDdVFtVE5xRVluRWhoeFRWQTFwYlAzNG5UallzSllQTEZpMGdGOEwyZmpzSW9Mb1FLTExDWE5MQnphSnZfZ3cxcGo5eUY0STNPcktoMEh3Mm1HYw?oc=5"
+ },
+ {
   "id": "5885d8c903",
   "datum": "2020-02-21",
   "tijd": "08:00",
@@ -44489,6 +44679,25 @@
   ],
   "samenvatting": "Video | De handgranaat, een steeds groter probleem in Nederland NU",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGdZOC1IUE9IZVkxWXJZWXhFVmMtZjRvR1R1MDc5ZEphS1o2ck1ZM3pCYzNTa0JpelBHOXpzU1YyYXAxRkpNNEo4Ykk4TUR2R29YVDdVcktDNEMtZXhUZU5wQnRDRnhwSVdRc0VpM3RhV1BrNEJtajRiM2FrT0VZdmtiQ0lZQ0hRUXlEbTBPQXBZS24w?oc=5"
+ },
+ {
+  "id": "4092a51b26",
+  "datum": "2019-04-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Minister dreigt Cornelius Haga met Bibob",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Minister dreigt Cornelius Haga met Bibob Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYzlrNFdNbHZsaHdWODRaa1k3Vk13d2hETDEwX0VCX0JXVzFmZGl5VDEtUEg0aTlZcWN2S1A4TmFDcE1wbVpOTWhVSXNkZl93czZfdTN0YVdzUHFjYTB2S2ZLWExjS3pER0hxU1NQb29paDNVSjVIdFg3ckRjNVNaVEw4ci1GWjI5ZHc?oc=5"
  },
  {
   "id": "142173f1e9",
