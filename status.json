@@ -1,12 +1,12 @@
 {
- "run": "16:34",
+ "run": "17:33",
  "datum": "2026-09-03",
- "nieuw": 57,
- "totaal": 2516,
- "verwijderd": 18,
+ "nieuw": 36,
+ "totaal": 2533,
+ "verwijderd": 19,
  "geweigerd": {
-  "niet-nederlands": 1048,
-  "geen dossier": 475
+  "niet-nederlands": 321,
+  "geen dossier": 267
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 87,
-   "status": "4 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -24,7 +24,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -32,7 +32,7 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 128,
+   "items": 129,
    "status": "1 nieuw",
    "ok": true
   },
@@ -42,7 +42,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 159,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -78,7 +78,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -87,7 +87,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 7,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -105,7 +105,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 57,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 32,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 113,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -230,7 +230,7 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 133,
+   "items": 135,
    "status": "2 nieuw",
    "ok": true
   },
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 74,
-   "status": "6 nieuw",
+   "items": 75,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -285,7 +285,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 33,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -302,8 +302,8 @@
    "url": "news.google.com/rss/search?q=%22ondermijning%20buitengebied%22%20OR%20va",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 16,
-   "status": "bij",
+   "items": 17,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 125,
-   "status": "4 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -357,7 +357,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 35,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -375,7 +375,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 17,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 30,
-   "status": "1 nieuw",
+   "items": 34,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -402,17 +402,17 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
    "naam": "Rijksoverheid",
-   "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
+   "url": "feeds.rijksoverheid.nl/nieuws.rss",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 31,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "Politie",
@@ -420,8 +420,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 58,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "Openbaar Ministerie",
@@ -438,8 +438,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 8,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "WODC",
@@ -447,8 +447,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 55,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "RIEC / LIEC / CCV",
@@ -464,7 +464,7 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 24,
+   "items": 25,
    "status": "4 nieuw",
    "ok": true
   },
@@ -491,7 +491,7 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 51,
+   "items": 52,
    "status": "9 nieuw",
    "ok": true
   },
@@ -500,7 +500,7 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 43,
+   "items": 44,
    "status": "1 nieuw",
    "ok": true
   },
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 71,
-   "status": "2 nieuw",
+   "items": 72,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -551,20 +551,20 @@
   },
   {
    "naam": "AT5 / Amsterdam",
-   "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
+   "url": "www.at5.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 42,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "Regio — zuid & oost",
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 77,
-   "status": "2 nieuw",
+   "items": 81,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -573,8 +573,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 31,
-   "status": "1 nieuw",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   }
  ]
 }
