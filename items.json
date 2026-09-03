@@ -1,5 +1,31 @@
 [
  {
+  "id": "c3eead27e8",
+  "datum": "2026-09-03",
+  "tijd": "15:00",
+  "nieuw": true,
+  "titel": "Almere - Groen licht voor omstreden coffeeshop in Almere Buiten: kan binnen twee maanden open",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Corruptie & integriteit",
+   "Horeca, winkels & dienstverlening",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "burgemeester",
+   "coffeeshop",
+   "grond",
+   "integriteit",
+   "vergunning"
+  ],
+  "samenvatting": "Het plan voor een coffeeshop aan de Evenaar in Almere Buiten krijgt definitief groen licht. Dat heeft burgemeester Hein van der Loo besloten. De verwachting is dat de coffeeshop binnen een of twee maanden de deuren zal openen. De komst van een vierde coffeeshop in Almere is een langslepend dossier dat wordt gekenmerkt ",
+  "link": "https://www.omroepflevoland.nl/nieuws/522447/groen-licht-voor-omstreden-coffeeshop-in-almere-buiten:-kan-binnen-twee-maanden-open"
+ },
+ {
   "id": "bc231124c6",
   "datum": "2026-09-03",
   "tijd": "14:12",
@@ -17,6 +43,27 @@
   ],
   "samenvatting": "\"Ja, dit is veel.\" K. wrijft in zijn ogen terwijl de officier van justitie de gevolgen van het verkeersongeluk beschrijft. Hij heeft moeite om stil te zitten en kijkt geregeld om zich heen. Hij kijkt naar de zijkant, vervolgens naar het plafond en daarna weer naar links. De rechter vraagt of hij op dit moment onder inv",
   "link": "https://www.omroepflevoland.nl/nieuws/522455/twee-jaar-cel-geeist-voor-veroorzaken-ongeluk-onder-invloed-van-drugs"
+ },
+ {
+  "id": "72a6921cb8",
+  "datum": "2026-09-03",
+  "tijd": "12:31",
+  "nieuw": true,
+  "titel": "Man (39) bedreigt iemand met mes in Breda, omstander pakt wapen af",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "grond",
+   "wapen"
+  ],
+  "samenvatting": "Een 39-jarige man heeft donderdagmiddag een man met een mes bedreigd aan het Doctor Jan Ingen Houszplein in Breda. Een omstander greep in en pakte het mes af, maar liep daarbij wel een klein sneetje in zijn hand op. Agenten die waren afgekomen op een melding van een steekpartij, gebruikten een stroomstootwapen om de ma",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025847/man-39-bedreigt-iemand-met-mes-in-breda-omstander-pakt-wapen-af"
  },
  {
   "id": "160e6c783d",
@@ -365,7 +412,7 @@
   "id": "da4bd0adb1",
   "datum": "2026-09-03",
   "tijd": "06:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Onderzoek nog in volle gang • pistolen gevonden",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -386,7 +433,7 @@
   "id": "781eb3be6b",
   "datum": "2026-09-03",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zomerpodcast | De geheime lijn tussen Boedapest en Moskou",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -409,7 +456,7 @@
   "id": "dd9004f113",
   "datum": "2026-09-03",
   "tijd": "05:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Omwonenden fel tegen plannen voor flatgebouwen: 'Dit kan niet zo midden tussen een woonwijk'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -432,7 +479,7 @@
   "id": "ad60c3b70b",
   "datum": "2026-09-03",
   "tijd": "05:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "‘Mijn eerste moord was zwaar. Daarna werd het werk,’ zei de commandant van een drugskartel kalm - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -451,7 +498,7 @@
   "id": "ed8969b328",
   "datum": "2026-09-03",
   "tijd": "05:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Beperkt aantal interventies bewezen voor jonge vrouwen in de criminaliteit - WODC - Wetenschappelijk Onderzoek- en Datacentrum",
   "bron": "WODC",
   "verzameld_via": "WODC",
@@ -468,7 +515,7 @@
   "id": "4349c6dedb",
   "datum": "2026-09-03",
   "tijd": "05:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hoe worden jongeren geronseld voor de drugscriminaliteit?",
   "bron": "bnnvara",
   "verzameld_via": "Nieuws — Jeugd & jonge aanwas",
@@ -487,7 +534,7 @@
   "id": "5d95c5b722",
   "datum": "2026-09-03",
   "tijd": "04:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Roemeense kraanmachinist verdachte na dood bouwvakker uit Rijssen",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -506,7 +553,7 @@
   "id": "41eec7726d",
   "datum": "2026-09-03",
   "tijd": "04:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kraanmachinist verdacht nadat man uit Rijssen (56) verongelukt op Duitse bouw",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -525,7 +572,7 @@
   "id": "73a097f0ec",
   "datum": "2026-09-03",
   "tijd": "04:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester komt met besluit over woning en perceel Jan G. in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -546,7 +593,7 @@
   "id": "5d850e1d1c",
   "datum": "2026-09-03",
   "tijd": "04:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Politie vindt pistolen • gaat huis Jan G. dicht?",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -567,7 +614,7 @@
   "id": "607b433dc5",
   "datum": "2026-09-03",
   "tijd": "04:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Polonaise tussen de kunst: deze drie musea zetten carnaval in schijnwerpers",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -586,7 +633,7 @@
   "id": "f6894ce44d",
   "datum": "2026-09-02",
   "tijd": "23:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inzet ME bij Overasselt afgerond: meerdere wapens gevonden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -605,7 +652,7 @@
   "id": "98bceeffd4",
   "datum": "2026-09-02",
   "tijd": "21:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Advocaten Richard K. krijgen uitstel van pleidooi in beroep Weiteveen-zaak",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -629,7 +676,7 @@
   "id": "275b97e44b",
   "datum": "2026-09-02",
   "tijd": "21:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Almere zet Pampus op scherp in Haagse lobby: zonder geld en bereikbaarheid geen bouw",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -654,7 +701,7 @@
   "id": "0d94529205",
   "datum": "2026-09-02",
   "tijd": "21:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Raad steunt plan tegen ‘veelkoppig monster’ mensenhandel, maar wil meetbare doelen en meer inzet op preventie",
   "bron": "OOG Groningen",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -673,7 +720,7 @@
   "id": "af54e14f02",
   "datum": "2026-09-02",
   "tijd": "21:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Fietser aangereden door stadsbus bij oversteken busbaan in Almeerse Faunabuurt",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -708,6 +755,25 @@
   ],
   "samenvatting": "De 27-jarige man die wordt verdacht van een schietpartij in Lelystad op 17 mei blijft voorlopig vastzitten. Volgens de officier van justitie schoot hij op een Mercedes met vier inzittenden, nadat er eerder die avond bij de Jumbo aan de Voorstraat ruzie was geweest. De man ontkent dat hij heeft geschoten. De verdachte -",
   "link": "https://www.omroepflevoland.nl/nieuws/522359/verdachte-van-schietpartij-bij-supermarkt-wil-cel-uit:-'ik-heb-dat-pistool-niet-in-handen-gehad'"
+ },
+ {
+  "id": "19cff39c1c",
+  "datum": "2026-09-02",
+  "tijd": "20:07",
+  "nieuw": false,
+  "titel": "Bibob-ver­zoek in Vat­horst en grip op huis­ves­ting arbeids­mi­gran­ten ( SV",
+  "bron": "cda.nl",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Bibob-ver­zoek in Vat­horst en grip op huis­ves­ting arbeids­mi­gran­ten ( SV cda.nl",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeDFkQ0hmU0tYbDIzcG5rRGhQMmFGbVBobndORm9pRFNMa1hCYlpmS1U2U1A5R1otSktGRTcwYkJjalp0V1BNS2xrMGc2YnVHbHRNUC14RGJjT0wxa19KM3lUOGxoeDhnZDFCdzZDeUZQY29mUmxWQ1l0dGNwazlnYWlTMG4weFRTWVRTZWdSQ084UEdHZDhkUkE4U0hfRkZvOGRvNUx2bHY2UE5KMFpfak00NlM?oc=5"
  },
  {
   "id": "babd8b8954",
@@ -1437,52 +1503,6 @@
   ],
   "samenvatting": "Meerdere inwoners van Overasselt willen dat de woning wordt gesloten waar de schietpartij gisteren plaatsvond. \"We hebben allemaal zoiets: 'Die mensen moeten gewoon vertrekken.' Er is zo veel ellende elke keer daar\", zegt een vrouw tegen de NOS. In de nacht van maandag op dinsdag liepen tientallen gemaskerde mannen met",
   "link": "https://nos.nl/l/2629357"
- },
- {
-  "id": "68d4b395c6",
-  "datum": "2026-09-02",
-  "tijd": "12:40",
-  "nieuw": false,
-  "titel": "Dreigvideo duikt op na extreem geweld in Overasselt: 'Je zal sterven'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "boerderij",
-   "cocaïne",
-   "doodgeschoten",
-   "erf",
-   "explosie",
-   "geweld"
-  ],
-  "samenvatting": "Jan G., wiens boerderij in Overasselt net over de provinciegrens dinsdag werd bestormd door tientallen gewapende mannen, wordt in een online video bedreigd. Vier gemaskerde mannen eisen in gebrekkig Engels dat hij een partij cocaïne terugbrengt. Doet hij dat niet, dan wordt iedereen vermoord. De zaak zou gelieerd zijn ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025653/dreigvideo-duikt-op-na-extreem-geweld-in-overasselt-je-zal-sterven"
- },
- {
-  "id": "e62a32242e",
-  "datum": "2026-09-02",
-  "tijd": "12:15",
-  "nieuw": false,
-  "titel": "Jelle D. 45 dagen langer in de cel na dood hoogbejaarde bewoners Joris Zorg",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "leider"
-  ],
-  "samenvatting": "Verpleger Jelle D., die verdacht wordt van betrokkenheid bij de dood van twee hoogbejaarde bewoners van Joris Zorg in Oirschot, blijft 45 dagen langer in de gevangenis. Dat heeft de raadkamer woensdagmiddag besloten. D. werd zondag 23 augustus thuis van zijn bed gelicht door een arrestatieteam . Een van de overleden be",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025662/jelle-d-45-dagen-langer-in-de-cel-na-dood-hoogbejaarde-bewoners-joris-zorg"
  },
  {
   "id": "c766b9c2d7",
@@ -25771,6 +25791,27 @@
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLWpyQVZYaGhfbGZEWXdZWjMtOWZoZU55bmlobUw0QnlDUkU2ekVVcEFSNVNHNHBTUmtQM3N4eEVnRVNZTUswaHh2SmoxR0ZIc2dPSDU4NEJnYWVFa25UN0dsa2ZRd3BQTWJETjNoWVNEbVgwaW1BRlpWYnVNNGw2b3ZRTVpLLTAyTnNVcVJJRzlVSXlYMmFnTlJkMWg5b29ybEk1cktQMEdMZ2ZWU0FQNnItYm5acXo5VGtJX2VvR2YtTGJiMnhYQnlGZDJ5QzBO?oc=5"
  },
  {
+  "id": "d36521466c",
+  "datum": "2025-12-12",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Negatief Bibob-advies geen garantie dat coffeeshop wordt geweigerd",
+  "bron": "almerezaken.nl",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "bibob",
+   "coffeeshop"
+  ],
+  "samenvatting": "Negatief Bibob-advies geen garantie dat coffeeshop wordt geweigerd almerezaken.nl",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnh5bDNaS2VSeUE0clh4QjBfNUREUGUxZnkwb2NiMEdXUlViR3NhdDhKVFgtNE10VkllVUVwcmFTQ3hHZXd3ZjF4VzBJdDVfUVF1c2VEeVlpenVRS21DV1FCNFZ0dXRCWkRvMFNxa3Y1QW5XTDFIRHhGS3hUOW1MOHI1aEVyRkNUNm1WaW82X1NpQmZhVTVKSWJJRl9NWmJaUGRYX1NlSUctSHdNMTVB?oc=5"
+ },
+ {
   "id": "d00735c569",
   "datum": "2025-12-11",
   "tijd": "08:00",
@@ -26343,6 +26384,31 @@
   ],
   "samenvatting": "Zes personen gearresteerd na vondst van synthetisch drugslab in Heppen: recordjaar voor FGP HBVL",
   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYXVYcTdWMmE4VjFGeTJ4ZXV2QllxOU1hX3U1ZnNLdDB2OVQ5aE9TdEM1RDN6VW1oQklDaGdSR201QThVY2tadVppSlgwVEt1MGE2S2xfN3RzbFVITXlwb283dFNIZXJOTC02NVNRQWdWOEVPYnQ4dVpQM1Q4ZldObVJ3a0lRV0htWkppZnlLV045emtZeFVGZWhqcmU1cUJXaUUxM1N4d3dvZzFhNFNFLUwyOU9MMU9ZVEFRamM3SUx5RWV3a25Rek9LNzhZNmV3Qmd1VmxKQ2hUZmlya3NEWVlLMm56c2M?oc=5"
+ },
+ {
+  "id": "97ab56997b",
+  "datum": "2025-12-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Woning in Heemskerk die de burgemeester sloot na vondst spullen hennepkwekerij mag weer open. Sluiting wordt last onder dwangsom",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "hennep",
+   "hennepkwekerij",
+   "last onder dwangsom",
+   "woning"
+  ],
+  "samenvatting": "Woning in Heemskerk die de burgemeester sloot na vondst spullen hennepkwekerij mag weer open. Sluiting wordt last onder dwangsom Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNQTdhZzA5X2ZYNVhweUJFajVfMElTMGR3SWJlOUgyNk5DRWtiZ1k0cTFqLTJleVBCV2lWclNoMVZUQTNkTUd1YUt4NFJGd0g5Z2psdXVrNExoSlN5REhtcGZaOGZLSVB6OHJyRHMza2Y2czdHc1F5TnZTalZ3Q0duZEdCUEtMdXhlZGV3andwREdzQ3FmRVBPUFNzNUpTMUdGdldhVU9iaC1ua3pVcnU5UDBsRFlINDhDS3k0OTkwRk1Fa3AyVlN4eVAtRGR3SnFCOWFtblY1a1hZdl9ERHhBS09YM1FSemY1RlhhZEVkaHhZOXlFRENzOTVzVFlpQ3VkUlUyWTdtMEJxd3pPNjJUbS1Ua0dBdVNCaFR4TA?oc=5"
  },
  {
   "id": "d5493f27cb",
