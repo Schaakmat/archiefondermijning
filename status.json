@@ -1,12 +1,12 @@
 {
- "run": "14:33",
+ "run": "15:35",
  "datum": "2026-09-03",
- "nieuw": 34,
- "totaal": 2462,
+ "nieuw": 32,
+ "totaal": 2477,
  "verwijderd": 17,
  "geweigerd": {
-  "niet-nederlands": 374,
-  "geen dossier": 294
+  "niet-nederlands": 609,
+  "geen dossier": 351
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 82,
-   "status": "2 nieuw",
+   "items": 83,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -24,7 +24,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -42,7 +42,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 156,
-   "status": "4 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -78,7 +78,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -140,8 +140,8 @@
    "url": "news.google.com/rss/search?q=trustkantoor%20witwassen%20OR%20katvanger%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 22,
-   "status": "bij",
+   "items": 23,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 111,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 129,
-   "status": "bij",
+   "items": 131,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 54,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -338,8 +338,8 @@
    "url": "news.google.com/rss/search?q=motorclub%20verboden%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 24,
-   "status": "bij",
+   "items": 25,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -356,7 +356,7 @@
    "url": "news.google.com/rss/search?q=%22jonge%20aanwas%22%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 32,
+   "items": 34,
    "status": "2 nieuw",
    "ok": true
   },
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -402,17 +402,17 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
    "naam": "Rijksoverheid",
-   "url": "feeds.rijksoverheid.nl/nieuws.rss",
+   "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 31,
-   "status": "0 records",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Politie",
@@ -420,8 +420,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 58,
-   "status": "0 records",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Openbaar Ministerie",
@@ -447,8 +447,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 55,
-   "status": "0 records",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "RIEC / LIEC / CCV",
@@ -456,16 +456,16 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 30,
-   "status": "0 records",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "NOS — binnenland",
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 25,
-   "status": "7 nieuw",
+   "items": 24,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 40,
-   "status": "bij",
+   "items": 42,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 69,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 39,
-   "status": "bij",
+   "items": 40,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,27 +545,27 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 29,
-   "status": "5 nieuw",
+   "items": 31,
+   "status": "7 nieuw",
    "ok": true
   },
   {
    "naam": "AT5 / Amsterdam",
-   "url": "www.at5.nl/rss/nieuws",
+   "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 42,
-   "status": "0 records",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Regio — zuid & oost",
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 71,
-   "status": "0 records",
-   "ok": false
+   "items": 75,
+   "status": "4 nieuw",
+   "ok": true
   },
   {
    "naam": "Gemeenten & burgemeesters",
@@ -573,8 +573,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 30,
-   "status": "2 nieuw",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   }
  ]
 }
