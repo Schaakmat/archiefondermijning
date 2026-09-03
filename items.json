@@ -1,5 +1,26 @@
 [
  {
+  "id": "82db205236",
+  "datum": "2026-09-03",
+  "tijd": "11:05",
+  "nieuw": true,
+  "titel": "Datalek bij sociale dienst Brabantse Wal: mogelijk alle cliënten getroffen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "uitkering"
+  ],
+  "samenvatting": "Persoonsgegevens van mogelijk alle 2542 cliënten van de Intergemeentelijke Sociale Dienst (ISD) Brabantse Wal zijn bij andere cliënten terechtgekomen. Het datalek bij de overheidsinstantie die inwoners van Bergen op Zoom, Steenbergen en Woensdrecht helpt met geld, werk of schulden, werd op 18 augustus ontdekt door de g",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025834/datalek-bij-sociale-dienst-brabantse-wal-mogelijk-alle-clienten-getroffen"
+ },
+ {
   "id": "32cafbb6d2",
   "datum": "2026-09-03",
   "tijd": "10:54",
@@ -36,6 +57,46 @@
   ],
   "samenvatting": "Het tekort aan studentenkamers is in een jaar tijd nauwelijks afgenomen. Kenniscentrum Kences, dat jaarlijks de Landelijke Monitor Studentenhuisvesting publiceert , schat het tekort op 20.200 wooneenheden. Vorig studiejaar was dat nog 21.000. Door de aanhoudende krapte op de woonmarkt kiezen steeds meer studenten ervoo",
   "link": "https://nos.nl/l/2629471"
+ },
+ {
+  "id": "8d50167119",
+  "datum": "2026-09-03",
+  "tijd": "10:20",
+  "nieuw": true,
+  "titel": "Misdaadverslaggever Martijn Haas: 'Jan G. is heel gespannen'",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Misdaadverslaggever Martijn Haas van De Telegraaf maakte in zijn carrière al heel wat zaken mee. Toch beschrijft hij de gebeurtenissen in Overasselt als 'ongekend'. \"Je hoort wel eens dat er grote groepen worden ingeschakeld om bijvoorbeeld drugs uit de haven te halen, maar hier gaat het om een groep van tientallen cri",
+  "link": "https://www.gld.nl/nieuws/8517582/misdaadverslaggever-martijn-haas-jan-g-is-heel-gespannen"
+ },
+ {
+  "id": "99be032c9a",
+  "datum": "2026-09-03",
+  "tijd": "10:00",
+  "nieuw": true,
+  "titel": "BBB draagt voormalig politiek adviseur voor als nieuwe bestuurder",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "bestuurder",
+   "woning"
+  ],
+  "samenvatting": "Tjitske de Groot moet de nieuwe provinciebestuurder in Overijssel worden. BBB draagt de voormalig politiek adviseur van BBB-staatssecretarissen voor als opvolger van de voortijdig vertrokken Liesbeth Grijsen. De Groot, woonachtig in Drenthe, zal het resterende halfjaar verantwoordelijk zijn voor woningbouw.",
+  "link": "https://www.oost.nl/nieuws/3691425/bbb-draagt-voormalig-politiek-adviseur-voor-als-nieuwe-bestuurder"
  },
  {
   "id": "b1723b5cd8",
@@ -93,11 +154,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Gelderland",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
    "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "burgemeester",
    "haven"
   ],
   "samenvatting": "De ontmoetingsplek voor dak- en thuislozen aan de Van Schevichavenstraat in Nijmegen is permanent gesloten. De plek is een pilot om overlast te verminderen, maar de gemeente stopt er na acht maanden mee. Na de Nijmeegse Vierdaagse nam de overlast rond de plek steeds verder toe, terwijl het in de eerste maanden nog goed",
@@ -328,6 +387,25 @@
   "tags": [],
   "samenvatting": "Beperkt aantal interventies bewezen voor jonge vrouwen in de criminaliteit WODC - Wetenschappelijk Onderzoek- en Datacentrum",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRmRlTW1CWWk4dEFvQ0tTZnlmQXNIZUZLeUlDSGF6MXdWZ19OYjViZ2hZNVJrNl9WTjdsSEZUVVktWlN4Q3pTeFVJcWhUeTlCc1AxUVN0S1dVN1BKd01oR1FNUTJaa0pOYjJVWUdsX2s0TjZ4aDR4TUpQSk15TXAzOGJmb0ZHamtXVjRIeEtIVFZwNXpzX29BaTJxMXY1djdtOTBkNk1xSVRJdmdMY1hBQl94aTdubFdxZ1l5ZA?oc=5"
+ },
+ {
+  "id": "4349c6dedb",
+  "datum": "2026-09-03",
+  "tijd": "05:05",
+  "nieuw": true,
+  "titel": "Hoe worden jongeren geronseld voor de drugscriminaliteit?",
+  "bron": "bnnvara",
+  "verzameld_via": "Nieuws — Jeugd & jonge aanwas",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Hoe worden jongeren geronseld voor de drugscriminaliteit? bnnvara",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkpPZi1WcXZjVGFXSlcwUmdaVXNTZWY3SkctZjAySUswNWp1MTBXUEpzbV9IZGF2NWpaUkpUMmJ0SzVTTW9rR2pabE1qNEdVUVhmMDBrdl9Nc2JqVWJvU3ZBOTFKN2xOeHo2RjAzMC1GRGFGbVJqUERVR2Y3UTFidVd1Vkd1allPMXF6V3gtWXhIMkU?oc=5"
  },
  {
   "id": "221d692a44",
@@ -633,7 +711,7 @@
   "id": "47a25c7bc3",
   "datum": "2026-09-02",
   "tijd": "19:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nephulpverlener uit Groningen moet per direct stoppen van inspectie",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -652,7 +730,7 @@
   "id": "ae8ca8ddf8",
   "datum": "2026-09-02",
   "tijd": "19:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Heemskerk gaat de strijd aan met mensenhandel. Maar politiek nog niet tevreden met beleidsplan: ’We vinden dit te mager’",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -671,7 +749,7 @@
   "id": "b60b7a10df",
   "datum": "2026-09-02",
   "tijd": "18:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Nieuwsoverzicht 02/09 | 'Ongeluk onder invloed van cocaïne' • Nieuw onderzoek Burcht van Kuinre",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -690,7 +768,7 @@
   "id": "bde5aac1e5",
   "datum": "2026-09-02",
   "tijd": "18:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte (27) van schietpartij Schoonhoven weet niets van betrokkenheid Iran",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -709,7 +787,7 @@
   "id": "ce4fb09738",
   "datum": "2026-09-02",
   "tijd": "18:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachten schietincident Overasselt mogelijk geronseld via sociale media: 'Het zijn vaak nog kinderen'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -730,7 +808,7 @@
   "id": "53716be934",
   "datum": "2026-09-02",
   "tijd": "17:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Uitkijkpost de Wallen (450): De herrie, het vuil en de Bibob",
   "bron": "Reporters Online",
   "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
@@ -749,7 +827,7 @@
   "id": "551cae2685",
   "datum": "2026-09-02",
   "tijd": "17:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Een meter grond eruit: sanering van moestuintjes in Heusden begonnen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -773,7 +851,7 @@
   "id": "473323f0c1",
   "datum": "2026-09-02",
   "tijd": "16:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wie is Jan G., de Nederlandse drugshandelaar die in zijn onderbroek moest vluchten voor een liquidatie? “Als hij ergens binnenkomt, ga je weg”",
   "bron": "HBVL",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -794,7 +872,7 @@
   "id": "6b80fb0b85",
   "datum": "2026-09-02",
   "tijd": "16:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wapens, vals geld, witwassen: dit zijn de verdenkingen tegen beschoten familie Overasselt",
   "bron": "RTL.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -815,7 +893,7 @@
   "id": "3ea11ff402",
   "datum": "2026-09-02",
   "tijd": "16:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Amsterdam halveert sluitingstermijn: winkels en restaurants na explosie drie maanden korter dicht - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -834,7 +912,7 @@
   "id": "c99a7ec263",
   "datum": "2026-09-02",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Daniëlle vreest dat waakhond Rebel is gestolen: 'Ze is veel te lief'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -855,7 +933,7 @@
   "id": "1db1665cb2",
   "datum": "2026-09-02",
   "tijd": "15:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Zijn vriendin heeft spijt van haar aangifte, maar toch krijgt Harry uit Lelystad tbs voor bedreiging en geweld",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -875,7 +953,7 @@
   "id": "7b5415844b",
   "datum": "2026-09-02",
   "tijd": "15:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Justitie: 'Vrouw reed onder invloed van cocaïne in op file Oostvaardersdijk'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -894,7 +972,7 @@
   "id": "e3b5c80b10",
   "datum": "2026-09-02",
   "tijd": "15:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Van zakenmagnaat naar vermeend spion: de ondergang van Nikos B.",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -913,7 +991,7 @@
   "id": "1238cd16a2",
   "datum": "2026-09-02",
   "tijd": "14:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Harde woorden van Europese ministers over Russische ondermijning in Duitsland: ‘door staat gesteund terrorisme’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
   "bron": "Nieuws — Beleid, wetgeving & toezicht",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -934,7 +1012,7 @@
   "id": "e2bc273346",
   "datum": "2026-09-02",
   "tijd": "14:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Snelweg bij Rotterdam dicht in avondspits na ongeluk met zes voertuigen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -953,7 +1031,7 @@
   "id": "18b08e178f",
   "datum": "2026-09-02",
   "tijd": "14:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Snelweg bij Rotterdam was bijna twee uur dicht na ongeluk met zes voertuigen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -972,7 +1050,7 @@
   "id": "9635514620",
   "datum": "2026-09-02",
   "tijd": "14:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "2/9 in Nieuwsuur: Overasselt hoopt dat buurman Jan vertrekt • Wat Roemenië merkt van de Oekraïne-oorlog • Waarom lezen onze kinderen zo slecht?",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -991,7 +1069,7 @@
   "id": "bcd469700d",
   "datum": "2026-09-02",
   "tijd": "14:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Deventer ziet meer daklozen en drugsoverlast: 'Loopt ons over de schoenen'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -1010,7 +1088,7 @@
   "id": "4a91481c99",
   "datum": "2026-09-02",
   "tijd": "14:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tientallen mogelijk met drugsafval gevulde jerrycans gedumpt bij eindpunt tram 26",
   "bron": "oost-online.amsterdam",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1437,25 +1515,6 @@
   "link": "https://www.oost.nl/nieuws/3691125/grote-hoeveelheid-drugs-aangetroffen-in-enschede-burgemeester-sluit-huis"
  },
  {
-  "id": "02e162f5ea",
-  "datum": "2026-09-02",
-  "tijd": "10:20",
-  "nieuw": false,
-  "titel": "Man die doorreed na dodelijke aanrijding vrijgelaten, blijft wel verdachte",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "De dertigjarige man die wordt verdacht van het doorrijden na een aanrijding met dodelijk afloop in Oss is woensdag vrijgelaten. De man uit Vinkel blijft nog wel verdachte, meldt de politie. Bij het ongeluk kwam afgelopen weekend een man van 82 om het leven. Het slachtoffer reed op de fiets op de Hertog Antonstraat in O",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025641/man-die-doorreed-na-dodelijke-aanrijding-vrijgelaten-blijft-wel-verdachte"
- },
- {
   "id": "6d7d9f8da3",
   "datum": "2026-09-02",
   "tijd": "09:44",
@@ -1535,33 +1594,6 @@
   ],
   "samenvatting": "Donald Ottens, ook wel bekend als Dr. Don, raakt steeds dieper in de financiële problemen. Na het faillissement van zijn kliniek in Hengelo vorig jaar zijn de schulden inmiddels opgelopen tot meer dan 1,5 miljoen euro. De curator heeft intussen beslag gelegd op de woning van de voormalige dokter.",
   "link": "https://www.oost.nl/nieuws/3691056/schuld-omstreden-dr-don-loopt-op-tot-ruim-1-5-miljoen-beslag-gelegd-op-woning"
- },
- {
-  "id": "dd28cf1b52",
-  "datum": "2026-09-02",
-  "tijd": "09:00",
-  "nieuw": false,
-  "titel": "Advocaten: Bolle Jos heeft niets te maken met geweldsexplosie in Overasselt",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk",
-   "Witwassen & geldstromen"
-  ],
-  "tags": [
-   "cocaïne",
-   "doodgeschoten",
-   "explosie",
-   "geweld",
-   "wapen",
-   "witwassen"
-  ],
-  "samenvatting": "Jos Leijdekkers, alias Bolle Jos, \"distantieert zich met klem van de ongefundeerde aantijgingen, die stelselmatig op allerlei vlak worden geventileerd jegens hem, dat hij betrokkenheid zou hebben gehad bij het incident gisteren in Overasselt\". Dat zeggen zijn advocaten Jan-Hein Kuijpers en Guy Weski woensdag tegen het ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025634/advocaten-bolle-jos-heeft-niets-te-maken-met-geweldsexplosie-in-overasselt"
  },
  {
   "id": "ca96874431",
@@ -3890,6 +3922,25 @@
   ],
   "samenvatting": "De A15 van Gorinchem richting Europoort is tussen knooppunt Ridderkerk-Noord en Rotterdam-Charlois afgesloten door een gekantelde vrachtwagen.",
   "link": "https://www.rijnmond.nl/nieuws/2245853/a15-bij-barendrecht-afgesloten-door-gekantelde-vrachtwagen"
+ },
+ {
+  "id": "eca7de9845",
+  "datum": "2026-08-29",
+  "tijd": "04:08",
+  "nieuw": false,
+  "titel": "Politie van Cao Bang: Een gesloten systeem om mensenhandel op lokaal niveau te voorkomen.",
+  "bron": "Vietnam.vn",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Politie van Cao Bang: Een gesloten systeem om mensenhandel op lokaal niveau te voorkomen. Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2dxUWJNYXlBUEFUSEE5Rm1iUjhPYVpZMVNNTDFGVVJ1M3RZVngzUlhnd3E4SDVuWDlHamVpMWhvb1kyOF9tUl9PaXpZLWVWM0hVN2ItVUgtQVRBTXpNOUl3S0pvbUFLdUVZTmVUa3d3NlhBR2p3b2VRLWdiNEx3MjJMZXJGbTRteEZjNzMyTlMzdTZkcjBtcDgyMHhUZGN3VnJiVVozSQ?oc=5"
  },
  {
   "id": "87ec3aa480",
@@ -10426,6 +10477,25 @@
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDJVMTktdWFOMjRsem5tMHk4MDh2NklMTUp1dTRpbGplZTBjaFNxdmpjVnlDdHR6Ql9nSGlfb3pVY2hTWUJYN25VemhJajZzUUtpNTBRYU1Fd1NzbUh5M1lGRUV5YW5rbXFBX09iVWZLZXIzcGhkNHFFVV9ZZ1Q1cmlJRmpzbVJXcTN0MlhkX1Q0SFNaRmxGUExVdnRzdw?oc=5"
  },
  {
+  "id": "d3223b96b2",
+  "datum": "2026-08-03",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Marokko wijst mensensmokkel en desinformatie aan als oorzaak van toestroom naar Ceuta",
+  "bron": "Business AM",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Marokko wijst mensensmokkel en desinformatie aan als oorzaak van toestroom naar Ceuta Business AM",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGZ2UlltZXF0TzFVblpCMW9maHI3Q3ZKNU50T3Q5LTdNdmRKbENqZHpJNDBmRHpKb2Jva0JWS1NNdVVOWXVPaWZWeGRzb0ZaTDRxYzdTQ0VFckNsM3NjeHYzSmI3a3lndHpQZENSbFZWeVBCUWxIcU1USWdEZ19kWjVOcm9VejA1akI1X2NpV3FuSjBybTItWkNRaVJOYk1vTFdUNkZQb1d6QnVI?oc=5"
+ },
+ {
   "id": "a9d77272a2",
   "datum": "2026-08-02",
   "tijd": "07:00",
@@ -10664,6 +10734,25 @@
   ],
   "samenvatting": "Parket Limburg onderzoekt 2 dossiers van mensenhandel en seksuele uitbuiting in Maaseik en Hasselt VRT",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0hGOWFxXzNsX0ViNExWcUV0WXFwQ0VQeW1xZlEyeGhhX0REcmZmSGZUZVQtazE3ZWd4TXB1R20yd3U5QnhBc1JpbEs4SmMxUmJCRGFHMzdYNE1XTkkxbF9URnkwTjVsUE9yZVJfQ1VMVVJzckhYc0RMenpUUGlMWEd4UUVGTjJ3b0QtU0g5b3hrR2FQUzVubndtcDA0RHJyMzJqeVE3cVc?oc=5"
+ },
+ {
+  "id": "20d11ca8ed",
+  "datum": "2026-07-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zuid-Amerikaanse vrouwen slachtoffer van mensenhandel in Maaseik en Hasselt: twee mannen in de gevangenis",
+  "bron": "HBVL",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Zuid-Amerikaanse vrouwen slachtoffer van mensenhandel in Maaseik en Hasselt: twee mannen in de gevangenis HBVL",
+  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOajV0ZDI5MHp4emtNUFg4TGR0STJMcWZaUVUxMzN3QXctSjBRM21WV1NPV28ydFkzVGFCYVpYSXhueHFSVWpGRU5fRFdJSWhFVm4zN0xUdFRtSHFSUG4yWGFicWZJT0lPdTNxQTJkY3N0RlducVJ2VklQOFdsRmNfYV9va28zR01oRHYzbkJQeC0zUE9sbTdmaEMwUXRLb0pXcjlUemkzaXhnU1BROEtORTNobDFXTnB5VFpJZDdlUk10cldnYzJaeHFudjhDd2Q0MUp2UFZlbEN4VUpNY2g1b251WFVNWENvNlBwRjJCQmlpX3M?oc=5"
  },
  {
   "id": "e38439d431",
@@ -13587,6 +13676,25 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanQ4U2diTENSbkdwb2hRNjE1ZmZBNDZDd1I5SXVrNzZMMzUwOGdiZEdrekc5SnpVVjFFRzR3b3ZIS3h1NURtWGpBQzVyQ0Fmc3A0VlllT3QtUlI2SjYza3FINDZGWDJ6RU5iOWFZUU5rZmtaaDhXU0pEYldXTl93MHVjaDlUdFk5WGpfTVFURi1ZT0ptT1pDMmdqMGFZck96RThwT3FKa3ZQVWVzOVd3ZWNKeTg4MTAtRk8xdW93?oc=5"
  },
  {
+  "id": "2d84ea2b06",
+  "datum": "2026-07-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Het einde van fysieke games betekent een fatale ondermijning van de rechten van de consument",
+  "bron": "De Standaard",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Het einde van fysieke games betekent een fatale ondermijning van de rechten van de consument De Standaard",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdTJhcWJBajA5YmY4cWtXcUd5SThYYmM1T0Q4bEJuYUpobDVabWlVWEI1QndCeE1td0I0YTBTR090dmRMcHB1NVB5ZVNzalFnX0h1anhoQTAxS3hyMTgtZDNYUTlubWl1VlJnRE5OTTZjODFOX1QzYnQzY2pvSUhzT2hrLXFqRTNXREZVazFYUUpwMnpzR091bl91bFU2UEdaX1BjQU9hQlBFSkxTTURNbElUeGx5eFcweWJKWW15clVaSmRXcnl3aklDaVFtNFFEY0NqdWUtU2h6M1hoTVNiODV3cw?oc=5"
+ },
+ {
   "id": "d3b37d6215",
   "datum": "2026-07-01",
   "tijd": "07:00",
@@ -14898,6 +15006,25 @@
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU2lwMm9WQl9EQUQ4ZURUai01am5lc1dtS25uWVEwLTI3Q3pqSGJXVTdGT1c3ZVVILWJCMnBWSlVjc0ZDSjVpLUwyNUhMMXhqNzVIc0U1UDFsWkY3UmhvdzQ2WDZSTmdRYjhuWmk3bUhfWmFzLUJJUE4yd1I2dk45ZkgxZWhRMnQtQUFCRl9wY1JVSmZnVjlyZXVKUUR4b2EtQTRTSFRvVS1CY3JCLTRRd2dtT1dmV0EyaW9nRTBQd0FraTBrN2NTTEhR?oc=5"
  },
  {
+  "id": "dac0605fc3",
+  "datum": "2026-06-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Man aangehouden in Barendrecht op verdenking van witwassen",
+  "bron": "Dagblad010",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Man aangehouden in Barendrecht op verdenking van witwassen Dagblad010",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjNXU3Ffb1lWUTRaN3h0UHhiQTBSb19wT3dSbEdGR0VpbmpuZ1J4SGVLbHZDTHJLWUprTU4wbGtGekJockZ6OVR5RmZuRGVFYXhOcUF5RTFLeGJrLUY0WFJpZGxqbWxxa19ZVWNjS2FPTGduX014aVNfbXpCTVNUNFlPRHIzSFlRcUpzQUtGWmtaOTljX3ZMQmdaZldTM2x3cDNzdzFB?oc=5"
+ },
+ {
   "id": "eedeeccf65",
   "datum": "2026-06-16",
   "tijd": "07:00",
@@ -15474,6 +15601,27 @@
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXQxbElMUzFiQ3FZY2s3ZlY5S09ZaEt4Z2RfbkdBX0Yxdm5Ca2c5dTNGRzdaOF9NR0JSVmlNVlY5ZDFoREZqRy0tWXdTQkJSMXh2ck9aSDV1TUtDaFUwVm02cF9Na2dGY29HRk42ZG9UZ1V1SmJhVnZNR054VWRVYVc1NEE1SXYxLWFHby1BbEZJYmRBQVBCVXV6el8xRjJlTEExVzBuOXpvcTBGMGtkM2I5LXJENTVLNjc5REtjakQ3UQ?oc=5"
  },
  {
+  "id": "e8dfd1ee84",
+  "datum": "2026-06-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Netwerk mensenhandel opgerold in Leuven: “Slachtoffers betaalden woekerprijzen voor transport en verblijf”",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "mensenhandel",
+   "netwerk"
+  ],
+  "samenvatting": "Netwerk mensenhandel opgerold in Leuven: “Slachtoffers betaalden woekerprijzen voor transport en verblijf” HLN",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdkcyYnZ6cjJQNmNST0tyUVpSS3RITVZJeFRIOXBXRHVId3RZUk5DTmpWYzZESVpUZFJQWTVSSWc4cHpiZ05YRGdVUE9pRUFnWGdrb2FoWTBncC1QQk5hNjg0QThoRS1qUnBFYXVwMVduRmxfNjI4NlJMa1NSbVljRDlPd1RjeEcxZF9yM2xFM2hVU05hanRYcXZlTzVRSjVJLVVjY1F2QWxyb1ZnZWR3M0p3RDZzZVFVU1VPX3NRVlFaTE1pUGMtS1AwSE9MUUVkeDFleEoyaXJkeGhSZVNnLW9R?oc=5"
+ },
+ {
   "id": "ea61e759eb",
   "datum": "2026-06-09",
   "tijd": "07:00",
@@ -15819,6 +15967,25 @@
   ],
   "samenvatting": "Kabinet scherpt regels aan tegen zorgfraude | Strengere eise Nieuws.nl",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHliLWtxT3ZlQzZBamg1djhuOElwNlgyclVhVlpYbUszeEI1MXJNVThfWlZKdS1oOVhWSXlCQUdFYXFvVnJVNXFvT3NKZ1JNSmJJNUtHS0NVUFVqOFRmV2RLTEluWGxNQng4RlpadEJEbmlKZzNEak9oOEdvbzNoMURUc2xEcmpzS0xtU2dLbXJTcDVNZ0lqMg?oc=5"
+ },
+ {
+  "id": "8633dd42bd",
+  "datum": "2026-06-08",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Honderden agenten ingezet bij grote internationale controle Limburgse grens: jacht op drugshandel en mensensmokkel",
+  "bron": "De Limburger",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Honderden agenten ingezet bij grote internationale controle Limburgse grens: jacht op drugshandel en mensensmokkel De Limburger",
+  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMzFJUVZCMFNTekVsbk8yNHZqWV9Rdjk1VHBqYjVvQS1lWFlDWGFoQ191cjBKU0NPaGpJUHRJeThJUDVTT3dfQVp0NDQtSlFQektLS05ueHkwaENmT2FZdGpUMFZZV0g4NkhCYlo3SDRrUnhZRW9rSDdVSzd6cTE5d2NnMlRmbkZ0aWV4WktRbjJzYzk5aVpKTldmWFlJS1lZMkY4TXRRell4R3daUTQ0RldWTlBEX2JucWwwSkZVOWNsRXNlb0tEUy1adTRtSUF3SUppVjROZ1hoQUZpS0tIQndManpOUW5WTGl2Q0tHc0FpUVRRUGtvYlE0MUw?oc=5"
  },
  {
   "id": "3faaf210fd",
@@ -17050,6 +17217,25 @@
   ],
   "samenvatting": "Mannen die aangehouden werden voor witwassen weer vrij, maar nog wel verdachten brabantscentrum.nl",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEI2LTMwZ2VHTzFleDJndXVVc28yXy1ub3ZpV1VzNWZKT2FYbGx0eUtUSkFocUlOZVFabFNWSnZSaWZjN3JLOXRQdDljenZZdjVqeWI2M3N2MTVlTmFFeUJ4U3o4SVJablhJNko3SHAzSHMxMGJJTjM0RXRER1RUQ0N4NXY2b0lSbDRXVm9LTV80TG1xbmxFSlZQM29XV1FjTFU5VVc0cnp1QjlBTHR4cWFR?oc=5"
+ },
+ {
+  "id": "86e026a369",
+  "datum": "2026-05-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Alle hens aan dek tegen mensensmokkel met zacht zomerweer",
+  "bron": "flows.be",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Alle hens aan dek tegen mensensmokkel met zacht zomerweer flows.be",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUVgwVnpRdkJSNEwweHV6NXRuVW4yV2hxUnJta05IOElFRjV5Nk5qYVF2Rlg2SklNbDNJd09OakRXZ1JYS1JFeW83T0ZNVnF3VTFvVTh0RFlYaWRuT3BmaVBTdm8xbHdZX05RcXdXdVc3MXY4ZXRHYTlmUExsQTIwRzI3U1ZwN2RmNEdBd2lVWFlCVG9ia3BZLQ?oc=5"
  },
  {
   "id": "f2c00ba0df",
@@ -18948,6 +19134,25 @@
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM0ZBOVhVZFF4ZVJsTTVaNGVRTEx1TjZMNmU0OVRsUnBlNnNUeW43X3pOMTVocnhtbnExYUNpVldtQ3c2V2I2a2gwX0JXblFoRHNFWDVRaEQ1NUlFVTNoQi1vTXUzS1Zad0RPaGNuRUZNaldZT0VCYUR0VWN2Q3Q0SlIxaXdEYXFlamxRdDRaNENEMVNtVFdhWThfNk5FN0ZhYkJsSV9oZ0Z3UFZxNWfSAawBQVVfeXFMTWxxdmsyY2FDRklGbk1QR3hKN3JObktvd0tRdnRucTNMd2ZCUzVQTEwyRzFjeU9abDJmemxQUGtublNfWXhpQmRET1prYjFUYUpVMFo5RU84ZG5iTDRoVW5ZRmk3WXhLeWF5LXgycHNPU0x2UEpvR1ZWMHNqN1BCaVN6X0tCQUswZzJpOXFqS3M5UHlFNWxTaGpPcldSS3pibm9JNlkwTHNLb1lZNA?oc=5"
  },
  {
+  "id": "8d2b57014b",
+  "datum": "2026-04-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Explosies, gijzelingen en drugshandel aan orde van de dag in Flevoland: ‘Groot gebied, weinig ogen’",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Explosies, gijzelingen en drugshandel aan orde van de dag in Flevoland: ‘Groot gebied, weinig ogen’ de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaFRiOEJCVXh5eWFYQ0libDA1ZXlmb0hQcVB0cm5NUUdYSFlTdEtvYnJxUnppMFNMUlVMZFpEREJGdVJsYU5vVkMyZ0NXMDNycUxiNG43bldqczR2eU95YV9rZmRMdUFZbGhDQjJkeFJ0LXp5elhmSjJNM2xUOWNCVjVuVGZqdko3ZWtLa25waDBfRVByRE1TbUNJcVdJTTQ3LXB0WllDZnJvbi04UHF4TkFyUG1QUVN1THBuMUdrXzZZd0NCYjZnZHJNMmgybzVDWkI0?oc=5"
+ },
+ {
   "id": "5bc31499ce",
   "datum": "2026-04-23",
   "tijd": "07:00",
@@ -19990,6 +20195,44 @@
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmlXNDVnR21MQ3BEYTB3ellhM21Sdk0zV1RjMjVGOE10a3JZcWZ6NGdBRjRKNE80cXpjMzZlNllhejNoSk9QQlZxMnZiUTNubnE1Yl9Halg1RmpPVUZzOGlZWG1oNUxjYUtESkxMRkVseDBzdkdEZllvNGZQVExzWmJKakxUbE5Va0kwc3dvcFRFSEswWDJYZEl6d0Z3aUhEQUJZU012NmUzQQ?oc=5"
  },
  {
+  "id": "db3c3ac183",
+  "datum": "2026-04-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Grote politie- en douanecontrole op Kamper industrieterrein",
+  "bron": "Kampen Live",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "douane"
+  ],
+  "samenvatting": "Grote politie- en douanecontrole op Kamper industrieterrein Kampen Live",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0QxNTVKN2U5WjFmd0RtOXlTbG1BSUROZFloLUJBZ2lsTTZ4cDFoX2NTSHI3UzFKaHJEVXJBcVN0ZFI0ZjFmUVlVT3FWYnhSTFRTcms4Qnk1VjF0RW9NWExYLUJpUTRULWJodTdxWFBrSTRYX01jSW5UZDZiQmE0TWhJRTExMHlqZnlHR0FhY2xEajA2cnFYYQ?oc=5"
+ },
+ {
+  "id": "12a0a02778",
+  "datum": "2026-04-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Rijswijk strijdt tegen ondermijning en digitale criminaliteit | Al het nieuws uit Rijswijk",
+  "bron": "rodi.nl",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Rijswijk strijdt tegen ondermijning en digitale criminaliteit | Al het nieuws uit Rijswijk rodi.nl",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbWItbG90TDRzQW50WWE0WXJHVXVoZFFvUjY2dzRMRlppalA0ODAyNndVQ08zeDhJdklidXpMS0lCWDNoa1dPOGZnaE9rcUwtLVpZejkyVl9kZE4wN1oteUNJMVJ0SFlWMUlXeUx2RWY1cXJKUnRKSmFGRlh4aWplYkdqZVA0X0xyWWtGTl8wSC0wVE9HUHVmNHJGYU1NZHlNQzQwaXVCWQ?oc=5"
+ },
+ {
   "id": "ca0b03da36",
   "datum": "2026-04-13",
   "tijd": "07:00",
@@ -20107,6 +20350,27 @@
   ],
   "samenvatting": "’Een wietplantage ruikt naar boenwas’. Bezoekers van Veiligheidsdag in IJmuiden steken hun neus in geurvaatjes met drugslucht IJmuider Courant",
   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcjZUU19nTzBwVDNVbXZ5QzVOb3k3WkZ6T1NQZjlZNF84dEpNUFZLMXh2YzhZX3lwMlBCdWliMllTVE1zVEVMMWY3Z3RBZFphSS1mYUItWEg3Z1M5R2pkLU1EMjdsdGNLQTVIQ1RxRkYtNlRGV1pqX3Nwem0yaFZFcXBfQ1Y5WDlfbXVwcXJvdFFtbHB5bjJ4TnRJY3BjSEhIcmFZOVVpbW1NUl9KQ2xCUEh1Vmh2YlFGOVEtdjh4dG1DY3hncnpFVVVueUN3OW5ncTdtMlVRS3hERjU4QkhqMGlPTnRhQlRjemhLZnV4bjNsVEcxT2dMTS04ZWc0ckZ0WkpSM1hJTks4X0hDUkZZ?oc=5"
+ },
+ {
+  "id": "6ca9d9c126",
+  "datum": "2026-04-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Cijfers veiligheid in Rijswijk: lichte stijging in incidenten, maar zorgen om jeugd, digitale criminaliteit en ondermijning",
+  "bron": "Feel Good Nieuws",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jeugd",
+   "ondermijning"
+  ],
+  "samenvatting": "Cijfers veiligheid in Rijswijk: lichte stijging in incidenten, maar zorgen om jeugd, digitale criminaliteit en ondermijning Feel Good Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeFRzM1JQdU9HcFlwUmZZY0ktaTFCcVNyekNuSlNEU3RURE5tY2hEX2xNdmxLaDBBS2h3YTItek0zUjdvZ0JqRkRfaHpvYnd4R01uV3NWRHVLSWRWMWNfVWFsVmN6aW5nV3lhTjlVUVZzZTJpN1JCeFlrZVhGbUpTV2VkYkVNLWF4NlBkMXpha05XdFZSWFBsWlNvTzNQQVJsVjJBa0xUVGlxTkN6YTROYVV4Nm5LaGt0NHRuV0ZjOUpOcWY4M0tITEZuV1k1dHpsbU1ZRWk2Unh5STNTa3c?oc=5"
  },
  {
   "id": "748b077c0f",
@@ -20587,6 +20851,25 @@
   ],
   "samenvatting": "Waterschap is al miljoen kwijt aan kwikverontreiniging in rioolslib. Kosten door afvaldumping cocaïnewasserij lopen met ton per week op Noordhollands Dagblad",
   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOS0dKWVF1cUNBakRoTVF6NkluZ0FSQXZUb3RXd09XWHU0U1JxR1lvTDExdUVuVk4tNUMxNUtLNUczZC1UbW5lU1ZxbFRwTWxzT05vdnRwNU9hOGVPZnFjSHM1X0NMTWI1clRveklmWDlnTldtRVJxUmN4d1dOaDEtWmlTamZzZ2NvYmpVb2hRRUZlazZtWU5kNzgxNk5salF6cndOSElFZDhkZEp3QWZVTXlrdFR6SUdEV2NobDFRN1lyLWZhWW9VUzBlRzR4Z2VuREg4eEc0Qk9FdnI1TXA5elBnY1dyYl9nbndGRlpkMmhOM2xpeHdjS2FfdndNODFzMGpvZmxibmEyVjQ4OG1CcTQxbHdfTWNKaXdCQndrTG80R0xiMkE?oc=5"
+ },
+ {
+  "id": "49220860f8",
+  "datum": "2026-04-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hongaarse ondermijning toont aan dat Europa behoefte heeft aan gestructureerd plan voor herdemocratisering",
+  "bron": "bnnvara",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Hongaarse ondermijning toont aan dat Europa behoefte heeft aan gestructureerd plan voor herdemocratisering bnnvara",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGZOdUlQaVdkMTJJaVowUUQ0YkZ6bzVKbzNTWEUwemUwUG1YclFCMHd0RjBQRXkzYS1waF9nLVI3V09lelAyVjRKcTZsZFVWNXdWNElQODlVM3ZiUnVodDJtSXJLcy1wLXJNeUN1SUZDbkI5WlpoaUh2RWxhZTZPdnQ5ZFNYSGZFbU44NDZNQmxHRW5SWkFGUEdmOU1mSE1KRUlHR0dMMldCaDBwZGVDd2JGblhDa0VLQzdLeU5wVkFpaHZNZERqSXpZNF9tZ0FvcGRBVXAtOG1tUVhI?oc=5"
  },
  {
   "id": "6427ff8aab",
@@ -25783,6 +26066,27 @@
   ],
   "samenvatting": "Cel voor wapens en hennepkwekerij in woning Eerste Exloërmond RTVeen",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmE3WUVKLTZvdFNWVTRvMUlFTF9SbFV2Vm9LYmdjQkV5Ym9pTnlHYjhUYkZqUS1jX2ZXaVNRZHlVdnZYVGpkMHVONHRrTzlvWGRMbDBwTFpESEw2eENsWWpGOFpTRHV3eWRUTE9ra1R1MWxfeDMtNUdHbHFDM2d0QXBLeERJejhxd0JwUVk5Z0xiSno1ZHc?oc=5"
+ },
+ {
+  "id": "137847573b",
+  "datum": "2025-12-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zes personen gearresteerd na vondst van synthetisch drugslab in Heppen: recordjaar voor FGP",
+  "bron": "HBVL",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bv",
+   "drugslab"
+  ],
+  "samenvatting": "Zes personen gearresteerd na vondst van synthetisch drugslab in Heppen: recordjaar voor FGP HBVL",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYXVYcTdWMmE4VjFGeTJ4ZXV2QllxOU1hX3U1ZnNLdDB2OVQ5aE9TdEM1RDN6VW1oQklDaGdSR201QThVY2tadVppSlgwVEt1MGE2S2xfN3RzbFVITXlwb283dFNIZXJOTC02NVNRQWdWOEVPYnQ4dVpQM1Q4ZldObVJ3a0lRV0htWkppZnlLV045emtZeFVGZWhqcmU1cUJXaUUxM1N4d3dvZzFhNFNFLUwyOU9MMU9ZVEFRamM3SUx5RWV3a25Rek9LNzhZNmV3Qmd1VmxKQ2hUZmlya3NEWVlLMm56c2M?oc=5"
  },
  {
   "id": "d5493f27cb",
