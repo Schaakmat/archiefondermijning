@@ -1,12 +1,12 @@
 {
- "run": "23:28",
- "datum": "2026-09-02",
- "nieuw": 36,
- "totaal": 2251,
+ "run": "00:46",
+ "datum": "2026-09-03",
+ "nieuw": 45,
+ "totaal": 2278,
  "verwijderd": 18,
  "geweigerd": {
-  "geen dossier": 477,
-  "niet-nederlands": 1047
+  "geen dossier": 465,
+  "niet-nederlands": 1033
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 63,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 108,
-   "status": "bij",
+   "items": 111,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 125,
-   "status": "4 nieuw",
+   "items": 126,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -104,8 +104,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 50,
-   "status": "bij",
+   "items": 51,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -122,8 +122,8 @@
    "url": "news.google.com/rss/search?q=vastgoedfraude%20OR%20%22ondermijning%20vas",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 14,
-   "status": "bij",
+   "items": 15,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -140,8 +140,8 @@
    "url": "news.google.com/rss/search?q=trustkantoor%20witwassen%20OR%20katvanger%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 20,
-   "status": "bij",
+   "items": 22,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 18,
-   "status": "bij",
+   "items": 19,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -195,7 +195,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 25,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 102,
-   "status": "2 nieuw",
+   "items": 103,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 89,
-   "status": "bij",
+   "items": 93,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -248,7 +248,7 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 61,
+   "items": 62,
    "status": "1 nieuw",
    "ok": true
   },
@@ -266,8 +266,8 @@
    "url": "news.google.com/rss/search?q=liquidatie%20criminele%20milieu%20OR%20moor",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 43,
-   "status": "bij",
+   "items": 49,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 116,
-   "status": "6 nieuw",
+   "items": 118,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -563,7 +563,7 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 64,
+   "items": 66,
    "status": "2 nieuw",
    "ok": true
   },
@@ -572,8 +572,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 26,
-   "status": "bij",
+   "items": 28,
+   "status": "2 nieuw",
    "ok": true
   }
  ]
