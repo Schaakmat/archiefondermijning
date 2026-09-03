@@ -474,7 +474,7 @@
   "id": "7fbf08bdb9",
   "datum": "2026-09-03",
   "tijd": "16:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rijkswaterstaat door de bocht: Amsterdam-Rijnkanaal blijft 's nachts open",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -494,7 +494,7 @@
   "id": "c8a5dfd026",
   "datum": "2026-09-03",
   "tijd": "16:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dief steelt dure designertas, maar vergeet tijdens zijn vlucht zijn gezicht bedekt te houden",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -513,7 +513,7 @@
   "id": "6386c01310",
   "datum": "2026-09-03",
   "tijd": "16:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrienden waarschuwden doodgeschoten beveiliger Berry: 'Moet je dat wel doen?'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -13250,6 +13250,25 @@
   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWjUzWnZRaVd1d0dhS05iMkZXNDhxc2tiT3ZwWmpEN012aHdXOWlKM1pmWFMydnVhT09FR05vWURKTk9sbnV1ODFJdkItSVd3YXRCSndBZlJDWlR4dGVZU001NHZvT0VES3dtZGVzMW8yb3FCVHp3c3pCdVdIVzNJQm52dDd5VUwzcDM3QldQa01fTEhmUGtZOGFYcVRZamV1OHJ2elNVRVVGNnhYZmZKb0lGQm5iLTRQWW9zT050MUlCLWlvNzJNUEhxSUF4UlJ4Q0xNbEpCR21OcTREOUpIUGFSLV90LTFuSUktaW5xaW9PdFhad3NiWUhOOXNSR2t6V1E?oc=5"
  },
  {
+  "id": "0028b8886f",
+  "datum": "2026-07-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Roemeense bende verdacht van uitbuiting sekswerkers op Amsterdamse Wallen",
+  "bron": "NU",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende"
+  ],
+  "samenvatting": "Roemeense bende verdacht van uitbuiting sekswerkers op Amsterdamse Wallen NU",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaktDOVd6YkhUeE5raEhOdDk0RnBFWG5za2dyUld1ZWdaUHEwNXltSUJRYWhWbmJ0cWJnWmNRLXk1UUo1cTFqemxaaGVLUXVUZ2NMS3RMdUM1TFdEd2JHQk1LVWdkNEdvU1VHSW1sN04yUV9QQnVrQ2xwbDRiYVUyckljYXZudlNKZnRGd1FJZWlLR09wRUh3WjhLMEEzNFJqSDF3ajNpZTNnV1hrSmdnNVdn?oc=5"
+ },
+ {
   "id": "31007220a9",
   "datum": "2026-07-14",
   "tijd": "07:51",
@@ -24408,6 +24427,25 @@
   ],
   "samenvatting": "Deze mannen zorgen ervoor dat drugsafval wordt opgeruimd Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUd0d2dpLU5KaUtoMlpQc0g2dTh5bzVpSVp5aWZFVDBJaXJ4emxhWmFEYWlPMmJXMFg1OG5QdVY2NjNoRDE5bnpsVmozZFRPcmNLYnNKVUxkY0cteU90Y1RyejR0T3VldEt1SGJaN3pMblBMdWc0SU9GX1RiRVdMa0JjSUpWWUF4VGYwVXRXSTlrZS0yeFpqZU9XTW42R3hQNkE?oc=5"
+ },
+ {
+  "id": "a348b98f3c",
+  "datum": "2026-03-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Man uit Oudewater aangehouden voor drugshandel en witwassen",
+  "bron": "rtvutrecht.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Man uit Oudewater aangehouden voor drugshandel en witwassen rtvutrecht.nl",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR3RwTm9EcS1YdWlfVnZiNURaeHJzdXpndmR5eXlUWUJQWVJNYTBLV2U1SFktQmFtSkRrZVFhRWdURGhaZENDay1KMHhGSVdDYmFmRFdWV1QwLW1HZm1hdDJLNTBSTFFJQjVjVWdVVVF2NFQyMDlnc1BienpfeHIyMTVZTTBXai1zNDNNTmxvWjJOTm5fMmdGZUQtamtaV1JTS0E?oc=5"
  },
  {
   "id": "59f409469b",

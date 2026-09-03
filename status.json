@@ -1,12 +1,12 @@
 {
- "run": "22:31",
+ "run": "23:28",
  "datum": "2026-09-03",
- "nieuw": 25,
- "totaal": 2569,
+ "nieuw": 22,
+ "totaal": 2571,
  "verwijderd": 20,
  "geweigerd": {
-  "niet-nederlands": 1028,
-  "geen dossier": 477
+  "niet-nederlands": 1027,
+  "geen dossier": 469
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 89,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -68,7 +68,7 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 163,
+   "items": 164,
    "status": "1 nieuw",
    "ok": true
   },
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 139,
-   "status": "bij",
+   "items": 140,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 55,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 28,
-   "status": "5 nieuw",
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 55,
-   "status": "9 nieuw",
+   "status": "8 nieuw",
    "ok": true
   },
   {
