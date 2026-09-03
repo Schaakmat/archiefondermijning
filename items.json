@@ -1,5 +1,73 @@
 [
  {
+  "id": "f7c0e8e9c3",
+  "datum": "2026-09-03",
+  "tijd": "10:30",
+  "nieuw": true,
+  "titel": "Tekort aan kamers blijft hoog, meer studenten blijven thuis wonen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Het tekort aan studentenkamers is in een jaar tijd nauwelijks afgenomen. Kenniscentrum Kences, dat jaarlijks de Landelijke Monitor Studentenhuisvesting publiceert , schat het tekort op 20.200 wooneenheden. Vorig studiejaar was dat nog 21.000. Door de aanhoudende krapte op de woonmarkt kiezen steeds meer studenten ervoo",
+  "link": "https://nos.nl/l/2629471"
+ },
+ {
+  "id": "b1723b5cd8",
+  "datum": "2026-09-03",
+  "tijd": "09:41",
+  "nieuw": true,
+  "titel": "Woning Overasselt moet een jaar dicht, bewoner mag twee weken gemeente niet in",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs",
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "boerderij",
+   "burgemeester",
+   "doodgeschoten",
+   "drugslab",
+   "geweld",
+   "grond"
+  ],
+  "samenvatting": "De woning in Overasselt waar deze week een 51-jarige beveiliger werd doodgeschoten, wordt per direct voor een jaar gesloten. Dat heeft de burgemeester van de gemeente Heumen bepaald. Ook mag een van de bewoners van het pand twee weken lang niet op het grondgebied van de gemeente komen. De gemeente wil niet zeggen om we",
+  "link": "https://nos.nl/l/2629465"
+ },
+ {
+  "id": "dda5a7aec7",
+  "datum": "2026-09-03",
+  "tijd": "08:30",
+  "nieuw": true,
+  "titel": "Groningen trekt jaarlijks 300.000 euro uit voor aan voor aanpak mensenhandel",
+  "bron": "Groninger Internet Courant",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Groningen trekt jaarlijks 300.000 euro uit voor aan voor aanpak mensenhandel Groninger Internet Courant",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGMwc0VuVmtVU0ZRcVlMbS1yV2lDR3Z5WW9iazlKVGtUZ1p4V2otZXMtWnFyMnM0V2lUVURkYy1jQzJwVVZBWGF5el9jbjhtR1dSWnVJTGh4OUE2SnpsZGtxSmtsUy1DSHExNkZfT0dQbTJRN1hVaXRaRmYyVnJYNnliV3RUN1dHZ2ZwZTRwSUdKWGxDUnhMcEhQVnpSYmNUZDB0SQ?oc=5"
+ },
+ {
   "id": "ddd24faec4",
   "datum": "2026-09-03",
   "tijd": "06:46",
@@ -165,6 +233,25 @@
   ],
   "samenvatting": "De Duitse justitie heeft een kraanmachinist uit Roemenië (35) als verdachte aangemerkt na het dodelijke bouwongeval in Bernau, vlak bij Berlijn. Daarbij kwam twee weken geleden een 56-jarige bouwvakker uit Rijssen om het leven. Een vallende container raakte hem op de bouwplaats.",
   "link": "https://www.oost.nl/nieuws/3691246/roemeense-kraanmachinist-verdachte-na-dood-bouwvakker-uit-rijssen"
+ },
+ {
+  "id": "41eec7726d",
+  "datum": "2026-09-03",
+  "tijd": "04:58",
+  "nieuw": true,
+  "titel": "Kraanmachinist verdacht nadat man uit Rijssen (56) verongelukt op Duitse bouw",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container"
+  ],
+  "samenvatting": "De Duitse justitie heeft een kraanmachinist uit Roemenië (35) als verdachte aangemerkt na het dodelijke bouwongeval in Bernau, vlak bij Berlijn. Daarbij kwam twee weken geleden een 56-jarige bouwvakker uit Rijssen om het leven. Een vallende container raakte hem op de bouwplaats.",
+  "link": "https://www.oost.nl/nieuws/3691246/kraanmachinist-verdacht-nadat-man-uit-rijssen-56-verongelukt-op-duitse-bouw"
  },
  {
   "id": "73a097f0ec",
@@ -1381,27 +1468,6 @@
   ],
   "samenvatting": "Overasselt stond dinsdag in het middelpunt van de belangstelling. Een grote groep gemaskerde mannen liep er over straat, een deel van hen met zware vuurwapens. Voor de woning van een man die met drugshandel in verband wordt gebracht, schoot één van hen een beveiliger dood. In de uren die volgden verrichtte de politie t",
   "link": "https://www.gld.nl/nieuws/8517066/live-grote-zoekactie-op-grasveld-heftige-video-duikt-op"
- },
- {
-  "id": "1d5e4054d3",
-  "datum": "2026-09-02",
-  "tijd": "08:29",
-  "nieuw": false,
-  "titel": "Voormalige bestuurders en diplomaten roepen op tot strengere maatregelen tegen Israël",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "bestuurder",
-   "wapen"
-  ],
-  "samenvatting": "Meer dan 230 voormalige bewindspersonen, ambassadeurs, diplomaten en ambtenaren roepen het kabinet op om meer maatregelen te nemen tegen Israël. In een brief vragen ze onder meer om een volledig wapenembargo en het opschorten van het handelsverdrag tussen de Europese Unie en Israël. Volgens de ondertekenaars blijven de",
-  "link": "https://nos.nl/l/2629335"
  },
  {
   "id": "83f203c4ce",
@@ -2809,6 +2875,25 @@
   ],
   "samenvatting": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWW5tM2JvcmpRdzZGNnNxTGV0SWRVWUNYd1lVYXlIaV9pTUkyMFhDTmRJQ21tQ296OE4yRGFLQjhrWG5UZHYxWmhaY0ZZN0h4dzdwRTNuOF9YRy1mNHJ0a2xPdnhWemhCVnZlMnFiOEJyd3puQkxYc204bHYzTnpkUXZMTmFUVTZVa0FzVVlWTnlCOXF2cGNSbnRYOXJPaDUxYmRKTXBlOW9Zenp6Z21ySHd1NmU2RTBtWDd2b19jLWtVdWR3QkdFOTg1Z3g?oc=5"
+ },
+ {
+  "id": "d4703b5290",
+  "datum": "2026-08-31",
+  "tijd": "08:04",
+  "nieuw": false,
+  "titel": "Veel vacatures voor boa's in onze regio: meldingen blijven langer liggen en controles gaan niet door",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Minder toezicht op straat, controles die niet doorgaan en meldingen die langer blijven liggen. In meerdere gemeenten in de regio heeft een tekort aan boa’s direct gevolgen voor de handhaving. Ook als het gaat om bescherming van de boa’s worden er door gemeenten verschillende keuzes gemaakt: van geen bodycam tot een pro",
+  "link": "https://www.rijnmond.nl/nieuws/2245867/veel-vacatures-voor-boas-in-onze-regio-meldingen-blijven-langer-liggen-en-controles-gaan-niet-door"
  },
  {
   "id": "ac8c22e9c9",
@@ -11869,6 +11954,25 @@
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2lUNjd0R2MwUF9fVWlPenZ6UmpnalV3YWhxUzBUVVNEb3pCdFJTZDdzbzhfWGZ0Y1I0RWpHWHBWR1QtcHpCMFVORVF0Qm9GUW8ydmFtSHFrYWFTblo4R3JXdGZDRUdvSmplT3Nzblhzc0pMZzM5ZUp5dVZfc3dua2QxaVBYd3BLMXhNejlFSWRiODJMdDNrNUpYclUyWURQNF9kYkZEV1ZxQ1BLZXJXZVdESlZtQ2hmMlVKZVM1NzdhT0E?oc=5"
  },
  {
+  "id": "73d4e0c34a",
+  "datum": "2026-07-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vijf verdachten gearresteerd voor crypto-oplichting van meer dan 200 Belgen en Nederlanders: “Sprake van tientallen miljoenen euro's\" (Krant van West-Vlaanderen)",
+  "bron": "KW.be",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "crypto"
+  ],
+  "samenvatting": "Vijf verdachten gearresteerd voor crypto-oplichting van meer dan 200 Belgen en Nederlanders: “Sprake van tientallen miljoenen euro's\" (Krant van West-Vlaanderen) KW.be",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWjUzWnZRaVd1d0dhS05iMkZXNDhxc2tiT3ZwWmpEN012aHdXOWlKM1pmWFMydnVhT09FR05vWURKTk9sbnV1ODFJdkItSVd3YXRCSndBZlJDWlR4dGVZU001NHZvT0VES3dtZGVzMW8yb3FCVHp3c3pCdVdIVzNJQm52dDd5VUwzcDM3QldQa01fTEhmUGtZOGFYcVRZamV1OHJ2elNVRVVGNnhYZmZKb0lGQm5iLTRQWW9zT050MUlCLWlvNzJNUEhxSUF4UlJ4Q0xNbEpCR21OcTREOUpIUGFSLV90LTFuSUktaW5xaW9PdFhad3NiWUhOOXNSR2t6V1E?oc=5"
+ },
+ {
   "id": "31007220a9",
   "datum": "2026-07-14",
   "tijd": "07:51",
@@ -12424,6 +12528,26 @@
   ],
   "samenvatting": "Drugslab in stacaravan op vakantiepark, ook wapens en munitie gevonden Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWI2d1B1WVBiY01oNzdyUnh5UWZsOGtackZPMjRnV3ZYVzYzYUlITzExbVlmelFkaE1CR2pfUzNuSFRCN0RLR1pQdC05b084aXE5enJNeDZqNklZX3NNS0tQTXlCa3lueWFzaTRxSFRXTUF4UXhpRFZQdHpuM1I4TGFyOVZZcmF2UHUxeGpkRnMzcVVITHZ0YW5RRkd2T3NQS0dsWWZBRFJvaldMOUVCNTd2MA?oc=5"
+ },
+ {
+  "id": "abbd180d5a",
+  "datum": "2026-07-08",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Opsporing en voorkoming van uitkerings- en zorgfraude levert het Gooi een besparing van ruim een miljoen op",
+  "bron": "De Gooi- en Eemlander",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "zorgfraude"
+  ],
+  "samenvatting": "Opsporing en voorkoming van uitkerings- en zorgfraude levert het Gooi een besparing van ruim een miljoen op De Gooi- en Eemlander",
+  "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRnp4OVo1OXN5cXNNa3Z4aWZTYW1ucHpNX1M0TkRrTDM1U2w0RjRvUW1HeDcwX2JDUW5EY1c5ZWRRM0xZS1dibm5SekVqc0tiWi03QzYtYUt3UHVkb01XR29QQUxwX3hzSkc5VjJZMk5kR2VmbGhIdW45T01qVHRmYnh5YUxZcVU3Mk00b2R6ZWY0U2tHY2l3YURRNXAxRUs2Tzk1dy1lMF81UkJlNzF5Tzg0OVJvU0lZSlFrQ2NteWlCZ2wyVTN5UkxnVlFtZTRHQk9MenVzZHhUdU5JWnpwNUQwWGVMTVFqZnBuVXlUVG5scjhDV1ZYZ3QtQnhkdXBhN3hSSQ?oc=5"
  },
  {
   "id": "5bca73cac3",
@@ -29120,6 +29244,27 @@
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQel95SUdoMmkwM1dyZ3g3bTNuOXFzclhSX3VjYlc1dUFUT01HNXNNUHN2WWExNlNIdFRVdEJaT1BnR2VzSFB1Zjk1a2JRX2tyQ3BfeEhlS0g0NXlMVnh3R012Mk1nYktCUUNJUFliWXlZcW52Nkh2WmNVdmNHQzRrQzNnc3B4ZmM5YXZzZmhnYXF1T2tSSVZmUWNxNXIyYWpVWW8xUW53TFRhNjRtUXhuUHZxMmdncWQ5U1A4TXBlRmI1dXBBTTFxZjc1VzRzaWE1TW0tSw?oc=5"
  },
  {
+  "id": "1f9ff1fd4a",
+  "datum": "2025-07-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "180.000 euro en crypto aangetroffen na inval in Lombok, eigenaar verdacht van witwassen",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "witwassen"
+  ],
+  "samenvatting": "180.000 euro en crypto aangetroffen na inval in Lombok, eigenaar verdacht van witwassen De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRUZMRlJtWGJmdmVyQnVXNHpGem43aFRrZVNPZWMzMHZ4YTFxS0ZqUkM1MEFBeVhkNEF6N1hBSTY0aldCQlo0al9RLXBCOE11djRnWk5kRW0tQURzTGhTM052OExsTDhycG9OSTJYYVh0c3lDaV91OUJUSDZjZFhMOUQ5WE9aMFdyMWpYbC16X01wTkpwNmNkSG1Rdy1obThPNU1JZ0dUMy0tVEN4SS1uaXhHYnVMMzNKTFMzRUZHcUE2UW1JWm1haEhUUjVDQzNmd3dJTFQ2UG5HSHdhd2VLU0RkZ3o?oc=5"
+ },
+ {
   "id": "c257627a6c",
   "datum": "2025-07-03",
   "tijd": "07:00",
@@ -29531,6 +29676,25 @@
   ],
   "samenvatting": "Aanwijzing voor trustkantoor DTS Dutch Trust Services B.V. vanwege vastgestelde tekortkomingen in SIRA en het cliëntenonderzoek De Nederlandsche Bank",
   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxON2tTRjIwNXJ5cFJHdi11RUtBa05zSEptNG1ONzd2eHAtS0JqcHBZT29GNEVPNTN6MjM5MjY3WURyZkcxVVItSUpUVkNOMVdudGJEZ3ktYmp3MUNhRi0xZl9HN3NCcFJaNUd0dTVqOTA2aXhNc1otdGtkYUlTRl9WQlFpRWFya2djOU1kMlMzWmtMZzhlV3Y4OXhma0hNWW5QZnd1R2JPVDVjRmhPeExJbW9TRjhjckxRWXdsTEJqLWVXd2F0RzNNRFd0OTlHYi1raDdsbGg0WkllY1hUVUpkS0YyTHF0Vk0wQmpON2E3NldaUWdfZXM0aFlLQ3lmcjFWSHhzRE5Ddlg5TGc3ZEw4VDBOT3k1MjQ?oc=5"
+ },
+ {
+  "id": "8a3f301d93",
+  "datum": "2025-06-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zorgfraude kost veel geld en speelt ook in Ede",
+  "bron": "EdeStad.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Zorgfraude kost veel geld en speelt ook in Ede EdeStad.nl",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGgtSXNyRWdEc0paUUZFQ2VGNmNRSFpsalB0T3NnbnVGc1AyRzlWUTR1QlloX2ZEbGRpZElNTm8tdk82dUFldEw5amJwU2lKZ3M3cHMyOGVqaGpBdzJoVEZabV9SRXVNcF84VmQzcjVyWVNGcl9KVVNuMmJfYkd2VmZfYm9jbWEyQU9oQk1hOVJlSzhPeDFoTw?oc=5"
  },
  {
   "id": "61edad9a15",
@@ -37735,6 +37899,26 @@
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGVyNnBpQzlPZHJLS2IyeXZkWXh1Ync4T0hqSzRxVjJHblo4amg4bkRjc2J1OGVqR1FqcGlWbGdjNkFZZ3ZvNk1ia3NOOUZ2RWxrWWRRWWJrX2RiV21XYTZ0V3UtUllVcVdiUjBtNzhJZWwyR3ZvS3h3c2xvV0gtQ3FudzBuOVRCVmJNWFBmOEpCWmdWaS1TcQ?oc=5"
  },
  {
+  "id": "c3811ed55f",
+  "datum": "2023-06-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Rotterdam wil meer mensen uit de bijstand en extra controle op uitkeringsfraude",
+  "bron": "Rijnmond",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "uitkeringsfraude"
+  ],
+  "samenvatting": "Rotterdam wil meer mensen uit de bijstand en extra controle op uitkeringsfraude Rijnmond",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUJrOFh0MUFDVmgzN2hwS3Y1TF8ycUdiY0k2SnFXTVVWdUp0S2tibk94LU9XR2tRc0V2SXJrVXdlMy14aUJQVTNIeHNjbDFVdFBVYzA2WEtYbFdtZmY3M0NKX0dTM0lIX3JodlNOS0JxM2tZbDB5QlpFSWhXSkZxRGYxRFRRUzFnY2RuU3ZZUlNPdGtCVndOVFFuOGItclZ6Y1BmRndyYUFtNU5zc2V1OUktUktwU0VtaGc?oc=5"
+ },
+ {
   "id": "fa7a26065c",
   "datum": "2023-06-16",
   "tijd": "16:14",
@@ -40504,6 +40688,25 @@
   ],
   "samenvatting": "Vuurwapens, geld en auto's in beslag genomen bij invallen in Noord-Holland NOS",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZnA4bm9jWjF3djVkS2F6WFBYYXRfNklTekk4S0s4VENvRV9kd3RxZmtfdGdBaVVvSmJWZThnTndCTktkWm1kNXhnejlWU1Z1bFVrY05vbDNkQlQ5akJMOG5VaC00Wm1LZjg4bWF5VExDU3FsbVRBbWpYZlllLXlTWC00UkRYN3pGY2pEbjZudEtkOC1yZlNzMk5JRVRqTEFoSkxrdm9jbw?oc=5"
+ },
+ {
+  "id": "7bfb9bef73",
+  "datum": "2022-01-23",
+  "tijd": "21:51",
+  "nieuw": false,
+  "titel": "FIOD zit cryptofraude dicht op de huid",
+  "bron": "Taxlive",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "crypto"
+  ],
+  "samenvatting": "FIOD zit cryptofraude dicht op de huid Taxlive",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRndPYlp5NnZzTGNheXlrN0ZseEprLXNMOVBKalJYOUNlRTh0ZVFfV2RJRUJjcWVjM003Q291SlphdWRla09za3dMR0E1cXJlMVRhUE1UclMyX3pITGs2U09UNmFPWnZ6VmFsRUN5Y3g0Tk85Sng5eDR3Tzk4SlpLZ2xSSS1JM2xCQXNZ?oc=5"
  },
  {
   "id": "54b9ea445d",
