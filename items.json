@@ -40,6 +40,44 @@
   "link": "https://nos.nl/l/2629573"
  },
  {
+  "id": "b2e833ffc1",
+  "datum": "2026-09-03",
+  "tijd": "20:40",
+  "nieuw": true,
+  "titel": "Melding over gewapende man op straat: politie en Marechaussee komt in actie",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De politie was donderdagavond met veel agenten aanwezig in de Wagnerstraat in Dongen. Volgens een melding liep er een bewoner over straat met een vuurwapen. De politie was daarna druk bezig om de man uit huis te krijgen. Met een megafoon werd de man door agenten in de straat toegesproken. Uiteindelijk kwam de bewoners ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025903/melding-over-gewapende-man-op-straat-politie-en-marechaussee-komt-in-actie"
+ },
+ {
+  "id": "ce7c76ee46",
+  "datum": "2026-09-03",
+  "tijd": "20:26",
+  "nieuw": true,
+  "titel": "Auto vliegt uit de bocht en botst tegen boom in Helmond",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een bestuurder van een auto is donderdagavond uit de bocht gevlogen en tegen een boom gebotst in Helmond. Wonderwel raakte de man in de auto niet ernstig gewond. Een omstander vreesde het ergste toen hij 112 belde na het ongeluk. Hij durfde zelf niet te gaan kijken. Meerdere wagens van de politie en brandweer kwamen ve",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025902/auto-vliegt-uit-de-bocht-en-botst-tegen-boom-in-helmond"
+ },
+ {
   "id": "6384573088",
   "datum": "2026-09-03",
   "tijd": "19:37",
@@ -477,7 +515,7 @@
   "id": "257d631107",
   "datum": "2026-09-03",
   "tijd": "15:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (41) uit Valkenswaard opgepakt bij oprollen drugslab in Pelt, ook zijn woning doorzocht",
   "bron": "Valkenswaard24",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -498,7 +536,7 @@
   "id": "6ed87c45ed",
   "datum": "2026-09-03",
   "tijd": "15:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Waarom Jan G. niet zomaar uit zijn huis in Overasselt kan worden gezet",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -521,7 +559,7 @@
   "id": "3c35ef062b",
   "datum": "2026-09-03",
   "tijd": "15:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inbrekers slaan met truc toe in appartementencomplex Little C: meer dan 20.000 euro buit",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -540,7 +578,7 @@
   "id": "97227d324f",
   "datum": "2026-09-03",
   "tijd": "15:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mannen uit Valkenswaard en Eindhoven opgepakt in groot drugslab in België",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -559,7 +597,7 @@
   "id": "ac53fb74a7",
   "datum": "2026-09-03",
   "tijd": "15:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bejaarde vrouw trapt in babbeltruc: zij geeft waardevolle sieraden en 3000 euro mee aan onbekende vrouw",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -580,7 +618,7 @@
   "id": "503433414a",
   "datum": "2026-09-03",
   "tijd": "15:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Huis burgemeester Heumen beveiligd met politiecamera's",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -599,7 +637,7 @@
   "id": "77e5934bc7",
   "datum": "2026-09-03",
   "tijd": "15:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Huis burgemeester Heumen beveiligd met politiecamera's: 'Er wordt voor mij gezorgd'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -33786,6 +33824,25 @@
   ]
  },
  {
+  "id": "36f01f3a12",
+  "datum": "2025-04-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Burgemeester Hoogtanders van Roermond doet aangifte tegen horecaondernemer wegens schending geheimhouding",
+  "bron": "De Limburger",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "schending geheimhouding"
+  ],
+  "samenvatting": "Burgemeester Hoogtanders van Roermond doet aangifte tegen horecaondernemer wegens schending geheimhouding De Limburger",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVnAzZW9TLUM4dWxXQ3lWWmZxLUxDWGJZRVR3TDJZTTF1V01FSTJzWjBHMzViTjlTTTVNRVZhRGIzbmczZG5JenowempmNlhGUnp3eEFKTmhhaWMtZmtRMnZTOUowNnRwWmpMbWkxZEdVeF9KVS1FSEltQ1VyRDRmQjNsNWxJbVRqOUhMTXJzZ1ZfRG95SFYyNHRtS2JrMTU5bkhIakpMcXlNWTI4ZUJsVlhqUzNHeVFQaTNuTTRtZXVxdmJDMU9lTHBEbTVYU2dLeWowQS1RMl8wTG9XUWF5NlNsRnJ2R3BVdHhuZ0hJWlU?oc=5"
+ },
+ {
   "id": "0e66688bd4",
   "datum": "2025-03-31",
   "tijd": "07:00",
@@ -34929,6 +34986,25 @@
   ],
   "samenvatting": "Zo veranderde de haven van Rotterdam in een ondoordringbaar fort tegen cokesmokkel De Telegraaf",
   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOYnRTanZUZzAzd3daTTFLWGlLOXNVd2ZKaVM2T19YLXRiN2Z6N0NhU3NPelFXczYzVks1SnBrVm5wR1pyNGNBa2liUWJWY3NYU0RzX2FCVXpZVUhuemJ3d1puaEtORTNYWWNxMmd4dGdpZGJWNmVEeVFQNGNIRDZlMVZRSjUyX1BULVg4OHFEYU1Pam56Q2JobWlWMXdXUzh5X2VkMzBpSk1PTjIwZUxMTmtXMGppS3dsSE5BeE10YkNJWEpTTkN5dVJkSFZkS01rSFNJZ0R6TUU1VmVrWWd1RFhwZDJwZ2JsSnhVcE5odHlHY3I2ODdCVlZZNnlMS0txS19yekdjdl9SY2lT?oc=5"
+ },
+ {
+  "id": "09256a20a5",
+  "datum": "2025-01-23",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie legt beslag op recordbedrag van 41 miljoen euro aan cryptomunten",
+  "bron": "NU",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "crypto"
+  ],
+  "samenvatting": "Politie legt beslag op recordbedrag van 41 miljoen euro aan cryptomunten NU",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVmxpSFZWckxDc3pGSXo0NkpGTk5UYVZWRmFWV29yT1Y2TWJkNzBPZkdsdFpLSS1uZ1ZtaFREZ0YzZFU5ZXRtQ05fWWQ2YWd0M0NJTlEyU0JGdjBLSl9VUkZsQWVUOEVEQUNiWnRza2djYjlsQkFORTdYZDFOaVlEMWd6WGdXOHRCQldzRUFwNEFLQzYybTNkc1F5Q29FUTl5V0lZdUZ1WUJzWnI3NWhGag?oc=5"
  },
  {
   "id": "08b2c14149",
