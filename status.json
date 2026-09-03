@@ -1,12 +1,12 @@
 {
- "run": "05:13",
+ "run": "05:49",
  "datum": "2026-09-03",
- "nieuw": 51,
- "totaal": 2330,
- "verwijderd": 17,
+ "nieuw": 32,
+ "totaal": 2344,
+ "verwijderd": 18,
  "geweigerd": {
-  "geen dossier": 446,
-  "niet-nederlands": 1041
+  "geen dossier": 445,
+  "niet-nederlands": 1046
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 68,
-   "status": "3 nieuw",
+   "items": 69,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 119,
-   "status": "7 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -51,7 +51,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 53,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 129,
-   "status": "3 nieuw",
+   "items": 131,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 23,
-   "status": "3 nieuw",
+   "items": 24,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 105,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 111,
-   "status": "6 nieuw",
+   "items": 112,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 62,
-   "status": "bij",
+   "items": 65,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 50,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -357,7 +357,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 29,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -393,7 +393,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 21,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -447,7 +447,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 55,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -474,7 +474,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 4,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 39,
-   "status": "bij",
+   "items": 40,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -509,7 +509,7 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 61,
+   "items": 62,
    "status": "1 nieuw",
    "ok": true
   },
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 41,
-   "status": "bij",
+   "items": 42,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 67,
-   "status": "1 nieuw",
+   "items": 70,
+   "status": "3 nieuw",
    "ok": true
   },
   {

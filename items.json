@@ -68,6 +68,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522343/omwonenden-fel-tegen-plannen-voor-flatgebouwen:-'dit-kan-niet-zo-midden-tussen-een-woonwijk'"
  },
  {
+  "id": "ad60c3b70b",
+  "datum": "2026-09-03",
+  "tijd": "05:23",
+  "nieuw": true,
+  "titel": "‘Mijn eerste moord was zwaar. Daarna werd het werk,’ zei de commandant van een drugskartel kalm - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "‘Mijn eerste moord was zwaar. Daarna werd het werk,’ zei de commandant van een drugskartel kalm Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc29Fekc1WGZFZDc2Zl9QWVlUTmJSVWY5SjA5dUY4WnpqYnB4WDQwLVVKcXE5Q3FSLUJJa3pyRGZCc0M4REVOVkxHeXRkandUNDFISkRRbDZSMlFYQ1BMblVXeVhPOXZHa08yRjhvXzU3U091clNTV3N1R3FWYXpybVhxSkpYbDE0QkxBcUV3ZWd2RW1tTEp1UTZNVE9GQW1nbm93aGZnRFF6VEctTlFjTmhvblRJUFFnZktKbEVBbEZBNDNuNENmeDBIYTM?oc=5"
+ },
+ {
   "id": "ed8969b328",
   "datum": "2026-09-03",
   "tijd": "05:10",
@@ -85,11 +104,11 @@
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRmRlTW1CWWk4dEFvQ0tTZnlmQXNIZUZLeUlDSGF6MXdWZ19OYjViZ2hZNVJrNl9WTjdsSEZUVVktWlN4Q3pTeFVJcWhUeTlCc1AxUVN0S1dVN1BKd01oR1FNUTJaa0pOYjJVWUdsX2s0TjZ4aDR4TUpQSk15TXAzOGJmb0ZHamtXVjRIeEtIVFZwNXpzX29BaTJxMXY1djdtOTBkNk1xSVRJdmdMY1hBQl94aTdubFdxZ1l5ZA?oc=5"
  },
  {
-  "id": "13b0e6290f",
+  "id": "221d692a44",
   "datum": "2026-09-03",
   "tijd": "05:00",
   "nieuw": true,
-  "titel": "Vrijwilligers treffen ravage aan na inbraak bij het Proeflokaal",
+  "titel": "Inbrekers gaan ervandoor met kluizen en gereedschap van het Proeflokaal",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -105,7 +124,28 @@
    "pand"
   ],
   "samenvatting": "Vrijwilligers van Berne Abdijbier schrokken toen ze woensdagochtend het Proeflokaal in Heeswijk Dinther openden. Inbrekers hadden 's nachts toegeslagen en gingen er vandoor met twee kluizen, consumptiemunten, gereedschap en zelfs kratten bier en frisdrank. \"De hele kast was geforceerd\", vertelt medewerker Gijs van Dore",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025701/vrijwilligers-treffen-ravage-aan-na-inbraak-bij-het-proeflokaal"
+  "link": "https://www.omroepbrabant.nl/nieuws/6025701/inbrekers-gaan-ervandoor-met-kluizen-en-gereedschap-van-het-proeflokaal"
+ },
+ {
+  "id": "73a097f0ec",
+  "datum": "2026-09-03",
+  "tijd": "04:25",
+  "nieuw": true,
+  "titel": "Burgemeester komt met besluit over woning en perceel Jan G. in Overasselt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "woning"
+  ],
+  "samenvatting": "Burgemeester Joerie Minsens van Heumen komt deze donderdag met meer duidelijkheid over de woning en het perceel van Jan G. aan de Ewijkseweg in Overasselt. De burgemeester zal bekendmaken of de woning wordt gesloten en of er aanvullende maatregelen worden genomen.",
+  "link": "https://www.gld.nl/nieuws/8517473/burgemeester-komt-met-besluit-over-woning-en-perceel-jan-g-in-overasselt"
  },
  {
   "id": "5d850e1d1c",
@@ -631,7 +671,7 @@
   "id": "1238cd16a2",
   "datum": "2026-09-02",
   "tijd": "14:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Harde woorden van Europese ministers over Russische ondermijning in Duitsland: ‘door staat gesteund terrorisme’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
   "bron": "Nieuws — Beleid, wetgeving & toezicht",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -652,7 +692,7 @@
   "id": "e2bc273346",
   "datum": "2026-09-02",
   "tijd": "14:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Snelweg bij Rotterdam dicht in avondspits na ongeluk met zes voertuigen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -671,7 +711,7 @@
   "id": "18b08e178f",
   "datum": "2026-09-02",
   "tijd": "14:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Snelweg bij Rotterdam was bijna twee uur dicht na ongeluk met zes voertuigen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -690,7 +730,7 @@
   "id": "9635514620",
   "datum": "2026-09-02",
   "tijd": "14:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "2/9 in Nieuwsuur: Overasselt hoopt dat buurman Jan vertrekt • Wat Roemenië merkt van de Oekraïne-oorlog • Waarom lezen onze kinderen zo slecht?",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -709,7 +749,7 @@
   "id": "bcd469700d",
   "datum": "2026-09-02",
   "tijd": "14:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Deventer ziet meer daklozen en drugsoverlast: 'Loopt ons over de schoenen'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -728,7 +768,7 @@
   "id": "4a91481c99",
   "datum": "2026-09-02",
   "tijd": "14:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tientallen mogelijk met drugsafval gevulde jerrycans gedumpt bij eindpunt tram 26",
   "bron": "oost-online.amsterdam",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -749,7 +789,7 @@
   "id": "a197ee142a",
   "datum": "2026-09-02",
   "tijd": "14:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bryton (6) vliegt door de lucht na aanrijding, bestuurder had al dik verkeersdossier",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -768,7 +808,7 @@
   "id": "25cb808195",
   "datum": "2026-09-02",
   "tijd": "14:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "uitkijkpost-de-wallen-(450):-de-herrie,-het-vuil-en-de-bibob",
   "bron": "Reporters Online",
   "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
@@ -787,7 +827,7 @@
   "id": "1697013604",
   "datum": "2026-09-02",
   "tijd": "14:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie wethouders Sluis • Wethouders Borsele geïnstalleerd",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -808,7 +848,7 @@
   "id": "b363555e70",
   "datum": "2026-09-02",
   "tijd": "14:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Portefeuilleverdeling wethouders Sluis • Wethouders Borsele geïnstalleerd",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -829,7 +869,7 @@
   "id": "138b275341",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tegel van verdachte wijkagent Erwin weggehaald uit Tilburgse Walk of Fame",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -850,7 +890,7 @@
   "id": "73d4d3f723",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | 'Onder protest' mee naar Overasselt • inwoners kijken geschrokken terug",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -871,7 +911,7 @@
   "id": "685085b379",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Politie vindt meerdere pistolen • morgen meer duidelijkheid over woning Jan G.",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -892,7 +932,7 @@
   "id": "0dc69e6029",
   "datum": "2026-09-02",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "TERUGLEZEN | Politie vindt meerdere pistolen • morgen meer duidelijkheid over woning Jan G.",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -913,7 +953,7 @@
   "id": "ac680ea73c",
   "datum": "2026-09-02",
   "tijd": "13:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie onderzoekt dreigvideo aan adres Jan G., bewoner pand Overasselt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -932,7 +972,7 @@
   "id": "9a8bd0cd91",
   "datum": "2026-09-02",
   "tijd": "13:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Koffers van zes vluchten blijven achter op Eindhoven Airport na storing",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -951,7 +991,7 @@
   "id": "978f7ac01d",
   "datum": "2026-09-02",
   "tijd": "13:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw met verf bespoten in Den Bosch: man (41) dertig dagen langer vast",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -970,7 +1010,7 @@
   "id": "4d714f6242",
   "datum": "2026-09-02",
   "tijd": "13:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Stroomstoring treft zo'n 900 huishoudens in Noordoostpolder en Urk",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -989,7 +1029,7 @@
   "id": "c69c00da10",
   "datum": "2026-09-02",
   "tijd": "12:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inwoners Overasselt hopen dat Jan G. vertrekt, 'Zo veel ellende elke keer'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -1008,7 +1048,7 @@
   "id": "68d4b395c6",
   "datum": "2026-09-02",
   "tijd": "12:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dreigvideo duikt op na extreem geweld in Overasselt: 'Je zal sterven'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1035,7 +1075,7 @@
   "id": "366ae8e879",
   "datum": "2026-09-02",
   "tijd": "12:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Almere krijgt nieuwe scholen dankzij soepelere onderwijsregels",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -2750,6 +2790,25 @@
   ],
   "samenvatting": "Na tien jaar veroordeling voor wietplantage in Heeswijk-Dinther: lagere straf en schadevergoeding Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWW5tM2JvcmpRdzZGNnNxTGV0SWRVWUNYd1lVYXlIaV9pTUkyMFhDTmRJQ21tQ296OE4yRGFLQjhrWG5UZHYxWmhaY0ZZN0h4dzdwRTNuOF9YRy1mNHJ0a2xPdnhWemhCVnZlMnFiOEJyd3puQkxYc204bHYzTnpkUXZMTmFUVTZVa0FzVVlWTnlCOXF2cGNSbnRYOXJPaDUxYmRKTXBlOW9Zenp6Z21ySHd1NmU2RTBtWDd2b19jLWtVdWR3QkdFOTg1Z3g?oc=5"
+ },
+ {
+  "id": "d4703b5290",
+  "datum": "2026-08-31",
+  "tijd": "08:04",
+  "nieuw": false,
+  "titel": "Veel vacatures voor boa's in onze regio: meldingen blijven langer liggen en controles gaan niet door",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Minder toezicht op straat, controles die niet doorgaan en meldingen die langer blijven liggen. In meerdere gemeenten in de regio heeft een tekort aan boa’s direct gevolgen voor de handhaving. Ook als het gaat om bescherming van de boa’s worden er door gemeenten verschillende keuzes gemaakt: van geen bodycam tot een pro",
+  "link": "https://www.rijnmond.nl/nieuws/2245867/veel-vacatures-voor-boas-in-onze-regio-meldingen-blijven-langer-liggen-en-controles-gaan-niet-door"
  },
  {
   "id": "ac8c22e9c9",
@@ -11753,6 +11812,44 @@
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1ZKM3JSblBCZVRCRlFxZy1Yc09OTkdVMEplUXI3cmNKek1xTHdtaldvMGszVjRqX2pkZmI3Q2h4blRRSGl0M2Q1QnZSWG9WS2NfanhmS3hla0ZjMzFxQ2luRlBnektwZ2U4SmdtblItZWF3SzhpOTBmT2tmeE5MZkRtSld6VHo3S1dGcWZwcV82cmRObFNV?oc=5"
  },
  {
+  "id": "3b5675d3c1",
+  "datum": "2026-07-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Verdachte drugslab raakt niet alleen zijn vrijheid, maar ook zijn Audi en veel geld kwijt",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Verdachte drugslab raakt niet alleen zijn vrijheid, maar ook zijn Audi en veel geld kwijt AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUmhYYlBGYXlNU2piOGRsd1Rud1l2Q3cxT05yalc4ZHlBODRxcy1NQUNxcFhrdlpvSFk5M1U5b1BXak9UQ2k3Y3VjVl9UblpOTXZRdzM3c014ZW81d2FuZGhwWjJtOWt6d3ZBV3hpc0U2Rm5ZZTNLcjROb3NScXJSQmlQMV9uT2ZKZV8wcE1GMC04ZWNYVlpwdmlqVVFQUU9zUy12bnY4M1h4Qk1vQ1VnSTZ3SkhVME9NLVJ4NlFBQjd1U1VY?oc=5"
+ },
+ {
+  "id": "8f28fed0ed",
+  "datum": "2026-07-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hulpverleners Wallengebied niet verbaasd over aanhoudingen in onderzoek naar mensenhandel",
+  "bron": "AT5",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Hulpverleners Wallengebied niet verbaasd over aanhoudingen in onderzoek naar mensenhandel AT5",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2lUNjd0R2MwUF9fVWlPenZ6UmpnalV3YWhxUzBUVVNEb3pCdFJTZDdzbzhfWGZ0Y1I0RWpHWHBWR1QtcHpCMFVORVF0Qm9GUW8ydmFtSHFrYWFTblo4R3JXdGZDRUdvSmplT3Nzblhzc0pMZzM5ZUp5dVZfc3dua2QxaVBYd3BLMXhNejlFSWRiODJMdDNrNUpYclUyWURQNF9kYkZEV1ZxQ1BLZXJXZVdESlZtQ2hmMlVKZVM1NzdhT0E?oc=5"
+ },
+ {
   "id": "31007220a9",
   "datum": "2026-07-14",
   "tijd": "07:51",
@@ -18542,6 +18639,27 @@
   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MTC11d0oySk5lcTdvQUMzbjRZd3ZmNVhEXzNpZGdhcDRsRHdFOXB6RFc2cWZFc01HbWgyRWNSMlVmUmpHSk1MUUtVaXJCUUdmSlM4REszUTY3amw4S1NaOXF1NWkzcnBI?oc=5"
  },
  {
+  "id": "3bb8bc1654",
+  "datum": "2026-04-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist 14 jaar cel tegen ‘onbetwiste leider’ Rick Z. voor handel 1.000 kilo coke en witwassen circa 25 miljoen",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "leider",
+   "witwassen"
+  ],
+  "samenvatting": "OM eist 14 jaar cel tegen ‘onbetwiste leider’ Rick Z. voor handel 1.000 kilo coke en witwassen circa 25 miljoen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNWtZcVV6dEx4akJxRTlTM0pLNkN5VVEzN05ISzc0MkxiZ08zVFhfbVpvYU5fN2prQ3pYUW5RZkxaZHVxUkVMZjZIcGNKQnZlWGJYLXAtQmFuX0tvcUcwV3pLTDF4cjQxR0hWYjlkLWt3UVZ2eXdndUYybGFmZ1hRX1ZxT3JlZHdDUUZ4N241eDBWYXNWN051Z3lZUUJSZWRBTFRjX2R6Q0xfck9Od1htNkFOUy04VkZKTFhCS1BrelBLWGZLUXRVRDNwa3RVRGo3bWMyZlFrbjRIZVltaXI3aGZOQVEwRklRU1Uw?oc=5"
+ },
+ {
   "id": "55814a2b1d",
   "datum": "2026-04-20",
   "tijd": "07:00",
@@ -23188,6 +23306,25 @@
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE9mb0V5cUpTU0NoWmQxN2JnX0llaTJqMXgydU1mM1Z2dnUzeXpXbkRxLVdJaW00R2EzWHRILTBDRS16WS1CZlNGV3hHYjhzczhFcXhKOF8xNEQ0TWM3R1UzcmEyLTZicTc5Tm15U0hFajdQNHQ2aFZ5VEwyS2JTaXpfRTg3Wkk1LUpTTHhJbnZ0NVcyUHhucWJyQnJTcEdZYkE?oc=5"
  },
  {
+  "id": "3b973af31e",
+  "datum": "2026-01-27",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Twentse oud-drugsbaas verdacht van witwassen miljoenen via dure kunst en huizen",
+  "bron": "RTV Oost",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Twentse oud-drugsbaas verdacht van witwassen miljoenen via dure kunst en huizen RTV Oost",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd2t2QlotR2p4bHVNdVdpVmJ1SFFHMDRSMHI3dXlEeUNQcXlSbXB2R2s4WmJjZC1QQzR2NVB3elJCOXd5OVZoZm5EdkR2c3lUSUQ0RGRUTFJiZkd0OWYzMjdsODA4RWhlLUE4NTgtT0ZFb0ZVSF9jNW1pa2ZwaHR1Wjg4TTRUQzJranlsWmFTcWh5d3lndEdINmxrTGZsV0hUcUE2RmdhUEljazBvam82NXI5clY?oc=5"
+ },
+ {
   "id": "5964976760",
   "datum": "2026-01-24",
   "tijd": "08:00",
@@ -25346,6 +25483,29 @@
   ],
   "samenvatting": "Politie valt bedrijfspand binnen in Eindhoven op zoek naar drugslab Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXE5Zlh6RWlIMlFLX0pnSjdDWG02WGk0ell5WS1vYzA4WlhRMzdfS1B3X1VhWmxDR2IwZzFNSlAtSzNMazh6M0FXZ29fYlFSZVBCRWxFaHB1aUpmTjRzcnpsZ2wzbE5OZW5GWGRabGJKUnVSZkNfVHc4STlmdHVrM2Z2MzlwRGdVdzJFUUU5UUZvMWpXamZCeFo4cjZtc1ZUZEJ3V1lXUU9KMnZwa25xaw?oc=5"
+ },
+ {
+  "id": "a9c745d3bb",
+  "datum": "2025-11-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Voormalig profvoetballer uit Maasmechelen krijgt vier jaar cel voor drugslab in varkensstal",
+  "bron": "HBVL",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bv",
+   "drugslab",
+   "stal"
+  ],
+  "samenvatting": "Voormalig profvoetballer uit Maasmechelen krijgt vier jaar cel voor drugslab in varkensstal HBVL",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnV0d2JaeE5pV29aZmRzQ042WURGMEpMOXhubjcxT3BJRGg0SjVmLXdNSnV4NEtGb3FTSEM4amJPQS10X2JQeHg5WUJuVFVYNHNEUUlORFMweWlYXy1aWjBRNWtFSUlod1dQYU15d0F4cTl0UzJTWTIyUlZWYUowOVU2TEU0UjBOQTdYVWJFR3diWlRGN3BGZVZFOGpUUXZHd3M0aVFfTmVKU09NbGhFdzlzTkNfWGozR3pTZlFLb29oMXFfX3oyUGpjMzlrNDFQZUdXV1V1cW4zTV9BVnJfNnNYd0xFZ0k?oc=5"
  },
  {
   "id": "89974cd553",
@@ -28332,6 +28492,27 @@
   "tags": [],
   "samenvatting": "Illegale handel in geneesmiddelen : een groeiend probleem WODC - Wetenschappelijk Onderzoek- en Datacentrum",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeWp5cFRUMGRseVRUWFZyM3p5OVh3ekt1NUVBNWNiZm1Vb28wa3ZUcUpSM0xkUmUzN3NWQkNGMnM2TmcyWHkzSmtVMDhkM1FTMFpyWFVXNklQeDdyd2JCVDFRSk5HVTNSMUlJZ2VRejVoV25MSmtlQXd6U3R0SFVTdGFKaDcyZS1ad05FeWtqazhWUU5nRmNRc0dGNHFoNkJBRXZWQ3RUa3FOTkFjWVFyME5QSW1feUlOY05wQjI3RTRjYkRjYVpyYQ?oc=5"
+ },
+ {
+  "id": "67a5de32e9",
+  "datum": "2025-07-31",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Man opgepakt voor witwassen en drugshandel, ook vuurwapen gevonden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "wapen",
+   "witwassen"
+  ],
+  "samenvatting": "Man opgepakt voor witwassen en drugshandel, ook vuurwapen gevonden Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDFEZm5qaWZyaHJEbE5ISTUyS3JVWWpWeU5zZUVwc3hKU1IyYzZ2Wld6UVVLRHhMRUc1aDhqM0FmdWxKQVhfWWw5Yi1TVzNVLXN0MmFSM19LQ0NjSFhkTVlJOVZqVHFZQzVZX1ZILU8zWC1hU1BjWlNXLXBqMUU5a0MzWlpYYzNpbkVFOEVHbndrbkZDWTQ1SXE2aURmYWNxendIMDYySUtidUE3UUE?oc=5"
  },
  {
   "id": "36939a8b02",
@@ -37762,6 +37943,29 @@
   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT0hHaWQ3WnZiTmNWRy1mX3FHbWZUMFQ3Q2pRQnNtNmRTMXFVMlYyX0s2djVQYXJIb3BzdEpBclg1OTIwTGlhRFgzVWJpcjVkbWxKbVROeFdNYVozQU5nNUozcjJvVTgyOUdsWTdseUhHYUlSSXFBYXFfUmp1TVB0OXJhSUhDbl9GYkhJTlNnWDNyV3NseFhqRXpkZFd3MkQ5dlQ4M2I5MFdLV1YxeEpFZWxSbnN3Qm50OU1rcnJaWGkwS3N4V2syMm5wOTVVQ01fY1REZVhGUmduVXpnZ0syMDhQcGZvOXdfZ2xYOE9SNFNsbkwwY21aSVVZc2lpMmF4MWUtY0lKMTNiV2M1dkRyVFgyVjd6RVAw?oc=5"
  },
  {
+  "id": "15d292b531",
+  "datum": "2023-05-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Al 20 jaar een wapen tegen witwassen, maar de Bibob-wet wordt in Brabant niet altijd goed ingezet",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Wapens, explosieven & vuurwerk",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "bibob",
+   "wapen",
+   "witwassen"
+  ],
+  "samenvatting": "Al 20 jaar een wapen tegen witwassen, maar de Bibob-wet wordt in Brabant niet altijd goed ingezet AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZlMzWTNOcC1oODhiTVM1ckJDcTN3Vmt2WXZ6OW1LSThsYWYtWEg3aXg1dzJhcmh3X2FDdFVXeTkySHQzeXRNZWtGZ2tXclc4ME9TTUZ0NnlCenlybzBQVkU1cmp2aXZXZ0xId0pibXVLTHRCd3VrRjAyMXhGT3NXQjVOOWVkcnIyOEprWWt0d09xQTV1NGlPckVYcUxzOElnNkFPd2todUt5LTlUS3NRX0NuSVhtZUxDRUFVaWppR1ZnVUgwSDhBcFo2eWo?oc=5"
+ },
+ {
   "id": "93b44f4aba",
   "datum": "2023-05-08",
   "tijd": "07:00",
@@ -38746,6 +38950,25 @@
   ],
   "samenvatting": "Dordrecht scoort hoog op de ‘Onderwereldkaart’, vooral door wapenhandel RTV Dordrecht",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnFhdFV1SEVhNEc0OUZmc2kxYi1fNHZIbU03ZTFxR1VJaC12VjVNcm9SRGN1QVJ3ZWlYZ082aDA0N3ppbzcwcmVUU201dUdsZzZEcTlUMWJOdXhKZmU5VlRJeWJtR3ZKenF2ejJEWnhtUFk4Ym1IVGx1b084UVRLdW9DZEZETmQyMzRSdk1scGhMdEZxWGhPX3dtWlp1WVJ1d25WS1B3?oc=5"
+ },
+ {
+  "id": "716b331c39",
+  "datum": "2022-12-08",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Limburgse gemeenten het meest kwetsbaar voor ondermijning",
+  "bron": "Gemeente.nu",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Limburgse gemeenten het meest kwetsbaar voor ondermijning Gemeente.nu",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2pFM0JFQzY3SmxiVFdaY29aNG1CQ0pUMmJZSzRtVkxFdmx5aFdTYVlnMk1qZ3NRR2VNUWwtUjU2SlNBT1ptU0lTUUNqd0toemRkWFY2ZTRvYUR5NDRSeEFTS0trOTZUNkM1Smh5YWxiUy0xel8tc240QVhtcVBUdFppOGRzSDBUS0g0Ml9XTDBxVGk5bWNZb2F1d1M2VXJaU21FaWJmN2szdw?oc=5"
  },
  {
   "id": "5949bd1e2b",
@@ -42294,6 +42517,44 @@
   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMVgzeEx0aUtadV9rZHFpTkFFRThuSFVHbW5ZRmw3T1JFai1SRGJUR2VIY2VQQW9mNXdYM21nUDBYNEdiSDF5XzZXSEFhbEd3eGhQWHBuMzRjZ0ZrMm44bFRWaUtVaFpuRVpmZEVyMGpYYzJXU0UybE95cHJSMTA?oc=5"
  },
  {
+  "id": "a3fb152092",
+  "datum": "2020-07-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hart van Nederland - Late Editie: Handgranaat gevonden bij supportershome ADO Den Haag",
+  "bron": "KIJK",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Hart van Nederland - Late Editie: Handgranaat gevonden bij supportershome ADO Den Haag KIJK",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Cd3dMZ1pNZE5sWGlfTTEzRGU4aTRBSTJkNzFNSVBLbjVQdFpHYVUwNWR1UTBDMThVWFZRdENsbV9DcW1HdklrbnBvQmFOOHBRemExWFdvN2JfMzB1ZkVnNTlSdnYzMU9GNkp6VEpneTRYal93al9mWGU4blZuNDQ?oc=5"
+ },
+ {
+  "id": "e30a2cffc5",
+  "datum": "2020-07-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hart van Nederland - Late Editie: Mogelijk handgranaat aan deurklink café in binnenstad Zwolle",
+  "bron": "KIJK",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Hart van Nederland - Late Editie: Mogelijk handgranaat aan deurklink café in binnenstad Zwolle KIJK",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSXZpejhGMnZLQmw4d0hLMVlhbWNCTGg4YmpoSl9HSHRqel9VX2U1ZW9WWnlqQTV6T3hTMlFCZGtfUzRKXzNoU0NRVWg4MTNWZWR6Z1V2alNGbFlKRnBzb0dxRnZVSWdxd241UFo2NFlhcVU4SlZUYTY2MmxMYWs?oc=5"
+ },
+ {
   "id": "c8ba1f09fd",
   "datum": "2020-07-20",
   "tijd": "07:00",
@@ -44582,6 +44843,25 @@
   ],
   "samenvatting": "Explosie flat Diemen gelinkt aan liquidatieverdachte El B. Het Parool",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnI1Y2ExS0pPd3FjT05RTngxYi1fNjZzSHlVS3lkMlhVMjBZOE9CVy1tTDFORmlzTzljRkk4WTFhX3QteHozQXF5T1hSQmlaNGs2aUVOclZPLWVSOHo4dnAxNDg2QWFhaWpwenFFZ3ZGVkdFUlM0V1RKQnI0TzNVZFVSNDBXSmVuOXF0MWgxRzZyVHhVMFk5aHdWSG0?oc=5"
+ },
+ {
+  "id": "7d7b3f0926",
+  "datum": "2018-08-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Explosieven rukken op als intimidatiemiddel in horeca: ‘Wil je een handgranaat?’",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Explosieven rukken op als intimidatiemiddel in horeca: ‘Wil je een handgranaat?’ de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQalEwcE8yNEUyU0Q1MjNERVdYT2J5eTBDMWpXSFBQdkg5LThvMERIZEdjT3F2YXRSSFNpU0JfaDRjNXd2LUVpcWhyTi1wcFNnazRXTnRnVXk2OU9STUNpR1QwU3BtX0VHU3d1dUxTZ09VYUZoWnNQcjRPQ19qMnJpVjdXMTdXeUFGeVBrREhWNEExX2xNZHB0VHdVQ1M1aFZxblN2NHJMUERRWjIxak5YQjE2XzBReWFLNjJ3NG5vbERHUWNMS1ZGYUgyQQ?oc=5"
  },
  {
   "id": "cac1952e2e",
