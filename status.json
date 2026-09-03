@@ -1,12 +1,12 @@
 {
- "run": "18:37",
+ "run": "19:27",
  "datum": "2026-09-03",
- "nieuw": 35,
- "totaal": 2548,
- "verwijderd": 20,
+ "nieuw": 24,
+ "totaal": 2551,
+ "verwijderd": 21,
  "geweigerd": {
-  "niet-nederlands": 1046,
-  "geen dossier": 465
+  "niet-nederlands": 1027,
+  "geen dossier": 469
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 87,
-   "status": "bij",
+   "items": 88,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 162,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -123,7 +123,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 16,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -141,7 +141,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 25,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -158,7 +158,7 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 33,
+   "items": 34,
    "status": "1 nieuw",
    "ok": true
   },
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 137,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 75,
-   "status": "bij",
+   "items": 76,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 127,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -357,7 +357,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 36,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 52,
-   "status": "9 nieuw",
+   "items": 51,
+   "status": "8 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 72,
-   "status": "bij",
+   "items": 73,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 83,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
