@@ -1,12 +1,12 @@
 {
- "run": "06:37",
+ "run": "07:31",
  "datum": "2026-09-03",
- "nieuw": 25,
- "totaal": 2350,
- "verwijderd": 19,
+ "nieuw": 23,
+ "totaal": 2356,
+ "verwijderd": 17,
  "geweigerd": {
-  "geen dossier": 467,
-  "niet-nederlands": 1049
+  "geen dossier": 465,
+  "niet-nederlands": 1077
  },
  "bronnen": [
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 120,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 132,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 24,
-   "status": "bij",
+   "items": 26,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -230,7 +230,7 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 113,
+   "items": 114,
    "status": "1 nieuw",
    "ok": true
   },
@@ -249,7 +249,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 67,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 51,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -320,7 +320,7 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 119,
+   "items": 120,
    "status": "1 nieuw",
    "ok": true
   },
@@ -455,8 +455,8 @@
    "url": "news.google.com/rss/search?q=RIEC+OR+LIEC+OR+%22Centrum+voor+Criminalite",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 29,
-   "status": "bij",
+   "items": 30,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 62,
-   "status": "bij",
+   "items": 63,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 37,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

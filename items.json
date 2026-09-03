@@ -22,6 +22,27 @@
   "link": "https://nos.nl/l/2629447"
  },
  {
+  "id": "da4bd0adb1",
+  "datum": "2026-09-03",
+  "tijd": "06:22",
+  "nieuw": true,
+  "titel": "LIVE | Onderzoek nog in volle gang • pistolen gevonden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "woning"
+  ],
+  "samenvatting": "Het is de derde dag na de schietpartij in Overasselt. Ook vandaag zullen er naar verwachting ontwikkelingen zijn in de zaak en wordt mogelijk duidelijk of de burgemeester de woning van Jan G. aan de Ewijkseweg sluit. In dit liveblog houden we je op de hoogte van het laatste nieuws.",
+  "link": "https://www.gld.nl/nieuws/8517500/live-onderzoek-nog-in-volle-gang-pistolen-gevonden"
+ },
+ {
   "id": "781eb3be6b",
   "datum": "2026-09-03",
   "tijd": "06:00",
@@ -464,7 +485,7 @@
   "id": "ce4fb09738",
   "datum": "2026-09-02",
   "tijd": "18:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachten schietincident Overasselt mogelijk geronseld via sociale media: 'Het zijn vaak nog kinderen'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -485,7 +506,7 @@
   "id": "53716be934",
   "datum": "2026-09-02",
   "tijd": "17:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Uitkijkpost de Wallen (450): De herrie, het vuil en de Bibob",
   "bron": "Reporters Online",
   "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
@@ -501,11 +522,11 @@
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVZ1emItODlFQTlmdEl0SDVsOTQ3VFlYMjRwQ2U5Ti1RRXd3QVJRNk9BZVRXVjJ6S25EaHFibWFHWEJ5ZmI1b0JXcmRnNGhuVUotMFowcWtrbDhNNDhsREZsYnFzaTZ5Q0NoZDlJUEJYa1BlU2xRWjM3Q2xwV1RkczJoV1E1aFpQaVRWdA?oc=5"
  },
  {
-  "id": "f0da952ebf",
+  "id": "551cae2685",
   "datum": "2026-09-02",
   "tijd": "17:30",
-  "nieuw": true,
-  "titel": "Een meter grond eruit: sanering van lood in Heusden begonnen",
+  "nieuw": false,
+  "titel": "Een meter grond eruit: sanering van moestuintjes in Heusden begonnen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -522,7 +543,7 @@
    "stal"
   ],
   "samenvatting": "In Heusden is woensdag begonnen met het saneren van vier kleine moestuintjes in het midden van het vestingstadje. In de bodem is lood aangetroffen. De sanering maakt deel uit van het project Bodemlood, waarin de provincie en Brabantse gemeenten samenwerken om lood uit de grond te halen op plekken waar kinderen spelen. ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025692/een-meter-grond-eruit-sanering-van-lood-in-heusden-begonnen"
+  "link": "https://www.omroepbrabant.nl/nieuws/6025692/een-meter-grond-eruit-sanering-van-moestuintjes-in-heusden-begonnen"
  },
  {
   "id": "473323f0c1",
@@ -11315,6 +11336,25 @@
   ],
   "samenvatting": "Influencers Andrew en Tristan Tate opgepakt in VS: broers verdacht van verkrachting en mensenhandel De Morgen",
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa0IzYmVjS2RneERRUUNVaXIyT3gyeEwwMHRmeEVockNxM1lBc0VuWlQ3Sld3bHpHcEpySEdDUkE5U3pVWGN4SEFua25GU3EwNnRzczR4anB2bkpEa1A5NzJIcW9Sa1Y5Y1NpRnZOdy1TdUl0eE14RzVLaWRUSXlESmp6YlJSWTJPckxSWDRQdkllRTF2U2FJR2FnR2hRQXRlcUwyZnF0NEVQMFF1VTlXTG43Ulh1MWhvUU81S2kxN2xpWVpEcVBlRFAxMEJQbVBVckdjdk9wak8wcDg?oc=5"
+ },
+ {
+  "id": "88cddd5a73",
+  "datum": "2026-07-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Influencers Andrew en Tristan Tate opgepakt in Miami: broers verdacht van verkrachting en mensenhandel",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Influencers Andrew en Tristan Tate opgepakt in Miami: broers verdacht van verkrachting en mensenhandel BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRWxQM3o3dlIyQzZYazg0NF9BN1ZRbUFNUFlFWHlNR0lsWkJKVlMySW5SeVZYSTVZX1hGMUJrYjJrUWptNVNRdmRLZ2toUHluMFRMV0lWUWFKdGpxUFdlTUJKZmw4YWFXT0c3N3lER0JaMU9EcTFUM3JDd2hxdE1TRTk4Y3JhekU5OFU0TGZPU1lpR1REd25mT2w5dzdRclYwVTc2NDk0OHVTSDVSdEc3azJOS3ExRDdyZ2xSS2dqVVlzR1g2WG5pRy05ZU9zcmxaSks2eWE5RXp6aFRhRVdB?oc=5"
  },
  {
   "id": "b1a06327eb",
@@ -37451,6 +37491,25 @@
   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMFFoLVlGZWhBUWtfUkxOLVV0Z1BKanZwcFR3bmpXTnh2ZVhXSXNWYzItNThGaENnMFRNSl81a3pJYnU4SXJSa0FmSGRYVUVTS3FiTFRzVHpyUURLdFFZYWxMbmNaTkJkbzBNXy1wNjBDWGtweTJyZG1kUkdaVjBNZDVNSjR4WDhkbTlzVDdQRWJ4NnJVd2NlMFY2Qm13LUJtbzg3aVUzSkRKYUkwdGYwc01USDZ6T0pLMFpiT1NVT3VNaFZIa3lkTzN5bW5ndXFUUmNpZFNfcHVhRXU0emNFQzFJbi1WNnY1MUtxa3NKTFdQSHZJUjRHandVOW9Db1lxN0o4?oc=5"
  },
  {
+  "id": "121bff25f2",
+  "datum": "2023-07-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Rechter kritisch over intrekken vergunning van sterrenrestaurant Monarh",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "vergunning"
+  ],
+  "samenvatting": "Rechter kritisch over intrekken vergunning van sterrenrestaurant Monarh Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnhqRmdvVmR2cmJUZ1J1eG0zSUxTSmpaZjh3OU5sU2kyRDZzZkNWZGxlZWdkaVA2WV9Nd21QUU92WV9PYmgxQWFmWGhTUC1iay15U3F0UU1IVGRZMkhnT2JCWXlZT3Bsc2dOZzlPT2o2Tmg5MnIyQW0zbE93NFhkUU5FWm9oakUzVGJiX2s4TWxvNkVaNUtUMzdfZ3JQZElDNXV6YjJ4X3NvYm1TNDV2a2ZJaUhrUQ?oc=5"
+ },
+ {
   "id": "deeef31073",
   "datum": "2023-07-18",
   "tijd": "07:00",
@@ -38025,6 +38084,25 @@
   ],
   "samenvatting": "Al 20 jaar een wapen tegen witwassen, maar de Bibob-wet wordt in Brabant niet altijd goed ingezet AD.nl",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZlMzWTNOcC1oODhiTVM1ckJDcTN3Vmt2WXZ6OW1LSThsYWYtWEg3aXg1dzJhcmh3X2FDdFVXeTkySHQzeXRNZWtGZ2tXclc4ME9TTUZ0NnlCenlybzBQVkU1cmp2aXZXZ0xId0pibXVLTHRCd3VrRjAyMXhGT3NXQjVOOWVkcnIyOEprWWt0d09xQTV1NGlPckVYcUxzOElnNkFPd2todUt5LTlUS3NRX0NuSVhtZUxDRUFVaWppR1ZnVUgwSDhBcFo2eWo?oc=5"
+ },
+ {
+  "id": "c3f2c699da",
+  "datum": "2023-05-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Bibob-onderzoek vertraagt bouw speeltuingebouw bij Smileyveld in Enschede: 'Waar is dit voor nodig?'",
+  "bron": "1Twente",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Bibob-onderzoek vertraagt bouw speeltuingebouw bij Smileyveld in Enschede: 'Waar is dit voor nodig?' 1Twente",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeEl0SHBzb2VWMm84bGljc1BBbE9iXzhlYjNMSWExbER3Yl9obWJxV0otMDNpcFc3TWVwZ2hKRmpvdmRwUHZSX0s1S3pOcndFaG9FbHdNallCTkRKbTBzUmJfOXZSUmhodkVhVXRnQzU3R1hDbnV2WmlqQXVYQTVGMThBLWZnSjNRdmkxWEdJZW9mN0VhUFlPSjQ5SGs5eDE4RUNUcWVwVGlUakVGZ05iUk55UG1oblJuMGtxM2YxcW5uS3pDNi1MME9fV2FaRlAw?oc=5"
  },
  {
   "id": "93b44f4aba",
@@ -41188,6 +41266,26 @@
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmtaUmdFal9iN29DTjJJRGtoZURpTkZIa0pCdFZ5Z2lUalQ5cFIzRGZ2ajRiTmFoLWFYY2pFWnJneXVOZnVqOUhjSGozSW05TUVSQkJ5Y1pHV2FfdXdnMnlXcWxBaXlHRXl3ZHpQT1FnNW9PdmRZS2RMcTBKQzZpNUZBT0QzcWdtWWFKOE10UFA4OE1BV0h3NDU0M2Q3QUMteHVUekdTVjJaTzJSTVE?oc=5"
  },
  {
+  "id": "b82da4b662",
+  "datum": "2021-06-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "In Nederland wordt met duizelingwekkende hoeveelheden mest gefraudeerd - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Milieucriminaliteit & afval",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "mest"
+  ],
+  "samenvatting": "In Nederland wordt met duizelingwekkende hoeveelheden mest gefraudeerd NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXgxUW1YQmxTa0VNbnhsUjh1cTl0aGdzNTRhRlJjQ1dYa3NaOEhQRjNtYTh0eGVsbmtOVGZ5ZWo3OXNYaDVZR2d1QzlQSmx4d0xNRnBaemdNVkNJV2xrRDNTQ2Nrb2s2Qkszb0xOMS14b1RpVnFvRXFYR2c5TWJjNk5QV2k1LW1MdWdnWVo2d3ltS3JLdEVVQkVGRlphOG54SkZvVmxmeE9NWWVXcmZrRnVpVVhNUHE5eWpfdkF2bw?oc=5"
+ },
+ {
   "id": "4376d8ff9f",
   "datum": "2021-06-25",
   "tijd": "07:00",
@@ -43342,6 +43440,25 @@
   ],
   "samenvatting": "Het RIEC Noord houdt je in de gaten: 'Ondermijning is niet iets wat alleen maar in Brabant en Zeeland gebeurt' DVHN",
   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMlJveTJNakdSNllCaUNhWVozVjBCcGZhN2JBN2d0ekIxckFrQlZQRnh1ck5udmJOQmpQV1A3VlVuazFaOVQtcThqZzYzbDdvU1ZtRVZ1bFZaV2lyZkxfUnkwQXNIakhZVFFyT0tQWlN1dXBIaEtGOVk3dXEwMzBMVXdOQWZaUENkM0ktcURUR3owLWJ1alRheE9VVFNSMl9hZldGbTdLcmxrX2JvYm12cF9JXzFSaWJhMTZSUlNqbzJFbTJLZWI0dHdqbE5oQWI0VnBJTW5QUHQyVFBOMGtDMHZTVEJxSF9CLW9nREpzWQ?oc=5"
+ },
+ {
+  "id": "7ac410c8bc",
+  "datum": "2019-11-23",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Oosterwolde houdt u in de gaten: 'Ondermijning is niet iets wat alleen maar in Brabant en Zeeland gebeurt'",
+  "bron": "Leeuwarder Courant",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Oosterwolde houdt u in de gaten: 'Ondermijning is niet iets wat alleen maar in Brabant en Zeeland gebeurt' Leeuwarder Courant",
+  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNR3pOMlhCR2FUaU1RTnhXR0hHSGNKZHd5Z2xyZ00zTTBOVkxtTjI1VDlYdVp2ZWlZRmZ5cDZ4aGdIMWVrenVQTlY1OUxFbG41TGtlZDQ1WFJQbVNDTnVJUlVxWTBpdGdab3NVWm5ZbmVlSUNnYmZSOHJjTFkwdEVJcFE0SUpVT2dRSE9Gb3JEdEFpWFZDZW1SMFg4ZWlZZjJxcW5nMUhwczZ6UVQ3YTUtVlFVWkVQbFE5VEtDSHZWdjZqT05LSXNNM0NBLWk2YnlpTC1rZF8wY1VCWkhkUHpqUXUxNkhkM1g5THMzTEx5Qk0yeGhyNnhxT2RZMHhIQQ?oc=5"
  },
  {
   "id": "170b07f662",
