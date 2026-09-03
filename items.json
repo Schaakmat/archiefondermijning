@@ -1,5 +1,34 @@
 [
  {
+  "id": "014dd53185",
+  "datum": "2026-09-03",
+  "tijd": "19:35",
+  "nieuw": true,
+  "titel": "Burgemeester kan niet permanent ingrijpen in Overasselt en heeft camera's bij zijn huis",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "boerderij",
+   "burgemeester",
+   "doodgeschoten",
+   "geweld",
+   "grond",
+   "pand"
+  ],
+  "samenvatting": "Het permanent sluiten van het huis in Overasselt waar deze week een beveiliger werd doodgeschoten, is juridisch niet mogelijk. Dat zei burgemeester Minses tijdens een persmoment in het gemeentehuis van Heumen, waar Overasselt onder valt. Minses zei dat hij zich goed kan voorstellen dat mensen een structurele oplossing ",
+  "link": "https://nos.nl/l/2629558"
+ },
+ {
   "id": "2373938e29",
   "datum": "2026-09-03",
   "tijd": "19:12",
@@ -21,7 +50,7 @@
    "vergunning",
    "woning"
   ],
-  "samenvatting": "De gemeente Almere mag bij werkzaamheden aan de Galjoottocht in Almere Poort verblijfplaatsen van de beschermde wezel beschadigen of vernielen. De provincie Flevoland heeft daarvoor een vergunning verleend. De marterstichting is kritisch op het besluit en vindt dat er onvoldoende maatregelen worden genomen om wezels te",
+  "samenvatting": "De gemeente Almere mag bij werkzaamheden aan de Galjoottocht in Almere Poort verblijfplaatsen van de beschermde wezel beschadigen of vernielen. De provincie Flevoland heeft daarvoor een vergunning verleend. De Marterstichting is kritisch op het besluit en vindt dat er onvoldoende maatregelen worden genomen om wezels te",
   "link": "https://www.omroepflevoland.nl/nieuws/522459/verblijfplaatsen-van-de-wezel-mogen-vernield-worden-voor-verbetering-waterafvoer"
  },
  {
@@ -35,18 +64,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
    "Drugsproductie & labs",
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "cocaïne",
-   "container",
    "drugslab",
-   "haven",
-   "loods",
-   "pand"
+   "woning"
   ],
   "samenvatting": "In België zijn drie Nederlanders gearresteerd na de vondst van een drugslab in een woning in Pelt, niet ver van de grens met Nederland. Het gaat om een 41-jarige man uit Valkenswaard, een man van 45 uit Eindhoven en een 41-jarige man uit Pelt. Dat bevestigt een woordvoerder van de Nederlandse politie. Nederlandse en Be",
   "link": "https://nos.nl/l/2629556"
@@ -247,7 +270,7 @@
    "kapper",
    "sieraden"
   ],
-  "samenvatting": "Sissie Ploegmakers van de gelijknamige kapsalon in Schaijk is deze week slachtoffer geworden van een inbraak. De dief nam verschillende spullen van emotionele waarde mee uit haar huis. Hij was volgens haar echt op zoek naar iets, want een paar dagen eerder betrapte zij en haar vriend dezelfde man al in hun woonkamer. \"",
+  "samenvatting": "Sissie Ploegmakers van de gelijknamige kapsalon in Schaijk is deze week slachtoffer geworden van een inbraak. De dief nam verschillende spullen van emotionele waarde mee uit haar huis. Hij was volgens haar echt op zoek naar iets, want een paar dagen eerder betrapten zij en haar vriend dezelfde man al in hun woonkamer. ",
   "link": "https://www.omroepbrabant.nl/nieuws/6025871/man-breekt-in-als-sissie-beneden-aan-het-werk-is-hij-was-er-al-eerder"
  },
  {
@@ -310,6 +333,27 @@
   ],
   "samenvatting": "Vrienden van beveiliger Berry Leenders (51), die deze week werd doodgeschoten in Overasselt, waarschuwden hem dat het werk dat hij deed bij het huis van Jan G. gevaarlijk was. Vriendin Elma zegt tegen Nieuwsuur dat Leenders vorig jaar ook al bij het huis werkte als beveiliger. \"We zeiden tegen hem: moet je dit wel doen",
   "link": "https://nos.nl/l/2629522"
+ },
+ {
+  "id": "f43f70534b",
+  "datum": "2026-09-03",
+  "tijd": "15:58",
+  "nieuw": true,
+  "titel": "Minister wil dat jongeren zich verantwoordelijk voelen voor drugsgeweld. Maar stoppen ze daardoor met gebruiken?",
+  "bron": "Trouw",
+  "verzameld_via": "Nieuws — Jeugd & jonge aanwas",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "geweld",
+   "jongeren"
+  ],
+  "samenvatting": "Minister wil dat jongeren zich verantwoordelijk voelen voor drugsgeweld. Maar stoppen ze daardoor met gebruiken? Trouw",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTmVLX3ktZUZ5bWJ5a1YwTEc1QTlFVGs2MHZwRllUb1cxRFdKY3NBR0NIOWtEeWxNcGZ5WUFPbXhMWGhCMGpqQm5LOXhzT1EyMTZNekRZZzdSZG9LMzRIeWxKczJEZ1RMNlF4NHpRSU9fY0RtSk1WVWRNOUY1YnFSNmo5RzZhcnlSZ0xnTGxOZTFHWWU3R0V3UkFpcndnWDUxTWlVWThaMUE1WDQ4S1RYeTFSdlBhaU1qbGJ4X3dKMG9kdzlkUm1PTld3ckZjRU1aUWhHdWEzVVFTWEVHeHJrZ28wZnpLNm8?oc=5"
  },
  {
   "id": "257d631107",
@@ -466,6 +510,7 @@
    "Bibob & bestuurlijke aanpak",
    "Corruptie & integriteit",
    "Horeca, winkels & dienstverlening",
+   "Jeugd & jonge aanwas",
    "Milieucriminaliteit & afval"
   ],
   "tags": [
@@ -473,6 +518,7 @@
    "coffeeshop",
    "grond",
    "integriteit",
+   "school",
    "vergunning"
   ],
   "samenvatting": "Het plan voor een coffeeshop aan de Evenaar in Almere Buiten krijgt definitief groen licht. Dat heeft burgemeester Hein van der Loo besloten. De verwachting is dat de coffeeshop binnen een of twee maanden de deuren zal openen. De komst van een vierde coffeeshop in Almere is een langslepend dossier dat wordt gekenmerkt ",
@@ -701,7 +747,7 @@
   "id": "4758c892a1",
   "datum": "2026-09-03",
   "tijd": "12:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man met mes bedreigd in Breda, omstander pakt wapen af van dader",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -722,7 +768,7 @@
   "id": "160e6c783d",
   "datum": "2026-09-03",
   "tijd": "12:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Agenten die drugslab Kallenkote ontdekten worden door rechter verhoord",
   "bron": "Steenwijker Courant",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -741,7 +787,7 @@
   "id": "c75c9ceb16",
   "datum": "2026-09-03",
   "tijd": "11:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Randy (37) won loterij en wilde droom waarmaken, oude veroordeling rond wietplantage zit dwars",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -10104,6 +10150,25 @@
   ]
  },
  {
+  "id": "45660c2225",
+  "datum": "2026-08-17",
+  "tijd": "21:58",
+  "nieuw": false,
+  "titel": "Portugal “oorsprong en bestemming voor mensenhandel” – aldus een inwoner van Portugal",
+  "bron": "Portugal Resident",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Portugal “oorsprong en bestemming voor mensenhandel” – aldus een inwoner van Portugal Portugal Resident",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWtOT1NmM21aQ1Y3WWR2b3J1dDhGZlpUdklqdjlfLW41QVZhbEZmbXFaMENYSmV5dXdhdjdnU1VVb3RjNFNLd2NkejViMWJrd3lZVExjY3BhdWh1SXQtUHFuZUVWNEVzU0gzeDJtXzlwNWU5NW9UWGg3bEhyY1FsTWQzUENhUHBMb1dvUnV4aHo?oc=5"
+ },
+ {
   "id": "c4fd572715",
   "datum": "2026-08-17",
   "tijd": "21:15",
@@ -11392,6 +11457,27 @@
   ],
   "samenvatting": "Na gedoogbeleid toch handhaving: gemeente jaagt vaste bewoners van camping Anloo af. ’De onrust is groot’ DVHN",
   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTg0NFRPbDM4VE9MVzBtN1JvZDZjVFpQQkN2SGhveE5LU3pONkpQaUdwYVdLMVZYamNkZmJZN1RQSFZnZ2tJRFBKY3hveTVTZ0xjaUlsNUwzeUhTT3p4UUhmVHl0bzg1REVXam1ZRWsycE9PSUF1S2poa3ZnU19MOHlqOWIyeW5GVkVyV3A1Q3NmRWQ0OXZlRnJpRHBVdnNjS1BQeFl0YWNUeVdWSldjQkY1aW85bTJ6TWtQMEZ3Zk1OeFJzNkYzd1FiSXp2bUltN25xUDFLWWVHYmdCODJjOFdyaGg0dw?oc=5"
+ },
+ {
+  "id": "091115ce86",
+  "datum": "2026-07-29",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Acht verdachten vast voor witwassen crimineel geld met goud",
+  "bron": "Crimesite",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Goudhandel & edelmetalen",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "goud",
+   "witwassen"
+  ],
+  "samenvatting": "Acht verdachten vast voor witwassen crimineel geld met goud Crimesite",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPei1NWlFCWUR4MGxJSE1JamEzSmlpOE9MNTBRUlVHZjZnNGJUR0dRT1RPczc1c3h0NDgyXzA2TzFrMEFWNzk4Z2VGRk1nUDRPclNFQ0JXVDEtYTRrZ245dGhHbXJERnVEekxubVBUVENlNmU4TXFEVGpOT1l0aVR4TjVEUXNDazM3YWhpWkZB?oc=5"
  },
  {
   "id": "143789a7e0",
@@ -14137,6 +14223,25 @@
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0NVaFdtd1AxU0VYLXZtMGl0SGJWRmJqWUUxYjRGbnhOMjY3VWVVWGdTdGNyNXJHNGRrY1hsUjlnWFpwNC0xYy16YXlXT2dMNy1ESE9BN3N2ajFlRndlbFlTM3MzWjVhcEtBMENBazNXYjFRd0hMTExCVHZyajZYUmhJOHppbmpOM293XzVLQVRCTnd5RThTd3NR?oc=5"
  },
  {
+  "id": "b6450627fa",
+  "datum": "2026-07-03",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hart van Nederland - Late Editie: Drie mannen aangehouden voor witwassen van 100 miljoen euro",
+  "bron": "kijk.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Hart van Nederland - Late Editie: Drie mannen aangehouden voor witwassen van 100 miljoen euro kijk.nl",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaGptSThiLXF3QlR1djY0b2ZRblV2Mkl3VGVQaVM2d1ZOOWxZMDh6MlluaW5jNm56TzFfcEJ2aDNwY2g4V0NTdUNiTl9QbEo4dEpzVlRzQUlIamhPWkZKS3AyMWJ6Q0RCSEtOZFQtOEJ4YTFqeWs0VHlHX2hObVRjSFpR?oc=5"
+ },
+ {
   "id": "3defb30078",
   "datum": "2026-07-02",
   "tijd": "07:00",
@@ -14586,6 +14691,25 @@
   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhb2Y1NkNkZnNjQzV2aEFOUWt3OUl3YWRmZTgtRlRFSWlYSHo4YmlSbVYyRGJCbTlnNG9iNFRmeldmVmViTTRvU25Ha24tWFhD?oc=5"
  },
  {
+  "id": "dd2483f890",
+  "datum": "2026-06-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vader en zoon aangehouden voor witwassen en drugshandel in Spanje en Nederland",
+  "bron": "dagbladutrecht.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Vader en zoon aangehouden voor witwassen en drugshandel in Spanje en Nederland dagbladutrecht.nl",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0NndGVDMzJidTRYOU9iV19jc00wUVphZ0tqd2VmR2MxSUlpQ2o4Vy1JbFhLMXZsV2VSUTVJSlU0c0h3U0h2STVRdl9JOU9sV3Q1QjVpdkNxREhLNXgxVGhSajhfTk5JZ1lWY0c5WDNBSU9xZl8wNVU3VjdUZnhLNUtDcVFxSTZ0NzJ3bDhORG9kNXBHVmlHUGxqUU15M0NDeVU4TDlGcTd1dWszWTBMOUdkdGVVSE9lYUx0WQ?oc=5"
+ },
+ {
   "id": "922be937f9",
   "datum": "2026-06-29",
   "tijd": "07:00",
@@ -14868,6 +14992,29 @@
   ],
   "samenvatting": "Schok binnen brandweer Almelo: jeugdleider opgepakt in onderzoek naar mensenhandel en kinderporno AD.nl",
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWGZXVlVqbDRDaUZxdnM4a21FRlpncS1MTW5iSkRjVmxzRmp4dTg3UE9tUUxFdWFjRlNPRFdwMWxQSHpfRDdWX1JucTJiRjgycXhhNGNweng0VkRwY3NnajYyVmhQM05Ma0JqRUc5Z0VyZWN5ekp2UHBTNS1kVlJVVTNlQlpyQjVOem9ZaVlwaDBUOEZKUVJTMjdkV0xFZThRNzdwTWg3UlJTVFhGUUk1a0dGWXlxRGFhN2lLTDJJUUhrRnRWRHNMeWVHQQ?oc=5"
+ },
+ {
+  "id": "4003b9caf2",
+  "datum": "2026-06-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Schok binnen brandweer Almelo: jeugdleider opgepakt in onderzoek naar mensenhandel en kinderporno",
+  "bron": "ad.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jeugd",
+   "leider",
+   "mensenhandel"
+  ],
+  "samenvatting": "Schok binnen brandweer Almelo: jeugdleider opgepakt in onderzoek naar mensenhandel en kinderporno ad.nl",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnUtRlpWbXhHVGNnQkNETFp2U29HU3JkRkhVMGNVbUJaOXc2R0t0Y2x6SFRsYnpqOGhJV1RBRjcwWHY3WWZhSnZVanZuOVNiQ2J1UDhJOTBsZDhBeUJfTzMxZjgyaVY3cWJ3UFhHUlNtZkV3VENmLWI4OUxyNEIwdllXcDFKZlRLazBta0VPOHNVLVZIV3p5X0d5Mld0U0Rid0x3?oc=5"
  },
  {
   "id": "e5eb027054",
@@ -25478,6 +25625,26 @@
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEhsVVJLQ0xLRlpjZW5KNHRNaUdHTVlzdkRPNm9ZZkNwYmZqbmxpWENVbzlXT3VVSXRwVkh0Z2cxb3BRUVBTbndfMUdNd0ZtVTdFMkpaTlRfS1BFXy1Yc1g0RTYxMG05VE1oNkpmUW9UVS1rOU9WT1h5X29PSkxEU1FtT240UmhiYkxFUTE4REpIWHl5RGhZcWVjODY5Mnp5enhBanBXR1ZfMnFi?oc=5"
  },
  {
+  "id": "cb3068f6fe",
+  "datum": "2026-02-02",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Bodemonderzoek door Ovam op plaatsen met afvaldumping toont geen gevaar voor volksgezondheid aan : “Verder onderzoek nodig om te kijken of sanering nodig is”",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "afvaldumping"
+  ],
+  "samenvatting": "Bodemonderzoek door Ovam op plaatsen met afvaldumping toont geen gevaar voor volksgezondheid aan : “Verder onderzoek nodig om te kijken of sanering nodig is” Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTXpiTkZhalBzSGlTM0FQM1FaVF84NjdZMmxLWXNkM2lmRmZlYTdsLUpTNUUtU252anVhdS00YlJvMm81VS13MjZWRnd4VklCZVBid19qaWdvUURaQU1jcG9aYTlmTGlYSC1pWHJKRFR3dDJyQm94eC03NUxkWDhrNXdVMmlmT3k1dnpYUnlmSWVJUEVOYktLd0xuSHV5TlBCX284V1I3eE1nVHY5TVppY1hQek1WY0FYUll5d2VNeEJUbzgtVmVIZ2dLZmo2MjhWUnlIaTdsbS1nY19xbXJkbnVwaUxINlNKQ3o4MUJoeEpKV3hkWVlUUmJWUVB6VjVnb3pMVzl1LUx0NEJTd1NxeUVNa2ljR1ROX0QxZTluRVl3VVc5RkxXRXNsU3c0WGYzNHUxZExmSXRBaG9pckc5QVNJdXRaMXBRLUNv?oc=5"
+ },
+ {
   "id": "d40e23214e",
   "datum": "2026-02-01",
   "tijd": "08:00",
@@ -29727,6 +29894,26 @@
   ],
   "samenvatting": "Mestfraude met valse mestwagens en documenten: Peet W. voor drie jaar uit beroep gezet HLN",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTRmM3BuZ281YWhZckRyamZ3bTJiblRObUFaQ0J0TTJtRG5KOEg1NjlPenNRZEdMeHhaeTRqdWtIN2tHM0dmeUpfU056WHh5dkhqcXlxcW5tVWEzLU4zSjVPMGhoMW52dkJiN3h1SGllLWZuTlFScFZlY1FHdE9sbkZlME5rZGE4VkI0TWhkRU9tWm5FTVVMdnpfVHd1eDctZVVHLUxpc0tRZzNKQTdrbUd2LVIwQzJzOS1lZi1LTWRKLUNXZHc?oc=5"
+ },
+ {
+  "id": "f705e73d9f",
+  "datum": "2025-10-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Mestfraude met valse mestwagens en documenten: Peet W. voor drie jaar uit beroep gezet",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Mestfraude met valse mestwagens en documenten: Peet W. voor drie jaar uit beroep gezet HLN",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeUoxUlRWNjlPRHdrWVZaMWtoV2ZVVV9nWFpOelpzT1NnaGVqeW9IWXg1U0tlblE2R01iTGZ6TlBudE5MR3FzcXJZRUdSTXVUN0dKdkJJci1EQ2d2ZTZaX1FGckxrRGo0NUlROFBZYjM4cjc1cEExbDN3dUhaaVc4ZWVZSnJqWEJua0E5REhJcWE5QVRhcVZCbzdTU1I2R1VncWJRTUplWW1ZS1VSVk5Sd1ctbzJRc0hLM2RDa2E1djFIcWdsR1N6RVZOTDUxWm5wdW10VmxhTFdXQ1FUeUxDeEhB?oc=5"
  },
  {
   "id": "aede0de45c",
@@ -36710,6 +36897,25 @@
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVpvVzh5SlVQRUVFZHd1TDZ2WXd2VEhYcm5NZ3NGOWY1V2UxTXRzU0hlcjBDQmVhWEhPcVNVRVN0TjJITS1pRHpnMXNEZ3U0TVprNWkzbENYZUZxeFNZajhHT1RlOURjeUlHeW5WWmY2X0pfQUJsMng0THNacFh5WHB3Y2FfUmQzRnpBcGEzTU9fSm8tOVczQ3M5NW4yVnZoZ2tV?oc=5"
  },
  {
+  "id": "01ad31ec17",
+  "datum": "2024-07-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Aanwijzing voor trustkantoor CIS Management B.V. vanwege ernstige tekortkomingen in de SIRA",
+  "bron": "De Nederlandsche Bank",
+  "verzameld_via": "Nieuws — Trustkantoren & rechtspersonen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "trustkantoor"
+  ],
+  "samenvatting": "Aanwijzing voor trustkantoor CIS Management B.V. vanwege ernstige tekortkomingen in de SIRA De Nederlandsche Bank",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUTM2LWVGa01YSS14V2VoZGNEbVUzejZzZ0ZOSHJvRUJIMU5GUm9MM3dYVUhJbVRuX3YxakdXMW52VlJnNkpvdTg0aDllQ29fTmM0d1JabVF4UUplWV9Na2lCa18wZnhVdVEzZlUycmpnYU5FLUJHNFAzcEdnWnpna2EwakctSGxZYjA0enFibWt4SW8xS2hKM2F5VzZadWtpZWVNS05UN0lrS1g0WXdHdjNfMGRmdHRsQ3Q3LTV0NWItSVAwaVppY01xNGFjRGk4Rkp1ZloxeUU3LVpVNW5kZU53N1MwdFE?oc=5"
+ },
+ {
   "id": "3495e54cc6",
   "datum": "2024-07-24",
   "tijd": "07:00",
@@ -37868,6 +38074,25 @@
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPenk1cVZnUkNpVkhhdHh0UVNmekxkejFUajVPSUktRjZFTXhCTF9qZnluWDFEN2Q2U1NoTk8xdDQzaUtrRENJalhHMHVJNUpQVHlBOHBXVFNQRnRUNWphdmVZMFRiS0Y3NWZKYkd1aHV3Tjd1ZnE0blhNY29HbnJHdTBMX2t4bzhENmhxdGd0SW8ya3BZS0lvOEN6dTFqVTFyRC1R?oc=5"
  },
  {
+  "id": "350199caa2",
+  "datum": "2024-03-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gezin moet huis uit nadat drugslab wordt ontdekt in Bosschenhoofd",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Gezin moet huis uit nadat drugslab wordt ontdekt in Bosschenhoofd Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVDlyRjIyUHNpRWV5TE9rZ0lOR3k2RFo4cHFkUVBlNXdQMTlfaTF0dHFINEw0Zld6N3MzbGxQOUFQTzlBQTBoZl92SG5SUmItZHBUcnFFZm9nYmJuT2RCZTl5TnZaeXlEZTlFRGI0Y2VaeDJablJwR29FclM4Vi1mTi1fWjYxMTlNY3kwd2gzdTd3NHN5ZEpfOElaYldUa3MzNERjUmhuVGwtNDY1cUE?oc=5"
+ },
+ {
   "id": "b3dd8076e3",
   "datum": "2024-03-14",
   "tijd": "07:00",
@@ -37967,6 +38192,25 @@
   ],
   "samenvatting": "Celstraffen voor stel uit Waalwijk vanwege witwassen met zorggelden De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSkNoRGxrSmlzS2laLVBTUk1IcVNyekNEdWxNN2RhV1kxNExsRVhiLWxtcVNLM2w5eEFuTjVKOVFlUVNEVTFvdUxZNm1Cend1UEtlZGh3RjVNTnFobGRUMmQ1VnRaaUxyUnd0bEtmcjZBT0xFYkEyV3RCUzZHVlN0UWxyWUxfRTl2WTlQVUxlU1JvUmZmRWFOVFVvcEZhNmljY3JBQnpTZjdETnp2OTFzdkpjWWFYOXJJSzVWTndjeUFuTlNaMmVQemZNNjNOOV9VQk01WWh6SEh0ZU9Pc0VWMk5Tc1lHQk5SQjFFeDNLT0o1eGJTRjJWY1VIWnFUSUVYV2dhbnpoS0c3T1k?oc=5"
+ },
+ {
+  "id": "1f7f32e3b5",
+  "datum": "2024-03-03",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Minister Yesilgöz opende een leerwerkplaats met crimineel geld, maar de jongeren blijven weg",
+  "bron": "Trouw",
+  "verzameld_via": "Nieuws — Vastgoed & huisvesting",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Minister Yesilgöz opende een leerwerkplaats met crimineel geld, maar de jongeren blijven weg Trouw",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEJFejRFODRoRnNiUzg1RWwxbG8yOWZEWEJsUXlCUmlPS05qbGRpdmZybVpOY1ZMdjMzcE9TNmNlQUFvRXY0cHlUdENtUkhEU1dYclBhZ0JLTnpsZ2JQdHlsX2dTYjQ4Q0hzUjB0M1UzVWQtNE5uTlFiNTA3eVhSYTBSNWNJejZBVnM2a3gwZ0V5QWh6dkZBUFFEQVoxWnhmVF9rcExCR3Npd2JsdmszQjAtQ05jUEtLQ1JKZEVSdlBlMjBScDJNY3NRUUs3UQ?oc=5"
  },
  {
   "id": "450b589230",
@@ -42597,6 +42841,27 @@
   ]
  },
  {
+  "id": "432a2334ab",
+  "datum": "2022-10-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugslabs in Oost-Brabant: wie zijn de kopstukken?",
+  "bron": "Opsporing Verzocht",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "kopstuk"
+  ],
+  "samenvatting": "Drugslabs in Oost-Brabant: wie zijn de kopstukken? Opsporing Verzocht",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDd5RG1BNXk5UmZDcWtQUlZFaGppUThYdXEyVERzZFpmVVVLTWstTUVtWERQS3QzYmRIWm0zVmFsMlJieGo2bDl5aDFyOEtQV0xFSnIwSzdjMklrQ3d0Z3BpM0xocHpDRlBVaVlULVgtY3JxWWVWLUp3eDA0WHpFdWFVcm9uSEwwT0RpMWI0YVVwMlBsTTdOZlktUzdURko1?oc=5"
+ },
+ {
   "id": "563e12bc7b",
   "datum": "2022-09-17",
   "tijd": "07:00",
@@ -44201,6 +44466,25 @@
   "dossiers": [
    "Cocaine, haven & logistiek"
   ]
+ },
+ {
+  "id": "cd74c4fcf2",
+  "datum": "2021-09-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Halsema: ga niet achter coke aan, maar achter het geld en de netwerken",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Trustkantoren & rechtspersonen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "netwerk"
+  ],
+  "samenvatting": "Halsema: ga niet achter coke aan, maar achter het geld en de netwerken NOS",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0hKUi1FQVhTdkdrNDhteXB4UENob3NROUxCZHg2cDdta21oa1ZxcGlpb21Jc2xFaVg0cG9fanBGc1RXV3BGbkVncHhBeGZIVWo4cFRBN2ZpaWoyakY2ZTFXTEkzTmNoalFCRUxRdE9QMXNjb0R3bU1qQ3VtTzRpWTV6Q3owTnZXUWt0MkE3dTloOXBzdW90SV91WDJZOTY3NXR5S0hCUHhLbUgwcHc?oc=5"
  },
  {
   "id": "b375f16786",
@@ -46141,6 +46425,25 @@
   "tags": [],
   "samenvatting": "Project Straatwaarde(n): met een persoonlijke aanpak de aanwas van jonge criminelen voorkomen Rijksoverheid.nl",
   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWnZOV2ZpSEhOWHZ1OWxqNEEtNHJZR2l0ZGdOcG45dm1INkQzM2h5eTlvczlSRk4wMjk5dkV3NlZMN01HZzJOQzlvVzhKaTM1SzZzN2dzZmtxMjhjeHlZdU54Wjk1ZHhpajM3S3BTdUtOZWE3NHhXSGFSdFdVV09MamNvSDV0WEx4T0hOMzRfQmx2Q0JGWEI3d0dLZndBcE0wRjVRWVVWWmpJOHBZVEVRNlk2LThUVU9VZDdDRkRTRENrVzcwUExXdHZrLXJwTTFNNlY0OXVUNEd5Z3NfM3lQMjB3?oc=5"
+ },
+ {
+  "id": "0c5e1b6219",
+  "datum": "2020-06-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Lekken uit geheim Bibob-advies kan ‘serieuze gevolgen’ hebben voor Bruut-eigenaar Bob Kooistra",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Lekken uit geheim Bibob-advies kan ‘serieuze gevolgen’ hebben voor Bruut-eigenaar Bob Kooistra de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYTA2T0FEZEQtdUctNHlQRDFmQzlHZ0ZjYTBLc3NwYk9CYlUzY3FXNC13eWJFZENfdGhYdWZ1WkwxOWwxUG9hcFV5UEdNYkZ2cHRsYzZuSW1TeHAyTVRfMEdCWWFJOE54N0FmYkh6WkltcUp2c1d2V1lFeVgxNDZKN0x5bTJXdXhTWTZJNUw1QWpXek85Mk8taDJQQVpheWUtZzlKZ3BScGRyUHZUcDhDSXpqRlA1WDFGbE1SZjU5WmNrblEyT3hDcHlzRFJLS00?oc=5"
  },
  {
   "id": "7affba43b7",
