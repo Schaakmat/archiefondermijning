@@ -746,7 +746,7 @@
   "id": "ac680ea73c",
   "datum": "2026-09-02",
   "tijd": "13:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie onderzoekt dreigvideo aan adres Jan G., bewoner pand Overasselt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -765,7 +765,7 @@
   "id": "9a8bd0cd91",
   "datum": "2026-09-02",
   "tijd": "13:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Koffers van zes vluchten blijven achter op Eindhoven Airport na storing",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -784,7 +784,7 @@
   "id": "978f7ac01d",
   "datum": "2026-09-02",
   "tijd": "13:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw met verf bespoten in Den Bosch: man (41) dertig dagen langer vast",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -803,7 +803,7 @@
   "id": "4d714f6242",
   "datum": "2026-09-02",
   "tijd": "13:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Stroomstoring treft zo'n 900 huishoudens in Noordoostpolder en Urk",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -822,7 +822,7 @@
   "id": "c69c00da10",
   "datum": "2026-09-02",
   "tijd": "12:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inwoners Overasselt hopen dat Jan G. vertrekt, 'Zo veel ellende elke keer'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -841,7 +841,7 @@
   "id": "68d4b395c6",
   "datum": "2026-09-02",
   "tijd": "12:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dreigvideo duikt op na extreem geweld in Overasselt: 'Je zal sterven'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -868,7 +868,7 @@
   "id": "366ae8e879",
   "datum": "2026-09-02",
   "tijd": "12:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Almere krijgt nieuwe scholen dankzij soepelere onderwijsregels",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -889,7 +889,7 @@
   "id": "e62a32242e",
   "datum": "2026-09-02",
   "tijd": "12:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jelle D. 45 dagen langer in de cel na dood hoogbejaarde bewoners Joris Zorg",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -908,7 +908,7 @@
   "id": "c766b9c2d7",
   "datum": "2026-09-02",
   "tijd": "11:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Haven Deventer vanaf dinsdag weer bereikbaar na wekenlange sluiting",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -1663,25 +1663,6 @@
   ],
   "samenvatting": "\"We werden wakker van het geluid van veel sirenes en helikopters\", zegt een bewoner van het dorp Nederasselt over de politieactie in de naastgelegen plaats Overasselt. Hij dacht eerst dat het om een ongeluk ging. \"Ik zag twee politieauto's snel wegrijden naar de dijk in Nederasselt. Ik zag zeker twintig politiewagens e",
   "link": "https://nos.nl/l/2629275"
- },
- {
-  "id": "a02e63b4a3",
-  "datum": "2026-09-01",
-  "tijd": "15:29",
-  "nieuw": false,
-  "titel": "Vijf tieners aangehouden na mishandeling en beroving in Purmerend",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Vijf tieners zijn aangehouden na een mishandeling en beroving op klaarlichte dag in Purmerend. Het gaat om drie 15-jarigen en twee 14-jarigen. Twee van hen zitten nog vast, de drie anderen zijn weer naar huis gestuurd, maar blijven wel verdachten in de zaak. Op 20 augustus rond 15.40 uur fietste het slachtoffer met een",
-  "link": "https://nos.nl/l/2629272"
  },
  {
   "id": "19fcb4ff86",
@@ -8896,6 +8877,25 @@
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUno3aWE2ZTBEMmx1cEF6eG9xVWdRdzdFX2xvcnZvV0JoSUw3RmVJeDd6a01WNmhkSXl6eFNMMmpUa3RHbUxjWi1mcldTTlhHQmJuRzJXYTF5WG1CNExzdTBNT21tTnNGSHZ4VTdJWnVQS081ZTNlRXJ6TjU4NFdJTkJ1NHRRWWpsWWR0aUt1YnNZbDNpZS1WdGFGeDh6dHYyQ0lyNmZ6VQ?oc=5"
  },
  {
+  "id": "45554874b4",
+  "datum": "2026-08-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie doet inval in drugslab aan de Blekerstraat in Enschede",
+  "bron": "Tubantia",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie doet inval in drugslab aan de Blekerstraat in Enschede Tubantia",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR3JfSnBhOTlGUDNTSWQ0LWRaZzYwYVlUaGtFZ1JLNkQxTmRGYkhyaGZWZU1CdS10bjZaZzk4NEw3WFZyZGJVQUg2U29ERmFtZGFCcTlMT19vTlQ5MlhLbkZ4eU5lbnNzM2ZCNlMtaVA1NjBCWHZESjBIVjZZYThpREt1NlYzWmJvWUpOd1ZsaEIyNkpTMXZndVRsbDN2cXV2X2xnN2E0dkFHRzBLNG9NZlR3?oc=5"
+ },
+ {
   "id": "aaa9f8afb1",
   "datum": "2026-08-18",
   "tijd": "05:03",
@@ -10371,6 +10371,25 @@
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcy1wY2JlQ2ZTamtNQnI3bWFrUThZQU1IMWxVeFhKNTExQnpJYVNVdUwzb0JlMlFXUFhEcFljTjlSMDJkcGZSd295bnc2Mk9zZlhDSkdIRHJERG51SDhTRlBPNjJycGRqLVc2ei01TnBBTm4xb2V4MWR2WVdraE9VQncyUGdscVMzMHFUVUF1MC13MHBTWjV3ckZXVGJ4N1Q3VlJJdzNmX2EzWFI1Wm1SOQ?oc=5"
  },
  {
+  "id": "d1ae27dcec",
+  "datum": "2026-07-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Rechter laat claim van 20 miljoen dollar wegens mensenhandel tegen Diddy doorgaan",
+  "bron": "Puna.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Rechter laat claim van 20 miljoen dollar wegens mensenhandel tegen Diddy doorgaan Puna.nl",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHJGOTBqMTJPd0k5QnhoQzFfX3hQTXBZM3J3WktSbmVGTVZhZmdhWV9fRGdUQXN1bmxhOE5uMGVFMkU4cDRoUmNXNUpTcHhtcXZkM2dFTC1GNUR0SW53bE5MOWw5Si1RalBjWnI5SXNhR21QaHp6VWpSSTRUMWw3ellGNjRSVjdaNlVGZ2pJSTVpOUFCN3F0QnJ2WkRWU0JGTXZZN3ZZQjBvZw?oc=5"
+ },
+ {
   "id": "939a353cb3",
   "datum": "2026-07-25",
   "tijd": "07:00",
@@ -11519,6 +11538,25 @@
   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMkJvakozaG9CVlZMbDJYc2lyOHkzMk0wdFVUTWhtNEdpN0RqNlp3MWxIVzg0UHZOOENxc2xWZ0xTNk01VF8zRktrV0xmc0VOUFV0ZFd0b3NmcUxHT0JlVDNKYWEtN2VNRkJnYVBBRVZSd0Fjb3plNExKaER4OWpMMTJXelZRaDJxendKLXRIWDd3SktBUWZTUV85YkMtX3NTdlIxeXdYdlRmN2JVY0xCaWFGSEZiWUtTSFFFZnA2TUxLb240aXN6SjB6SEUxMHdMcUVSVXAzMXZOV3M4S2VqTGxkWURDM1pUNHVDZ0NB?oc=5"
  },
  {
+  "id": "b976ccf980",
+  "datum": "2026-07-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Grote politieactie tegen mensenhandel op de Wallen",
+  "bron": "112 Nederland",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Grote politieactie tegen mensenhandel op de Wallen 112 Nederland",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1ZKM3JSblBCZVRCRlFxZy1Yc09OTkdVMEplUXI3cmNKek1xTHdtaldvMGszVjRqX2pkZmI3Q2h4blRRSGl0M2Q1QnZSWG9WS2NfanhmS3hla0ZjMzFxQ2luRlBnektwZ2U4SmdtblItZWF3SzhpOTBmT2tmeE5MZkRtSld6VHo3S1dGcWZwcV82cmRObFNV?oc=5"
+ },
+ {
   "id": "31007220a9",
   "datum": "2026-07-14",
   "tijd": "07:51",
@@ -11710,6 +11748,44 @@
   ],
   "samenvatting": "Vermeende spilfiguur van Kempense afval- en mestfraude opgepakt voor partnergeweld Brabants Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjZtWXM1S25jTjBsaVktQWhVcjhpX3RscG9icjIxN0tKSGZHTXlRcGZSY3VRTktaeTBtRHdyZzZwY19LQWJwWHVuQzVJbnVkU2RUd1M2dC15T3BFYjhvYVpJZE52blRMcW5Jck1vRUJxWFhUZUg0V2lmdTREanppMzZ6dGVFbTNpd2FzbDNYMktzc0tYN2hTUHBNRTJOdmZwLWdSR3NvOFlLc0ozQV9INTd0QlNxTEpB?oc=5"
+ },
+ {
+  "id": "00417883b5",
+  "datum": "2026-07-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Yolanthe Cabau speelt hoofdrol in film over mensenhandel: ‘Voor mij niet zomaar een rol’",
+  "bron": "Weekend Online",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Yolanthe Cabau speelt hoofdrol in film over mensenhandel: ‘Voor mij niet zomaar een rol’ Weekend Online",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WVzcwcEVuWlBCQ012alFQbVYxNGxSd0J3OWwza0hOT0xqTHdjbzQwT0Q4T2NSQUt0anFsR2d2QlFzR3RHZHB6SjhuVGtYOGtNX0R2Y2RxVWJwUjRWXzRacHg1V2phb21ic2tWMk55R1JGZFkyVUE?oc=5"
+ },
+ {
+  "id": "27032db6c1",
+  "datum": "2026-07-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Yolanthe noemt hoofdrol in film over mensenhandel ’diep persoonlijk’",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Yolanthe noemt hoofdrol in film over mensenhandel ’diep persoonlijk’ De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRllmWUltZDZNSEpnTVlhSE1wamxhbnZfbnYyQzVpajZ4ZHVYMGM2c0RGdGFTMEF2U1N2b3lObmpmR0J3c093LWo4dEE3QUR0bG5aVDRGVThScmx0bDEtbGxCQy1Wdm1PWkxsWnVXekpFTlhqMmE0Y1NPSGphSTZ5U3ZzQnlMNXk4YTNLekZTaXd4QllJS2lxaTJJdjlyQUNnN3RPX2djd1FBdDdIYzdHSWJrcWh1VWxCUlE0TUNRZ1VxTGJ6eDV3?oc=5"
  },
  {
   "id": "cba0fa000c",
@@ -11932,6 +12008,25 @@
   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd0d0bjRRTDVTdnhKdm1rYk1RT0dGMGx6dmdEV3hSSE02cWkyT3l2LTVsUkluSzRrLUxMdHFNZzdXOFozaTZFVG5MOVlwZUlyUWNTQnpONWNnR2ZUMks3UTlHZklDSWdfeFJCdmVTSm1kZlJJeUFpejd1b25ja0VjRnMxanFaZkVnb21TZFJvTlZpTVJCUHdPc2NjYVB0S1QxZV80Q0xuRVZpelgwSVBDMk1SN3dnTGZpZVY2TUlmWmd6YzZ5bnJoaWhGaVdHSzZYa3pzNHpQaw?oc=5"
  },
  {
+  "id": "d2050e66c5",
+  "datum": "2026-07-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Woonfraude, drugsoverlast en signalen van arbeidsuitbuiting aangetroffen bij controles in Papendrecht",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "arbeidsuitbuiting"
+  ],
+  "samenvatting": "Woonfraude, drugsoverlast en signalen van arbeidsuitbuiting aangetroffen bij controles in Papendrecht BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbGtXZ2w5YmkyREJKbWZ3WFpKTXdnWE16aG1aTGRNa3BqREZFRXNibkJGc0d3SHlWdEM0dkdDb1dfdGV0eFhFdUF1cVB0QzBjNUtVLWUtVG05aHlodHZzUFhJNTZtLVZpMzVaY29JR3F0Sll6bk16NVd1S2VjMEZxdGp3NGxZaF9IcFJQd2hMZTRzX3dHaWJ3a1BHY2lnM1NKekh0a09SLXlkaDRLeDkzaDA1RS1tSVZyWVdqeTNHSkpxc1AybVdwMXdMRXJCRE5YMTJuVkoyTFB0cHhY?oc=5"
+ },
+ {
   "id": "27ae30db50",
   "datum": "2026-07-08",
   "tijd": "14:25",
@@ -12058,6 +12153,25 @@
   "dossiers": [
    "Cocaine, haven & logistiek"
   ]
+ },
+ {
+  "id": "d0d9add0c6",
+  "datum": "2026-07-07",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Wereldwijd mega-operatie tegen mensenhandel leidt tot duizend aanhoudingen en verdachten, zeventien in België",
+  "bron": "Crimesite",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Wereldwijd mega-operatie tegen mensenhandel leidt tot duizend aanhoudingen en verdachten, zeventien in België Crimesite",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMWxsSFE1bGcwV0RTMU9YQVFESzBHaFMwYzVTOEU0MDh4MDMycnVWRk84RzlXbDhzcUhSd1llMU5IdWxvbHdwNElnNWJCdW83VHZLc0praFF1ekt6QnBldUpKaUxHUnNRQlMyM18zLWdONGE5TzhvS3g3UXU0WWZhYXdqVHYyZ3E0SzVwd2hTVEJTZTF6T2xyWFQwMkFzWklvdzNLS1BRS1VWMGs2RWJabF93d0dQMm5WTUVxV0d2Uk01dHd2ZkVBSS1WUlptWjA?oc=5"
  },
  {
   "id": "4b547d2fcf",
@@ -12510,6 +12624,25 @@
   ],
   "samenvatting": "Afvaldumping in de natuur: wat moet er gebeuren tegen overlast bij zwemplekken in Berkelland? de Stentor",
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbWJ6NUM2NDhUSkYtZG9nSnlKUElfUkEtdGE0UUJKYmo2UVBuNDMyamQzSFlaS2plT1lJZkJPSGw3djQ3THFfRm41bXN6RlQtQzNOYkpDXzhmSWM5NUZoU1ljSjR5X0JIc3Flb2R3aWgtZjJMdkR4YS1HcFE2RkhZOVk1N3hIa1pmZUczRDB4WWNWNGFNVExOb0RzTV91UTBlbkJYdmhRdWJKTkp1YjY5REpSbmpwcmhOQUhWenhtNDMxbzZYUG9FT1VVUGFmWjhyai1F?oc=5"
+ },
+ {
+  "id": "4cf60078e6",
+  "datum": "2026-07-03",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Man uit Montferland aangehouden op verdenking van mensensmokkel",
+  "bron": "112 Achterhoek Nieuws",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Man uit Montferland aangehouden op verdenking van mensensmokkel 112 Achterhoek Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUER2SXB0bFFReHh6ZlZDMHppTHNFeFAtczhIdkdEcVJnbjJKdmg2bFBhMHc4RnJLSExaZFMxeVpXaTFKWlJZbGo5X1gzUXFYblJiVFBlSTRnUmt5ZUY5MzNoTGFkbnozdnRPZXVGYVhnUXdXSndpY0Q2VVJwb2x3RGFHUmhmMDlvTGxqS3dBSkNPSXVGdWhfa1BwY0ZuZUVaUGIzY3VjaThtOUdfU2dpNlhWTQ?oc=5"
  },
  {
   "id": "3defb30078",
@@ -13060,6 +13193,25 @@
   ]
  },
  {
+  "id": "ac9f9f729d",
+  "datum": "2026-06-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Brandweerman aangehouden op verdenking van kinderporno en mensenhandel",
+  "bron": "112 Overijssel",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Brandweerman aangehouden op verdenking van kinderporno en mensenhandel 112 Overijssel",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTXBnNFF0NGZKN3I2bHNNSmVaZ19LREpWWjBEay01WWN1RjhOZ2stcWFFd2E4ckVyOVNEV3k2Rk9YWm05bWFNRkpDeEFrV0V6UVZUUUl5blNJaC1reXpFRW9TZEFTdUV3SVlJak5ucUVKTG1mN20yQ21vakRyTEk3RnY2UEpreC04YjdmOWJIVjc2dXhSSXBiUmRkTUhlZmtxUnc?oc=5"
+ },
+ {
   "id": "70b9f39e47",
   "datum": "2026-06-26",
   "tijd": "07:00",
@@ -13281,6 +13433,25 @@
   ],
   "samenvatting": "Politieke ondermijning van de democratische rechtsstaat - Joop bnnvara",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHl6ZTBDc0U5MjAwUTVHcVhlTHRGNDI3TFBLWHUyUWpMaUtfMUxmbGdSQlZuQXFmWS1jOTMyUFhaSkUyLVlwMEo3WlZiTlBwdVk0WmY1RFhOYWxjNktNN1BNZmViRThTVHlUWmpuUmR1M0ZjTzVvd2JLLW5ONlhwcHFkMlk0WTNuYWU2ZDJHbGxKWHVkYW9TWA?oc=5"
+ },
+ {
+  "id": "8c74b38b79",
+  "datum": "2026-06-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Iraakse man vrijgesproken voor mensensmokkel in Nieuwpoort: \"Wilde zelf de oversteek maken naar het Verenigd Koninkrijk\"",
+  "bron": "VRT",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Iraakse man vrijgesproken voor mensensmokkel in Nieuwpoort: \"Wilde zelf de oversteek maken naar het Verenigd Koninkrijk\" VRT",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeS11Slhyd3hrUnBROUZ5Q3dDejJRbk5XUkFHbDRQRHBRa0FyeHJ2b2EwYTljYWZncHFwNkF4X2gzeEFZRGFfMElQQzdfNlNTclV1TW1JV2dJaXR5dDktR1h4dWRhSG02RnQxYUh4RDY3WHJhM3gzeXkzYjZBc1ZKcFpxMlFRYXpGSlVxUHFHMHVvTGpTTkY1d1FwaVJIZGFYWW9tVTEwWEI?oc=5"
  },
  {
   "id": "8acc2bfbd7",
@@ -13623,6 +13794,26 @@
   ],
   "samenvatting": "Brand bij schuur Sint Philipsland 'zo goed als uit', politie vermoedt drugslab Omroep Zeeland",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOREtTVlJfckh4Ykg5M0Q5c3h4cEhCRHdPM0NqeHdmYkI0SmVFRVJlb2xjZDdIV1NRSDdRZ0ROSnRkTU9pblpWNzl4cnJNTTlYYWgtdS05MUN0NHRvVWw0RElkY1V6dWRabmNrV0dxS2tWZzYxZFFKbXd0dkt2SlJpMzNiNVZseV9SeVEyc2ZZaE16V2hFVHlibVZnY0tKU2dMeGpoV1RMaGVTcVd4aDRMcm84MVV0WHg4ZXRCaQ?oc=5"
+ },
+ {
+  "id": "aa8b7a0976",
+  "datum": "2026-06-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ierland richt zich op crypto-activa in nieuwe strategie om illegale geldstromen te verstoren",
+  "bron": "Bitcoin News",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "bitcoin",
+   "crypto"
+  ],
+  "samenvatting": "Ierland richt zich op crypto-activa in nieuwe strategie om illegale geldstromen te verstoren Bitcoin News",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOVczSUVjZFlvNkVrVzFrSUUyblNxT3NaMTJaVmwxeXhPZjYzMjZxRHVyWFEzazVoOEtxOVBBbkU3SnFmLVRZUllOTk5iZ3JzZzVhUWJxRGdFMnNLMzBrV1g2TmZwRXk2WHBsVk13N1JXR19CYmNXOUZTWjl2R2U5a2RzdVFFWFNWbnV6Um0xekV5emEyMTNBamQzUXc0Zm9aNGM1QmgzTzRHTWZRNURuSWNmS0ZNVF95dmJFdi13?oc=5"
  },
  {
   "id": "8047301d73",
@@ -14298,6 +14489,25 @@
   ],
   "samenvatting": "Politie en gemeente Bladel ontdekken overtreding tijdens actiedagen op bedrijventerreinen Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT0RIak5MeDBTc0JWcXQ1SHRIRjZMdl9pOFR6S2hHVWdKbUV2Vll0QlVfczNRME0wWUxGR1NSNUNCS1lpdUd1dXFBV2V1YlRweWlFbUtHV2NyZU4xYUdqUWFxOWxQVXBXaGI2MXhob0x6LVlsZ2lXZ1BWRGRWSmMzVUFnUVJZNTBxcWpCMV9LR3ZmZXNxVXhldlRUWGJNNzZRRm52WU9janU3YXp0aFdQLXFHU0l0Qm1SaXVuek9CMUUzQQ?oc=5"
+ },
+ {
+  "id": "252e1b6d99",
+  "datum": "2026-06-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Nieuwsuur over mensensmokkel aan de Europese grenzen",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Nieuwsuur over mensensmokkel aan de Europese grenzen NOS",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGZfRHRPNFJzZERycnJCeHROWVZTdGpnWFJCQlBIZm04RjU3Z3lGam0zQUdVdUhNdHE2aTF0V18xM0pmandYMlVXTVBuNlE1bC1FcF9RTVh3a0xWLXIxUk9yUHI4RHJKZGY3RnVKdVNlZW1JVTdKY1lHbDdnVVhuVUpmUjRJV2w2RS1NMGpFWklMa1FLNTY5YjZKSmw?oc=5"
  },
  {
   "id": "9fed809e75",
@@ -15818,6 +16028,25 @@
   ],
   "samenvatting": "Echtpaar aangehouden op verdenking van witwassen: geld vervoerd in tasjes van Surinaamse toko AD.nl",
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ21SUFhEemdFSnVTenZGWmlGYlAtdGx5LWxBRjlCWkM0SW1SaGQ0QXRhN1FuNXAzRWUyaXY0eHkwTjhHUUh0NGZlQkRPQ0NhMklMTi1obXBXNTlQR2ljZ1RRTENFY0puXzhJVEpFM09pQjRHcHBTNHllcjFMOUNIMFpDclFKeXAtbk9oVGNrajJwRVNTS1hMaURUcEpfb1BiNXRQOVp5dDNLRVRqMS1LUEdBaVF0SHFsWTNOQmdqMFprUTJJSWZOTlFB?oc=5"
+ },
+ {
+  "id": "0062f10a61",
+  "datum": "2026-05-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Meer ‘small boats’ op de Noordzee: wat is er na 3 jaar gebeurd met de 100 aanbevelingen tegen mensensmokkel?",
+  "bron": "De Morgen",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Meer ‘small boats’ op de Noordzee: wat is er na 3 jaar gebeurd met de 100 aanbevelingen tegen mensensmokkel? De Morgen",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVWhNQW84TG5BZXAxZlRJVG5sbXE0bWZxem5qbEQwNDdic2UtZzZGTXdvRElUQ1hocnZGT1IzR1p4bzJKYWpTNTRBSExJMjJxVmNWdGYzUjZWMkl6cnNvZlFVTURGWmFMT0VnUk9ycmRmYlBLYnlrSE53YjJXZVJWOVh1VlJLSEZtMDYzQTVrSTF4VkFZUzBZSVhKVC04bG9PSHZOb0xwMHBhSC1yZ0lKY09nMDVlZUZjZUowSjA1TzlfRGdydGw3c0JRMUN3a2hQY29pSXdoVXNVY3hxdl84?oc=5"
  },
  {
   "id": "f2c00ba0df",
@@ -17836,6 +18065,25 @@
   "tags": [],
   "samenvatting": "OM eist straf voor droppen telefoons en drugs bij gevangenissen Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTVyWDJUdnQ3VlFEU1hYMHZIWEZJdVB2SlpuWE1XbnN0TGxodTJ1c0UwTTY4cllmb1lreU54MVd6RnBuRHJWVUFuSHIxY01pUmg2ekp4LTAxSTRITFdYMGp2di15U2hwYXZBdlZieG5WVFM1NGlrR3huZzlnZUY5TXQ0NkZUTndUX092dGlPb2hPWTBYdmFRODdZMk5pSFhjMXAtdXJ1MktsRTA?oc=5"
+ },
+ {
+  "id": "3cf191755c",
+  "datum": "2026-04-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Theaterfestival over armoede en arbeidsuitbuiting in Leiden",
+  "bron": "Leidsch Dagblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "arbeidsuitbuiting"
+  ],
+  "samenvatting": "Theaterfestival over armoede en arbeidsuitbuiting in Leiden Leidsch Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcnV6NlpuRFl6Vm5yOHhqVHhYTm11c2hlUnNPUUUzM25rUzVoUUY0c2M5QW1YNVBydjVGcVIyRm1qUDRyaU1GT2tmN09TZFR2dmxJRTlmYmZHTjVnOWs3Rml5S0NMSmhNS1dpclNoc0Z2NUUzMlZiMmVYd0w4anpVZGV5aU9IaHZTRDNkVDFCbENJc011U3d0MHcxZDV2aTlUZjFQa1FnajJiRXhMSHJCN2trbU81bzZT?oc=5"
  },
  {
   "id": "826180c55d",
@@ -20576,6 +20824,25 @@
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVFXcWN6MUM4eVE4MEJqUG5XWktsc2lWeXQ2MzhMS3dwWXZYLWR0NFFzOEVTam0tYTFTenRmTkVuX2gwTHJGOUpyTFU5X1FCUFY3eDB3dTVzOGlIWlc4Qmk3RTY5YTE4OURLc2xDSFRYUERFUzFOMjhQUjZFZlJOWnJyMFV1bHhZZ21RaDFPTzhRX1Vvc3hJd1dUTy0wTzc4MFRFWXhQblRzZ3oweFBHdW9pQ0lEZk1EN09r?oc=5"
  },
  {
+  "id": "4f1aa770a4",
+  "datum": "2026-03-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugslab Utrecht werd ontdekt na arrestatie van automobilist met ghb, xtc en lsd",
+  "bron": "RTV Utrecht",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab Utrecht werd ontdekt na arrestatie van automobilist met ghb, xtc en lsd RTV Utrecht",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdFNQbl8wNTFkai1NM2tjWWhXTHdKdmFjWjQyLUdnZ2pBZFNFbWo4QlhQelNPTVRzcjZRaWgxMVZjc0N0eUlzdzJzN1p6b0pXR3pTejFQRnFQcExMMzdybnVOdXVTQzlnNUNJX0hya0wyQzRWZ0xMeFNLaVpXTWk2RHFTeXpGZlJlaVpkWUZ6WWVVQjB6ZGdJQ0xHVkFkNjREOHo1dDR2SGhoWTRqUFlkUHJUQ3JUamZYOEtVTg?oc=5"
+ },
+ {
   "id": "3e6cf97ab9",
   "datum": "2026-03-09",
   "tijd": "07:00",
@@ -20694,6 +20961,25 @@
   ],
   "samenvatting": "Politie treft restanten van hennepkwekerij aan in woning in Zwaag Hoornsdagblad.nl",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRThFMlBtaW5icnFJYUlxYWctZGhua3ViRm9fRHp6cjg5RXRscXlHR1JkOXc1N3JONXY3elhZdmRIQ01wZGhPTWF2N1Rfa1ZvWWZhOWs5OVlvTkE0YmpnQzFVNzNFVS1ya3R3MHpTUWJ1TkNGZF9NcEtCc192ajEtU1pENG5RTU9QbGd6S0RWODZrSXdJMTY1d3VxaVRxblE?oc=5"
+ },
+ {
+  "id": "45b2e1c901",
+  "datum": "2026-03-06",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Campagne om jongeren uit drugshandel te houden: 'Mijn kind doet dat wel'",
+  "bron": "RTV Noord",
+  "verzameld_via": "Nieuws — Jeugd & jonge aanwas",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Campagne om jongeren uit drugshandel te houden: 'Mijn kind doet dat wel' RTV Noord",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelp1MU9ET1N3b2VqQWNXZThXR2RWeUxGTGFIZUtOVEVMZHdDY0J5clBjNVJkZWJ0aDE0VkR4MzBwb0MwU3NaSVpGT2FFQTJWbjN3cDVtTEFZVWthT04tQU91akEwUTdIbnloVXpUc1hxR3dZd1dsWkM4TU42Q280M3B3eEwyaEkwY0dIU19xZWFBSm4yeEN6bjlIc2oyR0wwNno3ckNrbldBN1dzc2c?oc=5"
  },
  {
   "id": "0934fbd867",
@@ -22771,6 +23057,27 @@
   ]
  },
  {
+  "id": "59a8fc3970",
+  "datum": "2026-01-10",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie ontmantelt wietplantage met honderden planten in woning Thorn",
+  "bron": "De Limburger",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "wietplantage",
+   "woning"
+  ],
+  "samenvatting": "Politie ontmantelt wietplantage met honderden planten in woning Thorn De Limburger",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnVaUmh1dEtKU3g2Z3UtMU9YUjBvMGZNYnBySEprbkVwTHR5Zm9KSkMzME9LMWNUQjRXYXFfLU1GUE95UFdlSVNmUEhHWDl4MkVEb05pbGlKZlpISUZiMEt4V0VlaU1TYUV4RGp3SHQ5OGtobnFiZlBoWkx5SEJSa18xRVNuYmtvTEM5bXhJdWVsTzdJM19RVUlsb2l2T2ExMWZaSVR2TW00WWhtTm16amdGS29qbm55N0dCSGFUanBSWnk0d05UOWlR?oc=5"
+ },
+ {
   "id": "ed0afee5ac",
   "datum": "2026-01-09",
   "tijd": "08:00",
@@ -24345,6 +24652,27 @@
   "dossiers": [
    "Witwassen & geldstromen"
   ]
+ },
+ {
+  "id": "6034270422",
+  "datum": "2025-11-24",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Succesvolle conferentie over Bibob-wetgeving als bestuurlijk instrument om ondermijning aan te pakken",
+  "bron": "EA News Aruba",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob",
+   "ondermijning"
+  ],
+  "samenvatting": "Succesvolle conferentie over Bibob-wetgeving als bestuurlijk instrument om ondermijning aan te pakken EA News Aruba",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQnJZc21RbFF5OW53X2ZtaEZEcEhQeVFtakNhZXJxVm9hNUdIMVRKQ0x5b0phd0dUdUM4ZTNLNDhuRUNFWEg4VnRpOVp5NV9XMTJRd0VVejB4S29Vcjg0NWVmaWpTNlg0SzFWakhBVGgzdlhhU1Byc0ZmX003el8xZ3N3Qk51YTdYOTJXTkVoUUZZZnN4NExIOVB0NHJ0c3oxQ2g4eG81SnFpT1QzVmo3ci1Bd0M0Um9zT0NlUlgwSWM4M0U?oc=5"
  },
  {
   "id": "76f0360f6e",
@@ -30409,6 +30737,25 @@
   ],
   "samenvatting": "Aanhoudingen en zoekingen in Vries, Assen en Beilen in onderzoek naar zorgfraude Politie.nl",
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3VuMDR0ZkNZU05GN1pSQlJKd1lsOWRhR1pNM1RxYUtCOFFITXFLRUxlbVZJX2JXQUdlcGE5cEtXdm9sYXNIU04zc28yN2RTTXhaWjhuWTQtQ0RNTzRrNUhVY3I2OVdqY0hQT3NTaFpqNm5NbG5HQnRXV2ZMUWczY0U5cGw5RVNjeXdMQ3FiazZmNmJMMEpkOWRiTnE5MVZIOGFSTGUzWE0wZTVrZkVBUWZ2S2lDSzR3alVEZ29UNElzTnNyLUFSTjV0OFV4c00?oc=5"
+ },
+ {
+  "id": "c3d50bdae7",
+  "datum": "2025-02-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Geen drugshandel en witwaspraktijken vastgesteld bij straatcoaches Secutor in Edam-Volendam: ’Anders was het wel eerder opgevallen’",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Jeugd & jonge aanwas",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwaspraktijken"
+  ],
+  "samenvatting": "Geen drugshandel en witwaspraktijken vastgesteld bij straatcoaches Secutor in Edam-Volendam: ’Anders was het wel eerder opgevallen’ Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSm1vZDgxcEpzcnNXeUNIX2hyRFZnR2M2WEdGb0FFTnJkcVJ4MHFDMGpybjU1UllOWkJZTzNQRlFBb0lhS0VBVTMxOVRYNmRHdGpYUVpaT3pjM0FVa0l1WHVpX1NqQ2QxMkIzYkhfNG5kdUVrTnFlZDNqRGpKdVAtT0ZuYmowb2EyMkFfdFhkaldiTXlscXltN2VvTjVmdWpLSE54czRpczd3YjlyVmYyUWxkVjNnQzE2ZTM5YWFkWDhEam0tSTRtWk5TZS1sWDduajNtMEhyanZJdG5WYjhyMl96LVJJcFNTLXotSDJnN255NXFRc0J4YWdHSXBmRmFaSGRCOThrSkl1dTlMeEthQlVVNTA2aDJDeldTdE1hWVlkWTh3RnNBc0JMOHh6dTFMQmt6b2gxWlVOdHc?oc=5"
  },
  {
   "id": "1fdd6dc726",

@@ -1,12 +1,12 @@
 {
- "run": "00:46",
+ "run": "01:39",
  "datum": "2026-09-03",
- "nieuw": 45,
- "totaal": 2278,
+ "nieuw": 36,
+ "totaal": 2296,
  "verwijderd": 18,
  "geweigerd": {
-  "geen dossier": 465,
-  "niet-nederlands": 1033
+  "geen dossier": 462,
+  "niet-nederlands": 1043
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 63,
-   "status": "bij",
+   "items": 65,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 111,
-   "status": "3 nieuw",
+   "items": 112,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 126,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -104,7 +104,7 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 51,
+   "items": 52,
    "status": "1 nieuw",
    "ok": true
   },
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -123,7 +123,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 15,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -141,7 +141,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 22,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -158,7 +158,7 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 19,
+   "items": 20,
    "status": "1 nieuw",
    "ok": true
   },
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 103,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 93,
-   "status": "4 nieuw",
+   "items": 105,
+   "status": "12 nieuw",
    "ok": true
   },
   {
@@ -249,7 +249,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 62,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 49,
-   "status": "6 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 118,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -356,8 +356,8 @@
    "url": "news.google.com/rss/search?q=%22jonge%20aanwas%22%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 25,
-   "status": "bij",
+   "items": 27,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 23,
-   "status": "6 nieuw",
+   "items": 22,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 66,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -573,7 +573,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 28,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   }
  ]
