@@ -1,5 +1,28 @@
 [
  {
+  "id": "60c8ad11b6",
+  "datum": "2026-09-04",
+  "tijd": "07:33",
+  "nieuw": true,
+  "titel": "Almere - Hotel in Almere schrikt van verhoging toeristenbelasting en schrijft brandbrief aan politiek",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "camping",
+   "ondernemers",
+   "organisatie"
+  ],
+  "samenvatting": "Hotel Van der Valk in Almere luidt de noodklok over de voorgenomen verhoging van de toeristenbelasting. De gemeente Almere wil de belasting verhogen van 7 naar 10 procent. Het hotel schrijft in een brandbrief \"erg geschrokken\" te zijn en er \"vrij weinig van te snappen.\" Volgens de hotelketen is een stijging van ruim 40",
+  "link": "https://www.omroepflevoland.nl/nieuws/522497/hotel-in-almere-schrikt-van-verhoging-toeristenbelasting-en-schrijft-brandbrief-aan-politiek"
+ },
+ {
   "id": "36ba5eb111",
   "datum": "2026-09-04",
   "tijd": "06:59",
@@ -40,6 +63,25 @@
   ],
   "samenvatting": "Leden van de Provinciale Staten kunnen vanaf vrijdag zien hoeveel miljoenen er extra nodig zijn voor de buitendijkse haven die bij Urk in het IJsselmeer gebouwd moet gaan worden. Dan liggen er namelijk geheime documenten ter inzage. Volgende maand moeten de Statenleden kiezen of ze akkoord zijn met opnieuw een forse ve",
   "link": "https://www.omroepflevoland.nl/nieuws/522518/geheime-documenten-over-geld-voor-buitendijkse-haven-in-te-zien-voor-statenleden-opnieuw-moet-krediet-omhoog"
+ },
+ {
+  "id": "b730f89de1",
+  "datum": "2026-09-04",
+  "tijd": "05:40",
+  "nieuw": true,
+  "titel": "Mag de scootmobiel van Ans nu wel of niet naast de deur blijven? De rechter beslist",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De scootmobiel van Ans is inzet van een heuse rechtszaak. De 77-jarige Ans parkeert de mobiel al bijna dertig jaar naast de voordeur van haar appartement in Westervoort. Maar woningstichting Vivare heeft dat verboden. De zaak is inmiddels zo hoog opgelopen dat de rechter zich er nu over buigt.",
+  "link": "https://www.gld.nl/nieuws/8517388/mag-de-scootmobiel-van-ans-nu-wel-of-niet-naast-de-deur-blijven-de-rechter-beslist"
  },
  {
   "id": "90321e26ac",
@@ -256,6 +298,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6025901/lange-achtervolging-op-de-a2-politiehelikopter-en-speciaal-team-ingezet"
  },
  {
+  "id": "29a947da5d",
+  "datum": "2026-09-03",
+  "tijd": "19:37",
+  "nieuw": true,
+  "titel": "Speciaal politieteam en helikopter ingezet bij lange achtervolging op de A2",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Een auto is donderdagavond door meerdere politieauto's en een politiehelikopter achtervolgd op de A2. De achtervolging ging door een groot deel van het oosten van Brabant. Ook wagens van de Dienst Speciale Interventie (DSI) werden ingezet. Dat is een speciaal politieteam voor arrestaties van bijvoorbeeld vuurwapengevaa",
+  "link": "https://www.omroepbrabant.nl/nieuws/6025901/speciaal-politieteam-en-helikopter-ingezet-bij-lange-achtervolging-op-de-a2"
+ },
+ {
   "id": "014dd53185",
   "datum": "2026-09-03",
   "tijd": "19:35",
@@ -378,7 +439,7 @@
   "id": "17d50fb083",
   "datum": "2026-09-03",
   "tijd": "17:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Feestje in Batavia Stad vanwege jubileum: 25 jaar outletwinkels aan de kust",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -401,7 +462,7 @@
   "id": "32113c2049",
   "datum": "2026-09-03",
   "tijd": "17:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestuurder zwaargewond bij ernstige botsing in Fijnaart",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -420,7 +481,7 @@
   "id": "190d820ee0",
   "datum": "2026-09-03",
   "tijd": "17:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie Nederlanders opgepakt in Belgisch-Limburg na vondst van drugslab",
   "bron": "De Limburger",
   "verzameld_via": "Regio — zuid & oost",
@@ -439,7 +500,7 @@
   "id": "25dfb98d39",
   "datum": "2026-09-03",
   "tijd": "17:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inbraak Proeflokaal en datalek bij sociale dienst: dit mag je niet missen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1220,25 +1281,6 @@
   "link": "https://www.rijnmond.nl/nieuws/2248497/diefstal-uit-voertuigen-neemt-sterk-toe-in-rotterdam-ridderkerk-schiedam-en-barendrecht"
  },
  {
-  "id": "32cafbb6d2",
-  "datum": "2026-09-03",
-  "tijd": "10:54",
-  "nieuw": false,
-  "titel": "Flevoland - Onderzoekers slaan alarm over chemische vervuiling van Flevolands zwemwater",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "erf"
-  ],
-  "samenvatting": "Flevolandse zwemwateren zijn verontreinigd met chemische stoffen, maar zwemmers worden daar niet voor gewaarschuwd. Dat melden Natuur & Milieu en het Nederlands Instituut voor Ecologie (NIOO). Zij onderzochten de chemische vervuiling van zwemwater in Nederland. De vervuiling komt volgens de onderzoekers in het hele lan",
-  "link": "https://www.omroepflevoland.nl/nieuws/522407/onderzoekers-slaan-alarm-over-chemische-vervuiling-van-flevolands-zwemwater"
- },
- {
   "id": "f7c0e8e9c3",
   "datum": "2026-09-03",
   "tijd": "10:30",
@@ -1931,27 +1973,6 @@
   ],
   "samenvatting": "Amsterdam halveert sluitingstermijn: winkels en restaurants na explosie drie maanden korter dicht Het Parool",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVnRISHJ0Wkc4dVk1Q3NLZV9Ba0pGejY0c1d0ZnBvT0w5cFhzd1FSeWcxai15cnpDY2w0cXlpLU1YY2dsQ1VfX0p6RFdFb2FMazJCRnh2eGxyUVNqQWpWdW9kMlg3dmpvN0J2ZTFSTDRXQjdYX1NWelZqQXBLYUkyXzJSalZfUk5CR1MxbUROQ3UzR1NjeG14LWZZeXZ1WWNhSFJoYUpuWUpUeU1GSDRNYlBCQ3BiMy13d1c5UGNpZVpBaWNxYVlnRXJEdURUT3RJbmg4OA?oc=5"
- },
- {
-  "id": "c99a7ec263",
-  "datum": "2026-09-02",
-  "tijd": "16:00",
-  "nieuw": false,
-  "titel": "Daniëlle vreest dat waakhond Rebel is gestolen: 'Ze is veel te lief'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "grond",
-   "stal"
-  ],
-  "samenvatting": "Daniëlle uit Best zit met de handen in het haar. Haar hond Rebel verdween op 30 augustus en volgens haar is ze gestolen. Sindsdien ontbreekt ieder spoor van haar. De politie onderzoekt de zaak. Rebel was een jaar oud toen Daniëlle zijn baasje werd. Zij werd opgeleid tot politiehond, maar bleek uiteindelijk niet geschik",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025666/danielle-vreest-dat-waakhond-rebel-is-gestolen-ze-is-veel-te-lief"
  },
  {
   "id": "1db1665cb2",
