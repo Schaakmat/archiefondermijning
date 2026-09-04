@@ -1,5 +1,27 @@
 [
  {
+  "id": "b4e6698899",
+  "datum": "2026-09-04",
+  "tijd": "15:20",
+  "nieuw": true,
+  "titel": "5000 lachgasflessen inbeslaggenomen bij loods in Poortugaal",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "container",
+   "loods"
+  ],
+  "samenvatting": "De politie heeft donderdagavond bijna 5000 flessen lachgas gevonden in een loods in Poortugaal. In drie zeecontainers stonden 28 pallets met in totaal ruim 4700 flessen. De politie kwam de loods op het spoor na een vermoedelijke drugsdeal eerder die avond in Ridderkerk.",
+  "link": "https://www.rijnmond.nl/nieuws/2249010/5000-lachgasflessen-inbeslaggenomen-bij-loods-in-poortugaal"
+ },
+ {
   "id": "5ab60eff61",
   "datum": "2026-09-04",
   "tijd": "14:29",
@@ -53,15 +75,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Hennep & wietteelt",
-   "Vastgoed & huisvesting"
+   "Hennep & wietteelt"
   ],
   "tags": [
-   "burgemeester",
    "hennep",
-   "hennepkwekerij",
-   "woning"
+   "hennepkwekerij"
   ],
   "samenvatting": "Een huis aan de Vinkelaan in Helmond is donderdag voor drie maanden gesloten omdat er een hennepkwekerij op zolder is gevonden. De drie bewoners moesten het huis uit. Zij verblijven tijdelijk op een andere plek. De actieve hennepkwekerij werd vorige maand door de politie ontdekt. Ook werd er illegaal elektriciteit afge",
   "link": "https://www.omroepbrabant.nl/nieuws/6026046/huis-in-helmond-voor-drie-maanden-gesloten-vanwege-hennepkwekerij-op-zolder"
@@ -96,13 +114,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages",
-   "Cocaine, haven & logistiek",
-   "Trustkantoren & rechtspersonen"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "bestuurder",
-   "kentekens",
    "vrachtwagen"
   ],
   "samenvatting": "Ondanks het vrachtwagenverbod rijden er nog steeds elke werkdag gemiddeld tussen de 500 en 550 vrachtwagens en touringcars over de verzwakte Merwedebrug. Van 17 tot en met 21 augustus deelden motoragenten tijdens een handhavingsactie 215 boetes uit. Dat het totale aantal zware voertuigen ondanks de actie niet is afgeno",
@@ -290,7 +304,7 @@
   "id": "19e7954887",
   "datum": "2026-09-04",
   "tijd": "12:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen",
   "bron": "gelderlander.nl",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -309,7 +323,7 @@
   "id": "e0858efe29",
   "datum": "2026-09-04",
   "tijd": "12:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Inbreker op heterdaad betrapt bij brandweerkazerne Almere Buiten, probeerde redgereedschap te stelen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -328,7 +342,7 @@
   "id": "86440eabaf",
   "datum": "2026-09-04",
   "tijd": "12:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Achtervolging in Apeldoorn eindigt bij hennepkwekerij vol ‘gestolen e-bikes’",
   "bron": "de Stentor",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -344,10 +358,29 @@
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTlNEa1BXRDZPY2UwTmxjMGctaUNmbVVGNl92V2JUVXZZUWZJdjRJTkZWbXE5MXRrSXdvUFFJMjJTcVNqSXZkU1c2UVZVSXpYNk9jcFduenZfZDlEaW4wS2xKcUpLbW8yT1lWX3dmOXR1U1VZRXZyVWZHcDJFY3BKOG9GcHM4YUFxenZjakdiWjEyMVd5UjNwSXlmOF9aZjhNdHFVaDZfS3F1aDdNcWFjVF9rUkVYSHQwMFFfc0Y0eUszbDJRaU5IZUpn?oc=5"
  },
  {
+  "id": "9083f9abb3",
+  "datum": "2026-09-04",
+  "tijd": "12:02",
+  "nieuw": false,
+  "titel": "Politie zet achtervolging in op man (43): in zijn woning in Apeldoorn wacht een grote verrassing",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Politie zet achtervolging in op man (43): in zijn woning in Apeldoorn wacht een grote verrassing de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYk5YOG9kQkNaVE1naTJ4ZnhUSU9aUDJISXUxWTNMcldVcTFnX2UzRDFuV0thMDlvMC0xbnpaQ2ZvYXdPSUxLc094LUhtTGVYTmszY09uQ00yRHJrVW9UeERUdU5TRVJKQlVSUFJxWExwUDdCRFQxalNBS3hfeUVRM29OazlpM2xpcGtvMV9BZXVvOThMaG9hNlpNSnNKSHFUckZjalJtRVh0Tl80Vm5Qa1VIbEFxNFF6QTdGd0dTMmkwSmY5cTJDbGtXOTl3QjVhUllIWnF1TW82OEItRU1DLTV5bw?oc=5"
+ },
+ {
   "id": "129650eb75",
   "datum": "2026-09-04",
   "tijd": "11:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "32 verdachten Overasselt als groep verdacht van moord of doodslag op beveiliger",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -367,7 +400,7 @@
   "id": "3e504c5a20",
   "datum": "2026-09-04",
   "tijd": "11:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - Verdachte van brandstichting in flatwoning Emmeloord 90 dagen langer in cel",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -386,7 +419,7 @@
   "id": "42249d14dd",
   "datum": "2026-09-04",
   "tijd": "11:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verstekelingen van afgelopen nacht probeerden vorige maand ook al naar Engeland te komen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -405,7 +438,7 @@
   "id": "4573e1556f",
   "datum": "2026-09-04",
   "tijd": "11:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tweede poging in drie weken: vijf inklimmers weer aangehouden in Vlaardingen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -557,6 +590,25 @@
   ],
   "samenvatting": "Uithaler zet vermeende Servische drugsbaas uit de wind: “Ik heb alles geregeld” Nieuwsblad",
   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMGFYc19XcWE4dVctcThreDJBRnl4Wk1IZ050RHRra2xJT3h4ZldqdU0tVlo4di0yTlBMRmFBaFJtY0JUeXpRaGpwLUVIVnpibEVsYk9kSm1sMGNvaEZTU0xJSFJmdGdVZk5PUExYMGlQRDNkOUlUMlBIc19DZFFTT0NLdWtPeWpDUGtQM1Zuem5fSDg3OGdRb1FDVTVqOThJcHR2N0lWdEZmc0l1WDVFNjhzQUstUkJjUVlORHA4RklSclhoLW1uY2JMbUtSeHVSSXR4YkJnZ3o4U3gzWXBhZ3NIOGNuWnlwU2dPbW56V3A?oc=5"
+ },
+ {
+  "id": "179d11f283",
+  "datum": "2026-09-04",
+  "tijd": "09:35",
+  "nieuw": false,
+  "titel": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel, broer Tristan voor medeplichtigheid",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel, broer Tristan voor medeplichtigheid de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU21YRmdMQ3lkMmdReEMxS2xxcEVBTmJscTZKQy1Ibm01Y3NYeFJNVV9EZ1hDWlZsVWVROW1FakpQZ1RfSEdNLUxyRThielhuMVJkMF8wbVV1cDZiUWhhTVlLckF2N1dWU3RUaUd3V3ZqaDgyeE5ZU2c3OEE4RXFhYktoandDbFhoZkNrM0hTNElETFk4OUgwNzdSWjlOOC1CUzJfSzZ1QnpsT2ZiS2pjWXZNVHA4WEx3R1ZxOGk2UHhjTVBIdXlNU1dzV1BfMmhz?oc=5"
  },
  {
   "id": "76ab23bea9",
@@ -833,29 +885,6 @@
   ],
   "samenvatting": "Goedemorgen! In de Nederlandse havens wordt gestaakt, en in de Italiaanse stad Bari is het feest omdat de regering van Meloni de langstzittende is in Italië sinds 1946. Eerst het weer: vandaag waait het stevig, met windkracht 5 in het binnenland en windkracht 7 aan de kust. Er zijn in de kustgebieden ook zware windstot",
   "link": "https://nos.nl/l/2629596"
- },
- {
-  "id": "b9abf2d8fc",
-  "datum": "2026-09-04",
-  "tijd": "05:55",
-  "nieuw": false,
-  "titel": "Urk - Geheime documenten over geld voor buitendijkse haven in te zien voor Statenleden, opnieuw moet krediet omhoog",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Corruptie & integriteit",
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "haven",
-   "integriteit",
-   "ondernemers"
-  ],
-  "samenvatting": "Leden van de Provinciale Staten kunnen vanaf vrijdag zien hoeveel miljoenen er extra nodig zijn voor de buitendijkse haven die bij Urk in het IJsselmeer gebouwd moet gaan worden. Dan liggen er namelijk geheime documenten ter inzage. Volgende maand moeten de Statenleden kiezen of ze akkoord zijn met opnieuw een forse ve",
-  "link": "https://www.omroepflevoland.nl/nieuws/522518/geheime-documenten-over-geld-voor-buitendijkse-haven-in-te-zien-voor-statenleden-opnieuw-moet-krediet-omhoog"
  },
  {
   "id": "b730f89de1",
@@ -1498,28 +1527,6 @@
   ],
   "samenvatting": "De politie is op zoek naar een man die in Hellevoetsluis een dure tas heeft gestolen in een zonnestudio. De verdachte intimideert daarbij een medewerkster. Tijdens de diefstal probeert hij zijn gezicht bedekt te houden, maar dat gaat niet helemaal goed.",
   "link": "https://www.rijnmond.nl/nieuws/2248665/dief-steelt-dure-designertas-maar-vergeet-tijdens-zijn-vlucht-zijn-gezicht-bedekt-te-houden"
- },
- {
-  "id": "6386c01310",
-  "datum": "2026-09-03",
-  "tijd": "16:01",
-  "nieuw": false,
-  "titel": "Vrienden waarschuwden doodgeschoten beveiliger Berry: 'Moet je dat wel doen?'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "beveiliging",
-   "doodgeschoten",
-   "goud"
-  ],
-  "samenvatting": "Vrienden van beveiliger Berry Leenders (51), die deze week werd doodgeschoten in Overasselt, waarschuwden hem dat het werk dat hij deed bij het huis van Jan G. gevaarlijk was. Vriendin Elma zegt tegen Nieuwsuur dat Leenders vorig jaar ook al bij het huis werkte als beveiliger. \"We zeiden tegen hem: moet je dit wel doen",
-  "link": "https://nos.nl/l/2629522"
  },
  {
   "id": "f43f70534b",
@@ -23914,6 +23921,28 @@
   ],
   "samenvatting": "Verdachte (53) uit Sittard opgepakt voor oplichting, valsheid in geschrifte en witwassen De Limburger",
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUnd2SE5GTXpjZi1oNXUzLTlLZFZ3MTZrTVFELVRYTjM3dG5rSGk3VGZMTXp5djdjWEMzU1l0dlMzX2xFME5QSkV2YlNyVDJpU3VwRzBlTTVVNllzVjlpaUNTU0tKU281SEdqYkltUmw5TlduZXhLVENzWWVPNy1HRGhyQkE1TjlYUWJvRU5leHRMVklqakRXeDVfMU1yYkFyaFlvLXhJSDJ6bXpxYWVfT1N0YjNIMFV2OWFMZWliUXNHN3FKRE9jdU9HUlN4QWMwU3Rhem5KdXZPS0VlbzU4?oc=5"
+ },
+ {
+  "id": "1f9c0d9588",
+  "datum": "2026-03-31",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Westerkwartier opent Meldpunt Zorgfraude Wmo en Jeugd",
+  "bron": "De Ommelander",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "jeugd",
+   "wmo",
+   "zorgfraude"
+  ],
+  "samenvatting": "Westerkwartier opent Meldpunt Zorgfraude Wmo en Jeugd De Ommelander",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGpzLUd3aEx4cjMwT1pPcS1MNlZOb01QWkttTXVKRHJ4eGFKMDBMcThpdDBteXNTVzZNSjE5Mmtld29KRUV2Qm5sOFZramlwUXQ4TGJ2OWVBWXdXcEFrSzNHY0gtdXh0RFBweFJnWDdVbmlmSGJibUo0aVVrX3JkNVdVS0M1WlRUSG9sWGw4RG9OdERMdnlLOFNQS1N6aEpNdV9wT1lWcw?oc=5"
  },
  {
   "id": "d609f0dd18",
