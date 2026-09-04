@@ -537,7 +537,7 @@
   "id": "c8a5dfd026",
   "datum": "2026-09-03",
   "tijd": "16:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dief steelt dure designertas, maar vergeet tijdens zijn vlucht zijn gezicht bedekt te houden",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -10381,6 +10381,27 @@
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZWlZVWhvMWRic04xUFo4SUpwZThZakZMLW0wa3ZscnFkdzF6cm9OWVZrOW1sMzVvc2YyeHJpdjBJMkVtbUltZzJialdsM2pyQkVvM1hIaWhTVl9scy0tWmpDd2FoLXhnQTNaRkFvejlaXzJKLXVZbVdqOEJEeTlJamItZXZOSWNLSjZFOEFKS0Q5bFNtVG9Vcm5RNmxaTnlpRVRvRkticjA3OVRyay1SRHJtZGhkV3VrQV9DeDV5UWs5TVY3Z0h5WXA0bl8?oc=5"
  },
  {
+  "id": "e076dedf43",
+  "datum": "2026-08-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Explosie IJsselmuiden: alles wijst op drugslab, tweede ‘kale man met brandwonden’ opgepakt",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie"
+  ],
+  "samenvatting": "Explosie IJsselmuiden: alles wijst op drugslab, tweede ‘kale man met brandwonden’ opgepakt AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2RRakxuWWJzMzRGRHZDMmprSWFWY3VpX3h5ZjluOWlPekhyTWJPRzZxbU1OR2lVM1hIOGhQU2lvTWJaRjFfbzd1T1ZjUV9zbEkxaVFYNmh4VWo0dFljWVJSTlJZNEhseF9MN1Q3VmFlUVZKd2k5cllISzR0eV82N2NKS0o4Y01CRmZMN0RKQkZIenJSZ2xHOC1Vdm1vbHAyMlBZQUxHS21jMDJOc1diQXJvVWh2d0RVR281UHVB?oc=5"
+ },
+ {
   "id": "aaa9f8afb1",
   "datum": "2026-08-18",
   "tijd": "05:03",
@@ -17130,6 +17151,30 @@
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQkhMb3p0MFFwc2FjRFdVX3Y4OGJpRDJJOUFXZGJlX1NfYkFDSHFydl9EWUt1MGh6eTNoU005cU9VbVBnb3JJQTdaSmd1d3g0VWhUQTJ3MkZuSVhjLXlUOG9JQm9HZlZfZDVtNnVJWUFmWC12S1k3TE1VLVNQR3pxMld6Q2k2OXZGRW9SeU9KdDBoR19VaHU1T3FiQ3A5Zw?oc=5"
  },
  {
+  "id": "4d98ba1893",
+  "datum": "2026-06-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zeecontainers zitten vol met spullen voor groot drugslab en hennepkwekerij",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Drugsproductie & labs",
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "container",
+   "drugslab",
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Zeecontainers zitten vol met spullen voor groot drugslab en hennepkwekerij Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWjRLdk5Tb1dDTHFoWWR2bFE1YWlhQ0JGRV9NLWh6UW4tU1hfdWR6bXlBclM3Tng4VndCekI2Z0xjQ0NaWWJuUXYyYS1pNThMc25PaDNTWGliUnlQSlRIT0NFd2pjRm9OMWJtNXNWU1dQREo1NFRZbWZIYkRrUDVUaG04cmNZRnRWR3JlSWxsNW1jLU01ZE9WdVhtOTkxQUpxZ1RkaFI3bTk2ZVdwZ3h4QzMtVE9IUjg3OXc?oc=5"
+ },
+ {
   "id": "29713c9204",
   "datum": "2026-06-08",
   "tijd": "07:00",
@@ -19184,6 +19229,25 @@
   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWkpCZ3JuTlo3ampGdVQzX2tOSG83Slc2N1ZQUVd6VzRDMGtzT0VOelJJSElUWDlBUEp4a25mT1o0Y2IxTjE4TlpxMDJ5N3VGT3FJSUxLaS1FX3Q4VDBZRWk4Z2VjWUdFUjRVT1RjTUxubmRFanpjWTMzaWczNWRZanVNbk5uaEpfakNvYWNyT2hfaFdBTnd6LUJMcnhoRTBleC1wcVpwbUpibmVKVTlaNUxwc3RNMUJXSGU0bU16Y2RMc3FXSVNlTGxSTGNYa3E5Nng3R1k3bl8xdmE2?oc=5"
  },
  {
+  "id": "92c1614358",
+  "datum": "2026-05-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Verplaatst de drugssmokkel zich ook naar Harlingen? ‘Die verkenners komen hier niet voor de veerboot naar Vlieland’",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "drugssmokkel"
+  ],
+  "samenvatting": "Verplaatst de drugssmokkel zich ook naar Harlingen? ‘Die verkenners komen hier niet voor de veerboot naar Vlieland’ de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNc3prRTBEMzNGUzZKZnp1ZGU5WlNjaUhpZGwySVVJdUZJQl9lVjZZUjRjUWxCN09RZ3Ayc3Q2S25PN1dVcEtKWWhRTGkxak5OX0Zxa3NEdTFoOWtGTkFKMGg0ek1sdVMwdTVGQ1VjcHE4ZllIMkNoN29sNUdPZjlFTVlscUJhYVJRanNjbzFzVEx0bmNySW9STS1oc3BHYnNRSUdTWDJvM3FZSTkwaG1WM1dhSVd1TUJTNmhhRkU5NlY1SzA0VF9zZHdlVTNkeXBVZ3F1d2ltenQyWFBSWkR4dFVtUmJHcnVRNmN1QjhDOEk?oc=5"
+ },
+ {
   "id": "c14b830f45",
   "datum": "2026-05-13",
   "tijd": "10:04",
@@ -19829,6 +19893,27 @@
   ],
   "samenvatting": "Forum voor Democratie stelt vragen over afvaldumping Muntplein, Batau Noord en Fokkesteeg De Molenkruier",
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUDF2alhGWGdaTFo0cERaYk52ZzRiTTJkVWRYc3ZfbVpHUGVDTTNRNkpkOEQxTzJxY1M5QzlZNGR6NWI2Z3dvVTlVbXBsc3VkaXlhZWw3aWdORjhLbFhUYUVyeHU2VUhYY0FaMWR1U0xnSWtPbjI1SFBfZ0FMZnVHYmR6cE1LdzBFNEp1SjNiaDkwZ3h2MnpvcWZzbVZlVHdITU96R0lNaUc5bFNadURZSnZwNjJVUUpqZVdFSS1JazdOUW1tRmlabkRwdGJPX09qd0E?oc=5"
+ },
+ {
+  "id": "ec5aa68a81",
+  "datum": "2026-05-07",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Café Mondiaal: Bedreiging en ondermijning van het bestuur",
+  "bron": "Heerlen Mijn Stad",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bedreiging",
+   "ondermijning"
+  ],
+  "samenvatting": "Café Mondiaal: Bedreiging en ondermijning van het bestuur Heerlen Mijn Stad",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ243RDNQbWhXa2NRSjZhb1NEOU1ici1RT2J1WWY4UXVYQkRTMHlVWnk4Qm1IejhnY0EwQ1V4Mk9xZk1YdnVZQUU4eDBSNzFkNG05eVJyaVV0NkNmTDcyU3V6TWlnMWd1WEFDVlJNaV9FWk5HUWdhRzhGemJmbjN5d3hJUmtOX1BLcmJ6Q1ZMOE5Tb1ZQREw0N1dESnY3V19OdGFLTmRGY0Y0Zlg4VHc?oc=5"
  },
  {
   "id": "3e1963b339",
@@ -32535,6 +32620,27 @@
   ],
   "samenvatting": "180.000 euro en crypto aangetroffen na inval in Lombok, eigenaar verdacht van witwassen De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRUZMRlJtWGJmdmVyQnVXNHpGem43aFRrZVNPZWMzMHZ4YTFxS0ZqUkM1MEFBeVhkNEF6N1hBSTY0aldCQlo0al9RLXBCOE11djRnWk5kRW0tQURzTGhTM052OExsTDhycG9OSTJYYVh0c3lDaV91OUJUSDZjZFhMOUQ5WE9aMFdyMWpYbC16X01wTkpwNmNkSG1Rdy1obThPNU1JZ0dUMy0tVEN4SS1uaXhHYnVMMzNKTFMzRUZHcUE2UW1JWm1haEhUUjVDQzNmd3dJTFQ2UG5HSHdhd2VLU0RkZ3o?oc=5"
+ },
+ {
+  "id": "1e02de4756",
+  "datum": "2025-07-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Miljoen aan cash, merktassen en sieraden: CAK-medewerkers betrokken bij zorgfraude",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Goudhandel & edelmetalen",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "sieraden",
+   "zorgfraude"
+  ],
+  "samenvatting": "Miljoen aan cash, merktassen en sieraden: CAK-medewerkers betrokken bij zorgfraude NOS",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjZmWnU4MjVkcS1yN0lDbzROUS1sc05Tb0l0aHZEY1Jfem1XWEkzUzlHVW5mMHdUN3RXQjMxWXhBZjBlZXBvcEFGTHpPdFNKYUpZUHdyTlBvSzhCV0J3Y2owamZRNS1KM2Y2MWpES0ppWTlnalg2QlduWVdDcVlzdTZPZXc5X0M1Nl80Rm9RajJtNUl1YXZGWnp6d3M3VkYxbUU4RGxZMjcybVFDVXdfZA?oc=5"
  },
  {
   "id": "c257627a6c",
