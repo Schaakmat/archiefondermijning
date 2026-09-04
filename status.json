@@ -1,12 +1,12 @@
 {
- "run": "15:34",
+ "run": "16:33",
  "datum": "2026-09-04",
- "nieuw": 15,
- "totaal": 2668,
- "verwijderd": 13,
+ "nieuw": 20,
+ "totaal": 2677,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 998,
-  "geen dossier": 483
+  "niet-nederlands": 916,
+  "geen dossier": 468
  },
  "bronnen": [
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 139,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 115,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -230,7 +230,7 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 151,
+   "items": 152,
    "status": "1 nieuw",
    "ok": true
   },
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 134,
-   "status": "bij",
+   "items": 135,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -438,8 +438,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 8,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "WODC",
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 29,
-   "status": "3 nieuw",
+   "items": 30,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 55,
-   "status": "3 nieuw",
+   "items": 56,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -500,7 +500,7 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 51,
+   "items": 52,
    "status": "1 nieuw",
    "ok": true
   },
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 87,
-   "status": "bij",
+   "items": 90,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 30,
-   "status": "5 nieuw",
+   "items": 31,
+   "status": "6 nieuw",
    "ok": true
   },
   {
