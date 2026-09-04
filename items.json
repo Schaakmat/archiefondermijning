@@ -1,5 +1,26 @@
 [
  {
+  "id": "ef20997295",
+  "datum": "2026-09-04",
+  "tijd": "12:51",
+  "nieuw": true,
+  "titel": "Lelystad - 'Problemen met Houtribbruggen al jaren bekend bij Rijkswaterstaat'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "stal",
+   "vrachtwagen"
+  ],
+  "samenvatting": "De problemen met de drie bruggen in de Houtribsluizen in Lelystad zijn al sinds 2019 bekend. Dat schrijft de regionale omroep van Noord-Holland, NH . De omroep baseert zich op rapporten die via een Woo-verzoek zijn verkregen. In 2019 was de conclusie al dat de bruggen vervangen moesten worden. Zware vrachtwagens mogen ",
+  "link": "https://www.omroepflevoland.nl/nieuws/522571/'problemen-met-houtribbruggen-al-jaren-bekend-bij-rijkswaterstaat'"
+ },
+ {
   "id": "e0858efe29",
   "datum": "2026-09-04",
   "tijd": "12:04",
@@ -29,14 +50,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "doodgeschoten",
    "geweld",
-   "moord",
-   "wapen"
+   "moord"
   ],
   "samenvatting": "32 verdachten die deze week werden aangehouden na het geweld in Overasselt worden als groep verdacht van moord of doodslag. Dat meldt het Openbaar Ministerie Oost-Nederland vanochtend. De groep bestaat uit 16 Fransen, 11 Nederlanders, 2 Algerijnen, 1 Libiër, 1 Oekraïner en 1 Belg. Twee Franse verdachten zijn minderjari",
   "link": "https://nos.nl/l/2629631"
@@ -61,6 +79,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522555/verdachte-van-brandstichting-in-flatwoning-emmeloord-90-dagen-langer-in-cel"
  },
  {
+  "id": "42249d14dd",
+  "datum": "2026-09-04",
+  "tijd": "11:21",
+  "nieuw": true,
+  "titel": "Verstekelingen van afgelopen nacht probeerden vorige maand ook al naar Engeland te komen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Vijf van de aangetroffen verstekelingen die vannacht werden aangehouden, zaten in augustus ook al in een laadruimte van een vrachtwagen. Dat meldt de politie. Samen met tien anderen werden de vijf personen donderdagavond aangehouden op de terminal van DFDS aan de Vulcaanweg in Vlaardingen.",
+  "link": "https://www.rijnmond.nl/nieuws/2248918/verstekelingen-van-afgelopen-nacht-probeerden-vorige-maand-ook-al-naar-engeland-te-komen"
+ },
+ {
   "id": "75c41bf92e",
   "datum": "2026-09-04",
   "tijd": "11:20",
@@ -78,6 +115,86 @@
   ],
   "samenvatting": "In een woning aan de Léharstraat in het Gelderse Eerbeek is vrijdagochtend een 12-jarige jongen dood gevonden. Dat meldt de politie. In dezelfde woning is een meerderjarige verdachte aangehouden. Vermoedelijk gaat het om een misdrijf, aldus de politie. De straat is afgesloten. Rond 07.15 uur werden de hulpdiensten geal",
   "link": "https://nos.nl/l/2629627"
+ },
+ {
+  "id": "04d8e50772",
+  "datum": "2026-09-04",
+  "tijd": "11:19",
+  "nieuw": true,
+  "titel": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel in minderjarigen en witwaspraktijken",
+  "bron": "VRT",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "mensenhandel",
+   "witwaspraktijken"
+  ],
+  "samenvatting": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel in minderjarigen en witwaspraktijken VRT",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEFMWjJZNFVLVEgyT1lyUGVnMVczOGc2X1Vnd2RIUlhXckxQdXptTk5KNVBoNEdCU05zbjdKeFRVZUU5QnRkaXlWdVRhdGR3UWpoUlE3dUlsRmNyNndiUEwwZFFVTUgxeDc3SF9DdlFodXBfdlJrTnRVeEMzZ2lKTkxR?oc=5"
+ },
+ {
+  "id": "b68b314483",
+  "datum": "2026-09-04",
+  "tijd": "11:12",
+  "nieuw": true,
+  "titel": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel in minderjarigen en witwaspraktijken",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "mensenhandel",
+   "witwaspraktijken"
+  ],
+  "samenvatting": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel in minderjarigen en witwaspraktijken Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZXZ1WUJVSHUzeHFmdXNoanF2a3VZbjlMNzNiRTZhMHZNbkw3cmcwZG1JUHFxU1hJOWdsQlNtQUc1RzZCMFE4TDdnOWJxQkpQZVdELU1TYVNzZDlWcFRiV3B5R3MwTkFseGFIcVN1Wl9GU1lZUWZYbnp4NzhRY2tIQjdfSXExMFRkWmpaQWFnSV9Ja1ZPYXlJYXF2Ymc0dEp6ajRxck0yTjFyUEZNVEJWaWdnV0lXRkhCdnduRnBNdFpfQlJpSGJHbUprQjZtYm1xa21xOVFUQjg2QQ?oc=5"
+ },
+ {
+  "id": "d40cb12f46",
+  "datum": "2026-09-04",
+  "tijd": "11:04",
+  "nieuw": true,
+  "titel": "Onderwereldexpert Oliver Bullough: ‘Ook de schietpartij in Overasselt is veroorzaakt door witwassen’",
+  "bron": "Het Financieele Dagblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Onderwereldexpert Oliver Bullough: ‘Ook de schietpartij in Overasselt is veroorzaakt door witwassen’ Het Financieele Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc1dyaTBremJQTlRub3NLUi04aHk4ZUM5TE9aWnVYTE5pc2FZeF9pbUhEM0NYNXQyVWFuSVFsWWI4WjJKcG9ZSXBTWnN5ckJYQjh0Y1g1RmQzQzBYemxJNjE1Vzl4N211MzQyRFdlaUp4SXo5TksyRHVLUHNsaF9ob3d0Q0FkNk9USW52T2xDZVQ1TFAtZ1lZTDFHNzFBMGt6UFBOOVNnQS1Nd1lmWmJmNnZOVHp4X1R0TkJCbHFPcmJvUzdRQVZr?oc=5"
+ },
+ {
+  "id": "467fed0954",
+  "datum": "2026-09-04",
+  "tijd": "11:02",
+  "nieuw": true,
+  "titel": "Hennepkwekerij met 300 planten ontdekt aan De Boldert in Grou",
+  "bron": "Grousters.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij met 300 planten ontdekt aan De Boldert in Grou Grousters.nl",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVpYVzJVZ2UzU3RhZkE4QjIxcmo5STlkTUxSN2RvYU9JOHJjaXpmS2N2MVZlMmJWMVBRTXBZbEMwbEtKcEJHemFqY29ES3N0bmMwZXpvWWFtMTRiMjdmUmJHRmZUOW5rb0RaR0xZdW93eXVIOVE4a1pyMDNrc3YwbWg5LWFWczVXeXlIOWJscHpjUUs3ZXVuOXl3?oc=5"
  },
  {
   "id": "dd728e78e9",
@@ -182,6 +299,25 @@
   "link": "https://www.omroepzeeland.nl/nieuws/18754894/garagebox-met-zwaar-vuurwerk-gevonden-door-politie-na-tip"
  },
  {
+  "id": "ce595b49c5",
+  "datum": "2026-09-04",
+  "tijd": "08:12",
+  "nieuw": true,
+  "titel": "OM vervolgt 32 verdachten Overasselt voor moord",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "Van de 34 verdachten die deze week in verband met het schietincident in Overasselt zijn aangehouden, worden er vandaag door het Openbaar Ministerie Oost-Nederland 32 voorgeleid voor de rechter-commissaris van de rechtbank Gelderland. Twee personen worden vrijgelaten.",
+  "link": "https://www.gld.nl/nieuws/8518002/om-vervolgt-32-verdachten-overasselt-voor-moord"
+ },
+ {
   "id": "b3185efe1a",
   "datum": "2026-09-04",
   "tijd": "08:03",
@@ -218,6 +354,25 @@
   ],
   "samenvatting": "De sluiting van het huis van Jan G. is wéér een tijdelijke oplossing, stelt hoogleraar Regulering van veiligheid en gezondheid, Michelle Bruijn. Voor een structurele oplossing kijkt zij in de richting van politie en justitie.",
   "link": "https://www.gld.nl/nieuws/8517853/weer-een-tijdelijke-oplossing-zegt-hoogleraar-michelle-bruijn-over-sluiting-woning"
+ },
+ {
+  "id": "e77532d31d",
+  "datum": "2026-09-04",
+  "tijd": "07:52",
+  "nieuw": true,
+  "titel": "Uithaler neemt het op voor vermeende Servische drugsbaas: “Ik heb alles geregeld”",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "uithaler"
+  ],
+  "samenvatting": "Uithaler neemt het op voor vermeende Servische drugsbaas: “Ik heb alles geregeld” Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVlYxZ05JQUp1SUVXVG93WUQ4Y1RnYm1DLXJib3BTVDdoeXBBRGpMekNxT1FtRE9SMGhudmhpUnREVHVCQUh6Z3RoTmt3UkEwVGFLNFktVHlCRlNmWUNlY1AxSmdPZnNmOVNkWmtDTHNza2wyb3YyM0VYTmRMT3plM0VEbmE0UmFzTnJCQkZMRFB5U25WeGFnMTRPbXFaYjJpRXdPVXd4VExLcnh3WTBMcUx0Um5sM0xLeF9xeU90X20tNl8xYzh3aDdudUQ5Ym8wcS1pX3ludmlVWkh1NFB2QnBhVkZVZ25mVTFBb0UwVzBDZ2s?oc=5"
  },
  {
   "id": "4018a4108e",
@@ -322,7 +477,7 @@
   "id": "b9abf2d8fc",
   "datum": "2026-09-04",
   "tijd": "05:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Urk - Geheime documenten over geld voor buitendijkse haven in te zien voor Statenleden, opnieuw moet krediet omhoog",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -345,7 +500,7 @@
   "id": "b730f89de1",
   "datum": "2026-09-04",
   "tijd": "05:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mag de scootmobiel van Ans nu wel of niet naast de deur blijven? De rechter beslist",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -364,7 +519,7 @@
   "id": "263ee19c57",
   "datum": "2026-09-04",
   "tijd": "05:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zijn deze sieraden van jou? Politie zoekt de eigenaar",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -383,7 +538,7 @@
   "id": "90321e26ac",
   "datum": "2026-09-04",
   "tijd": "04:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vader mishandeld in bijzijn van zoons",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -402,7 +557,7 @@
   "id": "cbb3443905",
   "datum": "2026-09-04",
   "tijd": "04:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wat weten we straks over de 34 verdachten in Overasselt?",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -718,31 +873,6 @@
   "link": "https://nos.nl/l/2629558"
  },
  {
-  "id": "2373938e29",
-  "datum": "2026-09-03",
-  "tijd": "19:12",
-  "nieuw": false,
-  "titel": "Almere - Verblijfplaatsen van de wezel mogen vernield worden voor verbetering waterafvoer",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "erf",
-   "grond",
-   "vergunning",
-   "woning"
-  ],
-  "samenvatting": "De gemeente Almere mag bij werkzaamheden aan de Galjoottocht in Almere Poort verblijfplaatsen van de beschermde wezel beschadigen of vernielen. De provincie Flevoland heeft daarvoor een vergunning verleend. De Marterstichting is kritisch op het besluit en vindt dat er onvoldoende maatregelen worden genomen om wezels te",
-  "link": "https://www.omroepflevoland.nl/nieuws/522459/verblijfplaatsen-van-de-wezel-mogen-vernield-worden-voor-verbetering-waterafvoer"
- },
- {
   "id": "061a49c50a",
   "datum": "2026-09-03",
   "tijd": "19:06",
@@ -783,29 +913,6 @@
   ],
   "samenvatting": "Het Openbaar Ministerie eist tbs met dwangverpleging tegen een 20-jarige man die wordt verdacht van het doden van zijn 42-jarige moeder, vorig jaar april in Den Haag. Ridvan B. heeft bekend zijn moeder thuis te hebben omgebracht toen zij dreigde hem het huis uit te zetten als hij niet meer naar school zou gaan. Daarna ",
   "link": "https://nos.nl/l/2629548"
- },
- {
-  "id": "17d50fb083",
-  "datum": "2026-09-03",
-  "tijd": "17:55",
-  "nieuw": false,
-  "titel": "Lelystad - Feestje in Batavia Stad vanwege jubileum: 25 jaar outletwinkels aan de kust",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Horeca, winkels & dienstverlening",
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "burgemeester",
-   "horeca",
-   "ondernemers"
-  ],
-  "samenvatting": "Een echte mijlpaal. Zo omschrijft burgemeester Mieke Baltus van Lelystad het 25-jarig bestaan van Batavia Stad Fashion Outlet. Het winkel- en horecacentrum heeft volgens haar vanaf het eerste moment een ongelofelijke aantrekkingskracht uitgeoefend op bezoekers vanuit het hele land en zelfs de hele wereld. Dat verdient ",
-  "link": "https://www.omroepflevoland.nl/nieuws/522486/feestje-in-batavia-stad-vanwege-jubileum:-25-jaar-outletwinkels-aan-de-kust"
  },
  {
   "id": "32113c2049",
@@ -34723,6 +34830,25 @@
   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UUTM1bGUyeW1yS0pXSUN4QW1tR21rZTcyZVc5WnJ0cDlzYzV6US1HWEJOcmdXSWV4ODdqTldvbHlMMm1XTnc3RFgwSzdlRk1fQWtaRFlVa2Y4LXhKa3hfR2pqQ1JPcVBKQmhVLWRvSVYwQUU?oc=5"
  },
  {
+  "id": "7930ade482",
+  "datum": "2025-04-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zwijndrecht werkt keihard aantegengaan van ondermijning",
+  "bron": "Weekblad De Brug",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Zwijndrecht werkt keihard aantegengaan van ondermijning Weekblad De Brug",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTGU0NVc5bTBRUHVTaU8yTlYwd0FyQzRTYmtoT0JIcGhCYlpaWWxIUk13X1Bud3Y3a3lGdFJjUE02ZTM0Qi1qSFZsbVl2ZVl2U2xFR3plTEFJNml3RHNBeEJmNlNzd2MyX0lYTEY0QklGcm0zdHRqcnpVZTVoZDd4MzJxbnh6b1o1VjNNZzgyOHc1R0pvaHJhNXJ6SUw0X3BINGJpdEg4T0c?oc=5"
+ },
+ {
   "id": "ebce11f718",
   "datum": "2025-04-10",
   "tijd": "07:00",
@@ -48840,6 +48966,25 @@
   ],
   "samenvatting": "Israëlische premier Netanyahu wordt vervolgd voor corruptie NU",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkh4Y29KempsZWI1LXhNbXY4azFraEJ0TGpST2d0T2xiUFpkaWt3Tkl4UjhPVnB6X0tFeTRDVy1UYURuX3FaR0M2Vm9oSjFHQ0lJS21oUGdTTkVucVVtRlgwZmVYWTRyb0pqU3RfWDdiSEJtSkJpdWVoMmtwMDNzRWsxZEJxWTl0TjZFMXlkZTlSaFFvMzFyZHd4a0FSSjVkRjA0?oc=5"
+ },
+ {
+  "id": "d98ed37a47",
+  "datum": "2019-11-21",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Henk van W. hoefde het Odebrecht-geld alleen maar door te sluizen - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Trustkantoren & rechtspersonen",
+  "verzameld_via": "Nieuws — Trustkantoren & rechtspersonen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "Henk van W. hoefde het Odebrecht-geld alleen maar door te sluizen NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbDZGLXpXd3Jaak1LZVQ5anN2cFQzQkc5eEFPWmRjaW00d0twb3pudzJ1cWdzMGt1SjZKVU4zYnVxbFVfWm5iTFNfdjJnSTRPWUc2WHlXcUlTSkhsWFN3Tm1tWTUtOEcteXNNQjBMYTB2MGtfVDdTaVZ2X0pwRmJZM2w5WjJFNHRFLUNrTkNKZEhxbTIyOVNFUHVCTlU4NXRtYUE?oc=5"
  },
  {
   "id": "87698395d2",
