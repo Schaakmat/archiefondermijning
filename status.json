@@ -1,12 +1,12 @@
 {
- "run": "06:37",
+ "run": "07:32",
  "datum": "2026-09-04",
- "nieuw": 21,
- "totaal": 2608,
- "verwijderd": 20,
+ "nieuw": 24,
+ "totaal": 2613,
+ "verwijderd": 19,
  "geweigerd": {
-  "niet-nederlands": 1067,
-  "geen dossier": 476
+  "niet-nederlands": 1012,
+  "geen dossier": 473
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 106,
-   "status": "bij",
+   "items": 107,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 142,
-   "status": "bij",
+   "items": 143,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -266,8 +266,8 @@
    "url": "news.google.com/rss/search?q=liquidatie%20criminele%20milieu%20OR%20moor",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 55,
-   "status": "bij",
+   "items": 56,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 36,
-   "status": "bij",
+   "items": 37,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,7 +491,7 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 53,
+   "items": 54,
    "status": "6 nieuw",
    "ok": true
   },
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 76,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
