@@ -212,7 +212,7 @@
   "id": "d6fb708399",
   "datum": "2026-09-04",
   "tijd": "16:11",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "LIVE | Politie doorzoekt negen huizen • nieuw wapen gevonden",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -233,7 +233,7 @@
   "id": "d34ba07631",
   "datum": "2026-09-04",
   "tijd": "16:02",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Wie deed wat in Overasselt? OM heeft enorme puzzel te leggen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -252,6 +252,30 @@
   ],
   "samenvatting": "Het Openbaar Ministerie (OM) staat voor een zeer grote klus in de zaak-Overasselt. In de nacht van maandag op dinsdag was daar een geweldsexplosie die het dorp dagen in zijn greep hield. Tientallen mannen, van wie meerdere gewapend, liepen over de Ewijkseweg naar de woning van de veroordeelde crimineel Jan G. en schote",
   "link": "https://www.gld.nl/nieuws/8518247/wie-deed-wat-in-overasselt-om-heeft-enorme-puzzel-te-leggen"
+ },
+ {
+  "id": "77bcd54f1a",
+  "datum": "2026-09-04",
+  "tijd": "16:02",
+  "nieuw": false,
+  "titel": "Openbaar Ministerie staat voor gigantische klus na schietpartij Overasselt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "geweld",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Het Openbaar Ministerie (OM) staat voor een zeer grote klus in de zaak-Overasselt. In de nacht van maandag op dinsdag was daar een geweldsexplosie die het dorp dagen in zijn greep hield. Tientallen mannen, van wie meerdere gewapend, liepen over de Ewijkseweg naar de woning van de veroordeelde crimineel Jan G. en schote",
+  "link": "https://www.gld.nl/nieuws/8518247/openbaar-ministerie-staat-voor-gigantische-klus-na-schietpartij-overasselt"
  },
  {
   "id": "bedba440a8",
@@ -921,6 +945,25 @@
   ],
   "samenvatting": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel, broer Tristan voor medeplichtigheid de Stentor",
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU21YRmdMQ3lkMmdReEMxS2xxcEVBTmJscTZKQy1Ibm01Y3NYeFJNVV9EZ1hDWlZsVWVROW1FakpQZ1RfSEdNLUxyRThielhuMVJkMF8wbVV1cDZiUWhhTVlLckF2N1dWU3RUaUd3V3ZqaDgyeE5ZU2c3OEE4RXFhYktoandDbFhoZkNrM0hTNElETFk4OUgwNzdSWjlOOC1CUzJfSzZ1QnpsT2ZiS2pjWXZNVHA4WEx3R1ZxOGk2UHhjTVBIdXlNU1dzV1BfMmhz?oc=5"
+ },
+ {
+  "id": "682c71cf7e",
+  "datum": "2026-09-04",
+  "tijd": "09:35",
+  "nieuw": false,
+  "titel": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel, broer Tristan voor medeplichtigheid",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel, broer Tristan voor medeplichtigheid De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaDNzSXh5d3RweDQzWlZIZ0dZbVQ2Sng3aGpNNW5vTnd5dmg0VkxBX0hWWjFfaGRIZFE0LU5tMWplMjFiM2pMNEpVN3QwTWFHOUJHeWwwNFp3RTdodnhwUFhWWDdsQzd2VnVLajNpNExCbDMybk5DeGRoM0ZxYkt0eWNWQktxUjlQYW1GY0otZ3pQTU5mM0FUaC1FLTlVb1A4YnBWRlFaXzJIMFpHT3dqdkUxREpfODJvUkREc2NXaEtiQXUwZnNzall4bGpFdEQ0S3IxMQ?oc=5"
  },
  {
   "id": "76ab23bea9",
@@ -8484,6 +8527,25 @@
   ],
   "samenvatting": "Verbeter de coördinatie en informatie-uitwisseling in de strijd tegen witwassen en terrorismefinanciering. Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGJtLWdFUm1nSS1yMEJXdVpwX19QcTBackhIRWpPRXBtWi1JbE9JRFdPZWdHRzlOMWk0aGRxYi0xRWxZeC01Wl80YlRLZkpLVTgzS3FEenpfYmJkN0doaDlUN0ZoUkVVWmF4Z2pORFNQRDgwYmFia1gyek9vd1NOZEFSLWFNNURNa2dYSTA5dGx1dVdQdlpPUnJRTEtqX3ktaW40TElnUzNZemxkSzNLbkI0Nk1IS0h3?oc=5"
+ },
+ {
+  "id": "1e535e7547",
+  "datum": "2026-08-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "In deze schuur in Herveld werd een hennepkwekerij aangetroffen",
+  "bron": "ad.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "In deze schuur in Herveld werd een hennepkwekerij aangetroffen ad.nl",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3J6QnU2eFBmMWVqdnBCVUFGMEZEMVhNd09NUDgzLUpTVmNMMS1LS2xuclBILWNJWjdvWS1Ec0NlVmFpOVZha19RTVl2YVoxaWt2R0xDU1dDUmdLS1M0TXc0ei1KLXE3QmJTYWNiU25vRHoyTExLR2lobUVxRVFDU1BEQXctUG10d2hqOG5hLXpReTV6MkFVVDc5RjA5TUtSa3kxRDI4OE9pZw?oc=5"
  },
  {
   "id": "cd24ce0be2",
