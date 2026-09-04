@@ -1,5 +1,47 @@
 [
  {
+  "id": "e0858efe29",
+  "datum": "2026-09-04",
+  "tijd": "12:04",
+  "nieuw": true,
+  "titel": "Almere - Inbreker op heterdaad betrapt bij brandweerkazerne Almere Buiten, probeerde redgereedschap te stelen",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Een inbreker heeft vannacht geprobeerd om redgereedschap te stelen bij de brandweerkazerne in Almere Buiten. De inbreker had waarschijnlijk niet door dat dit een permanent bemande brandweerpost is. Rond 02.30 uur werden brandweerlieden die daar lagen te slapen wakker van de geluiden die de inbreker maakte. Ze stormden ",
+  "link": "https://www.omroepflevoland.nl/nieuws/522566/inbreker-op-heterdaad-betrapt-bij-brandweerkazerne-almere-buiten-probeerde-redgereedschap-te-stelen"
+ },
+ {
+  "id": "129650eb75",
+  "datum": "2026-09-04",
+  "tijd": "11:54",
+  "nieuw": true,
+  "titel": "32 verdachten Overasselt als groep verdacht van moord of doodslag op beveiliger",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "geweld",
+   "moord",
+   "wapen"
+  ],
+  "samenvatting": "32 verdachten die deze week werden aangehouden na het geweld in Overasselt worden als groep verdacht van moord of doodslag. Dat meldt het Openbaar Ministerie Oost-Nederland vanochtend. De groep bestaat uit 16 Fransen, 11 Nederlanders, 2 Algerijnen, 1 Libiër, 1 Oekraïner en 1 Belg. Twee Franse verdachten zijn minderjari",
+  "link": "https://nos.nl/l/2629631"
+ },
+ {
   "id": "3e504c5a20",
   "datum": "2026-09-04",
   "tijd": "11:28",
@@ -157,6 +199,25 @@
   ],
   "samenvatting": "Roosendaal past Diftar aan voor minder afvaldumping Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWI2X1ZFRFd0N3pMa0JaYjNBNjBpbkk5V0NQMzVwSEwxQ01qNDVkNzltcG1YTERnN29RNUZ2SFhkeXlKcVI1LXV6aWhDY0QxT2FXdFBsWWk2RGxSMm8yVUs3VHdwa0JJSDZHXzVDTWVVd1VjUmsxbTBtTVRmb1NKMU42LWlGV1UwNXBfelVTRXVHekRWcVI3ZWNxOA?oc=5"
+ },
+ {
+  "id": "307741d018",
+  "datum": "2026-09-04",
+  "tijd": "08:00",
+  "nieuw": true,
+  "titel": "'Weer een tijdelijke oplossing', zegt hoogleraar Michelle Bruijn over sluiting woning",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De sluiting van het huis van Jan G. is wéér een tijdelijke oplossing, stelt hoogleraar Regulering van veiligheid en gezondheid, Michelle Bruijn. Voor een structurele oplossing kijkt zij in de richting van politie en justitie.",
+  "link": "https://www.gld.nl/nieuws/8517853/weer-een-tijdelijke-oplossing-zegt-hoogleraar-michelle-bruijn-over-sluiting-woning"
  },
  {
   "id": "4018a4108e",
@@ -360,7 +421,7 @@
   "id": "004e0ca151",
   "datum": "2026-09-04",
   "tijd": "04:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Verdachten voorgeleid • meerdere mensen bedreigd",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -376,10 +437,29 @@
   "link": "https://www.gld.nl/nieuws/8517921/live-verdachten-voorgeleid-meerdere-mensen-bedreigd"
  },
  {
+  "id": "d3fae5caa9",
+  "datum": "2026-09-04",
+  "tijd": "04:09",
+  "nieuw": false,
+  "titel": "LIVE | 32 verdachten voorgeleid, twee heengezonden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Het is de vierde dag sinds de schietpartij in Overasselt. De woning van Jan G. is gesloten voor een jaar. Vandaag worden de 34 verdachten voorgeleid aan de rechter-commissaris. In dit liveblog houden we je op de hoogte van het laatste nieuws.",
+  "link": "https://www.gld.nl/nieuws/8517921/live-32-verdachten-voorgeleid-twee-heengezonden"
+ },
+ {
   "id": "49bae495a3",
   "datum": "2026-09-04",
   "tijd": "00:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verstekelingen betrapt bij veerhaven Vlaardingen naar Engeland",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -401,7 +481,7 @@
   "id": "58004e2295",
   "datum": "2026-09-03",
   "tijd": "21:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ontmoetingsplek voor daklozen in Nijmegen sluit na overlast: 'Kan zo niet verder'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -422,7 +502,7 @@
   "id": "c664fe002b",
   "datum": "2026-09-03",
   "tijd": "21:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte van drugslab in Someren-Heide wacht 33 maanden te lang op zaak en krijgt mildere straf",
   "bron": "Eindhovens Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -441,7 +521,7 @@
   "id": "d46abcc4e8",
   "datum": "2026-09-03",
   "tijd": "21:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nederlander wint Ig Nobelprijs voor duizenden begraven onderbroeken",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -460,7 +540,7 @@
   "id": "2b6eb44722",
   "datum": "2026-09-03",
   "tijd": "21:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mannen uit Valkenswaard en Eindhoven opgepakt in groot drugslab in België",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -479,7 +559,7 @@
   "id": "b2e833ffc1",
   "datum": "2026-09-03",
   "tijd": "20:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Melding over gewapende man op straat: politie en Marechaussee komt in actie",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -498,7 +578,7 @@
   "id": "d8a72af266",
   "datum": "2026-09-03",
   "tijd": "20:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Melding over gewapende man op straat in Dongen: politie komt in actie",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -682,29 +762,6 @@
   ],
   "samenvatting": "In België zijn drie Nederlanders gearresteerd na de vondst van een drugslab in een woning in Pelt, niet ver van de grens met Nederland. Het gaat om een 41-jarige man uit Valkenswaard, een man van 45 uit Eindhoven en een 41-jarige man uit Pelt. Dat bevestigt een woordvoerder van de Nederlandse politie. Nederlandse en Be",
   "link": "https://nos.nl/l/2629556"
- },
- {
-  "id": "a9f3999e10",
-  "datum": "2026-09-03",
-  "tijd": "18:45",
-  "nieuw": false,
-  "titel": "Flevoland - Nieuwsoverzicht 03/09 | 25 jaar Batavia Stad • Breuk SP Almere",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Horeca, winkels & dienstverlening"
-  ],
-  "tags": [
-   "burgemeester",
-   "coffeeshop",
-   "gemeenteraad",
-   "horeca"
-  ],
-  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Feestje in Batavia Stad vanwege jubileum: 25 jaar outletwinkels aan de kust • SP-fractie Almere breekt met landelijke partij, gaat verder als Hart voor Alme",
-  "link": "https://www.omroepflevoland.nl/nieuws/522489/nieuwsoverzicht-0309-or-25-jaar-batavia-stad-*-breuk-sp-almere"
  },
  {
   "id": "3c0b710f91",
@@ -1744,25 +1801,6 @@
   ],
   "samenvatting": "Burgemeester Joerie Minses van de gemeente Heumen heeft besloten het pand aan de Ewijkseweg in Overasselt met onmiddellijke ingang voor de duur van één jaar te sluiten. De sluiting wordt op dit moment verricht.",
   "link": "https://www.gld.nl/nieuws/8517564/woning-jan-g-in-overasselt-met-onmiddellijke-ingang-gesloten"
- },
- {
-  "id": "5d6db0f3c9",
-  "datum": "2026-09-03",
-  "tijd": "07:18",
-  "nieuw": false,
-  "titel": "Auto botst op vrachtwagen op A16, vrachtwagenchauffeur rijdt door",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "vrachtwagen"
-  ],
-  "samenvatting": "Een auto is donderdagochtend op een vrachtwagen gebotst op de A16 bij Prinsenbeek. De auto raakte door de klap aan de voorkant beschadigd. De vrachtwagenchauffeur reed na de aanrijding door. Mogelijk heeft de chauffeur de botsing niet gemerkt. De bestuurster van de auto is nagekeken door ambulancepersoneel, zij raakte ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025730/auto-botst-op-vrachtwagen-op-a16-vrachtwagenchauffeur-rijdt-door"
  },
  {
   "id": "da4bd0adb1",
@@ -26676,6 +26714,25 @@
   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTXpiTkZhalBzSGlTM0FQM1FaVF84NjdZMmxLWXNkM2lmRmZlYTdsLUpTNUUtU252anVhdS00YlJvMm81VS13MjZWRnd4VklCZVBid19qaWdvUURaQU1jcG9aYTlmTGlYSC1pWHJKRFR3dDJyQm94eC03NUxkWDhrNXdVMmlmT3k1dnpYUnlmSWVJUEVOYktLd0xuSHV5TlBCX284V1I3eE1nVHY5TVppY1hQek1WY0FYUll5d2VNeEJUbzgtVmVIZ2dLZmo2MjhWUnlIaTdsbS1nY19xbXJkbnVwaUxINlNKQ3o4MUJoeEpKV3hkWVlUUmJWUVB6VjVnb3pMVzl1LUx0NEJTd1NxeUVNa2ljR1ROX0QxZTluRVl3VVc5RkxXRXNsU3c0WGYzNHUxZExmSXRBaG9pckc5QVNJdXRaMXBRLUNv?oc=5"
  },
  {
+  "id": "799f26b0b8",
+  "datum": "2026-02-02",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Criminelen ronselen Zeeuwse jeugd via TikTok en Insta: nieuwe chatlijn biedt nú een uitweg",
+  "bron": "pzc.nl",
+  "verzameld_via": "Nieuws — Jeugd & jonge aanwas",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jeugd"
+  ],
+  "samenvatting": "Criminelen ronselen Zeeuwse jeugd via TikTok en Insta: nieuwe chatlijn biedt nú een uitweg pzc.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejJRRWZSeUN3djBFU1ZyWi1pd1N2QzVVVEttRVZTd0liX0NDdTV2WVpZcWI0aE0wYkh0cVlGWFpheENRSDZHMHNNSl82T0kyN1JTUlotRkpVS3pHcjAyNk0tX3pIR3QtbjVBa1M1ZDgzVmVBRGcyNkdSVzc2YjY4ZVBBalJLRERxOEtJOTNCRjhFcmJNU1dYei0ybE1QSGpKUHBfWGR6Tnp0aFEzYmpSYnFtTThaY1ZxZGsya1ppblM?oc=5"
+ },
+ {
   "id": "d40e23214e",
   "datum": "2026-02-01",
   "tijd": "08:00",
@@ -44035,6 +44092,25 @@
   ],
   "samenvatting": "Grote mestfraude voor de rechter, aanzien agrarische sector op het spel Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcE5rT3R5cGpxNGl3RVAzb3RCUlJJMU0taHpubGVlMFplNmxvTEtNR1BRbEUwNDY4WTFHbDQ0ajdjZUU5c3cxVXFmR01Vb21EdWRUTjdTNEcxMHZJWnBRRjN1bTZDRXRTQlhxTlJZZ2JuWlR3Yl9pVHNtNF92RkxqOEFSOFVtUXpUcG1tcTI4bUNqbTBzZnJiM2pIR3g1Y1pmSWM1X2c1dmp5NTNzendsOXowZjE?oc=5"
+ },
+ {
+  "id": "95cd2c573c",
+  "datum": "2022-11-10",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Peter Gillis heeft last van de Wet Bibob: zo zit dat",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Peter Gillis heeft last van de Wet Bibob: zo zit dat Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0ZWVnNDaU83bHZQSG16M2NCNFZrQ2p1bjJFVVRDbldNcmdkUUQ4QnRyaDFGazkxV0k5TDR6bDFqX2E4QnZKeFpnU1BWWG5ocmVyTzhKZjYwM0FhanMwNmFkR2EyUnVWRnVXZG1LR3hXREJjSFk0cXlqY1piWkJ2NE96YTZsZGxKbmRIQXBTcGdsdXhpaU1zaVdjVQ?oc=5"
  },
  {
   "id": "7ad53124fb",
