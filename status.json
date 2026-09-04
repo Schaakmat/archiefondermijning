@@ -1,12 +1,12 @@
 {
- "run": "00:38",
+ "run": "01:27",
  "datum": "2026-09-04",
- "nieuw": 22,
- "totaal": 2573,
+ "nieuw": 36,
+ "totaal": 2589,
  "verwijderd": 20,
  "geweigerd": {
-  "niet-nederlands": 1008,
-  "geen dossier": 464
+  "niet-nederlands": 1013,
+  "geen dossier": 470
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 89,
-   "status": "bij",
+   "items": 104,
+   "status": "15 nieuw",
    "ok": true
   },
   {
@@ -51,7 +51,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 54,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 34,
-   "status": "bij",
+   "items": 35,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 84,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

@@ -62,6 +62,25 @@
   "link": "https://nos.nl/l/2629573"
  },
  {
+  "id": "2b6eb44722",
+  "datum": "2026-09-03",
+  "tijd": "21:16",
+  "nieuw": true,
+  "titel": "Mannen uit Valkenswaard en Eindhoven opgepakt in groot drugslab in België",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Mannen uit Valkenswaard en Eindhoven opgepakt in groot drugslab in België Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRXNuX3NxdWVOS1d2TThnRDN1TWZRZW9JdGdxTjdvUUpLM3VndDloU1FxT3ljcGJ6bE9HdXlMN2x0b1Z4TnY2UmhwbkxnaGVaMF82S2t0T1lZRGgxUGo1dFA1SEJLanRTWl9KNG9sOW12UHY5cWtfd2IwcXQ5V3FDSUJuLXZKRHNfTWNkLUxyTXV1Zl9rZHpOMXhRZUNIVVpiLXlVMzFrWG1YamM5dnkxd3NtVVZVTEUxQ2JieTBWVmNUYUJxVmlvd3ZjdXQ2bHlwbVN4Yjh5TQ?oc=5"
+ },
+ {
   "id": "b2e833ffc1",
   "datum": "2026-09-03",
   "tijd": "20:40",
@@ -358,6 +377,30 @@
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdExNZXlLWS10VzByNzJHVFl2SlI4b3dCQS1DdXJSMnhOWDNXRTVXNVVrLUJoaW1WSHVVM3F2enZvLWpLQ3YxQ3ZzaFVfNW5vOE5uX1lnOU4wTWhERzF3bEpKcmZ5c3BEYURNZUQtMDJaSFJLTEdSbVhWdmRvVDVxYVlZRWw1SmZheGtHR0h0RWdyb1lqTDFJaGozNFVPb1hhMEZyMkxacVYzQQ?oc=5"
  },
  {
+  "id": "13e2ba25fb",
+  "datum": "2026-09-03",
+  "tijd": "17:06",
+  "nieuw": true,
+  "titel": "Invallen in België en Nederland voor actieve drugslab productie grondstoffen versnijding cocaïne",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "cocaïne",
+   "drugslab",
+   "grond",
+   "grondstoffen"
+  ],
+  "samenvatting": "Invallen in België en Nederland voor actieve drugslab productie grondstoffen versnijding cocaïne Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ0o1SHJYX2VNcXg2LUoyQjBIQVB5eXpDYnB6QWZrdUE5eE85TFVsRFdualhNdUR6cTY1RG44N1JuMl9jZldlLVN2ZTdZaVZxNGpGQXdNUTNtVUR2RG1NWXNMUWNTLXI3akdjVHdhdTBqVlhJVHhkTTJBTHdpY2NIbHdLbENmZHRLNl9FTFhKeVBzRG5ab09GdWtYS29qaFJwY1RzZ1FRajVqRjV4NGZTaV9RajhpVjVLTVV4ZllZcnZHSll5OXlMSFJOcFJOOGpTeDNrc1VHWDZSS3pKS1E?oc=5"
+ },
+ {
   "id": "dc38439d7e",
   "datum": "2026-09-03",
   "tijd": "16:48",
@@ -474,7 +517,7 @@
   "id": "7fbf08bdb9",
   "datum": "2026-09-03",
   "tijd": "16:17",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Rijkswaterstaat door de bocht: Amsterdam-Rijnkanaal blijft 's nachts open",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -494,7 +537,7 @@
   "id": "c8a5dfd026",
   "datum": "2026-09-03",
   "tijd": "16:11",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Dief steelt dure designertas, maar vergeet tijdens zijn vlucht zijn gezicht bedekt te houden",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -513,7 +556,7 @@
   "id": "6386c01310",
   "datum": "2026-09-03",
   "tijd": "16:01",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Vrienden waarschuwden doodgeschoten beveiliger Berry: 'Moet je dat wel doen?'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -535,7 +578,7 @@
   "id": "f43f70534b",
   "datum": "2026-09-03",
   "tijd": "15:58",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Minister wil dat jongeren zich verantwoordelijk voelen voor drugsgeweld. Maar stoppen ze daardoor met gebruiken?",
   "bron": "Trouw",
   "verzameld_via": "Nieuws — Jeugd & jonge aanwas",
@@ -556,7 +599,7 @@
   "id": "257d631107",
   "datum": "2026-09-03",
   "tijd": "15:57",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Man (41) uit Valkenswaard opgepakt bij oprollen drugslab in Pelt, ook zijn woning doorzocht",
   "bron": "Valkenswaard24",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -577,7 +620,7 @@
   "id": "304be9d6c0",
   "datum": "2026-09-03",
   "tijd": "15:50",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Mannen uit Valkenswaard en Eindhoven opgepakt in groot drugslab in België",
   "bron": "noordbrabant.headliner.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -596,7 +639,7 @@
   "id": "6ed87c45ed",
   "datum": "2026-09-03",
   "tijd": "15:35",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Waarom Jan G. niet zomaar uit zijn huis in Overasselt kan worden gezet",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -619,7 +662,7 @@
   "id": "3c35ef062b",
   "datum": "2026-09-03",
   "tijd": "15:34",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Inbrekers slaan met truc toe in appartementencomplex Little C: meer dan 20.000 euro buit",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -638,7 +681,7 @@
   "id": "97227d324f",
   "datum": "2026-09-03",
   "tijd": "15:33",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Mannen uit Valkenswaard en Eindhoven opgepakt in groot drugslab in België",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -657,7 +700,7 @@
   "id": "ac53fb74a7",
   "datum": "2026-09-03",
   "tijd": "15:24",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Bejaarde vrouw trapt in babbeltruc: zij geeft waardevolle sieraden en 3000 euro mee aan onbekende vrouw",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -678,7 +721,7 @@
   "id": "503433414a",
   "datum": "2026-09-03",
   "tijd": "15:24",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Huis burgemeester Heumen beveiligd met politiecamera's",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -697,7 +740,7 @@
   "id": "77e5934bc7",
   "datum": "2026-09-03",
   "tijd": "15:24",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Huis burgemeester Heumen beveiligd met politiecamera's: 'Er wordt voor mij gezorgd'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -2010,6 +2053,27 @@
   ],
   "samenvatting": "Bewustwordingsactie tegen ondermijning in het buitengebied Gemeente Hellendoorn",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTBYOFFiT1JKTS1BMWZwV2tDV0JhTF9iNXBNbUloSk9BQ0hvaEF2M0VfRlBZVGlBS3JtZm5weG9uTVR4elc2RUkwVHN1MXVzNmM4QzV1QUpqa3FwY3JxeXowejZTQ3RjNGhGYXdkSEVRTVhtUUpzSmZ4YmRWMGZGYkdqd21UU1doakpLclVaQmpIWXpzdmxaZFln?oc=5"
+ },
+ {
+  "id": "ff298c758e",
+  "datum": "2026-09-02",
+  "tijd": "14:18",
+  "nieuw": false,
+  "titel": "Bewustwordingsactie tegen ondermijning in het buitengebied",
+  "bron": "Gemeente Hellendoorn",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "buitengebied",
+   "ondermijning"
+  ],
+  "samenvatting": "Bewustwordingsactie tegen ondermijning in het buitengebied Gemeente Hellendoorn",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeC1TbldhX1RxcDhGakNOdEtnNUQtRWgtSTI3MXZZaUI4WlZCV2hBaXJKWHU3WndpVU9FYVpaZ3JCSXE1WW5fbmdvS3RDQjVzY2hGOTctVHN1Wll5S0oxUmRqMVFLVEttU1pzWTBzM0h2SzRKcVJBMnJvcXUxaGF1d3Raczh0UDg4M3JfSkppLWNGMVA0N3BlZg?oc=5"
  },
  {
   "id": "a197ee142a",
@@ -5589,6 +5653,25 @@
   ],
   "samenvatting": "In de tuin van een woning aan de Eikengaard in Boxtel is donderdagavond rond 20.45 uur een overleden vrouw gevonden. De politie zegt sterk rekening te houden met een misdrijf. De bewoner van het huis is rond 21.30 uur aangehouden nadat hij zichzelf had gemeld op het politiebureau. De politie zegt dat nog veel onduideli",
   "link": "https://nos.nl/l/2628584"
+ },
+ {
+  "id": "100b0602f5",
+  "datum": "2026-08-27",
+  "tijd": "21:20",
+  "nieuw": false,
+  "titel": "Een drugslab bij de buren? Deze signalen wil je niet missen",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Een drugslab bij de buren? Deze signalen wil je niet missen Drimble",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzVEbWhxcFRRUS0xc1RkalA0X2dxeFRxWmVBdGpSMlZjQVlFX1U2M240ZDBDd0R5T2x3SUQzS3VKcUZzcm0tLXlrWF9jcXdHRXRkSWg2NVo0QkZkU24xa2VuZkg1R052UFdibTFydU5BUFhGNVZPLUxBbjEwbU8zUWpQenlpS1ZhNmJWQmxYVDdoaXFkRVFtdmQ3dmxXTmpxc0RJYkwtTG85NlhTY3c?oc=5"
  },
  {
   "id": "1eb3e3174d",
@@ -24764,6 +24847,25 @@
   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQmZHSW1aamRLRlZjM1F2TlN4M3o1V0kzYXhnVmIyV3VBZ0NhS3lodTJ2NjdJRFVzU2owM2drSTd2ZWJkSWRXUGhiRjduYVZ3YmZCa3hpOWhnUkc1TjltbTc1YWlrSzFoM3hHRG5JbUpxbFA4ZV9STDZEeHRxWGtaWHpsTVdZd1MyZk5QVWZRU1Vpd0lWaFlfdHptQnJwSVVKQ0xtdWJXSUJNcTBmdTE3N0dscVNkaThMTnhuQVJtbVA2UGtubnN1UTRFelhKSm1mb1JCRUhqUFdLTlB5OUtaZkJOSzNzSFZpWVNDTU9sR3JlWlE?oc=5"
  },
  {
+  "id": "c9dc82f90c",
+  "datum": "2026-02-23",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Verbazing in Hoornsterzwaag na vondst drugslab: \"Helemaal niet in de gaten\"",
+  "bron": "Omrop Fryslân",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Verbazing in Hoornsterzwaag na vondst drugslab: \"Helemaal niet in de gaten\" Omrop Fryslân",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZnI4eDJjYV84ZVI5NGNmQWZyeWpPVFNLYkFvLUQwYWJacXdKanFZWVp2aFhOTzU0WE80YVNZRUE5a0RuNGxMSWttVTNCQlJweGcwdTFOZjRhNHZfM2pJWWtUcW56OUw5dDdzRGJBclVWVTVjcktNSW1rOURtREpfcVNRWm9LZlVnY3c4bk9UemRIdGRtVnZXQ1lOdWhaRkJrN3Q2UWJ5WHhwTk9DbWJ6T3dNYU01dUljZ1RN?oc=5"
+ },
+ {
   "id": "0f45066f0f",
   "datum": "2026-02-21",
   "tijd": "08:00",
@@ -26295,6 +26397,25 @@
   "dossiers": [
    "Corruptie & integriteit"
   ]
+ },
+ {
+  "id": "8eae9c7b1b",
+  "datum": "2026-01-21",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Verdachte krijgt celstraf voor zijn aandeel rond drugslab in Zoetermeer",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Verdachte krijgt celstraf voor zijn aandeel rond drugslab in Zoetermeer De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZTJhWmF5TU40eGtLcGdjUUdMcjVDSkd1MVAwcDM0VF9hcXQ5ZFptWGd0MS14Q3VHNFJ5ajVuSWZ4ZkE0cXRrLS1DVkZnOEtZdHJtTlI0bTlZVWpwbnBjcjV6bkYyNzJxeHdPc1UzWDYyTVhvRDR3el9UZkhlSmJmczdWTEJlQ3JsWXR4bEh1M0JKRGRDSm1HVTFBYk9EdDh5aVRwWVZMZmVxWUhDLVVoR1hpd0M3ODhTWnp5ZEZKaGs2c1RHRFlnenRjWV9pVHNsMGNIY1hEX1V0cHY3RTEtVExLTG9mbFU2U2FuWUtQWm1qbUZVY1hOSF9WLXppeEU1ZVZUUlVRaFRXa1k?oc=5"
  },
  {
   "id": "14c5d16e52",
@@ -33400,6 +33521,45 @@
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2VZcDRpMDl1ZV9zcFJBRXpVQ3ktX0ZFOUlDd2FaZnpfZjQtMkU1YURFOFBEdVdCdWdsQmNmZUNMTmpIZjVaM3F3MEJYMElJTHlBZE5CLU9aYVpxc0N5bDZZa3p4U3NWOWE0RTFtdEo4NlFzcC0zdThIM2xCclowakRJLXBfRlpHc3NFbm9ZYUN6ZVJ2bjlMRTZQc2R4TzdfbERUTGtjOVhOVmxITS1UdW5EaDZqNzRxRU01aU5hd181VzA?oc=5"
  },
  {
+  "id": "46d7bc6f61",
+  "datum": "2025-05-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zeven verdachten veroordeeld voor betrokkenheid bij drugslaboratorium(s)",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "drugslaboratorium"
+  ],
+  "samenvatting": "Zeven verdachten veroordeeld voor betrokkenheid bij drugslaboratorium(s) De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbU13NUhwZktZY0I1Mnc0MU9uOXFWcFBlTDFaS2tBNFQtRWFyZUVCUHVJQlRiZ1NQZlUyZ19NQjVGYkVmRDVQNGp4aG1LVUhMZ3BoQ1IwWHZFVVhDQjNHUUQ3OFhCOWJMeERZcDdLMnl1VmNRUkVaMVZXUUMzVGc2dFRXbTVMQnlObDVzSEtzay1SQ1NWYUxhNUM5Q0hKWFdFUEZ3UHFWWG1JMWVvd29hN2V0d2ZHYXF0Zm82cy02OTdyQ1h2YnlwR3JNdzFuYXRBbHZIWEpEUU01ZXJpOE9iVlZLV2MwaEJFUVVDaV8tYzlOc1hJSm8xYnNjcVBvMm5paThVRkc0Tk5FUW05b2ZoeVBuRQ?oc=5"
+ },
+ {
+  "id": "9294b1271b",
+  "datum": "2025-05-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Taak- en gevangenisstraffen voor verdachten drugslab Kootstertille",
+  "bron": "Omrop Fryslân",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Taak- en gevangenisstraffen voor verdachten drugslab Kootstertille Omrop Fryslân",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVd2am1xVUJZcEctMFQ0Wlkxa2FqcUxfMTFpTHBxTjVONGNYbVhXS01MZG9tOVBBbmUyQVlnWlAydDRpRVlqOG1oemg2VDBtWk5uSGlVTzl6ZVl4dEtEeURReHpTZGNLRUVhTDl4Tnp3N0hOc0dpZHU4NWtsSWJ6RVEwTmVmQTlHUllEVHRmNUtXV3dkSHNsNE90QjdESDBGeTc0dWtPWVhsNnZBVExNTFZ3?oc=5"
+ },
+ {
   "id": "dfcf12bb4e",
   "datum": "2025-05-08",
   "tijd": "07:00",
@@ -39750,6 +39910,27 @@
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZS1hNl8wb3doVlk0aG80TFlWQlpFRUhPaWJzSHlLOGg2Nl91NGhtMjlCeWkyQ2lqUUVfOHpBZTJFRkdQcEI1V0VLd0d0bElDcER1VHVkRTNzMTZTX3c3M2hCU0JfYlBMSHJwQ3BoR1dfMGhmenVod2FLVVpTcThibUdFQ01INS1LLW5QR2J1ZGFDYzlla2EydXRucnJWY3lsQlpJWUtoMk9ZejFCTXh3TXNIbS1ZcWs1RUE4SmZIOVFvQk1qNnpQQg?oc=5"
  },
  {
+  "id": "67186f4e50",
+  "datum": "2023-12-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Honderden jerrycans met drugsafval gedumpt op drie plekken in provincie",
+  "bron": "RTV Noord",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Honderden jerrycans met drugsafval gedumpt op drie plekken in provincie RTV Noord",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlF6NlN2aFMyTHVqd1J5eGpCNlY1bERIME5QMDNCTThkQkFibnlEZUFCOWl1Nmx1SzIyVnhkMTJ3bjh0bHFCSjk3cDN3YVZVdzc5bGlZdGdDa1N1OUIwU2h6YVNWclY0dW11aVAwTTlvSHFuR0Q4YnptTWNvRE9oUUNrZ1BhQU4zZU5EVGx0Ynh4TUlSNmcwMGtMR0hqdmRkMkZQWHlsaVpRZkd1UjJV?oc=5"
+ },
+ {
   "id": "94c230e6ff",
   "datum": "2023-12-14",
   "tijd": "08:00",
@@ -43289,6 +43470,27 @@
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDd5RG1BNXk5UmZDcWtQUlZFaGppUThYdXEyVERzZFpmVVVLTWstTUVtWERQS3QzYmRIWm0zVmFsMlJieGo2bDl5aDFyOEtQV0xFSnIwSzdjMklrQ3d0Z3BpM0xocHpDRlBVaVlULVgtY3JxWWVWLUp3eDA0WHpFdWFVcm9uSEwwT0RpMWI0YVVwMlBsTTdOZlktUzdURko1?oc=5"
  },
  {
+  "id": "edd89e80fa",
+  "datum": "2022-09-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Tot 4 jaar cel voor drugslab in Zaandamse loods",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "loods"
+  ],
+  "samenvatting": "Tot 4 jaar cel voor drugslab in Zaandamse loods De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeDN1ODVPMjh5YmVRMnpLX3VNcFNlQ1VJc1BNdUExOG9Jd2xXU1FpMHY5c0xad0xTdVh0c1o2QjBiUVV5ZzZpUUU4VmFFY0Vqa1cwT2xpS29zX2hvNzVsRThwbG8zSGZnajl2cDktdk1JQnVXckRBVXo0ZjRoXzZ5WXQ5S1BiT05ibzg5eE9kTEU0X3V6RmFHRDVocDZ2NU80QkNtNlgyWXpVZUlCMjBxZmlGdmg2Skp4NDlxOVdUdFZlQnR1VDRsZVhsdEJXdkhRYlRJOE1mNA?oc=5"
+ },
+ {
   "id": "563e12bc7b",
   "datum": "2022-09-17",
   "tijd": "07:00",
@@ -43388,6 +43590,27 @@
   ],
   "samenvatting": "De Bibob wordt door ministeries nauwelijks gebruikt NOS",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3hSUDQxOG85b0diYmxseDUxNXJPS082UVZZUDA4N1loUEx3cTY5NkdpdENaVGZZWWI2NUt6Ym9LNWx4d2pTbnJDXzhCSWRaTmZUQXFUWDR0OXpwMDNEejJDVy02MjFnUUw2MEREOVpxQXh0Q2VFb24xY1hKT3lKQldQTUhzT2pMamd0SUw2dzZKNWZN?oc=5"
+ },
+ {
+  "id": "bd9b0ed030",
+  "datum": "2022-08-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Opruimen drugsafval gaat ten koste van investeren in de natuur",
+  "bron": "Staatsbosbeheer",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Opruimen drugsafval gaat ten koste van investeren in de natuur Staatsbosbeheer",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQODRWU09GVmpCYzk3eW9Ua0hXUUkwSHk1TTJRSzlfQ3JJdm1kUjBRRnM5ZnQxendzQkRFLThaeDF6X2V6VVpoc0NiendjZ0dFb1BwMktWblFNX0R3VFpGV1FpVjdRbnRBcTZFT0NUc21xdkZqVVpkSmd3cHhCaWdiTDF2QVZQZGFTLWc1WHJqeU5vaVRIRWF6ZTRPaXZ3YjBRLVNjQUM1TVFYaFlEa0dyV0g1SS1tNTY4eWxXUA?oc=5"
  },
  {
   "id": "f7e12311c1",
@@ -44370,6 +44593,25 @@
    "Cocaine, haven & logistiek",
    "Witwassen & geldstromen"
   ]
+ },
+ {
+  "id": "ee2d1cccdb",
+  "datum": "2022-02-01",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Vader en zoon krijgen 5 jaar cel voor drugslab in Nistelrode",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Vader en zoon krijgen 5 jaar cel voor drugslab in Nistelrode De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZ3pLSlk4ZjJJc2pSQm5xQ2JQYzlDbFppaUdiWEFBY3NhZkdNbHhoS1F6X3hTUFBDcFVkU2c4UVBJbUpicGdEeEZBcHktcTVnSW02amVFOEp1cWhqZnk3WUhJdnp5S1k2Nm8zdTUycG52eFRBUXRibHZ2MUlFRE9meThSX2xxWDkxSzNiSTlwbkhGeGJtRXIybS1FLWpnei1GUHRNelBNWlQ0TDU2Y2dWck9mNXVHdmF6eWItcThZeWMzUHJaSzNLNEgxampyMTl3TFdOV01JdENLSGtNbDNoTmVpMDNWRTdoYU00WDRZa3VaOWZzMjBPUVVpdlp0QS0tOFE?oc=5"
  },
  {
   "id": "f248226c3a",
@@ -47325,6 +47567,25 @@
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzNITVVFMUFfcWpmaFFSOFR4bTJHYXZucGI4eEEweDlONWVRRTRfaUNTUkxWM0oxUDRWTDB6dUhzb20wNk9TMDlLODd4VGhpV3VEUDFqMnU5c29rak9FZXM2LUJxeFF2V2xpVmtUWGo3dFk3SUlxcWxtNGV1TzZVaV9vWmFFd2RldG1GVWZETU9fUQ?oc=5"
  },
  {
+  "id": "467a27dcb0",
+  "datum": "2020-02-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Celstraffen voor betrokkenheid bij drugslab Hagestein",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Celstraffen voor betrokkenheid bij drugslab Hagestein De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRHFrS3RVTHktc2NhVlYycXpBSm1TX0VuNWQyOFRBVnN0ZUNld0thZTZROGJxX3VCaFZ4T1VNN3VCZ1BLTTh3SjFGTVN1Q1N6a1FIZHRNRXF4LVdoSHZpeWlFQ3c1TFUwb3BNd1V2Y1B1bDBJaWUzNjFzWFhibzJtMGtCcFYwcnVuODN3RGdVSlR5QV9XUlZIZnpJMjJPTjg3NjVWdFpTQ3Z2UWdCNUgzN2pFOFdmdzBFcm5DekJSejBZYUE0RnRXRGNxNEZsTkpHc1lpQ0lRTW84alBGS0Q1YUlJUDROZzJnMG0yYWdwWjBacjVJVEZ6a040XzBsdw?oc=5"
+ },
+ {
   "id": "3db36bddc5",
   "datum": "2020-02-18",
   "tijd": "08:00",
@@ -47369,6 +47630,25 @@
   ],
   "samenvatting": "Man uit Noordwijk aangehouden voor witwassen van 2 miljoen met bitcoins: kilo’s goud, auto en sieraden in beslag genomen Leidsch Dagblad",
   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQW5zU01pN1ljMWN6ZDFvcm1meXVoVXc2TXlNamg1akFod0hUYkxoeU5ZOVB6b1hSdGFjeDdlTEtzbmJfb2lBcjNOZ3ZRUUZpQnZyWHdDUWFUY2dYc244WGtEMmRfbVcySFFlZzNhejVVbk8xdm1ZYzFmSEVIc0JTdkdpTWVacUVocFdRWnU1Q2VIdzJ3ZFVQQWU0MGFkUnloeXpKVUNpV3AzejBIQlhwcXFHaUx1Y0NFMlNfOXlkZ2VwdVVtWFV3dzRyWWlTakRkczM1OHBERGRyZzh6Mm13dlQtQzA5SUpHT0VfZm85WmNFOXBKY3BIRktlTFZzMzgtbWdEUm8zVFZaUlVINVV3cVplWkhiM2lu?oc=5"
+ },
+ {
+  "id": "b682965aa4",
+  "datum": "2020-02-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie vindt drugslab en 4 miljoen euro aan drugs in Wânswert",
+  "bron": "Omrop Fryslân",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie vindt drugslab en 4 miljoen euro aan drugs in Wânswert Omrop Fryslân",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlRKYnFibWRDUWdPd0lBWFZHSklHakd3ZTVZQzZHQ1hrSFhoY2ZKTE9qaWFjR2VSWTh2YzlfRHE4emNLX2xwUERESFRnWDQ4T1lhM3I3ZmRaZ0xmd0lRbWlCc0xUd3ExUVFScURIQVdXNlNJQ1p3NVotamRzNEFDLTU4Y1A0V3NtSWtIRTlXRjFmZmp0V09xNGtCNXNWS3RKcGVJTHpWMEk4RHM?oc=5"
  },
  {
   "id": "82020ef0ce",
@@ -49420,6 +49700,25 @@
   ]
  },
  {
+  "id": "bba3e216e3",
+  "datum": "2018-06-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "3 jaar celstraf voor rol bij grootschalig drugslab in Stevensbeek",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "3 jaar celstraf voor rol bij grootschalig drugslab in Stevensbeek De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUEQ5bmNza3d0ZkVKN1RWNDI3STl3alJiR2h2YWhnZjVfd0h5T3V1ZS1mWlNGX29hNU1nakNmRWdMX282OHc3TTdId0dSNXBLR1BUSmtSSllpYnZrZ3JLRXgtQmR5Rl9rZTdrTGEwd2tNZ0Jqd2tNRWpVa0hCMVlManlrNVJvY1hkRlI5WVA0QmNPU2V2WENER29yak5EMjRndWd5S1hKWkpEdGNmcWQzMFE1YVR6a2N3YndnOEVzQ0UyT0JRamVjbzBFYURFNFFKTHdzMnpEdnoyeXFLMVFZT0ROX0JoUG1FakY3NUZlNEJCa2VBMkpZS21URldxSkZ6SmRNUzJQZ19KdlpIU3E1UmF3?oc=5"
+ },
+ {
   "id": "8a29b6250b",
   "datum": "2018-06-19",
   "tijd": "07:00",
@@ -49516,6 +49815,27 @@
   ],
   "samenvatting": "Amstelvener was chauffeur vluchtauto bij liquidatie Badloe Het Parool",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVUM1VXlVajRtNTRtbFVlMGpoTXZiUlV6WTNMajVhN2EtM3dsT2l2ZVBFVmYzZGpuR09KcVd5d2xzZHR2OHdxRmNfY2M4VEFlcHZCal9IMHlRODlxdzdxU19YVW1BS0syN3Q3SVExa2Npc0dFM25XZ1dtam9QVmFuRnE3Q0pZaklXX0VHQWFqZU40YVk2Tk9mVkp0RVJOdw?oc=5"
+ },
+ {
+  "id": "bbbd24d1a7",
+  "datum": "2018-04-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "En weer is het raak: criminelen dumpen drugsafval in Brabant",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "En weer is het raak: criminelen dumpen drugsafval in Brabant NOS",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdTVqRFh6X2trdHV1Ym15b0pnMHNKOFNzY0R6cUFob0t3bXJsWjRBY2Y2dTE0ZkpkSDJZTHB1SVVhMTAxbVZtY1NwaFVEb3pWWm9BZmstZzhSVkE2ajRhYVVFRzJZNkJKUGlRdHpQU1Jic0hFWUZGektxWms0MW5IRFdNUVQ2bkVQRVhtMVhudjRxR1dB?oc=5"
  },
  {
   "id": "7bd6eab500",
