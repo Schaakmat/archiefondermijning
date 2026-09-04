@@ -255,7 +255,7 @@
   "id": "d3c5d63c34",
   "datum": "2026-09-04",
   "tijd": "15:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gevolgen havenstaking lijken beperkt, nieuwe acties niet uitgesloten",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -276,7 +276,7 @@
   "id": "95d1e97e57",
   "datum": "2026-09-04",
   "tijd": "15:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto slaat over de kop op A27, bestuurder is nergens te vinden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -295,7 +295,7 @@
   "id": "b4e6698899",
   "datum": "2026-09-04",
   "tijd": "15:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "5000 lachgasflessen inbeslaggenomen bij loods in Poortugaal",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -43517,6 +43517,25 @@
   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON1F2R2tNaTlZZ2J6OU5ZOThhdnphQjdWbHpkV29XbFAwT3gxa1VqQzJkOEVtM3dPYW1MN3ZSV0dMcmJQMFVBWUhhX2lkdHhFaVpGWF9nZTlWWkVxd1lWcEVfVjJVbVJibm5qeEEwTU9sWEQ1bl8zNkxCa2QxbG9uZXR6dWVIa3Q1QWRVOWdmTU1BMlMyLTUtVWNWUjlUb2puN3JCMGZMYVdNTWhZSXJtRnNPX0VPT1VVNlozeXVyakt4YU4zV3BSeW15Mk1vNW14czR3VG5pOU5rSFRPX1d4b2JsdzU4V1hmU2Y5QklIclN4THYzMlhj?oc=5"
  },
  {
+  "id": "7404ff1e75",
+  "datum": "2023-06-01",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Amersfoort is onvoldoende opgewassen tegen ondermijning",
+  "bron": "nieuwsplein33.nl",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Amersfoort is onvoldoende opgewassen tegen ondermijning nieuwsplein33.nl",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORW9vVnlzNXZnZjREMzgxRnpxMHAwOTBIN2RVU1pEcXY3THQ4Y3dZakRJZnE1Zk1Jc1lQQXM0TXZWQTlLdThRSHNmUUlkS0l4OHFUZ1JnU3ZUTU41bERBOGZsNDk4ejB0WVFPcklEemprbExIYks4bXpjTTctTEpjZ0N1ZjJuVlVVSHNoaWU1dmtrMldfdWVhU0dTd2Iwa1ZK?oc=5"
+ },
+ {
   "id": "a4538ba42b",
   "datum": "2023-05-31",
   "tijd": "07:00",
@@ -44358,6 +44377,26 @@
   ]
  },
  {
+  "id": "a7543918ce",
+  "datum": "2023-02-13",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Man uit Julianadorp en vrouw uit Den Helder aangehouden in onderzoek naar vastgoedfraude",
+  "bron": "Noordkop247",
+  "verzameld_via": "Nieuws — Vastgoed & huisvesting",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "vastgoed",
+   "vastgoedfraude"
+  ],
+  "samenvatting": "Man uit Julianadorp en vrouw uit Den Helder aangehouden in onderzoek naar vastgoedfraude Noordkop247",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVUZvWGV0QTkydXhFT1NoQnJLOTA1Mnlpc3M1WlB6S2pFbWVFQkg1U1d0TzQzZ05uUktQbU5BTWRTQXBnQXVhT09HTzNBV1JXZXVYYjZiVXVmMGdqTG1Ja2RHTEN3aEV1YVZ4ZTBZRTJIZ3BHSnNqbEVuTEQzMktnWjlXQkZGd2dkdjlaeUtGWVRKbVp5cmFDRENyaG1qbFRfU3V4dUpYNGRDaVRqdUtGSWFyQm5KeTBMLWdF?oc=5"
+ },
+ {
   "id": "7dc00d8ded",
   "datum": "2023-02-09",
   "tijd": "08:00",
@@ -44712,6 +44751,29 @@
   ],
   "samenvatting": "Huisjesmelker Marcel van Hooijdonk wil niet bekend zijn, maar dat maakt BOOS hem toch VK Magazine",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMndzUVpxbXp1LUlaVnVvdmsyWmJrYjZXMHlhZWhGMmxEMHFSRXVJeDJVM3hKRXpkWjYtdkdGR0Y5dlk3cFdNRnlnTjNQX3ZIcW40cFhxeDdJZ0pJZnhWZ2hfcFFyYUItaWhzODZkbzRJRVBDOEhxVzZhM3k1NnpNS3E1ZnMxOGpQTkVTb0xDMkhIVldZWGdOSUdzd3FsS3ZfS3prMTBUdVhTNU1INUs0WG5aVk1OZ9IBuwFBVV95cUxNQmNrVzNydjh0bmJNUDhveVFkSDk1Z2lkYWdubV9XdE5BRHZpRGx2TDFNdXhuSXpHN3M4QzNoVUoyVk1aOVNxZ3MwMlAxalpFVlQyQjBFREFNZktlVDJZRnIyVWtnT3ZXNFFZcEVPLU1seHN2cFQ1RW5EaGlyQ2tEMUJOUjJlZ1ZoLVY3S3ktZk1OZ3FsSXZ0ZndXdlllU0NLeEJ6UVpzc2pLQnRXUThXcmNteHJOU2kwN19v?oc=5"
+ },
+ {
+  "id": "2f05f839dd",
+  "datum": "2022-12-10",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Vrachtwagenchauffeur A. werd 'verkracht, bedreigd en gemarteld' voor ze hotelcontainer met tien drugsuithalers naar de haven reed",
+  "bron": "Rijnmond",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container",
+   "haven",
+   "uithaler",
+   "uithalers",
+   "vrachtwagen"
+  ],
+  "samenvatting": "Vrachtwagenchauffeur A. werd 'verkracht, bedreigd en gemarteld' voor ze hotelcontainer met tien drugsuithalers naar de haven reed Rijnmond",
+  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMnhXek5BS0xySFpzRkFXSFozVGVoRktDWWhFaGhQTXprejc5WjRmUHg5eHh3VHl1ZWJuTV9QS3BuLVpZNDgyR2MxQjVtTGtOS2VrUHF0bkdUbVhSVTVQMW9aSE9wVklNN0d2MzVVQk9fVGFqVFJLMFkwVnRib2hzSDNOTmM5YVczSFU5Z09vdEx1V1V5empLQlFyOFNzX0xfZ2lTblhYWFQwckVTNE9mU2NHN3QwNGQ2WlhGR0tZUFNocTdtb1VyRHhfTUpPejczaFZ6b29wYzNzUFZVVEc0TU4tNjg5NlVPdGtBaEJ4N202TnhDYUk0?oc=5"
  },
  {
   "id": "e9097e5f38",

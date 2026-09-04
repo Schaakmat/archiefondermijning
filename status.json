@@ -1,12 +1,12 @@
 {
- "run": "19:27",
+ "run": "20:30",
  "datum": "2026-09-04",
- "nieuw": 15,
- "totaal": 2688,
- "verwijderd": 10,
+ "nieuw": 12,
+ "totaal": 2691,
+ "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 1046,
-  "geen dossier": 480
+  "niet-nederlands": 1044,
+  "geen dossier": 483
  },
  "bronnen": [
   {
@@ -50,8 +50,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 56,
-   "status": "bij",
+   "items": 57,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -122,8 +122,8 @@
    "url": "news.google.com/rss/search?q=vastgoedfraude%20OR%20%22ondermijning%20vas",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 16,
-   "status": "bij",
+   "items": 17,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 42,
-   "status": "5 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -374,8 +374,8 @@
    "url": "news.google.com/rss/search?q=%22weerbare%20ondernemers%22%20OR%20bedrijv",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 17,
-   "status": "bij",
+   "items": 18,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 54,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
