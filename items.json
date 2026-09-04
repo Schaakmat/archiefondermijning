@@ -1,5 +1,28 @@
 [
  {
+  "id": "b9abf2d8fc",
+  "datum": "2026-09-04",
+  "tijd": "05:55",
+  "nieuw": true,
+  "titel": "Urk - Geheime documenten over geld voor buitendijkse haven in te zien voor Statenleden, opnieuw moet krediet omhoog",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Corruptie & integriteit",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "haven",
+   "integriteit",
+   "ondernemers"
+  ],
+  "samenvatting": "Leden van de Provinciale Staten kunnen vanaf vrijdag zien hoeveel miljoenen er extra nodig zijn voor de buitendijkse haven die bij Urk in het IJsselmeer gebouwd moet gaan worden. Dan liggen er namelijk geheime documenten ter inzage. Volgende maand moeten de Statenleden kiezen of ze akkoord zijn met opnieuw een forse ve",
+  "link": "https://www.omroepflevoland.nl/nieuws/522518/geheime-documenten-over-geld-voor-buitendijkse-haven-in-te-zien-voor-statenleden-opnieuw-moet-krediet-omhoog"
+ },
+ {
   "id": "49bae495a3",
   "datum": "2026-09-04",
   "tijd": "00:27",
@@ -136,6 +159,25 @@
   ],
   "samenvatting": "Een bestuurder van een auto is donderdagavond uit de bocht gevlogen en tegen een boom gebotst in Helmond. Wonderwel raakte de man in de auto niet ernstig gewond. Een omstander vreesde het ergste toen hij 112 belde na het ongeluk. Hij durfde zelf niet te gaan kijken. Meerdere wagens van de politie en brandweer kwamen ve",
   "link": "https://www.omroepbrabant.nl/nieuws/6025902/auto-vliegt-uit-de-bocht-en-botst-tegen-boom-in-helmond"
+ },
+ {
+  "id": "5697aae3b8",
+  "datum": "2026-09-03",
+  "tijd": "19:58",
+  "nieuw": true,
+  "titel": "Verstekelingen ontdekt bij veerdienst voor vrachtwagens naar Engeland",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Op de terminal van DFDS aan de Vulcaanweg in Vlaardingen zijn donderdagavond verstekelingen aangetroffen. Het gaat volgens de politie om 15 mensen. Onder hen bevonden zich twee minderjarigen. Alle personen zijn aangehouden en door ambulancepersoneel nagekeken. Drie weken geleden werden bij DFDS ook al verstekelingen ge",
+  "link": "https://www.rijnmond.nl/nieuws/2248699/verstekelingen-ontdekt-bij-veerdienst-voor-vrachtwagens-naar-engeland"
  },
  {
   "id": "6384573088",
@@ -474,7 +516,7 @@
   "id": "ea16de927d",
   "datum": "2026-09-03",
   "tijd": "16:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man breekt in als Sissie beneden aan het werk is: 'Hij was er al eerder'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -496,7 +538,7 @@
   "id": "bb29f870cc",
   "datum": "2026-09-03",
   "tijd": "16:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Politie vindt weer wapens • geen 35 maar 34 verdachten • bijeenkomst voor bewoners",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -514,10 +556,31 @@
   "link": "https://www.gld.nl/nieuws/8517500/live-politie-vindt-weer-wapens-geen-35-maar-34-verdachten-bijeenkomst-voor-bewoners"
  },
  {
+  "id": "b896aeefdd",
+  "datum": "2026-09-03",
+  "tijd": "16:27",
+  "nieuw": false,
+  "titel": "TERUGLEZEN | Politie vindt weer wapens • geen 35 maar 34 verdachten • bijeenkomst voor bewoners",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Het is de derde dag na de schietpartij in Overasselt. De woning van Jan G. is gesloten en vanavond houdt de gemeente een persconferentie. In dit liveblog houden we je op de hoogte van het laatste nieuws.",
+  "link": "https://www.gld.nl/nieuws/8517500/teruglezen-politie-vindt-weer-wapens-geen-35-maar-34-verdachten-bijeenkomst-voor-bewoners"
+ },
+ {
   "id": "7fbf08bdb9",
   "datum": "2026-09-03",
   "tijd": "16:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rijkswaterstaat door de bocht: Amsterdam-Rijnkanaal blijft 's nachts open",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -1752,30 +1815,6 @@
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVZ1emItODlFQTlmdEl0SDVsOTQ3VFlYMjRwQ2U5Ti1RRXd3QVJRNk9BZVRXVjJ6S25EaHFibWFHWEJ5ZmI1b0JXcmRnNGhuVUotMFowcWtrbDhNNDhsREZsYnFzaTZ5Q0NoZDlJUEJYa1BlU2xRWjM3Q2xwV1RkczJoV1E1aFpQaVRWdA?oc=5"
  },
  {
-  "id": "551cae2685",
-  "datum": "2026-09-02",
-  "tijd": "17:30",
-  "nieuw": false,
-  "titel": "Een meter grond eruit: sanering van moestuintjes in Heusden begonnen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "afval",
-   "bestuurder",
-   "grond",
-   "stal"
-  ],
-  "samenvatting": "In Heusden is woensdag begonnen met het saneren van vier kleine moestuintjes in het midden van het vestingstadje. In de bodem is lood aangetroffen. De sanering maakt deel uit van het project Bodemlood, waarin de provincie en Brabantse gemeenten samenwerken om lood uit de grond te halen op plekken waar kinderen spelen. ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025692/een-meter-grond-eruit-sanering-van-moestuintjes-in-heusden-begonnen"
- },
- {
   "id": "473323f0c1",
   "datum": "2026-09-02",
   "tijd": "16:38",
@@ -2257,25 +2296,6 @@
   ],
   "samenvatting": "De politie onderzoekt een dreigvideo aan het adres van Jan G. junior. Hij is de bewoner van het pand in Overasselt waar gisteren werd geschoten en een 51-jarige man werd gedood. In de video, die ook in handen is van de NOS, zegt een gemaskerde man in het Engels en met een Spaans accent dat de 28-jarige G. een partij co",
   "link": "https://nos.nl/l/2629364"
- },
- {
-  "id": "9a8bd0cd91",
-  "datum": "2026-09-02",
-  "tijd": "13:30",
-  "nieuw": false,
-  "titel": "Koffers van zes vluchten blijven achter op Eindhoven Airport na storing",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "haven"
-  ],
-  "samenvatting": "Zes Ryanair-vluchten zijn woensdag vanaf Eindhoven Airport vertrokken zonder ruimbagage. De koffers konden niet mee op de vluchten na een technische storing in het controlesysteem op het vliegveld. \"Dit is uitermate vervelend voor reizigers\", zegt een woordvoerder. Richard uit Eindhoven zat al klaar in het vliegtuig om",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025650/koffers-van-zes-vluchten-blijven-achter-op-eindhoven-airport-na-storing"
  },
  {
   "id": "978f7ac01d",
@@ -11177,6 +11197,25 @@
   ]
  },
  {
+  "id": "9894c432a9",
+  "datum": "2026-08-07",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Spaanse politie rolt een van grootste Europese smokkelnetwerken op, 78 aanhoudingen",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "netwerk"
+  ],
+  "samenvatting": "Spaanse politie rolt een van grootste Europese smokkelnetwerken op, 78 aanhoudingen NOS",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRGhvZVNzRlB4bGF0YmdGRDByOHFEMko1UjNTeEVhOGhqclhTWW40Q0hpZlpYNDl2dERZckpkQTVGUmxsbWVnZm45OFFGNi1WLXVMOVFfX29TdEt4OGtXdTF1Znhra0NvNkZ0TGtjTERwOGlhSzJtYml5Qko2V0pET05rVWUyTUlHaXhveFREQTZoU2hfQ25oRHNKZDhIQzl5bjlwSjFTYkVZckF1aDlRbUFVZw?oc=5"
+ },
+ {
   "id": "6cefd4e5e0",
   "datum": "2026-08-06",
   "tijd": "07:00",
@@ -12033,6 +12072,27 @@
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHJGOTBqMTJPd0k5QnhoQzFfX3hQTXBZM3J3WktSbmVGTVZhZmdhWV9fRGdUQXN1bmxhOE5uMGVFMkU4cDRoUmNXNUpTcHhtcXZkM2dFTC1GNUR0SW53bE5MOWw5Si1RalBjWnI5SXNhR21QaHp6VWpSSTRUMWw3ellGNjRSVjdaNlVGZ2pJSTVpOUFCN3F0QnJ2WkRWU0JGTXZZN3ZZQjBvZw?oc=5"
  },
  {
+  "id": "1b810328b2",
+  "datum": "2026-07-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Tientallen jerrycans met drugsafval gedumpt bij Zevenaar",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Tientallen jerrycans met drugsafval gedumpt bij Zevenaar De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUhvWlFSTUF2eDk4dlJUS3piN2dmbnpyNlVneFlkYWQ4SnNpNUFpX1lnSHp1eHgxbnBKWFBNTWlTX3pLZi1hTXJPcW9WUXg3S1BNWTYzUEp1SDFWY1pBVjZPR1ptTDU0VEVkUmJYOV9WU1JaUXFRdVBaSkdGTDVVUXB4YUExQzBwc3VCX3RIc193bHBrRWhBNkJTZ2dYTGllcl96QnFmV1hrdm1BbUEtR3h2eWlqTlZ3Nmc?oc=5"
+ },
+ {
   "id": "939a353cb3",
   "datum": "2026-07-25",
   "tijd": "07:00",
@@ -12072,6 +12132,25 @@
   ],
   "samenvatting": "Danny is op zoek naar iemand die twee weekjes zijn wietplantage water kan geven De Speld",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOGFQWUJ2bnlZanREaXRTb2ZwaHBqUmZwQ3J5Z01iamctejVPbmZ3VXBJWXlwU2lDcUd2X3E5N2l3TTVjbVpka3BCYXQ0dGtGeHc2R280b2g0ZzNCaXphb2N0cnh4Yy1EN010ak1NMHNaUUJtRUY3bXVBOERSRmNxalktTEdNTE9mVElMZUg0YVIyeXJoT0tzaEw4czVBRzVxWmtvb1FuaWw0bFRy?oc=5"
+ },
+ {
+  "id": "9b4af9dc3b",
+  "datum": "2026-07-25",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Shownieuws: Michella Kox neemt het op voor Luca T. na beschuldigingen van mensenhandel",
+  "bron": "KIJK",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Shownieuws: Michella Kox neemt het op voor Luca T. na beschuldigingen van mensenhandel KIJK",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hdTFObEY0ai1aT0tJRmhOSXAwVkR0R0hDUnZJb05PaGhDN3RlTG1YYmRJZ0NIOVZNM0NyVy1iOUJrUjVkYjhIa2tJYXRpaWNBMUlNOXB6cFYxZW56cUJyX093NHRLSnc?oc=5"
  },
  {
   "id": "f1146dc8a9",
