@@ -49,6 +49,46 @@
   "link": "https://nos.nl/l/2629677"
  },
  {
+  "id": "41321053f6",
+  "datum": "2026-09-04",
+  "tijd": "17:15",
+  "nieuw": true,
+  "titel": "Bagagechaos Ryanair en plannen voor treinstation: dit mag je niet missen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "school"
+  ],
+  "samenvatting": "Van twijfels over Brabantse deelname Dakar-rally vanwege veiligheidsrisico's voor het team tot een terugblik op de emotionele sluiting van het Spookslot in de Efteling in 2022. Dit zijn de vijf artikelen die je op vrijdag gelezen moet hebben. Julia zit al twee dagen zonder koffer in Spaanse zon door storing op Eindhove",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026058/bagagechaos-ryanair-en-plannen-voor-treinstation-dit-mag-je-niet-missen"
+ },
+ {
+  "id": "330fa5e617",
+  "datum": "2026-09-04",
+  "tijd": "16:18",
+  "nieuw": true,
+  "titel": "Bewoner even weg, inbrekers slaan toe met gestolen sleutelbos en stelen voor 20.000 euro",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "De politie is op zoek naar vier inbrekers. Zij gingen er in appartementencomplex Little C aan de Coolhaven in Rotterdam vandoor met meer dan 20.000 euro aan waardevolle spullen. Ook lieten ze een enorme ravage achter. De verdachten staan op beeld.",
+  "link": "https://www.rijnmond.nl/nieuws/2248662/bewoner-even-weg-inbrekers-slaan-toe-met-gestolen-sleutelbos-en-stelen-voor-20000-euro"
+ },
+ {
   "id": "d6fb708399",
   "datum": "2026-09-04",
   "tijd": "16:11",
@@ -104,11 +144,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Milieucriminaliteit & afval",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "grond",
    "vuurwerk"
   ],
   "samenvatting": "De politie tast nog steeds in het duister over de identiteit van de tweede man die betrokken zou zijn geweest bij het afsteken van zwaar vuurwerk tijdens de kampioensviering van PSV in Eindhoven. Bij dat incident raakte een 16-jarige supporter ernstig gewond aan zijn hand. In juli werden beelden van de verdachten gedee",
@@ -264,7 +302,7 @@
   "id": "de7c57463a",
   "datum": "2026-09-04",
   "tijd": "14:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Media niet welkom op sportpark • nog een woning op slot",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -283,7 +321,7 @@
   "id": "3b32a1356d",
   "datum": "2026-09-04",
   "tijd": "13:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nog steeds honderden vrachtwagens per dag over Merwedebrug ondanks verbod",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -302,7 +340,7 @@
   "id": "0bd21e4c27",
   "datum": "2026-09-04",
   "tijd": "13:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Roemeense aanklagers spannen nieuwe zaak tegen Andrew Tate aan, dit keer voor mensenhandel in minderjarigen",
   "bron": "Puna.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -321,7 +359,7 @@
   "id": "ad67d0886b",
   "datum": "2026-09-04",
   "tijd": "13:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rector geschokt door dood 12-jarige leerling uit Eerbeek",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -340,7 +378,7 @@
   "id": "d72e872ac5",
   "datum": "2026-09-04",
   "tijd": "13:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Plan voor treinstation in Uden is nobel, maar volgens expert kansloos",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -361,7 +399,7 @@
   "id": "8eb413d0e5",
   "datum": "2026-09-04",
   "tijd": "12:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rotterdammers vrezen wraak na verdwenen cocaïne, OM eist nu jaren cel",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -381,7 +419,7 @@
   "id": "ef20997295",
   "datum": "2026-09-04",
   "tijd": "12:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - 'Problemen met Houtribbruggen al jaren bekend bij Rijkswaterstaat'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -402,7 +440,7 @@
   "id": "c4d7ae447b",
   "datum": "2026-09-04",
   "tijd": "12:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel in minderjarigen",
   "bron": "De Standaard",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -823,7 +861,7 @@
   "tags": [
    "pand"
   ],
-  "samenvatting": "In een voormalig woongebouw van Philadelphia Zorg aan de Pilotenweg in Emmeloord heeft vrijdagochtend vroeg een korte maar felle brand gewoed. Daarbij kwam veel rook vrij. De brand brak rond 06:20 uur uit. De brandweer had het vuur binnen een half uur onder controle. Het gaat om een leegstaand gebouw waar volgens de br",
+  "samenvatting": "In een voormalig woongebouw van Philadelphia Zorg aan de Pilotenweg in Emmeloord heeft vrijdagochtend vroeg een korte maar felle brand gewoed. Daarbij kwam veel rook vrij. De brand brak rond 06.20 uur uit. De brandweer had het vuur binnen een half uur onder controle. Het gaat om een leegstaand gebouw waar volgens de br",
   "link": "https://www.omroepflevoland.nl/nieuws/522552/brand-in-leegstaand-woongebouw-van-philadelphia-zorg-in-emmeloord-mogelijk-brandstichting"
  },
  {
@@ -1500,25 +1538,6 @@
   ],
   "samenvatting": "Het Openbaar Ministerie eist tbs met dwangverpleging tegen een 20-jarige man die wordt verdacht van het doden van zijn 42-jarige moeder, vorig jaar april in Den Haag. Ridvan B. heeft bekend zijn moeder thuis te hebben omgebracht toen zij dreigde hem het huis uit te zetten als hij niet meer naar school zou gaan. Daarna ",
   "link": "https://nos.nl/l/2629548"
- },
- {
-  "id": "32113c2049",
-  "datum": "2026-09-03",
-  "tijd": "17:36",
-  "nieuw": false,
-  "titel": "Bestuurder zwaargewond bij ernstige botsing in Fijnaart",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Een bestuurder van een auto is donderdagavond zwaargewond geraakt bij een botsing met een andere auto in Fijnaart. Een auto kwam vanuit de Jufvrouwenweg de Appelaarsedijk op en botste daar met de andere auto. Een derde auto botste na het ongeluk tegen een paal. Er landde een traumahelikopter in de buurt van de plek van",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025889/bestuurder-zwaargewond-bij-ernstige-botsing-in-fijnaart"
  },
  {
   "id": "190d820ee0",
@@ -37815,6 +37834,25 @@
   ],
   "samenvatting": "Schutters van liquidaties zijn maximaal 30 jaar oud, daarmee lijken ‘oude schutters’ met pensioen Het Parool",
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTUJ0LUgtNWdIdllsd3BDRGlwbWZvczZteDdpRmNJUGJfZ2hPdDB5OU5KNWlTYUFXVlE4aW4yenE2WmsxMXlCUzhLQ3BCSVBNR2N2ZE5OVVNjZi1fU3VzQXBCc3VYLXNGbGRvRzhYUGhrZUU1MTdnOWZhUkJHR2lmbGhsRnNOQVlWeVRWMFhjMXR2RF8tNnpXaUpIbGhYTzM4b290YVBaeHd0akJETTVPM3pCcUlETVlqeU11VEgtbDl1b3AwbG13dWxLcEQtbHVWbGpN?oc=5"
+ },
+ {
+  "id": "b951c20746",
+  "datum": "2024-11-13",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Oudste schutter van een liquidatie is 30 jaar, daarmee lijken ‘oude schutters’ met pensioen",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Geweld, liquidaties & bedreiging",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "Oudste schutter van een liquidatie is 30 jaar, daarmee lijken ‘oude schutters’ met pensioen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1RWQ2xhMVl3dlFqa0pDOUhYUUp0NzZ4dk9QV0NISVJHM1pqUTlFM19xUi1NVms3MEZ0R2IwamVrYlplUVI0SUlnLXhYX3NjajQ2MC1kY2FESUJWUXp6NjhKcFNxa3ozb3puc2NpN2RoTzlSbUptWW4wM3k0Q3JNVTB4OUY5NWpzTzBkQzdXV1N5eGZoVGFaZkpNNEg0OFhRUUhxMVdISkNFMmVYcGxPT1pELVRmVmZwTWt6MGItUnNzRU02ZVdF?oc=5"
  },
  {
   "id": "0f1b40e96a",
