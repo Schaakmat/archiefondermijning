@@ -1,12 +1,12 @@
 {
- "run": "18:33",
+ "run": "19:27",
  "datum": "2026-09-04",
- "nieuw": 16,
- "totaal": 2683,
- "verwijderd": 12,
+ "nieuw": 15,
+ "totaal": 2688,
+ "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1036,
-  "geen dossier": 469
+  "niet-nederlands": 1046,
+  "geen dossier": 480
  },
  "bronnen": [
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 169,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 37,
-   "status": "bij",
+   "items": 42,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 153,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 58,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 56,
-   "status": "2 nieuw",
+   "items": 55,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 53,
-   "status": "bij",
+   "items": 54,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 93,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

@@ -1,5 +1,24 @@
 [
  {
+  "id": "ab1472dd6c",
+  "datum": "2026-09-04",
+  "tijd": "18:30",
+  "nieuw": true,
+  "titel": "‘Seksueel roofdier’ probeerde in één nacht twee vrouwen te verkrachten",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Het is een horrorscenario voor iedere vrouw, zegt de officier van justitie. Een man achtervolgt een vrouw op straat en probeert haar met geweld te verkrachten. Zelfs twee keer achter elkaar met verschillende slachtoffers. De verdachte ontkent. “Ik zou dat een vrouw nooit aandoen.”",
+  "link": "https://www.rijnmond.nl/nieuws/2249042/seksueel-roofdier-probeerde-in-een-nacht-twee-vrouwen-te-verkrachten"
+ },
+ {
   "id": "c0f1591a24",
   "datum": "2026-09-04",
   "tijd": "17:59",
@@ -298,7 +317,7 @@
   "id": "5ab60eff61",
   "datum": "2026-09-04",
   "tijd": "14:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Onrust in Kampen na explosie, burgemeester sluit woning",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -321,7 +340,7 @@
   "id": "aef062cfd4",
   "datum": "2026-09-04",
   "tijd": "14:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Huis in Helmond voor drie maanden gesloten vanwege hennepkwekerij op zolder",
   "bron": "Omroep Brabant",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -453,27 +472,6 @@
   ],
   "samenvatting": "Een minderjarige jongen werd vrijdagochtend dood gevonden in een woning aan de Léharstraat in Eerbeek. De politie gaat uit van een misdrijf en hield dezelfde ochtend een volwassene aan na de vondst van de jongen.",
   "link": "https://www.gld.nl/nieuws/8518195/rector-geschokt-door-dood-12-jarige-leerling-uit-eerbeek"
- },
- {
-  "id": "d72e872ac5",
-  "datum": "2026-09-04",
-  "tijd": "13:00",
-  "nieuw": false,
-  "titel": "Plan voor treinstation in Uden is nobel, maar volgens expert kansloos",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Jeugd & jonge aanwas",
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "bedrijventerrein",
-   "school"
-  ],
-  "samenvatting": "Een petitie van de 19-jarige scholier Julian Leijnse voor een treinstation in Uden is in een paar dagen tijd al bijna 2000 keer ondertekend. Toch is de kans klein dat er een station Uden komt. Dat zegt Paul van de Coevering, professor mobiliteit en stedelijke ontwikkeling aan Breda University of Applied Sciences. Volge",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026030/plan-voor-treinstation-in-uden-is-nobel-maar-volgens-expert-kansloos"
  },
  {
   "id": "8eb413d0e5",
@@ -51626,6 +51624,25 @@
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVUM1VXlVajRtNTRtbFVlMGpoTXZiUlV6WTNMajVhN2EtM3dsT2l2ZVBFVmYzZGpuR09KcVd5d2xzZHR2OHdxRmNfY2M4VEFlcHZCal9IMHlRODlxdzdxU19YVW1BS0syN3Q3SVExa2Npc0dFM25XZ1dtam9QVmFuRnE3Q0pZaklXX0VHQWFqZU40YVk2Tk9mVkp0RVJOdw?oc=5"
  },
  {
+  "id": "8daec09368",
+  "datum": "2018-04-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gelukt: Mickey en Yoeri de Jong nemen Bibob-hobbel",
+  "bron": "Quote Net",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Gelukt: Mickey en Yoeri de Jong nemen Bibob-hobbel Quote Net",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakc1Y0VzcGcxeEYtWVNNMUZ4NFBGaUpMY002cmFZbHV0WVgteW1vVVBOamNXWDliX0szUEIyQzRQelkyT0RoM3lfRTBhbkNrSHliQ1dCVUZ2OE1tZUJraFdkZnEwZUVLUmhmaG40ZlhqLTFQdlZfVDQ0clgzSmxoUUtkblgwcGc2YXUyRjk3SVhyYkZ0UE5mSzQ2M3c?oc=5"
+ },
+ {
   "id": "bbbd24d1a7",
   "datum": "2018-04-24",
   "tijd": "07:00",
@@ -51707,6 +51724,25 @@
   ],
   "samenvatting": "Twee aanhoudingen voor liquidatie Alexander Gillis Het Parool",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaU1hNWhRWVphNVdzdkVIOF9kcUYwOVdoMEJOSjBsM3BiM2YwUXprdDAwSVVROFZHcC1fTnRBOEswQVQ5SmE5MHhIN0FaVjE5YWpEVGtiNmM1THlkZUN6elZuOHZMYnlSTXRjOXdUSGFoNm1nenczWW0zNzVidmtwM1VlUDBJLTgySUcwQUhUdGVwM3c?oc=5"
+ },
+ {
+  "id": "463768c28d",
+  "datum": "2018-04-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Blokkeert de Bibob de opening van The Oyster Club Rotterdam?",
+  "bron": "Quote Net",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Blokkeert de Bibob de opening van The Oyster Club Rotterdam? Quote Net",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmIwOFhkaUpqVV91cS1ZMm56clBhRFFrc0tlZWRkcUV4UUNLd004UmdYd0pZZF9oWGJ3SGhIZWJSRkdqaTM3aldvamRrdWhsRzV6b29la2hCVTBTaExfYkxJY2hOVmtGU3lONFp6ZDA0bnA1RUVIcUlWcTg3SzUtZl9JRHBzc3BkUjNydW5XQ293d0NaOTAtelQ0U0FJNUVRMENxOGRja1VhQQ?oc=5"
  },
  {
   "id": "3e68dcde3a",
@@ -52825,6 +52861,27 @@
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkp3STFSZFNHY1prQUpDN09WZzVfV3UyX2szMkRSSkZINFNPVGNMemRvOUtwbFc3RFI5eHR6UmRKZ2hDM29CMnBKb1RodW9zT3VtVzNqNXNGVlZ6N1d3aDVwR2dldHVEODIyT29rNkVnRnd4bzc2cHlrc01RaERkcXh2VHphOHltQ1JDaEp2TTBWUXBGUmNxRUNMN3g1NHFLbTZpZG5Ua2JiamdwdUE?oc=5"
  },
  {
+  "id": "7a5d2c2836",
+  "datum": "2016-04-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zwolle sluit Bloopers en Shotto na negatief advies Bibob over 'integriteit aanvrager'",
+  "bron": "RTV Oost",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "bibob",
+   "integriteit"
+  ],
+  "samenvatting": "Zwolle sluit Bloopers en Shotto na negatief advies Bibob over 'integriteit aanvrager' RTV Oost",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa04tV1MzXzVxbUdlTVR4dnpQX2Yzbi12czRlcXJiS2pFOUVyaDJlcGNVbVlpaV83NTNiZGhPR2tzNVE4ZVpRMTBYdFFqUDcwaDg3aHpHLUxmTmxFbUV4RWVNSDNTYXVsR08xTDJraGt2NTU3SDg3anZha0MzQXIzSEJnVm95WlJGdDVXb1RCTTloenA2NjJQSnFoUnVIY0dQMS1uSzAwZHBTUWhNT1ZURDFzTjR3Yi1y?oc=5"
+ },
+ {
   "id": "6dd118c700",
   "datum": "2016-02-25",
   "tijd": "09:57",
@@ -53289,6 +53346,44 @@
   "dossiers": [
    "Vastgoed & huisvesting"
   ]
+ },
+ {
+  "id": "16a3bba74b",
+  "datum": "2009-11-04",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Casa Rosso: bureau Bibob functioneert niet",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Casa Rosso: bureau Bibob functioneert niet Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazFFNDB6WnFwNnpuMDh6YWhPS1V2VjkzM0FrN015Uy1UeVczXzQtVXZ5d1ZHdXJiV2x4eEFONWswS2Faa0RmZ29UdlhPVmx0RURYQmlMV09KdVRGOVpOZTk2X3JhcTBBX0lERWdGVGo1X010Um9IcENPRklxc2VEdUZNRjQtbTQ?oc=5"
+ },
+ {
+  "id": "07e4944978",
+  "datum": "2009-11-04",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Casa Rosso: bureau Bibob functioneert niet",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Casa Rosso: bureau Bibob functioneert niet de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmp4UldiZTk5UU9IMkgxR2R2VUVJQ05DUHdpN1FLNmZISkhPbVJyN0c2VTBWVlFBQXBvbXlTenZBdzRRT3Y5M2ZWdkpwRDBHZTE0Wko5UXQtWGhBNjNfUmJvdWl4d2NNYkI1dm9VMDQ4MG9yQmFLV1pNNWNJRFlHRE1EbnltRTRhbGtMV2xVZ3I5dm5GNnlfVUpaSDA?oc=5"
  },
  {
   "id": "62ad9e39d0",
