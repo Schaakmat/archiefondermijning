@@ -1,5 +1,26 @@
 [
  {
+  "id": "e2c8e37b9d",
+  "datum": "2026-09-04",
+  "tijd": "20:32",
+  "nieuw": true,
+  "titel": "LIVE | Eén agent is thuis, andere is van de IC af • nieuw wapen gevonden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Het is de vierde dag sinds de schietpartij in Overasselt. De woning van Jan G. werd donderdag voor een jaar gesloten. Deze vrijdag werden 32 verdachten voorgeleid aan de rechter-commissaris. Zij blijven voorlopig allemaal veertien dagen langer in hechtenis. In dit liveblog houden we je op de hoogte van het laatste nieu",
+  "link": "https://www.gld.nl/nieuws/8517921/live-een-agent-is-thuis-andere-is-van-de-ic-af-nieuw-wapen-gevonden"
+ },
+ {
   "id": "ab1472dd6c",
   "datum": "2026-09-04",
   "tijd": "18:30",
@@ -191,7 +212,7 @@
   "id": "d6fb708399",
   "datum": "2026-09-04",
   "tijd": "16:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Politie doorzoekt negen huizen • nieuw wapen gevonden",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -212,7 +233,7 @@
   "id": "d34ba07631",
   "datum": "2026-09-04",
   "tijd": "16:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wie deed wat in Overasselt? OM heeft enorme puzzel te leggen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -236,7 +257,7 @@
   "id": "bedba440a8",
   "datum": "2026-09-04",
   "tijd": "15:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Foto gedeeld, tips binnen, maar tweede verdachte PSV-feest blijft spoorloos",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",

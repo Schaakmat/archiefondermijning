@@ -1,12 +1,12 @@
 {
- "run": "20:30",
+ "run": "21:32",
  "datum": "2026-09-04",
- "nieuw": 12,
- "totaal": 2691,
+ "nieuw": 10,
+ "totaal": 2692,
  "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 1044,
-  "geen dossier": 483
+  "geen dossier": 290,
+  "niet-nederlands": 174
  },
  "bronnen": [
   {
@@ -51,7 +51,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 57,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -123,7 +123,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 17,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -375,7 +375,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 18,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -407,12 +407,12 @@
   },
   {
    "naam": "Rijksoverheid",
-   "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
+   "url": "feeds.rijksoverheid.nl/nieuws.rss",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 31,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "Politie",
@@ -420,8 +420,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 58,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "Openbaar Ministerie",
@@ -429,8 +429,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 121,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "Rechtspraak — strafzaken",
@@ -438,8 +438,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 8,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "WODC",
@@ -447,8 +447,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 55,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "RIEC / LIEC / CCV",
@@ -456,8 +456,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 30,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "NOS — binnenland",
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 93,
-   "status": "bij",
+   "items": 94,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -551,12 +551,12 @@
   },
   {
    "naam": "AT5 / Amsterdam",
-   "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
+   "url": "www.at5.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 42,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "Regio — zuid & oost",
@@ -564,8 +564,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 85,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "Gemeenten & burgemeesters",
@@ -573,8 +573,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 35,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   }
  ]
 }
