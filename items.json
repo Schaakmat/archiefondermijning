@@ -1,5 +1,133 @@
 [
  {
+  "id": "5ab60eff61",
+  "datum": "2026-09-04",
+  "tijd": "14:29",
+  "nieuw": true,
+  "titel": "Onrust in Kampen na explosie, burgemeester sluit woning",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "Burgemeester Sander de Rouwe heeft een woning in Kampen tijdelijk gesloten. In de nacht van 25 op 26 augustus vond bij de woning een explosie plaats. Met deze maatregel hoopt De Rouwe de rust en veiligheid in de buurt te herstellen.",
+  "link": "https://www.oost.nl/nieuws/3692017/onrust-in-kampen-na-explosie-burgemeester-sluit-woning"
+ },
+ {
+  "id": "aef062cfd4",
+  "datum": "2026-09-04",
+  "tijd": "14:21",
+  "nieuw": true,
+  "titel": "Huis in Helmond voor drie maanden gesloten vanwege hennepkwekerij op zolder",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Huis in Helmond voor drie maanden gesloten vanwege hennepkwekerij op zolder Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNmo3d2gxZER1OG8wWHFTeXZRSVFFcmlpWkNyS25UZ1kxeDlPR0xsZUU4WjZ1Y3BtNy0yS242OENzdzROVGJYSHVSRFZMMHBDUTNPVkpYUzB5YWEyR091MWl0TWZsUlBqVmxiQ2Z5SE80ZlZwR0hjUVJobGdzdWFZQ1pZZkYtRXhLeHp0Z1RlSk1RRENlaE9kMGNwMVJJVXFHbTNmZlRTelVuOGdvOHhLMWxCbklQOHpRR1dv?oc=5"
+ },
+ {
+  "id": "be54f54b98",
+  "datum": "2026-09-04",
+  "tijd": "14:12",
+  "nieuw": true,
+  "titel": "Huis in Helmond voor drie maanden gesloten vanwege hennepkwekerij op zolder",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "hennep",
+   "hennepkwekerij",
+   "woning"
+  ],
+  "samenvatting": "Een huis aan de Vinkelaan in Helmond is donderdag voor drie maanden gesloten omdat er een hennepkwekerij op zolder is gevonden. De drie bewoners moesten het huis uit. Zij verblijven tijdelijk op een andere plek. De actieve hennepkwekerij werd vorige maand door de politie ontdekt. Ook werd er illegaal elektriciteit afge",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026046/huis-in-helmond-voor-drie-maanden-gesloten-vanwege-hennepkwekerij-op-zolder"
+ },
+ {
+  "id": "de7c57463a",
+  "datum": "2026-09-04",
+  "tijd": "14:10",
+  "nieuw": true,
+  "titel": "LIVE | Media niet welkom op sportpark • nog een woning op slot",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Het is de vierde dag sinds de schietpartij in Overasselt. De woning van Jan G. is gesloten voor een jaar. Vandaag worden 32 verdachten voorgeleid aan de rechter-commissaris. In dit liveblog houden we je op de hoogte van het laatste nieuws.",
+  "link": "https://www.gld.nl/nieuws/8517921/live-media-niet-welkom-op-sportpark-nog-een-woning-op-slot"
+ },
+ {
+  "id": "3b32a1356d",
+  "datum": "2026-09-04",
+  "tijd": "13:54",
+  "nieuw": true,
+  "titel": "Nog steeds honderden vrachtwagens per dag over Merwedebrug ondanks verbod",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages",
+   "Cocaine, haven & logistiek",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "kentekens",
+   "vrachtwagen"
+  ],
+  "samenvatting": "Ondanks het vrachtwagenverbod rijden er nog steeds elke werkdag gemiddeld tussen de 500 en 550 vrachtwagens en touringcars over de verzwakte Merwedebrug. Van 17 tot en met 21 augustus deelden motoragenten tijdens een handhavingsactie 215 boetes uit. Dat het totale aantal zware voertuigen ondanks de actie niet is afgeno",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026042/nog-steeds-honderden-vrachtwagens-per-dag-over-merwedebrug-ondanks-verbod"
+ },
+ {
+  "id": "0bd21e4c27",
+  "datum": "2026-09-04",
+  "tijd": "13:44",
+  "nieuw": true,
+  "titel": "Roemeense aanklagers spannen nieuwe zaak tegen Andrew Tate aan, dit keer voor mensenhandel in minderjarigen",
+  "bron": "Puna.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Roemeense aanklagers spannen nieuwe zaak tegen Andrew Tate aan, dit keer voor mensenhandel in minderjarigen Puna.nl",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGxHdm5obk44NlU4WDc3b213V2ljQnZvY1d5VUpPNlRaT2Q2SXRnLUg5TlVtNnd5SHk0SF9aYmk3RnYtbXdEbE5JTXRYR1hNbUpjREgxQWtib3oxNWtUMDh3bUlCZlRfVWEtbm5McHA3YmFxcUphS0NJV0Z6cnhlWkpucnZpMFkzZnV2Z3FydkV6bVNKOTlKamdVcnQ0b09aWXpvbkIwZ1ZMZmgzQkVHQzdtQTRJYm1uUmN6NEpsTXItcVZTeEJCdlVFTQ?oc=5"
+ },
+ {
   "id": "ad67d0886b",
   "datum": "2026-09-04",
   "tijd": "13:09",
@@ -159,6 +287,25 @@
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMjlTSFU0Tzc1M1ZwbzRpc01GUkhmbWY0SFBTNnBzaThQMFJzQUNqNTBoYW9aT2lrTjY2QXdYcXFCdHZNWmltbjNOblBxTlRGWUhzZEdsNmVkR3gxMWdHMENhemJrd3NENlhBaXRxRnlVZ0VjdDVydklIdmxnUm8zbF9YS3UxM19UbXBZcGtVZ05YY2V6OUZUbHNIaEFOdk9WS2RudGRnbFNldDE2YUtwMUxHMlRscXZHNFpNeUxmanM1b1Fh?oc=5"
  },
  {
+  "id": "19e7954887",
+  "datum": "2026-09-04",
+  "tijd": "12:14",
+  "nieuw": true,
+  "titel": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen",
+  "bron": "gelderlander.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen gelderlander.nl",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLWlIM3ZNN05FeWp4SXBsbkUxWEhKYm9LQUtqbnlpVUZCSlN2VXhxRDdVaUVjNnlkSGlBWmQ5Z3pRUVk5djNHWk9HXy13Vml6NnJuY3RqRFRLQWNmZ0x1dG53S0dEX3ZPVjlGOE1uMmxQZm0yLVRlYmx4YlFwb1YtbFB3bXpHMGtMVUdDSDVBUnFlVjVGVmNrdHBlZGdDMC1nRGloMDh0X0dyUS1BQ0prRTFkZ0tlYU9qUFQ1eHllb2ZxOXJvQXA3OFlR?oc=5"
+ },
+ {
   "id": "e0858efe29",
   "datum": "2026-09-04",
   "tijd": "12:04",
@@ -277,7 +424,7 @@
   "id": "75c41bf92e",
   "datum": "2026-09-04",
   "tijd": "11:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "12-jarige jongen dood gevonden in woning Eerbeek, politie houdt verdachte aan",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -296,7 +443,7 @@
   "id": "04d8e50772",
   "datum": "2026-09-04",
   "tijd": "11:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel in minderjarigen en witwaspraktijken",
   "bron": "VRT",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -317,7 +464,7 @@
   "id": "b68b314483",
   "datum": "2026-09-04",
   "tijd": "11:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel in minderjarigen en witwaspraktijken",
   "bron": "Nieuwsblad",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -338,7 +485,7 @@
   "id": "d40cb12f46",
   "datum": "2026-09-04",
   "tijd": "11:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Onderwereldexpert Oliver Bullough: ‘Ook de schietpartij in Overasselt is veroorzaakt door witwassen’",
   "bron": "Het Financieele Dagblad",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -357,7 +504,7 @@
   "id": "467fed0954",
   "datum": "2026-09-04",
   "tijd": "11:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hennepkwekerij met 300 planten ontdekt aan De Boldert in Grou",
   "bron": "Grousters.nl",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -376,7 +523,7 @@
   "id": "dd728e78e9",
   "datum": "2026-09-04",
   "tijd": "10:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dronten - Oppositie wil debat over nieuwe noodopvang bij Walibi, ondanks 'nee' in coalitieakkoord",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -391,6 +538,25 @@
   ],
   "samenvatting": "Zijn de coalitiepartijen in de gemeenteraad van Dronten bereid om de plannen rond de tijdelijke opvang voor asielzoekers in Biddinghuizen te heroverwegen? Die vraag stellen de oppositiepartijen D66, ChristenUnie, PRO Dronten en Dronten Sociaal volgende week donderdag in een speciaal actualiteitendebat. Directe aanleidi",
   "link": "https://www.omroepflevoland.nl/nieuws/522558/oppositie-wil-debat-over-nieuwe-noodopvang-bij-walibi-ondanks-'nee'-in-coalitieakkoord"
+ },
+ {
+  "id": "d00d34b151",
+  "datum": "2026-09-04",
+  "tijd": "09:39",
+  "nieuw": false,
+  "titel": "Uithaler zet vermeende Servische drugsbaas uit de wind: “Ik heb alles geregeld”",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "uithaler"
+  ],
+  "samenvatting": "Uithaler zet vermeende Servische drugsbaas uit de wind: “Ik heb alles geregeld” Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMGFYc19XcWE4dVctcThreDJBRnl4Wk1IZ050RHRra2xJT3h4ZldqdU0tVlo4di0yTlBMRmFBaFJtY0JUeXpRaGpwLUVIVnpibEVsYk9kSm1sMGNvaEZTU0xJSFJmdGdVZk5PUExYMGlQRDNkOUlUMlBIc19DZFFTT0NLdWtPeWpDUGtQM1Zuem5fSDg3OGdRb1FDVTVqOThJcHR2N0lWdEZmc0l1WDVFNjhzQUstUkJjUVlORHA4RklSclhoLW1uY2JMbUtSeHVSSXR4YkJnZ3o4U3gzWXBhZ3NIOGNuWnlwU2dPbW56V3A?oc=5"
  },
  {
   "id": "76ab23bea9",
@@ -1169,27 +1335,6 @@
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcEdrQmxpdW80UzE3TnJNeWFMNzU1aVVCUjB2Rm1rUUx0NTFvX1JKZE9WVjczanJPbFMyZmVfVE94bUU1UmxTblMxb01NT0FFdGdhUkdUVVBCcW5aQnlDN1RYbnJleFY0ei1FQzd3eWtkVGpWcVFTX1JUWU53V0hyRW5SS1pvM0NneGJ2Y2MyWlpiQlVwWlNyRzAzRXh6UjZ2UmMtTWhHMVZjUlI5YzFmMVAxVXcxMDVMaXE2cmZxZXpIMlA3b1NmVG9GcUtKUkhLVWs0?oc=5"
  },
  {
-  "id": "25dfb98d39",
-  "datum": "2026-09-03",
-  "tijd": "17:15",
-  "nieuw": false,
-  "titel": "Inbraak Proeflokaal en datalek bij sociale dienst: dit mag je niet missen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Zorgfraude & sociale zekerheid"
-  ],
-  "tags": [
-   "geweld",
-   "uitkering"
-  ],
-  "samenvatting": "Van het bloemencorso in Zundert tot een datalek bij de Intergemeentelijke Sociale Dienst (ISD) Brabantse Wal. Dit zijn de vijf artikelen die je op donderdag gelezen moet hebben. Vrijwilligers van het Proeflokaal in Heeswijk-Dinther troffen woensdagochtend een ravage aan. Inbrekers hadden in de nacht van dinsdag op woen",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025877/inbraak-proeflokaal-en-datalek-bij-sociale-dienst-dit-mag-je-niet-missen"
- },
- {
   "id": "95ad3cdf57",
   "datum": "2026-09-03",
   "tijd": "17:06",
@@ -1756,27 +1901,6 @@
   ],
   "samenvatting": "Brabanders opgepakt na vondst drugslab net over grens bij Pelt, ook doorzoeking in woning in Valkenswaard Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSWdKV0xuUGo4VlR6WURIN0hUUXlObktnbW9xenBvQjRlNl9LMXd6UHJUdy1vYnNQd1A4cDRpLWdTaHBTbGZVdHdrdVE0V2Juajh0TXVnLURMb2pGRWRYMXAxNGJKdlZuQWNBRUViNzRsZVZZZ3RCbHlTTWVzVzFLTlM4cW9Kbi1iTXZDeGx1dThoMU45SndIQ2tFMk44WkgtdXl4d0VYVmluVmQySlMwUWJ3RGZ3OWdXZjQxR2IzNG1BNDZ0RzJwRjZtbVVfQzhEQXVielpQNWhxYndaQmc?oc=5"
- },
- {
-  "id": "4758c892a1",
-  "datum": "2026-09-03",
-  "tijd": "12:31",
-  "nieuw": false,
-  "titel": "Man met mes bedreigd in Breda, omstander pakt wapen af van dader",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Milieucriminaliteit & afval",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "grond",
-   "wapen"
-  ],
-  "samenvatting": "Een 39-jarige man heeft donderdagmiddag een andere man met een mes bedreigd aan het Doctor Jan Ingen Houszplein in Breda. Een omstander greep in en pakte het mes af, maar liep daarbij wel een klein sneetje in zijn hand op. Agenten die waren afgekomen op een melding van een steekpartij, gebruikten een stroomstootwapen o",
-  "link": "https://www.omroepbrabant.nl/nieuws/6025847/man-met-mes-bedreigd-in-breda-omstander-pakt-wapen-af-van-dader"
  },
  {
   "id": "160e6c783d",

@@ -1,12 +1,12 @@
 {
- "run": "13:32",
+ "run": "14:31",
  "datum": "2026-09-04",
- "nieuw": 20,
- "totaal": 2660,
+ "nieuw": 21,
+ "totaal": 2666,
  "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1028,
-  "geen dossier": 474
+  "niet-nederlands": 1037,
+  "geen dossier": 429
  },
  "bronnen": [
   {
@@ -32,7 +32,7 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 136,
+   "items": 138,
    "status": "2 nieuw",
    "ok": true
   },
@@ -50,8 +50,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 55,
-   "status": "bij",
+   "items": 56,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 149,
-   "status": "bij",
+   "items": 150,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 134,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 50,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -509,7 +509,7 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 86,
+   "items": 87,
    "status": "1 nieuw",
    "ok": true
   },
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 40,
-   "status": "bij",
+   "items": 41,
+   "status": "1 nieuw",
    "ok": true
   },
   {
