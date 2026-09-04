@@ -1,12 +1,12 @@
 {
- "run": "17:29",
+ "run": "18:33",
  "datum": "2026-09-04",
- "nieuw": 14,
- "totaal": 2679,
+ "nieuw": 16,
+ "totaal": 2683,
  "verwijderd": 12,
  "geweigerd": {
-  "niet-nederlands": 1038,
-  "geen dossier": 503
+  "niet-nederlands": 1036,
+  "geen dossier": 469
  },
  "bronnen": [
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 168,
-   "status": "bij",
+   "items": 169,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 152,
-   "status": "bij",
+   "items": 153,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -266,7 +266,7 @@
    "url": "news.google.com/rss/search?q=liquidatie%20criminele%20milieu%20OR%20moor",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 57,
+   "items": 58,
    "status": "1 nieuw",
    "ok": true
   },
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 53,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 90,
-   "status": "bij",
+   "items": 93,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 31,
-   "status": "6 nieuw",
+   "items": 29,
+   "status": "4 nieuw",
    "ok": true
   },
   {

@@ -26,6 +26,48 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522621/nieuwsoverzicht-0409-or-crowdfunding-voor-verongelukte-tieners-*-brandweer-doelwit-van-inbraak"
  },
  {
+  "id": "116dab227a",
+  "datum": "2026-09-04",
+  "tijd": "17:51",
+  "nieuw": true,
+  "titel": "Sinan Can: 'Dertig jaar geleden was dit geweld on-Nederlands, nu niet meer'",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "geweld",
+   "ondermijnend",
+   "wapen"
+  ],
+  "samenvatting": "Precies in de week dat een grote groep gewapende mannen Overasselt onveilig maakt, komt Sinan Can met een nieuwe serie over ondermijnende drugsmisdaad: Drugsdelta. De Nijmeegse journalist en documentairemaker is te gast in de nieuwe podcast 'Koppencast' van Omroep Gelderland.",
+  "link": "https://www.gld.nl/nieuws/8518212/sinan-can-dertig-jaar-geleden-was-dit-geweld-on-nederlands-nu-niet-meer"
+ },
+ {
+  "id": "107ca16647",
+  "datum": "2026-09-04",
+  "tijd": "17:34",
+  "nieuw": true,
+  "titel": "Minister bevraagd over veiligheidsrisico's rondom Jan G.",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "kamervragen"
+  ],
+  "samenvatting": "VVD-Kamerleden Claire Martens-America en Ulysse Ellian hebben minister David van Weel van Justitie en Veiligheid Kamervragen gesteld over de schietpartij van deze week in Overasselt. Ze vragen onder meer om een verklaring waarom het vermeende doelwit, Jan G., in vrijheid zijn hoger beroep mocht afwachten.",
+  "link": "https://www.gld.nl/nieuws/8517674/minister-bevraagd-over-veiligheidsrisicos-rondom-jan-g"
+ },
+ {
   "id": "43313a6d13",
   "datum": "2026-09-04",
   "tijd": "17:27",
@@ -47,6 +89,44 @@
   ],
   "samenvatting": "Boeren, bouwers en natuurbeschermers reageren wisselend op de analyse die het Planbureau voor de Leefomgeving (PBL) maakte over de stikstofplannen van het kabinet. Het PBL concludeert dat Nederland niet van het stikstofslot gaat, maar het kabinet wel belangrijke stappen zet. Voor een deel van de boeren zijn de plannen ",
   "link": "https://nos.nl/l/2629677"
+ },
+ {
+  "id": "284416b875",
+  "datum": "2026-09-04",
+  "tijd": "17:26",
+  "nieuw": true,
+  "titel": "Andrew en Tristan Tate aangeklaagd voor mensenhandel",
+  "bron": "Newsmonkey -",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Andrew en Tristan Tate aangeklaagd voor mensenhandel Newsmonkey -",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY05WLWtoMUxIYnBZc1BqZUpCZV9JZ1M0TG0tc1RwUGYyVWc4MHlPMGZDcUJuRDFxSVE4ZkZEU185R3pzMWZhWDNvSGJramJZc3B1TWZrWGpiTGtDN1F2QTA4NTVXeUFHUVZuMHZ1UVFMWXBkOUpqVlE5OTBJSWM0Xw?oc=5"
+ },
+ {
+  "id": "b9640512fe",
+  "datum": "2026-09-04",
+  "tijd": "17:20",
+  "nieuw": true,
+  "titel": "Simpele ID-check ontspoort volledig: mannen veroordeeld voor mishandelen agenten",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Een controle op een identiteitsbewijs liep vorig jaar in Lochem uit op geweld tegen twee politieagenten. Twee mannen die daarbij betrokken waren, zijn door de rechtbank veroordeeld voor mishandeling. Andy J. (22) krijgt honderd uur taakstraf, Joeri D. (23) moet tachtig uur werken.",
+  "link": "https://www.gld.nl/nieuws/8518106/simpele-id-check-ontspoort-volledig-mannen-veroordeeld-voor-mishandelen-agenten"
  },
  {
   "id": "41321053f6",
@@ -261,7 +341,7 @@
   "id": "096efc8a2f",
   "datum": "2026-09-04",
   "tijd": "14:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester Brummen 'diep geraakt' door dood 12-jarige jongen in Eerbeek",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -282,7 +362,7 @@
   "id": "be54f54b98",
   "datum": "2026-09-04",
   "tijd": "14:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Huis in Helmond voor drie maanden gesloten vanwege hennepkwekerij op zolder",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -591,6 +671,25 @@
   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYk5YOG9kQkNaVE1naTJ4ZnhUSU9aUDJISXUxWTNMcldVcTFnX2UzRDFuV0thMDlvMC0xbnpaQ2ZvYXdPSUxLc094LUhtTGVYTmszY09uQ00yRHJrVW9UeERUdU5TRVJKQlVSUFJxWExwUDdCRFQxalNBS3hfeUVRM29OazlpM2xpcGtvMV9BZXVvOThMaG9hNlpNSnNKSHFUckZjalJtRVh0Tl80Vm5Qa1VIbEFxNFF6QTdGd0dTMmkwSmY5cTJDbGtXOTl3QjVhUllIWnF1TW82OEItRU1DLTV5bw?oc=5"
  },
  {
+  "id": "0b34522bfe",
+  "datum": "2026-09-04",
+  "tijd": "12:00",
+  "nieuw": false,
+  "titel": "Curaçao meldt vooruitgang in strijd tegen witwassen, maar onderliggend CFATF-rapport nog niet openbaar",
+  "bron": "Curacao.nu",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Curaçao meldt vooruitgang in strijd tegen witwassen, maar onderliggend CFATF-rapport nog niet openbaar Curacao.nu",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUjRQem1oUlFvWHNIaklscG5NNEZsQUhBalpsRUJIb2tIVjVmVWdPZG5sOVdHdFJRV25JRzNUa3ZLMU52RzNzeWZaam9YVHVMdDg5NTZwZjBoSFlRdXlwcE4wUW9ZZjl6dGFkZnU2TERuMDBiSG1rRmxSbXcxc1NBLXNseWNtVzhuTWFCaUhEb3lSbThYYnVHQWRkNFVRYkl5QmdQcFZkNDdNclRraEZHYXJQMXRZbjdQMjUxczlQZnN4Q1JqNWNNR216QlhpZHBPYVYybzNZSEJ4MzIwV0c4?oc=5"
+ },
+ {
   "id": "129650eb75",
   "datum": "2026-09-04",
   "tijd": "11:54",
@@ -765,26 +864,6 @@
   ],
   "samenvatting": "Hennepkwekerij met 300 planten ontdekt aan De Boldert in Grou Grousters.nl",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVpYVzJVZ2UzU3RhZkE4QjIxcmo5STlkTUxSN2RvYU9JOHJjaXpmS2N2MVZlMmJWMVBRTXBZbEMwbEtKcEJHemFqY29ES3N0bmMwZXpvWWFtMTRiMjdmUmJHRmZUOW5rb0RaR0xZdW93eXVIOVE4a1pyMDNrc3YwbWg5LWFWczVXeXlIOWJscHpjUUs3ZXVuOXl3?oc=5"
- },
- {
-  "id": "dd728e78e9",
-  "datum": "2026-09-04",
-  "tijd": "10:23",
-  "nieuw": false,
-  "titel": "Dronten - Oppositie wil debat over nieuwe noodopvang bij Walibi, ondanks 'nee' in coalitieakkoord",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak"
-  ],
-  "tags": [
-   "burgemeester",
-   "gemeenteraad"
-  ],
-  "samenvatting": "Zijn de coalitiepartijen in de gemeenteraad van Dronten bereid om de plannen rond de tijdelijke opvang voor asielzoekers in Biddinghuizen te heroverwegen? Die vraag stellen de oppositiepartijen D66, ChristenUnie, PRO Dronten en Dronten Sociaal volgende week donderdag in een speciaal actualiteitendebat. Directe aanleidi",
-  "link": "https://www.omroepflevoland.nl/nieuws/522558/oppositie-wil-debat-over-nieuwe-noodopvang-bij-walibi-ondanks-'nee'-in-coalitieakkoord"
  },
  {
   "id": "d00d34b151",
@@ -1038,29 +1117,6 @@
   ],
   "samenvatting": "Een minderjarig persoon is vrijdagochtend dood gevonden in een woning aan de Léharstraat in Eerbeek. Dat meldt de politie.",
   "link": "https://www.gld.nl/nieuws/8517976/12-jarige-jongen-dood-gevonden-in-woning-eerbeek-politie-gaat-uit-van-misdrijf"
- },
- {
-  "id": "60c8ad11b6",
-  "datum": "2026-09-04",
-  "tijd": "07:33",
-  "nieuw": false,
-  "titel": "Almere - Hotel in Almere schrikt van verhoging toeristenbelasting en schrijft brandbrief aan politiek",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "camping",
-   "ondernemers",
-   "organisatie"
-  ],
-  "samenvatting": "Hotel Van der Valk in Almere luidt de noodklok over de voorgenomen verhoging van de toeristenbelasting. De gemeente Almere wil de belasting verhogen van 7 naar 10 procent. Het hotel schrijft in een brandbrief \"erg geschrokken\" te zijn en er \"vrij weinig van te snappen.\" Volgens de hotelketen is een stijging van ruim 40",
-  "link": "https://www.omroepflevoland.nl/nieuws/522497/hotel-in-almere-schrikt-van-verhoging-toeristenbelasting-en-schrijft-brandbrief-aan-politiek"
  },
  {
   "id": "443ce5ab51",
@@ -44815,6 +44871,25 @@
   ],
   "samenvatting": "Burgemeester Halsema haalt uit naar Forum voor Democratie om ondermijning democratie Het Parool",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0o0OWo1RU1VMC1oMmdlQTJYcVJRNzVKa3FkQnE4elpteDZWZ1hSMUs0Z2w1XzRIUTNYdW5VOUN4R2JVdWhldnV1Z1ctU3VpRURjaTM1U3NpZzdQYnljTzVhaWFVaDcyWXAzM2xNTlRtZGplZ2d2OW82ZkdGTzdoN1JnM216Y1ZZRUVjVWV5Ykdac3BwaV9NU3pmSFNoLUlTaFhmdzNqbFRuNmhEQWFxd3d6S3BRcmZBSXQ5TUU5ZUE?oc=5"
+ },
+ {
+  "id": "175eefa66a",
+  "datum": "2022-11-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Verdachte moord op Mike Duif is volgens advocaat al jaren ‘een brave burger’, maar toch komt hij niet vrij",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Geweld, liquidaties & bedreiging",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "Verdachte moord op Mike Duif is volgens advocaat al jaren ‘een brave burger’, maar toch komt hij niet vrij AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZUxvLWtqV0s0OWtaYzJPNlpRWjBtajBVcnFNY2FTVmNYMmo3RUwyVktqcG5RUm5SQmVtbzItUTJfNk5vTzlmVFN0a2tXQ2ZWZEZlVHlNazRnTU5QQ2xiQXR4T0IzQjJYY29mdVZpbEZuUVZKeFpZYW9MeWFMakpfS2tvVEF2R2xXcUZSY2NpTnZaVHd5eE44enZ2Uk41bmVwTTFIREJYVjRPdXFXZTNpbjNKc1BIbEJJMW0zZ0lBZTZfNUViWEFFeUN5UktJT0ZTVzZ5aHFjeXFDZw?oc=5"
  },
  {
   "id": "84a75cfc60",
