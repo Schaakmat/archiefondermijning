@@ -1,12 +1,12 @@
 {
- "run": "23:28",
- "datum": "2026-09-03",
+ "run": "00:38",
+ "datum": "2026-09-04",
  "nieuw": 22,
- "totaal": 2571,
+ "totaal": 2573,
  "verwijderd": 20,
  "geweigerd": {
-  "niet-nederlands": 1027,
-  "geen dossier": 469
+  "niet-nederlands": 1008,
+  "geen dossier": 464
  },
  "bronnen": [
   {
@@ -50,8 +50,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 53,
-   "status": "bij",
+   "items": 54,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 164,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 140,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 83,
-   "status": "bij",
+   "items": 84,
+   "status": "1 nieuw",
    "ok": true
   },
   {
