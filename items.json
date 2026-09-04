@@ -1,5 +1,65 @@
 [
  {
+  "id": "ad67d0886b",
+  "datum": "2026-09-04",
+  "tijd": "13:09",
+  "nieuw": true,
+  "titel": "Rector geschokt door dood 12-jarige leerling uit Eerbeek",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Een minderjarige jongen werd vrijdagochtend dood gevonden in een woning aan de Léharstraat in Eerbeek. De politie gaat uit van een misdrijf en hield dezelfde ochtend een volwassene aan na de vondst van de jongen.",
+  "link": "https://www.gld.nl/nieuws/8518195/rector-geschokt-door-dood-12-jarige-leerling-uit-eerbeek"
+ },
+ {
+  "id": "d72e872ac5",
+  "datum": "2026-09-04",
+  "tijd": "13:00",
+  "nieuw": true,
+  "titel": "Plan voor treinstation in Uden is nobel, maar volgens expert kansloos",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Jeugd & jonge aanwas",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "bedrijventerrein",
+   "school"
+  ],
+  "samenvatting": "Een petitie van de 19-jarige scholier Julian Leijnse voor een treinstation in Uden is in een paar dagen tijd al bijna 2000 keer ondertekend. Toch is de kans klein dat er een station Uden komt. Dat zegt Paul van de Coevering, professor mobiliteit en stedelijke ontwikkeling aan Breda University of Applied Sciences. Volge",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026030/plan-voor-treinstation-in-uden-is-nobel-maar-volgens-expert-kansloos"
+ },
+ {
+  "id": "8eb413d0e5",
+  "datum": "2026-09-04",
+  "tijd": "12:56",
+  "nieuw": true,
+  "titel": "Rotterdammers vrezen wraak na verdwenen cocaïne, OM eist nu jaren cel",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne",
+   "douane"
+  ],
+  "samenvatting": "Het Openbaar Ministerie heeft 3,5 en 3 jaar cel geëist tegen twee Rotterdammers. De twee mannen (39 en 28 jaar) worden ervan verdacht samen 23 kilo cocaïne te hebben gesmokkeld. De douane kwam de mannen op het spoor nadat de lading cocaïne vanuit Sint Maarten was gevolgd.",
+  "link": "https://www.rijnmond.nl/nieuws/2248875/rotterdammers-vrezen-wraak-na-verdwenen-cocaine-om-eist-nu-jaren-cel"
+ },
+ {
   "id": "ef20997295",
   "datum": "2026-09-04",
   "tijd": "12:51",
@@ -116,6 +176,25 @@
   ],
   "samenvatting": "Een inbreker heeft vannacht geprobeerd om redgereedschap te stelen bij de brandweerkazerne in Almere Buiten. De inbreker had waarschijnlijk niet door dat dit een permanent bemande brandweerpost is. Rond 02.30 uur werden brandweerlieden die daar lagen te slapen wakker van de geluiden die de inbreker maakte. Ze stormden ",
   "link": "https://www.omroepflevoland.nl/nieuws/522566/inbreker-op-heterdaad-betrapt-bij-brandweerkazerne-almere-buiten-probeerde-redgereedschap-te-stelen"
+ },
+ {
+  "id": "86440eabaf",
+  "datum": "2026-09-04",
+  "tijd": "12:02",
+  "nieuw": true,
+  "titel": "Achtervolging in Apeldoorn eindigt bij hennepkwekerij vol ‘gestolen e-bikes’",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Achtervolging in Apeldoorn eindigt bij hennepkwekerij vol ‘gestolen e-bikes’ de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTlNEa1BXRDZPY2UwTmxjMGctaUNmbVVGNl92V2JUVXZZUWZJdjRJTkZWbXE5MXRrSXdvUFFJMjJTcVNqSXZkU1c2UVZVSXpYNk9jcFduenZfZDlEaW4wS2xKcUpLbW8yT1lWX3dmOXR1U1VZRXZyVWZHcDJFY3BKOG9GcHM4YUFxenZjakdiWjEyMVd5UjNwSXlmOF9aZjhNdHFVaDZfS3F1aDdNcWFjVF9rUkVYSHQwMFFfc0Y0eUszbDJRaU5IZUpn?oc=5"
  },
  {
   "id": "129650eb75",
@@ -317,7 +396,7 @@
   "id": "76ab23bea9",
   "datum": "2026-09-04",
   "tijd": "09:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Andrew Tate officieel aangeklaagd voor mensenhandel, witwassen en seks met minderjarige",
   "bron": "Vandaag Inside",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -338,7 +417,7 @@
   "id": "2af477e1c5",
   "datum": "2026-09-04",
   "tijd": "09:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - Brand in leegstaand woongebouw van Philadelphia Zorg in Emmeloord, mogelijk brandstichting",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -357,7 +436,7 @@
   "id": "1f7023a423",
   "datum": "2026-09-04",
   "tijd": "08:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Arrestatieteam pakt twee mannen op na vuurwapenmelding",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -378,7 +457,7 @@
   "id": "0efc298cf0",
   "datum": "2026-09-04",
   "tijd": "08:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Garagebox met zwaar vuurwerk gevonden door politie na tip",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -399,7 +478,7 @@
   "id": "ce595b49c5",
   "datum": "2026-09-04",
   "tijd": "08:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM vervolgt 32 verdachten Overasselt voor moord",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -418,7 +497,7 @@
   "id": "b3185efe1a",
   "datum": "2026-09-04",
   "tijd": "08:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Roosendaal past Diftar aan voor minder afvaldumping",
   "bron": "Omroep Brabant",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -437,7 +516,7 @@
   "id": "307741d018",
   "datum": "2026-09-04",
   "tijd": "08:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Weer een tijdelijke oplossing', zegt hoogleraar Michelle Bruijn over sluiting woning",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -1477,34 +1556,6 @@
   ],
   "samenvatting": "Criminelen zorgen al jaren voor een verhoogd dreigingsniveau voor politici in de gemeente Heumen. Bij het huis van burgemeester Joerie Minses hangen camera's en ook het huis van oud-burgemeester Marriët Mittendorff wordt nog steeds extra beveiligd.",
   "link": "https://www.gld.nl/nieuws/8517798/huis-burgemeester-heumen-beveiligd-met-politiecameras-er-wordt-voor-mij-gezorgd"
- },
- {
-  "id": "c3eead27e8",
-  "datum": "2026-09-03",
-  "tijd": "15:00",
-  "nieuw": false,
-  "titel": "Almere - Groen licht voor omstreden coffeeshop in Almere Buiten: kan binnen twee maanden open",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Corruptie & integriteit",
-   "Horeca, winkels & dienstverlening",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "burgemeester",
-   "coffeeshop",
-   "grond",
-   "integriteit",
-   "school",
-   "vergunning"
-  ],
-  "samenvatting": "Het plan voor een coffeeshop aan de Evenaar in Almere Buiten krijgt definitief groen licht. Dat heeft burgemeester Hein van der Loo besloten. De verwachting is dat de coffeeshop binnen een of twee maanden de deuren zal openen. De komst van een vierde coffeeshop in Almere is een langslepend dossier dat wordt gekenmerkt ",
-  "link": "https://www.omroepflevoland.nl/nieuws/522447/groen-licht-voor-omstreden-coffeeshop-in-almere-buiten:-kan-binnen-twee-maanden-open"
  },
  {
   "id": "5e7c12bc76",
@@ -17935,6 +17986,25 @@
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWjRLdk5Tb1dDTHFoWWR2bFE1YWlhQ0JGRV9NLWh6UW4tU1hfdWR6bXlBclM3Tng4VndCekI2Z0xjQ0NaWWJuUXYyYS1pNThMc25PaDNTWGliUnlQSlRIT0NFd2pjRm9OMWJtNXNWU1dQREo1NFRZbWZIYkRrUDVUaG04cmNZRnRWR3JlSWxsNW1jLU01ZE9WdVhtOTkxQUpxZ1RkaFI3bTk2ZVdwZ3h4QzMtVE9IUjg3OXc?oc=5"
  },
  {
+  "id": "deba270a11",
+  "datum": "2026-06-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij met 190 planten gevonden in kelder van woning Zaandam [update]",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij met 190 planten gevonden in kelder van woning Zaandam [update] Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMlZfbTBJQlhvTFNIX3ZBd2tlVzBwUFo2dS1BQ0JTOGZfN2laeDZ2a3FhSE5OcGRESFZvNWRMS1RxN0NZVlRkVUo1Sy1FNS12aEN0X2NkWUlicUVCQk1nb2MxNVdkY2pkM2tCOS1jRVNxMmJDcGhIbGQ0OG91U2VFSGJGbWI4SjJ5OWVjVlJSQUg0VlJsc1RhVVRVV2VjVlNlMWtlNS02MVljSHNIc1ZTNDA2RkEtRnVUQmtEZ19fRHZlcmY0ci15YWNtd2xRMmg5SjRYemx2Z19HQTBzNmlBd3l3WlpHVDA0cThBS0hLSzNlX2stZzcw?oc=5"
+ },
+ {
   "id": "29713c9204",
   "datum": "2026-06-08",
   "tijd": "07:00",
@@ -24173,6 +24243,28 @@
   ],
   "samenvatting": "Burgemeester Marcouch sluit pand op Geitenkamp in verband met hennepkwekerij Arnhemse Koerier",
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHVGLXcxZ0xDc2tWSlhaXzl4elhtSUdsQThJTFpTMngwTVl0R01oSlRzTlJ5LUFBX3J6WlV3YnUyVVFmWE5mTm9tNTRhUEh5anY2MkhVVXJqOEpmZHpFaVM1Q1RJVGVWQjFPYTVPODNDM2tLRkduWlBnTC10bW8yX3dLeXRYek1FU1JHYmFQUS1lUGNuMTNQTi1DcExfUTJuc1kydnp0d2Fsd0NKSWxTM0dCWms1aVN5V2JCelhJMHEzUWloUUp4Ykd3?oc=5"
+ },
+ {
+  "id": "93e85a15eb",
+  "datum": "2026-03-25",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drie drugslabo’s opgerold na afvaldumping in Turnhout: “Voor snel geldgewin liet boer 900 varkens aan hun lot over”",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "afvaldumping",
+   "drugslab"
+  ],
+  "samenvatting": "Drie drugslabo’s opgerold na afvaldumping in Turnhout: “Voor snel geldgewin liet boer 900 varkens aan hun lot over” Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVEZiM0xPTWF5WUViSUlTQU9LcF9fT25VbUd4LVhIeXJ1dTVvTTd4dWM0dmFKZjY5NENfRDc5MUhIN29ZWmxXQlFCdG9ReFcwNUR2LVJ2SUJMLXFJUi01SkZNQmQ1MmgxM21ORkUxOHo2YmV4b0c0RGhtQ1Y0b05hZFE0Q0t1aWIxb0RUOGVmSkZiQk8tZFJ4WjRiVllER1Rrb0c5aFMwM1F5SW1vUlFqQUhqX1NCNUhlYmVUVl9ITjR5RXd2amVZc3J2cU5jbXM1MmQ3UldpOGJ1SmNNLXp4MGNqalJDZ2VSSGs4NXM2d203a284U29xaFkyLUtVakoxRVYwTFM2eE5TUXM?oc=5"
  },
  {
   "id": "1aa3cfe8a1",
