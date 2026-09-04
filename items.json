@@ -1,5 +1,24 @@
 [
  {
+  "id": "36ba5eb111",
+  "datum": "2026-09-04",
+  "tijd": "06:59",
+  "nieuw": true,
+  "titel": "Wekdienst 4/9: Staking in Nederlandse havens • Record voor de Italiaanse premier Meloni",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Goedemorgen! In de Nederlandse havens wordt gestaakt, en in de Italiaanse stad Bari is het feest omdat de regering van Meloni de langstzittende is in Italië sinds 1946. Eerst het weer: vandaag waait het stevig, met windkracht 5 in het binnenland en windkracht 7 aan de kust. Er zijn in de kustgebieden ook zware windstot",
+  "link": "https://nos.nl/l/2629596"
+ },
+ {
   "id": "b9abf2d8fc",
   "datum": "2026-09-04",
   "tijd": "05:55",
@@ -21,6 +40,44 @@
   ],
   "samenvatting": "Leden van de Provinciale Staten kunnen vanaf vrijdag zien hoeveel miljoenen er extra nodig zijn voor de buitendijkse haven die bij Urk in het IJsselmeer gebouwd moet gaan worden. Dan liggen er namelijk geheime documenten ter inzage. Volgende maand moeten de Statenleden kiezen of ze akkoord zijn met opnieuw een forse ve",
   "link": "https://www.omroepflevoland.nl/nieuws/522518/geheime-documenten-over-geld-voor-buitendijkse-haven-in-te-zien-voor-statenleden-opnieuw-moet-krediet-omhoog"
+ },
+ {
+  "id": "90321e26ac",
+  "datum": "2026-09-04",
+  "tijd": "04:16",
+  "nieuw": true,
+  "titel": "Vader mishandeld in bijzijn van zoons",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "De politie is op zoek naar een groep jongeren die eerder deze week een man mishandelden in het Zuiderpark in Rotterdam-Charlois. Het slachtoffer was samen met zijn zoons in het park ten tijde van de mishandeling. Hoe het gaat met de man is niet bekend.",
+  "link": "https://www.rijnmond.nl/nieuws/2248781/vader-mishandeld-in-bijzijn-van-zoons"
+ },
+ {
+  "id": "004e0ca151",
+  "datum": "2026-09-04",
+  "tijd": "04:09",
+  "nieuw": true,
+  "titel": "LIVE | Verdachten voorgeleid • meerdere mensen bedreigd",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Het is de vierde dag na de schietpartij in Overasselt. De woning van Jan G. is gesloten voor een jaar. Vandaag worden de 34 verdachten voorgeleid aan de rechter-commissaris. In dit liveblog houden we je op de hoogte van het laatste nieuws.",
+  "link": "https://www.gld.nl/nieuws/8517921/live-verdachten-voorgeleid-meerdere-mensen-bedreigd"
  },
  {
   "id": "49bae495a3",
@@ -403,7 +460,7 @@
   "id": "95ad3cdf57",
   "datum": "2026-09-03",
   "tijd": "17:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie Nederlanders opgepakt bij drugslab in België, ook inval in Valkenswaard",
   "bron": "NOS",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -422,7 +479,7 @@
   "id": "13e2ba25fb",
   "datum": "2026-09-03",
   "tijd": "17:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Invallen in België en Nederland voor actieve drugslab productie grondstoffen versnijding cocaïne",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -446,7 +503,7 @@
   "id": "dc38439d7e",
   "datum": "2026-09-03",
   "tijd": "16:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Na twee verschillende incidenten bij Almeerse kapperszaak komen er nu camera's in de straat",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -475,7 +532,7 @@
   "id": "900059e007",
   "datum": "2026-09-03",
   "tijd": "16:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Oldtimerdag Lelystad staat op de tocht: 'Nieuwe vrijwilligers nodig om evenement te behouden'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -497,7 +554,7 @@
   "id": "fa1a633f16",
   "datum": "2026-09-03",
   "tijd": "16:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mannen uit Valkenswaard en Eindhoven opgepakt in groot drugslab in België",
   "bron": "Omroep Brabant",
   "verzameld_via": "Regio — zuid & oost",

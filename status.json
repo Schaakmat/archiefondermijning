@@ -1,12 +1,12 @@
 {
- "run": "04:31",
+ "run": "05:30",
  "datum": "2026-09-04",
- "nieuw": 24,
- "totaal": 2604,
- "verwijderd": 20,
+ "nieuw": 22,
+ "totaal": 2607,
+ "verwijderd": 19,
  "geweigerd": {
-  "niet-nederlands": 1023,
-  "geen dossier": 463
+  "niet-nederlands": 1035,
+  "geen dossier": 476
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 106,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 142,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 28,
-   "status": "4 nieuw",
+   "items": 29,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -474,8 +474,8 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 4,
-   "status": "fout: TimeoutError",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Investico",
@@ -500,7 +500,7 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 45,
+   "items": 46,
    "status": "1 nieuw",
    "ok": true
   },
@@ -509,7 +509,7 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 74,
+   "items": 75,
    "status": "1 nieuw",
    "ok": true
   },
