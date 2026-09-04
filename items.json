@@ -556,7 +556,7 @@
   "id": "6386c01310",
   "datum": "2026-09-03",
   "tijd": "16:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrienden waarschuwden doodgeschoten beveiliger Berry: 'Moet je dat wel doen?'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -578,7 +578,7 @@
   "id": "f43f70534b",
   "datum": "2026-09-03",
   "tijd": "15:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Minister wil dat jongeren zich verantwoordelijk voelen voor drugsgeweld. Maar stoppen ze daardoor met gebruiken?",
   "bron": "Trouw",
   "verzameld_via": "Nieuws — Jeugd & jonge aanwas",
@@ -599,7 +599,7 @@
   "id": "257d631107",
   "datum": "2026-09-03",
   "tijd": "15:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (41) uit Valkenswaard opgepakt bij oprollen drugslab in Pelt, ook zijn woning doorzocht",
   "bron": "Valkenswaard24",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -620,7 +620,7 @@
   "id": "304be9d6c0",
   "datum": "2026-09-03",
   "tijd": "15:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mannen uit Valkenswaard en Eindhoven opgepakt in groot drugslab in België",
   "bron": "noordbrabant.headliner.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -639,7 +639,7 @@
   "id": "6ed87c45ed",
   "datum": "2026-09-03",
   "tijd": "15:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Waarom Jan G. niet zomaar uit zijn huis in Overasselt kan worden gezet",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -662,7 +662,7 @@
   "id": "3c35ef062b",
   "datum": "2026-09-03",
   "tijd": "15:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inbrekers slaan met truc toe in appartementencomplex Little C: meer dan 20.000 euro buit",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -681,7 +681,7 @@
   "id": "97227d324f",
   "datum": "2026-09-03",
   "tijd": "15:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mannen uit Valkenswaard en Eindhoven opgepakt in groot drugslab in België",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -700,7 +700,7 @@
   "id": "ac53fb74a7",
   "datum": "2026-09-03",
   "tijd": "15:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bejaarde vrouw trapt in babbeltruc: zij geeft waardevolle sieraden en 3000 euro mee aan onbekende vrouw",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -721,7 +721,7 @@
   "id": "503433414a",
   "datum": "2026-09-03",
   "tijd": "15:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Huis burgemeester Heumen beveiligd met politiecamera's",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -740,7 +740,7 @@
   "id": "77e5934bc7",
   "datum": "2026-09-03",
   "tijd": "15:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Huis burgemeester Heumen beveiligd met politiecamera's: 'Er wordt voor mij gezorgd'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -9904,6 +9904,25 @@
   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcDJsY2sxU2FzS0ZPMGxQYXQ3eG5WbDFtMFBzVnVwRmhpSmJrck9nX2tNeEtPdnAxX3RJMUtFeXhoWnRXRHpZcjdiaXJWWi1qTlQ2RWp5SkhYTS1FRm12ZmNhN3pXbmJLTXFDeDRhY09MN0I4V2M0emg1c2xQMHhYdWlxa05PVHNUWWl5N04xZFhwQVd0Y0VXdzlxSGRrQmZ5eUlKRzJ5c095dGxlaDZuTnE1MkxING0zUXhIUHAyVDdzdExoTjRJdUxKd2I4dS1ldXJfWHpvOUJqZ0wyTjV5WnJjUDZEYnA1SGxkbF9Qb25TRVRibXV4NA?oc=5"
  },
  {
+  "id": "cd6d9cc15f",
+  "datum": "2026-08-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vijfde aanhouding in groot onderzoek naar drugshandel en witwassen",
+  "bron": "ad.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Vijfde aanhouding in groot onderzoek naar drugshandel en witwassen ad.nl",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUTFQY0FZa2tGQktxSnROenNWWFpBSlp5UEh0NFI4Z1NWTG9FbWRobVk1WlFqTTVQMDdaN2dCU2poVUpCZWN2TjFzSi13Q0JQRzREbkllZGx5d3BndFV3Q3hBTkx0N0hKb3gwUjliQWlEMzdlZzVfV0pRd1k4S3NHV3pBQ3U4SGpyUHVNUWRTcFk2VWo5WTVleXZBUVpkdnVtNEE0a1NORQ?oc=5"
+ },
+ {
   "id": "b659b37087",
   "datum": "2026-08-20",
   "tijd": "06:00",
@@ -11810,6 +11829,25 @@
   ],
   "samenvatting": "Zuid-Amerikaanse vrouwen slachtoffer van mensenhandel in Maaseik en Hasselt: twee mannen in de gevangenis HBVL",
   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOajV0ZDI5MHp4emtNUFg4TGR0STJMcWZaUVUxMzN3QXctSjBRM21WV1NPV28ydFkzVGFCYVpYSXhueHFSVWpGRU5fRFdJSWhFVm4zN0xUdFRtSHFSUG4yWGFicWZJT0lPdTNxQTJkY3N0RlducVJ2VklQOFdsRmNfYV9va28zR01oRHYzbkJQeC0zUE9sbTdmaEMwUXRLb0pXcjlUemkzaXhnU1BROEtORTNobDFXTnB5VFpJZDdlUk10cldnYzJaeHFudjhDd2Q0MUp2UFZlbEN4VUpNY2g1b251WFVNWENvNlBwRjJCQmlpX3M?oc=5"
+ },
+ {
+  "id": "9d66fdd45f",
+  "datum": "2026-07-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Recordjaar voor OM: ruim 18 miljoen euro aan crypto in beslag genomen",
+  "bron": "Crypto Insiders",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "crypto"
+  ],
+  "samenvatting": "Recordjaar voor OM: ruim 18 miljoen euro aan crypto in beslag genomen Crypto Insiders",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTEYwT2tXXzhLVWtZX2MwT3pwdmZPLTc2dHZ1U2plZVZJQzlMdDJVZDJvZDE5YWVxQWxMa1VaUlJKcnlUSVpuMVdFcUMzTDBRUXNfNWJOWENxc0l0ZVFnLV91eWhZRjVvM1pOZndLemc1bmozcTl0WjFLeVZ5RUVwZUNaa2pmY2hGVWxMQTd5WFFxNVZ1TFdMWWVCVk5KZXBfNnQzWUhYQzlacE5IelhOZlhycld5NUJnTWo3bGFFVE4zU1h1T05Pdg?oc=5"
  },
  {
   "id": "e38439d431",
@@ -16860,6 +16898,25 @@
   ],
   "samenvatting": "Netwerk mensenhandel opgerold in Leuven: “Slachtoffers betaalden woekerprijzen voor transport en verblijf” HLN",
   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdkcyYnZ6cjJQNmNST0tyUVpSS3RITVZJeFRIOXBXRHVId3RZUk5DTmpWYzZESVpUZFJQWTVSSWc4cHpiZ05YRGdVUE9pRUFnWGdrb2FoWTBncC1QQk5hNjg0QThoRS1qUnBFYXVwMVduRmxfNjI4NlJMa1NSbVljRDlPd1RjeEcxZF9yM2xFM2hVU05hanRYcXZlTzVRSjVJLVVjY1F2QWxyb1ZnZWR3M0p3RDZzZVFVU1VPX3NRVlFaTE1pUGMtS1AwSE9MUUVkeDFleEoyaXJkeGhSZVNnLW9R?oc=5"
+ },
+ {
+  "id": "3d7af28e11",
+  "datum": "2026-06-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zoemend geluid van ventilator leidt agenten naar hennepkwekerij",
+  "bron": "WâldNet",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Zoemend geluid van ventilator leidt agenten naar hennepkwekerij WâldNet",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYi1sbnNmeWtaajlqYk84ZUNKWUFFMjhIQUt6TUFZM3pmYXdLTHpsMVotZnFRNnNJNWJHWmFLU3RyUmJxZGc1bG1DYlA3Y3UzUW4wTnRUdFd3N01LZGM3T3lnN1EwZjhaYW1wN2NHSVFrZ0FPa2NFWFhPVHE4TU5famtDaGJUZEhITk5BSkZBeXRoMExkWWFQMUUzUXBNOHFKT0NkMEkwNW44NWM?oc=5"
  },
  {
   "id": "ea61e759eb",
@@ -24866,6 +24923,25 @@
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZnI4eDJjYV84ZVI5NGNmQWZyeWpPVFNLYkFvLUQwYWJacXdKanFZWVp2aFhOTzU0WE80YVNZRUE5a0RuNGxMSWttVTNCQlJweGcwdTFOZjRhNHZfM2pJWWtUcW56OUw5dDdzRGJBclVWVTVjcktNSW1rOURtREpfcVNRWm9LZlVnY3c4bk9UemRIdGRtVnZXQ1lOdWhaRkJrN3Q2UWJ5WHhwTk9DbWJ6T3dNYU01dUljZ1RN?oc=5"
  },
  {
+  "id": "40385dc015",
+  "datum": "2026-02-23",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Twee aanhoudingen bij onderzoek naar mogelijke wietplantage in Schellinkhout",
+  "bron": "NH Nieuws",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Twee aanhoudingen bij onderzoek naar mogelijke wietplantage in Schellinkhout NH Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVG8wWENiU1JRamVWM1hTZGRuRVRiLUpSUHNxcW5VVWFBcGdZYlYyR1I4aWw5Z2I3djNsQld2VDNJN0pHMGVqZGlpYVdGUEZMcjhtU3hEbzVyVUt2anBIVmxVS3k3NzhaWkYyeklmN2JORlh0OE15enJ6eGx5X0RWU0dwdVI2ajRTanZTUjVKVjVOYlFfcGM0TFFxQVNoaklrZjFXNHF2dFBvcU9qMDlUclA5bEs?oc=5"
+ },
+ {
   "id": "0f45066f0f",
   "datum": "2026-02-21",
   "tijd": "08:00",
@@ -28744,6 +28820,28 @@
   ],
   "samenvatting": "Voormalig profvoetballer uit Maasmechelen krijgt vier jaar cel voor drugslab in varkensstal HBVL",
   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnV0d2JaeE5pV29aZmRzQ042WURGMEpMOXhubjcxT3BJRGg0SjVmLXdNSnV4NEtGb3FTSEM4amJPQS10X2JQeHg5WUJuVFVYNHNEUUlORFMweWlYXy1aWjBRNWtFSUlod1dQYU15d0F4cTl0UzJTWTIyUlZWYUowOVU2TEU0UjBOQTdYVWJFR3diWlRGN3BGZVZFOGpUUXZHd3M0aVFfTmVKU09NbGhFdzlzTkNfWGozR3pTZlFLb29oMXFfX3oyUGpjMzlrNDFQZUdXV1V1cW4zTV9BVnJfNnNYd0xFZ0k?oc=5"
+ },
+ {
+  "id": "11985cfc65",
+  "datum": "2025-11-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie vindt hennepkwekerij met 400 planten aan Karspeldreef, woning 3 maanden dicht",
+  "bron": "AT5",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "woning"
+  ],
+  "samenvatting": "Politie vindt hennepkwekerij met 400 planten aan Karspeldreef, woning 3 maanden dicht AT5",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmphcHZRbXQ3TmFJUk9ENm9aZUNPcUhuWXJEMWpfQjlmWTVQZEdFMTF2eDMxZHpWdmt2ZTZJemNfMWgxNnZvajY2V01aUDA2d200a3NmeGVqQ196N3JOTUlldHFqeDFsbW1IZUlTX3RBbGhXQ25IN0NLbVRCVVBjdGUtalN6Y0N5YS1TUjFnSGNzRVM2WjN4QU5iNy1DZEdKMTNGRkhYcFAya2MyLTROaG1aMHMyUWc4U3RDQw?oc=5"
  },
  {
   "id": "89974cd553",
@@ -39815,6 +39913,25 @@
   ],
   "samenvatting": "Steenrijke Nederlandse cryptobaron (51) opgepakt in Colombia, werd over hele wereld gezocht De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFJaemtqeVhWaTE4ZGV2VERXRHU5c3lqR1hEYnpjZXdYUVZ5TW9UVUZtcmxBdWdibk5XeUFHbEk3Q01iRWwxUEJiOHFycTZnbGtYb0Flc2UzRnNZOTVJSUdoZ1h0OTNGTTExelZuUGx4Z3A5QS02cXc0MWIwR29UN2g4dnhITWhkUFZyRE1RM0dUU2ZXOWdQaG1LcmJJZkRpRWY4TFNvd185cHhVbDQ1dmVwVmRBa0dvbWdRaXFZVTc5ZnkwSlZZdzhncW12TjdwYlJv?oc=5"
+ },
+ {
+  "id": "08bd1695ce",
+  "datum": "2023-12-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Steenrijke Nederlandse cryptobaron (51) opgepakt in Colombia, werd over hele wereld gezocht",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "crypto"
+  ],
+  "samenvatting": "Steenrijke Nederlandse cryptobaron (51) opgepakt in Colombia, werd over hele wereld gezocht HLN",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0FhNTNVQ2s3Z01uS1l6TjJsZldJNlA5LVV6MTNxVTI3QmttTHlEQmpGSVgySWlBdnQySUVjMC1yOXZuSjJ1M2FxY245ZnAwZUZkT1Z4MERBc0lmSGdpeXg3Z290Wm92Y3Z4N080aE01UU54NXpibEYwUC1pWEJFa0FaSWFPdXZrOFUtUHlaeXpxc2pFeHdOcWFmRVZhUU4tZnBzLVhNT3lEeV9DZzg2Rmg5V1o4RFBwNGFSd3FaRkg2ajhkWjdn?oc=5"
  },
  {
   "id": "00ef786db4",

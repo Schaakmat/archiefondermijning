@@ -1,12 +1,12 @@
 {
- "run": "01:27",
+ "run": "02:33",
  "datum": "2026-09-04",
- "nieuw": 36,
- "totaal": 2589,
+ "nieuw": 26,
+ "totaal": 2595,
  "verwijderd": 20,
  "geweigerd": {
-  "niet-nederlands": 1013,
-  "geen dossier": 470
+  "niet-nederlands": 1028,
+  "geen dossier": 484
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 104,
-   "status": "15 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 129,
-   "status": "bij",
+   "items": 132,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 164,
-   "status": "bij",
+   "items": 165,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -104,8 +104,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 58,
-   "status": "bij",
+   "items": 60,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -393,7 +393,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 35,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
