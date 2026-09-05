@@ -19,11 +19,49 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522715/surfer-gewond-na-aanvaring-met-plezierjacht-op-ketelmeer"
  },
  {
+  "id": "4eaa128693",
+  "datum": "2026-09-05",
+  "tijd": "14:53",
+  "nieuw": true,
+  "titel": "Nagele - Aanvaring op Ketelmeer: surfer gewond",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Een surfer is zaterdagmiddag gewond geraakt bij een aanvaring met een plezierjacht op het Ketelmeer, ter hoogte van Schokkerhaven bij Nagele. Dat meldt de politie. De KNRM heeft de surfer en de opvarenden van het plezierjacht naar de haven gebracht. Daar stond een ambulance klaar. De surfer is ter controle naar het zie",
+  "link": "https://www.omroepflevoland.nl/nieuws/522715/aanvaring-op-ketelmeer:-surfer-gewond"
+ },
+ {
   "id": "7b047e1533",
   "datum": "2026-09-05",
   "tijd": "13:46",
   "nieuw": true,
   "titel": "Ontsnapte serval Django doodt twee kippen en is nog altijd spoorloos",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende"
+  ],
+  "samenvatting": "De ontsnapte serval Django heeft in Tilburg twee slachtoffers gemaakt. Twee kippen in een tuin van een van de omliggende tuinen hebben een confrontatie met de katachtige niet overleefd, meldt Beestenbende. Deze stichting uit Dordrecht is expert op het gebied van opvang van exotische dieren en is ingeschakeld om het die",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026086/ontsnapte-serval-django-doodt-twee-kippen-en-is-nog-altijd-spoorloos"
+ },
+ {
+  "id": "4795f50390",
+  "datum": "2026-09-05",
+  "tijd": "13:46",
+  "nieuw": true,
+  "titel": "Twee kippen gedood door ontsnapte serval Django",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -37,7 +75,7 @@
    "woning"
   ],
   "samenvatting": "De ontsnapte serval Django heeft in Tilburg twee slachtoffers gemaakt. Twee kippen in een tuin van een van de omliggende tuinen hebben een confrontatie met de katachtige niet overleefd, meldt Beestenbende. Deze stichting uit Dordrecht is expert op het gebied van opvang van exotische dieren en is ingeschakeld om het die",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026086/ontsnapte-serval-django-doodt-twee-kippen-en-is-nog-altijd-spoorloos"
+  "link": "https://www.omroepbrabant.nl/nieuws/6026086/twee-kippen-gedood-door-ontsnapte-serval-django"
  },
  {
   "id": "065172a87e",
@@ -85,7 +123,7 @@
   "id": "192006538b",
   "datum": "2026-09-05",
   "tijd": "10:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Babs moet huis verkopen net na inval bij zoektocht naar bende rond Jan G.",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -106,7 +144,7 @@
   "id": "83c4deaeb4",
   "datum": "2026-09-05",
   "tijd": "10:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Venezolaanse miljardair die door VS werd onderzocht voor witwassen, heeft nu oliedeal met Pentagon",
   "bron": "MarketScreener Nederland",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -125,7 +163,7 @@
   "id": "1931ddc08c",
   "datum": "2026-09-05",
   "tijd": "09:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Minderjarig duo opgepakt na toename diefstal op station Lelystad",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -144,7 +182,7 @@
   "id": "60771834bf",
   "datum": "2026-09-05",
   "tijd": "09:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Huis van Babs staat te koop en vol in beeld na politie-inval: 'Geen Jan G.'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -163,7 +201,7 @@
   "id": "e64a194b35",
   "datum": "2026-09-05",
   "tijd": "09:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Babs moet huis verkopen net na inval bij zoektocht naar bende rond Jan G.",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -299,32 +337,6 @@
   "link": "https://www.rijnmond.nl/nieuws/2249042/seksueel-roofdier-probeerde-in-een-nacht-twee-vrouwen-te-verkrachten"
  },
  {
-  "id": "c0f1591a24",
-  "datum": "2026-09-04",
-  "tijd": "17:59",
-  "nieuw": false,
-  "titel": "Flevoland - Nieuwsoverzicht 04/09 | Crowdfunding voor verongelukte tieners • Brandweer doelwit van inbraak",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "boerderij",
-   "haven",
-   "organisatie",
-   "pand",
-   "woning"
-  ],
-  "samenvatting": "Goedenavond. Elke doordeweekse dag aan het begin van de avond informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Uitvaartorganisatie start crowdfunding voor op Markerwaarddijk omgekomen tieners • Poging redgereedschap te stelen bij de brandweer in Almere Bu",
-  "link": "https://www.omroepflevoland.nl/nieuws/522621/nieuwsoverzicht-0409-or-crowdfunding-voor-verongelukte-tieners-*-brandweer-doelwit-van-inbraak"
- },
- {
   "id": "116dab227a",
   "datum": "2026-09-04",
   "tijd": "17:51",
@@ -426,27 +438,6 @@
   ],
   "samenvatting": "Een controle op een identiteitsbewijs liep vorig jaar in Lochem uit op geweld tegen twee politieagenten. Twee mannen die daarbij betrokken waren, zijn door de rechtbank veroordeeld voor mishandeling. Andy J. (22) krijgt honderd uur taakstraf, Joeri D. (23) moet tachtig uur werken.",
   "link": "https://www.gld.nl/nieuws/8518106/simpele-id-check-ontspoort-volledig-mannen-veroordeeld-voor-mishandelen-agenten"
- },
- {
-  "id": "41321053f6",
-  "datum": "2026-09-04",
-  "tijd": "17:15",
-  "nieuw": false,
-  "titel": "Bagagechaos Ryanair en plannen voor treinstation: dit mag je niet missen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "gemeenteraad",
-   "school"
-  ],
-  "samenvatting": "Van twijfels over Brabantse deelname Dakar-rally vanwege veiligheidsrisico's voor het team tot een terugblik op de emotionele sluiting van het Spookslot in de Efteling in 2022. Dit zijn de vijf artikelen die je op vrijdag gelezen moet hebben. Julia zit al twee dagen zonder koffer in Spaanse zon door storing op Eindhove",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026058/bagagechaos-ryanair-en-plannen-voor-treinstation-dit-mag-je-niet-missen"
  },
  {
   "id": "330fa5e617",
@@ -893,25 +884,6 @@
   ],
   "samenvatting": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen gelderlander.nl",
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLWlIM3ZNN05FeWp4SXBsbkUxWEhKYm9LQUtqbnlpVUZCSlN2VXhxRDdVaUVjNnlkSGlBWmQ5Z3pRUVk5djNHWk9HXy13Vml6NnJuY3RqRFRLQWNmZ0x1dG53S0dEX3ZPVjlGOE1uMmxQZm0yLVRlYmx4YlFwb1YtbFB3bXpHMGtMVUdDSDVBUnFlVjVGVmNrdHBlZGdDMC1nRGloMDh0X0dyUS1BQ0prRTFkZ0tlYU9qUFQ1eHllb2ZxOXJvQXA3OFlR?oc=5"
- },
- {
-  "id": "e0858efe29",
-  "datum": "2026-09-04",
-  "tijd": "12:04",
-  "nieuw": false,
-  "titel": "Almere - Inbreker op heterdaad betrapt bij brandweerkazerne Almere Buiten, probeerde redgereedschap te stelen",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "stal"
-  ],
-  "samenvatting": "Een inbreker heeft vannacht geprobeerd om redgereedschap te stelen bij de brandweerkazerne in Almere Buiten. De inbreker had waarschijnlijk niet door dat dit een permanent bemande brandweerpost is. Rond 02.30 uur werden brandweerlieden die daar lagen te slapen wakker van de geluiden die de inbreker maakte. Ze stormden ",
-  "link": "https://www.omroepflevoland.nl/nieuws/522566/inbreker-op-heterdaad-betrapt-bij-brandweerkazerne-almere-buiten-probeerde-redgereedschap-te-stelen"
  },
  {
   "id": "86440eabaf",
