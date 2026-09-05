@@ -23,6 +23,46 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522581/26-bouwprojecten-in-almere-liggen-stil-door-schorsing-kwaliteitsborgers"
  },
  {
+  "id": "192006538b",
+  "datum": "2026-09-05",
+  "tijd": "10:20",
+  "nieuw": true,
+  "titel": "Babs moet huis verkopen net na inval bij zoektocht naar bende rond Jan G.",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "bende",
+   "pand"
+  ],
+  "samenvatting": "Een politie-inval in haar ouderlijk huis komt voor Babs Roden uit Helmond op een bijzonder ongelukkig moment. Het leegstaande huis in Nederasselt staat net te koop, maar door de inval na de aanslag op het huis van Jan G. vreest ze dat potentiële kopers denken dat het om een drugspand gaat. \"We hebben hier geen drugs, m",
+  "link": "https://www.gld.nl/nieuws/8518378/babs-moet-huis-verkopen-net-na-inval-bij-zoektocht-naar-bende-rond-jan-g"
+ },
+ {
+  "id": "83c4deaeb4",
+  "datum": "2026-09-05",
+  "tijd": "10:01",
+  "nieuw": true,
+  "titel": "Venezolaanse miljardair die door VS werd onderzocht voor witwassen, heeft nu oliedeal met Pentagon",
+  "bron": "MarketScreener Nederland",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Venezolaanse miljardair die door VS werd onderzocht voor witwassen, heeft nu oliedeal met Pentagon MarketScreener Nederland",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVUxuOXF5YWloVk5YcDAxVng5UjZYZ0JUWkVlc1QyWnR5MDVTUFlMbmo3by1EY3VzaDJMLS1LLXYzemtQMXBoWTZIRVQwVzlma1E0ZmplSXlpQ3NBcU9Ecmp1bm40clFrYkVuQUtnYkZkUHVZckFucnA1b0JFRU9BVlhJZ1Q4Mkpxam5kTlJsWW5ENEF0eWJQOV9IV01mcTlkSWxkeTRpNm5Jb3otd2dJRFBBTTVYRzZva3E0MEo0TE84WjhNaVlqTlJrRTFYOVZkNkEtZXdrV2ZkV1g0cE5ZM1lWQUFTa0FSdmZ6RQ?oc=5"
+ },
+ {
   "id": "1931ddc08c",
   "datum": "2026-09-05",
   "tijd": "09:53",
@@ -71,18 +111,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Vastgoed & huisvesting"
   ],
   "tags": [
    "bende",
-   "erf",
-   "explosie",
-   "geweld",
-   "makelaar",
    "pand"
   ],
   "samenvatting": "Een politie-inval in haar ouderlijk huis komt voor Babs Roden uit Helmond op een bijzonder ongelukkig moment. Het leegstaande huis in Nederasselt staat net te koop, maar door de inval na de aanslag op het huis van Jan G. vreest ze dat potentiële kopers denken dat het om een drugspand gaat. \"We hebben hier geen drugs, m",
@@ -130,7 +163,7 @@
   "id": "ac79b2423f",
   "datum": "2026-09-05",
   "tijd": "01:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Met een zwaarbewapende knokploeg proberen je drugstransport te redden: acties zoals in Overasselt komen al jaren voor – en mislukken bijna altijd - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -149,7 +182,7 @@
   "id": "e2c8e37b9d",
   "datum": "2026-09-04",
   "tijd": "20:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Eén agent is thuis, andere is van de IC af • nieuw wapen gevonden",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
