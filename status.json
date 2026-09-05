@@ -1,12 +1,12 @@
 {
- "run": "16:31",
+ "run": "17:29",
  "datum": "2026-09-05",
- "nieuw": 6,
- "totaal": 2716,
+ "nieuw": 5,
+ "totaal": 2717,
  "verwijderd": 4,
  "geweigerd": {
-  "niet-nederlands": 1042,
-  "geen dossier": 495
+  "niet-nederlands": 1058,
+  "geen dossier": 513
  },
  "bronnen": [
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 156,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -303,7 +303,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 18,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 41,
-   "status": "bij",
+   "items": 42,
+   "status": "1 nieuw",
    "ok": true
   },
   {

@@ -102,7 +102,7 @@
   "id": "59a7ede18d",
   "datum": "2026-09-05",
   "tijd": "10:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ontsnapte serval Django opnieuw op vrije voeten, buurtbewoners zijn het zat",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -234,6 +234,25 @@
   ],
   "samenvatting": "Het is de vijfde dag sinds de schietpartij in Overasselt. Eén agent heeft het ziekenhuis verlaten en mag thuis herstellen. In dit liveblog houden we je op de hoogte van het laatste nieuws.",
   "link": "https://www.gld.nl/nieuws/8518302/live-grootschalig-onderzoek-20000-euro-voor-doodgeschoten-beveiliger-berry-51"
+ },
+ {
+  "id": "cca8960feb",
+  "datum": "2026-09-05",
+  "tijd": "05:17",
+  "nieuw": false,
+  "titel": "112 Nieuws: Aanhouding bij huiszoeking Zwolle | Scooterbestuurder naar het ziekenhuis na botsing met auto",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van zaterdag 5 september.",
+  "link": "https://www.oost.nl/nieuws/3692248/112-nieuws-aanhouding-bij-huiszoeking-zwolle-scooterbestuurder-naar-het-ziekenhuis-na-botsing-met-auto"
  },
  {
   "id": "cf09f6e112",
