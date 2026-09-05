@@ -59,6 +59,27 @@
   "link": "https://www.gld.nl/nieuws/8517921/live-een-agent-is-thuis-andere-is-van-de-ic-af-nieuw-wapen-gevonden"
  },
  {
+  "id": "cdde52d05a",
+  "datum": "2026-09-04",
+  "tijd": "20:32",
+  "nieuw": true,
+  "titel": "TERUGLEZEN | Eén agent is thuis, andere is van de IC af • nieuw wapen gevonden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Het is de vierde dag sinds de schietpartij in Overasselt. De woning van Jan G. werd donderdag voor een jaar gesloten. Deze vrijdag werden 32 verdachten voorgeleid aan de rechter-commissaris. Zij blijven voorlopig allemaal veertien dagen langer in hechtenis. In dit liveblog houden we je op de hoogte van het laatste nieu",
+  "link": "https://www.gld.nl/nieuws/8517921/teruglezen-een-agent-is-thuis-andere-is-van-de-ic-af-nieuw-wapen-gevonden"
+ },
+ {
   "id": "ab1472dd6c",
   "datum": "2026-09-04",
   "tijd": "18:30",
@@ -191,7 +212,7 @@
   "id": "b9640512fe",
   "datum": "2026-09-04",
   "tijd": "17:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Simpele ID-check ontspoort volledig: mannen veroordeeld voor mishandelen agenten",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -210,7 +231,7 @@
   "id": "41321053f6",
   "datum": "2026-09-04",
   "tijd": "17:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bagagechaos Ryanair en plannen voor treinstation: dit mag je niet missen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -231,7 +252,7 @@
   "id": "330fa5e617",
   "datum": "2026-09-04",
   "tijd": "16:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bewoner even weg, inbrekers slaan toe met gestolen sleutelbos en stelen voor 20.000 euro",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1642,35 +1663,6 @@
   ],
   "samenvatting": "Een auto is donderdagavond door meerdere politieauto's en een politiehelikopter achtervolgd op de A2. De achtervolging ging door een groot deel van het oosten van Brabant. Ook wagens van de Dienst Speciale Interventie (DSI) werden ingezet. Dat is een speciaal politieteam voor arrestaties van bijvoorbeeld vuurwapengevaa",
   "link": "https://www.omroepbrabant.nl/nieuws/6025901/speciaal-politieteam-en-helikopter-ingezet-bij-lange-achtervolging-op-de-a2"
- },
- {
-  "id": "014dd53185",
-  "datum": "2026-09-03",
-  "tijd": "19:35",
-  "nieuw": false,
-  "titel": "Burgemeester kan niet permanent ingrijpen in Overasselt en heeft camera's bij zijn huis",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "boerderij",
-   "burgemeester",
-   "doodgeschoten",
-   "geweld",
-   "grond",
-   "pand"
-  ],
-  "samenvatting": "Het permanent sluiten van het huis in Overasselt waar deze week een beveiliger werd doodgeschoten, is juridisch niet mogelijk. Dat zei burgemeester Minses tijdens een persmoment in het gemeentehuis van Heumen, waar Overasselt onder valt. Minses zei dat hij zich goed kan voorstellen dat mensen een structurele oplossing ",
-  "link": "https://nos.nl/l/2629558"
  },
  {
   "id": "061a49c50a",
@@ -43515,6 +43507,25 @@
   ],
   "samenvatting": "PAX-rapport: wapenhandel met de Verenigde Arabische Emiraten voedt oorlogen paxvoorvrede.nl",
   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LeG11ektKaFZoTEJyZmhydVlDRFg1RktKMXBoTFJNdERnTkYxSnNZYXZhZ3hwSEJOcjN1YlFpaHVXWW5sQ0E?oc=5"
+ },
+ {
+  "id": "b79dd24ee1",
+  "datum": "2023-06-16",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Keurmerk Veilig Ondernemen voor bedrijventerrein Meer en Duin",
+  "bron": "Blik Op Lisse",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "keurmerk veilig ondernemen"
+  ],
+  "samenvatting": "Keurmerk Veilig Ondernemen voor bedrijventerrein Meer en Duin Blik Op Lisse",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmJraUVMNnpZNmZVdjk4TF8tSTcxVDdTT2VReDdocThfMUJuOFFTTkhXOFlFY05mb2dMYUxCTEdkWm5ZbHpRcms2V1RXNlFoVTNnTjdkUTVzaDZsQko0Ql8xdm1sd0RycDhlTklVNy1MMXJ4dlUxQUd5dkRITVFpcjNXUkJiUzJpMlJ3c1owNTI5Y09DMTdWaHN2bGtTdmRQ?oc=5"
  },
  {
   "id": "f4a50b4a28",

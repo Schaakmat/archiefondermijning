@@ -1,12 +1,12 @@
 {
- "run": "04:31",
+ "run": "05:29",
  "datum": "2026-09-05",
- "nieuw": 12,
- "totaal": 2700,
+ "nieuw": 10,
+ "totaal": 2701,
  "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 1043,
-  "geen dossier": 492
+  "niet-nederlands": 1034,
+  "geen dossier": 481
  },
  "bronnen": [
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 155,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 136,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -374,8 +374,8 @@
    "url": "news.google.com/rss/search?q=%22weerbare%20ondernemers%22%20OR%20bedrijv",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 18,
-   "status": "bij",
+   "items": 19,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 30,
-   "status": "4 nieuw",
+   "items": 29,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 56,
-   "status": "2 nieuw",
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 95,
-   "status": "bij",
+   "items": 96,
+   "status": "1 nieuw",
    "ok": true
   },
   {
