@@ -1,5 +1,24 @@
 [
  {
+  "id": "1931ddc08c",
+  "datum": "2026-09-05",
+  "tijd": "09:53",
+  "nieuw": true,
+  "titel": "Lelystad - Minderjarig duo opgepakt na toename diefstal op station Lelystad",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Twee minderjarige jongens zijn opgepakt op verdenking van diefstal van brommers en snorfietsen. Dat meldt de politie. De twee werden woensdag op heterdaad betrapt toen ze bezig waren in de fietsenstalling van station Lelystad Centrum. De politie ziet de afgelopen dagen meer diefstallen van brom- en snorfietsen dan norm",
+  "link": "https://www.omroepflevoland.nl/nieuws/522381/minderjarig-duo-opgepakt-na-toename-diefstal-op-station-lelystad"
+ },
+ {
   "id": "cf09f6e112",
   "datum": "2026-09-05",
   "tijd": "04:19",
@@ -151,7 +170,7 @@
   "id": "107ca16647",
   "datum": "2026-09-04",
   "tijd": "17:34",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Minister bevraagd over veiligheidsrisico's rondom Jan G.",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -170,7 +189,7 @@
   "id": "43313a6d13",
   "datum": "2026-09-04",
   "tijd": "17:27",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Verdeelde reacties op rapport over stikstofplannen, nieuwe rechtszaken verwacht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -29237,6 +29256,26 @@
   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNc0pPVFZaSzJlN2dZd0xIMGdnRUsxRF9NYmstRmpCZnNOMFdMVzFiVUxocWVSeTBjUzY0M2tOZ2JkdTFTaFhFdG9DOS1pM1N0ejhQUHR2RzUxQ1F2bGpBRU5JYkpuOHBON2cyODdQRWw0Wi1DdmtVTm9rbnpFSll6QWhOOHlHWHVRdXQ0by1QMmtCQkFxNDdZVE5fYVZ3NjJveTRpOGotd0NNRnZCS215TUg0T1FlTlZxeHJqeVFUbzhhcXUwTFZPMm1kUWRUNjJiMGt1MUdXR3NVcVBMZ2dKbzJLTk9hSkdRN2lsb2x1UG1ldnRFanA2dVIxQzBsNGpVUmo3VURIQmc?oc=5"
  },
  {
+  "id": "b31f4ed4a2",
+  "datum": "2025-12-08",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Cocaïne ter waarde van 250 miljoen euro aangetroffen in container in Zeebrugge, maar uithalers weten van niets: “Waarom ik in de haven was? We waren op vakantie”",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "uithaler",
+   "uithalers"
+  ],
+  "samenvatting": "Cocaïne ter waarde van 250 miljoen euro aangetroffen in container in Zeebrugge, maar uithalers weten van niets: “Waarom ik in de haven was? We waren op vakantie” HLN",
+  "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOdUVibmNxS244ZFJLZFJuQl95SHk2QXMzelhzV0lwcHMtSmhRZjFpc1R1aWZGYjRwQnh2eWZVVnBvQXhMa0FZRXp6Mm1JSjFkLUs5c3FvSDJPU1I3ZkNxMFFHbDRQUXViM0pOSzJWblJ6dVRsYl9KYkl0SXdxV2g1b0o0UEFVM0o2aWU3MlBxcVlndzVUNkpKSFBtc0xSNkhJSmwtRG9UVlNhRlYyczBjWDZ3SVBBT0hWQTUyTzJIRFMzYzA3VlJud0NMWUlhV3EzVUIyUW1VSkpvWF9TeDQ2WncyMWRmVGE2OEVxa2o3ZTRoRTBPRmoxN1MyZlp6dHBPUXYydlZOOWUwNFdRWnM1TXNVdHA1N0tJekx0Qw?oc=5"
+ },
+ {
   "id": "94782dc106",
   "datum": "2025-12-06",
   "tijd": "08:00",
@@ -36731,6 +36770,28 @@
   ],
   "samenvatting": "Zeven verdachten opgepakt voor invoer van cocaïne: “Uithalers zaten dagenlang vast in ‘Trojaanse container’” HLN",
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeTkya1lEc19uTk9zRzFiU0VGQ3kzazRlRzNHUTlJX0ZiaEdLNkVrREVZaHh0N3BPdmY4cExkTVJscVFmY2c1ZEZsYmZkbmhtanlLd2dKU3l1V2x4amRHSjdxYW5lb2RpOWZ5eXZqbVUxbzNaTVNldTM5N1gxb1BJbGViNnFwVXFrcjZJLTVXNWhfNkRnOVI2cTJOblQ0RE8ycVExSnFjSWNQTUhvRTdzcmZTNFdjU3JLOHpuaWI2ZVRZeUU3UDQyLTZqWFBCbjRza1BZaDBJSDVjZw?oc=5"
+ },
+ {
+  "id": "7bd2967b10",
+  "datum": "2025-02-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zeven verdachten opgepakt voor invoer van cocaïne: “Uithalers zaten dagenlang vast in ‘Trojaanse container’”",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne",
+   "container",
+   "uithaler",
+   "uithalers"
+  ],
+  "samenvatting": "Zeven verdachten opgepakt voor invoer van cocaïne: “Uithalers zaten dagenlang vast in ‘Trojaanse container’” HLN",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeEpZMnJCVU9MaVJOalBaRWlQaUJYVmU1MlEwcC1oSXNUaUNQN1dTd1lQNmljUENQMzYxUldNV3BxN2tUbHVOZW1uSXJtWDk4anpEa1gwN3JXLVQ5b3pIaTNYTVkwUnhlVkNTelpFZHNfOW5IaFhxT05yaENsZ21BQ3NVbjJjN3ozZUVtNVVPNUxweFRmU1QwcjVtTHU1US1jR1JXSjNGcEktYVRjcHFidHNXTTFQclNLSm1tV3M4blFrMHpyS25UWmU5NmtLV1F5WE1N?oc=5"
  },
  {
   "id": "ca28296238",
