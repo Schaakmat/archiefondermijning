@@ -1,5 +1,24 @@
 [
  {
+  "id": "86ad24c95a",
+  "datum": "2026-09-05",
+  "tijd": "14:53",
+  "nieuw": true,
+  "titel": "Nagele - Surfer gewond na aanvaring met plezierjacht op Ketelmeer",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Een surfer is zaterdagmiddag gewond geraakt bij een aanvaring met een plezierjacht op het Ketelmeer, ter hoogte van Schokkerhaven bij Nagele. Dat meldt de politie. De KNRM heeft de surfer en de opvarenden van het plezierjacht naar de haven gebracht. Daar stond een ambulance klaar. De surfer is ter controle naar het zie",
+  "link": "https://www.omroepflevoland.nl/nieuws/522715/surfer-gewond-na-aanvaring-met-plezierjacht-op-ketelmeer"
+ },
+ {
   "id": "065172a87e",
   "datum": "2026-09-05",
   "tijd": "11:00",
@@ -144,7 +163,7 @@
   "id": "1cb79b3abd",
   "datum": "2026-09-05",
   "tijd": "07:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Grootschalig onderzoek • 20.000 euro voor doodgeschoten beveiliger Berry (51)",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
