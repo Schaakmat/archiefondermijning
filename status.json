@@ -1,12 +1,12 @@
 {
- "run": "00:41",
+ "run": "01:28",
  "datum": "2026-09-05",
- "nieuw": 9,
- "totaal": 2695,
+ "nieuw": 11,
+ "totaal": 2697,
  "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 1083,
-  "geen dossier": 459
+  "niet-nederlands": 1052,
+  "geen dossier": 472
  },
  "bronnen": [
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 37,
-   "status": "bij",
+   "items": 38,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 42,
-   "status": "bij",
+   "items": 43,
+   "status": "1 nieuw",
    "ok": true
   },
   {
