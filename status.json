@@ -1,12 +1,12 @@
 {
- "run": "15:29",
+ "run": "16:31",
  "datum": "2026-09-05",
  "nieuw": 6,
- "totaal": 2714,
- "verwijderd": 7,
+ "totaal": 2716,
+ "verwijderd": 4,
  "geweigerd": {
-  "niet-nederlands": 1050,
-  "geen dossier": 488
+  "niet-nederlands": 1042,
+  "geen dossier": 495
  },
  "bronnen": [
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 155,
-   "status": "bij",
+   "items": 156,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -302,8 +302,8 @@
    "url": "news.google.com/rss/search?q=%22ondermijning%20buitengebied%22%20OR%20va",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 17,
-   "status": "bij",
+   "items": 18,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 60,
-   "status": "2 nieuw",
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -546,7 +546,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 29,
-   "status": "2 nieuw",
+   "status": "1 nieuw",
    "ok": true
   },
   {
