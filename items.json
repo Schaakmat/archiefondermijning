@@ -1,5 +1,28 @@
 [
  {
+  "id": "f59dafac61",
+  "datum": "2026-09-05",
+  "tijd": "18:31",
+  "nieuw": true,
+  "titel": "Ontsnapte serval en rode lucht: dit gebeurde vandaag",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "geweld",
+   "pand"
+  ],
+  "samenvatting": "Van een ontsnapte serval tot rode lucht in Brabant. Dit zijn de vijf verhalen die je op zaterdag gelezen moet hebben. Vreemde figuren in een boomstam blijken een verrassend natuurfenomeen. Peter Ulijn zag opvallende patronen in de zaagsnede van een omgezaagde boom. Boswachter Frans Kapteijns legt uit dat deze figuren o",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026095/ontsnapte-serval-en-rode-lucht-dit-gebeurde-vandaag"
+ },
+ {
   "id": "5b6732e606",
   "datum": "2026-09-05",
   "tijd": "17:49",
@@ -183,7 +206,7 @@
   "id": "1931ddc08c",
   "datum": "2026-09-05",
   "tijd": "09:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Minderjarig duo opgepakt na toename diefstal op station Lelystad",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -38929,6 +38952,25 @@
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEZGV0FlSjg4NENyYk8tN0gySHQzd29XTldnazRoREwyaG90czJzZXE2a2pDZHhzNzI2STZhOVlPS0t0c0p4LUZSaGVFMUZLOC0wbl9hdW1TLTRkM2JkYjdiaU5rQTNacnIyRUVhdlpfaXNJMzNhQzRpdkdXV2lKaDBnUzU3OWlwU0lPdEkyMXJmYThOTEkzTzFPdzZTRno3NGNaNnUxQUlDN1RiV2tnMUk1VldqTUVVRGxLZlc4ZkxzNTg4M3B2ZUpR?oc=5"
  },
  {
+  "id": "b8847441fd",
+  "datum": "2024-09-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Brabantse 'Bassie en Adriaan' runden drugslab samen met 'De Baron'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Brabantse 'Bassie en Adriaan' runden drugslab samen met 'De Baron' Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXh0Q3ViU0hadV9hVVl0TWl1TnQ1TEllY1BPcVZxend3cEpGXzZZT1luU1lYZ1BoZWtaQmlmTXFBYzVUZkp1X1Z4bFJfZlRrTTJ0alp4bDRMZjR2SXNWM3FhNGtrdDN2d0hucDF1RklBSWE4TUNQM18wNElWYVZLdktnaEljTTJyTHBGc1hRWG5lRXpnOS1EOEhtNkZyb1hlRWRMWngzcjRDQQ?oc=5"
+ },
+ {
   "id": "63c89519c7",
   "datum": "2024-09-25",
   "tijd": "07:00",
@@ -39830,6 +39872,25 @@
   ],
   "samenvatting": "Politie al dagen bezig met ontmantelen drugslab Bergen op Zoom NOS",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGpsZVZFUWtMTDU1UHNUSE9Ud2t5WElMMGFKaGhVTUhRMUtFM0pfNWhFa1hVTURNOHZIeU0xNjV3bjBjYzI2LWdjM0tVMzV5ekdRbi05R0Z3WTdLdTYxU09mcmNsUHZaVjUtR1ZYNXRDdk1nRXUxbHlGWm83STZDeWFCRFNhRGRqRkhMNE1wYVQwU3ZlZHU4OQ?oc=5"
+ },
+ {
+  "id": "6d02f68b60",
+  "datum": "2024-06-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vijf aanhoudingen bij ontdekking drugslab Bergen op Zoom",
+  "bron": "NOS",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Vijf aanhoudingen bij ontdekking drugslab Bergen op Zoom NOS",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFFkWnRaOHNpNzYtdEJ4dDZaTjNtcS1BZ2RUVnVxR3AzTDBua29Ydm56T19lTjFHeEl5YndZa3kwS0VKNWUyNnRpc1ZqOVIxbUFDVzZtM1MxMmZaVThLeXRiUGNycV94eXQwV1VDdFM2UUdUYXZmWC1HNmlCT1Q3OGc5R2d4TVdJeGg3X01Ob1Y?oc=5"
  },
  {
   "id": "5272c6a62a",
@@ -45394,6 +45455,25 @@
   ],
   "samenvatting": "Limburgse gemeenten het meest kwetsbaar voor ondermijning Gemeente.nu",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2pFM0JFQzY3SmxiVFdaY29aNG1CQ0pUMmJZSzRtVkxFdmx5aFdTYVlnMk1qZ3NRR2VNUWwtUjU2SlNBT1ptU0lTUUNqd0toemRkWFY2ZTRvYUR5NDRSeEFTS0trOTZUNkM1Smh5YWxiUy0xel8tc240QVhtcVBUdFppOGRzSDBUS0g0Ml9XTDBxVGk5bWNZb2F1d1M2VXJaU21FaWJmN2szdw?oc=5"
+ },
+ {
+  "id": "1156437c83",
+  "datum": "2022-12-03",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Witwassen van ruim zeven miljoen euro: bankier voor criminelen opgepakt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Witwassen van ruim zeven miljoen euro: bankier voor criminelen opgepakt Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGhxSGVTOWhYb2g2YWwyandXTS1Db3dFQ0toNmhPZXd4U1dCUnRHaC1yNDMzdXZ4dUFtZ096TmpSZElYc3h0VXRkaTZZUTNMV0lyUU1zdFB2MkhPMG85U0F5YmtvbFhralp6T0FSOHJkOE95Nk1VQ2h0UFBKalRINngwU2hKVzgtMDA4NFd6MHljS0lrR09YZlByNVRyY2dYSHVwSk5SS3J5VGh2VkNxVUZ5TVk?oc=5"
  },
  {
   "id": "5949bd1e2b",
@@ -51361,6 +51441,25 @@
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY0Zkd21ZekdXUlgxVTJfTklSUmJkNkdWUF9Ud1dHbHR1cmRTNHdQVmdOZjZVQy1KMWdlMmpWaTJqSzIwQUJNUG51M0VyZmVQY0xYMS1PVGo3QkpYaXZGZ0JHZHhwNlF4NFBSWmtWQ1F3aWRwcHFocjRYNDMwZ1hSeWhyRVhRZHc?oc=5"
  },
  {
+  "id": "79e1d3b2e4",
+  "datum": "2019-02-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Harde aanpak leidt tot méér en niet mínder motorclubs: 'Het wordt een lappendeken'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "motorclub"
+  ],
+  "samenvatting": "Harde aanpak leidt tot méér en niet mínder motorclubs: 'Het wordt een lappendeken' Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWtoRm80SnNhYlR1cnNmT09Bd0hCVnB2cmR6d2lLMG9Bb3Y5RlAwZ0RDeFRSdklZYVk4M0ppdjVzUGx6dU1SdmJPN0psOTZ6bEl6ck1xQkh1VkpvVnVNaFd1VndIdFhVb2VUM1VvbXFXZ2tYems3QmZUcEMyVXZRWUNIQ2FmcXhXeHZVM2ttcUZpTkJ0TmVZZ05IdWxLdTRUYjNDUERGeVFrUXp0MWJBRjNFdEtUTGdRU1l5ZzRGVmY?oc=5"
+ },
+ {
   "id": "8c7d5f3c71",
   "datum": "2019-02-11",
   "tijd": "08:00",
@@ -53066,6 +53165,26 @@
   ],
   "samenvatting": "* Zomerserie * ‘Een criminele organisatie is zo sterk als de zwakste schakel’ Den Haag Centraal",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFIwX2Q4SElLeGE4cHRSTHR0cm5neWNYVF9mb3pqXzVuRzA4aU14LVYyRklsYk1LcFVqNXViSWJrWFlCRFVXODluNG1LNFdMM1VwMDRabnN1MXowcjJqaXF5enZJcXJSQ0VsRFZ5cm5BWHlibFhGc1hSRHNTREJJTUZMSFNLSVJKeTQ4cGU2aloxRUd2VzR1RGQzWHRwdHE3NnFXZHliWnZYLVJUM3FqcmdCN2ZEN0I3aXc?oc=5"
+ },
+ {
+  "id": "28baf55ca2",
+  "datum": "2017-08-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "* Zomerserie * ‘Een criminele organisatie is zo sterk als de zwakste schakel’",
+  "bron": "Den Haag Centraal",
+  "verzameld_via": "Nieuws — Geweld, liquidaties & bedreiging",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "criminele organisatie",
+   "organisatie"
+  ],
+  "samenvatting": "* Zomerserie * ‘Een criminele organisatie is zo sterk als de zwakste schakel’ Den Haag Centraal",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVjUtQy11X3IzYXdiQkxBX0cydnYxNmJCMGV1dmV2aEtMek8tQTdWU0ZvNG9UcG0tTmtJYS01Tl93RFRvN05xSWZUWW0tMHpvN29CYmpoX2MzYzJCS25BVHJQWTVUc3hlS1lGVEg5Wml0dVZyWDJSeWN3cFJmUzN1dmxrdFViZ0V5SEIyaHBVUnFBSDRrV2JLZjZpcjZuQkN3NnZZYzhpMTI1ZkU5bHg1bzM4QXQ?oc=5"
  },
  {
   "id": "67e9d16d2c",
