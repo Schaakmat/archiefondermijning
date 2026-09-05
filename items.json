@@ -151,7 +151,7 @@
   "id": "107ca16647",
   "datum": "2026-09-04",
   "tijd": "17:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Minister bevraagd over veiligheidsrisico's rondom Jan G.",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -170,7 +170,7 @@
   "id": "43313a6d13",
   "datum": "2026-09-04",
   "tijd": "17:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdeelde reacties op rapport over stikstofplannen, nieuwe rechtszaken verwacht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -193,7 +193,7 @@
   "id": "284416b875",
   "datum": "2026-09-04",
   "tijd": "17:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Andrew en Tristan Tate aangeklaagd voor mensenhandel",
   "bron": "Newsmonkey -",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -1063,25 +1063,6 @@
   ],
   "samenvatting": "Andrew Tate officieel aangeklaagd voor mensenhandel, witwassen en seks met minderjarige Vandaag Inside",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPemx2VWNLWDdwT1kzejBPVU1XeXlHQ0FRNzZzZGZjalB4dWNMWUgyVmdsSVNGSUhNMF9HMGRVX1g1b1Q4Y2dLbFdwekZGM2UzTXdMb1h4dkx4Z19pa1pKMFZxTzVVaWJGQlM4bnZWc1BxZlc0YjllVm5Ea3pmem5tVE1HOVRQd0RraDN6RDhlSGFoejVra2hYZFVva3VzeGhpbUloeEJsOEp5UzM3MlNGNXhCQ04wbjVGUHFncjNuZ2daSjFzcFVxdVZFWFQ?oc=5"
- },
- {
-  "id": "2af477e1c5",
-  "datum": "2026-09-04",
-  "tijd": "09:03",
-  "nieuw": false,
-  "titel": "Emmeloord - Brand in leegstaand woongebouw van Philadelphia Zorg in Emmeloord, mogelijk brandstichting",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "pand"
-  ],
-  "samenvatting": "In een voormalig woongebouw van Philadelphia Zorg aan de Pilotenweg in Emmeloord heeft vrijdagochtend vroeg een korte maar felle brand gewoed. Daarbij kwam veel rook vrij. De brand brak rond 06.20 uur uit. De brandweer had het vuur binnen een half uur onder controle. Het gaat om een leegstaand gebouw waar volgens de br",
-  "link": "https://www.omroepflevoland.nl/nieuws/522552/brand-in-leegstaand-woongebouw-van-philadelphia-zorg-in-emmeloord-mogelijk-brandstichting"
  },
  {
   "id": "1f7023a423",
