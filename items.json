@@ -52,12 +52,33 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand"
+  ],
+  "samenvatting": "Een politie-inval in haar ouderlijk huis komt voor Babs Roden uit Helmond op een bijzonder ongelukkig moment. Het leegstaande huis in Nederasselt staat net te koop, maar door de inval na de aanslag op het huis van Jan G. vreest ze dat potentiële kopers denken dat het om een drugspand gaat. \"We hebben hier geen drugs, m",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026061/huis-van-babs-staat-te-koop-en-vol-in-beeld-na-politie-inval-geen-jan-g"
+ },
+ {
+  "id": "e64a194b35",
+  "datum": "2026-09-05",
+  "tijd": "09:05",
+  "nieuw": true,
+  "titel": "Babs moet huis verkopen net na inval bij zoektocht naar bende rond Jan G.",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
    "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
    "Geweld, liquidaties & bedreiging",
    "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
+   "bende",
    "erf",
    "explosie",
    "geweld",
@@ -65,7 +86,7 @@
    "pand"
   ],
   "samenvatting": "Een politie-inval in haar ouderlijk huis komt voor Babs Roden uit Helmond op een bijzonder ongelukkig moment. Het leegstaande huis in Nederasselt staat net te koop, maar door de inval na de aanslag op het huis van Jan G. vreest ze dat potentiële kopers denken dat het om een drugspand gaat. \"We hebben hier geen drugs, m",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026061/huis-van-babs-staat-te-koop-en-vol-in-beeld-na-politie-inval-geen-jan-g"
+  "link": "https://www.omroepbrabant.nl/nieuws/6026061/babs-moet-huis-verkopen-net-na-inval-bij-zoektocht-naar-bende-rond-jan-g"
  },
  {
   "id": "1cb79b3abd",
@@ -149,7 +170,7 @@
   "id": "cdde52d05a",
   "datum": "2026-09-04",
   "tijd": "20:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "TERUGLEZEN | Eén agent is thuis, andere is van de IC af • nieuw wapen gevonden",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -170,7 +191,7 @@
   "id": "ab1472dd6c",
   "datum": "2026-09-04",
   "tijd": "18:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "‘Seksueel roofdier’ probeerde in één nacht twee vrouwen te verkrachten",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -683,27 +704,6 @@
   ],
   "samenvatting": "Het Openbaar Ministerie heeft 3,5 en 3 jaar cel geëist tegen twee Rotterdammers. De twee mannen (39 en 28 jaar) worden ervan verdacht samen 23 kilo cocaïne te hebben gesmokkeld. De douane kwam de mannen op het spoor nadat de lading cocaïne vanuit Sint Maarten was gevolgd.",
   "link": "https://www.rijnmond.nl/nieuws/2248875/rotterdammers-vrezen-wraak-na-verdwenen-cocaine-om-eist-nu-jaren-cel"
- },
- {
-  "id": "ef20997295",
-  "datum": "2026-09-04",
-  "tijd": "12:51",
-  "nieuw": false,
-  "titel": "Lelystad - 'Problemen met Houtribbruggen al jaren bekend bij Rijkswaterstaat'",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "stal",
-   "vrachtwagen"
-  ],
-  "samenvatting": "De problemen met de drie bruggen in de Houtribsluizen in Lelystad zijn al sinds 2019 bekend. Dat schrijft de regionale omroep van Noord-Holland, NH . De omroep baseert zich op rapporten die via een Woo-verzoek zijn verkregen. In 2019 was de conclusie al dat de bruggen vervangen moesten worden. Zware vrachtwagens mogen ",
-  "link": "https://www.omroepflevoland.nl/nieuws/522571/'problemen-met-houtribbruggen-al-jaren-bekend-bij-rijkswaterstaat'"
  },
  {
   "id": "c4d7ae447b",
@@ -41390,6 +41390,25 @@
   ],
   "samenvatting": "Vrees voor escalatie na liquidatie Capelle: ’Beter om hier te zwijgen’ De Telegraaf",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYjRnOEh1SWRlN2xWSHlMZFlVMXpsUXQ5ZWQzQUhBOVRpNzVoTDNaMzVaVTBNOWZfdXFNaWRrbk1EQTBZWVYzLUUyTW9xVUVoYlVNUHJhOVFWU1dsUVhfTEhnbGhIVV9OMzBPWDFzYjd1cDRvTTdkNk1ISHdlcmlkRkdkdWMzMVRwR3pPTW1fbTlWM252MHhOUmdUb3p1U1NXRXdsaVpGQkZYQnlqNTZTR3ZXWVRCTHdi?oc=5"
+ },
+ {
+  "id": "33dada9a86",
+  "datum": "2024-01-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Flitspoeder overtoept handgranaat als intimidatiemiddel, ook omdat het makkelijker verkrijgbaar is",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Flitspoeder overtoept handgranaat als intimidatiemiddel, ook omdat het makkelijker verkrijgbaar is de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVU05NE9ocjFBODRtTDlPdUliY0xaaEpBLTQ0N0pLaWJFV3R5R0Q0aUNtVDJwM24zZDQ4ZkhQOEJHeXFzUnNmNzdsODJnWkJyZzh1V0ZJTTVsY1VPaWR5UFRiNFNzVldPVHVOTnJNdTVoRFhoQ0pQSzBiWTB5VHczUmhlbVA2NUpvN1d5Q1lUaGQ3dGgzbzRleXFvbkZsT2s5b0dsODBRdlowVUxseXJwTC01TzhFWlpXRjI5WXgwNXFHcFlWVW04YXFJWGdDMTVCR2ZhRWR6b01qejBx?oc=5"
  },
  {
   "id": "a74e3ee617",

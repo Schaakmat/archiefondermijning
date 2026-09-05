@@ -1,12 +1,12 @@
 {
- "run": "09:29",
+ "run": "10:28",
  "datum": "2026-09-05",
- "nieuw": 9,
- "totaal": 2707,
+ "nieuw": 8,
+ "totaal": 2708,
  "verwijderd": 7,
  "geweigerd": {
-  "niet-nederlands": 1045,
-  "geen dossier": 520
+  "niet-nederlands": 1033,
+  "geen dossier": 495
  },
  "bronnen": [
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 76,
-   "status": "bij",
+   "items": 77,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,7 +491,7 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 57,
+   "items": 58,
    "status": "2 nieuw",
    "ok": true
   },
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 97,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 30,
-   "status": "4 nieuw",
+   "items": 29,
+   "status": "3 nieuw",
    "ok": true
   },
   {
