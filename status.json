@@ -1,12 +1,12 @@
 {
- "run": "03:30",
+ "run": "04:31",
  "datum": "2026-09-05",
- "nieuw": 9,
- "totaal": 2697,
+ "nieuw": 12,
+ "totaal": 2700,
  "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 1067,
-  "geen dossier": 494
+  "niet-nederlands": 1043,
+  "geen dossier": 492
  },
  "bronnen": [
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 154,
-   "status": "bij",
+   "items": 155,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 135,
-   "status": "bij",
+   "items": 136,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 55,
-   "status": "1 nieuw",
+   "items": 56,
+   "status": "2 nieuw",
    "ok": true
   },
   {

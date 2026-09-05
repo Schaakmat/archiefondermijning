@@ -1,5 +1,24 @@
 [
  {
+  "id": "cf09f6e112",
+  "datum": "2026-09-05",
+  "tijd": "04:19",
+  "nieuw": true,
+  "titel": "Man gewond na woningbrand in Rijsbergen, politie neemt spullen mee",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Bij een huis aan de Nassaustraat in Rijsbergen is vrijdagavond brand uitgebroken. Agenten waren op dat moment al bij het huis en zagen de vlammen ontstaan. Daarop werd meteen de brandweer ingeschakeld. De brandweer van Rijsbergen had het vuur snel onder controle. In het huis was op dat moment een man aanwezig. Hij werd",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026069/man-gewond-na-woningbrand-in-rijsbergen-politie-neemt-spullen-mee"
+ },
+ {
   "id": "ac79b2423f",
   "datum": "2026-09-05",
   "tijd": "01:00",
@@ -191,7 +210,7 @@
   "id": "41321053f6",
   "datum": "2026-09-04",
   "tijd": "17:15",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Bagagechaos Ryanair en plannen voor treinstation: dit mag je niet missen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -212,7 +231,7 @@
   "id": "330fa5e617",
   "datum": "2026-09-04",
   "tijd": "16:18",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Bewoner even weg, inbrekers slaan toe met gestolen sleutelbos en stelen voor 20.000 euro",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -983,6 +1002,25 @@
   ],
   "samenvatting": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel, broer Tristan voor medeplichtigheid De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaDNzSXh5d3RweDQzWlZIZ0dZbVQ2Sng3aGpNNW5vTnd5dmg0VkxBX0hWWjFfaGRIZFE0LU5tMWplMjFiM2pMNEpVN3QwTWFHOUJHeWwwNFp3RTdodnhwUFhWWDdsQzd2VnVLajNpNExCbDMybk5DeGRoM0ZxYkt0eWNWQktxUjlQYW1GY0otZ3pQTU5mM0FUaC1FLTlVb1A4YnBWRlFaXzJIMFpHT3dqdkUxREpfODJvUkREc2NXaEtiQXUwZnNzall4bGpFdEQ0S3IxMQ?oc=5"
+ },
+ {
+  "id": "7b455652df",
+  "datum": "2026-09-04",
+  "tijd": "09:35",
+  "nieuw": false,
+  "titel": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel, broer Tristan voor medeplichtigheid",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Andrew Tate in Roemenië aangeklaagd voor mensenhandel, broer Tristan voor medeplichtigheid De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ0dMU2ctMHJncTZfZkNqa3FHd2huQ3NKUEM3cVdhNDdJamx3a0h0REtZcFFLdnNvQmZYbjVna1Z1TElxSW85QkpaOFU3ZktraVB4S1JkYnhoOTNGajlwRnZyRXQ5QzRMR1FJSlVWa0dHVUtWV1JkZVFsYVBiUE1xTFRLSFNRaVJsbGxCSE9mOG5wYTM3RkJFSmZXbW15Yzd5b0JoSmY1bEwxV3p1SXI2T0hWX1NGei1tZVhwYnd4NHR6Ym1pYzNCRzRmOTZZY0k?oc=5"
  },
  {
   "id": "76ab23bea9",
@@ -27909,6 +27947,25 @@
   "dossiers": [
    "Arbeidsuitbuiting & mensenhandel"
   ]
+ },
+ {
+  "id": "10d585e905",
+  "datum": "2026-01-23",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Eerste resultaten in dossier Kempense afvalfraude bekend: “Verontreiniging zo sterk dat het water zelfs even zout is als zeewater”",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval"
+  ],
+  "samenvatting": "Eerste resultaten in dossier Kempense afvalfraude bekend: “Verontreiniging zo sterk dat het water zelfs even zout is als zeewater” HLN",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcERJd0ZlSkhtZVotUGpfV1IyVGt4MHNtY2dQS0xhWHgwelEyTEpHODhZVXBBTlRLdHFCMkNMT0RKVnlwRWZKQ1pkSGY3dHMzUS1yMnd3N3RJc004dUpMSFJ1OFh4UzFJbHljT3p5bmxQeWpwLUh5NE9WRkdjVHBSV0xZZER0SVVDWmFONFc1M0pVUHNTTk1hcFJkZU1zclRveHBZMjU0bWE2ZmdSZm14RDlJdlh3UFNXd2FCMW9jcnJWZVVaQnpIMV91OTE3dkZmbGhKOHdnTVpsd2dDQ3FucGpqX3hVeGMxSnQ4THhFd2k5WDdIWFp5eTdB?oc=5"
  },
  {
   "id": "e033cbd375",
