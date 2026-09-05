@@ -1,12 +1,12 @@
 {
- "run": "20:29",
+ "run": "21:31",
  "datum": "2026-09-05",
- "nieuw": 5,
- "totaal": 2729,
+ "nieuw": 6,
+ "totaal": 2730,
  "verwijderd": 5,
  "geweigerd": {
-  "niet-nederlands": 1047,
-  "geen dossier": 477
+  "niet-nederlands": 1005,
+  "geen dossier": 496
  },
  "bronnen": [
   {
@@ -140,8 +140,8 @@
    "url": "news.google.com/rss/search?q=trustkantoor%20witwassen%20OR%20katvanger%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 29,
-   "status": "bij",
+   "items": 30,
+   "status": "1 nieuw",
    "ok": true
   },
   {

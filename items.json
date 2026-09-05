@@ -105,7 +105,7 @@
   "id": "4795f50390",
   "datum": "2026-09-05",
   "tijd": "13:46",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Twee kippen gedood door ontsnapte serval Django",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -53122,6 +53122,25 @@
   ],
   "samenvatting": "‘Het strafdossier telt 25.000 pagina’s, met de hand genummerd’ NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkNTUlVVSW90dFluc0FUVVY0ZUdBTV9WNzQtVHZSaUsxS21zWmtwcDJBMm85Q1BxWC1xSklwVkV0SXhQVU9qX3NEclBTNkI1ZzA4ekFzQUQ0WnJfZE9HQ0RjSEtrak5mYzZpR3pNLS1YcHR1dC1zWXBDcDVjMllINGdqWlBTSXR0ZEJaaEtqNTkyWU5rSm9OOXZyOEptOG5pWGczUXJZa0xRWUN5MENXVENn?oc=5"
+ },
+ {
+  "id": "4270d528f2",
+  "datum": "2017-09-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "‘Het OM vervolgt bij voorkeur nationale banken niet’ - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Trustkantoren & rechtspersonen",
+  "verzameld_via": "Nieuws — Trustkantoren & rechtspersonen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "‘Het OM vervolgt bij voorkeur nationale banken niet’ NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNckVaVjVhbldfd0NMTjFTVG1LZDU0R3dsbXB6M3BaOFR4SUVQQ3VCU0R6T3FDWXZTak1KcW9XbHdoQjJPS01RdXpLeC0yX0REUzBKcXJ3VGZOQ1NYWEF6UDNDRjlYdXJGUHc5ZnQ0cF85ellCdWpvZVJlbmlfX0R3X3FoZVBkYUp5RHFkSw?oc=5"
  },
  {
   "id": "8759fadf29",
