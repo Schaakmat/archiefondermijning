@@ -1,5 +1,28 @@
 [
  {
+  "id": "065172a87e",
+  "datum": "2026-09-05",
+  "tijd": "11:00",
+  "nieuw": true,
+  "titel": "Flevoland - 26 bouwprojecten in Almere liggen stil door schorsing kwaliteitsborgers",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Criminele samenwerkingsverbanden",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "organisatie",
+   "toezichthouder",
+   "woning"
+  ],
+  "samenvatting": "In Almere liggen 26 bouwprojecten tijdelijk stil doordat drie kwaliteitsborgers zijn geschorst. Dat meldt wethouder Van Hilten na vragen van D66. Het gaat vooral om kleinere zelfbouwprojecten in Oosterwold, Almere Poort en Nobelhorst. Grote woningbouwprojecten worden niet geraakt. Sinds 2024 moeten onafhankelijke kwali",
+  "link": "https://www.omroepflevoland.nl/nieuws/522581/26-bouwprojecten-in-almere-liggen-stil-door-schorsing-kwaliteitsborgers"
+ },
+ {
   "id": "1931ddc08c",
   "datum": "2026-09-05",
   "tijd": "09:53",
@@ -17,6 +40,51 @@
   ],
   "samenvatting": "Twee minderjarige jongens zijn opgepakt op verdenking van diefstal van brommers en snorfietsen. Dat meldt de politie. De twee werden woensdag op heterdaad betrapt toen ze bezig waren in de fietsenstalling van station Lelystad Centrum. De politie ziet de afgelopen dagen meer diefstallen van brom- en snorfietsen dan norm",
   "link": "https://www.omroepflevoland.nl/nieuws/522381/minderjarig-duo-opgepakt-na-toename-diefstal-op-station-lelystad"
+ },
+ {
+  "id": "60771834bf",
+  "datum": "2026-09-05",
+  "tijd": "09:05",
+  "nieuw": true,
+  "titel": "Huis van Babs staat te koop en vol in beeld na politie-inval: 'Geen Jan G.'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "erf",
+   "explosie",
+   "geweld",
+   "makelaar",
+   "pand"
+  ],
+  "samenvatting": "Een politie-inval in haar ouderlijk huis komt voor Babs Roden uit Helmond op een bijzonder ongelukkig moment. Het leegstaande huis in Nederasselt staat net te koop, maar door de inval na de aanslag op het huis van Jan G. vreest ze dat potentiële kopers denken dat het om een drugspand gaat. \"We hebben hier geen drugs, m",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026061/huis-van-babs-staat-te-koop-en-vol-in-beeld-na-politie-inval-geen-jan-g"
+ },
+ {
+  "id": "1cb79b3abd",
+  "datum": "2026-09-05",
+  "tijd": "07:24",
+  "nieuw": true,
+  "titel": "LIVE | Grootschalig onderzoek • 20.000 euro voor doodgeschoten beveiliger Berry (51)",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "doodgeschoten"
+  ],
+  "samenvatting": "Het is de vijfde dag sinds de schietpartij in Overasselt. Eén agent heeft het ziekenhuis verlaten en mag thuis herstellen. In dit liveblog houden we je op de hoogte van het laatste nieuws.",
+  "link": "https://www.gld.nl/nieuws/8518302/live-grootschalig-onderzoek-20000-euro-voor-doodgeschoten-beveiliger-berry-51"
  },
  {
   "id": "cf09f6e112",
@@ -121,7 +189,7 @@
   "id": "c0f1591a24",
   "datum": "2026-09-04",
   "tijd": "17:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Nieuwsoverzicht 04/09 | Crowdfunding voor verongelukte tieners • Brandweer doelwit van inbraak",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -147,7 +215,7 @@
   "id": "116dab227a",
   "datum": "2026-09-04",
   "tijd": "17:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Sinan Can: 'Dertig jaar geleden was dit geweld on-Nederlands, nu niet meer'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -170,7 +238,7 @@
   "id": "107ca16647",
   "datum": "2026-09-04",
   "tijd": "17:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Minister bevraagd over veiligheidsrisico's rondom Jan G.",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -189,7 +257,7 @@
   "id": "43313a6d13",
   "datum": "2026-09-04",
   "tijd": "17:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdeelde reacties op rapport over stikstofplannen, nieuwe rechtszaken verwacht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -1452,27 +1520,6 @@
   ],
   "samenvatting": "Bij een containerterminal in Vlaardingen zijn vanavond mensen aangetroffen die in een vrachtwagen verstopt zaten. Het gaat om 15 mensen, onder wie twee kinderen. Dat meldt de Rotterdamse politie . De verstekelingen zaten in een vrachtwagen die afkomstig was uit Turkije. Vanuit de Vlaardingse haven waar ze werden aanget",
   "link": "https://nos.nl/l/2629583"
- },
- {
-  "id": "58004e2295",
-  "datum": "2026-09-03",
-  "tijd": "21:58",
-  "nieuw": false,
-  "titel": "Ontmoetingsplek voor daklozen in Nijmegen sluit na overlast: 'Kan zo niet verder'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "burgemeester",
-   "ondernemers"
-  ],
-  "samenvatting": "De openbare ontmoetingsplek voor dak- en thuislozen in Nijmegen is op last van de gemeente vanwege aanhoudende overlast permanent gesloten. De locatie werd begin dit jaar als proef geopend en leek in eerste instantie een succes. De ontmoetingsplek zit naast een opvanglocatie voor verslaafde dak- en thuislozen. De gemee",
-  "link": "https://nos.nl/l/2629574"
  },
  {
   "id": "c664fe002b",
