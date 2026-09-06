@@ -90,7 +90,7 @@
   "id": "a34cda6ed5",
   "datum": "2026-09-06",
   "tijd": "16:04",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Kijk hier terug naar de hoogtepunten van de Wereldhavendagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -109,7 +109,7 @@
   "id": "c0cdd05f1d",
   "datum": "2026-09-06",
   "tijd": "16:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Chrissie en Lorand wonen in een oud politiebureau: 'Kijkgaatje zit er nog'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -128,7 +128,7 @@
   "id": "38e8803eab",
   "datum": "2026-09-06",
   "tijd": "15:19",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Auto knalt op paal, vrouw aangehouden voor rijden onder invloed",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -147,7 +147,7 @@
   "id": "c79959f002",
   "datum": "2026-09-06",
   "tijd": "15:17",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Auto knalt op paal, vrouw aangehouden voor rijden onder invloed | Vrachtwagen kantelt op rotonde, chauffeur gewond",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -166,7 +166,7 @@
   "id": "4ab52d5fb6",
   "datum": "2026-09-06",
   "tijd": "13:12",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Meer dan twintig auto's vernield in Tilburgse parkeergarage: Belg opgepakt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -185,7 +185,7 @@
   "id": "58e49865c5",
   "datum": "2026-09-06",
   "tijd": "13:09",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "LIVE | Politie kamt gebied uit • nieuwe verdachte aangehouden voor geweld in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -204,7 +204,7 @@
   "id": "575c7dfeee",
   "datum": "2026-09-06",
   "tijd": "12:19",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Nieuwe arrestatie in onderzoek naar geweld in Overasselt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -457,25 +457,6 @@
   ],
   "samenvatting": "De ontsnapte serval Django heeft in Tilburg twee slachtoffers gemaakt. Twee kippen in een tuin van een van de omliggende tuinen hebben een confrontatie met de katachtige niet overleefd, meldt Beestenbende. Deze stichting uit Dordrecht is expert op het gebied van opvang van exotische dieren en is ingeschakeld om het die",
   "link": "https://www.omroepbrabant.nl/nieuws/6026086/twee-kippen-gedood-door-ontsnapte-serval-django"
- },
- {
-  "id": "59a7ede18d",
-  "datum": "2026-09-05",
-  "tijd": "10:55",
-  "nieuw": false,
-  "titel": "Ontsnapte serval Django opnieuw op vrije voeten, buurtbewoners zijn het zat",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "erf"
-  ],
-  "samenvatting": "Serval Django is zaterdagochtend opnieuw ontsnapt uit zijn verblijf in de Koestraat in Tilburg. Het is niet de eerste keer dat de exotische kat voor onrust zorgt in de buurt. \"Het is gewoon een gevaarlijk dier in een woonwijk\", zegt een gefrustreerde buurtbewoner. De exotische kat zorgde in mei vorig jaar ook al voor o",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026081/ontsnapte-serval-django-opnieuw-op-vrije-voeten-buurtbewoners-zijn-het-zat"
  },
  {
   "id": "192006538b",
@@ -21409,6 +21390,25 @@
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnJHNDE3REJSSFlfRnl4RkFpci12RHhCY3NaUDQ1VDkwMVdkZ2ZKMWZQQWhWU3QxRWlGcWNFYUFEd0lyUWFCb3NESDZVSHlSdEFJV1FrVFZmdTJDLVJnZHRJNmRic0dMNlJWdnc5dzFGLUJLNXFfZG9QWlFMOUJBNDhPZ1JUcDBrNFJtczZWT2R5dl9BUE93MWRMVkFzX2Y1eGZzYUR3ZEFIWkhmT3ZpU3VrN0tTNmtJOWlCTDhTdUc3eVJfRTV4bGdtSURWQQ?oc=5"
  },
  {
+  "id": "e68bd6a7c3",
+  "datum": "2026-05-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Opgepakte man bij bomaanslag op partijkantoor D66 verdacht van explosie met terroristisch oogmerk - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Opgepakte man bij bomaanslag op partijkantoor D66 verdacht van explosie met terroristisch oogmerk Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMzlZYmNHQldXZjNkbC00T0N5dmptd2UzZk1RdUxsX0ttVTBBY0NzaHJKSkc3MXpQZjR3RmhQb3lUWDRYbkg4RFVjYmlKVEE4eXhQdjMxaEFFSEhlUjZReFZFR2pRVkVWWm1MUDF4RXZsU1JFb0cxcnNnc2lvQnhyQmNSbEJyeWJENTd4NFNKUUhxTGFjOGJGWG5fV2sxMWMtZktpZWtpMVU0WG5NUk0walBaZlF5dmNHSTlWRlo2VTFrNmMwaUUtR1I1Sk51QjhHRkNYZGhB?oc=5"
+ },
+ {
   "id": "03a9c8a1d4",
   "datum": "2026-05-10",
   "tijd": "07:00",
@@ -36014,6 +36014,25 @@
   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVAtX0EweVVHM19kQW1QLWVhUUk1akpFRndMekllWW9aUkJuQXpCYTQtZ2VWdHQzLWEwend1V1FIMExzdDJTRE0tdHlEbjJTOHZjTFgtZmZ0VzQ2V2pzOE1zS3lwdkJrMmI0ZXlKN3EzOTBfaHpmakZRdFVodXlvMHZNNnhiUmJRTlFheFlhVERjVy14dFFiaVozNkNsc1c2Um9UMDhDN2NYTnIyNWZFaHNKZnV0M2FjMl9wYmY1QmVBVXVyczZMcGhQdVRDNVJCclJVRko3OGcxcG9tckEyVUdZbFdpdGtRS3diU25JTVdfSk9i?oc=5"
  },
  {
+  "id": "eba8d6681a",
+  "datum": "2025-05-01",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugs gevonden in kelderbox in Slotermeer, woning niet gesloten omdat er een kind woont - at5.nl",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Drugs gevonden in kelderbox in Slotermeer, woning niet gesloten omdat er een kind woont at5.nl",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ1JRaFZZZlM4R3E4TWFEdlplb2F0WWFuMkVRdkJRbE40ZWFsVjdNZGJaZ3g3VUl0S0hmaHk3VHAtWUtTMU1XRng4SVJjUnhRMEpKUXNYWW9TSkhnNFVVQWpSWVNveXplQTNGcFAwNjA5RG5jRTJQS2U5YThGel9iTXhuVmlmenVmT2hlVmZ6WFkxLXF3ejVzSTVhQTRHM1lfeXNNLS1uQzVVV0s5X1VTSTNERzY0NUxsNWhhckFiQQ?oc=5"
+ },
+ {
   "id": "7ddd2f2cb2",
   "datum": "2025-04-29",
   "tijd": "07:00",
@@ -43777,6 +43796,26 @@
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRDJ4enhMOGVMaDJSMTRsbUNtUWZfX3NvZGcwLW5oTktjNnhnUzJWcUU3bEhaQlZybS16T2JqUVcxcEpndnNYMUxjV3RMdEF1YlFxREd1ZGtzVVVkRjFQcWl0a0F5bnlEMHpybzFPX2FRTVQ1M2Y0bzNkN1g4MzNsVmVCUk85TlV4TC1RVkZEQTg5dEJ3aTdtWGFtMHNSNEtjbi1jQk9QeHZ1Y2hqbGg2NWpoa2NWMVBnWWduUmtSYUFFMTg0aWphNQ?oc=5"
  },
  {
+  "id": "18a6580255",
+  "datum": "2023-09-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Oud-minister Henk Kamp vindt hogere boetes voor uitkeringsfraude 'logisch', maar volgens experts werken ze niet",
+  "bron": "EenVandaag",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "uitkeringsfraude"
+  ],
+  "samenvatting": "Oud-minister Henk Kamp vindt hogere boetes voor uitkeringsfraude 'logisch', maar volgens experts werken ze niet EenVandaag",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQzliVzdpR3NPMnhMRmhwaURUNjc0MzBNUU00c0xqMjgzQXJMSTdMUVRTSnZUN0tQSWN2SFBCUzdsdW5Sak0tYzB4R21TeTZhYk9Lb3RxZW9EMDBiaWNZdEVuMURMcnZzUFJ2dEtFYWY4QWZZZFB0ak1YVG9TTXVRYlBhMFk4R1dzVS12eTRuUUxXeU4wRzRrVUFFR1pSazJjTTJwTlp5d1VQdERJcTdEZ2lXQWwycWFCMTVRaUFSVzZOc0lYYU5Lb1BtTjJRY180aXhxRmVLeDgyemZqcENrUThHWHpBMlRrWGpoaQ?oc=5"
+ },
+ {
   "id": "a7e0d5981f",
   "datum": "2023-09-13",
   "tijd": "07:00",
@@ -48654,6 +48693,25 @@
   ]
  },
  {
+  "id": "f04ae4b2d1",
+  "datum": "2021-06-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Kleine 6 jaar cel voor Gaby H. (37) uit Hoofddorp voor drugs en witwassen - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Kleine 6 jaar cel voor Gaby H. (37) uit Hoofddorp voor drugs en witwassen Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlRaMWFRMFhVSFhCbk5fUzd3bnp3TDhXR255LUxCZkZPdDFrQ0MyQjNhTFNkMGN6ZkxTdTk5X2c2RW1Wd2lrOXhSV1M5c2dCUFkyWDhjWVNoN0ZlMWFodkpFU1RvNnB0VTRFRzJQdkdCcE9OZnlxeWotQTY3TnJWYTFnajdrQnF2WXRxY0J1N0RpWnVnN3Vtd1lGZzhlTnFqR0taekFQZ0F4TmstRUhWZk5R?oc=5"
+ },
+ {
   "id": "dc8020336b",
   "datum": "2021-06-09",
   "tijd": "07:00",
@@ -49199,6 +49257,25 @@
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0VDa3RNOEZIa0J2cmw2ZWJTV0JwOFY4cExTeW5fTERVZ3FWRTNLTGd5MDRNdlNfLWs4aHJoaU82TDZwVjVBMTF6dUxpaWcxVUl5QnBkS2M2ZHJMTkJNVzZoTHlwNFFqUzJOdGpuT0tXMXp0ZjNZNDMzeFl3ZC1wb2xKWGhOWUxaTUV4Q0dubGxrT09VNXA1Ty0xYmNKT3JWenJQQ01sMG5fd0N1enAxZGt6U2tHbXNPUWFF?oc=5"
  },
  {
+  "id": "9fa83cf1f1",
+  "datum": "2021-03-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Meerdere invallen in onderzoek naar witwassen door inwoner Rijsenhout - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Meerdere invallen in onderzoek naar witwassen door inwoner Rijsenhout Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWjBUT1pkbjB5dHh1UHF1Z2gyV3o3WG1RekRDV3hnb1JnRHcwUFFNUy0tR0k3dXNPdmhNcVUzdHpWQ1k2LWxXUzFCX3F0c0FEWVZBeklUN2FMWHJwa0ZYd2JBZjAtNl83cjV5QTVORDlLTzM3c0llNHJPUE9pMFJOS2hENlFnN0tLODIxaXlweG9TQ0phU183WjhTRXNBUGNWWkR6c29OeGRMVjBJWnR2MA?oc=5"
+ },
+ {
   "id": "8b72b862a3",
   "datum": "2021-03-04",
   "tijd": "08:00",
@@ -49656,6 +49733,25 @@
   ],
   "samenvatting": "KMar maakt vuist tegen ondermijnende criminaliteit op luchthavens Ministerie van Defensie",
   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxbDVJNzViZlBEanRhTnZRemtmdjMwT3BzWERob2tiZ0pMV0pkWm0zQm9PTkNkd3R1clhKTTYtdmtrZ0hHYklXYURWVHlLWC1OVTR4RzVhN0M3bnRmaVk4NkVsdmR4TnQwUFdvT180UUhKbnRJMnpWcXFlUTQwa2M?oc=5"
+ },
+ {
+  "id": "600a225357",
+  "datum": "2020-11-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zeven mannen aangehouden in onderzoek naar drugs en witwassen - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Zeven mannen aangehouden in onderzoek naar drugs en witwassen Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQelNMWFQ4SEdjR3c2d25BbVdHaTBReWhTaDVBLTZwQjlkS1hmOUd6MU9Id0dpcnVhdnJWTEd5djFVaE1BZTM0YVRWMVJfdXRjY01tb3RSbDVCTGdZZ1E2Zl9NWGxPdnhYSUZiV0tnYmxFcjVXelZVdU9qaXFYc21FMzhIX0h0VkRCQU1ocUhHU1htV1V3amxVYzlwVjVSc1ZvMEpzZ29B?oc=5"
  },
  {
   "id": "2cf3bc333b",
@@ -50907,6 +51003,25 @@
   ],
   "samenvatting": "Ondermijning: Uiteindelijk gaat het altijd over geld Nieuws.nl",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbGVFam1IRzhmV2RXN3ZHcGt5T19CeVZWcnlHQ0tpX011NldtY1ZfYy1OWVB0Ukk4SGlTQ29iY3VkekIzSDF0NzlmUTZXYTY3U2R3QUR2aHJvdUN1czgybE41TGJWalhwWlo1eUVnQUNuTDBUMXBIaGJiell0M1ZoczZNVW1idjRvcmNwaQ?oc=5"
+ },
+ {
+  "id": "5949f62c75",
+  "datum": "2020-01-17",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "De aanpak van zorgfraude hoeft niet te wachten op een nieuwe wet",
+  "bron": "Trouw",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "De aanpak van zorgfraude hoeft niet te wachten op een nieuwe wet Trouw",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUkZnVDVzU1UxeV9MdllGUGd0UmMwTjdLNVk0SnJsLVcxa1M2VjV2dTBqWlZTd2hJVWU3akdTOHI2VXJ6aFM3V2doRE5XV1VJeV9MbHI1cWhpS0NfZVptQ2g2d0lmeUxTaVctX3J2N3FqdkdXemVwT2pLbDQycWtsZ0lRNFByblBMdEpnS1ZYYnA5VDBBWjV2VHN1MmEtRURfWjZ5WQ?oc=5"
  },
  {
   "id": "4a10fc43d1",
@@ -54523,6 +54638,26 @@
   ],
   "samenvatting": "Wapenhandelaar Jan van der L. die in Kroatië werd opgepakt terug in Nederland Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVVBmdTdYRzh3Qk50Yk03ZmQ5cEdqWDRaQW5rUlllMXg3Y0g1dnZVSVIwRExHRFlJb2pBdzRmcThva0VUd1JtcmZXaWxiYUxyVEwwOF9fWEFJM3lab1ZTVVN4OXgzSjR0aGNJcTZubFZpSHBsTm5zR290enVranowYVd1VWlYMS1rT01keU5fWUliMEFHOF9sWXpMQm1GbjRFdGEySHE1WEpmbDI5N3BiUzV2UTZ3T1hNZDQ3OA?oc=5"
+ },
+ {
+  "id": "273548d82f",
+  "datum": "2015-04-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Marktplaats geeft info voor onderzoek naar uitkeringsfraude",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "uitkeringsfraude"
+  ],
+  "samenvatting": "Marktplaats geeft info voor onderzoek naar uitkeringsfraude NOS",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYUpZX184ZHdHNk1uYnp3MXdJcGRtemxzYm5XYXFneklER3lnVUNpaUZwdEJ4V3MzQ25idFpQZUNpS3BINzg5Q1hSdlJ6amJGTDYwNW9rOVJLeGFHMG9lWGI4bklwNjhfZkdfU0JNLUhlM3lMZFRUTzBQX1JyQUxTVjEtS3lBN3RPaVRuQkNWUXRBVzNi?oc=5"
  },
  {
   "id": "0d285dd6b1",

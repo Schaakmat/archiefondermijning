@@ -1,12 +1,12 @@
 {
- "run": "19:27",
+ "run": "20:32",
  "datum": "2026-09-06",
- "nieuw": 4,
- "totaal": 2766,
+ "nieuw": 11,
+ "totaal": 2773,
  "verwijderd": 4,
  "geweigerd": {
-  "niet-nederlands": 1023,
-  "geen dossier": 496
+  "niet-nederlands": 1036,
+  "geen dossier": 462
  },
  "bronnen": [
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 115,
-   "status": "bij",
+   "items": 118,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 64,
-   "status": "3 nieuw",
+   "items": 63,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 44,
-   "status": "bij",
+   "items": 49,
+   "status": "5 nieuw",
    "ok": true
   },
   {
