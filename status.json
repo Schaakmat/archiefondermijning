@@ -1,12 +1,12 @@
 {
- "run": "07:29",
+ "run": "08:31",
  "datum": "2026-09-06",
- "nieuw": 5,
- "totaal": 2739,
+ "nieuw": 7,
+ "totaal": 2741,
  "verwijderd": 5,
  "geweigerd": {
-  "niet-nederlands": 1045,
-  "geen dossier": 462
+  "niet-nederlands": 1041,
+  "geen dossier": 507
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 141,
-   "status": "bij",
+   "items": 142,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -509,9 +509,9 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 99,
-   "status": "fout 404",
-   "ok": false
+   "items": 100,
+   "status": "1 nieuw",
+   "ok": true
   },
   {
    "naam": "1Limburg",
