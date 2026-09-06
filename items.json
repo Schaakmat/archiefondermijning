@@ -76,6 +76,25 @@
   "link": "https://www.omroepzeeland.nl/nieuws/18757579/veiligheidsrisicos-en-druk-verkeer-havenbedrijf-verzet-zich-tegen-pr-plan-bij-westerscheldetunnel"
  },
  {
+  "id": "e5b96aa251",
+  "datum": "2026-09-06",
+  "tijd": "09:40",
+  "nieuw": true,
+  "titel": "LIVE | Nieuwe verdachte aangehouden voor geweld in Overasselt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Het is de zesde dag sinds de schietpartij in Overasselt. Het leven wordt weer opgepakt en de politie heeft een nieuwe verdachte aangehouden. In dit liveblog houden we je op de hoogte van het laatste nieuws.",
+  "link": "https://www.gld.nl/nieuws/8518576/live-nieuwe-verdachte-aangehouden-voor-geweld-in-overasselt"
+ },
+ {
   "id": "c20332e373",
   "datum": "2026-09-06",
   "tijd": "05:23",
@@ -121,7 +140,7 @@
   "id": "1c8ff7c55d",
   "datum": "2026-09-06",
   "tijd": "04:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Automobilist rijdt tankzuil omver, andere man weet net op tijd weg te komen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
