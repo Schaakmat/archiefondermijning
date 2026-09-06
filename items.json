@@ -1,5 +1,26 @@
 [
  {
+  "id": "b86c2f1fbf",
+  "datum": "2026-09-06",
+  "tijd": "16:30",
+  "nieuw": true,
+  "titel": "Gebouw Hogeschool Utrecht weken dicht vanwege grote waterschade",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school",
+   "stal"
+  ],
+  "samenvatting": "Een gebouw van de Hogeschool Utrecht (HU) aan de Padualaan 97 is voorlopig gesloten vanwege grote waterschade. Tijdens werkzaamheden op de vijfde verdieping brak vrijdagavond een afsluiter van een waterleiding, waardoor veel water vrijkwam. Het water verspreidde zich door het gebouw en beschadigde elektrische en techni",
+  "link": "https://nos.nl/l/2629941"
+ },
+ {
   "id": "4ab52d5fb6",
   "datum": "2026-09-06",
   "tijd": "13:12",
@@ -117,7 +138,7 @@
   "id": "e5b96aa251",
   "datum": "2026-09-06",
   "tijd": "09:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Nieuwe verdachte aangehouden voor geweld in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -136,7 +157,7 @@
   "id": "c20332e373",
   "datum": "2026-09-06",
   "tijd": "05:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rust terug na dagenlange rellen Geitenkamp: hoe nu verder?",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -157,7 +178,7 @@
   "id": "7f8b5459eb",
   "datum": "2026-09-06",
   "tijd": "05:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Marcouch wil weten of er fouten zijn gemaakt bij geëscaleerde burenruzie Geitenkamp",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -178,7 +199,7 @@
   "id": "1c8ff7c55d",
   "datum": "2026-09-06",
   "tijd": "04:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Automobilist rijdt tankzuil omver, andere man weet net op tijd weg te komen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
