@@ -1,12 +1,12 @@
 {
- "run": "05:28",
+ "run": "06:35",
  "datum": "2026-09-06",
  "nieuw": 7,
- "totaal": 2738,
+ "totaal": 2739,
  "verwijderd": 6,
  "geweigerd": {
-  "niet-nederlands": 1079,
-  "geen dossier": 487
+  "niet-nederlands": 1047,
+  "geen dossier": 511
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 140,
-   "status": "bij",
+   "items": 141,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -105,7 +105,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 62,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 28,
-   "status": "2 nieuw",
+   "items": 27,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 98,
-   "status": "bij",
+   "items": 99,
+   "status": "1 nieuw",
    "ok": true
   },
   {

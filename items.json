@@ -1,5 +1,26 @@
 [
  {
+  "id": "c20332e373",
+  "datum": "2026-09-06",
+  "tijd": "05:23",
+  "nieuw": true,
+  "titel": "Rust terug na dagenlange rellen Geitenkamp: hoe nu verder?",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "vuurwerk"
+  ],
+  "samenvatting": "Gemeente, politie en wooncorporatie zijn nog altijd met elkaar in gesprek hoe om te gaan met de geëscaleerde burenruzie in de Arnhemse wijk Geitenkamp die tot dagenlange rellen en vuurwerk gooien leidde. Burgemeester Ahmed Marcouch wil helder hebben of er in de aanloop daar naartoe fouten zijn gemaakt door de instantie",
+  "link": "https://www.gld.nl/nieuws/8516959/rust-terug-na-dagenlange-rellen-geitenkamp-hoe-nu-verder"
+ },
+ {
   "id": "1c8ff7c55d",
   "datum": "2026-09-06",
   "tijd": "04:20",
@@ -124,7 +145,7 @@
   "id": "4795f50390",
   "datum": "2026-09-05",
   "tijd": "13:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee kippen gedood door ontsnapte serval Django",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1511,25 +1532,6 @@
   ],
   "samenvatting": "Enorme partij crystal meth van 16.000 kilo gepakt bij oprollen MEGA drugslab in Sinaloa Drimble",
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGJvQUE5R0xXTWFCX0xkak9fMVJwTTF0TkpvbHJUaFNBYnFmZkc5dEVVUWNpN2VNWm1Pbmo5a2ZRZFJvdkpSMUxTMG1ZbmlVUWUzSlZfQ09iNGJPZmtTaWlBUlhZallLaHJ5S0ZHMy1kMVlFQmcycWxlUXliQi13amw1c3lxYXkxQUhpMXFqT1RWRVVuSEY2a25RNGtNeURya0xLNU53d2dSRUp2eHpSMmx1dGEyNXlpV3F4U1Y5V2ExcFBESDNtdWRtQVZNdjJl?oc=5"
- },
- {
-  "id": "36ba5eb111",
-  "datum": "2026-09-04",
-  "tijd": "06:59",
-  "nieuw": false,
-  "titel": "Wekdienst 4/9: Staking in Nederlandse havens • Record voor de Italiaanse premier Meloni",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "haven"
-  ],
-  "samenvatting": "Goedemorgen! In de Nederlandse havens wordt gestaakt, en in de Italiaanse stad Bari is het feest omdat de regering van Meloni de langstzittende is in Italië sinds 1946. Eerst het weer: vandaag waait het stevig, met windkracht 5 in het binnenland en windkracht 7 aan de kust. Er zijn in de kustgebieden ook zware windstot",
-  "link": "https://nos.nl/l/2629596"
  },
  {
   "id": "b730f89de1",
@@ -17680,6 +17682,26 @@
   ],
   "samenvatting": "Man aangehouden op verdenking witwassen - Al het nieuws uit Barendrecht Alfabrent",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVHN0T3ZkSGgyY0ZDTnkzQnY0VEhSTThYeVBzanB5eEpUMlFLRHhUWm1hX1RtYVMwaEhvMVJjemdRajYtVGdLMWJXRHNjNENNcnBXVHp2Mjl2dGh0Z0w1VHRrOV9GVkRfWThFRXhDWS1ZUjBYMDFodWZRaGF2ckdYcU1KM3RoZWM0Sm9mLWRYTWtmamVuWU1fZ05aRTVYUQ?oc=5"
+ },
+ {
+  "id": "e590f4272b",
+  "datum": "2026-06-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Schuur aan de Brahmstraat gesloten na aantreffen hennepkwekerij",
+  "bron": "Lokale Omroep Volendam Edam",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Schuur aan de Brahmstraat gesloten na aantreffen hennepkwekerij Lokale Omroep Volendam Edam",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjVOSW81dlAyREJiRmowc2NsUm4wekR4Y0JUN2RFNWZLLWN0bHhPbXBRcDVZQ3NtVHlDanFZdm8wazh1X21nZE1Kc3JFMjcwSWFuMFZ3ZFhSM3F1dG9ydjk2OG9VQ0tkY2hNdXdYN2RSdFVHYW5sNGU0a0tuLTc1X1lPMTZOTjBGS2FPRjY0bi0xdEo3VVlBUkdfdEJHd1hTSllj?oc=5"
  },
  {
   "id": "df798bed53",
