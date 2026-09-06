@@ -105,7 +105,7 @@
   "id": "4795f50390",
   "datum": "2026-09-05",
   "tijd": "13:46",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Twee kippen gedood door ontsnapte serval Django",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -41275,6 +41275,25 @@
   ],
   "samenvatting": "Marinier schuldig aan grootschalige oplichting met cryptovaluta en witwassen De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOeGhaMDd0bE91NW01ckJLSDY5UWszZ3BoUFo0X3Z4Smh5amFFWkx1Qjd1b0FvUi1VMWE3dExuWUtjWGxrZks2RXFVdkdXcjF6aXBQWTQyZnY4ZERNMEtZMkU1SXRBUFVJT0FfVkRvWnZZNktaWEJVdkQ0X0JMc283eWFUeWZ4VjJDMk5MUUdOXzBqN0dDTkYzbHo5QWx6OFlfdnFkZlBsbU9vUUwwOGRCUzJNQWZpWVI4bGhfYmxtcVFNN2tXZ1Z2dmxocDhmN0hLcjQ3ZWhxWkpOQ0NUM0YyY1FmNEMtY2pFa1pUbHJoT2UxVEFpc013NE1jUzJCRVo5dXoxejBENU1abTJKcG9yNXh2MU8?oc=5"
+ },
+ {
+  "id": "3af210da93",
+  "datum": "2024-02-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Ministerie van financiën VS: ‘Bitcoin niet populair onder criminelen’",
+  "bron": "Newsbit",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "bitcoin"
+  ],
+  "samenvatting": "Ministerie van financiën VS: ‘Bitcoin niet populair onder criminelen’ Newsbit",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnVDOTVIY2k0bW5OT0hZcHJ4dEFocEtZaGJFTHh5eENxYk9pd3JjYTdzcXd3QkVGa2ROOUtwV3I3Yk53YU1zMlYxZV9NNndKV29RY1VqYk9uYUg0cEtXWjh0dlV5NTV5TW9VN2d4Y0FTMjU3R1pkZXhGNjRUZDhaZmwwN09pT2VoQlZKV0d3bw?oc=5"
  },
  {
   "id": "4f1f20579e",

@@ -1,12 +1,12 @@
 {
- "run": "01:28",
+ "run": "02:30",
  "datum": "2026-09-06",
- "nieuw": 5,
- "totaal": 2733,
+ "nieuw": 6,
+ "totaal": 2734,
  "verwijderd": 5,
  "geweigerd": {
-  "niet-nederlands": 1051,
-  "geen dossier": 498
+  "niet-nederlands": 1031,
+  "geen dossier": 497
  },
  "bronnen": [
   {
@@ -104,8 +104,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 60,
-   "status": "bij",
+   "items": 61,
+   "status": "1 nieuw",
    "ok": true
   },
   {
