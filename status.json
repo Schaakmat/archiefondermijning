@@ -1,12 +1,12 @@
 {
- "run": "03:32",
+ "run": "04:31",
  "datum": "2026-09-06",
- "nieuw": 6,
- "totaal": 2735,
+ "nieuw": 7,
+ "totaal": 2737,
  "verwijderd": 5,
  "geweigerd": {
-  "niet-nederlands": 1059,
-  "geen dossier": 492
+  "niet-nederlands": 1045,
+  "geen dossier": 501
  },
  "bronnen": [
   {
@@ -50,8 +50,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 59,
-   "status": "bij",
+   "items": 60,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 61,
-   "status": "2 nieuw",
+   "items": 62,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -573,7 +573,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 36,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   }
  ]
