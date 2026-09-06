@@ -1,5 +1,31 @@
 [
  {
+  "id": "38e9e6f1ed",
+  "datum": "2026-09-06",
+  "tijd": "17:15",
+  "nieuw": true,
+  "titel": "Iraanse studenten, broer Bolle Jos en bloemencorso: dit mag je niet missen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Goudhandel & edelmetalen",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "goud",
+   "goudstaven",
+   "sieraden",
+   "vergunning",
+   "witwassen"
+  ],
+  "samenvatting": "Goed nieuws voor twee Iraanse studenten aan Fontys Tilburg, de winnaar van het bloemcorso in Zundert en de broer van Bolle Jos die in de rechtbank moest verschijnen. Dit zijn de vijf verhalen die je de afgelopen week gelezen moet hebben. Twee Iraanse studenten aan Fontys Tilburg krijgen ademruimte. Danial Khan Fini en ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026133/iraanse-studenten-broer-bolle-jos-en-bloemencorso-dit-mag-je-niet-missen"
+ },
+ {
   "id": "b86c2f1fbf",
   "datum": "2026-09-06",
   "tijd": "16:30",
@@ -48,13 +74,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "boerderij",
-   "pand",
-   "stal",
    "woning"
   ],
   "samenvatting": "In het hart van Vlijmen staat een woning te koop die vroeger onderdeel was van het plaatselijke politiebureau. Lorand en Chrissie Tokmakcija wonen er sinds mei 2018 met hun twee kinderen. \"In de straat wonen nog buren die het huis kennen als politiebureau. Die hebben er heel veel verhalen over.\" Het gezin kocht het pan",
@@ -121,7 +143,7 @@
   "id": "58e49865c5",
   "datum": "2026-09-06",
   "tijd": "13:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Politie kamt gebied uit • nieuwe verdachte aangehouden voor geweld in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -140,7 +162,7 @@
   "id": "575c7dfeee",
   "datum": "2026-09-06",
   "tijd": "12:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nieuwe arrestatie in onderzoek naar geweld in Overasselt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -159,7 +181,7 @@
   "id": "c40f503593",
   "datum": "2026-09-06",
   "tijd": "10:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Automobilist ramt onder invloed tankstation langs A58 bij Etten-Leur, veel schade",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -178,7 +200,7 @@
   "id": "04ef79390b",
   "datum": "2026-09-06",
   "tijd": "10:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Havenbedrijf geen fan van keuze voor park-and-ride bij Borssele",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -435,25 +457,6 @@
   ],
   "samenvatting": "In Almere liggen 26 bouwprojecten tijdelijk stil doordat drie kwaliteitsborgers zijn geschorst. Dat meldt wethouder Van Hilten na vragen van D66. Het gaat vooral om kleinere zelfbouwprojecten in Oosterwold, Almere Poort en Nobelhorst. Grote woningbouwprojecten worden niet geraakt. Sinds 2024 moeten onafhankelijke kwali",
   "link": "https://www.omroepflevoland.nl/nieuws/522581/26-bouwprojecten-in-almere-liggen-stil-door-schorsing-kwaliteitsborgers"
- },
- {
-  "id": "59a7ede18d",
-  "datum": "2026-09-05",
-  "tijd": "10:55",
-  "nieuw": false,
-  "titel": "Ontsnapte serval Django opnieuw op vrije voeten, buurtbewoners zijn het zat",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "erf"
-  ],
-  "samenvatting": "Serval Django is zaterdagochtend opnieuw ontsnapt uit zijn verblijf in de Koestraat in Tilburg. Het is niet de eerste keer dat de exotische kat voor onrust zorgt in de buurt. \"Het is gewoon een gevaarlijk dier in een woonwijk\", zegt een gefrustreerde buurtbewoner. De exotische kat zorgde in mei vorig jaar ook al voor o",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026081/ontsnapte-serval-django-opnieuw-op-vrije-voeten-buurtbewoners-zijn-het-zat"
  },
  {
   "id": "192006538b",
@@ -24257,6 +24260,27 @@
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDlCWFpvRDExTmNUTk84ZFNDc0Y5TmhqNzBIQm93anlDbHgyMk92Q0pfZkFRQXBXR0dfQ19oM3hTclY0aFAwbjVGNm1zNUFVZ0gtSkp4MDQtam9laDFNeWp3R1VZOTlhRmNLMlVDcUlLT1ZHMTN5SmM2VHhXWDgxdWduUUVZVkRMMnN0TUNkaDhhc2pzWUpjRW1Gc0xjQXdVeWk1WWlteGpPd25scm9fTVF1TmNWV0dRc3VfV0ZSZHlKRXZRZmpIU1Rn?oc=5"
  },
  {
+  "id": "3470a01285",
+  "datum": "2026-04-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Van drugslab naar dierenasiel: tien Hongaarse wolvarkens zoeken nu een warme thuis",
+  "bron": "HBVL",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bv",
+   "drugslab"
+  ],
+  "samenvatting": "Van drugslab naar dierenasiel: tien Hongaarse wolvarkens zoeken nu een warme thuis HBVL",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPemN3ZTJ3ZXo1OUljVE9vYWloblpSYnY4UmNZZ0Z1Vm9ySVN1M1VCS3R1ZkZkSGJzYnpodmpRQlZWaWNmYU5iM0E0ZWVZOVROOXM5QWhpRzVrX3Z6QkVvdGE1bElJek9IMHRDZEFEWmh5RVdac3VzaXRCeDJyQVFDZWtXRWhMdVVZdTFPNWZxN3Q0U21sWlFfdDc4YjlPRTZkd0R4RUFkczlOUDFHdG1TOWhOSW4xdHVUcnhKb0xuVEVXZi1STk4yaEJIMlNWUkpOaU9IbzRFMnlSelNnUENOOFJMSjgwLVI4dVc5UQ?oc=5"
+ },
+ {
   "id": "f282f6a6f7",
   "datum": "2026-04-04",
   "tijd": "07:00",
@@ -28798,6 +28822,25 @@
    "Crypto & digitaal geld",
    "Trustkantoren & rechtspersonen"
   ]
+ },
+ {
+  "id": "df8787c6d9",
+  "datum": "2026-01-14",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Vernieuwd Bibob-beleid voor alle IJmond-gemeenten en de BUCH moet het criminelen nog lastiger maken: ’Shoppen loont niet meer’",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Vernieuwd Bibob-beleid voor alle IJmond-gemeenten en de BUCH moet het criminelen nog lastiger maken: ’Shoppen loont niet meer’ Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQbnUtLWxUcG9qSThYS29wQWpJOG1fWDFibURBRm1qcVl0eVNmZ0hqLVVRRHV6ekRscTVLZjhLOWI0YVAtMmkzMFpqcC10WkFXZTdwRVF4enBkNFRTYW9pNGFDaFAxT1AxbC1YUWtzekUtclpiNUU0MVgyLVNrUjJSRFBoRDVNVjRmaXZKOC1XU3BjWEQtYksySU5hQ0JHTGpGUUc1cktGaHJzZlhlWlBPdlRxUkkzbm9fQkk1elJqSGtFNjJtYlVsYS15aEEyT2VPUTFYTE9Na1h4VmY0M2NUZEFrcGFWaTNDVXBxZUkteVVkbkpsc1hHQUdoTjVfUzJhdVJFMHF0c3RUMmJTVnpqZlJwaDBrUQ?oc=5"
  },
  {
   "id": "a26c1e5ad5",

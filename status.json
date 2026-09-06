@@ -1,12 +1,12 @@
 {
- "run": "16:31",
+ "run": "17:28",
  "datum": "2026-09-06",
- "nieuw": 10,
- "totaal": 2761,
- "verwijderd": 6,
+ "nieuw": 7,
+ "totaal": 2763,
+ "verwijderd": 5,
  "geweigerd": {
-  "niet-nederlands": 1032,
-  "geen dossier": 496
+  "niet-nederlands": 1071,
+  "geen dossier": 483
  },
  "bronnen": [
   {
@@ -141,7 +141,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 31,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 42,
-   "status": "bij",
+   "items": 43,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 64,
-   "status": "4 nieuw",
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 57,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 88,
-   "status": "bij",
+   "items": 89,
+   "status": "1 nieuw",
    "ok": true
   },
   {
