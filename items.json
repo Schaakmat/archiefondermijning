@@ -1,10 +1,32 @@
 [
  {
+  "id": "575c7dfeee",
+  "datum": "2026-09-06",
+  "tijd": "12:19",
+  "nieuw": true,
+  "titel": "Nieuwe arrestatie in onderzoek naar geweld in Overasselt",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "beveiliging",
+   "doodgeschoten",
+   "geweld",
+   "moord"
+  ],
+  "samenvatting": "De politie heeft een nieuwe verdachte aangehouden in het onderzoek naar het geweld in Overasselt. Het gaat om een 26-jarige man met de Belgische nationaliteit. De verdachte werd vrijdag gearresteerd in Amsterdam. Hij wordt verdacht van betrokkenheid bij de gebeurtenissen in Overasselt afgelopen week. De politie doet ve",
+  "link": "https://nos.nl/l/2629906"
+ },
+ {
   "id": "c40f503593",
   "datum": "2026-09-06",
   "tijd": "10:43",
   "nieuw": true,
-  "titel": "Dronken automobilist ramt tankstation langs A58 bij Etten-Leur, veel schade",
+  "titel": "Automobilist ramt onder invloed tankstation langs A58 bij Etten-Leur, veel schade",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
@@ -15,8 +37,27 @@
   "tags": [
    "bestuurder"
   ],
-  "samenvatting": "Een automobilist is gisteravond in West-Brabant in beschonken toestand met hoge snelheid tegen een benzinepomp gereden. Het ongeval gebeurde rond 22.45 uur langs de A58 bij Etten-Leur. Een andere automobilist, die op dat moment stond te tanken, kwam volgens de politie met de schrik vrij. Zijn auto liep wel flinke schad",
+  "samenvatting": "Een 28-jarige automobilist uit Breda is gisteravond in West-Brabant onder invloed van drugs en alcohol met hoge snelheid tegen een benzinepomp gereden. Het ongeval gebeurde rond 22.45 uur langs de A58 bij Etten-Leur. Een andere automobilist, die op dat moment stond te tanken, kwam volgens de politie met de schrik vrij.",
   "link": "https://nos.nl/l/2629891"
+ },
+ {
+  "id": "04ef79390b",
+  "datum": "2026-09-06",
+  "tijd": "10:01",
+  "nieuw": true,
+  "titel": "Havenbedrijf geen fan van keuze voor park-and-ride bij Borssele",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Het havenbedrijf heeft in een brief aan de provincie gevraagd de keuze voor de locatie toe te lichten en te onderbouwen met onderzoeken.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18757579/havenbedrijf-geen-fan-van-keuze-voor-park-and-ride-bij-borssele"
  },
  {
   "id": "c20332e373",
@@ -76,7 +117,7 @@
   "tags": [
    "bestuurder"
   ],
-  "samenvatting": "Een automobilist heeft zaterdagavond laat een grote ravage veroorzaakt bij een tankstation aan de A58 bij Etten-Leur. De man reed een complete zuil waar je kunt tanken omver. Een andere man die op dat moment bij die zuil stond om te tanken zag de auto aankomen en kon op tijd weg springen. Hij raakte niet gewond. De aut",
+  "samenvatting": "Een automobilist (28) heeft zaterdagavond laat een grote ravage veroorzaakt bij een tankstation aan de A58 bij Etten-Leur. De man uit Breda reed een complete zuil waar je kunt tanken omver. Een andere man die op dat moment bij die zuil stond om te tanken zag de auto aankomen en kon op tijd weg springen. Hij raakte niet",
   "link": "https://www.omroepbrabant.nl/nieuws/6026104/automobilist-rijdt-tankzuil-omver-andere-man-weet-net-op-tijd-weg-te-komen"
  },
  {
@@ -128,7 +169,7 @@
   "id": "86ad24c95a",
   "datum": "2026-09-05",
   "tijd": "14:53",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Nagele - Surfer gewond na aanvaring met plezierjacht op Ketelmeer",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -147,7 +188,7 @@
   "id": "4eaa128693",
   "datum": "2026-09-05",
   "tijd": "14:53",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Nagele - Aanvaring op Ketelmeer: surfer gewond",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -166,7 +207,7 @@
   "id": "7b047e1533",
   "datum": "2026-09-05",
   "tijd": "13:46",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Ontsnapte serval Django doodt twee kippen en is nog altijd spoorloos",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -185,7 +226,7 @@
   "id": "4795f50390",
   "datum": "2026-09-05",
   "tijd": "13:46",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Twee kippen gedood door ontsnapte serval Django",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -204,7 +245,7 @@
   "id": "065172a87e",
   "datum": "2026-09-05",
   "tijd": "11:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Almere - 26 bouwprojecten in Almere liggen stil door schorsing kwaliteitsborgers",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -43716,6 +43757,25 @@
   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZHZ4dlZWQmdKTkllVndVWmg0aGpYTXY1bllLb3FDdUpMQXJ6YmdyR251TVF1eTVlb1ctbFozc0I1NldrckF4X2ZjMjYxWVk5elQ5VzNEckQ4MFhydE10WGdHQnctVFROekdtOFNfaC1yS00zOFg3TGltQjJwaXI4VGNqaERmMzBuNjZNQWxiaXZQNEdQYXdzMThSeG9BRjMtTGRCa2V2TVAzUEI0MmllSUtzblN3U0gteHRvOC1hZXNCQ1hkVmJLUlZFNnFBTktzMmhTQlFDRTFCclNKX2ZQM0hDTVFOdS1ET3ZDYlptWm5jc3Nna1VJTjVvcHVMWjhz?oc=5"
  },
  {
+  "id": "4a51a34b9e",
+  "datum": "2023-08-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zorgen over Baarnse jongeren uit villawijk die dealen en drugs gebruiken: ’Groeien op met het idee dat alles kan’",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Jeugd & jonge aanwas",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Zorgen over Baarnse jongeren uit villawijk die dealen en drugs gebruiken: ’Groeien op met het idee dat alles kan’ De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOXJveEdMRXlYcTJfVTd0ZEtiYmlTSk14SXRPZC1SdVA4QkxDTkotUjJRMTZ1eHZkMThGbUFuNDJSblI4QTNySTBCa3h5ekk3OGpTTC1sa3EwV3ZUV3ZoREppbFdZM1FFc3dwYl9TYWcxU2tybkpDOHd1YnRmT21XM01neXMycVduT0dtMHFuS2tBN1Z2M2M1M3VVNUE5elMtUmhtUjR1Rmh5RmRNSHp6bXN4YVFkZ2VZaENYb2puaDlSZ3hudnhwSjZfZGtpZ2VkdDE4dHpPUUpaWUJwcnlacy0tUTk0SVhfMGVEQ3ZWMG15dw?oc=5"
+ },
+ {
   "id": "63be16f87f",
   "datum": "2023-08-04",
   "tijd": "07:00",
@@ -50677,6 +50737,25 @@
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbDZGLXpXd3Jaak1LZVQ5anN2cFQzQkc5eEFPWmRjaW00d0twb3pudzJ1cWdzMGt1SjZKVU4zYnVxbFVfWm5iTFNfdjJnSTRPWUc2WHlXcUlTSkhsWFN3Tm1tWTUtOEcteXNNQjBMYTB2MGtfVDdTaVZ2X0pwRmJZM2w5WjJFNHRFLUNrTkNKZEhxbTIyOVNFUHVCTlU4NXRtYUE?oc=5"
  },
  {
+  "id": "671df032e4",
+  "datum": "2019-11-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Handgranaat gevonden voor stadhuis in Haarlem",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Handgranaat gevonden voor stadhuis in Haarlem Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pdk5xeXdBSzNpVVZjcmtEM0NsSXl3VVZtTnhFc0hsa0FjLUgzZVZYbzVkYWRabV83UmJKZUZyenFBWENQdFIwQXg4Rko3a2hxdm1Pa0ptVFVveTR0eHd5Rm9kMTRTVlpfeFRKaUhwZVJhSXIxQ2lxZnhLb2pvRFE?oc=5"
+ },
+ {
   "id": "87698395d2",
   "datum": "2019-11-19",
   "tijd": "08:00",
@@ -52607,6 +52686,25 @@
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLWtZM3dvckNSR09vSnMwX2hQcXRWbzNxMTJEVXQxS1NZM3VIV1FJTnUzWU5zMkV5dm1wUDJ5WFZBaXBBR1R1ZjNnM2ppc29fLTFySW82M0hXLWRoYXpNTF8zcXlzMW5VTi1EQ01kZXJjbkhoWlBERlhLQkxUdlc5YnZCQUtoTVo4QzR6OUlB?oc=5"
  },
  {
+  "id": "ea2381b755",
+  "datum": "2018-06-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Speelgoed handgranaat zorgt voor onrust in Nieuwegein",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Speelgoed handgranaat zorgt voor onrust in Nieuwegein Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXlWMFhCMUNzd1ZkZzdkbWxWT3JfYXFIT01OSjVUb1lmamlNOUNyNzNudjVMX0xneE9sQ1V3bXFsaHZqMWhPcE41ZkNQeW92TjBZZGRCOEdZOXF4dFFIRXJZLVQyYUpSU1BJT2MxMHlhOWQ2UWh5cE0tbG1jY2xZQS0xeHhyOW04TUNlT1FJOG5PV0E1S2xnWnU4YVpJNjdw?oc=5"
+ },
+ {
   "id": "aea13bb25b",
   "datum": "2018-05-31",
   "tijd": "07:00",
@@ -53023,6 +53121,25 @@
   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wVThDUVFGYTU5MHQzUTQxcXVaM0RUZVBXWWVkcUd3YWdwSEUwT0RxS0hENWdUQ1d1RUdybFpTUjJ6WEJQbElGVFM5d0JtVWtQNGhFWTlRcDBMM2pwNXppc1hYWTVXOTM4SmE2SGhreURuNk9hMXFCc3VpbFNEUQ?oc=5"
  },
  {
+  "id": "a4d200040a",
+  "datum": "2018-02-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Handgranaat lag voor huis dat vorige week werd beschoten",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Handgranaat lag voor huis dat vorige week werd beschoten Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUxSbzloeUExTm1scG9lZE11RThudjFacXZVLWFfVVdjbWEyQTU4NW9iT3pYWTNDYWRwMTAxT3lNSkFNRjd4NTJrSkVxQ3ctOFNtbWpYeEdtbFpobjFhc0FtY0pSLWJ3ZDdqTUZYanBaWURpclA4cGZaUEl3ZVhTSlRYUFE5S1BaWG5DM3RsRVFKekR4Rkp2M0F5RThrZVo2NEE?oc=5"
+ },
+ {
   "id": "0f9cdf2c18",
   "datum": "2018-02-14",
   "tijd": "08:00",
@@ -53062,6 +53179,26 @@
   ],
   "samenvatting": "Celstraf en werkstraffen geëist voor witwassen met horlogehandel Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYks1RDlOVFpVZlNjSnIzZDBSTnlMbHBVTXZDX0dHa1lVbF9ZZDN4V1Fmdkw0ME1DYXczZFJKUXFxakVaSy1KZ0F2UVRnbWRsQjkyRGV6WGU4aWYwZi1hMFlUOHk0dVhBSzZud29TcElyeEtSdDZ3dHNIVkFvSXlZbmNXLTlSZDh0dXVDeXI5c3VycFNsNnVrSTZmVE1aZUF5NHdRVTFOTEFRNHp5?oc=5"
+ },
+ {
+  "id": "84dcb52785",
+  "datum": "2018-02-07",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Jongen (17) aangehouden voor neerleggen handgranaat in Amsterdams café",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "granaat",
+   "handgranaat"
+  ],
+  "samenvatting": "Jongen (17) aangehouden voor neerleggen handgranaat in Amsterdams café Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdDZkenp4UHF0V25teXkwMW9jbTBmeEtkUHNDcVVjZm1idXdBemFMeHlEcy1WaTh4VldJRW9nOTdqVG53cFhZTFgzbUFpaXpGS3ZmQnhQYzRWbm1kWDFCMmxMeEc4VGhPMXRjYzBDSFRJNlVCd3Jja3NRdmxZbkRXSE1Rd3huOTloc0sydzdGeXdvaXVEYWxzNVgyZnFvNFQ1RmRaYVJCb2JTb0NfN2h4cVZQRzk?oc=5"
  },
  {
   "id": "db38be9f1b",
