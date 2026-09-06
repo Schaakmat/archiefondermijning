@@ -90,7 +90,7 @@
   "id": "a34cda6ed5",
   "datum": "2026-09-06",
   "tijd": "16:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kijk hier terug naar de hoogtepunten van de Wereldhavendagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -109,7 +109,7 @@
   "id": "c0cdd05f1d",
   "datum": "2026-09-06",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Chrissie en Lorand wonen in een oud politiebureau: 'Kijkgaatje zit er nog'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -128,7 +128,7 @@
   "id": "38e8803eab",
   "datum": "2026-09-06",
   "tijd": "15:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto knalt op paal, vrouw aangehouden voor rijden onder invloed",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -147,7 +147,7 @@
   "id": "c79959f002",
   "datum": "2026-09-06",
   "tijd": "15:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto knalt op paal, vrouw aangehouden voor rijden onder invloed | Vrachtwagen kantelt op rotonde, chauffeur gewond",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -338,25 +338,6 @@
   "link": "https://www.gld.nl/nieuws/8516959/marcouch-wil-weten-of-er-fouten-zijn-gemaakt-bij-geescaleerde-burenruzie-geitenkamp"
  },
  {
-  "id": "1c8ff7c55d",
-  "datum": "2026-09-06",
-  "tijd": "04:20",
-  "nieuw": false,
-  "titel": "Automobilist rijdt tankzuil omver, andere man weet net op tijd weg te komen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Een automobilist (28) heeft zaterdagavond laat een grote ravage veroorzaakt bij een tankstation aan de A58 bij Etten-Leur. De man uit Breda reed een complete zuil waar je kunt tanken omver. Een andere man die op dat moment bij die zuil stond om te tanken zag de auto aankomen en kon op tijd weg springen. Hij raakte niet",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026104/automobilist-rijdt-tankzuil-omver-andere-man-weet-net-op-tijd-weg-te-komen"
- },
- {
   "id": "f59dafac61",
   "datum": "2026-09-05",
   "tijd": "18:31",
@@ -476,6 +457,25 @@
   ],
   "samenvatting": "De ontsnapte serval Django heeft in Tilburg twee slachtoffers gemaakt. Twee kippen in een tuin van een van de omliggende tuinen hebben een confrontatie met de katachtige niet overleefd, meldt Beestenbende. Deze stichting uit Dordrecht is expert op het gebied van opvang van exotische dieren en is ingeschakeld om het die",
   "link": "https://www.omroepbrabant.nl/nieuws/6026086/twee-kippen-gedood-door-ontsnapte-serval-django"
+ },
+ {
+  "id": "59a7ede18d",
+  "datum": "2026-09-05",
+  "tijd": "10:55",
+  "nieuw": false,
+  "titel": "Ontsnapte serval Django opnieuw op vrije voeten, buurtbewoners zijn het zat",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "Serval Django is zaterdagochtend opnieuw ontsnapt uit zijn verblijf in de Koestraat in Tilburg. Het is niet de eerste keer dat de exotische kat voor onrust zorgt in de buurt. \"Het is gewoon een gevaarlijk dier in een woonwijk\", zegt een gefrustreerde buurtbewoner. De exotische kat zorgde in mei vorig jaar ook al voor o",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026081/ontsnapte-serval-django-opnieuw-op-vrije-voeten-buurtbewoners-zijn-het-zat"
  },
  {
   "id": "192006538b",
