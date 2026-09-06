@@ -1,5 +1,47 @@
 [
  {
+  "id": "06deab2688",
+  "datum": "2026-09-06",
+  "tijd": "20:03",
+  "nieuw": true,
+  "titel": "Nagele - Zwaarbewapende agenten vallen woning binnen in Nagele",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "In Nagele is een man aangehouden door een zwaarbewapend politieteam. De Dienst Speciale Interventies (DSI) viel zondagmiddag een woning binnen aan het Lucernehof. De man was mogelijk met wapens de woning ingegaan meldt de DSI op Instagram. De straat werd afgezet tijdens de politieactie. De man is aangehouden.",
+  "link": "https://www.omroepflevoland.nl/nieuws/522868/zwaarbewapende-agenten-vallen-woning-binnen-in-nagele"
+ },
+ {
+  "id": "3937908d79",
+  "datum": "2026-09-06",
+  "tijd": "17:22",
+  "nieuw": true,
+  "titel": "Politie deelt beelden van dader na derde explosie in Zevenaar",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "pand"
+  ],
+  "samenvatting": "Drie explosies in anderhalve maand tijd treffen een pilatesstudio in Zevenaar. Bij het laatste incident, op 10 augustus, vernielt de dader midden in de nacht een ruit en gooit daarna een explosief tegen het gebouw. De politie zoekt deze persoon, maar wil vooral weten waarom juist dit pand steeds doelwit is.",
+  "link": "https://www.gld.nl/nieuws/8516760/politie-deelt-beelden-van-dader-na-derde-explosie-in-zevenaar"
+ },
+ {
   "id": "38e9e6f1ed",
   "datum": "2026-09-06",
   "tijd": "17:15",
@@ -124,7 +166,7 @@
   "id": "4ab52d5fb6",
   "datum": "2026-09-06",
   "tijd": "13:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Meer dan twintig auto's vernield in Tilburgse parkeergarage: Belg opgepakt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -434,29 +476,6 @@
   ],
   "samenvatting": "De ontsnapte serval Django heeft in Tilburg twee slachtoffers gemaakt. Twee kippen in een tuin van een van de omliggende tuinen hebben een confrontatie met de katachtige niet overleefd, meldt Beestenbende. Deze stichting uit Dordrecht is expert op het gebied van opvang van exotische dieren en is ingeschakeld om het die",
   "link": "https://www.omroepbrabant.nl/nieuws/6026086/twee-kippen-gedood-door-ontsnapte-serval-django"
- },
- {
-  "id": "065172a87e",
-  "datum": "2026-09-05",
-  "tijd": "11:00",
-  "nieuw": false,
-  "titel": "Almere - 26 bouwprojecten in Almere liggen stil door schorsing kwaliteitsborgers",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Criminele samenwerkingsverbanden",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "organisatie",
-   "toezichthouder",
-   "woning"
-  ],
-  "samenvatting": "In Almere liggen 26 bouwprojecten tijdelijk stil doordat drie kwaliteitsborgers zijn geschorst. Dat meldt wethouder Van Hilten na vragen van D66. Het gaat vooral om kleinere zelfbouwprojecten in Oosterwold, Almere Poort en Nobelhorst. Grote woningbouwprojecten worden niet geraakt. Sinds 2024 moeten onafhankelijke kwali",
-  "link": "https://www.omroepflevoland.nl/nieuws/522581/26-bouwprojecten-in-almere-liggen-stil-door-schorsing-kwaliteitsborgers"
  },
  {
   "id": "192006538b",
@@ -44513,6 +44532,23 @@
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVJfYlRJbk96XzBONFhEVVB1ZnFmZkFqTVhqZ2JOcG1CNGN6MzUzcGxJcEt4Uk9WTHpoSWdqdDdSODdLVlEwdWpJa0NYOHFta1JfX3NaeVItQXBiX3Rhb2hCSzZDaEVHUjFoeHJ5cjJFNGdNRlhuQkFsUFc1T1hxQWFyVVNjZUo0TS12TmNwam5PX1QwRGRIQ1Z5eU14MGZKM1lyV0ZyMGFhRkh0bVNz?oc=5"
  },
  {
+  "id": "e4892f703b",
+  "datum": "2023-06-07",
+  "tijd": "13:26",
+  "nieuw": false,
+  "titel": "Hoofdlijnen van de bestrijding van maffiacriminaliteit in Italië - WODC Repository",
+  "bron": "WODC",
+  "verzameld_via": "WODC",
+  "soort": "Rapport",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Hoofdlijnen van de bestrijding van maffiacriminaliteit in Italië WODC Repository",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RUmw3cm1ZNUkxZ3ZkanN4aTZTc1dsYmJxN05VZy1DNDYzM21Kb0tyZG1CX1loMUtvRjNqT3B6Y3ozUXFxOXVBNXJXeFA1Y1ZDY1ZVUFRvYk5nS0EtWTNzdQ?oc=5"
+ },
+ {
   "id": "11d04e2c45",
   "datum": "2023-06-07",
   "tijd": "07:00",
@@ -47959,6 +47995,28 @@
   ],
   "samenvatting": "Ruik je anijs, aceton of wasverzachter? Ren dan hard weg en bel de politie, want het is een drugslab AD.nl",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYVE1bUh2aWRoVUtpVzBZMVJqTEFYREJzajQtWm1Idm9EVmlFbGZMZzg0YnhIb3o1dWFvSnd2dGY3WXBia1RiUU1wakFGaExmS1dGQjYtS2lSZC00X3dWR2VTc29oak1iOHljMWhjZ015NFNranFQb2l5MzlKR0JfRFRPLVpsWmxHSUZUWHkwY2x1MTl5RHV0QlJMM3pnRlp3OWhOdlBzeno2OURhRC1XdEVNQ2lya3Zyd0VRWU5meEFLNGVPeGdWT3UyYm8?oc=5"
+ },
+ {
+  "id": "8fcbd51be1",
+  "datum": "2021-11-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Burgemeester waarschuwt na doorzoekingen in onderzoek naar vastgoedfraude in Den Helder. ’Als je één keer ’ja’ zegt, ga je al in de fout en ben je chantabel’",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Vastgoed & huisvesting",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "vastgoed",
+   "vastgoedfraude"
+  ],
+  "samenvatting": "Burgemeester waarschuwt na doorzoekingen in onderzoek naar vastgoedfraude in Den Helder. ’Als je één keer ’ja’ zegt, ga je al in de fout en ben je chantabel’ Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQenZUVHZCSFB5WFlaYUVyaTY1X2JnWDZydEN5aHdmRGhGQVZZMC1LWHVma0VJVmU5WEpNbzh3QjFOZ2xiUURWaDg0YXRpTkxRNGcyeDlBa09YMTNPX3lUN05kQUhaUUVROTVTYjBQaEV0NjVLXzNuaDljSUNoNTdVWTk5ZEhLTlVJYmdXVUtaX1Uxeld5WGVCNXV6RFdrME8wTzBFdW40WG5SRVUtZFpObWR4dDdHVnJDTy1sQ3FxMy1JRDc4Q3JEU0pya1Q1QXZHazFobWJhOHpoT05ZQzEtSTQtQzEyanpISUtNLUo0dWVWUDUtcVh6U1NFVm9QVGtqOTFnQWlkbXdFVUsyUGhpRUd4WFdaSHV0eTNjX0F5cnhXLWxJM05rM01oQVhVdVF2OXliM0VXNTlRaGp1U0E?oc=5"
  },
  {
   "id": "accfe2b838",

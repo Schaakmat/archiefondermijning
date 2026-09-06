@@ -1,12 +1,12 @@
 {
- "run": "17:28",
+ "run": "18:32",
  "datum": "2026-09-06",
- "nieuw": 7,
- "totaal": 2763,
+ "nieuw": 8,
+ "totaal": 2766,
  "verwijderd": 5,
  "geweigerd": {
-  "niet-nederlands": 1071,
-  "geen dossier": 483
+  "niet-nederlands": 1040,
+  "geen dossier": 494
  },
  "bronnen": [
   {
@@ -122,8 +122,8 @@
    "url": "news.google.com/rss/search?q=vastgoedfraude%20OR%20%22ondermijning%20vas",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 18,
-   "status": "bij",
+   "items": 19,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 43,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -446,8 +446,8 @@
    "url": "news.google.com/rss/search?q=site:wodc.nl+OR+%22WODC%22+ondermijning+OR+",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 55,
-   "status": "bij",
+   "items": 56,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 102,
-   "status": "bij",
+   "items": 103,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 89,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
