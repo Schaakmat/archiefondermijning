@@ -1,12 +1,12 @@
 {
- "run": "13:29",
+ "run": "14:30",
  "datum": "2026-09-06",
- "nieuw": 7,
- "totaal": 2752,
+ "nieuw": 10,
+ "totaal": 2756,
  "verwijderd": 6,
  "geweigerd": {
-  "niet-nederlands": 1039,
-  "geen dossier": 502
+  "niet-nederlands": 1045,
+  "geen dossier": 514
  },
  "bronnen": [
   {
@@ -105,7 +105,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 63,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -122,8 +122,8 @@
    "url": "news.google.com/rss/search?q=vastgoedfraude%20OR%20%22ondermijning%20vas",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 17,
-   "status": "bij",
+   "items": 18,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -284,8 +284,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 34,
-   "status": "bij",
+   "items": 35,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 62,
-   "status": "3 nieuw",
+   "items": 63,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 101,
-   "status": "bij",
+   "items": 102,
+   "status": "1 nieuw",
    "ok": true
   },
   {
