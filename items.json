@@ -128,7 +128,7 @@
   "id": "38e8803eab",
   "datum": "2026-09-06",
   "tijd": "15:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto knalt op paal, vrouw aangehouden voor rijden onder invloed",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -147,7 +147,7 @@
   "id": "c79959f002",
   "datum": "2026-09-06",
   "tijd": "15:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto knalt op paal, vrouw aangehouden voor rijden onder invloed | Vrachtwagen kantelt op rotonde, chauffeur gewond",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -166,7 +166,7 @@
   "id": "4ab52d5fb6",
   "datum": "2026-09-06",
   "tijd": "13:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Meer dan twintig auto's vernield in Tilburgse parkeergarage: Belg opgepakt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -185,7 +185,7 @@
   "id": "58e49865c5",
   "datum": "2026-09-06",
   "tijd": "13:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "LIVE | Politie kamt gebied uit • nieuwe verdachte aangehouden voor geweld in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -204,7 +204,7 @@
   "id": "575c7dfeee",
   "datum": "2026-09-06",
   "tijd": "12:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nieuwe arrestatie in onderzoek naar geweld in Overasselt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -20862,6 +20862,25 @@
   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTzBDZGRpbmpLX011OVVKTmZ6MGRXeGlSTWQ0dHRjOTNXUHdkLWFMMTh0Z0RVRUxUeUdxSUhlOUVhNHZISkRXcXJjMmUyajZ2Z1BCOVpXRzYtQ1hWQlozdExBQW5zbDlZVFZ0WVBoaXo1UjVDQ2VrMWVyMUdETVM1TGh6REF1dFU2QkdXOXBqVDF4QXVjbmNUdlhQSHpWM0xCZEdmMVBsMWNqVFB6UE9WcmNPeEtsSmp0ZEJYb1pkTFB0S3VZMk9vdWp1eXVFS2lwYmVIa1RXQjRTSTNoZGh2MEt0VmdUSC1GVHNTRXhDeDlXQQ?oc=5"
  },
  {
+  "id": "f73493c9bc",
+  "datum": "2026-05-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Taakstraf van 44 uur voor hennepkwekerij in woning aan Haya van Somerenlaan",
+  "bron": "1Amstelveen",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Taakstraf van 44 uur voor hennepkwekerij in woning aan Haya van Somerenlaan 1Amstelveen",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdG5GNWlaOXQyZFRPQW5YLS10WGhpaXpENnRtdHcwclU2MWlYN0wxSjh3TlR2ckl0VkdmNjk4TF9lU2lIV2MzM2V1NzBwY1FkUnJ4YmRPdjNxUGpmbkZGekxKWS1TUURlNlFaRDd1YVFLdm93cUROQXl4TkgwTmY0eDdoMF8wb2ExUkxUM2Y4RU5FREFxNGNIa2NmOU9jU3BK?oc=5"
+ },
+ {
   "id": "f4bfe31761",
   "datum": "2026-05-17",
   "tijd": "07:00",
@@ -23504,6 +23523,25 @@
   ],
   "samenvatting": "Corrupte vorkheftruckchauffeur uit Kapelle krijgt lagere straf: vrijspraak voor witwassen pzc.nl",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbjRmMUVDblBoVXpVVi1TOVJaTVhlTmg2Q0F3YzZ2aEh4VG9BS2haNy04VUZhNG5aQjVQSG04dXJTV2RXSkd1ZXRsTWhZdFJUbzlqbER6SFhlV2VSeTN5dlhUcmp2bmlIT3FZdXVlVUFMeFhuY1V0UTF0ckpHNzhCaWg3VnBoVE1DWGlQRzJ2RjE0dXdSZE8zazExMnBYbUtaeEVlRHl6Ri1CNXZvWGJQWTU0RWEySl9RN3ptUEx4S3Vhck0?oc=5"
+ },
+ {
+  "id": "c5cb99069c",
+  "datum": "2026-04-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gemeenten scherpen Damoclesbeleid aan in strijd tegen drugscriminaliteit",
+  "bron": "belnieuws.nl",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "damoclesbeleid"
+  ],
+  "samenvatting": "Gemeenten scherpen Damoclesbeleid aan in strijd tegen drugscriminaliteit belnieuws.nl",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd01MdG5OT0E0VmNoTF9iNkZRaGcwaUlvb1dvaERqQjVDeWkwbEgxQUoxSEZhNzJ3UDFEQ2o4MjFwQ1BYSlN3Skg5X3VpcFViWVllZ3p5UWR6M2FLWWNQSWlNRWJhU05jV2xsc2JQNDFBR0VPOHNKSFF6UGt6MG1GNzdfRHJmdWdKVlgwZk5laFR5cjAyaXg5b3RLRW55eUVNRnBBblpjeDhxLTdRYUxtRmNTVHdOSmU2Ry1BR0lSVDBzeWw4YWFLSHRNa0NvTWlFYTJyOA?oc=5"
  },
  {
   "id": "fa47ecdbd4",
@@ -37049,6 +37087,29 @@
   "tags": [],
   "samenvatting": "ECLI:NL:RBZWB:2025:1313, Rechtbank Zeeland-West-Brabant, 02-222968-24 en 03-005405-23 (tul) De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43NUxRbm13ZkpoOWNWUzVuWHhlNnZ4cWFGS1JhekRzSEE3MkJRSGFiUXN3dWl3cEdPVENjZW1haFpNQTJKejZ3TU5JT1FaRWJqbnA3SkdSeXhfeVN5OUpkVnpkSnFyUDhkeUROc3FPZVRpQkJQX2NB?oc=5"
+ },
+ {
+  "id": "8166306e64",
+  "datum": "2025-03-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Woning op IJdoornlaan drie maanden dicht na vondst drugs, wapen en contant geld - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "contant geld",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Woning op IJdoornlaan drie maanden dicht na vondst drugs, wapen en contant geld Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGR6ZkViMS1naEN4VmVPbWtCMHpSZS14UW5aYVpQdUE0MzdlaldtV0dhM2hpSnBEeW5kbU1xMkdrSnEtbWs4WTM3TnA1OURBQW9ycW1TQkNrUjNJb3VsWVNHekRXSWJZSXFvX3RxU0NDZkhnMENXaGRmY2RDNW8zRVlMMWFzQ09sa09yZmppZmlOZV9ySk1aTkxpbzc3cHR1TlN3NzhKWkw2eVBNQlRjVlNoQmt0TzY2R3MzYg?oc=5"
  },
  {
   "id": "66758cee5e",
