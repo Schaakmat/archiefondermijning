@@ -1,5 +1,24 @@
 [
  {
+  "id": "c40f503593",
+  "datum": "2026-09-06",
+  "tijd": "10:43",
+  "nieuw": true,
+  "titel": "Dronken automobilist ramt tankstation langs A58 bij Etten-Leur, veel schade",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een automobilist is gisteravond in West-Brabant in beschonken toestand met hoge snelheid tegen een benzinepomp gereden. Het ongeval gebeurde rond 22.45 uur langs de A58 bij Etten-Leur. Een andere automobilist, die op dat moment stond te tanken, kwam volgens de politie met de schrik vrij. Zijn auto liep wel flinke schad",
+  "link": "https://nos.nl/l/2629891"
+ },
+ {
   "id": "c20332e373",
   "datum": "2026-09-06",
   "tijd": "05:23",
@@ -109,7 +128,7 @@
   "id": "86ad24c95a",
   "datum": "2026-09-05",
   "tijd": "14:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nagele - Surfer gewond na aanvaring met plezierjacht op Ketelmeer",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -128,7 +147,7 @@
   "id": "4eaa128693",
   "datum": "2026-09-05",
   "tijd": "14:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nagele - Aanvaring op Ketelmeer: surfer gewond",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
