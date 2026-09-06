@@ -10,15 +10,93 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Jeugd & jonge aanwas"
   ],
   "tags": [
-   "school",
-   "stal"
+   "school"
   ],
   "samenvatting": "Een gebouw van de Hogeschool Utrecht (HU) aan de Padualaan 97 is voorlopig gesloten vanwege grote waterschade. Tijdens werkzaamheden op de vijfde verdieping brak vrijdagavond een afsluiter van een waterleiding, waardoor veel water vrijkwam. Het water verspreidde zich door het gebouw en beschadigde elektrische en techni",
   "link": "https://nos.nl/l/2629941"
+ },
+ {
+  "id": "a34cda6ed5",
+  "datum": "2026-09-06",
+  "tijd": "16:04",
+  "nieuw": true,
+  "titel": "Kijk hier terug naar de hoogtepunten van de Wereldhavendagen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Na drie dagen lang spektakel op, naast en boven het water zit het er alweer op. De 49e editie van de Wereldhavendagen is om 18:00 uur officieel afgesloten. En hoewel we nu een jaar moeten wachten op de grote jubileumversie van volgend jaar, kun je hieronder nog even nagenieten van de hoogtepunten van 2026!",
+  "link": "https://www.rijnmond.nl/nieuws/2249636/kijk-hier-terug-naar-de-hoogtepunten-van-de-wereldhavendagen"
+ },
+ {
+  "id": "c0cdd05f1d",
+  "datum": "2026-09-06",
+  "tijd": "16:00",
+  "nieuw": true,
+  "titel": "Chrissie en Lorand wonen in een oud politiebureau: 'Kijkgaatje zit er nog'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "boerderij",
+   "pand",
+   "stal",
+   "woning"
+  ],
+  "samenvatting": "In het hart van Vlijmen staat een woning te koop die vroeger onderdeel was van het plaatselijke politiebureau. Lorand en Chrissie Tokmakcija wonen er sinds mei 2018 met hun twee kinderen. \"In de straat wonen nog buren die het huis kennen als politiebureau. Die hebben er heel veel verhalen over.\" Het gezin kocht het pan",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026012/chrissie-en-lorand-wonen-in-een-oud-politiebureau-kijkgaatje-zit-er-nog"
+ },
+ {
+  "id": "38e8803eab",
+  "datum": "2026-09-06",
+  "tijd": "15:19",
+  "nieuw": true,
+  "titel": "Auto knalt op paal, vrouw aangehouden voor rijden onder invloed",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Op de Westfrankelandsedijk in Schiedam is zondagmiddag een automobilist tegen een lantaarnpaal geknald. De bestuurder, een vrouw, werd na het ongeval aangehouden op verdenking van rijden onder invloed. Er raakte niemand gewond.",
+  "link": "https://www.rijnmond.nl/nieuws/2249653/auto-knalt-op-paal-vrouw-aangehouden-voor-rijden-onder-invloed"
+ },
+ {
+  "id": "c79959f002",
+  "datum": "2026-09-06",
+  "tijd": "15:17",
+  "nieuw": true,
+  "titel": "Auto knalt op paal, vrouw aangehouden voor rijden onder invloed | Vrachtwagen kantelt op rotonde, chauffeur gewond",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van zondag 6 september.",
+  "link": "https://www.rijnmond.nl/nieuws/2249651/auto-knalt-op-paal-vrouw-aangehouden-voor-rijden-onder-invloed-vrachtwagen-kantelt-op-rotonde-chauffeur-gewond"
  },
  {
   "id": "4ab52d5fb6",
@@ -119,7 +197,7 @@
   "id": "d00332fbfa",
   "datum": "2026-09-06",
   "tijd": "10:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Veiligheidsrisico's en druk verkeer: havenbedrijf verzet zich tegen P+R-plan bij Westerscheldetunnel",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -673,29 +751,6 @@
   ],
   "samenvatting": "VVD-Kamerleden Claire Martens-America en Ulysse Ellian hebben minister David van Weel van Justitie en Veiligheid Kamervragen gesteld over de schietpartij van deze week in Overasselt. Ze vragen onder meer om een verklaring waarom het vermeende doelwit, Jan G., in vrijheid zijn hoger beroep mocht afwachten.",
   "link": "https://www.gld.nl/nieuws/8517674/minister-bevraagd-over-veiligheidsrisicos-rondom-jan-g"
- },
- {
-  "id": "43313a6d13",
-  "datum": "2026-09-04",
-  "tijd": "17:27",
-  "nieuw": false,
-  "titel": "Verdeelde reacties op rapport over stikstofplannen, nieuwe rechtszaken verwacht",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Criminele samenwerkingsverbanden",
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "ondernemers",
-   "organisatie",
-   "vergunning"
-  ],
-  "samenvatting": "Boeren, bouwers en natuurbeschermers reageren wisselend op de analyse die het Planbureau voor de Leefomgeving (PBL) maakte over de stikstofplannen van het kabinet. Het PBL concludeert dat Nederland niet van het stikstofslot gaat, maar het kabinet wel belangrijke stappen zet. Voor een deel van de boeren zijn de plannen ",
-  "link": "https://nos.nl/l/2629677"
  },
  {
   "id": "284416b875",
@@ -46659,6 +46714,25 @@
   ],
   "samenvatting": "Grootste cryptobeurs Binance krijgt miljoenenboete van DNB NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1RVLWNVWVFYdUZBY2d2VndZRmxLZ0NEZXFQUzlkS3h0SXl6WnNiV2x2Yl9KSFMzMGctOEExV3pGNTg5djgzRGxJNGNJUzJrdkpFNnNUOWRYOTFXSF9PaVRqR0FiajdrUjV2SGZHaDJtc0FuTVFVTVBzclZUa1B5WnZpTENFUU41alpRdng2WkFOR2oxWFJINERIQ2ZVVXpEMUphblJYWQ?oc=5"
+ },
+ {
+  "id": "ae9669ff10",
+  "datum": "2022-07-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Eigenaar Amsterdams kledingmerk My Brand aangehouden voor witwassen en drugshandel",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Trustkantoren & rechtspersonen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Eigenaar Amsterdams kledingmerk My Brand aangehouden voor witwassen en drugshandel Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWZzMTFSRXBELUhFVVd1azJ4bEkwdW1PbkU0NHJaaWJnM1o0eGE3UEl1NFRsNFRXZENzSDBhUGJmV09IQVBiR1ZmUVJFXzJSRzVDdGt3bk1qZU1hcEhkRHB2eXZYQU9kaFdVWm9pQTlhOUlneHdxYzR0RGZhN09tSmNyQVRhZnE0QjVsWlFKVmhKZjVRWHNuZ3hjaGlxRUEta2V4bUJvNUQtRkQwYkFxN0xqMHd6X252VkF0aFU0Wm1kdw?oc=5"
  },
  {
   "id": "0ea93c9af2",
