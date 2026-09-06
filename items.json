@@ -13,10 +13,7 @@
    "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "beveiliging",
-   "doodgeschoten",
-   "geweld",
-   "moord"
+   "geweld"
   ],
   "samenvatting": "De politie heeft een nieuwe verdachte aangehouden in het onderzoek naar het geweld in Overasselt. Het gaat om een 26-jarige man met de Belgische nationaliteit. De verdachte werd vrijdag gearresteerd in Amsterdam. Hij wordt verdacht van betrokkenheid bij de gebeurtenissen in Overasselt afgelopen week. De politie doet ve",
   "link": "https://nos.nl/l/2629906"
@@ -58,6 +55,25 @@
   ],
   "samenvatting": "Het havenbedrijf heeft in een brief aan de provincie gevraagd de keuze voor de locatie toe te lichten en te onderbouwen met onderzoeken.",
   "link": "https://www.omroepzeeland.nl/nieuws/18757579/havenbedrijf-geen-fan-van-keuze-voor-park-and-ride-bij-borssele"
+ },
+ {
+  "id": "d00332fbfa",
+  "datum": "2026-09-06",
+  "tijd": "10:01",
+  "nieuw": true,
+  "titel": "Veiligheidsrisico's en druk verkeer: havenbedrijf verzet zich tegen P+R-plan bij Westerscheldetunnel",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Het havenbedrijf heeft in een brief aan de provincie gevraagd de keuze voor de locatie toe te lichten en te onderbouwen met onderzoeken.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18757579/veiligheidsrisicos-en-druk-verkeer-havenbedrijf-verzet-zich-tegen-pr-plan-bij-westerscheldetunnel"
  },
  {
   "id": "c20332e373",
@@ -124,7 +140,7 @@
   "id": "f59dafac61",
   "datum": "2026-09-05",
   "tijd": "18:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ontsnapte serval en rode lucht: dit gebeurde vandaag",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -147,7 +163,7 @@
   "id": "5b6732e606",
   "datum": "2026-09-05",
   "tijd": "17:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Enorme partij crystal meth van 16.000 kilo gepakt bij oprollen MEGA drugslab in Sinaloa",
   "bron": "Headliner.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -169,7 +185,7 @@
   "id": "86ad24c95a",
   "datum": "2026-09-05",
   "tijd": "14:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nagele - Surfer gewond na aanvaring met plezierjacht op Ketelmeer",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -188,7 +204,7 @@
   "id": "4eaa128693",
   "datum": "2026-09-05",
   "tijd": "14:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nagele - Aanvaring op Ketelmeer: surfer gewond",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -207,7 +223,7 @@
   "id": "7b047e1533",
   "datum": "2026-09-05",
   "tijd": "13:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ontsnapte serval Django doodt twee kippen en is nog altijd spoorloos",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -226,7 +242,7 @@
   "id": "4795f50390",
   "datum": "2026-09-05",
   "tijd": "13:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee kippen gedood door ontsnapte serval Django",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -245,7 +261,7 @@
   "id": "065172a87e",
   "datum": "2026-09-05",
   "tijd": "11:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - 26 bouwprojecten in Almere liggen stil door schorsing kwaliteitsborgers",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
