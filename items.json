@@ -128,7 +128,7 @@
   "id": "38e8803eab",
   "datum": "2026-09-06",
   "tijd": "15:19",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Auto knalt op paal, vrouw aangehouden voor rijden onder invloed",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -147,7 +147,7 @@
   "id": "c79959f002",
   "datum": "2026-09-06",
   "tijd": "15:17",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Auto knalt op paal, vrouw aangehouden voor rijden onder invloed | Vrachtwagen kantelt op rotonde, chauffeur gewond",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -166,7 +166,7 @@
   "id": "4ab52d5fb6",
   "datum": "2026-09-06",
   "tijd": "13:12",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Meer dan twintig auto's vernield in Tilburgse parkeergarage: Belg opgepakt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -185,7 +185,7 @@
   "id": "58e49865c5",
   "datum": "2026-09-06",
   "tijd": "13:09",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "LIVE | Politie kamt gebied uit • nieuwe verdachte aangehouden voor geweld in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -10913,6 +10913,25 @@
   ],
   "samenvatting": "De politie heeft zaterdagavond een 29-jarige man aangehouden in het onderzoek naar een geweldsincident in het Kronenburgerpark in Nijmegen.",
   "link": "https://www.gld.nl/nieuws/8512221/man-29-aangehouden-na-geweld-in-park"
+ },
+ {
+  "id": "35374330fd",
+  "datum": "2026-08-23",
+  "tijd": "15:20",
+  "nieuw": false,
+  "titel": "Drugslab gevonden op plek waar twee jaar geleden ook lab zat",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab gevonden op plek waar twee jaar geleden ook lab zat Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUdUc2M3Y1p6VGIxeXQ4SW1PdTNWeUN5c3ZJMmpTa3NWVTlFZ29BdzE1Y1Z6RFMweHk3dEc0UTY4RGxqbWVsdzBjZkxzaTFCcjBQSUtKQjJ3VWQ4c3YzNHBRei1iM01hWlp3ZWNZdXFtTDVnN0NMeWFqU1dBWm9oOGc0MTQyTWZ2VzBXdmM2WkdOUlFsRFVMQVY0VTFnbkxjQTZldmh2cTBGUklxX1Zv?oc=5"
  },
  {
   "id": "93afcebbbe",
@@ -40250,6 +40269,25 @@
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVdEWHd4dEJGR1BmRXVJVWZLc2plbS1WWi0xVnVsb0tiTlV0UmFmcDVaLXNmRE5nTGE4VjA3YTdLMzhxV0tUR0JMZDJZcVZVaFEwUTl2N0VURDJadlo4a01SWndUQ3B5aE9jbS04YVlhekM2QUtUemNUbjhMYlA3STBiaWhpRzJwNTJQVmZIdjFoTjlmbm9uaW9tOE5Odw?oc=5"
  },
  {
+  "id": "6f91edab17",
+  "datum": "2024-07-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Voor de tweede keer handgranaat aangetroffen in straat Spijkenisse",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Voor de tweede keer handgranaat aangetroffen in straat Spijkenisse Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmQ1WjZ1Y0pKRGRUU3JLM1V5XzA3OUdXc2l6bThvdG53STF1R0FXZ3pibzJXaWEzZk9tQ0VaQ2FBeTJyUjZLdkw0Nl9vLUkzNEtDZkJJQ090WnRCWjZoamdBMFVHV0R2dGM4dXFxNVFSX3ZrNzRyUjFlSXMzdk5penRBNlhkd0JDYkxEa3o3WFFKcnVJSzFGQmpHVVloQ3N5Z0RnXzEtV19UcDJvdTBEZmsyVm9WQklMc1E?oc=5"
+ },
+ {
   "id": "5fd6f197ef",
   "datum": "2024-07-04",
   "tijd": "07:00",
@@ -40601,6 +40639,25 @@
   ],
   "samenvatting": "Drugslab ontdekt, politie stuit op tientallen vaten met grondstoffen Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ05DNEc1OVpVV1A3bG9Qck4tUGc0c1dBQ3luVTZHNDBtZXBGcU5OUmJCNVpJVnRvNHRMRDBOQXpScHBMY0tFX2pWQXA5N1ducW94VzNkWHF6VG50ODNHMURQZ0hCdkZvTmJkODR1cVVvUHBWZkVUSFlBMktfaXJ3YVN2UFJjaU9mQkNQZTQ5bFF1WHI2Vk5vdTFRcjFnWVdZQWhTUEs3aC01LXJ4Nm00aw?oc=5"
+ },
+ {
+  "id": "99621297d9",
+  "datum": "2024-06-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "8 jaar celstraf voor (voorbereiden van) drugshandel en witwassen",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "8 jaar celstraf voor (voorbereiden van) drugshandel en witwassen De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSDRFbHk4WUZIZDNRMWpNMFk3eVF2MmRUQmZNcjR1SHBVWWpCeW1CdGo5bU1HaGxxVldET0YtYkZta3N5TzFabVY1dmJXbVR0MnFsUUQ2ZENPMkMyNW8zOG5EX1ZaTXFlMFJFMUs0OGJzN2xOV0I1ZlFicktONTBnVmU1M01hRFRTdXpLbVBQUFBpVmRJY0xjR3JpdHZQNWVocHJXZ21ORUswMS05dnlLQ2l1bmZCNTNua0FCNVNrR1VnYnBaTjZheWRWaVZpUzBRSy05bmpfTFpVcnQ0RFBTSDZGTXprTUl0ZUdMUUxZSXNPUU9tV01aaUd0VVowSUIwM2c?oc=5"
  },
  {
   "id": "6196b8a359",
@@ -40965,6 +41022,27 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "e47bd42798",
+  "datum": "2024-04-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Man opgepakt voor ondergronds bankieren met 45 miljoen",
+  "bron": "nos.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "grond",
+   "ondergronds bankieren"
+  ],
+  "samenvatting": "Man opgepakt voor ondergronds bankieren met 45 miljoen nos.nl",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdWR6Nk0tV0VhMXNpZDl2ZEVJYUdGaXljaWxwYlp1N1VFdjR1WURleTJBaTZSR3YxQ1I5LVgtTG5EMnZyZ0VIOHBPOWpZZ0RDNUlMenh5dGYyOUJXNGdaMzM4emNHU2tmVlpoVWR4UThzYVRBYnQwRkpVNEx6dnl2YUlwQWs2WUxxaE52QVJB?oc=5"
  },
  {
   "id": "2bcdb0aa80",
@@ -45684,6 +45762,25 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXBoeU12Ukl0MkRNb2ZjUTl0Y2ZqbVVSdjB5b2RGS0RGcDNGakpwZllQd3FOdG0wSnZSZHAtYkdqYVBMMmJsQW05UkhPVmZ4NG9uOTFROVUwbi1Sb21PeVlQSlYwT3VOMVBUNnBTQTNtX1pYWnpPeHdqaDhZQ1JxZXpEQUQwTFJYb1ZKVDV6cndxSWhrMFg4dTJ4WS15YkV6dXNidEhETEJBTlNoRlJTbm5CRzdlUkwzVk44N25B?oc=5"
  },
  {
+  "id": "a7e73f0b1f",
+  "datum": "2023-01-30",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Man uit Heelsum veroordeeld voor onder andere witwassen",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Man uit Heelsum veroordeeld voor onder andere witwassen De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMUNLZFV5VGN5eTgzZkU4cVUxdlB1T2JTQ1RVMnRKY2ZtZ1RFaUR3X09pMXdyVVhjdWhSVlZHZVM2a2JqYlRlRWFQX3pJclFhbmpqSHF0VU1vdkVnbnQ4V0lGTWV2SUpxN2RSdHRSOVZ5X0swdWllZW1LenZWd3dFTGNSZDkzWl9DMk1JU0l2UTFCM3FqNHllc3UzMmxZWVpzOTBPX2FjYl92a3poZ3pad2E0SVBhOEtvTVI2eDlWLWExd1NsNUt5U3EtaXNpSUZGSGRxT0RUZW5sRm90RFd4aWw2VkIySVlnWXlFY2hzM3BudTZjZmxZSw?oc=5"
+ },
+ {
   "id": "eeb34f175c",
   "datum": "2023-01-29",
   "tijd": "08:00",
@@ -49577,6 +49674,26 @@
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHlidS1IMUVibEFhODl0aHFyeEp5ak5UZ3pNOTZIM0FURlVnR1lHS0xOYzNjelR1dGFsUE1WbFZCYkxfcmp4TGQ2SjdTbzJVeGxWRWJtdXFfRlhaTm5hQVVDMWRzZHRUNUN0bEtmOGx0Q3Vac1JDRGVVelhQT0FTc1RONTVWWnZURWRURTQ5THdLZFA5cVoyeHlDSU1VN0E3SWw1Vw?oc=5"
  },
  {
+  "id": "a3c07f9c8b",
+  "datum": "2021-01-26",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politieman uit Heiloo moet cel in voor omkoping en corruptie, vindt OM. Nieuws van zijn aanhouding was grote verrassing op bureau Alkmaar",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie",
+   "omkoping"
+  ],
+  "samenvatting": "Politieman uit Heiloo moet cel in voor omkoping en corruptie, vindt OM. Nieuws van zijn aanhouding was grote verrassing op bureau Alkmaar Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOVDhUQzM2WDJ3LXpJTDFUMmNnd3NkQ1UxT2pyWDlMX2VjWFZIbHA5UGdVTUNNM2NvUFdTcGhQbk1PNlhaNEpybnhFZGRHMWgyZmdzMFZMUGhEaTJrOUVTZmxrdjdhakg4cXNTSExNaG9lZDFsMGdjMmJ6V1Z3eWhZUFVqUm5hejZhNU1SR0c3ODdNMjdNUUpVTDZuQjJkenN1TU13Sy1fWUNzdFgyMUs1YVNBUFdLcmxiUFFpSTBJR2FSb1RoeFBCQkw3dGs0Zk5zdFo5QUQ5MzdsUWJyM1AtRWVCTnU5NWpIODQ0VE8tdTRHejRja2NwU29SeHF3UG5ERGVUWmEzbUJiTTJtX0tzdGZxQTd5dmlLeTF4R3p4Q0ZROWdhWENN?oc=5"
+ },
+ {
   "id": "a82563da7f",
   "datum": "2021-01-18",
   "tijd": "08:00",
@@ -50148,6 +50265,27 @@
   ],
   "samenvatting": "Man uit Werkhoven spil in grootscheepse handel van wapens aan criminelen RTV Utrecht",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1pzSk9NSU1GcXJ4eWxONV9md1NjbHJWdnJlMmIxUmlQVElWRGJxX3F1UU9ySUlhdlJLazluX1VfanYwaWpkdVVlRWpjVnc2ZnBUUzJTdFFHTWtnZ2N2NkpXeU53QVVqcEIyZFdqOGYyX3lJV2ZsTjR0bGNYY2tMQWlZaVVZUjlSd3JIaEFBTVpwSEFXM1cwd1dUVlNYVlFmeVNEWXV2dEZ6c1NCQkdkc2hUZw?oc=5"
+ },
+ {
+  "id": "dae2a95714",
+  "datum": "2020-09-03",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Man uit Beuningen veroordeeld voor witwassen en drugs- en wapenbezit",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "wapen",
+   "witwassen"
+  ],
+  "samenvatting": "Man uit Beuningen veroordeeld voor witwassen en drugs- en wapenbezit De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQY3EtYWRNRzZsYXBIbmJla1dHLXBvT1hvZm80aC1JWVBmN183VmV6MVRMZVQ1RmFMZ3BGUURPZTlPYzBIMGU2bGRTSG9SZ1FRTXY3X1Y1dDBQN1JVQ3ZDb0ZONjJYRTRsQ2NTZnFyWmlJOUlxN2RyaWVmUjFoVmRma1BWWDRoWkhTaTg2ZmNvVHNaemQxZXlnRERLNEV1azhral9KOEFzOTRIMDRod0wtX0szQTN4d1Z4ZFFOOGlfTFM2RF91S0ljcHNjMWVPbWpZSkY5cDBaZVR5bHo4azFuMTlvNmY4dDgxeEpIeFNQc3dibXUxV1hqbTluYVRTeEpfc0d6SE5yXy03Zw?oc=5"
  },
  {
   "id": "4bd8a25b31",

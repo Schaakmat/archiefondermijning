@@ -1,12 +1,12 @@
 {
- "run": "21:28",
+ "run": "22:29",
  "datum": "2026-09-06",
- "nieuw": 6,
- "totaal": 2776,
+ "nieuw": 10,
+ "totaal": 2783,
  "verwijderd": 3,
  "geweigerd": {
-  "niet-nederlands": 1059,
-  "geen dossier": 479
+  "niet-nederlands": 1005,
+  "geen dossier": 487
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 113,
-   "status": "bij",
+   "items": 114,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 143,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 172,
-   "status": "bij",
+   "items": 176,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 44,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 81,
-   "status": "bij",
+   "items": 82,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -284,8 +284,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 35,
-   "status": "bij",
+   "items": 36,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -555,7 +555,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 50,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
