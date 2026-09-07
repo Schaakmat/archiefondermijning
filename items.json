@@ -1,5 +1,43 @@
 [
  {
+  "id": "cc194ebadc",
+  "datum": "2026-09-07",
+  "tijd": "08:31",
+  "nieuw": true,
+  "titel": "Veertien zittingsdagen en zeventien verdachten. Grote mensenhandelzaak van start in Noord-Nederland - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Veertien zittingsdagen en zeventien verdachten. Grote mensenhandelzaak van start in Noord-Nederland Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcUdUdjZRVzJVc1RlVGtjeUlEMzdaSUpiekkxZ2hMaVMwclNPRHRtMkl0VGhKLVpVQjBKNTJrQWlJZWJCSS1iNUU3ZzRZSVZFaWNIQTdqdTl5NGk5Q2lhLWJyUVRveVY4U3hfN1BhYjRpU285cTFLbnF4U2VpYzFScTlfeEM0VXlZcmtOMV85YkkxMnFkX04tVDJ1eTg5Q0RQZy1SX1JIRTFFLTVmbGI3QXpiOGtuTlUtQ3ptZm1RZmpmVXltZW1UbFJjWXotcFVVS0JfXzRPTQ?oc=5"
+ },
+ {
+  "id": "27d704475a",
+  "datum": "2026-09-07",
+  "tijd": "04:43",
+  "nieuw": true,
+  "titel": "Steekincident in bovenwoning in Almelo",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Aan de Nieuwstraat in Almelo heeft de politie vannacht een persoon getaserd. Er was vannacht vanuit die straat een melding binnengekomen over een steekincident. Wat er precies is voorgevallen is niet bekend. De politie heeft meerdere mensen meegenomen.",
+  "link": "https://www.oost.nl/nieuws/3692642/steekincident-in-bovenwoning-in-almelo"
+ },
+ {
   "id": "56bc936ede",
   "datum": "2026-09-07",
   "tijd": "04:36",
@@ -64,7 +102,7 @@
   "id": "3937908d79",
   "datum": "2026-09-06",
   "tijd": "17:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie deelt beelden van dader na derde explosie in Zevenaar",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -85,7 +123,7 @@
   "id": "38e9e6f1ed",
   "datum": "2026-09-06",
   "tijd": "17:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Iraanse studenten, broer Bolle Jos en bloemencorso: dit mag je niet missen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -111,7 +149,7 @@
   "id": "b86c2f1fbf",
   "datum": "2026-09-06",
   "tijd": "16:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gebouw Hogeschool Utrecht weken dicht vanwege grote waterschade",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -130,7 +168,7 @@
   "id": "a34cda6ed5",
   "datum": "2026-09-06",
   "tijd": "16:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kijk hier terug naar de hoogtepunten van de Wereldhavendagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -149,7 +187,7 @@
   "id": "c0cdd05f1d",
   "datum": "2026-09-06",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Chrissie en Lorand wonen in een oud politiebureau: 'Kijkgaatje zit er nog'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -168,7 +206,7 @@
   "id": "38e8803eab",
   "datum": "2026-09-06",
   "tijd": "15:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto knalt op paal, vrouw aangehouden voor rijden onder invloed",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -376,29 +414,6 @@
   ],
   "samenvatting": "Gemeente, politie en wooncorporatie zijn nog altijd met elkaar in gesprek hoe om te gaan met de geëscaleerde burenruzie in de Arnhemse wijk Geitenkamp die tot dagenlange rellen en vuurwerk gooien leidde. Burgemeester Ahmed Marcouch wil helder hebben of er in de aanloop daar naartoe fouten zijn gemaakt door de instantie",
   "link": "https://www.gld.nl/nieuws/8516959/marcouch-wil-weten-of-er-fouten-zijn-gemaakt-bij-geescaleerde-burenruzie-geitenkamp"
- },
- {
-  "id": "f59dafac61",
-  "datum": "2026-09-05",
-  "tijd": "18:31",
-  "nieuw": false,
-  "titel": "Ontsnapte serval en rode lucht: dit gebeurde vandaag",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "explosie",
-   "geweld",
-   "pand"
-  ],
-  "samenvatting": "Van een ontsnapte serval tot rode lucht in Brabant. Dit zijn de vijf verhalen die je op zaterdag gelezen moet hebben. Vreemde figuren in een boomstam blijken een verrassend natuurfenomeen. Peter Ulijn zag opvallende patronen in de zaagsnede van een omgezaagde boom. Boswachter Frans Kapteijns legt uit dat deze figuren o",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026095/ontsnapte-serval-en-rode-lucht-dit-gebeurde-vandaag"
  },
  {
   "id": "5b6732e606",

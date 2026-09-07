@@ -1,12 +1,12 @@
 {
- "run": "07:33",
+ "run": "08:35",
  "datum": "2026-09-07",
- "nieuw": 9,
- "totaal": 2791,
+ "nieuw": 5,
+ "totaal": 2792,
  "verwijderd": 4,
  "geweigerd": {
-  "niet-nederlands": 1032,
-  "geen dossier": 499
+  "niet-nederlands": 1053,
+  "geen dossier": 516
  },
  "bronnen": [
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 146,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 157,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -339,7 +339,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 29,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -428,8 +428,8 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 121,
-   "status": "bij",
+   "items": 122,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 64,
-   "status": "3 nieuw",
+   "items": 63,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 42,
-   "status": "bij",
+   "items": 43,
+   "status": "1 nieuw",
    "ok": true
   },
   {
