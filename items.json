@@ -36,7 +36,7 @@
    "afval",
    "container"
   ],
-  "samenvatting": "Een dixi, een scooter en afval bij een container zijn in de nacht van zondag op maandag kort na elkaar in vlammen opging in de Bredase wijk Heuvel. Er zijn de afgelopen maanden al zo'n twintig dixi-toiletten in brand gevlogen in Breda. De dixi brandde zondagnacht als eerste uit aan de Talmastraat. Er bleef weinig van h",
+  "samenvatting": "Een dixi, een scooter en afval bij een container zijn zondagnacht kort na elkaar in vlammen opgegaan in de Bredase wijk Heuvel. Er zijn de afgelopen maanden al zo'n twintig dixi-toiletten in brand gevlogen in Breda. De dixi brandde zondagnacht als eerste uit, aan de Talmastraat. Er bleef weinig van het mobiele toilet o",
   "link": "https://www.omroepbrabant.nl/nieuws/6026142/dixi-scooter-en-afval-gaan-kort-na-elkaar-in-vlammen-op-in-breda"
  },
  {
@@ -85,7 +85,7 @@
   "id": "38e9e6f1ed",
   "datum": "2026-09-06",
   "tijd": "17:15",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Iraanse studenten, broer Bolle Jos en bloemencorso: dit mag je niet missen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -111,7 +111,7 @@
   "id": "b86c2f1fbf",
   "datum": "2026-09-06",
   "tijd": "16:30",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Gebouw Hogeschool Utrecht weken dicht vanwege grote waterschade",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -130,7 +130,7 @@
   "id": "a34cda6ed5",
   "datum": "2026-09-06",
   "tijd": "16:04",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Kijk hier terug naar de hoogtepunten van de Wereldhavendagen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -149,7 +149,7 @@
   "id": "c0cdd05f1d",
   "datum": "2026-09-06",
   "tijd": "16:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Chrissie en Lorand wonen in een oud politiebureau: 'Kijkgaatje zit er nog'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -168,7 +168,7 @@
   "id": "38e8803eab",
   "datum": "2026-09-06",
   "tijd": "15:19",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Auto knalt op paal, vrouw aangehouden voor rijden onder invloed",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1511,6 +1511,26 @@
   ],
   "samenvatting": "Hennepkwekerij met 300 planten ontdekt aan De Boldert in Grou Grousters.nl",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVpYVzJVZ2UzU3RhZkE4QjIxcmo5STlkTUxSN2RvYU9JOHJjaXpmS2N2MVZlMmJWMVBRTXBZbEMwbEtKcEJHemFqY29ES3N0bmMwZXpvWWFtMTRiMjdmUmJHRmZUOW5rb0RaR0xZdW93eXVIOVE4a1pyMDNrc3YwbWg5LWFWczVXeXlIOWJscHpjUUs3ZXVuOXl3?oc=5"
+ },
+ {
+  "id": "4059c82dd1",
+  "datum": "2026-09-04",
+  "tijd": "10:32",
+  "nieuw": false,
+  "titel": "Hennepkwekerij opgerold aan Eikepagelaan in Apeldoorn: politie neemt voertuigen en spullen mee",
+  "bron": "112apeldoorn.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij opgerold aan Eikepagelaan in Apeldoorn: politie neemt voertuigen en spullen mee 112apeldoorn.nl",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHpKdnFIbmRuOEVYQ1VYV3VZbVZRTnFobkpWeXVsNGlwQ1hmUnZHbVFhREJpMXAwLTQ2X0pFOUFHUUZucUFlT3JJVkl2bldtTThJY0JoMlVzLTFEMTZPQ24zWUk4YUNqOE9GUl9ZT0NIUmpQXzNTRWgwX1Vkb3ZkY2Uyd2JFLUhHWkZTSHF1cFJ1Y3pEbmU2R3pVWFNtNVROa050WFFIUWtPelJRcXc?oc=5"
  },
  {
   "id": "d00d34b151",
@@ -13237,6 +13257,25 @@
   ],
   "samenvatting": "Twee 29-jarige mannen aangehouden voor mensensmokkel op A16 bij Hazeldonk Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVZvYTl4dkp4RzVFc3BDSGE1eXdGamFXZlZlMjRROHlDOG9HeGdFNEwweEFlZWNTZ25QNThGbHAtbVRDZ3hmb0VJUmJsMTM5Rk5qYlFqMHZKOUs2cEFzZ0NfMTBOMzFRZmVtYWZObzJCVy1JblRDRGtSdkRWM0Utazl0Yk13QkFkMldmenU0TTh1dDFPczc4NnEyWlRTYWltd3N4ZmJpa1ZWNXB0X1E?oc=5"
+ },
+ {
+  "id": "9bb8a1151b",
+  "datum": "2026-08-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Twee 29-jarige mannen aangehouden voor mensensmokkel op A16 bij Hazeldonk",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Twee 29-jarige mannen aangehouden voor mensensmokkel op A16 bij Hazeldonk BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0Z4SW1DdkF1b1BCNHQtUy1EYlgyRkFRYXdJVGxOdnRRbWVBTWtDUGhEYl9oYmxmS205SUxDX0g3ckRsZzdFd0J3V1hpdTVlUDFrel9WRWtEbHpuNkhETkVBeEdFUjBqa0UyaFNzaDNWQ2NSOEpBUUJDQnNKNEhyWFNQRTJXYWctRnJkUkRHN21BZE5FZmZodkc1UTRnV1FkLXNmQ0JPb1psaVFERWtWWWxzOUpRdHRWdkJoTUpsRDVid0Vk?oc=5"
  },
  {
   "id": "c1539e32ec",
@@ -38383,6 +38422,30 @@
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNnBVVlVEVzhwUnlRT0h2NkRLUlBXZHlMQmc1aFZ1NVQzbjItT2IyN1FRUG5HdDJrVWRKMDFtZWhUbHVQRlpVUlJnTFU3TlNzMjBTSDZLY2JJbzM3MTA0SjlsX2hXcWxRQ0JCd3hvNlhmZXZ2SE5hUms4VGhISWUyZFFqTXhiNGU1dXQxbkRMRFFqZ25JV0J3eHp3b3JJLWVPVmNydi1SN21CcDZtTnc?oc=5"
  },
  {
+  "id": "51a8ffd980",
+  "datum": "2024-12-19",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij en vuurwerk gevonden bij woning",
+  "bron": "Politie.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "vuurwerk",
+   "woning"
+  ],
+  "samenvatting": "Hennepkwekerij en vuurwerk gevonden bij woning Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSm82OFdlYThJeHZOSUxsOTEtZWU0UVFXaGQxejNEOUVNYlc1S3VfdFBJYmxkclpnaEtyeU5sdmRfVWltOFlrNTVPWjVLU3VyTEtJeW5lTW5RUVRkNW0xNVFybW0yUmFDc2x4WTd6Y0pia1d2aGloOG9xZGtqMUFmcUduUzQzb01JOFBMaE1uOXdVQzVxUmFjNDBqQXVOV2dndEJV?oc=5"
+ },
+ {
   "id": "9bdaf24c5b",
   "datum": "2024-12-18",
   "tijd": "08:00",
@@ -49333,6 +49396,25 @@
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYzF2RXFremxBS3dxY0dsTlJzTkl1c2RyMU9WdEtJLXp4R25XX2tPcXlYYk5WbjYwb1BPZkF6cUJ6Ql9QS2xjYWg2ajlZNm9zZENOWlFET2ttVXdGejZlWDJzTlE1RFhtTmwyc0g5al9FRG1KaVc1U3ppNUctTk9hUjBDRGtPaEV3WFp3VTBYa2ZxNGhhVnBkWEdicl90NDRQOG5aV1lZWTh6WXR0ZVRQSHc4d05HbmhZcnRNSEp1aXBCSVdVcVJvUy1IMFRQVHlkMzZtdGY4TnZVQQ?oc=5"
  },
  {
+  "id": "477ec9eb85",
+  "datum": "2021-04-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Motorclub Caloh Wagoh verboden en ontbonden door rechtbank",
+  "bron": "NU",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "motorclub"
+  ],
+  "samenvatting": "Motorclub Caloh Wagoh verboden en ontbonden door rechtbank NU",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONUdtS2F2VmZIWV9yMFJRMHpnNjM4VlVyamc5QUlNTDEtUHVkMXl3NVluYTFLSGd1WGg1VzFhckdRY2VGTFppMzc4aTkyTDhSN3pqaGpwbU9CN0lCakdNeWNFWjJwZjMyWXRQcFBvc0ZRWFAtcl9INWl2b0NIRURGZlNyR1M5eDdlelBFRGMteFBOZ3kxVTRsalE1ZkZHQW1hSlE?oc=5"
+ },
+ {
   "id": "b8e7d22e0c",
   "datum": "2021-04-06",
   "tijd": "07:00",
@@ -54798,6 +54880,26 @@
   ],
   "samenvatting": "Corruptie bij politie en defensie Follow the Money",
   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiTnU4ZlJDbkhJd1NFR09uOU9RZFBOMF9YQ0I3VktlVlJGZTJGaHdBVW5SOUJSQzc4X3Vzbl9iaVlYY0xTd2JvNzR0R0tXRUJjRnRDZlE2NzktZlVFVFJQb0NOT0M5QUpW?oc=5"
+ },
+ {
+  "id": "5483ee0be3",
+  "datum": "2016-01-19",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie ontdekt hennepkwekerij in Enschede en houdt drie mensen aan",
+  "bron": "RTV Oost",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Politie ontdekt hennepkwekerij in Enschede en houdt drie mensen aan RTV Oost",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzBzbE81T1JyYVUtNzNQLWloc3VONUdGN1JwemdpaVprTkRKd1U1bWJxWFI0dnFsaGY4R3R3b1ZOVko3Ym1yWXI0ZFVUMnk0VHhnU0FESEJQcTRRZklQSzhZM25iOU5zY3Uxc3FZb0l6ekcxdEZMSk9zbjR6d3pzMDNFa3NzRUI0c3laQXlFM3luemdpV3BwVEV1M3ctQ0MwRGlN?oc=5"
  },
  {
   "id": "07022d56be",
