@@ -1,5 +1,52 @@
 [
  {
+  "id": "0fecbe8b50",
+  "datum": "2026-09-07",
+  "tijd": "20:23",
+  "nieuw": true,
+  "titel": "Hogere straffen in beroepszaak tegen zes verdachten in moordzaak advocaat Wiersum",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "criminele organisatie",
+   "geweld",
+   "liquidatie",
+   "moord",
+   "organisatie",
+   "wapen"
+  ],
+  "samenvatting": "Zes verdachten in de zaak rond de moord op advocaat Derk Wiersum hebben in hoger beroep straffen tot elf jaar en drie maanden gekregen . Ze zijn veroordeeld voor lidmaatschap van een criminele organisatie en een aantal van hen ook voor poging tot moord op een ander slachtoffer, ruim een maand na de moord op Wiersum. De",
+  "link": "https://nos.nl/l/2630109"
+ },
+ {
+  "id": "ee0a9f70d2",
+  "datum": "2026-09-07",
+  "tijd": "19:44",
+  "nieuw": true,
+  "titel": "Lelystad - Maat is nu echt vol: 'drugsverslaafde' huurder van Centrada moet zijn koffers pakken",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "stal",
+   "woning"
+  ],
+  "samenvatting": "Een volgens Centrada drugsverslaafde huurder van een appartement aan de Wold 28 in Lelystad moet binnen een maand zijn koffers pakken. De rechter vindt het terecht dat corporatie Centrada de woning terug wil, zo besliste die maandag. Volgens Centrada zorgt de huurder al twee jaar lang voor overlast. Schreeuwen, ruzies,",
+  "link": "https://www.omroepflevoland.nl/nieuws/522948/maat-is-nu-echt-vol:-'drugsverslaafde'-huurder-van-centrada-moet-zijn-koffers-pakken"
+ },
+ {
   "id": "4520efdfa0",
   "datum": "2026-09-07",
   "tijd": "18:50",
@@ -26,6 +73,27 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522946/nieuwsoverzicht-van-0709-or-'sloop-kasteel-almere'-*-a28-bij-nijkerk-dicht-na-inspectie-brug"
  },
  {
+  "id": "eece67332f",
+  "datum": "2026-09-07",
+  "tijd": "18:22",
+  "nieuw": true,
+  "titel": "Vermoedelijk drugsafval gevonden in bos bij Angerlo",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Vermoedelijk drugsafval gevonden in bos bij Angerlo De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNVhJRUZncl9wVUpnTlVPYWxGX1NoU253cm5xZWQzSjR3bmktTFBXN19VbVZsZnpfVnlGR0I1d0djRWxtajlXMjl0RUVBVVdRMThOZlVrODZHdC1nb3N6ZDBCWTJlVkw4d25SSjFfbTF4YU9DZ0Z3dms5R3k3VlJjb3RqbnFtbGl6bS1fakNqNi1PS2I3MGcxN0xJMWtZRTN2NHdpRF9vTkhuMW9fb3c?oc=5"
+ },
+ {
   "id": "2c5f3f53d0",
   "datum": "2026-09-07",
   "tijd": "17:54",
@@ -44,6 +112,25 @@
   ],
   "samenvatting": "Een aantal verdachten van het extreme geweld in Overasselt van vorige week, waarbij een bewaker voor het huis van Jan G. werd doodgeschoten, is al eerder in aanraking gekomen met justitie. Dat blijkt uit een overzicht van de verdachten die afgelopen vrijdag zijn voorgeleid en dat het AD heeft kunnen inzien. De politie ",
   "link": "https://nos.nl/l/2630094"
+ },
+ {
+  "id": "d489687dd2",
+  "datum": "2026-09-07",
+  "tijd": "17:43",
+  "nieuw": true,
+  "titel": "Wielrenner overleden • verdachte vaten aangetroffen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "vaten"
+  ],
+  "samenvatting": "Het actuele 112-nieuws uit Gelderland van deze dag bundelen we in een liveblog. Je leest en ziet hier een overzicht van ongelukken, branden, vermissingen en misdrijven in onze provincie.",
+  "link": "https://www.gld.nl/nieuws/8519455/wielrenner-overleden-verdachte-vaten-aangetroffen"
  },
  {
   "id": "31e823dd46",
@@ -65,6 +152,66 @@
   ],
   "samenvatting": "Een motorrijder in Lelystad Haven heeft zondagavond een aparte vlucht genomen. Hij reed met hoge snelheid over het fietspad van de Binnendijk, crashte tegen een lantaarnpaal en liet zijn motor achter. De bestuurder sprak vervolgens de opvarenden aan van een bootje dat daar in de buurt lag aangemeerd. Zij brachten de mo",
   "link": "https://www.omroepflevoland.nl/nieuws/522918/motorrijder-per-boot-op-de-vlucht-na-botsing-in-lelystad-haven"
+ },
+ {
+  "id": "eeeb44af13",
+  "datum": "2026-09-07",
+  "tijd": "16:54",
+  "nieuw": true,
+  "titel": "Duizenden kilo's cocaïne moesten naar Dordrecht: 'Lading behoort toe aan Bolle Jos'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne",
+   "container",
+   "douane",
+   "haven"
+  ],
+  "samenvatting": "In een containerschip dat op weg was naar de haven van Antwerpen heeft de Franse douane duizenden kilo's cocaïne onderschept. Het schip kwam uit West-Afrika en de container met de drugs zou worden gelost bij een bedrijf in Dordrecht. Volgens De Telegraaf was een deel van de lading van drugscrimineel 'Bolle' Jos Leijdek",
+  "link": "https://www.rijnmond.nl/nieuws/2250203/duizenden-kilos-cocaine-moesten-naar-dordrecht-lading-behoort-toe-aan-bolle-jos"
+ },
+ {
+  "id": "b41a088273",
+  "datum": "2026-09-07",
+  "tijd": "15:58",
+  "nieuw": true,
+  "titel": "Juwelier vreest voor leven tijdens overval: 'Ik nam afscheid van mijn man en kinderen'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "juwelier"
+  ],
+  "samenvatting": "De eigenaresse van juwelier Chalcedoon in Capelle aan den IJssel heeft doodsangsten uitgestaan tijdens de overval op haar zaak in januari. \"Het ergste is het mes tegen de hals. Op dat moment heb ik afscheid genomen van mijn man, mijn kinderen en kleinkinderen. Ik dacht dat ik het niet zou overleven\", vertelt ze in een ",
+  "link": "https://www.rijnmond.nl/nieuws/2250103/juwelier-vreest-voor-leven-tijdens-overval-ik-nam-afscheid-van-mijn-man-en-kinderen"
+ },
+ {
+  "id": "8277672e2b",
+  "datum": "2026-09-07",
+  "tijd": "15:51",
+  "nieuw": true,
+  "titel": "'Duitse klimaatactivist wil ook in Nederland toeslaan op energienet'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "De 48-jarige klimaatactivist Daniel V. die in Duitsland wordt gezocht voor meerdere sabotagepogingen op het energienet, wil mogelijk ook in Nederland toeslaan. Volgens de Duitse krant Frankfurter Allgemeine Zeitung heeft de man een elektriciteitsstation in Doetinchem op een lijstje staan van mogelijke doelwitten. De kr",
+  "link": "https://nos.nl/l/2630085"
  },
  {
   "id": "a19896d528",
@@ -249,7 +396,7 @@
   "id": "b701b05960",
   "datum": "2026-09-07",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man levert hier een volle tas met vuurwerk in: 'Knalvuurwerk en potten'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -270,7 +417,7 @@
   "id": "b40c976702",
   "datum": "2026-09-07",
   "tijd": "13:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Druk op Bolle Jos neemt toe, weer enorme lading coke van hem onderschept'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -735,25 +882,6 @@
   ],
   "samenvatting": "De politie heeft een nieuwe verdachte aangehouden in het onderzoek naar het geweld in Overasselt. Het gaat om een 26-jarige man met de Belgische nationaliteit. De verdachte werd vrijdag gearresteerd in Amsterdam. Hij wordt verdacht van betrokkenheid bij de gebeurtenissen in Overasselt afgelopen week. De politie doet ve",
   "link": "https://nos.nl/l/2629906"
- },
- {
-  "id": "c40f503593",
-  "datum": "2026-09-06",
-  "tijd": "10:43",
-  "nieuw": false,
-  "titel": "Automobilist ramt onder invloed tankstation langs A58 bij Etten-Leur, veel schade",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Een 28-jarige automobilist uit Breda is gisteravond in West-Brabant onder invloed van drugs en alcohol met hoge snelheid tegen een benzinepomp gereden. Het ongeval gebeurde rond 22.45 uur langs de A58 bij Etten-Leur. Een andere automobilist, die op dat moment stond te tanken, kwam volgens de politie met de schrik vrij.",
-  "link": "https://nos.nl/l/2629891"
  },
  {
   "id": "04ef79390b",
@@ -12141,6 +12269,25 @@
   ],
   "samenvatting": "Verdachte schetst bizar beeld van drugslab in Someren-Heide: ‘Pleur het maar in een ketel’ gelderlander.nl",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTFBySkZFMEo0M09iNThTWU02cS1PWnQ0MGZiSHBqTF9lZ2ZiUUxWZURaN2U4YnNWQVFhTG1CbXBJeEtpTG9zOWRhOWptRFNpOUpHODY2NEsySDBHRjQ0Z3MwRFNPT3E4QlJMVkRIcTRLSDVRSFRYMEF3ZW5DS3NpcXpKOHFQTXVoZFlDTmdtZmJsTUg3b1FHaURlYWllTlFaNkJzdWIwQlg1OWQxczFNaDFORWV0Z0FsSTYzSHhpTldaMkU?oc=5"
+ },
+ {
+  "id": "2a15c45d18",
+  "datum": "2026-08-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Verdachte schetst bizar beeld van drugslab in Someren-Heide: ‘Pleur het maar in een ketel’",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Verdachte schetst bizar beeld van drugslab in Someren-Heide: ‘Pleur het maar in een ketel’ AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSlRSTWwzbFBodEtlN3JWdFR0U0JSenc5Q0dTajNXOXQyaVVWMmplUlBYa0lQalpBQ3Nsb1d3X1NmZTdZMlR1TDI3d3psejVtcHlWYjlCcnJHVGZyUTRCMDA3YVpSN3N6dHZKYVVIRmprZ2dzUWF4dHZPLU1SOXRqaHVXQjVuYUxVTE5CSEVlUUhudGprMHlfNjV4Y1JULUNvRm9PWlRjUFpKU2RnWXR1TzdYTVV3Q2lka0ZTc3Z2clk?oc=5"
  },
  {
   "id": "b659b37087",
