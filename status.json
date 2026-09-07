@@ -1,12 +1,12 @@
 {
- "run": "11:32",
+ "run": "12:38",
  "datum": "2026-09-07",
- "nieuw": 7,
- "totaal": 2799,
+ "nieuw": 10,
+ "totaal": 2805,
  "verwijderd": 4,
  "geweigerd": {
-  "niet-nederlands": 1057,
-  "geen dossier": 516
+  "niet-nederlands": 1078,
+  "geen dossier": 481
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 114,
-   "status": "bij",
+   "items": 115,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 136,
-   "status": "bij",
+   "items": 137,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 29,
-   "status": "1 nieuw",
+   "items": 30,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 64,
-   "status": "3 nieuw",
+   "items": 66,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -509,7 +509,7 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 106,
+   "items": 107,
    "status": "1 nieuw",
    "ok": true
   },
@@ -546,7 +546,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 31,
-   "status": "2 nieuw",
+   "status": "1 nieuw",
    "ok": true
   },
   {

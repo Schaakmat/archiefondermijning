@@ -1,5 +1,28 @@
 [
  {
+  "id": "a093871f19",
+  "datum": "2026-09-07",
+  "tijd": "14:26",
+  "nieuw": true,
+  "titel": "7/9 in Nieuwsuur: Hoe extreem(rechts) is de AfD? • Onze worsteling met water • Voorlezen in strijd tegen ontlezing",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "jongeren",
+   "organisatie",
+   "wapen"
+  ],
+  "samenvatting": "Forse AfD-zege in Saksen-Anhalt In de Duitse deelstaat Saksen-Anhalt heeft de radicaal-rechtse AfD gisteren een forse verkiezingswinst geboekt. Veel Duitsers zijn daar bezorgd over, want de partij is controversieel. Sommigen bestempelen de AfD zelfs als extreemrechts of nazistisch. Hoe terecht is dat? Ook kijken we naa",
+  "link": "https://nos.nl/l/2630073"
+ },
+ {
   "id": "749c0efd45",
   "datum": "2026-09-07",
   "tijd": "12:30",
@@ -10,15 +33,32 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Vastgoed & huisvesting"
   ],
   "tags": [
-   "wapen",
    "woning"
   ],
   "samenvatting": "Een 34-jarige man uit Luttelgeest is zondag aangehouden op verdenking van poging tot doodslag. Hij zou een man met een hakbijl hebben bedreigd en een auto hebben vernield. Volgens de politie vernielde de man zonder duidelijke aanleiding een auto aan de Vlashof in Nagele. Toen de eigenaar van de auto poolshoogte kwam ne",
   "link": "https://www.omroepflevoland.nl/nieuws/522868/man-uit-luttelgeest-bedreigt-inwoner-nagele-met-bijl-grote-politiemacht-haalt-verdachte-uit-woning"
+ },
+ {
+  "id": "be13cfc6ed",
+  "datum": "2026-09-07",
+  "tijd": "12:11",
+  "nieuw": true,
+  "titel": "Minderjarige jongen gewond bij steekpartij in het Kinderbos in Gemert",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Een minderjarige jongen is maandagmiddag gewond geraakt bij een steekpartij in het Kinderbos in Gemert. Aan de steekpartij zou een ruzie tussen meerdere jongeren vooraf zijn gegaan. Rond half twee ging het mis in het bos, in de buurt van de Dribbelei. Daar zou ruzie zijn ontstaan tussen meerdere jongeren, waarna de ste",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026262/minderjarige-jongen-gewond-bij-steekpartij-in-het-kinderbos-in-gemert"
  },
  {
   "id": "324d538a24",
@@ -40,11 +80,51 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522906/heg-in-brand-naast-basisschool-op-urk-directeur-helpt-met-blussen"
  },
  {
+  "id": "bb38d141d0",
+  "datum": "2026-09-07",
+  "tijd": "11:16",
+  "nieuw": true,
+  "titel": "Verdachten geweld Overasselt eerder in beeld voor zware misdrijven",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "geweld",
+   "wapen"
+  ],
+  "samenvatting": "Een aantal verdachten dat is opgepakt na het extreme geweld in Overasselt, was al eerder in beeld bij opsporingsdiensten voor zware criminaliteit. Volgens het AD werden zij in het verleden verdacht van onder meer ontvoeringen, vuurwapengeweld en oplichting. De krant kreeg inzage in een overzicht van de verdachten die v",
+  "link": "https://www.gld.nl/nieuws/8519630/verdachten-geweld-overasselt-eerder-in-beeld-voor-zware-misdrijven"
+ },
+ {
   "id": "387e7d6fd6",
   "datum": "2026-09-07",
   "tijd": "11:00",
   "nieuw": true,
   "titel": "Buurtbewoners bezorgd na zoveelste dixi-brand in Breda: 'Beetje eng'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval"
+  ],
+  "samenvatting": "Bewoners van de Bredase wijk Heuvel zijn bezorgd nadat er in de nacht van zondag op maandag wéér een dixi in vlammen opging. De afgelopen maanden vlogen er al zo'n twintig dixi-toiletten in Breda in brand. Zondagnacht stonden ook een scooter en een bergje afval in lichterlaaie. De politie laat maandagochtend weten uit ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026245/buurtbewoners-bezorgd-na-zoveelste-dixi-brand-in-breda-beetje-eng"
+ },
+ {
+  "id": "d3ac7f0447",
+  "datum": "2026-09-07",
+  "tijd": "11:00",
+  "nieuw": true,
+  "titel": "Buurtbewoners bezorgd na opnieuw een brandende dixi: 'Het is niet normaal'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -58,7 +138,7 @@
    "container"
   ],
   "samenvatting": "Bewoners van de Bredase wijk Heuvel zijn bezorgd nadat er in de nacht van zondag op maandag wéér een dixi in vlammen opging. De afgelopen maanden vlogen er al zo'n twintig dixi-toiletten in Breda in brand. Zondagnacht stonden ook een scooter en een bergje afval in lichterlaaie. De politie laat maandagochtend weten uit ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026245/buurtbewoners-bezorgd-na-zoveelste-dixi-brand-in-breda-beetje-eng"
+  "link": "https://www.omroepbrabant.nl/nieuws/6026245/buurtbewoners-bezorgd-na-opnieuw-een-brandende-dixi-het-is-niet-normaal"
  },
  {
   "id": "9f21c3c2fe",
@@ -121,7 +201,7 @@
   "id": "27d704475a",
   "datum": "2026-09-07",
   "tijd": "04:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Steekincident in bovenwoning in Almelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -25451,6 +25531,25 @@
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMm1FQXZ5S0lyb0pGX2k2ZGdIMU1Uc3BmTXpVNm9HSEJ0ZGpHS3psRWlwc3hmZ3hBSWhvNURRWkllZExhakNLa1EzVUhZM01kQW1sb1RhTy1kTWlZYVRqSHJldDlnYlhPLWRoYXF1MGtUTGZnOVpwcjVMMTlnZGt4TXNEQ1B6aGxZZy00cWV4amo5SFZMcGx2WGhaeU5CelJnanNHQmdCaDljNG1WYUdiZWlfVHZNanBqWmlv?oc=5"
  },
  {
+  "id": "f2048e28d5",
+  "datum": "2026-03-27",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie vindt drugslab in woonwijk in Lienden en houdt bewoner aan",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie vindt drugslab in woonwijk in Lienden en houdt bewoner aan De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjJZczRrMTE2bHFyYkJyRkhhenlTSTlMcjJCMHhONUtlNHRVX2xYLVNUOFBaTXd5VFNvZ3dnR3RyNlVmS25rLXNkTmJ0VGFwQUlhUHJtN0RPbUZ6RUE0Nl9DTzJsX01iOWhmZk9TcUdsTF9FVGhVNFlFWk9uOXByUDA1NkM1TnpBUUtQalNWakVMZkszamxJdkZIUXE2OTMzLVh5U3VKZ1RuZVkzaTk4?oc=5"
+ },
+ {
   "id": "2ab4f9d55b",
   "datum": "2026-03-26",
   "tijd": "21:29",
@@ -31977,6 +32076,29 @@
   ],
   "samenvatting": "Winkelcentrum beschoten door stel: drugslab en wapens in huis gevonden Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkVhVkphd2xkazZwcFRNbVI3eFkwTVRnMzQxdGxOXzRfMnhXc0M4YlA3X1ZXRG8yckV1aklhZlV0dUZBQXpKS0s2UnRwYzNMQmRiYXFCTWE5TVFFcEtfQnplQjBVTzdzak0wY2JiYmpTQkpHMUl6eWNvODczWW01dUp0WnhPbzJ5aWJ1SF82LTJXd0RBTHh5SXlkUk5wUHFQWnBucVpRX05zTUstbU1Sa0dvZw?oc=5"
+ },
+ {
+  "id": "52d2fef898",
+  "datum": "2025-11-03",
+  "tijd": "11:43",
+  "nieuw": false,
+  "titel": "Mestfraude, afvalzwendel en drugsdumping? ‘Afvalmaffia’ rond Peet W. in beeld voor drugs op akkers | Foto",
+  "bron": "pzc.nl",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsdumping",
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Mestfraude, afvalzwendel en drugsdumping? ‘Afvalmaffia’ rond Peet W. in beeld voor drugs op akkers | Foto pzc.nl",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcDFOVl9iMkppb0VWOFprVks0UTByVGlmWUpXcjhYZHVZM055bkJnUFkzaDJxeEdJUWtuM2JmcXJQM0ZkcEdkY2lfd29Kc281Y1F4ZEMtVVRIUEU5SVZGNXBaajNlSmdjYmtHRXpqMjUxajlrOFkxbHNqVnNNS3Z2cWgwTUhoTGU0ZEE5VUpRN0lfaUZTLTNmU2JZT3AweHg2S0M2VXZ3MDhuSzRfMnphNkVkUkdCajMtbERuVnJqQ25CNm5JdFlWZ3J0V2I1QkIwdlVRZjlBamcyUXc?oc=5"
  },
  {
   "id": "70046f9f49",
