@@ -1,12 +1,12 @@
 {
- "run": "08:35",
+ "run": "09:35",
  "datum": "2026-09-07",
- "nieuw": 5,
- "totaal": 2792,
- "verwijderd": 4,
+ "nieuw": 6,
+ "totaal": 2795,
+ "verwijderd": 3,
  "geweigerd": {
-  "niet-nederlands": 1053,
-  "geen dossier": 516
+  "niet-nederlands": 1050,
+  "geen dossier": 512
  },
  "bronnen": [
   {
@@ -104,8 +104,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 63,
-   "status": "bij",
+   "items": 64,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 82,
-   "status": "bij",
+   "items": 83,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -429,7 +429,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 122,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 43,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 29,
-   "status": "bij",
+   "items": 30,
+   "status": "1 nieuw",
    "ok": true
   },
   {
