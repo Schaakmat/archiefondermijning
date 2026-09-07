@@ -11,16 +11,12 @@
   "regio": "Landelijk",
   "dossiers": [
    "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
    "criminele organisatie",
-   "geweld",
-   "liquidatie",
    "moord",
-   "organisatie",
-   "wapen"
+   "organisatie"
   ],
   "samenvatting": "Zes verdachten in de zaak rond de moord op advocaat Derk Wiersum hebben in hoger beroep straffen tot elf jaar en drie maanden gekregen . Ze zijn veroordeeld voor lidmaatschap van een criminele organisatie en een aantal van hen ook voor poging tot moord op een ander slachtoffer, ruim een maand na de moord op Wiersum. De",
   "link": "https://nos.nl/l/2630109"
@@ -36,11 +32,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "stal",
    "woning"
   ],
   "samenvatting": "Een volgens Centrada drugsverslaafde huurder van een appartement aan de Wold 28 in Lelystad moet binnen een maand zijn koffers pakken. De rechter vindt het terecht dat corporatie Centrada de woning terug wil, zo besliste die maandag. Volgens Centrada zorgt de huurder al twee jaar lang voor overlast. Schreeuwen, ruzies,",
@@ -92,6 +86,27 @@
   ],
   "samenvatting": "Vermoedelijk drugsafval gevonden in bos bij Angerlo De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNVhJRUZncl9wVUpnTlVPYWxGX1NoU253cm5xZWQzSjR3bmktTFBXN19VbVZsZnpfVnlGR0I1d0djRWxtajlXMjl0RUVBVVdRMThOZlVrODZHdC1nb3N6ZDBCWTJlVkw4d25SSjFfbTF4YU9DZ0Z3dms5R3k3VlJjb3RqbnFtbGl6bS1fakNqNi1PS2I3MGcxN0xJMWtZRTN2NHdpRF9vTkhuMW9fb3c?oc=5"
+ },
+ {
+  "id": "fa397d64a4",
+  "datum": "2026-09-07",
+  "tijd": "18:22",
+  "nieuw": true,
+  "titel": "Mogelijk drugsafval gevonden in bos bij Angerlo",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Mogelijk drugsafval gevonden in bos bij Angerlo De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjYyVFpXc2VwNEYyR2RZdmlaMUhWNkJUV2lPcFBpaThOUmdId1NfTEE2cmtBOUZ4NVgwUzFkRzVYYzlhZ1pldTNLdERjOWN6aGxaVktja1RDMWtFQ29VYWtlSDltaUo3eDlsZUtGcjlDTlowdE41VGhfbDBDRW9LcTdCTGY2dlRUWV9RM1k1ZEtWbWxOY3k0VFRaMkstVVRhd19IT2MtMHk?oc=5"
  },
  {
   "id": "2c5f3f53d0",
@@ -176,25 +191,6 @@
   "link": "https://www.rijnmond.nl/nieuws/2250203/duizenden-kilos-cocaine-moesten-naar-dordrecht-lading-behoort-toe-aan-bolle-jos"
  },
  {
-  "id": "b41a088273",
-  "datum": "2026-09-07",
-  "tijd": "15:58",
-  "nieuw": true,
-  "titel": "Juwelier vreest voor leven tijdens overval: 'Ik nam afscheid van mijn man en kinderen'",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "juwelier"
-  ],
-  "samenvatting": "De eigenaresse van juwelier Chalcedoon in Capelle aan den IJssel heeft doodsangsten uitgestaan tijdens de overval op haar zaak in januari. \"Het ergste is het mes tegen de hals. Op dat moment heb ik afscheid genomen van mijn man, mijn kinderen en kleinkinderen. Ik dacht dat ik het niet zou overleven\", vertelt ze in een ",
-  "link": "https://www.rijnmond.nl/nieuws/2250103/juwelier-vreest-voor-leven-tijdens-overval-ik-nam-afscheid-van-mijn-man-en-kinderen"
- },
- {
   "id": "8277672e2b",
   "datum": "2026-09-07",
   "tijd": "15:51",
@@ -276,7 +272,7 @@
   "id": "7a79eb6994",
   "datum": "2026-09-07",
   "tijd": "15:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Meisje (15) uit Mierlo aangehouden na steekpartij in Kinderbos in Gemert",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -295,7 +291,7 @@
   "id": "332b523fb2",
   "datum": "2026-09-07",
   "tijd": "15:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man doet zich voor als iemand anders en neemt vrachtwagen vol schoenen mee",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -314,7 +310,7 @@
   "id": "7a588c31f9",
   "datum": "2026-09-07",
   "tijd": "15:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Brug A28 bij Nijkerk 'uit voorzorg' zeker 48 uur in beide richtingen dicht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -335,7 +331,7 @@
   "id": "2a32c51d8b",
   "datum": "2026-09-07",
   "tijd": "14:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man steelt vrachtlading schoenen, bekijk hier de beelden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -354,7 +350,7 @@
   "id": "a093871f19",
   "datum": "2026-09-07",
   "tijd": "14:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "7/9 in Nieuwsuur: Hoe extreem(rechts) is de AfD? • Onze worsteling met water • Voorlezen in strijd tegen ontlezing",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -377,7 +373,7 @@
   "id": "86b3f85b64",
   "datum": "2026-09-07",
   "tijd": "14:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overleden man gevonden in huis in Heeswijk-Dinther, politie doet onderzoek",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -667,27 +663,6 @@
   ],
   "samenvatting": "Als oud-politieman houdt Gerard Vogelenzang uit Vaassen zich graag aan de regels. Dus vroeg hij een vergunning aan voor de laadkabel die hij over de stoep legt om zijn auto op te laden. Die kreeg hij niet. Nu stapt hij naar de rechter. \"Op de markt mag dit wel, dus waarom zou ik dit niet mogen?\"",
   "link": "https://www.gld.nl/nieuws/8511402/gerard-stapt-naar-de-rechter-omdat-hij-niet-voor-de-deur-mag-laden"
- },
- {
-  "id": "172031ee81",
-  "datum": "2026-09-07",
-  "tijd": "03:40",
-  "nieuw": false,
-  "titel": "Dixi, scooter en afval gaan kort na elkaar in vlammen op in Breda",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "afval",
-   "container"
-  ],
-  "samenvatting": "Een dixi, een scooter en afval bij een container zijn zondagnacht kort na elkaar in vlammen opgegaan in de Bredase wijk Heuvel. Er zijn de afgelopen maanden al zo'n twintig dixi-toiletten in brand gevlogen in Breda. De dixi brandde zondagnacht als eerste uit, aan de Talmastraat. Er bleef weinig van het mobiele toilet o",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026142/dixi-scooter-en-afval-gaan-kort-na-elkaar-in-vlammen-op-in-breda"
  },
  {
   "id": "06deab2688",
@@ -17118,6 +17093,25 @@
   ],
   "samenvatting": "Hart van Nederland - Late Editie: Drie mannen aangehouden voor witwassen van 100 miljoen euro kijk.nl",
   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaGptSThiLXF3QlR1djY0b2ZRblV2Mkl3VGVQaVM2d1ZOOWxZMDh6MlluaW5jNm56TzFfcEJ2aDNwY2g4V0NTdUNiTl9QbEo4dEpzVlRzQUlIamhPWkZKS3AyMWJ6Q0RCSEtOZFQtOEJ4YTFqeWs0VHlHX2hObVRjSFpR?oc=5"
+ },
+ {
+  "id": "0e9aeb0f46",
+  "datum": "2026-07-03",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Indonesië: van mensenhandel-slachtoffer naar regionale vakbondsleider",
+  "bron": "cnv.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Indonesië: van mensenhandel-slachtoffer naar regionale vakbondsleider cnv.nl",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRXR1c1F3bDY2cUZjMDdQYzViMElmd0VPcDhab1RFR1Z1YjRwLWRxSjlRUkdaSVhsdUtUcXR2WGwzazNFUVBpcmREbFh3RnlNQnBGWVB3QVBKa3dORzM0Tl82MjVxOXVpMmRsdFhUamxrVEZvVmMxeWFXeGxNc09CVUhZYmoyM3ZoX3gtMk1mdWYyRlVkTVgtWm9YT1p3UmVOSlZaaW1MSC1aMXBQYTN5X1NmUlVjQQ?oc=5"
  },
  {
   "id": "3defb30078",
