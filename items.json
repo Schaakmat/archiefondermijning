@@ -1,5 +1,26 @@
 [
  {
+  "id": "172031ee81",
+  "datum": "2026-09-07",
+  "tijd": "03:40",
+  "nieuw": true,
+  "titel": "Dixi, scooter en afval gaan kort na elkaar in vlammen op in Breda",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "container"
+  ],
+  "samenvatting": "Een dixi, een scooter en afval bij een container zijn in de nacht van zondag op maandag kort na elkaar in vlammen opging in de Bredase wijk Heuvel. Er zijn de afgelopen maanden al zo'n twintig dixi-toiletten in brand gevlogen in Breda. De dixi brandde zondagnacht als eerste uit aan de Talmastraat. Er bleef weinig van h",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026142/dixi-scooter-en-afval-gaan-kort-na-elkaar-in-vlammen-op-in-breda"
+ },
+ {
   "id": "06deab2688",
   "datum": "2026-09-06",
   "tijd": "20:03",
@@ -45,7 +66,7 @@
   "id": "38e9e6f1ed",
   "datum": "2026-09-06",
   "tijd": "17:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Iraanse studenten, broer Bolle Jos en bloemencorso: dit mag je niet missen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -336,29 +357,6 @@
   ],
   "samenvatting": "Gemeente, politie en wooncorporatie zijn nog altijd met elkaar in gesprek hoe om te gaan met de geëscaleerde burenruzie in de Arnhemse wijk Geitenkamp die tot dagenlange rellen en vuurwerk gooien leidde. Burgemeester Ahmed Marcouch wil helder hebben of er in de aanloop daar naartoe fouten zijn gemaakt door de instantie",
   "link": "https://www.gld.nl/nieuws/8516959/marcouch-wil-weten-of-er-fouten-zijn-gemaakt-bij-geescaleerde-burenruzie-geitenkamp"
- },
- {
-  "id": "f59dafac61",
-  "datum": "2026-09-05",
-  "tijd": "18:31",
-  "nieuw": false,
-  "titel": "Ontsnapte serval en rode lucht: dit gebeurde vandaag",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "explosie",
-   "geweld",
-   "pand"
-  ],
-  "samenvatting": "Van een ontsnapte serval tot rode lucht in Brabant. Dit zijn de vijf verhalen die je op zaterdag gelezen moet hebben. Vreemde figuren in een boomstam blijken een verrassend natuurfenomeen. Peter Ulijn zag opvallende patronen in de zaagsnede van een omgezaagde boom. Boswachter Frans Kapteijns legt uit dat deze figuren o",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026095/ontsnapte-serval-en-rode-lucht-dit-gebeurde-vandaag"
  },
  {
   "id": "5b6732e606",
