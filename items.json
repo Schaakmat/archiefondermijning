@@ -1,5 +1,30 @@
 [
  {
+  "id": "2c5f3f53d0",
+  "datum": "2026-09-07",
+  "tijd": "17:54",
+  "nieuw": true,
+  "titel": "'Ontvoering, beschieting, oplichting: deel verdachten Overasselt heeft crimineel verleden'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "doodgeschoten",
+   "geweld",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Een aantal verdachten van het extreme geweld in Overasselt van vorige week, waarbij een bewaker voor het huis van Jan G. werd doodgeschoten, is al eerder in aanraking gekomen met justitie. Dat blijkt uit een overzicht van de verdachten die afgelopen vrijdag zijn voorgeleid en dat het AD heeft kunnen inzien. De politie ",
+  "link": "https://nos.nl/l/2630094"
+ },
+ {
   "id": "31e823dd46",
   "datum": "2026-09-07",
   "tijd": "16:59",
@@ -21,11 +46,30 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522918/motorrijder-per-boot-op-de-vlucht-na-botsing-in-lelystad-haven"
  },
  {
-  "id": "53dcb854c7",
+  "id": "a19896d528",
+  "datum": "2026-09-07",
+  "tijd": "15:43",
+  "nieuw": true,
+  "titel": "Verkeersdrukte rond Gorinchem na ongeluk op A27, motorrijder naar ziekenhuis",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Bij een ongeluk op de A27 in de richting van Breda is maandagmiddag een motorrijder gewond geraakt. De bestuurder botste door nog onbekende oorzaak achterop een auto. De snelweg was na het ongeluk in beide richtingen afgesloten. De weg richting Gorinchem is inmiddels weer open.",
+  "link": "https://www.rijnmond.nl/nieuws/2250200/verkeersdrukte-rond-gorinchem-na-ongeluk-op-a27-motorrijder-naar-ziekenhuis"
+ },
+ {
+  "id": "89a7a5be20",
   "datum": "2026-09-07",
   "tijd": "15:30",
   "nieuw": true,
-  "titel": "Van een bureau tot airfryer: dit mag je wel en niet meenemen in de trein",
+  "titel": "Man neemt bureau mee in de trein naar Tilburg: mag dat?",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -39,7 +83,7 @@
    "wapen"
   ],
   "samenvatting": "Treinreizigers kunnen dit weekend hun ogen niet geloven: een man uit Tilburg zit met een compleet bureau in de trein. Hij heeft geen auto en is dus naar eigen zeggen aangewezen op het openbaar vervoer. Maar mag je eigenlijk wel een bureau meenemen in de trein? En hoe zit dat met andere spullen? De NS heeft geen uitgebr",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026243/van-een-bureau-tot-airfryer-dit-mag-je-wel-en-niet-meenemen-in-de-trein"
+  "link": "https://www.omroepbrabant.nl/nieuws/6026243/man-neemt-bureau-mee-in-de-trein-naar-tilburg-mag-dat"
  },
  {
   "id": "a169daafc1",
@@ -90,6 +134,46 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Een vrachtwagenchauffeur komt bij een logistiek bedrijf in Oud Gastel om zijn vracht op te halen, maar wat blijkt? Een andere man is er een dag eerder, op 2 april, al met de lading vandoor gegaan. De politie deelt in Bureau Brabant beelden van de verdachte. De onbekende chauffeur meldt zich op 2 april rond elf uur bij ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026279/man-doet-zich-voor-als-iemand-anders-en-neemt-vrachtwagen-vol-schoenen-mee"
+ },
+ {
+  "id": "7a588c31f9",
+  "datum": "2026-09-07",
+  "tijd": "15:15",
+  "nieuw": true,
+  "titel": "Brug A28 bij Nijkerk 'uit voorzorg' zeker 48 uur in beide richtingen dicht",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie",
+   "vrachtwagen"
+  ],
+  "samenvatting": "Bij Nijkerk is de Hardenbergerbrug in de A28 in beide richtingen \"uit voorzorg\" afgesloten, meldt Rijkswaterstaat. Volgens de gemeente Nijkerk is dat gebeurd uit veiligheidsoverwegingen. Volgens de ANWB blijft de brug nog zeker 48 uur helemaal dicht. Rijkswaterstaat heeft nog niets gezegd over de duur van de afsluiting",
+  "link": "https://nos.nl/l/2630080"
+ },
+ {
+  "id": "2a32c51d8b",
+  "datum": "2026-09-07",
+  "tijd": "14:45",
+  "nieuw": true,
+  "titel": "Man steelt vrachtlading schoenen, bekijk hier de beelden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
    "Cocaine, haven & logistiek",
    "Goudhandel & edelmetalen"
   ],
@@ -98,7 +182,7 @@
    "vrachtwagen"
   ],
   "samenvatting": "Een vrachtwagenchauffeur komt bij een logistiek bedrijf in Oud Gastel om zijn vracht op te halen, maar wat blijkt? Een andere man is er een dag eerder, op 2 april, al met de lading vandoor gegaan. De politie deelt in Bureau Brabant beelden van de verdachte. De onbekende chauffeur meldt zich op 2 april rond elf uur bij ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026279/man-doet-zich-voor-als-iemand-anders-en-neemt-vrachtwagen-vol-schoenen-mee"
+  "link": "https://www.omroepbrabant.nl/nieuws/6026279/man-steelt-vrachtlading-schoenen-bekijk-hier-de-beelden"
  },
  {
   "id": "a093871f19",
@@ -143,11 +227,11 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6026277/overleden-man-gevonden-in-huis-in-heeswijk-dinther-politie-doet-onderzoek"
  },
  {
-  "id": "9c8ec264fb",
+  "id": "b701b05960",
   "datum": "2026-09-07",
   "tijd": "14:00",
   "nieuw": true,
-  "titel": "Anoniem vuurwerk inleveren, hier kan het: ‘Blij dat ik er vanaf ben’",
+  "titel": "Man levert hier een volle tas met vuurwerk in: 'Knalvuurwerk en potten'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -161,7 +245,7 @@
    "vuurwerk"
   ],
   "samenvatting": "Vuurwerk anoniem en zonder boete inleveren: het kan maandag in Bergen op Zoom. De hoop is dat er zo minder ongelukken, vernielingen en gewonden door vuurwerk zijn de komende jaarwisseling. “Goed dat je er zo vanaf kunt”, vertelt een 66-jarige man, die een volle tas inlevert. “Knalvuurwerk en ook potten”, verklaart de m",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026270/anoniem-vuurwerk-inleveren-hier-kan-het-blij-dat-ik-er-vanaf-ben"
+  "link": "https://www.omroepbrabant.nl/nieuws/6026270/man-levert-hier-een-volle-tas-met-vuurwerk-in-knalvuurwerk-en-potten"
  },
  {
   "id": "b40c976702",
@@ -230,7 +314,7 @@
   "id": "be13cfc6ed",
   "datum": "2026-09-07",
   "tijd": "12:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Minderjarige jongen gewond bij steekpartij in het Kinderbos in Gemert",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -249,7 +333,7 @@
   "id": "324d538a24",
   "datum": "2026-09-07",
   "tijd": "11:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Urk - Heg in brand naast basisschool op Urk, directeur helpt met blussen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -268,7 +352,7 @@
   "id": "bb38d141d0",
   "datum": "2026-09-07",
   "tijd": "11:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachten geweld Overasselt eerder in beeld voor zware misdrijven",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -25474,6 +25558,25 @@
   ],
   "samenvatting": "Westerkwartier opent Meldpunt Zorgfraude Wmo en Jeugd De Ommelander",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGpzLUd3aEx4cjMwT1pPcS1MNlZOb01QWkttTXVKRHJ4eGFKMDBMcThpdDBteXNTVzZNSjE5Mmtld29KRUV2Qm5sOFZramlwUXQ4TGJ2OWVBWXdXcEFrSzNHY0gtdXh0RFBweFJnWDdVbmlmSGJibUo0aVVrX3JkNVdVS0M1WlRUSG9sWGw4RG9OdERMdnlLOFNQS1N6aEpNdV9wT1lWcw?oc=5"
+ },
+ {
+  "id": "d52695c25c",
+  "datum": "2026-03-31",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Afvaldumping in Zoelen aan de Oost Kanaalweg | Al het nieuws uit Tiel en Buren",
+  "bron": "hetkontakt.nl",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "Afvaldumping in Zoelen aan de Oost Kanaalweg | Al het nieuws uit Tiel en Buren hetkontakt.nl",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU29yOEozNUFLV01XMTNyMHkxYlplSkNzTnB3bkRKU0wyM3NRQVVldFNsQWF2S3FHX0pVdnpHWnQ3aUNvTW9tb2syUXEwRFJpLTV0V0NMc3V6TWRjdjJPUjU1NVFWbFZLeTB3bS1ZVFRpYl9XbkxDN3pvQ3JPWFdlckZobkNwamdEb1FocmRhOTVVQ0hMcFJ2aQ?oc=5"
  },
  {
   "id": "d609f0dd18",
