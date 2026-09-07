@@ -15,8 +15,27 @@
   "tags": [
    "school"
   ],
-  "samenvatting": "Op Urk heeft maandagochtend kort een heg naast een basisschool in brand gestaan. Door het handelen van de directeur was de brand snel onder controle. De brand brak iets na half negen uit. Op dat tijdstip begon ook de school E. du Marchie van Voorthuysen. Directeur Daniël Wijma vertelt dat de kinderen meteen naar binnen",
+  "samenvatting": "Op Urk heeft maandagochtend kort een heg naast een basisschool in brand gestaan. Door het handelen van de directeur was de brand snel onder controle. De brand brak iets na 08.30 uur uit. Op dat tijdstip begon ook de school E. du Marchie van Voorthuysen. Directeur Daniël Wijma vertelt dat de kinderen meteen naar binnen ",
   "link": "https://www.omroepflevoland.nl/nieuws/522906/heg-in-brand-naast-basisschool-op-urk-directeur-helpt-met-blussen"
+ },
+ {
+  "id": "65faca59b7",
+  "datum": "2026-09-07",
+  "tijd": "09:09",
+  "nieuw": true,
+  "titel": "Man (66) overleden na woningbrand, politie onderzoekt oorzaak",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De bewoner van een woning aan de Begoniastraat in Hattem waar zondagavond brand woedde is overleden in het ziekenhuis. De 66-jarige man liep ernstige brandwonden op.",
+  "link": "https://www.gld.nl/nieuws/8519571/man-66-overleden-na-woningbrand-politie-onderzoekt-oorzaak"
  },
  {
   "id": "cc194ebadc",
@@ -79,7 +98,7 @@
   "id": "172031ee81",
   "datum": "2026-09-07",
   "tijd": "03:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dixi, scooter en afval gaan kort na elkaar in vlammen op in Breda",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -100,7 +119,7 @@
   "id": "06deab2688",
   "datum": "2026-09-06",
   "tijd": "20:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nagele - Zwaarbewapende agenten vallen woning binnen in Nagele",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
