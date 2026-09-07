@@ -1,5 +1,26 @@
 [
  {
+  "id": "749c0efd45",
+  "datum": "2026-09-07",
+  "tijd": "12:30",
+  "nieuw": true,
+  "titel": "Nagele - Man uit Luttelgeest bedreigt inwoner Nagele met bijl, grote politiemacht haalt verdachte uit woning",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Een 34-jarige man uit Luttelgeest is zondag aangehouden op verdenking van poging tot doodslag. Hij zou een man met een hakbijl hebben bedreigd en een auto hebben vernield. Volgens de politie vernielde de man zonder duidelijke aanleiding een auto aan de Vlashof in Nagele. Toen de eigenaar van de auto poolshoogte kwam ne",
+  "link": "https://www.omroepflevoland.nl/nieuws/522868/man-uit-luttelgeest-bedreigt-inwoner-nagele-met-bijl-grote-politiemacht-haalt-verdachte-uit-woning"
+ },
+ {
   "id": "324d538a24",
   "datum": "2026-09-07",
   "tijd": "11:33",
@@ -17,6 +38,46 @@
   ],
   "samenvatting": "Op Urk heeft maandagochtend kort een heg naast een basisschool in brand gestaan. Door het handelen van de directeur was de brand snel onder controle. De brand brak iets na 08.30 uur uit. Op dat tijdstip begon ook de school E. du Marchie van Voorthuysen. Directeur Daniël Wijma vertelt dat de kinderen meteen naar binnen ",
   "link": "https://www.omroepflevoland.nl/nieuws/522906/heg-in-brand-naast-basisschool-op-urk-directeur-helpt-met-blussen"
+ },
+ {
+  "id": "387e7d6fd6",
+  "datum": "2026-09-07",
+  "tijd": "11:00",
+  "nieuw": true,
+  "titel": "Buurtbewoners bezorgd na zoveelste dixi-brand in Breda: 'Beetje eng'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "container"
+  ],
+  "samenvatting": "Bewoners van de Bredase wijk Heuvel zijn bezorgd nadat er in de nacht van zondag op maandag wéér een dixi in vlammen opging. De afgelopen maanden vlogen er al zo'n twintig dixi-toiletten in Breda in brand. Zondagnacht stonden ook een scooter en een bergje afval in lichterlaaie. De politie laat maandagochtend weten uit ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026245/buurtbewoners-bezorgd-na-zoveelste-dixi-brand-in-breda-beetje-eng"
+ },
+ {
+  "id": "9f21c3c2fe",
+  "datum": "2026-09-07",
+  "tijd": "10:34",
+  "nieuw": true,
+  "titel": "Politie zoekt in Overasselt verder naar wapens en bewijs",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De politie gaat ook deze week verder met het onderzoek in de omgeving van Overasselt. Het onderzoek neemt meer tijd in beslag en zal naar verwachting maandag nog niet worden afgerond. Hoe lang de politie nog bezig denkt te zijn, maakt zij niet bekend.",
+  "link": "https://www.gld.nl/nieuws/8519586/politie-zoekt-in-overasselt-verder-naar-wapens-en-bewijs"
  },
  {
   "id": "65faca59b7",
@@ -79,7 +140,7 @@
   "id": "56bc936ede",
   "datum": "2026-09-07",
   "tijd": "04:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gerard stapt naar de rechter omdat hij niet voor de deur mag laden",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
