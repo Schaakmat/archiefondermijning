@@ -1,5 +1,24 @@
 [
  {
+  "id": "a169daafc1",
+  "datum": "2026-09-07",
+  "tijd": "15:18",
+  "nieuw": true,
+  "titel": "Podcast De Dag: valt het doek voor Ongehoord Nederland?",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "Media-minister Rianne Letschert maakt begin deze week bekend of het doek valt voor omroep Ongehoord Nederland. De verwachting is van wel, zeker nu na het Commissariaat voor de Media ook de NPO bij haar officieel een verzoek heeft neergelegd om de licentie in te trekken. Volgens de NPO is daar inmiddels voldoende juridi",
+  "link": "https://nos.nl/l/2630081"
+ },
+ {
   "id": "a093871f19",
   "datum": "2026-09-07",
   "tijd": "14:26",
@@ -21,6 +40,55 @@
   ],
   "samenvatting": "Forse AfD-zege in Saksen-Anhalt In de Duitse deelstaat Saksen-Anhalt heeft de radicaal-rechtse AfD gisteren een forse verkiezingswinst geboekt. Veel Duitsers zijn daar bezorgd over, want de partij is controversieel. Sommigen bestempelen de AfD zelfs als extreemrechts of nazistisch. Hoe terecht is dat? Ook kijken we naa",
   "link": "https://nos.nl/l/2630073"
+ },
+ {
+  "id": "b40c976702",
+  "datum": "2026-09-07",
+  "tijd": "13:20",
+  "nieuw": true,
+  "titel": "'Druk op Bolle Jos neemt toe, weer enorme lading coke van hem onderschept'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "boerderij",
+   "cocaïne",
+   "container",
+   "douane",
+   "explosie",
+   "geweld"
+  ],
+  "samenvatting": "De Franse douane heeft zondagnacht duizenden kilo's cocaïne onderschept in de haven van Duinkerke. De enorme partij drugs, met een waarde van tientallen miljoenen euro's, zou mede toebehoren aan de organisatie van de nog altijd voortvluchtige Jos Leijdekkers, alias Bolle Jos. Dat meldt De Telegraaf maandag. De enorme l",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026267/druk-op-bolle-jos-neemt-toe-weer-enorme-lading-coke-van-hem-onderschept"
+ },
+ {
+  "id": "9f72832703",
+  "datum": "2026-09-07",
+  "tijd": "12:38",
+  "nieuw": true,
+  "titel": "TI: Pak witwassen met crypto wereldwijd aan – Nieuws",
+  "bron": "Transparency International Nederland",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "witwassen"
+  ],
+  "samenvatting": "TI: Pak witwassen met crypto wereldwijd aan – Nieuws Transparency International Nederland",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUlmMENuRFJuUzhoLTFtU2ZuN3VoY3kzQk83SERPWUtlQzdmQzJfZzNoN3cwdTlOZ0U4amhuOExKUkZycDVKZlNsdnU1ZkFETXFRWmdVLUZHd3JUeDBmTkJET2hLNE1QeUdjY3oycU93TnlMVnpWVXRSSzNFWExPVjJNalZXdzFFMW1IRHJ1Yw?oc=5"
  },
  {
   "id": "749c0efd45",
@@ -123,19 +191,17 @@
   "id": "d3ac7f0447",
   "datum": "2026-09-07",
   "tijd": "11:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Buurtbewoners bezorgd na opnieuw een brandende dixi: 'Het is niet normaal'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Cocaine, haven & logistiek",
    "Milieucriminaliteit & afval"
   ],
   "tags": [
-   "afval",
-   "container"
+   "afval"
   ],
   "samenvatting": "Bewoners van de Bredase wijk Heuvel zijn bezorgd nadat er in de nacht van zondag op maandag wéér een dixi in vlammen opging. De afgelopen maanden vlogen er al zo'n twintig dixi-toiletten in Breda in brand. Zondagnacht stonden ook een scooter en een bergje afval in lichterlaaie. De politie laat maandagochtend weten uit ",
   "link": "https://www.omroepbrabant.nl/nieuws/6026245/buurtbewoners-bezorgd-na-opnieuw-een-brandende-dixi-het-is-niet-normaal"
@@ -144,7 +210,7 @@
   "id": "9f21c3c2fe",
   "datum": "2026-09-07",
   "tijd": "10:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie zoekt in Overasselt verder naar wapens en bewijs",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -163,7 +229,7 @@
   "id": "65faca59b7",
   "datum": "2026-09-07",
   "tijd": "09:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (66) overleden na woningbrand, politie onderzoekt oorzaak",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -182,7 +248,7 @@
   "id": "cc194ebadc",
   "datum": "2026-09-07",
   "tijd": "08:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Veertien zittingsdagen en zeventien verdachten. Grote mensenhandelzaak van start in Noord-Nederland - Openbaar Ministerie",
   "bron": "Openbaar Ministerie",
   "verzameld_via": "Openbaar Ministerie",
