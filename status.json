@@ -1,12 +1,12 @@
 {
- "run": "21:32",
+ "run": "22:30",
  "datum": "2026-09-07",
  "nieuw": 15,
- "totaal": 2837,
+ "totaal": 2839,
  "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1056,
-  "geen dossier": 493
+  "niet-nederlands": 1075,
+  "geen dossier": 500
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 119,
-   "status": "bij",
+   "items": 120,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -411,7 +411,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 34,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -446,8 +446,8 @@
    "url": "news.google.com/rss/search?q=site:wodc.nl+OR+%22WODC%22+ondermijning+OR+",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 57,
-   "status": "bij",
+   "items": 59,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 60,
-   "status": "1 nieuw",
+   "items": 59,
+   "status": "bij",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 110,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
