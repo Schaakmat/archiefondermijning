@@ -42,6 +42,27 @@
   "link": "https://nos.nl/l/2630073"
  },
  {
+  "id": "9c8ec264fb",
+  "datum": "2026-09-07",
+  "tijd": "14:00",
+  "nieuw": true,
+  "titel": "Anoniem vuurwerk inleveren, hier kan het: ‘Blij dat ik er vanaf ben’",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "afval",
+   "vuurwerk"
+  ],
+  "samenvatting": "Vuurwerk anoniem en zonder boete inleveren: het kan maandag in Bergen op Zoom. De hoop is dat er zo minder ongelukken, vernielingen en gewonden door vuurwerk zijn de komende jaarwisseling. “Goed dat je er zo vanaf kunt”, vertelt een 66-jarige man, die een volle tas inlevert. “Knalvuurwerk en ook potten”, verklaart de m",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026270/anoniem-vuurwerk-inleveren-hier-kan-het-blij-dat-ik-er-vanaf-ben"
+ },
+ {
   "id": "b40c976702",
   "datum": "2026-09-07",
   "tijd": "13:20",
@@ -52,19 +73,14 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "boerderij",
    "cocaïne",
-   "container",
    "douane",
-   "explosie",
-   "geweld"
+   "haven",
+   "organisatie"
   ],
   "samenvatting": "De Franse douane heeft zondagnacht duizenden kilo's cocaïne onderschept in de haven van Duinkerke. De enorme partij drugs, met een waarde van tientallen miljoenen euro's, zou mede toebehoren aan de organisatie van de nog altijd voortvluchtige Jos Leijdekkers, alias Bolle Jos. Dat meldt De Telegraaf maandag. De enorme l",
   "link": "https://www.omroepbrabant.nl/nieuws/6026267/druk-op-bolle-jos-neemt-toe-weer-enorme-lading-coke-van-hem-onderschept"
@@ -151,7 +167,7 @@
   "id": "bb38d141d0",
   "datum": "2026-09-07",
   "tijd": "11:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachten geweld Overasselt eerder in beeld voor zware misdrijven",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -172,7 +188,7 @@
   "id": "387e7d6fd6",
   "datum": "2026-09-07",
   "tijd": "11:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Buurtbewoners bezorgd na zoveelste dixi-brand in Breda: 'Beetje eng'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
