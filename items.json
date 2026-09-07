@@ -1,5 +1,31 @@
 [
  {
+  "id": "4520efdfa0",
+  "datum": "2026-09-07",
+  "tijd": "18:50",
+  "nieuw": true,
+  "titel": "Flevoland - Nieuwsoverzicht van 07/09 | 'Sloop Kasteel Almere' • A28 bij Nijkerk dicht na inspectie brug",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "boerderij",
+   "erf",
+   "haven",
+   "school",
+   "woning"
+  ],
+  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • B&W: Kasteel Almere tegen de vlakte en nieuw kasteel met 650 woningen in de maak • Brug A28 bij Nijkerk na inspectie uit voorzorg in beide richtingen dicht,",
+  "link": "https://www.omroepflevoland.nl/nieuws/522946/nieuwsoverzicht-van-0709-or-'sloop-kasteel-almere'-*-a28-bij-nijkerk-dicht-na-inspectie-brug"
+ },
+ {
   "id": "2c5f3f53d0",
   "datum": "2026-09-07",
   "tijd": "17:54",
@@ -10,16 +36,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "bedreiging",
    "doodgeschoten",
-   "geweld",
-   "wapen",
-   "woning"
+   "geweld"
   ],
   "samenvatting": "Een aantal verdachten van het extreme geweld in Overasselt van vorige week, waarbij een bewaker voor het huis van Jan G. werd doodgeschoten, is al eerder in aanraking gekomen met justitie. Dat blijkt uit een overzicht van de verdachten die afgelopen vrijdag zijn voorgeleid en dat het AD heeft kunnen inzien. De politie ",
   "link": "https://nos.nl/l/2630094"
@@ -174,11 +195,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Goudhandel & edelmetalen"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "goud",
    "vrachtwagen"
   ],
   "samenvatting": "Een vrachtwagenchauffeur komt bij een logistiek bedrijf in Oud Gastel om zijn vracht op te halen, maar wat blijkt? Een andere man is er een dag eerder, op 2 april, al met de lading vandoor gegaan. De politie deelt in Bureau Brabant beelden van de verdachte. De onbekende chauffeur meldt zich op 2 april rond elf uur bij ",
@@ -274,7 +293,7 @@
   "id": "9f72832703",
   "datum": "2026-09-07",
   "tijd": "12:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "TI: Pak witwassen met crypto wereldwijd aan – Nieuws",
   "bron": "Transparency International Nederland",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -295,7 +314,7 @@
   "id": "749c0efd45",
   "datum": "2026-09-07",
   "tijd": "12:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nagele - Man uit Luttelgeest bedreigt inwoner Nagele met bijl, grote politiemacht haalt verdachte uit woning",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -4363,6 +4382,25 @@
   ],
   "samenvatting": "Overasselt stond dinsdag in het middelpunt van de belangstelling. Een grote groep gemaskerde mannen liep er over straat, een deel van hen met zware vuurwapens. Voor de woning van een man die met drugshandel in verband wordt gebracht, schoot één van hen een beveiliger dood. In de uren die volgden verrichtte de politie t",
   "link": "https://www.gld.nl/nieuws/8517066/teruglezen-politie-vindt-meerdere-pistolen-morgen-meer-duidelijkheid-over-woning-jan-g"
+ },
+ {
+  "id": "2e2a65bfd4",
+  "datum": "2026-09-02",
+  "tijd": "13:36",
+  "nieuw": false,
+  "titel": "Lid van ‘reisbureau van de mensensmokkel’ hoopt op mildere straf: “Had geld nodig voor zieke dochter”",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Lid van ‘reisbureau van de mensensmokkel’ hoopt op mildere straf: “Had geld nodig voor zieke dochter” Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMkE2cnQ1Y2E4SnozZHU5LWt3cmNfVHRqY3p6LVZGVTNhQWw5S3JHLVprdmJqZm14cXVvLXBsa0ROVnBrbktROGdTYWlQLTNSYkJUTzBaNGlJdHp3WW55RWtZWURDSG1EYlVrNlQxa2hXTXRSa09ZWlQxR0Q1T1hodHVSa1NDbndwYVRSRnBFbWloQzJmZHVkdGpmNFd2VWRFWXdSNHgzWlJSN3VlS1UzcmlrSHhDZXpvVnlfYWRaRzFaMm4xb25veXFBRzl3cmZTY1EyR0VmUHh3TEFVSkNrbkFjcFNFSWVXMV9zTFlGa0xTVEd4R0NRVW5ycUZpdmVhdkdzeHZxeWZ6YzZF?oc=5"
  },
  {
   "id": "ac680ea73c",
@@ -47048,6 +47086,23 @@
   ],
   "samenvatting": "Peter Gillis heeft last van de Wet Bibob: zo zit dat Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0ZWVnNDaU83bHZQSG16M2NCNFZrQ2p1bjJFVVRDbldNcmdkUUQ4QnRyaDFGazkxV0k5TDR6bDFqX2E4QnZKeFpnU1BWWG5ocmVyTzhKZjYwM0FhanMwNmFkR2EyUnVWRnVXZG1LR3hXREJjSFk0cXlqY1piWkJ2NE96YTZsZGxKbmRIQXBTcGdsdXhpaU1zaVdjVQ?oc=5"
+ },
+ {
+  "id": "7ab8c7e2ff",
+  "datum": "2022-11-08",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Bredere blik op gebruik virtuele valuta helpt opsporing criminele gelden - WODC - Wetenschappelijk Onderzoek- en Datacentrum",
+  "bron": "WODC",
+  "verzameld_via": "WODC",
+  "soort": "Rapport",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Bredere blik op gebruik virtuele valuta helpt opsporing criminele gelden WODC - Wetenschappelijk Onderzoek- en Datacentrum",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT000N0UybmlSbDU0NnRDTVlmVmxMMURvUDZlb1N4TEdIeWpyYXg4Q1VMUzhCWWJjb0VoN2pzTzlBNVBSbGtQb1FMOWJjS3U2dVFibnU2MU51b2M3Y3hrQV9HYU1PWUI2LXQ3eGU1UWhCeEtrdEhZVGlQRXFsVlBnTmVXZURmTlBKd3pUU0RrbVEtZk9ZRnpWR0JPTFZEc2dxV2U2SWdPN3Z3YzU0dlkxSUs3RWRTSUM2SkE?oc=5"
  },
  {
   "id": "7ad53124fb",
