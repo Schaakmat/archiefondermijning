@@ -1,12 +1,12 @@
 {
- "run": "04:34",
+ "run": "05:31",
  "datum": "2026-09-07",
- "nieuw": 3,
- "totaal": 2784,
+ "nieuw": 4,
+ "totaal": 2785,
  "verwijderd": 3,
  "geweigerd": {
-  "niet-nederlands": 1047,
-  "geen dossier": 488
+  "niet-nederlands": 1038,
+  "geen dossier": 491
  },
  "bronnen": [
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 103,
-   "status": "bij",
+   "items": 104,
+   "status": "1 nieuw",
    "ok": true
   },
   {
