@@ -1,12 +1,12 @@
 {
- "run": "20:31",
+ "run": "21:32",
  "datum": "2026-09-07",
- "nieuw": 16,
- "totaal": 2835,
- "verwijderd": 11,
+ "nieuw": 15,
+ "totaal": 2837,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1062,
-  "geen dossier": 492
+  "niet-nederlands": 1056,
+  "geen dossier": 493
  },
  "bronnen": [
   {
@@ -410,8 +410,8 @@
    "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 33,
-   "status": "bij",
+   "items": 34,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -429,7 +429,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 124,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -509,7 +509,7 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 109,
+   "items": 110,
    "status": "1 nieuw",
    "ok": true
   },

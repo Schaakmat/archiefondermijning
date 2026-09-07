@@ -191,6 +191,25 @@
   "link": "https://www.gld.nl/nieuws/8519455/wielrenner-overleden-verdachte-vaten-aangetroffen"
  },
  {
+  "id": "9398dbdd80",
+  "datum": "2026-09-07",
+  "tijd": "17:43",
+  "nieuw": true,
+  "titel": "Albert Heijn ontruimd • verdachte vaten aangetroffen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "vaten"
+  ],
+  "samenvatting": "Het actuele 112-nieuws uit Gelderland van deze dag bundelen we in een liveblog. Je leest en ziet hier een overzicht van ongelukken, branden, vermissingen en misdrijven in onze provincie.",
+  "link": "https://www.gld.nl/nieuws/8519455/albert-heijn-ontruimd-verdachte-vaten-aangetroffen"
+ },
+ {
   "id": "31e823dd46",
   "datum": "2026-09-07",
   "tijd": "16:59",
@@ -294,7 +313,7 @@
   "id": "89a7a5be20",
   "datum": "2026-09-07",
   "tijd": "15:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man neemt bureau mee in de trein naar Tilburg: mag dat?",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -315,7 +334,7 @@
   "id": "a169daafc1",
   "datum": "2026-09-07",
   "tijd": "15:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Podcast De Dag: valt het doek voor Ongehoord Nederland?",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -55117,6 +55136,23 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "42e4b71851",
+  "datum": "2017-10-26",
+  "tijd": "10:10",
+  "nieuw": false,
+  "titel": "Ministerie van Justitie en Veiligheid - rijksoverheid.nl",
+  "bron": "Rijksoverheid",
+  "verzameld_via": "Rijksoverheid",
+  "soort": "Kamerbrief",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Ministerie van Justitie en Veiligheid rijksoverheid.nl",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2FHblo5dFYxejRwQmNPMXFGSFpmbDRrRUFsRWJQaFYwUXM2bk4wcmRNNVZBdmRuLW1MM2xzRmFReW5IOF9vYmJ2SXNEZ0E4SF9CZVF4X3ZQNWhKbTljSXplR2J5eUdVcDNUc2tqSkNsNzBjSTBYVTd2dU14VnVrOTFSMzk?oc=5"
  },
  {
   "id": "56474c8df9",
