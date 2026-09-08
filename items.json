@@ -40,6 +40,46 @@
   "link": "https://nos.nl/l/2630186"
  },
  {
+  "id": "b10ef21981",
+  "datum": "2026-09-08",
+  "tijd": "15:17",
+  "nieuw": true,
+  "titel": "Man opgepakt die elektriciteitsstation in Doetinchem mogelijk als doelwit zag",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "netwerk"
+  ],
+  "samenvatting": "De Duitse klimaatactivist Daniel V. is opgepakt. De 48-jarige V. werd gezocht voor meerdere sabotagepogingen op het energienetwerk in Duitsland. Hij zou ook een elektriciteitsstation in Doetinchem op zijn lijst van mogelijke doelwitten hebben staan.",
+  "link": "https://www.gld.nl/nieuws/8520244/man-opgepakt-die-elektriciteitsstation-in-doetinchem-mogelijk-als-doelwit-zag"
+ },
+ {
+  "id": "dea01323db",
+  "datum": "2026-09-08",
+  "tijd": "15:05",
+  "nieuw": true,
+  "titel": "Van stille dorpsnacht naar oorlogsgebied: de gebeurtenissen in Overasselt op een rij",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "wapen"
+  ],
+  "samenvatting": "Een doodgeschoten beveiliger, twee neergeschoten agenten en tientallen zwaarbewapende mannen die op de vlucht slaan. Voor inwoners van Overasselt lijkt hun dorp op dinsdag 1 september op een oorlogsgebied. De politie opent massaal de jacht op de criminelen, terwijl bewoners binnen moeten blijven. Omroep Gelderland zet ",
+  "link": "https://www.gld.nl/nieuws/8520039/van-stille-dorpsnacht-naar-oorlogsgebied-de-gebeurtenissen-in-overasselt-op-een-rij"
+ },
+ {
   "id": "9d2d5729a0",
   "datum": "2026-09-08",
   "tijd": "14:04",
@@ -306,7 +346,7 @@
   "id": "1a2320a536",
   "datum": "2026-09-08",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drank, dinertjes en dubbele petten bij innovatieclubs die miljarden EU-geld kregen",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -325,7 +365,7 @@
   "id": "4db0cdc924",
   "datum": "2026-09-08",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Kerk wil Almeerse moeder uit opvang zetten na huurschuld van 6.000 euro",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -348,7 +388,7 @@
   "id": "623c2eeb23",
   "datum": "2026-09-08",
   "tijd": "05:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Na veroordeling voor kinderporno is straatnaam van ex-burgemeester verwijderd",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -367,7 +407,7 @@
   "id": "8efffe5431",
   "datum": "2026-09-08",
   "tijd": "03:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verzet in Wierden tegen provinciale plannen vernatting: ‘Gaan hier last van krijgen’",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -488,32 +528,6 @@
   ],
   "samenvatting": "Een volgens Centrada drugsverslaafde huurder van een appartement aan de Wold 28 in Lelystad moet binnen een maand zijn koffers pakken. De rechter vindt het terecht dat corporatie Centrada de woning terug wil, zo besliste die maandag. Volgens Centrada zorgt de huurder al twee jaar lang voor overlast. Schreeuwen, ruzies,",
   "link": "https://www.omroepflevoland.nl/nieuws/522948/maat-is-nu-echt-vol:-'drugsverslaafde'-huurder-van-centrada-moet-zijn-koffers-pakken"
- },
- {
-  "id": "4520efdfa0",
-  "datum": "2026-09-07",
-  "tijd": "18:50",
-  "nieuw": false,
-  "titel": "Flevoland - Nieuwsoverzicht van 07/09 | 'Sloop Kasteel Almere' • A28 bij Nijkerk dicht na inspectie brug",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "boerderij",
-   "erf",
-   "haven",
-   "school",
-   "woning"
-  ],
-  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • B&W: Kasteel Almere tegen de vlakte en nieuw kasteel met 650 woningen in de maak • Brug A28 bij Nijkerk na inspectie uit voorzorg in beide richtingen dicht,",
-  "link": "https://www.omroepflevoland.nl/nieuws/522946/nieuwsoverzicht-van-0709-or-'sloop-kasteel-almere'-*-a28-bij-nijkerk-dicht-na-inspectie-brug"
  },
  {
   "id": "1977f7ceca",
@@ -773,25 +787,6 @@
   "link": "https://nos.nl/l/2630081"
  },
  {
-  "id": "7a79eb6994",
-  "datum": "2026-09-07",
-  "tijd": "15:18",
-  "nieuw": false,
-  "titel": "Meisje (15) uit Mierlo aangehouden na steekpartij in Kinderbos in Gemert",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jongeren"
-  ],
-  "samenvatting": "De politie heeft een 15-jarig meisje uit Mierlo aangehouden na de steekpartij in het Kinderbos in Gemert maandagmiddag, waarbij een minderjarige jongen gewond raakte. \"We onderzoeken haar mogelijke betrokkenheid\", laat de politie weten. Meerdere aanhoudingen worden niet uitgesloten. De steekpartij gebeurde rond half tw",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026288/meisje-15-uit-mierlo-aangehouden-na-steekpartij-in-kinderbos-in-gemert"
- },
- {
   "id": "332b523fb2",
   "datum": "2026-09-07",
   "tijd": "15:15",
@@ -868,29 +863,6 @@
   ],
   "samenvatting": "Een vrachtwagenchauffeur komt bij een logistiek bedrijf in Oud Gastel om zijn vracht op te halen, maar wat blijkt? Een andere man is er een dag eerder, op 2 april, al met de lading vandoor gegaan. De politie deelde maandag in Bureau Brabant beelden van de verdachte. Dinsdag heeft de verdachte zich gemeld bij de politie",
   "link": "https://www.omroepbrabant.nl/nieuws/6026279/man-steelt-vrachtwagen-vol-met-schoenen"
- },
- {
-  "id": "a093871f19",
-  "datum": "2026-09-07",
-  "tijd": "14:26",
-  "nieuw": false,
-  "titel": "7/9 in Nieuwsuur: Hoe extreem(rechts) is de AfD? • Onze worsteling met water • Voorlezen in strijd tegen ontlezing",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "jongeren",
-   "organisatie",
-   "wapen"
-  ],
-  "samenvatting": "Forse AfD-zege in Saksen-Anhalt In de Duitse deelstaat Saksen-Anhalt heeft de radicaal-rechtse AfD gisteren een forse verkiezingswinst geboekt. Veel Duitsers zijn daar bezorgd over, want de partij is controversieel. Sommigen bestempelen de AfD zelfs als extreemrechts of nazistisch. Hoe terecht is dat? Ook kijken we naa",
-  "link": "https://nos.nl/l/2630073"
  },
  {
   "id": "86b3f85b64",
