@@ -10,12 +10,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Ondernemers & weerbaarheid",
    "Zorgfraude & sociale zekerheid"
   ],
   "tags": [
-   "mkb",
-   "ondernemers",
    "toeslagen"
   ],
   "samenvatting": "Een groep gedupeerde toeslagenouders heeft vorige maand aangifte gedaan tegen ambtenaren van het ministerie van Financiën, de Belastingdienst en de Dienst Toeslagen vanwege verborgen data in een zogenoemde datakluis. Dat bevestigt advocaat Merijn van Leeuwen na berichtgeving van Trouw . Van Leeuwen staat honderden gedu",
@@ -39,6 +36,25 @@
   ],
   "samenvatting": "De afsluiting van de A28 bij Nijkerk heeft dinsdagochtend voor extra vertraging gezorgd op wegen in en rondom Flevoland. Volgens de ANWB waren de grootste opstoppingen te zien in het buitengebied van Zeewolde, op de Nijkerkerweg (N301) en de Gooiseweg (N305). Daar ontstonden files met vertragingen van 20 minuten en lan",
   "link": "https://www.omroepflevoland.nl/nieuws/523012/opstoppingen-op-wegen-in-buitengebied-zeewolde-door-afsluiting-a28-vanwege-onveilige-brug"
+ },
+ {
+  "id": "5c3c4bf7c8",
+  "datum": "2026-09-08",
+  "tijd": "12:18",
+  "nieuw": true,
+  "titel": "Ezeltje van twee weken oud gestolen bij opvang: 'Pleuntje is weg'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "goud"
+  ],
+  "samenvatting": "Groot verdriet bij Het Ezelpaleis in Baarle-Nassau. Maandagavond verdween de pas twee weken oude ezel Pleun uit de wei achter de opvang. \"Het is heel treurig, ik maak me grote zorgen\", zegt een hevig aangeslagen Marlhene Mouws van de ezelopvang. \"Oh, daar ga ik weer met mijn gejank.\" Marlhene Mouws van Het Ezelpaleis i",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026412/ezeltje-van-twee-weken-oud-gestolen-bij-opvang-pleuntje-is-weg"
  },
  {
   "id": "5c57d5de9a",
@@ -143,11 +159,11 @@
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQkpyYk9jZmZzY3NzbGVvck9OYUpva01VNVF1Y3oxeUE3cThndXRxTEVCZWVNWmJaTGNtQ3NkLTJKQjZmVzh6cHgyQUMtSGV5VXA2bU85WG8xM0ZQVi15dFlRSnBWbWZhX3RjNTZpQTJaMEliZE5paFd2cTJMc09xd1NaSmlOTW51SnNOSTlOdEU5ZllkWE9RYnlqNDJVdjdHdWt1ejI3a3pQU1U?oc=5"
  },
  {
-  "id": "2f66a868df",
+  "id": "506fdf16c8",
   "datum": "2026-09-08",
   "tijd": "07:30",
   "nieuw": true,
-  "titel": "Urk - 13-jarige Janieke uit Urk rent voor ziek neefje: al ruim 2.500 euro opgehaald",
+  "titel": "Urk - 13-jarige Jannieke uit Urk rent voor ziek neefje: al ruim 2.500 euro opgehaald",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -158,8 +174,8 @@
   "tags": [
    "erf"
   ],
-  "samenvatting": "De 13-jarige Janieke uit Urk loopt komende zaterdag samen met haar vriendinnen Emma, Lieke, Julia en Senaya, de Fish Potato Run. De vijf meiden laten zich sponsoren voor Metakids. Daarmee willen ze geld ophalen voor onderzoek naar stofwisselingsziekten. Zeldzame ziekte De actie heeft voor Janieke een persoonlijke reden",
-  "link": "https://www.omroepflevoland.nl/nieuws/522971/13-jarige-janieke-uit-urk-rent-voor-ziek-neefje:-al-ruim-2.500-euro-opgehaald"
+  "samenvatting": "De 13-jarige Jannieke uit Urk loopt komende zaterdag samen met haar vriendinnen Emma, Lieke, Julia en Senaya, de Fish Potato Run. De vijf meiden laten zich sponsoren voor Metakids. Daarmee willen ze geld ophalen voor onderzoek naar stofwisselingsziekten. Zeldzame ziekte De actie heeft voor Jannieke een persoonlijke red",
+  "link": "https://www.omroepflevoland.nl/nieuws/522971/13-jarige-jannieke-uit-urk-rent-voor-ziek-neefje:-al-ruim-2.500-euro-opgehaald"
  },
  {
   "id": "2f9a8a63a0",
@@ -336,7 +352,7 @@
   "id": "ef415c748f",
   "datum": "2026-09-07",
   "tijd": "22:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Odido-hacker te horen in Opsporing Verzocht: 'Hij ging heel gewiekst te werk'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -360,7 +376,7 @@
   "id": "d1ca9f0652",
   "datum": "2026-09-07",
   "tijd": "22:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dinsdag op tv: Rudi Vranckx duikt in synthetische drugs en Axel Daeseleire praat met de doden",
   "bron": "De Standaard",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -379,7 +395,7 @@
   "id": "0fecbe8b50",
   "datum": "2026-09-07",
   "tijd": "20:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hogere straffen in beroepszaak tegen zes verdachten in moordzaak advocaat Wiersum",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -401,7 +417,7 @@
   "id": "ee0a9f70d2",
   "datum": "2026-09-07",
   "tijd": "19:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Maat is nu echt vol: 'drugsverslaafde' huurder van Centrada moet zijn koffers pakken",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -420,7 +436,7 @@
   "id": "4520efdfa0",
   "datum": "2026-09-07",
   "tijd": "18:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Nieuwsoverzicht van 07/09 | 'Sloop Kasteel Almere' • A28 bij Nijkerk dicht na inspectie brug",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -446,7 +462,7 @@
   "id": "1977f7ceca",
   "datum": "2026-09-07",
   "tijd": "18:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Weerstand tegen vangkooi voor wolven met levende lokschapen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -465,7 +481,7 @@
   "id": "eece67332f",
   "datum": "2026-09-07",
   "tijd": "18:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vermoedelijk drugsafval gevonden in bos bij Angerlo",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -486,7 +502,7 @@
   "id": "fa397d64a4",
   "datum": "2026-09-07",
   "tijd": "18:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mogelijk drugsafval gevonden in bos bij Angerlo",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -507,7 +523,7 @@
   "id": "2c5f3f53d0",
   "datum": "2026-09-07",
   "tijd": "17:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Ontvoering, beschieting, oplichting: deel verdachten Overasselt heeft crimineel verleden'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -527,7 +543,7 @@
   "id": "d4d07215cc",
   "datum": "2026-09-07",
   "tijd": "17:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man gewond bij geweldsincident, verdachte opgepakt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -546,7 +562,7 @@
   "id": "d489687dd2",
   "datum": "2026-09-07",
   "tijd": "17:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wielrenner overleden • verdachte vaten aangetroffen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -565,7 +581,7 @@
   "id": "9398dbdd80",
   "datum": "2026-09-07",
   "tijd": "17:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Albert Heijn ontruimd • verdachte vaten aangetroffen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -584,7 +600,7 @@
   "id": "31e823dd46",
   "datum": "2026-09-07",
   "tijd": "16:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Motorrijder per boot op de vlucht na botsing in Lelystad Haven",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -605,7 +621,7 @@
   "id": "eeeb44af13",
   "datum": "2026-09-07",
   "tijd": "16:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Duizenden kilo's cocaïne moesten naar Dordrecht: 'Lading behoort toe aan Bolle Jos'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -809,11 +825,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Goudhandel & edelmetalen"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "goud",
    "vrachtwagen"
   ],
   "samenvatting": "Een vrachtwagenchauffeur komt bij een logistiek bedrijf in Oud Gastel om zijn vracht op te halen, maar wat blijkt? Een andere man is er een dag eerder, op 2 april, al met de lading vandoor gegaan. De politie deelde maandag in Bureau Brabant beelden van de verdachte. Dinsdag heeft de verdachte zich gemeld bij de politie",
@@ -860,27 +874,6 @@
   ],
   "samenvatting": "In een huis aan de Brouwersstraat in Heeswijk-Dinther is een overleden man gevonden. De politie doet onderzoek. Onder meer forensisch specialisten zijn bij het huis. Wat zich in de woning heeft afgespeeld, is nog niet duidelijk. De politie zegt vooralsnog alle scenario's open te houden.",
   "link": "https://www.omroepbrabant.nl/nieuws/6026277/overleden-man-gevonden-in-huis-in-heeswijk-dinther-politie-doet-onderzoek"
- },
- {
-  "id": "b701b05960",
-  "datum": "2026-09-07",
-  "tijd": "14:00",
-  "nieuw": false,
-  "titel": "Man levert hier een volle tas met vuurwerk in: 'Knalvuurwerk en potten'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Milieucriminaliteit & afval",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "afval",
-   "vuurwerk"
-  ],
-  "samenvatting": "Vuurwerk anoniem en zonder boete inleveren: het kan maandag in Bergen op Zoom. De hoop is dat er zo minder ongelukken, vernielingen en gewonden door vuurwerk zijn de komende jaarwisseling. “Goed dat je er zo vanaf kunt”, vertelt een 66-jarige man, die een volle tas inlevert. “Knalvuurwerk en ook potten”, verklaart de m",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026270/man-levert-hier-een-volle-tas-met-vuurwerk-in-knalvuurwerk-en-potten"
  },
  {
   "id": "b40c976702",
@@ -56674,7 +56667,8 @@
   ],
   "tags": [
    "ambtenaar",
-   "corruptie"
+   "corruptie",
+   "corruptie ambtenaar"
   ],
   "samenvatting": "Ambtenaar en aannemer Enschede in hoger beroep vrijgesproken van corruptie RTV Oost",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODdhVzZ0SlBkdjBMcVVjTDBWU1NvMENQVXZVOTdGRG16blA3VGhFR3NMLWdqZU52Nks3YWNFRzdFRTNfc3FUcTFKQWZpdUJmZjlIWXI1azZmSHFLRHMzRXNNWUhWSHBpTElpdk1JRjVKN2swOFJMaDYxSGlsaUVBMVBtcHBFUC1DaGc3WVFmRXF1V2d5YmdOLU1EX1hreUhhVGQyS1ktMW1DLUtr?oc=5"
