@@ -1,5 +1,27 @@
 [
  {
+  "id": "d454a6dad9",
+  "datum": "2026-09-09",
+  "tijd": "00:01",
+  "nieuw": true,
+  "titel": "Nieuwe spionagewet gaat toezichthouders veel te ver, stevige kritiek op kabinet",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie",
+   "toezichthouder",
+   "wetsvoorstel"
+  ],
+  "samenvatting": "De toezichthouders op de inlichtingen- en veiligheidsdiensten hebben forse kritiek op de nieuwe Inlichtingenwet. Zij vinden de wet niet in balans: de bevoegdheden van de AIVD en de MIVD worden flink uitgebreid, terwijl de controle juist minder wordt. Het kabinet wil de geheime diensten meer mogelijkheden geven omdat de",
+  "link": "https://nos.nl/l/2630253"
+ },
+ {
   "id": "fe65b6112e",
   "datum": "2026-09-08",
   "tijd": "23:16",
@@ -307,7 +329,7 @@
   "id": "b10ef21981",
   "datum": "2026-09-08",
   "tijd": "15:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man opgepakt die elektriciteitsstation in Doetinchem mogelijk als doelwit zag",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -326,7 +348,7 @@
   "id": "5c98ea77c1",
   "datum": "2026-09-08",
   "tijd": "15:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Daniel V. werd met helikopters gezocht en had ook Doetinchem op het oog",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -891,26 +913,6 @@
   ],
   "samenvatting": "Een volgens Centrada drugsverslaafde huurder van een appartement aan de Wold 28 in Lelystad moet binnen een maand zijn koffers pakken. De rechter vindt het terecht dat corporatie Centrada de woning terug wil, zo besliste die maandag. Volgens Centrada zorgt de huurder al twee jaar lang voor overlast. Schreeuwen, ruzies,",
   "link": "https://www.omroepflevoland.nl/nieuws/522948/maat-is-nu-echt-vol:-'drugsverslaafde'-huurder-van-centrada-moet-zijn-koffers-pakken"
- },
- {
-  "id": "dccafa2027",
-  "datum": "2026-09-07",
-  "tijd": "19:25",
-  "nieuw": false,
-  "titel": "Het lezen verleerd: een serie over de leesvaardigheid van onze kinderen",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jongeren",
-   "school"
-  ],
-  "samenvatting": "Deel 1: Kijkje in de klas Nederlandse tieners lezen amper nog, laat staan dikke en intellectuele boeken. Waarom vinden ze die zo stom? We vragen het leesvaardigheidonderzoeker Yra van Dijk. En we bezoeken lerares Bregje Cobussen in Weesp: \"Tien jaar geleden kon ik ze een wat langer artikel van De Correspondent voorlegg",
-  "link": "https://nos.nl/l/2630104"
  },
  {
   "id": "1977f7ceca",
