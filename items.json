@@ -1,5 +1,91 @@
 [
  {
+  "id": "1a2320a536",
+  "datum": "2026-09-08",
+  "tijd": "06:00",
+  "nieuw": true,
+  "titel": "Drank, dinertjes en dubbele petten bij innovatieclubs die miljarden EU-geld kregen",
+  "bron": "Follow the Money",
+  "verzameld_via": "Follow the Money",
+  "soort": "Onderzoek",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "integriteit"
+  ],
+  "samenvatting": "De EU liet een tiental bedrijven en verenigingen 6 miljard euro aan innovatiegeld verdelen. FTM vond tal van integriteitsproblemen, van het declareren van riante etentjes en flessen wijn tot belangenconflicten. Het Europees Openbaar Ministerie heeft naar twee bedrijven een onderzoek ingesteld.",
+  "link": "https://www.ftm.nl/artikelen/door-europa-gefinancierde-bedrijven-verbrassen-geld"
+ },
+ {
+  "id": "313ce5faec",
+  "datum": "2026-09-08",
+  "tijd": "06:00",
+  "nieuw": true,
+  "titel": "Almere - Kerk wil Almeerse moeder uit huis zetten na huurschuld van 6.000 euro",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "huurwoning",
+   "toeslagen",
+   "uitkering",
+   "woning"
+  ],
+  "samenvatting": "Een alleenstaande moeder uit Almere betaalde maandenlang geen huur aan de Protestantse Gemeente Almere. De kerk raakte het vertrouwen in haar huurder kwijt en wilde haar het huis uitzetten. Daarom stapten ze naar de rechter. ‘’Mevrouw woont voor een koopje, betaalt geen lor, we zijn het helemaal spuugzat.” Sinds de zom",
+  "link": "https://www.omroepflevoland.nl/nieuws/522969/kerk-wil-almeerse-moeder-uit-huis-zetten-na-huurschuld-van-6.000-euro"
+ },
+ {
+  "id": "558947666b",
+  "datum": "2026-09-08",
+  "tijd": "03:56",
+  "nieuw": true,
+  "titel": "Opnieuw auto in brand bij zelfde huis in Oss, ook huis raakt beschadigd",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "afval",
+   "container",
+   "woning"
+  ],
+  "samenvatting": "Een auto is in de nacht van maandag op dinsdag volledig uitgebrand bij een woning aan de Wagenaarstraat in Oss. De vlammen sloegen metershoog uit en veroorzaakten ook schade aan het huis. Opvallend is dat op exact dezelfde plek een half jaar geleden eveneens een auto in brand werd gestoken. De brand werd rond kwart voo",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026318/opnieuw-auto-in-brand-bij-zelfde-huis-in-oss-ook-huis-raakt-beschadigd"
+ },
+ {
+  "id": "8efffe5431",
+  "datum": "2026-09-08",
+  "tijd": "03:02",
+  "nieuw": true,
+  "titel": "Verzet in Wierden tegen provinciale plannen vernatting: ‘Gaan hier last van krijgen’",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "grond"
+  ],
+  "samenvatting": "De Wierdense gemeenteraad keert zich tegen de plannen van de provincie om het Wierdense Veld en de grond daaromheen te vernatten. De politiek roept nu op om de huidige maatregelen te schrappen en eerst verder onderzoek te doen. Boeren en bewoners vrezen ondertussen wateroverlast in de omgeving.",
+  "link": "https://www.oost.nl/nieuws/3693158/verzet-in-wierden-tegen-provinciale-plannen-vernatting-gaan-hier-last-van-krijgen"
+ },
+ {
   "id": "ef415c748f",
   "datum": "2026-09-07",
   "tijd": "22:05",
@@ -253,7 +339,7 @@
   "id": "eeeb44af13",
   "datum": "2026-09-07",
   "tijd": "16:54",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Duizenden kilo's cocaïne moesten naar Dordrecht: 'Lading behoort toe aan Bolle Jos'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -270,6 +356,25 @@
   ],
   "samenvatting": "In een containerschip dat op weg was naar de haven van Antwerpen heeft de Franse douane duizenden kilo's cocaïne onderschept. Het schip kwam uit West-Afrika en de container met de drugs zou worden gelost bij een bedrijf in Dordrecht. Volgens De Telegraaf was een deel van de lading van drugscrimineel 'Bolle' Jos Leijdek",
   "link": "https://www.rijnmond.nl/nieuws/2250203/duizenden-kilos-cocaine-moesten-naar-dordrecht-lading-behoort-toe-aan-bolle-jos"
+ },
+ {
+  "id": "b41a088273",
+  "datum": "2026-09-07",
+  "tijd": "15:58",
+  "nieuw": false,
+  "titel": "Juwelier vreest voor leven tijdens overval: 'Ik nam afscheid van mijn man en kinderen'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "juwelier"
+  ],
+  "samenvatting": "De eigenaresse van juwelier Chalcedoon in Capelle aan den IJssel heeft doodsangsten uitgestaan tijdens de overval op haar zaak in januari. \"Het ergste is het mes tegen de hals. Op dat moment heb ik afscheid genomen van mijn man, mijn kinderen en kleinkinderen. Ik dacht dat ik het niet zou overleven\", vertelt ze in een ",
+  "link": "https://www.rijnmond.nl/nieuws/2250103/juwelier-vreest-voor-leven-tijdens-overval-ik-nam-afscheid-van-mijn-man-en-kinderen"
  },
  {
   "id": "8277672e2b",
