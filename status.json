@@ -1,12 +1,12 @@
 {
- "run": "02:32",
+ "run": "03:32",
  "datum": "2026-09-08",
  "nieuw": 12,
  "totaal": 2840,
  "verwijderd": 12,
  "geweigerd": {
-  "niet-nederlands": 1054,
-  "geen dossier": 497
+  "niet-nederlands": 1048,
+  "geen dossier": 500
  },
  "bronnen": [
   {
