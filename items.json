@@ -1,5 +1,26 @@
 [
  {
+  "id": "6efe9c8522",
+  "datum": "2026-09-08",
+  "tijd": "20:08",
+  "nieuw": true,
+  "titel": "Almere - Politie deelt 53 boetes uit bij grote verkeerscontrole naar fatbikes en brommers in Almere Poort",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Jeugd & jonge aanwas",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "school"
+  ],
+  "samenvatting": "Bij een grote verkeerscontrole in Almere Poort zijn 53 bekeuringen uitgedeeld. De politie controleerde maandag onder meer op opgevoerde fatbikes, te hoge snelheid, verkeersgedrag en de technische staat van voertuigen. Een fatbike werd in beslag genomen, dat meldt de lokale omroep 1Almere . De controle werd gehouden omd",
+  "link": "https://www.omroepflevoland.nl/nieuws/523059/politie-deelt-53-boetes-uit-bij-grote-verkeerscontrole-naar-fatbikes-en-brommers-in-almere-poort"
+ },
+ {
   "id": "05e733cc49",
   "datum": "2026-09-08",
   "tijd": "19:10",
@@ -10,18 +31,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Hennep & wietteelt",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
+   "Hennep & wietteelt"
   ],
   "tags": [
-   "grond",
-   "hennep",
-   "hennepkwekerij",
-   "stal",
-   "vergunning",
    "wietplantage"
   ],
   "samenvatting": "Ze ontmoetten hem in de moskee en lieten hem wat klusjes doen in hun woning aan het Schotelmos in Almere. En toen hun geloofsgenoot relatieproblemen kreeg en tijdelijk onderdak nodig had vorig jaar mei, twijfelde het Almeerse stel niet. De klusjesman mocht in hun huis wonen tot uiterlijk december vorig jaar. Dat liep n",
@@ -51,6 +63,87 @@
   "link": "https://nos.nl/l/2630210"
  },
  {
+  "id": "1fbe5a9b96",
+  "datum": "2026-09-08",
+  "tijd": "18:26",
+  "nieuw": true,
+  "titel": "Inge daagt woningcorporatie voor de rechter wegens giftige stoffen: 'Mijn paradijsje werd een hel'",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "huurwoning",
+   "woning"
+  ],
+  "samenvatting": "Geschil over huurwoning die werd gebouwd op oude gasfabriek in Domburg",
+  "link": "https://www.omroepzeeland.nl/nieuws/18764800/inge-daagt-woningcorporatie-voor-de-rechter-wegens-giftige-stoffen-mijn-paradijsje-werd-een-hel"
+ },
+ {
+  "id": "d06e03b8f4",
+  "datum": "2026-09-08",
+  "tijd": "18:05",
+  "nieuw": true,
+  "titel": "'Trekken we aan dezelfde kant van de kar of niet': Discussie over parkeerterreinen bij afsluiting Westerscheldetunnel",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Provinciebestuurder niet blij met kritische brief North Sea Port",
+  "link": "https://www.omroepzeeland.nl/nieuws/18765877/trekken-we-aan-dezelfde-kant-van-de-kar-of-niet-discussie-over-parkeerterreinen-bij-afsluiting-westerscheldetunnel"
+ },
+ {
+  "id": "d198cbe8fe",
+  "datum": "2026-09-08",
+  "tijd": "18:01",
+  "nieuw": true,
+  "titel": "BBB-bestuurder over landbouwdossier: 'Op onderdelen is er niks veranderd'",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Op de golven van de boerenprotesten veroverde BBB de politiek in Overijssel, zo'n 3,5 jaar geleden. Met bestuurder Maurits von Martels op landbouw gold de partij als hoop in bange dagen voor de onvrede op het platteland. Maar deze zomer gingen boeren weer protesterend de weg op. En dus is de vraag: wat is er veranderd?",
+  "link": "https://www.oost.nl/nieuws/3693229/bbb-bestuurder-over-landbouwdossier-op-onderdelen-is-er-niks-veranderd"
+ },
+ {
+  "id": "06c9efb992",
+  "datum": "2026-09-08",
+  "tijd": "17:25",
+  "nieuw": true,
+  "titel": "Tieners aangehouden voor gijzeling en mishandeling",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "haven",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Vier verdachten zijn aangehouden voor een gijzeling in Rotterdam-Delfshaven. Dat heeft de politie dinsdag bekendgemaakt. Een 23-jarige man uit Spijkenisse werd zondag in een woning aan de Boeierstraat vastgehouden, mishandeld en bedreigd met een vuurwapen.",
+  "link": "https://www.rijnmond.nl/nieuws/2250826/tieners-aangehouden-voor-gijzeling-en-mishandeling"
+ },
+ {
   "id": "2e359ce027",
   "datum": "2026-09-08",
   "tijd": "17:15",
@@ -70,6 +163,25 @@
   ],
   "samenvatting": "Zangeres Corry Konings viert dinsdag haar 75ste verjaardag. De zangeres, die in 1976 doorbrak met Ik krijg een heel apart gevoel van binnen , blaakt nog steeds van de energie en staat ook op haar verjaardag gewoon op het podium. Aan het hek hangen grote paarse ballonnen. Het is duidelijk dat het feest is in huize Konin",
   "link": "https://www.omroepbrabant.nl/nieuws/6026460/feest-bij-corry-konings-en-ezel-pleun-doodgeschoten-dit-gebeurde-vandaag"
+ },
+ {
+  "id": "b693ba773f",
+  "datum": "2026-09-08",
+  "tijd": "16:29",
+  "nieuw": true,
+  "titel": "Burgemeester wil gesprek na abortusprotest met bloederige beelden in Zwolle",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Burgemeester Peter Snijders is niet te spreken over het gebruik van bloederige beelden tijdens een abortusprotest in de binnenstad van Zwolle. De politie ontving zaterdag klachten over de actievoerders, maar kon wettelijk gezien niet ingrijpen. Het stadsbestuur vindt dat een grens is overschreden.",
+  "link": "https://www.oost.nl/nieuws/3693601/burgemeester-wil-gesprek-na-abortusprotest-met-bloederige-beelden-in-zwolle"
  },
  {
   "id": "4a04ffbe0e",
@@ -230,6 +342,27 @@
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0tfWnEyV1BhNDczS0o2RjRJZ2FaaGt1bXFXV0Ztd1lsTm00VW9hT1JXMEhPdnp2X3B6amJIQ2h3UjJZWkd0T3hYT3h5TGlval9KYUM2U2xIMWlkaGthOWRMNFViYkVGeU9KZ0JZX3FGdS1zcHVxaUdYU0pWUXctSTZfV3lUTWFLYVRPTm5wckRPYjhkZW9fOHBFaGhCSmRLOGNJLVYtMk0tTFZKd1UxZ1ZqMVUyTE1QSGc?oc=5"
  },
  {
+  "id": "93736a3d37",
+  "datum": "2026-09-08",
+  "tijd": "14:21",
+  "nieuw": true,
+  "titel": "Aandacht voor ondermijning in het buitengebied",
+  "bron": "Hart van Nijverdal",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "buitengebied",
+   "ondermijning"
+  ],
+  "samenvatting": "Aandacht voor ondermijning in het buitengebied Hart van Nijverdal",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTjdPdTF5MWFabGh5S1p6UzBqak5sbm1fbTlMS09vd0xUc1pnRXQ1cllicHVEb25VbjZqSFR6a1ZncFk4Tm5uRl9IUmhpYkh3TTlJaDl0RU5KMmZlVjNpZklyT21tQV83NjMxX1BIaXdYQVdDRXBNZDRTOFZHUDRhRU54RDNsZWgxUzJpZU9zNVBPclMxUFdHVVA2dml5Y0tnMF9KMTA3eGFWLS1BSzlDbE13N1BCUUE?oc=5"
+ },
+ {
   "id": "9d2d5729a0",
   "datum": "2026-09-08",
   "tijd": "14:04",
@@ -273,7 +406,7 @@
   "id": "d2007d04ed",
   "datum": "2026-09-08",
   "tijd": "12:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee weken oude ezel Pleun doodgeschoten teruggevonden in wei Ezelpaleis",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -292,7 +425,7 @@
   "id": "6e2d05d85d",
   "datum": "2026-09-08",
   "tijd": "12:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Opstoppingen op wegen in buitengebied Zeewolde door afsluiting A28 vanwege onveilige brug",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -311,7 +444,7 @@
   "id": "987cac60a8",
   "datum": "2026-09-08",
   "tijd": "12:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Groot verdriet bij Het Ezelpaleis, Pleuntje van twee weken oud is gestolen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -330,7 +463,7 @@
   "id": "5c57d5de9a",
   "datum": "2026-09-08",
   "tijd": "10:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Nautilus College in Almere Stad tijdelijk gesloten vanwege 'onveilige risicovolle situatie'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -349,7 +482,7 @@
   "id": "e5790edad2",
   "datum": "2026-09-08",
   "tijd": "10:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Sterk gedaalde leesvaardigheid, dat is pas ondermijning van de maatschappij",
   "bron": "bnnvara",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -895,46 +1028,6 @@
   ],
   "samenvatting": "Bij een ongeluk op de A27 in de richting van Breda is maandagmiddag een motorrijder gewond geraakt. De bestuurder botste door nog onbekende oorzaak achterop een auto. De snelweg was na het ongeluk in beide richtingen afgesloten. De weg richting Gorinchem is inmiddels weer open.",
   "link": "https://www.rijnmond.nl/nieuws/2250200/verkeersdrukte-rond-gorinchem-na-ongeluk-op-a27-motorrijder-naar-ziekenhuis"
- },
- {
-  "id": "89a7a5be20",
-  "datum": "2026-09-07",
-  "tijd": "15:30",
-  "nieuw": false,
-  "titel": "Man neemt bureau mee in de trein naar Tilburg: mag dat?",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "explosie",
-   "vuurwerk",
-   "wapen"
-  ],
-  "samenvatting": "Treinreizigers kunnen dit weekend hun ogen niet geloven: een man uit Tilburg zit met een compleet bureau in de trein. Hij heeft geen auto en is dus naar eigen zeggen aangewezen op het openbaar vervoer. Maar mag je eigenlijk wel een bureau meenemen in de trein? En hoe zit dat met andere spullen? De NS heeft geen uitgebr",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026243/man-neemt-bureau-mee-in-de-trein-naar-tilburg-mag-dat"
- },
- {
-  "id": "a169daafc1",
-  "datum": "2026-09-07",
-  "tijd": "15:18",
-  "nieuw": false,
-  "titel": "Podcast De Dag: valt het doek voor Ongehoord Nederland?",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "grond"
-  ],
-  "samenvatting": "Media-minister Rianne Letschert maakt begin deze week bekend of het doek valt voor omroep Ongehoord Nederland. De verwachting is van wel, zeker nu na het Commissariaat voor de Media ook de NPO bij haar officieel een verzoek heeft neergelegd om de licentie in te trekken. Volgens de NPO is daar inmiddels voldoende juridi",
-  "link": "https://nos.nl/l/2630081"
  },
  {
   "id": "332b523fb2",
