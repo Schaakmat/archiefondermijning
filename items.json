@@ -19,6 +19,27 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522971/13-jarige-janieke-uit-urk-rent-voor-ziek-neefje:-al-ruim-2.500-euro-opgehaald"
  },
  {
+  "id": "985e4ff693",
+  "datum": "2026-09-08",
+  "tijd": "07:02",
+  "nieuw": true,
+  "titel": "Zwaargewonde bij ernstige botsing tussen vrachtwagen en auto in Tilburg",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "burgemeester",
+   "vrachtwagen"
+  ],
+  "samenvatting": "Een auto en een vrachtwagen zijn dinsdagochtend op elkaar gebotst op de Burgemeester Letschertweg in Tilburg. Een inzittende raakte daarbij zwaargewond en is er slecht aan toe. De auto is achterop de vrachtauto gebotst. Meerdere hulpdiensten zijn na de botsing ter plaatse gekomen. Er is ook een traumahelikopter geland ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026327/zwaargewonde-bij-ernstige-botsing-tussen-vrachtwagen-en-auto-in-tilburg"
+ },
+ {
   "id": "6e89e4ec62",
   "datum": "2026-09-08",
   "tijd": "06:46",
@@ -323,7 +344,7 @@
   "id": "2c5f3f53d0",
   "datum": "2026-09-07",
   "tijd": "17:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Ontvoering, beschieting, oplichting: deel verdachten Overasselt heeft crimineel verleden'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -343,7 +364,7 @@
   "id": "d4d07215cc",
   "datum": "2026-09-07",
   "tijd": "17:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man gewond bij geweldsincident, verdachte opgepakt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -362,7 +383,7 @@
   "id": "d489687dd2",
   "datum": "2026-09-07",
   "tijd": "17:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wielrenner overleden • verdachte vaten aangetroffen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -739,25 +760,6 @@
   ],
   "samenvatting": "Een 34-jarige man uit Luttelgeest is zondag aangehouden op verdenking van poging tot doodslag. Hij zou een man met een hakbijl hebben bedreigd en een auto hebben vernield. Volgens de politie vernielde de man zonder duidelijke aanleiding een auto aan de Vlashof in Nagele. Toen de eigenaar van de auto poolshoogte kwam ne",
   "link": "https://www.omroepflevoland.nl/nieuws/522868/man-uit-luttelgeest-bedreigt-inwoner-nagele-met-bijl-grote-politiemacht-haalt-verdachte-uit-woning"
- },
- {
-  "id": "be13cfc6ed",
-  "datum": "2026-09-07",
-  "tijd": "12:11",
-  "nieuw": false,
-  "titel": "Minderjarige jongen gewond bij steekpartij in het Kinderbos in Gemert",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jongeren"
-  ],
-  "samenvatting": "Een minderjarige jongen is maandagmiddag gewond geraakt bij een steekpartij in het Kinderbos in Gemert. Daar zou een ruzie tussen een aantal jongeren aan vooraf zijn gegaan. Rond half twee ging het mis in het bos, in de buurt van de Dribbelei. Daar zou ruzie zijn ontstaan tussen meerdere jongeren, waarna de steekpartij",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026262/minderjarige-jongen-gewond-bij-steekpartij-in-het-kinderbos-in-gemert"
  },
  {
   "id": "bb38d141d0",
