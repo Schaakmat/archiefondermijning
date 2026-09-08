@@ -1,5 +1,24 @@
 [
  {
+  "id": "4a04ffbe0e",
+  "datum": "2026-09-08",
+  "tijd": "16:19",
+  "nieuw": true,
+  "titel": "Flevoland - Minister Karremans: A28 bij Nijkerk uiterlijk donderdagavond weer open",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "buitengebied"
+  ],
+  "samenvatting": "De snelweg A28 bij Nijkerk gaat uiterlijk donderdagavond om 20.00 uur weer open. Dat vertelde minister Vincent Karremans van Infrastructuur vanmiddag in de Tweede Kamer. Volgens hem wordt er dag en nacht aan de Hardenbergerbrug gewerkt: \"Alle inspanningen zijn erop gericht om de brug zo snel mogelijk weer open te krijg",
+  "link": "https://www.omroepflevoland.nl/nieuws/523040/minister-karremans:-a28-bij-nijkerk-uiterlijk-donderdagavond-weer-open"
+ },
+ {
   "id": "4efc35aca9",
   "datum": "2026-09-08",
   "tijd": "15:20",
@@ -19,6 +38,27 @@
   ],
   "samenvatting": "Staatssecretaris Tielen over leesvaardigheid De afgelopen week keken we in onze serie 'Het lezen verleerd?' naar het leesonderwijs in Nederland. Daar is het namelijk niet zo goed mee gesteld, blijkt ook vandaag uit het internationale PISA-onderzoek. Bijna 40 procent van de 15-jarigen kan niet goed genoeg lezen om mee t",
   "link": "https://nos.nl/l/2630186"
+ },
+ {
+  "id": "9d2d5729a0",
+  "datum": "2026-09-08",
+  "tijd": "14:04",
+  "nieuw": true,
+  "titel": "'Gewetenloze moord' op echtgenote': twintig jaar cel geëist voor femicide",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "moord",
+   "woning"
+  ],
+  "samenvatting": "De 54-jarige man die wordt verdacht van de moord op zijn echtgenote Nelleke, heeft bekend haar gewurgd te hebben. Het slachtoffer (64) werd in december vorig jaar dood aangetroffen in haar woning in Beuningen. Volgens de officier van justitie gaat het om een gewetenloze moord, waarvoor ze twintig jaar cel eist.",
+  "link": "https://www.gld.nl/nieuws/8519247/gewetenloze-moord-op-echtgenote-twintig-jaar-cel-geeist-voor-femicide"
  },
  {
   "id": "dd8e83f6de",
@@ -324,29 +364,6 @@
   "link": "https://www.rijnmond.nl/nieuws/2250569/na-veroordeling-voor-kinderporno-is-straatnaam-van-ex-burgemeester-verwijderd"
  },
  {
-  "id": "d1ddfb0632",
-  "datum": "2026-09-08",
-  "tijd": "03:56",
-  "nieuw": true,
-  "titel": "Metershoge vlammen bij autobrand in Oss, zelfde huis opnieuw getroffen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "afval",
-   "container",
-   "woning"
-  ],
-  "samenvatting": "Een auto is in de nacht van maandag op dinsdag in brand gestoken bij een woning aan de Wagenaarstraat in Oss. De vlammen waren metershoog, waardoor ook het huis schade opliep. Opvallend is dat een half jaar geleden op exact dezelfde plek ook al een auto door brandstichting werd verwoest. De brand werd rond kwart voor e",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026318/metershoge-vlammen-bij-autobrand-in-oss-zelfde-huis-opnieuw-getroffen"
- },
- {
   "id": "8efffe5431",
   "datum": "2026-09-08",
   "tijd": "03:02",
@@ -371,7 +388,7 @@
   "id": "0495297947",
   "datum": "2026-09-08",
   "tijd": "03:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verzet tegen plan om hoogveen te vernatten groeit: ook Wierden trekt aan de bel",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -392,7 +409,7 @@
   "id": "ef415c748f",
   "datum": "2026-09-07",
   "tijd": "22:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Odido-hacker te horen in Opsporing Verzocht: 'Hij ging heel gewiekst te werk'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -416,7 +433,7 @@
   "id": "d1ca9f0652",
   "datum": "2026-09-07",
   "tijd": "22:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dinsdag op tv: Rudi Vranckx duikt in synthetische drugs en Axel Daeseleire praat met de doden",
   "bron": "De Standaard",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -635,27 +652,6 @@
   ],
   "samenvatting": "Het actuele 112-nieuws uit Gelderland van deze dag bundelen we in een liveblog. Je leest en ziet hier een overzicht van ongelukken, branden, vermissingen en misdrijven in onze provincie.",
   "link": "https://www.gld.nl/nieuws/8519455/albert-heijn-ontruimd-verdachte-vaten-aangetroffen"
- },
- {
-  "id": "31e823dd46",
-  "datum": "2026-09-07",
-  "tijd": "16:59",
-  "nieuw": false,
-  "titel": "Lelystad - Motorrijder per boot op de vlucht na botsing in Lelystad Haven",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder",
-   "haven"
-  ],
-  "samenvatting": "Een motorrijder in Lelystad Haven heeft zondagavond een aparte vlucht genomen. Hij reed met hoge snelheid over het fietspad van de Binnendijk, crashte tegen een lantaarnpaal en liet zijn motor achter. De bestuurder sprak vervolgens de opvarenden aan van een bootje dat daar in de buurt lag aangemeerd. Zij brachten de mo",
-  "link": "https://www.omroepflevoland.nl/nieuws/522918/motorrijder-per-boot-op-de-vlucht-na-botsing-in-lelystad-haven"
  },
  {
   "id": "eeeb44af13",
