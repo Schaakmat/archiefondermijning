@@ -1,5 +1,47 @@
 [
  {
+  "id": "2f66a868df",
+  "datum": "2026-09-08",
+  "tijd": "07:30",
+  "nieuw": true,
+  "titel": "Urk - 13-jarige Janieke uit Urk rent voor ziek neefje: al ruim 2.500 euro opgehaald",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "De 13-jarige Janieke uit Urk loopt komende zaterdag samen met haar vriendinnen Emma, Lieke, Julia en Senaya, de Fish Potato Run. De vijf meiden laten zich sponsoren voor Metakids. Daarmee willen ze geld ophalen voor onderzoek naar stofwisselingsziekten. Zeldzame ziekte De actie heeft voor Janieke een persoonlijke reden",
+  "link": "https://www.omroepflevoland.nl/nieuws/522971/13-jarige-janieke-uit-urk-rent-voor-ziek-neefje:-al-ruim-2.500-euro-opgehaald"
+ },
+ {
+  "id": "6e89e4ec62",
+  "datum": "2026-09-08",
+  "tijd": "06:46",
+  "nieuw": true,
+  "titel": "Politie rukt massaal uit in Nijmeegse woonwijk na melding over schoten",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "In de omgeving van de Hengstdalseweg in het oosten van Nijmegen is gisteravond de politie met veel eenheden afgegaan op een melding over mogelijk gehoorde schoten. Vooralsnog zijn er volgens de politie geen aanwijzingen gevonden dat er daadwerkelijk is geschoten. De melding kwam na 21.00 uur binnen. Een politiewoordvoe",
+  "link": "https://nos.nl/l/2630134"
+ },
+ {
   "id": "1a2320a536",
   "datum": "2026-09-08",
   "tijd": "06:00",
@@ -42,11 +84,11 @@
   "link": "https://www.omroepflevoland.nl/nieuws/522969/kerk-wil-almeerse-moeder-uit-huis-zetten-na-huurschuld-van-6.000-euro"
  },
  {
-  "id": "558947666b",
+  "id": "d1ddfb0632",
   "datum": "2026-09-08",
   "tijd": "03:56",
   "nieuw": true,
-  "titel": "Opnieuw auto in brand bij zelfde huis in Oss, ook huis raakt beschadigd",
+  "titel": "Metershoge vlammen bij autobrand in Oss, zelfde huis opnieuw getroffen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -61,8 +103,8 @@
    "container",
    "woning"
   ],
-  "samenvatting": "Een auto is in de nacht van maandag op dinsdag volledig uitgebrand bij een woning aan de Wagenaarstraat in Oss. De vlammen sloegen metershoog uit en veroorzaakten ook schade aan het huis. Opvallend is dat op exact dezelfde plek een half jaar geleden eveneens een auto in brand werd gestoken. De brand werd rond kwart voo",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026318/opnieuw-auto-in-brand-bij-zelfde-huis-in-oss-ook-huis-raakt-beschadigd"
+  "samenvatting": "Een auto is in de nacht van maandag op dinsdag in brand gestoken bij een woning aan de Wagenaarstraat in Oss. De vlammen sloegen metershoog uit, waardoor ook het huis schade opliep. Opvallend is dat een half jaar geleden op exact dezelfde plek ook al een auto door brandstichting werd verwoest. De brand werd rond kwart ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026318/metershoge-vlammen-bij-autobrand-in-oss-zelfde-huis-opnieuw-getroffen"
  },
  {
   "id": "8efffe5431",
@@ -299,7 +341,7 @@
   "id": "9398dbdd80",
   "datum": "2026-09-07",
   "tijd": "17:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Albert Heijn ontruimd • verdachte vaten aangetroffen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -318,7 +360,7 @@
   "id": "31e823dd46",
   "datum": "2026-09-07",
   "tijd": "16:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Motorrijder per boot op de vlucht na botsing in Lelystad Haven",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -339,7 +381,7 @@
   "id": "eeeb44af13",
   "datum": "2026-09-07",
   "tijd": "16:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Duizenden kilo's cocaïne moesten naar Dordrecht: 'Lading behoort toe aan Bolle Jos'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -676,25 +718,6 @@
   ],
   "samenvatting": "Een minderjarige jongen is maandagmiddag gewond geraakt bij een steekpartij in het Kinderbos in Gemert. Daar zou een ruzie tussen een aantal jongeren aan vooraf zijn gegaan. Rond half twee ging het mis in het bos, in de buurt van de Dribbelei. Daar zou ruzie zijn ontstaan tussen meerdere jongeren, waarna de steekpartij",
   "link": "https://www.omroepbrabant.nl/nieuws/6026262/minderjarige-jongen-gewond-bij-steekpartij-in-het-kinderbos-in-gemert"
- },
- {
-  "id": "324d538a24",
-  "datum": "2026-09-07",
-  "tijd": "11:33",
-  "nieuw": false,
-  "titel": "Urk - Heg in brand naast basisschool op Urk, directeur helpt met blussen",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "school"
-  ],
-  "samenvatting": "Op Urk heeft maandagochtend kort een heg naast een basisschool in brand gestaan. Door het handelen van de directeur was de brand snel onder controle. De brand brak iets na 08.30 uur uit. Op dat tijdstip begon ook de school E. du Marchie van Voorthuysen. Directeur Daniël Wijma vertelt dat de kinderen meteen naar binnen ",
-  "link": "https://www.omroepflevoland.nl/nieuws/522906/heg-in-brand-naast-basisschool-op-urk-directeur-helpt-met-blussen"
  },
  {
   "id": "bb38d141d0",
