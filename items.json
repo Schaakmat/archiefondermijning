@@ -253,7 +253,7 @@
   "id": "eeeb44af13",
   "datum": "2026-09-07",
   "tijd": "16:54",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Duizenden kilo's cocaïne moesten naar Dordrecht: 'Lading behoort toe aan Bolle Jos'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -16030,6 +16030,25 @@
   "dossiers": [
    "Arbeidsuitbuiting & mensenhandel"
   ]
+ },
+ {
+  "id": "a04267386f",
+  "datum": "2026-07-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie zet Wallen af tijdens grote politieactie tegen mensenhandel",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Politie zet Wallen af tijdens grote politieactie tegen mensenhandel de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHVyNF9BZGJBWFVtS1VzbjhmYU1taVk3QkVYcUdmc1RUMzk2T1ZlcmZHOEVRd2x0VHN4ZHZMeW91TXM3UDR4UUNuMlNfT2NFc3o4R1MyWTBWS081QXFjcmhxSmlKZGtGd3BKRmRCY2x2NDQ3QVRWbUVQXzVjWVgxVmMzcWk5ZlRjWU1iUGkxdTdyVG43azlteXMtT3QybDY4cThOb3VuMHdpREZfVlRkS0UxbEZWZXJV?oc=5"
  },
  {
   "id": "1c147fbb5e",

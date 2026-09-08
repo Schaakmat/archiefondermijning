@@ -1,12 +1,12 @@
 {
- "run": "00:43",
+ "run": "01:32",
  "datum": "2026-09-08",
- "nieuw": 12,
- "totaal": 2839,
+ "nieuw": 13,
+ "totaal": 2840,
  "verwijderd": 12,
  "geweigerd": {
-  "niet-nederlands": 1084,
-  "geen dossier": 485
+  "niet-nederlands": 1063,
+  "geen dossier": 496
  },
  "bronnen": [
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 159,
-   "status": "bij",
+   "items": 160,
+   "status": "1 nieuw",
    "ok": true
   },
   {
