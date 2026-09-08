@@ -1,5 +1,24 @@
 [
  {
+  "id": "deba2cdc8e",
+  "datum": "2026-09-08",
+  "tijd": "22:27",
+  "nieuw": true,
+  "titel": "Voor het eerst zicht op vrouwenbrein tijdens puberteit, zwangerschap en menopauze",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "Tijdens de eerste menstruatie, de zwangerschap en de menopauze verandert er veel in het lichaam van vrouwen. Maar hoe de hersenen veranderen tijdens die periodes, daar is nog weinig over bekend. Nederlandse onderzoekers hebben nu voor het eerst in kaart gebracht wat er in deze periodes verandert in het brein van vrouwe",
+  "link": "https://nos.nl/l/2630241"
+ },
+ {
   "id": "6efe9c8522",
   "datum": "2026-09-08",
   "tijd": "20:08",
@@ -165,6 +184,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6026460/feest-bij-corry-konings-en-ezel-pleun-doodgeschoten-dit-gebeurde-vandaag"
  },
  {
+  "id": "8698f88d6f",
+  "datum": "2026-09-08",
+  "tijd": "17:10",
+  "nieuw": true,
+  "titel": "Klusjesman die tijdelijk in woning opdrachtgevers woont, weigert te vertrekken en begint wietplantage",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Klusjesman die tijdelijk in woning opdrachtgevers woont, weigert te vertrekken en begint wietplantage Omroep Flevoland",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZXhCbXRJUHZlQWdjRXhfaldKWkhlREd5ZERreENONnRMZ3YwbFVpZU5Dc2VkbS1GYnpEeTU1Y3JING9JandHVGJYbHBVem9oS3luLTF6RmdveWdHVFlJM01MNlhyRzBQT1pIUGlaWmxzd3pOOVVMMmV6VVFNem9Wc3BkcGMwTHE5T2tBUEY3anNPek0yZ0lTeVp5bWw3RHQ2VTdKNzNtNUlMa0hGdE0yeGlaUHNoa1dPbGZrc1FtRXVjR3lBaG9tNFNtejdmQVJMNHRqX2szR2hCSG9TcHc?oc=5"
+ },
+ {
   "id": "b693ba773f",
   "datum": "2026-09-08",
   "tijd": "16:29",
@@ -265,7 +303,7 @@
   "id": "dea01323db",
   "datum": "2026-09-08",
   "tijd": "15:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Van stille dorpsnacht naar oorlogsgebied: de gebeurtenissen in Overasselt op een rij",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -973,23 +1011,23 @@
   "link": "https://www.rijnmond.nl/nieuws/2250203/duizenden-kilos-cocaine-moesten-naar-dordrecht-lading-behoort-toe-aan-bolle-jos"
  },
  {
-  "id": "8277672e2b",
+  "id": "b41a088273",
   "datum": "2026-09-07",
-  "tijd": "15:51",
+  "tijd": "15:58",
   "nieuw": false,
-  "titel": "'Duitse klimaatactivist wil ook in Nederland toeslaan op energienet'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
+  "titel": "Juwelier vreest voor leven tijdens overval: 'Ik nam afscheid van mijn man en kinderen'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
   "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
+  "regio": "Rotterdam",
   "dossiers": [
-   "Wapens, explosieven & vuurwerk"
+   "Goudhandel & edelmetalen"
   ],
   "tags": [
-   "explosie"
+   "juwelier"
   ],
-  "samenvatting": "De 48-jarige klimaatactivist Daniel V. die in Duitsland wordt gezocht voor meerdere sabotagepogingen op het energienet, wil mogelijk ook in Nederland toeslaan. Volgens de Duitse krant Frankfurter Allgemeine Zeitung heeft de man een elektriciteitsstation in Doetinchem op een lijstje staan van mogelijke doelwitten. De kr",
-  "link": "https://nos.nl/l/2630085"
+  "samenvatting": "De eigenaresse van juwelier Chalcedoon in Capelle aan den IJssel heeft doodsangsten uitgestaan tijdens de overval op haar zaak in januari. \"Het ergste is het mes tegen de hals. Op dat moment heb ik afscheid genomen van mijn man, mijn kinderen en kleinkinderen. Ik dacht dat ik het niet zou overleven\", vertelt ze in een ",
+  "link": "https://www.rijnmond.nl/nieuws/2250103/juwelier-vreest-voor-leven-tijdens-overval-ik-nam-afscheid-van-mijn-man-en-kinderen"
  },
  {
   "id": "a19896d528",
