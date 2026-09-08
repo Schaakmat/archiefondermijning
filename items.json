@@ -10,13 +10,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Criminele samenwerkingsverbanden"
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
-   "organisatie",
-   "toezichthouder",
-   "wetsvoorstel"
+   "toezichthouder"
   ],
   "samenvatting": "De toezichthouders op de inlichtingen- en veiligheidsdiensten hebben forse kritiek op de nieuwe Inlichtingenwet. Zij vinden de wet niet in balans: de bevoegdheden van de AIVD en de MIVD worden flink uitgebreid, terwijl de controle juist minder wordt. Het kabinet wil de geheime diensten meer mogelijkheden geven omdat de",
   "link": "https://nos.nl/l/2630253"
@@ -286,6 +283,25 @@
   "link": "https://www.oost.nl/nieuws/3693601/burgemeester-wil-gesprek-na-abortusprotest-met-bloederige-beelden-in-zwolle"
  },
  {
+  "id": "1ef0b1868a",
+  "datum": "2026-09-08",
+  "tijd": "16:29",
+  "nieuw": true,
+  "titel": "Bloederig abortusprotest Zwolle schiet burgemeester in verkeerde keelgat",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Burgemeester Peter Snijders is niet te spreken over het gebruik van bloederige beelden tijdens een abortusprotest in de binnenstad van Zwolle. De politie ontving zaterdag klachten over de actievoerders, maar kon wettelijk gezien niet ingrijpen. Het stadsbestuur vindt dat een grens is overschreden.",
+  "link": "https://www.oost.nl/nieuws/3693601/bloederig-abortusprotest-zwolle-schiet-burgemeester-in-verkeerde-keelgat"
+ },
+ {
   "id": "4a04ffbe0e",
   "datum": "2026-09-08",
   "tijd": "16:19",
@@ -404,6 +420,27 @@
   ],
   "samenvatting": "Een doodgeschoten beveiliger, twee neergeschoten agenten en tientallen zwaarbewapende mannen die op de vlucht slaan. Voor inwoners van Overasselt lijkt hun dorp op dinsdag 1 september op een oorlogsgebied. De politie opent massaal de jacht op de criminelen, terwijl bewoners binnen moeten blijven. Omroep Gelderland zet ",
   "link": "https://www.gld.nl/nieuws/8520039/dodelijke-schietpartij-gewonde-agenten-en-34-verdachten-de-tijdlijn-van-overasselt"
+ },
+ {
+  "id": "3c827fb32e",
+  "datum": "2026-09-08",
+  "tijd": "15:05",
+  "nieuw": false,
+  "titel": "Dodelijke schietpartij, gewonde agenten en 35 verdachten: de tijdlijn van Overasselt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "wapen"
+  ],
+  "samenvatting": "Een doodgeschoten beveiliger, twee neergeschoten agenten en tientallen zwaarbewapende mannen die op de vlucht slaan. Voor inwoners van Overasselt lijkt hun dorp op dinsdag 1 september op een oorlogsgebied. De politie opent massaal de jacht op de criminelen, terwijl bewoners binnen moeten blijven. Omroep Gelderland zet ",
+  "link": "https://www.gld.nl/nieuws/8520039/dodelijke-schietpartij-gewonde-agenten-en-35-verdachten-de-tijdlijn-van-overasselt"
  },
  {
   "id": "2e7a286059",
