@@ -1,5 +1,46 @@
 [
  {
+  "id": "dd8e83f6de",
+  "datum": "2026-09-08",
+  "tijd": "13:24",
+  "nieuw": true,
+  "titel": "Gedupeerde toeslagenouders doen aangifte tegen ambtenaren om datakluis",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Ondernemers & weerbaarheid",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "mkb",
+   "ondernemers",
+   "toeslagen"
+  ],
+  "samenvatting": "Een groep gedupeerde toeslagenouders heeft vorige maand aangifte gedaan tegen ambtenaren van het ministerie van Financiën, de Belastingdienst en de Dienst Toeslagen vanwege verborgen data in een zogenoemde datakluis. Dat bevestigt advocaat Merijn van Leeuwen na berichtgeving van Trouw . Van Leeuwen staat honderden gedu",
+  "link": "https://nos.nl/l/2630168"
+ },
+ {
+  "id": "6e2d05d85d",
+  "datum": "2026-09-08",
+  "tijd": "12:36",
+  "nieuw": true,
+  "titel": "Flevoland - Opstoppingen op wegen in buitengebied Zeewolde door afsluiting A28 vanwege onveilige brug",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "buitengebied"
+  ],
+  "samenvatting": "De afsluiting van de A28 bij Nijkerk heeft dinsdagochtend voor extra vertraging gezorgd op wegen in en rondom Flevoland. Volgens de ANWB waren de grootste opstoppingen te zien in het buitengebied van Zeewolde, op de Nijkerkerweg (N301) en de Gooiseweg (N305). Daar ontstonden files met vertragingen van 20 minuten en lan",
+  "link": "https://www.omroepflevoland.nl/nieuws/523012/opstoppingen-op-wegen-in-buitengebied-zeewolde-door-afsluiting-a28-vanwege-onveilige-brug"
+ },
+ {
   "id": "5c57d5de9a",
   "datum": "2026-09-08",
   "tijd": "10:18",
@@ -42,7 +83,7 @@
   "datum": "2026-09-08",
   "tijd": "08:30",
   "nieuw": true,
-  "titel": "Auto met benzine overgoten en aangestoken: ‘Ik weet wie hierachter zit\"",
+  "titel": "Auto met benzine overgoten en aangestoken: ‘Ik weet wie hierachter zit'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -405,7 +446,7 @@
   "id": "1977f7ceca",
   "datum": "2026-09-07",
   "tijd": "18:45",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Weerstand tegen vangkooi voor wolven met levende lokschapen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -424,7 +465,7 @@
   "id": "eece67332f",
   "datum": "2026-09-07",
   "tijd": "18:22",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Vermoedelijk drugsafval gevonden in bos bij Angerlo",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -445,7 +486,7 @@
   "id": "fa397d64a4",
   "datum": "2026-09-07",
   "tijd": "18:22",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Mogelijk drugsafval gevonden in bos bij Angerlo",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -466,7 +507,7 @@
   "id": "2c5f3f53d0",
   "datum": "2026-09-07",
   "tijd": "17:54",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "'Ontvoering, beschieting, oplichting: deel verdachten Overasselt heeft crimineel verleden'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -486,7 +527,7 @@
   "id": "d4d07215cc",
   "datum": "2026-09-07",
   "tijd": "17:44",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Man gewond bij geweldsincident, verdachte opgepakt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -505,7 +546,7 @@
   "id": "d489687dd2",
   "datum": "2026-09-07",
   "tijd": "17:43",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Wielrenner overleden • verdachte vaten aangetroffen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -524,7 +565,7 @@
   "id": "9398dbdd80",
   "datum": "2026-09-07",
   "tijd": "17:43",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Albert Heijn ontruimd • verdachte vaten aangetroffen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -543,7 +584,7 @@
   "id": "31e823dd46",
   "datum": "2026-09-07",
   "tijd": "16:59",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Lelystad - Motorrijder per boot op de vlucht na botsing in Lelystad Haven",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -564,7 +605,7 @@
   "id": "eeeb44af13",
   "datum": "2026-09-07",
   "tijd": "16:54",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Duizenden kilo's cocaïne moesten naar Dordrecht: 'Lading behoort toe aan Bolle Jos'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -756,6 +797,27 @@
   ],
   "samenvatting": "Een vrachtwagenchauffeur komt bij een logistiek bedrijf in Oud Gastel om zijn vracht op te halen, maar wat blijkt? Een andere man is er een dag eerder, op 2 april, al met de lading vandoor gegaan. De politie deelt in Bureau Brabant beelden van de verdachte. De onbekende chauffeur meldt zich op 2 april rond elf uur bij ",
   "link": "https://www.omroepbrabant.nl/nieuws/6026279/man-steelt-vrachtlading-schoenen-bekijk-hier-de-beelden"
+ },
+ {
+  "id": "7579821ed8",
+  "datum": "2026-09-07",
+  "tijd": "14:45",
+  "nieuw": false,
+  "titel": "Man steelt vrachtwagen vol met schoenen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "goud",
+   "vrachtwagen"
+  ],
+  "samenvatting": "Een vrachtwagenchauffeur komt bij een logistiek bedrijf in Oud Gastel om zijn vracht op te halen, maar wat blijkt? Een andere man is er een dag eerder, op 2 april, al met de lading vandoor gegaan. De politie deelde maandag in Bureau Brabant beelden van de verdachte. Dinsdag heeft de verdachte zich gemeld bij de politie",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026279/man-steelt-vrachtwagen-vol-met-schoenen"
  },
  {
   "id": "a093871f19",
@@ -4339,6 +4401,25 @@
   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNS1VxVWkxUTlkYUZTZV82TGNwYmFnNHZvSzlSUUt1b2ZWR3NGbGRzdkdvWlZ6MHYwU01KYU1UVFM0NFpOSTNKLTQ1WTBfOHQydEFqWlNKby03WFV0WWFkT2VySWhTbmZaMEFfdkdoZW1Gcm4zQmVRY2lyNkpDX2JVUlVRaXhWcHdBc255Tm42UVY0eVFTMlpONHY4aThxTDdzMzhZQnJQWXVYNE5ieEx2cDRnSy12SUhycVFTTjR3MFRkbDJEYS1rc2otWFZibmo5a3czV2xCVldaREEzOVEySXBBUjByN0VkWTlGRHVWTzBCNHpTXzQzSzIxUi0waFowMGliVHFTamNONUJtRUE?oc=5"
  },
  {
+  "id": "bfdc7d20b3",
+  "datum": "2026-09-02",
+  "tijd": "19:04",
+  "nieuw": false,
+  "titel": "Heemskerk gaat de strijd aan met mensenhandel. Maar politiek nog niet tevreden met beleidsplan: ’We vinden dit te mager’",
+  "bron": "Haarlems Dagblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Heemskerk gaat de strijd aan met mensenhandel. Maar politiek nog niet tevreden met beleidsplan: ’We vinden dit te mager’ Haarlems Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbEs3MFNFSjVGNWJBS1YtQmVFdURBbDFKREtkNkdoNlc0am9rRldXTVRXc1daY3pIeEtrT1VRazQ0TXRNLVMzanNEN2JiY3lTUjI2SDBwdHpaZFZSeG5uRUFtTnlvcVlEVkhKSFQ2bnRCeXkyN2xkVEhwV21JYmljbWtyU0k1eHZfV2p4ejljbFpjcHhVeFEzbHFMc3lhaUNCMlhNQTgxcEZFbHFJRExvaW9Ial9ZTEZ2eFdBeGZnVjBsajBqeEU3ZG4tOE5EWFJKdGx6aElETW5XNGZEOTREVy14NmMyU2xXVjR1ZDNNcUtsbjhlZ25VZFBPV1BJOVl3MElCLWphSQ?oc=5"
+ },
+ {
   "id": "b60b7a10df",
   "datum": "2026-09-02",
   "tijd": "18:45",
@@ -6032,6 +6113,25 @@
   ],
   "samenvatting": "Rijk worden én een brandschoon huis zonder veel moeite? Luister naar de nieuwe podcast ‘Witwassen’ Libelle",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ09xSnY3Z0hfNDRPcVBtSGd5eUhVUDVMS0lmc3huVE5tSlhyT2lKcHRKc3lfczBRM1g0NXAxdkNsUmw1Y1ZucmJmTjBCM1dkd1B1NTdmTFZEdUJQNy1WZDJFYS1faGZxaGptcTB2c2c5ZUhoS29WSG9jdHpwR3ItODR1azYwNFk?oc=5"
+ },
+ {
+  "id": "576e61a16a",
+  "datum": "2026-09-01",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Rijk worden én een brandschoon huis zonder veel moeite? Luister naar de nieuwe podcast ‘Witwassen’",
+  "bron": "libelle.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Rijk worden én een brandschoon huis zonder veel moeite? Luister naar de nieuwe podcast ‘Witwassen’ libelle.nl",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3FlRXhuNXl3SWJvd1Vqd0V4SXZIbUZMSkxYZjg5WTItY1IxSXI2Wk85dXVIUWJaYmxQWkhCTy1xanhheGNXQUx0ZnRqTVN4RUtpaUNKajBsZ1VySTRONF9xOGJRRnFsbWlJOS1naHlVckhmOUVZWkFOb1M0bEFIR2ZkbEloZmNj?oc=5"
  },
  {
   "id": "de7ddd47f5",
@@ -17119,6 +17219,25 @@
   ],
   "samenvatting": "Handhaver loopt openstaand pand binnen en ontdekt drugslab, maar foutje van agent kan grote gevolgen hebben bd.nl",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVHViY3FiT3pGb3BLMGZOU01JdDd4OWhaWmRsXzBKSEFpMkItUDF3WGNXdThDOFZFS3pRc2g4ZTBVeVF3SEpvR1ozc19zZ2JGeDFGQWx4eF9aMXdteWNnNTRCX0I0Y0ZkazBXSVplalBXWENJUVhnMy1RT2ZBSFprUkZfSmFNVU5uVXdmU19HMjZGbHppU0Z6alU3X3ZaM0FDS3VGU0N3R1dBcm5LS1gtNDRPQkpjd0llS2xFbTAtQUlCaHNRbTEwa1NHTGR5NFZsN0MxaQ?oc=5"
+ },
+ {
+  "id": "25a0323288",
+  "datum": "2026-07-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Waarom drugslabs zo vaak opduiken bij alleenwonende mannen als Jan (70) en Jappie (66)",
+  "bron": "dvhn.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Waarom drugslabs zo vaak opduiken bij alleenwonende mannen als Jan (70) en Jappie (66) dvhn.nl",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb3J3cF9ES1I2Uk1CeGtVaWdWaFFVTEpSdk9kY0U5MGxPbkxER3c4MV9tbVV1eFhKN2dod1hwZUZnNVFmem5YdTk0eExvcWdoN0VhVlJCRGMyb1dydzhGNi0wdURjbTlMWVhMd3czN2dUdnJuRThnVDNTb2IweXQ2LWVrbDhmbzdwaFJOXzN4TnlrOXJxbkRNVW1FMDItLXZueHlmZ1NOSVBScXJuUXJWTk9XalNsOG9iWE1aejBKX0lCNk5RNFRhbURKUQ?oc=5"
  },
  {
   "id": "76647f81a9",
@@ -35743,6 +35862,27 @@
   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTmdUaC1GWEZpdElMVnNIbHdQcGhGbXZaX0xUcFJhdVlQWFRKdWUtLVpBU0JEU1B1a0lXbV9oRzdiVXRGWnpON1V6aTRlc2V6Q09MU2k5aF9fb3BHTmtqdU04WW9EdDhnWkRsOWNreDBkbkdyNDVWV3VIdjNycl9GcVBxU2xwXzlsR2l0OWJLY2RORlBJWncyUk9lYkdQbHoyNktIWHdaRXd0MXQ4eTRVNkcySzJZY0JHVERZU2RiVDJyY1k1RWdwbUJ1eVB3X3ZKY3hBcXhVQm41RWZwYzN5SGJqWnVpZjc5QkcwNVg1aVB3SG5wUzFBVDc2dHBtb3c1TVNYbVFCNUdQZFo4?oc=5"
  },
  {
+  "id": "7658420805",
+  "datum": "2025-07-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugsafval in een lokbus van de politie: mensen zien het wel, maar melden niet",
+  "bron": "RTV Oost",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Drugsafval in een lokbus van de politie: mensen zien het wel, maar melden niet RTV Oost",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkQ3X3B4UEM3VGxhWnY3N3RNV2RncFNDR0k2UXIxVTY0elJ4eUluYXNNZU1hQnJiaGpHZkQ5X19OQmFDNjJnWHZFbWxoMDJ2UnJDQ3VpQkZQY0JrOVBNM0hjb093TzB1eUxXOXgwSUNyWWhQY2VSam9waTNtYWJGSDBVM3l1d1BzOWxBR21ndFNEbkxuLUF6Ym03MVdkX2d6V0NvU1F5SHdvSkQ5WkRGMA?oc=5"
+ },
+ {
   "id": "74c71bb6a3",
   "datum": "2025-07-21",
   "tijd": "07:00",
@@ -35889,6 +36029,25 @@
   ],
   "samenvatting": "Rechtbank Overijssel doet uitspraak in onderzoek naar grootschalige hennepteelt in Twente De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPdGozRU9lcTI3d1RpLUxZTzRPYnRPWUJxbWJTbkw2TE51aF9PY1V4VkZFbmoxQU5pbm5sMW9tell4SXl1WWJrd1N3V0didEpJanBCSlFzTWlDdGdYRVRham9ndnA0NUdnR0dGcWo5MzVmUnVqbEpld21yQlVDU1JCN0t3UzZOWlQxeWlrb09UMDNvYnNMYTBKazZzMlVpS0FBS25xZHVLaGVpVS1MX0RKSUNGNWlFX01yZXRqT1BjYXRjbFMxVXI2TXpLeU1BQkFsVGJ2WHN0TzJSUGotX1Y5MlZTZzVJWG9nc1JQRTI3M08xb0ZXY3doMVFlV29ueHNlNUZOZlBVblduaDZBQXU0LXJBS3BQbEhORFR6bnotNWtyOG9BTVE?oc=5"
+ },
+ {
+  "id": "c939364c15",
+  "datum": "2025-07-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Mannen uit Utrecht en Woerden opgepakt voor drugslab in Noord-Holland",
+  "bron": "RTV Utrecht",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Mannen uit Utrecht en Woerden opgepakt voor drugslab in Noord-Holland RTV Utrecht",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjFBMHNYUkZjZ3cyN0JnX01Xd3pUamRQS3U1Z20td3JPSTlobWJ0VW1tVzA1LTdGZ1NvNUJqNl9LZFkybVJ4STZKN2FTT2RKRjY4WUc5akJWXzdTaUhXbTdzLThLeFJSTEpTLVFoQ2tsalRZek5ydzJCTzYwQTR0aXU3RTdTQ2lxNC1QRTAwTUpnclVXMmVKSjRkX2owZzEtYlIxWnNTaEFQQ1VvSnFv?oc=5"
  },
  {
   "id": "b60c27ae92",
@@ -41045,6 +41204,28 @@
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmdvdVhBa3Nsc2RHN0EzZkVSMFdVTF9TM1VyRHlYdUV6Slpab0dpSnNMUm0wenFNQXduZm95aXlSSkp5UTRDVDhTSWtxeVU1cV8wN05FTGxZaGNiMFplOHpBblZfQWZFanFJaTRiR0RvR2Q0dXc2OTVPQmJxVV9IMTlDSll1aEUxcm1aX2RlMjNaUmVo?oc=5"
  },
  {
+  "id": "ca430b4d98",
+  "datum": "2024-08-29",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Mest met drugsafval uitgereden op akkers in Baarle-Nassau",
+  "bron": "NU",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval",
+   "mest"
+  ],
+  "samenvatting": "Mest met drugsafval uitgereden op akkers in Baarle-Nassau NU",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT281Ny1TbmlsejQ0eDBVNmJQM2hUa3pJcUo2MXFYTDdXR0UzcVNLa0FQQTRCVjItdC05cVljSnk1Q2NieHh2TmIzbmRPSW5kMXU0R1lTdjVldDBHNWk2c2NqNmFmeWVDdUJLbkx1bUlZbzUyZV83YTRLRV9seks1V1RqQklSTFUyc1prVkdGUWF6a3JsdlFBWldLWm5HTVhu?oc=5"
+ },
+ {
   "id": "cff123413d",
   "datum": "2024-08-28",
   "tijd": "07:00",
@@ -41358,6 +41539,27 @@
   ],
   "samenvatting": "Tiener opgepakt voor mislukte aanslag met handgranaat in Spijkenisse Hart van Nederland",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX3o1SWpMNDg5N0hCelpmdHJNWGs2VWNjWTlhNXZDV053RVhBeVBvdGlDRlJ1MV9IQW9zOWwta1BRWjE4RjUwb1pQWjZVeVJpVEZYT1Z4T2lDWEI4NjZTc2I3dXBhT29YVF9LdFlrRkVXV1BnQVlZc2FqaGxnQ1RJWDdtM1hVMm5QYlB0eFplTWNMUTQxX0plZ0RHWWljamM4VlZVdjNWMENERHFfa2VfeHVqSHMyYmFMYzlpNA?oc=5"
+ },
+ {
+  "id": "a5ada42707",
+  "datum": "2024-07-31",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie valt loods binnen en treft drugslab aan: vier arrestaties (update)",
+  "bron": "RTV Noord",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "loods"
+  ],
+  "samenvatting": "Politie valt loods binnen en treft drugslab aan: vier arrestaties (update) RTV Noord",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFByd295eUhHTmplYndYakxYaE4zTl9HdFMwc09kUnppbGNRbW1rRUlrREtuSlNUWkFXeVhpS3dfYjJXLVNXUUQxaXo1MmEwTWlrWUVaSGxhLWpNRXZ2ekRuSVZ1SU1tcm9VSExtUGxHcWN6N3dSUDdWUFctbWtnNHBQVDdtM1BZZjRiS19FZkNTRDdBd3JfUV96YUFCQ2RIdGhZZ25fUzgwWGc?oc=5"
  },
  {
   "id": "a5525fa2f2",
@@ -43250,6 +43452,25 @@
   ]
  },
  {
+  "id": "89ad1ecc02",
+  "datum": "2024-02-04",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zo gevaarlijk is een drugslab in een woonwijk: 'Grootschalige controle nodig'",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Zo gevaarlijk is een drugslab in een woonwijk: 'Grootschalige controle nodig' NOS",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2I4S0o3eDBGdEl2ZTlkd3FkS3JkRmZVRUNOXzhDN3U1OVYxOEdYY2hSU3g3TjRvX1ZBQkRHUlJBR1RqbEtkQ2gxSmU2R1hWa0N5a01mSUk2d0tPWWN5TkRIZUFoc1VmVk9JeEx6MENxLUdRLUIxY1dIMTN4Y3VLeDdoQ3p5UDhSbE5lMHQ4WkdMWjRWdGFOX3BVSW1RUGVXeHUyc1N5c1EzbEpoYmhTOVE3UmRvUThmX1RSczlIeDViNDlZTmQtVVFXaw?oc=5"
+ },
+ {
   "id": "86035a024d",
   "datum": "2024-02-03",
   "tijd": "08:00",
@@ -44477,6 +44698,28 @@
   ],
   "samenvatting": "Zeven verdachten veroordeeld na opzetten illegale gokzuilen in cafés en witwassen van geld De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPRkxabmdBR2g4V2I1anFqZVpSXzd5M0hjem5YbGVpRG9WZU9sRjlLbXpRd1RkRUlxYmE4TWtfc3dRU0hWdV9vS183N0VDRzlnc3JNT2RocWFKTHV3cVA3NjVwVDQ4RGJNQkZ2M1Z4eVdCbUowcF9SMDBwQ0pmV25jNGM4WW94Wk9iYzM5YXRicXhwQW9hdnozNGZJZHhoYTlOWnc3UlpFZ1VZdmVBeElNNVE3YWJSbmxfLWZIRmhXanBoMWNWSlhidzZ5TVlLY21hR2RGX2xhZHVZQmJ5TFpjRGM1VjYwU0hJQi1mOWo4WWo4dHlrQk5WbGs3OTlZbEhzb0ZuYjdTRjlvOVFlbXVvWWFub1RYZEpKS2JadXQyYmVZNmNN?oc=5"
+ },
+ {
+  "id": "29a8a755b3",
+  "datum": "2023-11-29",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zorgen over drugsafval: niet meer in jerrycans maar rechtstreeks in de grond",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval",
+   "grond"
+  ],
+  "samenvatting": "Zorgen over drugsafval: niet meer in jerrycans maar rechtstreeks in de grond NOS",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUEVwUXp5by1uMHVKeW8wbUZab2xiMjlodDUwTzdscEJRZWQ1b01Yd1VpMDc1TDJ6aDd3NnpDWTFqaG9oMFBBN3VlNzROZUNkaUxwZkM2OG5aTUozUW9LT1hfQTBQX3ZoWFh5c29jREJpbnpKc1BEd0lLWEhKa0dNdmM2T2VwbElvb3FLSWwwZGtRQmp4eEo1cjZUWWRCSVg4OEs1UE43TVAxeVlYT01oM3VIcWxmekU?oc=5"
  },
  {
   "id": "089aa8ea98",
@@ -56415,6 +56658,26 @@
   ],
   "samenvatting": "Liquidatie Amstelveen: vrouw was bekende van de politie NH Nieuws",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDNsdWNYdWc4NWlLM2RtM3daY1pqdHlDZndKRVFVY1BUaG5fV1RrdWw3MXFLS0hYM1YwbUd6WGF0NjI3WEpoVU5NZ01lSHo5Y0hzVUNTRi1GdDlJT3Uwcm9fcXl1RndfdF8xZGxoQmtSQ1pfNGVPWmlGejQ2TTdBUUIwcHVhQk0yd3plbDVwMjNvTVUyQ1FR?oc=5"
+ },
+ {
+  "id": "0ceeacc96b",
+  "datum": "2014-11-25",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Ambtenaar en aannemer Enschede in hoger beroep vrijgesproken van corruptie",
+  "bron": "RTV Oost",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie"
+  ],
+  "samenvatting": "Ambtenaar en aannemer Enschede in hoger beroep vrijgesproken van corruptie RTV Oost",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODdhVzZ0SlBkdjBMcVVjTDBWU1NvMENQVXZVOTdGRG16blA3VGhFR3NMLWdqZU52Nks3YWNFRzdFRTNfc3FUcTFKQWZpdUJmZjlIWXI1azZmSHFLRHMzRXNNWUhWSHBpTElpdk1JRjVKN2swOFJMaDYxSGlsaUVBMVBtcHBFUC1DaGc3WVFmRXF1V2d5YmdOLU1EX1hreUhhVGQyS1ktMW1DLUtr?oc=5"
  },
  {
   "id": "acf1984bb6",
