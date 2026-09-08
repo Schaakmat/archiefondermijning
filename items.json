@@ -286,7 +286,7 @@
   "id": "f9d5322f94",
   "datum": "2026-09-08",
   "tijd": "15:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dodelijke schietpartij, gewonde agenten en 34 verdachten: de tijdlijn van Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -307,7 +307,7 @@
   "id": "2e7a286059",
   "datum": "2026-09-08",
   "tijd": "14:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "679 signalen van zorgfraude kwamen binnen bij Informatieknooppunt",
   "bron": "Skipr",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -326,7 +326,7 @@
   "id": "5e33236528",
   "datum": "2026-09-08",
   "tijd": "14:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man en bedrijf uit Zevenaar veroordeeld voor medeplegen witwassen: negen maanden cel en geldboete.",
   "bron": "RTV Connect",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -345,7 +345,7 @@
   "id": "93736a3d37",
   "datum": "2026-09-08",
   "tijd": "14:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aandacht voor ondermijning in het buitengebied",
   "bron": "Hart van Nijverdal",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -366,7 +366,7 @@
   "id": "9d2d5729a0",
   "datum": "2026-09-08",
   "tijd": "14:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Gewetenloze moord' op echtgenote': twintig jaar cel geëist voor femicide",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -387,7 +387,7 @@
   "id": "dd8e83f6de",
   "datum": "2026-09-08",
   "tijd": "13:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gedupeerde toeslagenouders doen aangifte tegen ambtenaren om datakluis",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -971,25 +971,6 @@
   ],
   "samenvatting": "In een containerschip dat op weg was naar de haven van Antwerpen heeft de Franse douane duizenden kilo's cocaïne onderschept. Het schip kwam uit West-Afrika en de container met de drugs zou worden gelost bij een bedrijf in Dordrecht. Volgens De Telegraaf was een deel van de lading van drugscrimineel 'Bolle' Jos Leijdek",
   "link": "https://www.rijnmond.nl/nieuws/2250203/duizenden-kilos-cocaine-moesten-naar-dordrecht-lading-behoort-toe-aan-bolle-jos"
- },
- {
-  "id": "b41a088273",
-  "datum": "2026-09-07",
-  "tijd": "15:58",
-  "nieuw": false,
-  "titel": "Juwelier vreest voor leven tijdens overval: 'Ik nam afscheid van mijn man en kinderen'",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "juwelier"
-  ],
-  "samenvatting": "De eigenaresse van juwelier Chalcedoon in Capelle aan den IJssel heeft doodsangsten uitgestaan tijdens de overval op haar zaak in januari. \"Het ergste is het mes tegen de hals. Op dat moment heb ik afscheid genomen van mijn man, mijn kinderen en kleinkinderen. Ik dacht dat ik het niet zou overleven\", vertelt ze in een ",
-  "link": "https://www.rijnmond.nl/nieuws/2250103/juwelier-vreest-voor-leven-tijdens-overval-ik-nam-afscheid-van-mijn-man-en-kinderen"
  },
  {
   "id": "8277672e2b",
@@ -52248,6 +52229,27 @@
   ],
   "samenvatting": "Man uit Werkhoven spil in grootscheepse handel van wapens aan criminelen RTV Utrecht",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1pzSk9NSU1GcXJ4eWxONV9md1NjbHJWdnJlMmIxUmlQVElWRGJxX3F1UU9ySUlhdlJLazluX1VfanYwaWpkdVVlRWpjVnc2ZnBUUzJTdFFHTWtnZ2N2NkpXeU53QVVqcEIyZFdqOGYyX3lJV2ZsTjR0bGNYY2tMQWlZaVVZUjlSd3JIaEFBTVpwSEFXM1cwd1dUVlNYVlFmeVNEWXV2dEZ6c1NCQkdkc2hUZw?oc=5"
+ },
+ {
+  "id": "e0091c38ee",
+  "datum": "2020-09-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Assenaren voor de rechter voor witwassen drugsgeld en criminele drugslijn",
+  "bron": "rtvdrenthe.nl",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "drugslijn",
+   "witwassen"
+  ],
+  "samenvatting": "Assenaren voor de rechter voor witwassen drugsgeld en criminele drugslijn rtvdrenthe.nl",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVRLblE5TExyd25BMGJXN1Bvc28tT0hwQ3l2UGk3NFBHMVU2SlM2QWRRMm4xSnRHcllEOWgtVWNTZmxhbkRVVm9hVVhfYkpFdDNMOXluaGpkc3UwTklUMVAwdk03NzhMMGNaWHctSDdkWjRPVTQ4ZHJRNHdPc0VxSFg1NnI2dDNkZlZLV2lCN0Z4Qnl0dy1QU2lMZ1hyajktU1d2YlNMbjdGblFlZ3RBX2FMdVBDUQ?oc=5"
  },
  {
   "id": "dae2a95714",

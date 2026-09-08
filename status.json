@@ -1,12 +1,12 @@
 {
- "run": "18:38",
+ "run": "19:33",
  "datum": "2026-09-08",
- "nieuw": 20,
+ "nieuw": 14,
  "totaal": 2887,
- "verwijderd": 15,
+ "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1041,
-  "geen dossier": 493
+  "niet-nederlands": 1069,
+  "geen dossier": 508
  },
  "bronnen": [
   {
@@ -104,8 +104,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 65,
-   "status": "bij",
+   "items": 66,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -393,7 +393,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 40,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 63,
-   "status": "2 nieuw",
+   "items": 62,
+   "status": "bij",
    "ok": true
   },
   {
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 18,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 47,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
