@@ -1,5 +1,26 @@
 [
  {
+  "id": "4efc35aca9",
+  "datum": "2026-09-08",
+  "tijd": "15:20",
+  "nieuw": true,
+  "titel": "8/9 in Nieuwsuur: Woede na vrijspraak zakenman Malta • Staatssecretaris over leesvaardigheid • 25 jaar Guantanamo Bay",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "moord",
+   "school"
+  ],
+  "samenvatting": "Staatssecretaris Tielen over leesvaardigheid De afgelopen week keken we in onze serie 'Het lezen verleerd?' naar het leesonderwijs in Nederland. Daar is het namelijk niet zo goed mee gesteld, blijkt ook vandaag uit het internationale PISA-onderzoek. Bijna 40 procent van de 15-jarigen kan niet goed genoeg lezen om mee t",
+  "link": "https://nos.nl/l/2630186"
+ },
+ {
   "id": "dd8e83f6de",
   "datum": "2026-09-08",
   "tijd": "13:24",
@@ -17,6 +38,25 @@
   ],
   "samenvatting": "Een groep gedupeerde toeslagenouders heeft vorige maand aangifte gedaan tegen ambtenaren van het ministerie van Financiën, de Belastingdienst en de Dienst Toeslagen vanwege verborgen data in een zogenoemde datakluis. Dat bevestigt advocaat Merijn van Leeuwen na berichtgeving van Trouw . Van Leeuwen staat honderden gedu",
   "link": "https://nos.nl/l/2630168"
+ },
+ {
+  "id": "d2007d04ed",
+  "datum": "2026-09-08",
+  "tijd": "12:40",
+  "nieuw": true,
+  "titel": "Twee weken oude ezel Pleun doodgeschoten teruggevonden in wei Ezelpaleis",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "doodgeschoten"
+  ],
+  "samenvatting": "Ezeltje Pleun, die maandag verdween bij Het Ezelpaleis in Baarle-Nassau is dinsdag, zwaar toegetakeld, dood teruggevonden in de wei van de ezelopvang. Volgens eigenaresse Marlhene Mouws is het twee weken oude ezeltje doodgeschoten. Na een lange zoektocht maandagavond en dinsdagochtend waarbij Pleun niet werd gevonden, ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026415/twee-weken-oude-ezel-pleun-doodgeschoten-teruggevonden-in-wei-ezelpaleis"
  },
  {
   "id": "6e2d05d85d",
@@ -38,11 +78,11 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523012/opstoppingen-op-wegen-in-buitengebied-zeewolde-door-afsluiting-a28-vanwege-onveilige-brug"
  },
  {
-  "id": "5c3c4bf7c8",
+  "id": "987cac60a8",
   "datum": "2026-09-08",
   "tijd": "12:18",
   "nieuw": true,
-  "titel": "Ezeltje van twee weken oud gestolen bij opvang: 'Pleuntje is weg'",
+  "titel": "Groot verdriet bij Het Ezelpaleis, Pleuntje van twee weken oud is gestolen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -54,7 +94,7 @@
    "goud"
   ],
   "samenvatting": "Groot verdriet bij Het Ezelpaleis in Baarle-Nassau. Maandagavond verdween de pas twee weken oude ezel Pleun uit de wei achter de opvang. \"Het is heel treurig, ik maak me grote zorgen\", zegt een hevig aangeslagen Marlhene Mouws van de ezelopvang. \"Oh, daar ga ik weer met mijn gejank.\" Marlhene Mouws van Het Ezelpaleis i",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026412/ezeltje-van-twee-weken-oud-gestolen-bij-opvang-pleuntje-is-weg"
+  "link": "https://www.omroepbrabant.nl/nieuws/6026412/groot-verdriet-bij-het-ezelpaleis-pleuntje-van-twee-weken-oud-is-gestolen"
  },
  {
   "id": "5c57d5de9a",
@@ -242,11 +282,11 @@
   "link": "https://www.ftm.nl/artikelen/door-europa-gefinancierde-bedrijven-verbrassen-geld"
  },
  {
-  "id": "313ce5faec",
+  "id": "4db0cdc924",
   "datum": "2026-09-08",
   "tijd": "06:00",
   "nieuw": true,
-  "titel": "Almere - Kerk wil Almeerse moeder uit huis zetten na huurschuld van 6.000 euro",
+  "titel": "Almere - Kerk wil Almeerse moeder uit opvang zetten na huurschuld van 6.000 euro",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -262,7 +302,7 @@
    "woning"
   ],
   "samenvatting": "Een alleenstaande moeder uit Almere betaalde maandenlang geen huur aan de Protestantse Gemeente Almere. De kerk raakte het vertrouwen in haar huurder kwijt en wilde haar uit het huis zetten. Daarom stapte de kerk naar de rechter. \"Mevrouw woont voor een koopje, betaalt geen lor, we zijn het helemaal spuugzat.\" Sinds de",
-  "link": "https://www.omroepflevoland.nl/nieuws/522969/kerk-wil-almeerse-moeder-uit-huis-zetten-na-huurschuld-van-6.000-euro"
+  "link": "https://www.omroepflevoland.nl/nieuws/522969/kerk-wil-almeerse-moeder-uit-opvang-zetten-na-huurschuld-van-6.000-euro"
  },
  {
   "id": "623c2eeb23",
@@ -352,7 +392,7 @@
   "id": "ef415c748f",
   "datum": "2026-09-07",
   "tijd": "22:05",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Odido-hacker te horen in Opsporing Verzocht: 'Hij ging heel gewiekst te werk'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -376,7 +416,7 @@
   "id": "d1ca9f0652",
   "datum": "2026-09-07",
   "tijd": "22:02",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Dinsdag op tv: Rudi Vranckx duikt in synthetische drugs en Axel Daeseleire praat met de doden",
   "bron": "De Standaard",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -47582,6 +47622,26 @@
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFZHWVRfZXJNV0hZVUVMeXhOV0owc2l2T0oxOWp0ZE5hNmtyVWFOem9CYm52QTAyQmp1ZktCT1VSZ09OM055SERETllsU1M2QndXTUVkRnlUYkx4VDdhM2xsU19yS01saXRKTThkX1h6ZlBVM0NqUWRYNWRmd0dQYjlhcHlQNVFZVjRGWEpyWW5Fb1hhWWhOeWRMc1BlTHUxTE9meGY3Y2RkbVJlUmwzZWVJUG9mcTE4cUE?oc=5"
  },
  {
+  "id": "3003d7e1a6",
+  "datum": "2023-01-06",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie stuit vaker op hennepteelt in Land van Cuijk. ‘Is vermoedelijk golfbeweging’",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepteelt"
+  ],
+  "samenvatting": "Politie stuit vaker op hennepteelt in Land van Cuijk. ‘Is vermoedelijk golfbeweging’ De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT2xVUTZXMUg1RHJ1empJX0ctMlpnLTFEWldQbDFWbXFDOTllYXJKaDRtY2owazlMQ0pabmRLdzJ3QjVic0dlaUFndlJHYTVTUzNseHZfTzRIQnJrQXVxTVZaMmxpeGR1blVZMzhkNEVWT2QzTzEwZWNLNzNLN3RLazM4QUVjMmNSSFk5X0VueHBwU1VOZzhxNE05ak5KTnN5cWRPaXFYSnI5T0trZG1WVThFZUZTOXRuRVQ0djJiTVdDdVFMSWRsMmFjV1NKcVU?oc=5"
+ },
+ {
   "id": "e40cc2bbcf",
   "datum": "2022-12-24",
   "tijd": "08:00",
@@ -51563,6 +51623,25 @@
   ],
   "samenvatting": "Zes aanhoudingen voor drugshandel, witwassen en deelnemen aan criminele organisatie Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbl9xMHRSdzlZVW45YVZ5VjloZDNFRWNMV01GNW9ZTmVSQnd5dWpaVVdIZEVUbTdjQnJGR3dnVS12NDdiTlJRTkI0QUhXTXRqZVBIeGRRSUFDNlpKS1F6UE1xb3NYMUhwc3lYdkNEcnQwSVNJUXNVU0lkYlJqQVFXcjlqYm10MW91VnhNdGFVb041R25kaTRpUEJkMzFXNzUwMXVSdll2aWcyUXREYVpJdVlRMERyV0tXRG9BVlZIQjFQYVBu?oc=5"
+ },
+ {
+  "id": "26c2b67684",
+  "datum": "2020-11-27",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Project C afgewezen voor wietproef, streep door legale hennepkwekerij in Etten-Leur",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Project C afgewezen voor wietproef, streep door legale hennepkwekerij in Etten-Leur Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNlBsODc4YXkybXVFbmdzRnB4Y0RxcUN1cG5zX0NRZWNsdWtaRGlIbTdWbEpvWllWX09wRWh6LXdrRFNKc2RMdDIxM005UWxLalM5c09JUXpXSXR6VS1iUnNOVU1yb05WcUdocnhtUm93a0F4UnctcU8wT2NGUVllVXJON2NxQmc2NWs3akxzSThCY2VkV05SaW8wM21IdFpwTUpjUUZrbFdOX1dXektiWW9fVGpOckhFSHZ3aXk1NWMxb0Y2?oc=5"
  },
  {
   "id": "fb26225c08",
