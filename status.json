@@ -1,11 +1,11 @@
 {
- "run": "04:33",
+ "run": "05:31",
  "datum": "2026-09-09",
- "nieuw": 15,
- "totaal": 2898,
+ "nieuw": 16,
+ "totaal": 2899,
  "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1045,
+  "niet-nederlands": 1061,
   "geen dossier": 482
  },
  "bronnen": [
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 83,
-   "status": "bij",
+   "items": 84,
+   "status": "1 nieuw",
    "ok": true
   },
   {
