@@ -1,5 +1,26 @@
 [
  {
+  "id": "7a69adf928",
+  "datum": "2026-09-09",
+  "tijd": "20:49",
+  "nieuw": true,
+  "titel": "Flevoland - A28 rond middernacht weer open voor het verkeer, herstelwerkzaamheden brug bij Nijkerk sneller klaar dan gedacht",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "stort",
+   "vrachtwagen"
+  ],
+  "samenvatting": "De A28 bij Nijkerk gaat waarschijnlijk rond middernacht weer open voor al het verkeer. Dat meldt Rijkswaterstaat. De snelweg ging maandag plotseling dicht omdat de fundering van de Hardenbergerbrug niet goed meer was. Rond de pijlers van de brug was zoveel zand en grind weggespoeld dat de veiligheid van de constructie ",
+  "link": "https://www.omroepflevoland.nl/nieuws/523219/a28-rond-middernacht-weer-open-voor-het-verkeer-herstelwerkzaamheden-brug-bij-nijkerk-sneller-klaar-dan-gedacht"
+ },
+ {
   "id": "f9b4a312fd",
   "datum": "2026-09-09",
   "tijd": "19:48",
@@ -20,7 +41,7 @@
    "schiphol",
    "school"
   ],
-  "samenvatting": "Vandaag reden in het hele land bijna geen bussen, treinen en trams. Ook veel veerboten voeren niet. Het openbaar vervoer werd grotendeels stilgelegd vanwege de 24-uursstaking. Die was georganiseerd door vakbond FNV vanwege de geplande bezuinigingen op de sociale zekerheid. Uit gelekte Prinsjesdagstukken bleek vorige we",
+  "samenvatting": "Vandaag reden in het hele land bijna geen bussen, treinen en trams. Ook veel veerboten voeren niet. Het openbaar vervoer werd grotendeels stilgelegd vanwege de 24-uursstaking. Die was georganiseerd door vakbonden CNV en FNV vanwege de geplande bezuinigingen op de sociale zekerheid. Uit gelekte Prinsjesdagstukken bleek ",
   "link": "https://nos.nl/l/2630359"
  },
  {
@@ -34,22 +55,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Crypto & digitaal geld",
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting",
-   "Witwassen & geldstromen"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "cashgeld",
-   "cocaïne",
-   "cocaïnesmokkel",
-   "contant geld",
-   "crypto",
-   "cryptovaluta"
+   "cocaïne"
   ],
   "samenvatting": "Een van de grootste 'onderwereldbankiers' ter wereld is opgepakt. Het gaat om Muhammad A. (46), die miljarden zou hebben witgewassen namens Nederlandse topcriminelen als 'Bolle Jos' en Ridouan Taghi. De man staat binnen de wereld van cocaïnehandel bekend als 'Saad de Paak'. Die naam verwijst naar zijn geboorteland Paki",
   "link": "https://nos.nl/l/2630358"
@@ -149,6 +158,25 @@
   ],
   "samenvatting": "Onderzoekers proberen te achterhalen wat er precies met ezeltje Pleun is gebeurd en Peter Gillis vecht voor het behoud van zijn vakantieparken. Dit zijn de vijf verhalen die je woensdag gelezen moet hebben. Een psycholoog waarschuwt na de dood van babyezel Pleun in Baarle-Nassau: dierenmishandeling is een rode vlag voo",
   "link": "https://www.omroepbrabant.nl/nieuws/6026630/gewelddadige-dood-ezeltje-en-rechtszaak-peter-gillis-dit-gebeurde-vandaag"
+ },
+ {
+  "id": "05a16f24d6",
+  "datum": "2026-09-09",
+  "tijd": "17:10",
+  "nieuw": true,
+  "titel": "Webcams schenden privacy, A28 weer open en opmerkelijke drugsvondst op 9 september",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Webcams in Gelderland brengen mensen herkenbaar in beeld, de Hardenbergerbrug in de A28 kan vannacht alweer open en in Overasselt zijn opnieuw vuurwapens gevonden. Ook is er een opvallende overeenkomst met een drugsvangst in Spanje. Dit zijn de belangrijkste verhalen van 9 september.",
+  "link": "https://www.gld.nl/nieuws/8520727/webcams-schenden-privacy-a28-weer-open-en-opmerkelijke-drugsvondst-op-9-september"
  },
  {
   "id": "760cc3997d",
@@ -303,7 +331,7 @@
   "id": "7d2e82e6c6",
   "datum": "2026-09-09",
   "tijd": "14:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Agent gaat vrijuit na schieten op vuurwapengevaarlijke verdachte in Hoogvliet",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
