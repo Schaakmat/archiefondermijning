@@ -286,7 +286,7 @@
   "id": "b693ba773f",
   "datum": "2026-09-08",
   "tijd": "16:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester wil gesprek na abortusprotest met bloederige beelden in Zwolle",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -305,7 +305,7 @@
   "id": "1ef0b1868a",
   "datum": "2026-09-08",
   "tijd": "16:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bloederig abortusprotest Zwolle schiet burgemeester in verkeerde keelgat",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -673,27 +673,6 @@
   ],
   "samenvatting": "Sterk gedaalde leesvaardigheid, dat is pas ondermijning van de maatschappij bnnvara.nl",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa29zTXFkRkg4R1lsZHNNN0hZWWtiNFNRRXp5RWdpRE9WR2NBdHlRTW9tUmh1Ti1YVlVXc3dWam9ac25HbW1BSjF5aDBBVlR0Q1ZxNHhsWXRTcTA3NGhNVU9RMUtySHZHVUhMclBNNG15ay13ckptWUpTVlB0eUxOR2xCOEdUSWpkTGwxNGo3azBRTjZkRVpHTTNUeDFaVzR2UFBnem9HSG5ZczJQSW5INnJR?oc=5"
- },
- {
-  "id": "af7c16cfe5",
-  "datum": "2026-09-08",
-  "tijd": "08:30",
-  "nieuw": false,
-  "titel": "Auto met benzine overgoten en aangestoken: ‘Ik weet wie hierachter zit'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "erf",
-   "woning"
-  ],
-  "samenvatting": "Metershoge vlammen, bewoners die met een baby van tien weken buiten staan en geschokte buren. Dat is het beeld dinsdagochtend in de Wagenaarstraat in Oss. Voor de tweede keer is bij hetzelfde huis een auto voor de woning in brand gestoken. Op beelden is te zien hoe een fles benzine over een Range Rover wordt gegoten. “",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026388/auto-met-benzine-overgoten-en-aangestoken-ik-weet-wie-hierachter-zit"
  },
  {
   "id": "9194afcfed",
