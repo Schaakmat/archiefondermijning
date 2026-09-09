@@ -285,7 +285,7 @@
   "id": "3933e967fb",
   "datum": "2026-09-09",
   "tijd": "15:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Meer klanten en hogere omzet voor Jumbo in eerste helft 2026",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -310,7 +310,7 @@
   "id": "330ec9004d",
   "datum": "2026-09-09",
   "tijd": "14:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Fietspad Gelderse Diep moet met voorrang betere verlichting krijgen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -1700,25 +1700,6 @@
   ],
   "samenvatting": "In een containerschip dat op weg was naar de haven van Antwerpen heeft de Franse douane duizenden kilo's cocaïne onderschept. Het schip kwam uit West-Afrika en de container met de drugs zou worden gelost bij een bedrijf in Dordrecht. Volgens De Telegraaf was een deel van de lading van drugscrimineel 'Bolle' Jos Leijdek",
   "link": "https://www.rijnmond.nl/nieuws/2250203/duizenden-kilos-cocaine-moesten-naar-dordrecht-lading-behoort-toe-aan-bolle-jos"
- },
- {
-  "id": "b41a088273",
-  "datum": "2026-09-07",
-  "tijd": "15:58",
-  "nieuw": false,
-  "titel": "Juwelier vreest voor leven tijdens overval: 'Ik nam afscheid van mijn man en kinderen'",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "juwelier"
-  ],
-  "samenvatting": "De eigenaresse van juwelier Chalcedoon in Capelle aan den IJssel heeft doodsangsten uitgestaan tijdens de overval op haar zaak in januari. \"Het ergste is het mes tegen de hals. Op dat moment heb ik afscheid genomen van mijn man, mijn kinderen en kleinkinderen. Ik dacht dat ik het niet zou overleven\", vertelt ze in een ",
-  "link": "https://www.rijnmond.nl/nieuws/2250103/juwelier-vreest-voor-leven-tijdens-overval-ik-nam-afscheid-van-mijn-man-en-kinderen"
  },
  {
   "id": "a19896d528",
