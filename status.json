@@ -1,12 +1,12 @@
 {
- "run": "21:30",
+ "run": "22:31",
  "datum": "2026-09-09",
- "nieuw": 16,
- "totaal": 2933,
- "verwijderd": 13,
+ "nieuw": 15,
+ "totaal": 2934,
+ "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1060,
-  "geen dossier": 491
+  "niet-nederlands": 1059,
+  "geen dossier": 507
  },
  "bronnen": [
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 185,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 163,
-   "status": "bij",
+   "items": 164,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 78,
-   "status": "4 nieuw",
+   "status": "3 nieuw",
    "ok": true
   },
   {

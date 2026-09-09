@@ -36,8 +36,7 @@
   ],
   "tags": [
    "afval",
-   "drugsafval",
-   "grond"
+   "drugsafval"
   ],
   "samenvatting": "In een weiland langs de A50 aan de 126ste Wingweg in Nistelrode is woensdagavond een vloeistof gevonden. Vermoedelijk gaat het om vloeibaar drugsafval dat in het weiland gedumpt is. Welke vloeistof er precies is gevonden, is nog niet duidelijk. Er hing bij het weiland een sterke, zoetige geur, die typisch is voor drugs",
   "link": "https://www.omroepbrabant.nl/nieuws/6026636/vloeistof-in-weiland-in-nistelrode-gevonden-mogelijk-lozing-van-drugsafval"
@@ -47,7 +46,7 @@
   "datum": "2026-09-09",
   "tijd": "20:23",
   "nieuw": true,
-  "titel": "Brug A28 bij Nijkerk weer gedeeltelijk open na spoedherstel",
+  "titel": "Brug A28 bij Nijkerk weer helemaal open na spoedherstel",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
@@ -58,7 +57,7 @@
   "tags": [
    "stort"
   ],
-  "samenvatting": "De Hardenbergerbrug in de A28 bij Nijkerk is in de richting van Amersfoort en Utrecht weer open, meldt Rijkswaterstaat. De weg richting Zwolle wordt naar verwachting ook snel geopend. De brug ging maandag plotseling uit voorzorg dicht. Rond de pijlers van de brug was zoveel zand en grind weggespoeld dat de veiligheid v",
+  "samenvatting": "De Hardenbergerbrug in de A28 bij Nijkerk is in de beide richtingen weer open, meldt Rijkswaterstaat. Eerder vanavond ging de brug eerst in de richting van Amersfoort en Utrecht open. Niet veel later volgde de weg richting Zwolle. De brug ging maandag plotseling uit voorzorg dicht. Rond de pijlers van de brug was zovee",
   "link": "https://nos.nl/l/2630361"
  },
  {
@@ -153,6 +152,27 @@
   ],
   "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Landelijke ov-staking legt vandaag trein- en busverkeer plat, deel EBS-chauffeurs rijdt wel • Leerlingen van Almeerse school die plotseling sloot vanwege on",
   "link": "https://www.omroepflevoland.nl/nieuws/523182/nieuwsoverzicht-0909-or-openbaar-vervoer-plat-*-nautilus-college-weer-open"
+ },
+ {
+  "id": "6c51240c54",
+  "datum": "2026-09-09",
+  "tijd": "18:04",
+  "nieuw": true,
+  "titel": "Brandweerman (40) uit Almelo volgende week voor de rechter voor mensenhandel, kinderporno en online misbruik",
+  "bron": "Moordplekken.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "mensenhandel",
+   "moord"
+  ],
+  "samenvatting": "Brandweerman (40) uit Almelo volgende week voor de rechter voor mensenhandel, kinderporno en online misbruik Moordplekken.nl",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHZCUVo0TGlJclRkUUNaMlZ0Z3VsQ2VfM3RRNFI1dVN6ci0tX0J4cjdLVTZIRW0xbFNnVmpyNUJOT2dOdktVZDZiSXRWWXVEWWUxS1VzRVpyekpCZk5QcnRHaDhXTEMzTlVyQjFYaERYcDJ2SG9ja0hNS2tRSEE3X25MaG5rZnBEbVdRaFZKLU5USkppNnllSk1wbE5HUUU2U1BtUFpHZ3FBWEptT3c?oc=5"
  },
  {
   "id": "0d8acc3cda",
@@ -305,7 +325,7 @@
   "id": "10b551b7ee",
   "datum": "2026-09-09",
   "tijd": "15:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dronten - Kinderen niet of te laat opgehaald: CDA Dronten constateert problemen met leerlingenvervoer",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -324,7 +344,7 @@
   "id": "8792f6742f",
   "datum": "2026-09-09",
   "tijd": "15:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Illegale bewoning en signalen van mensenhandel gevonden bij controle op ’t Plaveen",
   "bron": "HuizerNieuws",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
