@@ -1,5 +1,60 @@
 [
  {
+  "id": "f9b4a312fd",
+  "datum": "2026-09-09",
+  "tijd": "19:48",
+  "nieuw": true,
+  "titel": "Geen trein, tram en bus: dit was de stakingsdag in het openbaar vervoer",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "haven",
+   "leider",
+   "schiphol",
+   "school"
+  ],
+  "samenvatting": "Vandaag reden in het hele land bijna geen bussen, treinen en trams. Ook veel veerboten voeren niet. Het openbaar vervoer werd grotendeels stilgelegd vanwege de 24-uursstaking. Die was georganiseerd door vakbond FNV vanwege de geplande bezuinigingen op de sociale zekerheid. Uit gelekte Prinsjesdagstukken bleek vorige we",
+  "link": "https://nos.nl/l/2630359"
+ },
+ {
+  "id": "5525eff3f0",
+  "datum": "2026-09-09",
+  "tijd": "19:33",
+  "nieuw": true,
+  "titel": "Vermeende witwasbankier van Bolle Jos en Taghi opgepakt",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Crypto & digitaal geld",
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "cashgeld",
+   "cocaïne",
+   "cocaïnesmokkel",
+   "contant geld",
+   "crypto",
+   "cryptovaluta"
+  ],
+  "samenvatting": "Een van de grootste 'onderwereldbankiers' ter wereld is opgepakt. Het gaat om Muhammad A. (46), die miljarden zou hebben witgewassen namens Nederlandse topcriminelen als 'Bolle Jos' en Ridouan Taghi. De man staat binnen de wereld van cocaïnehandel bekend als 'Saad de Paak'. Die naam verwijst naar zijn geboorteland Paki",
+  "link": "https://nos.nl/l/2630358"
+ },
+ {
   "id": "7360f34ecb",
   "datum": "2026-09-09",
   "tijd": "18:45",
@@ -85,18 +140,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
    "Buitengebied & recreatie",
-   "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "camping",
-   "doodgeschoten",
    "geweld",
-   "vakantiepark",
-   "vergunning",
-   "vuurwerk"
+   "vakantiepark"
   ],
   "samenvatting": "Onderzoekers proberen te achterhalen wat er precies met ezeltje Pleun is gebeurd en Peter Gillis vecht voor het behoud van zijn vakantieparken. Dit zijn de vijf verhalen die je woensdag gelezen moet hebben. Een psycholoog waarschuwt na de dood van babyezel Pleun in Baarle-Nassau: dierenmishandeling is een rode vlag voo",
   "link": "https://www.omroepbrabant.nl/nieuws/6026630/gewelddadige-dood-ezeltje-en-rechtszaak-peter-gillis-dit-gebeurde-vandaag"
@@ -273,7 +322,7 @@
   "id": "c6181de8de",
   "datum": "2026-09-09",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Spotters trotseren stortbuien voor kiekje bij feestje op vliegbasis Gilze",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -294,7 +343,7 @@
   "id": "f2b2b87663",
   "datum": "2026-09-09",
   "tijd": "13:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "1283 kilo drugs gevonden, 'exacte' hoeveelheid drugs van dreigvideo Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -313,7 +362,7 @@
   "id": "2280c7e76b",
   "datum": "2026-09-09",
   "tijd": "12:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Goed verstopte' wapens gevonden bij basisschool Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -334,7 +383,7 @@
   "id": "c11553f7d1",
   "datum": "2026-09-09",
   "tijd": "12:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Urk - Motoragenten trekken scooters en fatbikes uit verkeer op Urk: 19 boetes uitgeschreven",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -1006,27 +1055,6 @@
   "link": "https://www.oost.nl/nieuws/3693601/bloederig-abortusprotest-zwolle-schiet-burgemeester-in-verkeerde-keelgat"
  },
  {
-  "id": "4efc35aca9",
-  "datum": "2026-09-08",
-  "tijd": "15:20",
-  "nieuw": false,
-  "titel": "8/9 in Nieuwsuur: Woede na vrijspraak zakenman Malta • Staatssecretaris over leesvaardigheid • 25 jaar Guantanamo Bay",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "moord",
-   "school"
-  ],
-  "samenvatting": "Staatssecretaris Tielen over leesvaardigheid De afgelopen week keken we in onze serie 'Het lezen verleerd?' naar het leesonderwijs in Nederland. Daar is het namelijk niet zo goed mee gesteld, blijkt ook vandaag uit het internationale PISA-onderzoek. Bijna 40 procent van de 15-jarigen kan niet goed genoeg lezen om mee t",
-  "link": "https://nos.nl/l/2630186"
- },
- {
   "id": "b10ef21981",
   "datum": "2026-09-08",
   "tijd": "15:17",
@@ -1644,6 +1672,25 @@
   ],
   "samenvatting": "In een containerschip dat op weg was naar de haven van Antwerpen heeft de Franse douane duizenden kilo's cocaïne onderschept. Het schip kwam uit West-Afrika en de container met de drugs zou worden gelost bij een bedrijf in Dordrecht. Volgens De Telegraaf was een deel van de lading van drugscrimineel 'Bolle' Jos Leijdek",
   "link": "https://www.rijnmond.nl/nieuws/2250203/duizenden-kilos-cocaine-moesten-naar-dordrecht-lading-behoort-toe-aan-bolle-jos"
+ },
+ {
+  "id": "b41a088273",
+  "datum": "2026-09-07",
+  "tijd": "15:58",
+  "nieuw": false,
+  "titel": "Juwelier vreest voor leven tijdens overval: 'Ik nam afscheid van mijn man en kinderen'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "juwelier"
+  ],
+  "samenvatting": "De eigenaresse van juwelier Chalcedoon in Capelle aan den IJssel heeft doodsangsten uitgestaan tijdens de overval op haar zaak in januari. \"Het ergste is het mes tegen de hals. Op dat moment heb ik afscheid genomen van mijn man, mijn kinderen en kleinkinderen. Ik dacht dat ik het niet zou overleven\", vertelt ze in een ",
+  "link": "https://www.rijnmond.nl/nieuws/2250103/juwelier-vreest-voor-leven-tijdens-overval-ik-nam-afscheid-van-mijn-man-en-kinderen"
  },
  {
   "id": "a19896d528",
