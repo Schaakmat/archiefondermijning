@@ -1,5 +1,28 @@
 [
  {
+  "id": "92a4298713",
+  "datum": "2026-09-09",
+  "tijd": "09:57",
+  "nieuw": true,
+  "titel": "Niet veel drukkere spits ondanks ov-staking, drukte bij deelautoplatforms",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "haven",
+   "organisatie",
+   "school"
+  ],
+  "samenvatting": "Ondanks de staking in het openbaar vervoer is de ochtendspits niet veel drukker geweest dan gemiddeld op een woensdagochtend. Dat melden de ANWB en Rijkswaterstaat. \"Het ziet ernaar uit dat heel veel mensen hun dagplanning hebben aangepast en thuiswerken\", zegt een woordvoerder van de ANWB tegen persbureau ANP. \"Ze gaa",
+  "link": "https://nos.nl/l/2630283"
+ },
+ {
   "id": "75605dab2e",
   "datum": "2026-09-09",
   "tijd": "08:55",
@@ -19,6 +42,46 @@
   ],
   "samenvatting": "Chinees restaurant De Nieuwe Lotus in Zeewolde is opnieuw doelwit geworden van een gerichte aanval. Rond 05.45 zou er eerst een stoeptegel tegen het pand aan zijn gegooid en daarna ging er een explosief af. Dat zorgde voor een kleine brand en roetschade aan de zijdeur. Er is voor zover bekend niemand gewond geraakt. De",
   "link": "https://www.omroepflevoland.nl/nieuws/523125/chinees-restaurant-in-zeewolde-voor-tweede-keer-in-twee-weken-tijd-doelwit-van-aanval-met-explosief"
+ },
+ {
+  "id": "10943b5c8a",
+  "datum": "2026-09-09",
+  "tijd": "08:03",
+  "nieuw": true,
+  "titel": "Mogelijke effecten wietexperiment nog niet vast te stellen - WODC - Wetenschappelijk Onderzoek- en Datacentrum",
+  "bron": "WODC",
+  "verzameld_via": "WODC",
+  "soort": "Rapport",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Mogelijke effecten wietexperiment nog niet vast te stellen WODC - Wetenschappelijk Onderzoek- en Datacentrum",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEh6Tk5zTU01ZXUxZHp1MFZiOU9wOWJKSm56U19KWjB1WnlIMmJPY0tyblo0c1VsV205QjUtay1YQzJhMFc1TnZqUE1qRXY5NkN3a2lpZ2NqOGZNVGZ3NEdjSENRZVZBTUlkQlY1NFFTRG9UMERwWXlHWEhCXy1WdFQ2cmducGkxeXRxUWZmMEVMU2xVdzRqQTE0NjhlQjJraE42SXR6SQ?oc=5"
+ },
+ {
+  "id": "a63a886545",
+  "datum": "2026-09-09",
+  "tijd": "07:45",
+  "nieuw": true,
+  "titel": "Politie houdt Belgische grens scherper in de gaten om vuurwerk te stoppen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "erf",
+   "organisatie",
+   "vuurwerk"
+  ],
+  "samenvatting": "De politie houdt de grens met België scherp in de gaten sinds de invoering van het vuurwerkverbod. Dat zegt Ko Minderhoud, nationaal coördinator vuurwerk bij de politie, tegen De Telegraaf. \"Deze inspanningen rond de grensregio's gaan ons veel opleveren. Als je gericht zoekt, ga je meer vinden.\" Een uitgebreid handhavi",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026482/politie-houdt-belgische-grens-scherper-in-de-gaten-om-vuurwerk-te-stoppen"
  },
  {
   "id": "5a4700d32a",
@@ -120,11 +183,11 @@
   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWFJzdkZDRllYV1k3eEdGc190Mjh4RUJkVEoyeG9DRGpQVV96NUpvTWZUbEJ0U1FhNmkxOVRFNjBtdDVwU3hwcW9tSkxqYXJCZVZ0YU1pdHJrak4yRXJicnFZM0dpNkI4NHpsR0JsVFk4V183aXdwRmtkTWJsQ3JmTFBtRmVIRk9EdVdOTkVFaXdYenRCeDE1bjB2V3dRcmJsRGZtX2t3cU1GUW84Z3hlZjFheDBYSlVObnMxME9FbTNfaTQ2U21vbmJLQWRJanBFUlllWUs3Z3U4VzYwSzR0Yg?oc=5"
  },
  {
-  "id": "6efe9c8522",
+  "id": "e6be7ae8a6",
   "datum": "2026-09-08",
   "tijd": "20:08",
   "nieuw": true,
-  "titel": "Almere - Politie deelt 53 boetes uit bij grote verkeerscontrole naar fatbikes en brommers in Almere Poort",
+  "titel": "Almere - Politie deelt 53 boetes uit bij grote verkeerscontrole van fatbikes en brommers in Almere Poort",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -138,7 +201,7 @@
    "school"
   ],
   "samenvatting": "Bij een grote verkeerscontrole in Almere Poort zijn 53 bekeuringen uitgedeeld. De politie controleerde maandag onder meer op opgevoerde fatbikes, te hoge snelheid, verkeersgedrag en de technische staat van voertuigen. Een fatbike werd in beslag genomen, dat meldt de lokale omroep 1Almere . De controle werd gehouden omd",
-  "link": "https://www.omroepflevoland.nl/nieuws/523059/politie-deelt-53-boetes-uit-bij-grote-verkeerscontrole-naar-fatbikes-en-brommers-in-almere-poort"
+  "link": "https://www.omroepflevoland.nl/nieuws/523059/politie-deelt-53-boetes-uit-bij-grote-verkeerscontrole-van-fatbikes-en-brommers-in-almere-poort"
  },
  {
   "id": "05e733cc49",

@@ -1,12 +1,12 @@
 {
- "run": "07:35",
+ "run": "08:33",
  "datum": "2026-09-09",
- "nieuw": 15,
- "totaal": 2899,
- "verwijderd": 14,
+ "nieuw": 18,
+ "totaal": 2902,
+ "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1038,
-  "geen dossier": 490
+  "niet-nederlands": 1045,
+  "geen dossier": 484
  },
  "bronnen": [
   {
@@ -446,8 +446,8 @@
    "url": "news.google.com/rss/search?q=site:wodc.nl+OR+%22WODC%22+ondermijning+OR+",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 59,
-   "status": "bij",
+   "items": 60,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 38,
-   "status": "5 nieuw",
+   "items": 39,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 73,
-   "status": "5 nieuw",
+   "items": 74,
+   "status": "6 nieuw",
    "ok": true
   },
   {
