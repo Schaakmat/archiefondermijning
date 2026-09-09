@@ -1,12 +1,12 @@
 {
- "run": "11:33",
+ "run": "12:39",
  "datum": "2026-09-09",
- "nieuw": 17,
- "totaal": 2906,
- "verwijderd": 15,
+ "nieuw": 16,
+ "totaal": 2909,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1063,
-  "geen dossier": 509
+  "niet-nederlands": 1058,
+  "geen dossier": 498
  },
  "bronnen": [
   {
@@ -14,7 +14,7 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 129,
+   "items": 130,
    "status": "1 nieuw",
    "ok": true
   },
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 149,
-   "status": "bij",
+   "items": 150,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 182,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 72,
-   "status": "2 nieuw",
+   "items": 74,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 20,
-   "status": "2 nieuw",
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 40,
-   "status": "6 nieuw",
+   "items": 39,
+   "status": "4 nieuw",
    "ok": true
   },
   {
