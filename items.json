@@ -1,5 +1,30 @@
 [
  {
+  "id": "cc2afbad0b",
+  "datum": "2026-09-09",
+  "tijd": "17:22",
+  "nieuw": true,
+  "titel": "Flevoland - Waterschap brengt beverburchten in kaart met een drone, 'Schade willen we vermijden'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "grond",
+   "school",
+   "wapen"
+  ],
+  "samenvatting": "Het is een bedreiging voor onze dijken. Bevers, ze graven gangen van soms wel twintig meter lang in dijken, spoorbermen en wegen. Hun acties kunnen in het ergste geval leiden tot een dijkdoorbraak. \"Schade aan een dijk willen we absoluut vermijden. We moeten hier in Flevoland tenslotte wel veilig onder zeeniveau kunnen",
+  "link": "https://www.omroepflevoland.nl/nieuws/523153/waterschap-brengt-beverburchten-in-kaart-met-een-drone-'schade-willen-we-vermijden'"
+ },
+ {
   "id": "ab8fc16a99",
   "datum": "2026-09-09",
   "tijd": "16:14",
@@ -10,17 +35,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging",
    "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "cocaïne",
-   "doodgeschoten",
-   "moord",
-   "pand",
    "school",
    "wapen"
   ],
@@ -47,6 +65,27 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523167/kinderen-niet-of-te-laat-opgehaald:-cda-dronten-constateert-problemen-met-leerlingenvervoer"
  },
  {
+  "id": "8792f6742f",
+  "datum": "2026-09-09",
+  "tijd": "15:08",
+  "nieuw": true,
+  "titel": "Illegale bewoning en signalen van mensenhandel gevonden bij controle op ’t Plaveen",
+  "bron": "HuizerNieuws",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "mensenhandel",
+   "woning"
+  ],
+  "samenvatting": "Illegale bewoning en signalen van mensenhandel gevonden bij controle op ’t Plaveen HuizerNieuws",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObFJobzlDeEFLYndqbWR2MDl4Z2lNckp4OUh1ZzRYQmhIZHc3OGtBWlVUTFZGMUlFbmxDZFpYenB1X1JHeGdQQXJDX09XdVR1LWhUV0NYV0F0anFjWEdTTkQzUWxzVnZUcHJ0UWVvNG1Cc3NzdEYtVDJ4c2dzTGtYTHhVdGNjVUZoNUhtQUpfV2M0cGFhVFl5UDk3WnIwQnFQNW5NYk5MYmp2bFJYYm1ZLW4wckREYVNiNTZCSlNDQUNtQkZkN01jeU1zZ1JiUHdJNm82SXVfb25wX1hhSmVHb212Rkw?oc=5"
+ },
+ {
   "id": "330ec9004d",
   "datum": "2026-09-09",
   "tijd": "14:44",
@@ -66,6 +105,25 @@
   ],
   "samenvatting": "Het fietspad langs het Gelderse Diep in Lelystad moet met voorrang \"actieve\" straatverlichting krijgen om de sociale veiligheid te verbeteren. Een goede oplossing laat veel te lang op zich wachten. Een meerderheid van de gemeenteraad heeft hiervoor een motie gesteund van Mooi Lelystad, Forum voor Democratie, PVV en VVD",
   "link": "https://www.omroepflevoland.nl/nieuws/523129/fietspad-gelderse-diep-moet-met-voorrang-betere-verlichting-krijgen"
+ },
+ {
+  "id": "7d2e82e6c6",
+  "datum": "2026-09-09",
+  "tijd": "14:27",
+  "nieuw": true,
+  "titel": "Agent gaat vrijuit na schieten op vuurwapengevaarlijke verdachte in Hoogvliet",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Een agent die in Hoogvliet twee keer op een 59-jarige verdachte uit Brielle schoot wordt niet vervolgd. Het Openbaar Ministerie (OM) maakt er geen zaak van omdat alles volgens de regels is verlopen: de verdachte had een vuurwapen bij zich en de agent volgde het protocol.",
+  "link": "https://www.rijnmond.nl/nieuws/2251365/agent-gaat-vrijuit-na-schieten-op-vuurwapengevaarlijke-verdachte-in-hoogvliet"
  },
  {
   "id": "c6181de8de",
@@ -199,12 +257,10 @@
   "regio": "Noord-Brabant",
   "dossiers": [
    "Buitengebied & recreatie",
-   "Drugsproductie & labs",
-   "Vastgoed & huisvesting"
+   "Drugsproductie & labs"
   ],
   "tags": [
-   "loods",
-   "pand"
+   "loods"
   ],
   "samenvatting": "Twee mannen (30 en 44) zijn woensdagochtend opgepakt in een loods aan de Julianastraat in Dongen. In de loods lagen grote hoeveelheden vapes en verboden zakjes met tabak erin, ook wel snus genoemd. De politie startte een onderzoek naar de loods nadat er eerder een vreemde geur werd geroken. “Die geur wordt vaker geroke",
   "link": "https://www.omroepbrabant.nl/nieuws/6026610/loods-vol-vapes-en-snus-in-dongen-mannen-30-en-44-aangehouden"
@@ -319,7 +375,7 @@
   "id": "e00078039d",
   "datum": "2026-09-09",
   "tijd": "11:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Nachtcultuur Lelystad kan wel oppepper gebruiken, 30.000 euro voor onderzoek",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -340,7 +396,7 @@
   "id": "e09f7b5e4b",
   "datum": "2026-09-09",
   "tijd": "11:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ondernemer uit Aerdt moet de cel in wegens witwassen van crimineel geld",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -359,7 +415,7 @@
   "id": "0404635178",
   "datum": "2026-09-09",
   "tijd": "11:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bedrijf fungeert als ‘geldmachine’ voor Achterhoekse drugscrimineel, bestuurder (48) krijgt forse straf",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -378,7 +434,7 @@
   "id": "c0fbbe4f75",
   "datum": "2026-09-09",
   "tijd": "10:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Marters en vossen maar ook voedseltekort verdrijven de zilvermeeuw richting steden; dat tij moet gekeerd",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -397,7 +453,7 @@
   "id": "a3843f13c6",
   "datum": "2026-09-09",
   "tijd": "10:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "De zilvermeeuw trekt naar de stad door voedseltekort en andere vijanden, proef moet dat tegengaan",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -789,27 +845,6 @@
   ],
   "samenvatting": "Vier verdachten zijn aangehouden voor een gijzeling in Rotterdam-Delfshaven. Dat heeft de politie dinsdag bekendgemaakt. Een 23-jarige man uit Spijkenisse werd zondag in een woning aan de Boeierstraat vastgehouden, mishandeld en bedreigd met een vuurwapen.",
   "link": "https://www.rijnmond.nl/nieuws/2250826/tieners-aangehouden-voor-gijzeling-en-mishandeling"
- },
- {
-  "id": "2e359ce027",
-  "datum": "2026-09-08",
-  "tijd": "17:15",
-  "nieuw": false,
-  "titel": "Feest bij Corry Konings en ezel Pleun doodgeschoten: dit gebeurde vandaag",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "doodgeschoten",
-   "woning"
-  ],
-  "samenvatting": "Zangeres Corry Konings viert dinsdag haar 75ste verjaardag. De zangeres, die in 1976 doorbrak met Ik krijg een heel apart gevoel van binnen , blaakt nog steeds van de energie en staat ook op haar verjaardag gewoon op het podium. Aan het hek hangen grote paarse ballonnen. Het is duidelijk dat het feest is in huize Konin",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026460/feest-bij-corry-konings-en-ezel-pleun-doodgeschoten-dit-gebeurde-vandaag"
  },
  {
   "id": "8698f88d6f",
@@ -2752,6 +2787,25 @@
   ],
   "samenvatting": "De politie heeft donderdagavond bijna 5000 flessen lachgas gevonden in een loods in Poortugaal. In drie zeecontainers stonden 28 pallets met in totaal ruim 4700 flessen. De politie kwam de loods op het spoor na een vermoedelijke drugsdeal eerder die avond in Ridderkerk.",
   "link": "https://www.rijnmond.nl/nieuws/2249010/5000-lachgasflessen-inbeslaggenomen-bij-loods-in-poortugaal"
+ },
+ {
+  "id": "0ca51b6f8d",
+  "datum": "2026-09-04",
+  "tijd": "14:50",
+  "nieuw": false,
+  "titel": "Twee kanten van ‘narcostaat Nederland’: ondanks miljarden voor bestrijding, krijgen drugs steeds meer grip op de samenleving - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Beleid, wetgeving & toezicht",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "Twee kanten van ‘narcostaat Nederland’: ondanks miljarden voor bestrijding, krijgen drugs steeds meer grip op de samenleving NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb1IzWHVReWVKSUhoVms0RjJjRTJEMzhndGJSQW1sUU5ja0tQeExkMkU2TG5yaW5EMkdPNEVUVVcwWVVZcUJwRXhqclFIOVFHb2NBZUxnclFLc3BXM1pQeE9vazZ3OVY3TW9WWFpPRTZ3bDZ3SFhfQWFNbWlUZ2lfSjM1V3dOSWk4LWNZNlE0XzZTXzdENzlJaV9HYnl6Q3JUWkUzM1A0WlVOR3lib016azdidWxuQlNOSUF4X1FWcDRFY1hEQVpqaHQ1OGZUU25iTWhOb05BVlhYMlBvSXdNendEYw?oc=5"
  },
  {
   "id": "5ab60eff61",
@@ -15424,6 +15478,28 @@
   ],
   "samenvatting": "Openbaar Ministerie waarschuwt op Werelddag tegen Mensenhandel: “Het is dichterbij dan je denkt” pzc.nl",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmRzS0pHRjRRRHNma1B6MnJjM0dGWGh6SXJsSFNIQWNjcXdwenpDRnhuOC10T05zMzRoSjlWeDNjM1V5ajAwMXJmVzNsa2lNVUlHeG1XcDZ3WmpxbnRab0tpbXdjNWNnejJFVXpEdnhtQlZWTXhqOGc0bTVGXzBzMUpGNmdhcTFZaFdXUDBkSUE0MVprR25nQjg4MFY3U05mTDUxdWFsUk9rVDA0UzQxeUl3anFacDVtYUVTaktrYzQzbGR4eHpYaUVHNFE?oc=5"
+ },
+ {
+  "id": "24efe8b5c3",
+  "datum": "2026-07-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Woning in Waalre twee maanden gesloten na vondst hennepkwekerij met 120 planten",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "woning"
+  ],
+  "samenvatting": "Woning in Waalre twee maanden gesloten na vondst hennepkwekerij met 120 planten De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzRzRmJON0JxOGctYVY1MWRtb2s4alhURmlVbmxrYTZDSW5WRHN0UnJMU29ueUdXazQzWUw3WG04RkJNenYzTWVwNlVNOFVWY3g1RXFUdXA0WWtEN3MyQ2Y2UmtDS2dqOHl1VlJaOFA2ay0zSEp2NkMwa0p5NThCdzBtdzIyYWl3ZE9WM3h5THNQVnJZQ1FnZWJzbi1UYUNsSnMwVXlWX1V2SC01cHhxa1prOW5CY09aSDVkMHY5QzY1UEFKcnc?oc=5"
  },
  {
   "id": "64bf834b89",
