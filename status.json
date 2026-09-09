@@ -1,12 +1,12 @@
 {
- "run": "10:32",
+ "run": "11:33",
  "datum": "2026-09-09",
- "nieuw": 16,
- "totaal": 2904,
- "verwijderd": 16,
+ "nieuw": 17,
+ "totaal": 2906,
+ "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1055,
-  "geen dossier": 490
+  "niet-nederlands": 1063,
+  "geen dossier": 509
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 128,
-   "status": "bij",
+   "items": 129,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 181,
-   "status": "bij",
+   "items": 182,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 38,
-   "status": "5 nieuw",
+   "items": 37,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 119,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 19,
-   "status": "1 nieuw",
+   "items": 20,
+   "status": "2 nieuw",
    "ok": true
   },
   {
