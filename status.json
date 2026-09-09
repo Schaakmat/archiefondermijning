@@ -1,12 +1,12 @@
 {
- "run": "23:29",
- "datum": "2026-09-08",
+ "run": "00:51",
+ "datum": "2026-09-09",
  "nieuw": 17,
- "totaal": 2894,
+ "totaal": 2896,
  "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1047,
-  "geen dossier": 502
+  "niet-nederlands": 977,
+  "geen dossier": 487
  },
  "bronnen": [
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 504",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: TimeoutError",
    "ok": false
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 40,
-   "status": "bij",
+   "items": 41,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 117,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 48,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 91,
-   "status": "bij",
+   "items": 92,
+   "status": "1 nieuw",
    "ok": true
   },
   {
