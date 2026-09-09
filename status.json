@@ -1,12 +1,12 @@
 {
- "run": "12:39",
+ "run": "13:34",
  "datum": "2026-09-09",
- "nieuw": 16,
- "totaal": 2909,
+ "nieuw": 17,
+ "totaal": 2913,
  "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1058,
-  "geen dossier": 498
+  "niet-nederlands": 1071,
+  "geen dossier": 493
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 130,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 150,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -491,7 +491,7 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 74,
+   "items": 75,
    "status": "4 nieuw",
    "ok": true
   },
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 119,
-   "status": "bij",
+   "items": 120,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 20,
-   "status": "1 nieuw",
+   "items": 21,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 39,
-   "status": "4 nieuw",
+   "items": 40,
+   "status": "5 nieuw",
    "ok": true
   },
   {
