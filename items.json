@@ -1,5 +1,26 @@
 [
  {
+  "id": "e00078039d",
+  "datum": "2026-09-09",
+  "tijd": "11:34",
+  "nieuw": true,
+  "titel": "Lelystad - Nachtcultuur Lelystad kan wel oppepper gebruiken, 30.000 euro voor onderzoek",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester",
+   "gemeenteraad",
+   "vergunning"
+  ],
+  "samenvatting": "Het nachtleven in Lelystad mag best een duwtje in de rug krijgen in de vorm van wat extra geld voor activiteiten en evenementen. De gemeente moet eerst onderzoeken wat haalbaar is. Een meerderheid van 20 stemmen voor en 17 tegen heeft dinsdagavond hierover een voorstel van PRO Lelystad aangenomen. Linkse fracties waren",
+  "link": "https://www.omroepflevoland.nl/nieuws/523085/nachtcultuur-lelystad-kan-wel-oppepper-gebruiken-30.000-euro-voor-onderzoek"
+ },
+ {
   "id": "92a4298713",
   "datum": "2026-09-09",
   "tijd": "09:57",
@@ -44,6 +65,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523125/chinees-restaurant-in-zeewolde-voor-tweede-keer-in-twee-weken-tijd-doelwit-van-aanval-met-explosief"
  },
  {
+  "id": "dff9b1d652",
+  "datum": "2026-09-09",
+  "tijd": "08:24",
+  "nieuw": true,
+  "titel": "Pro-formazitting niet in Middelburg, maar Breda • Datum pro-formazitting bekend",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school"
+  ],
+  "samenvatting": "Bij een tragisch verkeersongeval op de N290 bij Terhole zijn op donderdag 11 juni drie leerlingen uit groep 8 en de directeur van basisschool De Warande uit Axel om het leven gekomen. De slachtoffers maakten deel uit van een groep die op de fiets onderweg was naar schoolkamp. Vier dodelijke slachtoffers bij aanrijding ",
+  "link": "https://www.omroepzeeland.nl/nieuws/18532638/pro-formazitting-niet-in-middelburg-maar-breda-datum-pro-formazitting-bekend"
+ },
+ {
   "id": "10943b5c8a",
   "datum": "2026-09-09",
   "tijd": "08:03",
@@ -71,6 +111,25 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk"
+  ],
+  "samenvatting": "De politie houdt de grens met België scherp in de gaten sinds de invoering van het vuurwerkverbod. Dat zegt Ko Minderhoud, nationaal coördinator vuurwerk bij de politie, tegen De Telegraaf. \"Deze inspanningen rond de grensregio's gaan ons veel opleveren. Als je gericht zoekt, ga je meer vinden.\" Een uitgebreid handhavi",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026482/politie-houdt-belgische-grens-scherper-in-de-gaten-om-vuurwerk-te-stoppen"
+ },
+ {
+  "id": "951c91dc1d",
+  "datum": "2026-09-09",
+  "tijd": "07:45",
+  "nieuw": true,
+  "titel": "Meer agenten dan ooit speuren bij de Belgische grens naar vuurwerk",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
    "Buitengebied & recreatie",
    "Criminele samenwerkingsverbanden",
    "Wapens, explosieven & vuurwerk"
@@ -81,7 +140,26 @@
    "vuurwerk"
   ],
   "samenvatting": "De politie houdt de grens met België scherp in de gaten sinds de invoering van het vuurwerkverbod. Dat zegt Ko Minderhoud, nationaal coördinator vuurwerk bij de politie, tegen De Telegraaf. \"Deze inspanningen rond de grensregio's gaan ons veel opleveren. Als je gericht zoekt, ga je meer vinden.\" Een uitgebreid handhavi",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026482/politie-houdt-belgische-grens-scherper-in-de-gaten-om-vuurwerk-te-stoppen"
+  "link": "https://www.omroepbrabant.nl/nieuws/6026482/meer-agenten-dan-ooit-speuren-bij-de-belgische-grens-naar-vuurwerk"
+ },
+ {
+  "id": "a812ff08cd",
+  "datum": "2026-09-09",
+  "tijd": "07:25",
+  "nieuw": true,
+  "titel": "Gemeenteraad Berkelland op ontploffen, maar SvB laat pin in handgranaat",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "De gemeenteraad van Berkelland stond dinsdagavond tijdens de eerste raadsvergadering na het zomerreces direct op scherp. Samen voor Berkelland (SvB) stelde zich afgelopen zomer respectloos behandeld te hebben gevoeld en haalde stevig uit naar de burgemeester en de griffier. Uiteindelijk besloot de fractie echter geen v",
+  "link": "https://www.gld.nl/nieuws/8520406/gemeenteraad-berkelland-op-ontploffen-maar-svb-laat-pin-in-handgranaat"
  },
  {
   "id": "5a4700d32a",
@@ -288,7 +366,7 @@
   "id": "d198cbe8fe",
   "datum": "2026-09-08",
   "tijd": "18:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "BBB-bestuurder over landbouwdossier: 'Op onderdelen is er niks veranderd'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -307,7 +385,7 @@
   "id": "06c9efb992",
   "datum": "2026-09-08",
   "tijd": "17:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tieners aangehouden voor gijzeling en mishandeling",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -330,7 +408,7 @@
   "id": "2e359ce027",
   "datum": "2026-09-08",
   "tijd": "17:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Feest bij Corry Konings en ezel Pleun doodgeschoten: dit gebeurde vandaag",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -351,7 +429,7 @@
   "id": "8698f88d6f",
   "datum": "2026-09-08",
   "tijd": "17:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Klusjesman die tijdelijk in woning opdrachtgevers woont, weigert te vertrekken en begint wietplantage",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -759,27 +837,6 @@
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa29zTXFkRkg4R1lsZHNNN0hZWWtiNFNRRXp5RWdpRE9WR2NBdHlRTW9tUmh1Ti1YVlVXc3dWam9ac25HbW1BSjF5aDBBVlR0Q1ZxNHhsWXRTcTA3NGhNVU9RMUtySHZHVUhMclBNNG15ay13ckptWUpTVlB0eUxOR2xCOEdUSWpkTGwxNGo3azBRTjZkRVpHTTNUeDFaVzR2UFBnem9HSG5ZczJQSW5INnJR?oc=5"
  },
  {
-  "id": "af7c16cfe5",
-  "datum": "2026-09-08",
-  "tijd": "08:30",
-  "nieuw": false,
-  "titel": "Auto met benzine overgoten en aangestoken: ‘Ik weet wie hierachter zit'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "erf",
-   "woning"
-  ],
-  "samenvatting": "Metershoge vlammen, bewoners die met een baby van tien weken buiten staan en geschokte buren. Dat is het beeld dinsdagochtend in de Wagenaarstraat in Oss. Voor de tweede keer is bij hetzelfde huis een auto voor de woning in brand gestoken. Op beelden is te zien hoe een fles benzine over een Range Rover wordt gegoten. “",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026388/auto-met-benzine-overgoten-en-aangestoken-ik-weet-wie-hierachter-zit"
- },
- {
   "id": "9194afcfed",
   "datum": "2026-09-08",
   "tijd": "08:26",
@@ -821,27 +878,6 @@
   ],
   "samenvatting": "Chemische lucht bij vondst van meerdere verdachte vaten in Angerlo, mogelijk drugsafval rtvconnect.nl",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQkpyYk9jZmZzY3NzbGVvck9OYUpva01VNVF1Y3oxeUE3cThndXRxTEVCZWVNWmJaTGNtQ3NkLTJKQjZmVzh6cHgyQUMtSGV5VXA2bU85WG8xM0ZQVi15dFlRSnBWbWZhX3RjNTZpQTJaMEliZE5paFd2cTJMc09xd1NaSmlOTW51SnNOSTlOdEU5ZllkWE9RYnlqNDJVdjdHdWt1ejI3a3pQU1U?oc=5"
- },
- {
-  "id": "2f9a8a63a0",
-  "datum": "2026-09-08",
-  "tijd": "07:02",
-  "nieuw": false,
-  "titel": "Man (64) overleden bij botsing tussen vrachtwagen en auto in Tilburg",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "burgemeester",
-   "vrachtwagen"
-  ],
-  "samenvatting": "Een automobilist is dinsdagochtend overleden bij een botsing met een vrachtwagen op de Burgemeester Letschertweg in Tilburg. Het slachtoffer is een 64-jarige man uit Tilburg. De auto is achterop de vrachtauto gebotst. Meerdere hulpdiensten kwamen na de botsing ter plaatse. Er landde ook een traumahelikopter in de buurt",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026327/man-64-overleden-bij-botsing-tussen-vrachtwagen-en-auto-in-tilburg"
  },
  {
   "id": "6e89e4ec62",
