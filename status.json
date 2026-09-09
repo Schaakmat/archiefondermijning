@@ -1,12 +1,12 @@
 {
- "run": "22:31",
+ "run": "23:32",
  "datum": "2026-09-09",
- "nieuw": 15,
+ "nieuw": 14,
  "totaal": 2934,
  "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1059,
-  "geen dossier": 507
+  "niet-nederlands": 1048,
+  "geen dossier": 490
  },
  "bronnen": [
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 164,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
