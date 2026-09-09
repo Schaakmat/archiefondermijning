@@ -1,5 +1,25 @@
 [
  {
+  "id": "0d8acc3cda",
+  "datum": "2026-09-09",
+  "tijd": "17:46",
+  "nieuw": true,
+  "titel": "Almere - Moeder van vermoorde Esther Paul vreest verlies van belangrijke informatie voor coldcase",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld",
+   "moord"
+  ],
+  "samenvatting": "Oude politiegegevens die mogelijk kunnen helpen bij het oplossen van cold cases worden voorlopig niet gewist. Minister van Justitie en Veiligheid David van Weel vraagt de politie de gegevens te blijven bewaren, terwijl hij onderzoekt of daar juridisch een oplossing voor kan worden gevonden. Daarmee neemt hij wel het ri",
+  "link": "https://www.omroepflevoland.nl/nieuws/523198/moeder-van-vermoorde-esther-paul-vreest-verlies-van-belangrijke-informatie-voor-coldcase"
+ },
+ {
   "id": "cc2afbad0b",
   "datum": "2026-09-09",
   "tijd": "17:22",
@@ -84,6 +104,31 @@
   ],
   "samenvatting": "Illegale bewoning en signalen van mensenhandel gevonden bij controle op ’t Plaveen HuizerNieuws",
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObFJobzlDeEFLYndqbWR2MDl4Z2lNckp4OUh1ZzRYQmhIZHc3OGtBWlVUTFZGMUlFbmxDZFpYenB1X1JHeGdQQXJDX09XdVR1LWhUV0NYV0F0anFjWEdTTkQzUWxzVnZUcHJ0UWVvNG1Cc3NzdEYtVDJ4c2dzTGtYTHhVdGNjVUZoNUhtQUpfV2M0cGFhVFl5UDk3WnIwQnFQNW5NYk5MYmp2bFJYYm1ZLW4wckREYVNiNTZCSlNDQUNtQkZkN01jeU1zZ1JiUHdJNm82SXVfb25wX1hhSmVHb212Rkw?oc=5"
+ },
+ {
+  "id": "3933e967fb",
+  "datum": "2026-09-09",
+  "tijd": "15:03",
+  "nieuw": true,
+  "titel": "Meer klanten en hogere omzet voor Jumbo in eerste helft 2026",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Horeca, winkels & dienstverlening",
+   "Ondernemers & weerbaarheid",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "omkoping",
+   "ondernemers",
+   "supermarkt",
+   "witwassen"
+  ],
+  "samenvatting": "Jumbo heeft in het eerste halfjaar van 2026 meer omzet geboekt en meer klanten naar zijn winkels getrokken. Volgens Jumbo zelf is dat te danken aan verdere modernisering van de winkels en een relevanter assortiment. De Veghelse supermarktketen zag ook zijn marktaandeel stabiliseren. De omzet over de eerste helft van 20",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026623/meer-klanten-en-hogere-omzet-voor-jumbo-in-eerste-helft-2026"
  },
  {
   "id": "330ec9004d",
@@ -290,7 +335,7 @@
   "id": "8975db8fa3",
   "datum": "2026-09-09",
   "tijd": "12:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Kapperszaak opnieuw doelwit, brandstichter laat zich niet tegenhouden door bewakingscamera",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -318,7 +363,7 @@
   "id": "2ad666faa6",
   "datum": "2026-09-09",
   "tijd": "12:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Voorwaardelijke celstraf voor man (35) die hennepkwekerij runde",
   "bron": "RTV Dordrecht",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -337,7 +382,7 @@
   "id": "d428372360",
   "datum": "2026-09-09",
   "tijd": "11:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lokbus en nagebootste drugsdumping duiken op in gemeente Laarbeek tijdens Maand van de Veiligheid",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -356,7 +401,7 @@
   "id": "4e0be0f323",
   "datum": "2026-09-09",
   "tijd": "11:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lokbus en nagebootste drugsdumping duiken op in gemeente Laarbeek tijdens Maand van de Veiligheid",
   "bron": "Eindhovens Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
