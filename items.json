@@ -305,7 +305,7 @@
   "id": "4a04ffbe0e",
   "datum": "2026-09-08",
   "tijd": "16:19",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Flevoland - Minister Karremans: A28 bij Nijkerk uiterlijk donderdagavond weer open",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -324,7 +324,7 @@
   "id": "4efc35aca9",
   "datum": "2026-09-08",
   "tijd": "15:20",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "8/9 in Nieuwsuur: Woede na vrijspraak zakenman Malta • Staatssecretaris over leesvaardigheid • 25 jaar Guantanamo Bay",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -635,6 +635,25 @@
   ],
   "samenvatting": "Sterk gedaalde leesvaardigheid, dat is pas ondermijning van de maatschappij bnnvara",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlpISGlPbnk5QVFYLUJ6OW9mYXpwcjNrdlhQaHVwcGJubE9TNjVRZGt1VXBDcmRuQTNSS1JXdm1MQUQ1Z3V6dUtRcFkyTlM4cnlZZWV4MnRSLXBuLW9oeThUNDBkOUtWMmN6R0JVNldBa3p2R0xYbEN5cU9MeUJkMS1TZ2NlOENmelJBYkxsQkY3S0J2UGJtYWRWZm9rMjVRdWcxdnhjZjBiZE9n?oc=5"
+ },
+ {
+  "id": "be403592fd",
+  "datum": "2026-09-08",
+  "tijd": "10:08",
+  "nieuw": false,
+  "titel": "Sterk gedaalde leesvaardigheid, dat is pas ondermijning van de maatschappij",
+  "bron": "bnnvara.nl",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Sterk gedaalde leesvaardigheid, dat is pas ondermijning van de maatschappij bnnvara.nl",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa29zTXFkRkg4R1lsZHNNN0hZWWtiNFNRRXp5RWdpRE9WR2NBdHlRTW9tUmh1Ti1YVlVXc3dWam9ac25HbW1BSjF5aDBBVlR0Q1ZxNHhsWXRTcTA3NGhNVU9RMUtySHZHVUhMclBNNG15ay13ckptWUpTVlB0eUxOR2xCOEdUSWpkTGwxNGo3azBRTjZkRVpHTTNUeDFaVzR2UFBnem9HSG5ZczJQSW5INnJR?oc=5"
  },
  {
   "id": "af7c16cfe5",
@@ -57282,6 +57301,25 @@
   "dossiers": [
    "Vastgoed & huisvesting"
   ]
+ },
+ {
+  "id": "05c07f26cd",
+  "datum": "2011-08-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Bende smokkelde drugs van Nederland naar Duitsland - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende"
+  ],
+  "samenvatting": "Bende smokkelde drugs van Nederland naar Duitsland Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTU4SnpncWRIYVVicEJHWWZrTC03UXdyNTduQi1oRTFFZ091X1M0R2JyalhVckxoczcta0l2YkFkbEZwN0dwX05PX21XVmJPbG5OU2RpSXJoZTFhT3ZUMUMyRTBaUzVoaW5iUE1KSENTWEJWNkViQ3RCai0wellpbUJONUJDZFU2LUdPVVV0c19MaEU?oc=5"
  },
  {
   "id": "01b6f8ab60",
