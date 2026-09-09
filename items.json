@@ -1,5 +1,36 @@
 [
  {
+  "id": "7360f34ecb",
+  "datum": "2026-09-09",
+  "tijd": "18:45",
+  "nieuw": true,
+  "titel": "Flevoland - Nieuwsoverzicht 09/09 | Openbaar vervoer plat • Nautilus College weer open",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Horeca, winkels & dienstverlening",
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "arbeidsmigranten",
+   "bende",
+   "camping",
+   "explosie",
+   "gemeenteraad",
+   "huurwoning"
+  ],
+  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Landelijke ov-staking legt vandaag trein- en busverkeer plat, deel EBS-chauffeurs rijdt wel • Leerlingen van Almeerse school die plotseling sloot vanwege on",
+  "link": "https://www.omroepflevoland.nl/nieuws/523182/nieuwsoverzicht-0909-or-openbaar-vervoer-plat-*-nautilus-college-weer-open"
+ },
+ {
   "id": "0d8acc3cda",
   "datum": "2026-09-09",
   "tijd": "17:46",
@@ -13,7 +44,6 @@
    "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "geweld",
    "moord"
   ],
   "samenvatting": "Oude politiegegevens die mogelijk kunnen helpen bij het oplossen van cold cases worden voorlopig niet gewist. Minister van Justitie en Veiligheid David van Weel vraagt de politie de gegevens te blijven bewaren, terwijl hij onderzoekt of daar juridisch een oplossing voor kan worden gevonden. Daarmee neemt hij wel het ri",
@@ -43,6 +73,75 @@
   ],
   "samenvatting": "Het is een bedreiging voor onze dijken. Bevers, ze graven gangen van soms wel twintig meter lang in dijken, spoorbermen en wegen. Hun acties kunnen in het ergste geval leiden tot een dijkdoorbraak. \"Schade aan een dijk willen we absoluut vermijden. We moeten hier in Flevoland tenslotte wel veilig onder zeeniveau kunnen",
   "link": "https://www.omroepflevoland.nl/nieuws/523153/waterschap-brengt-beverburchten-in-kaart-met-een-drone-'schade-willen-we-vermijden'"
+ },
+ {
+  "id": "60f167877c",
+  "datum": "2026-09-09",
+  "tijd": "17:15",
+  "nieuw": true,
+  "titel": "Gewelddadige dood ezeltje en rechtszaak Peter Gillis: dit gebeurde vandaag",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "camping",
+   "doodgeschoten",
+   "geweld",
+   "vakantiepark",
+   "vergunning",
+   "vuurwerk"
+  ],
+  "samenvatting": "Onderzoekers proberen te achterhalen wat er precies met ezeltje Pleun is gebeurd en Peter Gillis vecht voor het behoud van zijn vakantieparken. Dit zijn de vijf verhalen die je woensdag gelezen moet hebben. Een psycholoog waarschuwt na de dood van babyezel Pleun in Baarle-Nassau: dierenmishandeling is een rode vlag voo",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026630/gewelddadige-dood-ezeltje-en-rechtszaak-peter-gillis-dit-gebeurde-vandaag"
+ },
+ {
+  "id": "760cc3997d",
+  "datum": "2026-09-09",
+  "tijd": "16:44",
+  "nieuw": true,
+  "titel": "Drie explosies en een maand dicht: nu mag de pilatesstudio weer open",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "pand",
+   "sluiting van het pand"
+  ],
+  "samenvatting": "De pilatesstudio aan het Raadhuisplein in Zevenaar mag weer open. De gemeente ziet geen aanleiding om de sluiting van het pand te verlengen, laat een woordvoerder weten. Vanaf donderdag kan de studio de deuren weer openen.",
+  "link": "https://www.gld.nl/nieuws/8520699/drie-explosies-en-een-maand-dicht-nu-mag-de-pilatesstudio-weer-open"
+ },
+ {
+  "id": "ebe6f0c3d0",
+  "datum": "2026-09-09",
+  "tijd": "16:16",
+  "nieuw": true,
+  "titel": "Meer camera's en beveiligers: gemeenteraad Terneuzen kijkt opnieuw naar azc in Neckermanngebouw",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "gemeenteraad"
+  ],
+  "samenvatting": "De politieke discussie over een azc in Terneuzen laait weer op. Het oude Neckermanngebouw is weer in beeld.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18766888/meer-cameras-en-beveiligers-gemeenteraad-terneuzen-kijkt-opnieuw-naar-azc-in-neckermanngebouw"
  },
  {
   "id": "ab8fc16a99",
@@ -254,7 +353,7 @@
   "id": "085101f96a",
   "datum": "2026-09-09",
   "tijd": "12:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grote partij snus en vapes gevonden in loods in Dongen, twee arrestaties",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -274,7 +373,7 @@
   "id": "9bb10eac31",
   "datum": "2026-09-09",
   "tijd": "12:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Loods vol vapes en snus in Dongen, twee arrestaties",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -294,7 +393,7 @@
   "id": "a7c3cc6e23",
   "datum": "2026-09-09",
   "tijd": "12:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Loods vol vapes en snus in Dongen, mannen (30 en 44) aangehouden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -314,7 +413,7 @@
   "id": "eb8433ca25",
   "datum": "2026-09-09",
   "tijd": "12:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Klimaatactivist uit Tilburg krijgt taakstraf voor blokkeren van A12",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -415,27 +514,6 @@
   ],
   "samenvatting": "Lokbus en nagebootste drugsdumping duiken op in gemeente Laarbeek tijdens Maand van de Veiligheid Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmZOalZDeXplZkVxUG1SQkp5c0pZT1phMkZoV195cy1YM3hfNnZ0cXc0WHdhTmJwLWtyYzdod3ktLUZDZG04Umx6V1UxbXRiWVZQMTdvUG93ZDQ1OEFQS2trcjVVNnROUkRjQkZTU0ZTc0lad3hSVElsUnBUalZJUUJYenVXVGVYMGlZamVCTGxHMi05Y1dkeVl3LWwxSExDQXduQ2xjbkdpVzRORTNYMzQ4SVBCdE4taTN3a2N5d1dYM3JyT01RbWR6dzVYWEU?oc=5"
- },
- {
-  "id": "e00078039d",
-  "datum": "2026-09-09",
-  "tijd": "11:34",
-  "nieuw": false,
-  "titel": "Lelystad - Nachtcultuur Lelystad kan wel oppepper gebruiken, 30.000 euro voor onderzoek",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak"
-  ],
-  "tags": [
-   "burgemeester",
-   "gemeenteraad",
-   "vergunning"
-  ],
-  "samenvatting": "Het nachtleven in Lelystad mag best een duwtje in de rug krijgen in de vorm van wat extra geld voor activiteiten en evenementen. De gemeente moet eerst onderzoeken wat haalbaar is. Een meerderheid van 20 stemmen voor en 17 tegen heeft dinsdagavond hierover een voorstel van PRO Lelystad aangenomen. Linkse fracties waren",
-  "link": "https://www.omroepflevoland.nl/nieuws/523085/nachtcultuur-lelystad-kan-wel-oppepper-gebruiken-30.000-euro-voor-onderzoek"
  },
  {
   "id": "e09f7b5e4b",
@@ -573,27 +651,6 @@
   ],
   "samenvatting": "De Hardenbergerbrug, waar de A28 overheen loopt, blijft vanwege herstelwerkzaamheden in ieder geval vandaag nog afgesloten. Minister Karremans waarschuwde eerder dit jaar al dat circa 80 miljard euro nodig is om achterstallig onderhoud aan wegen, bruggen en spoor aan te pakken.",
   "link": "https://www.gld.nl/nieuws/8453152/zorgen-om-achterstallig-onderhoud-miljarden-nodig-voor-bruggen-en-wegen"
- },
- {
-  "id": "75605dab2e",
-  "datum": "2026-09-09",
-  "tijd": "08:55",
-  "nieuw": false,
-  "titel": "Zeewolde - Chinees restaurant in Zeewolde voor tweede keer in twee weken tijd doelwit van aanval met explosief",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "explosie",
-   "pand"
-  ],
-  "samenvatting": "Chinees restaurant De Nieuwe Lotus in Zeewolde is opnieuw doelwit geworden van een gerichte aanval. Rond 05.45 zou er eerst een stoeptegel tegen het pand aan zijn gegooid en daarna ging er een explosief af. Dat zorgde voor een kleine brand en roetschade aan de zijdeur. Er is voor zover bekend niemand gewond geraakt. De",
-  "link": "https://www.omroepflevoland.nl/nieuws/523125/chinees-restaurant-in-zeewolde-voor-tweede-keer-in-twee-weken-tijd-doelwit-van-aanval-met-explosief"
  },
  {
   "id": "7bf344ea3d",
@@ -1170,25 +1227,6 @@
   "link": "https://nos.nl/l/2630168"
  },
  {
-  "id": "d2007d04ed",
-  "datum": "2026-09-08",
-  "tijd": "12:40",
-  "nieuw": false,
-  "titel": "Twee weken oude ezel Pleun doodgeschoten teruggevonden in wei Ezelpaleis",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "doodgeschoten"
-  ],
-  "samenvatting": "Ezeltje Pleun, die maandag verdween bij Het Ezelpaleis in Baarle-Nassau is dinsdag, zwaar toegetakeld, dood teruggevonden in de wei van de ezelopvang. Volgens eigenaresse Marlhene Mouws is het twee weken oude ezeltje doodgeschoten. Na een lange zoektocht maandagavond en dinsdagochtend waarbij Pleun niet werd gevonden, ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026415/twee-weken-oude-ezel-pleun-doodgeschoten-teruggevonden-in-wei-ezelpaleis"
- },
- {
   "id": "6e2d05d85d",
   "datum": "2026-09-08",
   "tijd": "12:36",
@@ -1606,25 +1644,6 @@
   ],
   "samenvatting": "In een containerschip dat op weg was naar de haven van Antwerpen heeft de Franse douane duizenden kilo's cocaïne onderschept. Het schip kwam uit West-Afrika en de container met de drugs zou worden gelost bij een bedrijf in Dordrecht. Volgens De Telegraaf was een deel van de lading van drugscrimineel 'Bolle' Jos Leijdek",
   "link": "https://www.rijnmond.nl/nieuws/2250203/duizenden-kilos-cocaine-moesten-naar-dordrecht-lading-behoort-toe-aan-bolle-jos"
- },
- {
-  "id": "b41a088273",
-  "datum": "2026-09-07",
-  "tijd": "15:58",
-  "nieuw": false,
-  "titel": "Juwelier vreest voor leven tijdens overval: 'Ik nam afscheid van mijn man en kinderen'",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "juwelier"
-  ],
-  "samenvatting": "De eigenaresse van juwelier Chalcedoon in Capelle aan den IJssel heeft doodsangsten uitgestaan tijdens de overval op haar zaak in januari. \"Het ergste is het mes tegen de hals. Op dat moment heb ik afscheid genomen van mijn man, mijn kinderen en kleinkinderen. Ik dacht dat ik het niet zou overleven\", vertelt ze in een ",
-  "link": "https://www.rijnmond.nl/nieuws/2250103/juwelier-vreest-voor-leven-tijdens-overval-ik-nam-afscheid-van-mijn-man-en-kinderen"
  },
  {
   "id": "a19896d528",
@@ -6990,6 +7009,25 @@
   ],
   "samenvatting": "Rijk worden én een brandschoon huis zonder veel moeite? Luister naar de nieuwe podcast ‘Witwassen’ libelle.nl",
   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3FlRXhuNXl3SWJvd1Vqd0V4SXZIbUZMSkxYZjg5WTItY1IxSXI2Wk85dXVIUWJaYmxQWkhCTy1xanhheGNXQUx0ZnRqTVN4RUtpaUNKajBsZ1VySTRONF9xOGJRRnFsbWlJOS1naHlVckhmOUVZWkFOb1M0bEFIR2ZkbEloZmNj?oc=5"
+ },
+ {
+  "id": "58a948ad0e",
+  "datum": "2026-09-01",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Rijk worden én een brandschoon huis zonder veel moeite? Luister naar de nieuwe podcast ‘Witwassen’",
+  "bron": "Libelle",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Rijk worden én een brandschoon huis zonder veel moeite? Luister naar de nieuwe podcast ‘Witwassen’ Libelle",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMy1QQ29PSHJCNUtfMGJZVy1VRldMb3J6Q3RfNmFPc09ueXNVaVdPdEFoX0xNSE5DcTcxVE11LUF4TXdUYk12QU5JNW51SDNXSDBTR3dvVnBTRWE1SkZGalJFakxWaFBHMmVyU3pQUlg3ak1TQkt3cEFJRTNaaEF3clhiZG9RbDFKQVJxUUtyalZVUjItM2c?oc=5"
  },
  {
   "id": "de7ddd47f5",
