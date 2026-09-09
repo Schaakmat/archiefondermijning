@@ -1,5 +1,33 @@
 [
  {
+  "id": "8975db8fa3",
+  "datum": "2026-09-09",
+  "tijd": "12:11",
+  "nieuw": true,
+  "titel": "Almere - Kapperszaak opnieuw doelwit, brandstichter laat zich niet tegenhouden door bewakingscamera",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Geweld, liquidaties & bedreiging",
+   "Horeca, winkels & dienstverlening",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "explosie",
+   "geweld",
+   "kapper",
+   "pand",
+   "vuurwerk"
+  ],
+  "samenvatting": "De gemeente Almere plaatste er al een camera vanwege een groot risico op nieuw geweld. En die inschatting bleek juist, want een kapperszaak in de Almeerse Bouwmeesterbuurt was woensdagochtend vroeg wederom doelwit van een aanslag. Al twee keer eerder werd de ondernemer getroffen, en nu heeft iemand geprobeerd om brand ",
+  "link": "https://www.omroepflevoland.nl/nieuws/523135/kapperszaak-opnieuw-doelwit-brandstichter-laat-zich-niet-tegenhouden-door-bewakingscamera"
+ },
+ {
   "id": "e00078039d",
   "datum": "2026-09-09",
   "tijd": "11:34",
@@ -44,6 +72,25 @@
   "link": "https://nos.nl/l/2630283"
  },
  {
+  "id": "ff51b69daa",
+  "datum": "2026-09-09",
+  "tijd": "09:02",
+  "nieuw": true,
+  "titel": "Zorgen om achterstallig onderhoud: miljarden nodig voor bruggen en wegen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "De Hardenbergerbrug, waar de A28 overheen loopt, blijft vanwege herstelwerkzaamheden in ieder geval vandaag nog afgesloten. Minister Karremans waarschuwde eerder dit jaar al dat circa 80 miljard euro nodig is om achterstallig onderhoud aan wegen, bruggen en spoor aan te pakken.",
+  "link": "https://www.gld.nl/nieuws/8453152/zorgen-om-achterstallig-onderhoud-miljarden-nodig-voor-bruggen-en-wegen"
+ },
+ {
   "id": "75605dab2e",
   "datum": "2026-09-09",
   "tijd": "08:55",
@@ -65,11 +112,11 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523125/chinees-restaurant-in-zeewolde-voor-tweede-keer-in-twee-weken-tijd-doelwit-van-aanval-met-explosief"
  },
  {
-  "id": "dff9b1d652",
+  "id": "7bf344ea3d",
   "datum": "2026-09-09",
   "tijd": "08:24",
   "nieuw": true,
-  "titel": "Pro-formazitting niet in Middelburg, maar Breda • Datum pro-formazitting bekend",
+  "titel": "Eerste zitting niet in Middelburg, maar Breda • Datum pro-formazitting bekend",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
   "soort": "Nieuwsbericht",
@@ -81,7 +128,7 @@
    "school"
   ],
   "samenvatting": "Bij een tragisch verkeersongeval op de N290 bij Terhole zijn op donderdag 11 juni drie leerlingen uit groep 8 en de directeur van basisschool De Warande uit Axel om het leven gekomen. De slachtoffers maakten deel uit van een groep die op de fiets onderweg was naar schoolkamp. Vier dodelijke slachtoffers bij aanrijding ",
-  "link": "https://www.omroepzeeland.nl/nieuws/18532638/pro-formazitting-niet-in-middelburg-maar-breda-datum-pro-formazitting-bekend"
+  "link": "https://www.omroepzeeland.nl/nieuws/18532638/eerste-zitting-niet-in-middelburg-maar-breda-datum-pro-formazitting-bekend"
  },
  {
   "id": "10943b5c8a",
@@ -130,13 +177,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "erf",
-   "organisatie",
    "vuurwerk"
   ],
   "samenvatting": "De politie houdt de grens met België scherp in de gaten sinds de invoering van het vuurwerkverbod. Dat zegt Ko Minderhoud, nationaal coördinator vuurwerk bij de politie, tegen De Telegraaf. \"Deze inspanningen rond de grensregio's gaan ons veel opleveren. Als je gericht zoekt, ga je meer vinden.\" Een uitgebreid handhavi",
@@ -285,7 +328,7 @@
   "id": "05e733cc49",
   "datum": "2026-09-08",
   "tijd": "19:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Klusjesman die tijdelijk in woning opdrachtgevers woont, weigert te vertrekken en begint wietplantage",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -304,7 +347,7 @@
   "id": "1014869dd6",
   "datum": "2026-09-08",
   "tijd": "19:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nee, onze bruggen storten niet in, maar er is wel veel achterstallig onderhoud",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -327,7 +370,7 @@
   "id": "1fbe5a9b96",
   "datum": "2026-09-08",
   "tijd": "18:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inge daagt woningcorporatie voor de rechter wegens giftige stoffen: 'Mijn paradijsje werd een hel'",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -347,7 +390,7 @@
   "id": "d06e03b8f4",
   "datum": "2026-09-08",
   "tijd": "18:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Trekken we aan dezelfde kant van de kar of niet': Discussie over parkeerterreinen bij afsluiting Westerscheldetunnel",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -761,25 +804,6 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523012/opstoppingen-op-wegen-in-buitengebied-zeewolde-door-afsluiting-a28-vanwege-onveilige-brug"
  },
  {
-  "id": "987cac60a8",
-  "datum": "2026-09-08",
-  "tijd": "12:18",
-  "nieuw": false,
-  "titel": "Groot verdriet bij Het Ezelpaleis, Pleuntje van twee weken oud is gestolen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "goud"
-  ],
-  "samenvatting": "Groot verdriet bij Het Ezelpaleis in Baarle-Nassau. Maandagavond verdween de pas twee weken oude ezel Pleun uit de wei achter de opvang. \"Het is heel treurig, ik maak me grote zorgen\", zegt een hevig aangeslagen Marlhene Mouws van de ezelopvang. \"Oh, daar ga ik weer met mijn gejank.\" Marlhene Mouws van Het Ezelpaleis i",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026412/groot-verdriet-bij-het-ezelpaleis-pleuntje-van-twee-weken-oud-is-gestolen"
- },
- {
   "id": "5c57d5de9a",
   "datum": "2026-09-08",
   "tijd": "10:18",
@@ -982,30 +1006,6 @@
   ],
   "samenvatting": "De Wierdense gemeenteraad keert zich tegen de plannen van de provincie om het Wierdense Veld en de grond daaromheen te vernatten. De politiek roept nu op om de huidige maatregelen te schrappen en eerst verder onderzoek te doen. Boeren en bewoners vrezen ondertussen wateroverlast in de omgeving.",
   "link": "https://www.oost.nl/nieuws/3693158/verzet-tegen-plan-om-hoogveen-te-vernatten-groeit-ook-wierden-trekt-aan-de-bel"
- },
- {
-  "id": "ef415c748f",
-  "datum": "2026-09-07",
-  "tijd": "22:05",
-  "nieuw": false,
-  "titel": "Odido-hacker te horen in Opsporing Verzocht: 'Hij ging heel gewiekst te werk'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "beveiliging",
-   "criminele organisatie",
-   "organisatie",
-   "stal"
-  ],
-  "samenvatting": "In het tv-programma Opsporing Verzocht is de stem afgespeeld van een verdachte van de hack bij Odido, begin dit jaar. In de uitzending was te horen hoe de verdachte zich voordeed als een collega en zo een Odido-medewerker overhaalde om in te loggen in een werkomgeving die later nep bleek te zijn. De politie noemt de we",
-  "link": "https://nos.nl/l/2630120"
  },
  {
   "id": "d1ca9f0652",
