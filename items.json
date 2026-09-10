@@ -1,5 +1,56 @@
 [
  {
+  "id": "84f63e4200",
+  "datum": "2026-09-10",
+  "tijd": "18:45",
+  "nieuw": true,
+  "titel": "Flevoland - Nieuwsoverzicht 10/09 | Dronten moddert niet aan • Netl-broers blijven strijdbaar",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval",
+   "Ondernemers & weerbaarheid",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "afval",
+   "bedrijventerrein",
+   "explosie",
+   "grond",
+   "haven",
+   "organisatie"
+  ],
+  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Borden en bewustwording om modderige buitenwegen tijdens oogsttijd • Broers Crebas blijven strijdbaar nadat bestuursrechter drones voorrang geeft • Meer dan",
+  "link": "https://www.omroepflevoland.nl/nieuws/523258/nieuwsoverzicht-1009-or-dronten-moddert-niet-aan-*-netl-broers-blijven-strijdbaar"
+ },
+ {
+  "id": "b5e8a8d813",
+  "datum": "2026-09-10",
+  "tijd": "18:32",
+  "nieuw": true,
+  "titel": "FIOD doet invallen vanwege verdenking corruptie door cardiologen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "corruptie",
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "In een onderzoek naar corruptie door cardiologen heeft de FIOD invallen gedaan in acht woningen en bedrijfspanden. Om hoeveel specialisten het gaat, wil de FIOD niet zeggen. Er zijn geen aanhoudingen verricht. De fiscale opsporingsdienst verdenkt hartspecialisten van twee ziekenhuizen ervan geld te hebben gekregen van ",
+  "link": "https://nos.nl/l/2630483"
+ },
+ {
   "id": "e3bc04e98c",
   "datum": "2026-09-10",
   "tijd": "17:30",
@@ -38,6 +89,30 @@
   "link": "https://nos.nl/l/2630471"
  },
  {
+  "id": "920fe82bb4",
+  "datum": "2026-09-10",
+  "tijd": "17:15",
+  "nieuw": true,
+  "titel": "Gillis strijdt om parken, studentenkamers te duur: dit gebeurde vandaag",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "burgemeester",
+   "camping",
+   "vakantiepark"
+  ],
+  "samenvatting": "Peter Gillis vecht de waardebepaling van drie vakantieparken aan die binnenkort onder de hamer gaan en twee op de drie studentenkamers in Tilburg en Breda zijn te duur. Dit zijn de vijf verhalen die je donderdag gelezen moet hebben. Peter Gillis accepteert dat drie van zijn vakantieparken gedwongen geveild worden, maar",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026807/gillis-strijdt-om-parken-studentenkamers-te-duur-dit-gebeurde-vandaag"
+ },
+ {
   "id": "14fb69a317",
   "datum": "2026-09-10",
   "tijd": "17:14",
@@ -56,6 +131,71 @@
   ],
   "samenvatting": "In Marokko is de zoektocht naar de vermiste Ouadoud Rabbaj uit Zeist nog steeds in volle gang. De 22-jarige verdween op zondag 19 juli in de stad Tanger, waar hij op vakantie was met zijn ouders. Sindsdien is niets meer van hem vernomen. Twee maanden na zijn verdwijning zet zijn vader, Khadir Rabbaj, de zoektocht in Ma",
   "link": "https://nos.nl/l/2630469"
+ },
+ {
+  "id": "a3c0cbf0d8",
+  "datum": "2026-09-10",
+  "tijd": "17:05",
+  "nieuw": true,
+  "titel": "Mensenhandel, snus en lachgas op ’t Plaveen in Huizen",
+  "bron": "De Gooi- en Eemlander",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Mensenhandel, snus en lachgas op ’t Plaveen in Huizen De Gooi- en Eemlander",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVVBtYng2OXZXZE9vSDVrOXJ5ZWIwTmM5bXAzVFBjcnNhUDRGSVhfUV9TdVJXYzZKS1pLaE5Ga3duRDRmM2tCcGNab3lKb2JJTkNDbEN3cm5uMW1UdE5XSDJpNmRHRXo1b2lBT0ZaMnhfN0R2MTIwZ1lWdUUwVDlaaXlPVXktM21mOEpvTDBXLVNJNHA2Z2hzWnZ1b2c4amFHd0dQQk55RDVEaUxZVmZYTy1laGdzZmR5UG1n?oc=5"
+ },
+ {
+  "id": "26149e1f5b",
+  "datum": "2026-09-10",
+  "tijd": "17:00",
+  "nieuw": true,
+  "titel": "Megan stapte naar Huurcommissie: nu is ze tevreden met prijs voor kamer",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "haven",
+   "organisatie",
+   "stal",
+   "woning"
+  ],
+  "samenvatting": "Een kamer vinden in een van de Brabantse studentensteden is al lastig. En vaak blijkt voor een kamer dan ook nog veel meer huur gevraagd te worden dan wettelijk mag, zo blijkt uit onderzoek van radioprogramma Argos. Tilburg komt het slechtst uit het onderzoek. “De prijzen zijn sky-high . Ik heb het er niet voor over”, ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026799/megan-stapte-naar-huurcommissie-nu-is-ze-tevreden-met-prijs-voor-kamer"
+ },
+ {
+  "id": "5a77e5f411",
+  "datum": "2026-09-10",
+  "tijd": "16:42",
+  "nieuw": true,
+  "titel": "Gewapende ontvoering en woningoverval met een grote buit heeft een enorme impact op vastgebonden slachtoffers",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "De politie zoekt de daders van een ontvoering en een woningoverval. Het gaat om vier of vijf mannen. Twee van hen ontvoeren op donderdag 30 juli omstreeks 22.00 uur een 20-jarige vrouw in de buurt van Papendrecht. Vervolgens dringen dezelfde avond rond 23.00 uur drie verdachten haar woning aan de Rotterdamse Prinsenlaa",
+  "link": "https://www.rijnmond.nl/nieuws/2252073/gewapende-ontvoering-en-woningoverval-met-een-grote-buit-heeft-een-enorme-impact-op-vastgebonden-slachtoffers"
  },
  {
   "id": "350e3837d1",
@@ -77,6 +217,32 @@
   ],
   "samenvatting": "De gemeente Almere trekt 200.000 euro uit om illegale straatraces en overlast op bedrijventerrein Stichtsekant tegen te gaan. Het geld wordt onder meer gebruikt voor verkeersregelaars en matrixborden die in de weekenden kunnen worden ingezet. Dat meldt de lokale omroep 1Almere . De gemeenteraad stemde op 3 september un",
   "link": "https://www.omroepflevoland.nl/nieuws/523310/almere-trekt-twee-ton-uit-in-de-strijd-tegen-illegale-straatraces-op-bedrijventerrein"
+ },
+ {
+  "id": "5f1e3b94cc",
+  "datum": "2026-09-10",
+  "tijd": "16:25",
+  "nieuw": true,
+  "titel": "Almere - Almere trekt twee ton uit voor de strijd tegen illegale straatraces op bedrijventerrein",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Ondernemers & weerbaarheid",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bedrijventerrein",
+   "bestuurder",
+   "camping",
+   "gemeenteraad",
+   "ondernemers"
+  ],
+  "samenvatting": "De gemeente Almere trekt 200.000 euro uit om illegale straatraces en overlast op bedrijventerrein Stichtsekant tegen te gaan. Het geld wordt onder meer gebruikt voor verkeersregelaars en matrixborden die in de weekenden kunnen worden ingezet. Dat meldt de lokale omroep 1Almere . De gemeenteraad stemde op 3 september un",
+  "link": "https://www.omroepflevoland.nl/nieuws/523310/almere-trekt-twee-ton-uit-voor-de-strijd-tegen-illegale-straatraces-op-bedrijventerrein"
  },
  {
   "id": "d4c8ff8a45",
@@ -235,6 +401,28 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523296/politie-neemt-meerdere-airsoftwapens-in-beslag-bij-bedrijvencontrole-almere-haven"
  },
  {
+  "id": "418745a969",
+  "datum": "2026-09-10",
+  "tijd": "14:55",
+  "nieuw": true,
+  "titel": "FIOD doet invallen: mogelijke corruptie cardiologen Gelderland",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "corruptie",
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "De FIOD heeft donderdag acht woningen en bedrijfspanden doorzocht in hun onderzoek naar corruptie bij medisch specialisten.",
+  "link": "https://www.gld.nl/nieuws/8521068/fiod-doet-invallen-mogelijke-corruptie-cardiologen-gelderland"
+ },
+ {
   "id": "463e8bde01",
   "datum": "2026-09-10",
   "tijd": "14:30",
@@ -355,7 +543,7 @@
   "id": "43b24ccc79",
   "datum": "2026-09-10",
   "tijd": "11:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie treft 22.000 kilo zwaar illegaal vuurwerk aan",
   "bron": "De Telegraaf",
   "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
@@ -375,7 +563,7 @@
   "id": "30f7ed4838",
   "datum": "2026-09-10",
   "tijd": "11:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Advocaten die slachtoffers van partnergeweld bijstaan wordt vaker bedreigd",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
