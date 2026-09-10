@@ -1,5 +1,66 @@
 [
  {
+  "id": "96a0d851b3",
+  "datum": "2026-09-10",
+  "tijd": "08:20",
+  "nieuw": true,
+  "titel": "Vermoedelijk drugsafval aangetroffen in Nistelrode, politie zoekt naar beelden van daders",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Vermoedelijk drugsafval aangetroffen in Nistelrode, politie zoekt naar beelden van daders AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQy1pRFFJXzdoVHdfbDd5dVhuZDhQMktWRmVycWpxYTB6c0lqN29UWDVfbXQwUVNnMmdaMWlUTWg5TTZKcmhmcG92N0Y3aDBWRzVHb2hma280TEk3MFc2bDZPSXJnWXRxN2dFT0pLOHowbEFseTNQZGdrelY4ZGRQSG1YcGlEMFhmU2kzTjZkdFNYMEZIWWRlOTJ3SjBfajFuQVdxb2g5cFlKUVcybmpBMGwtcEtXTkhkSHhRZnhsTGl0ajA?oc=5"
+ },
+ {
+  "id": "2fd03263e0",
+  "datum": "2026-09-10",
+  "tijd": "08:10",
+  "nieuw": true,
+  "titel": "Bestuurder raakt rijbewijs kwijt nadat hij bijna 70 km/u te hard reed",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Op de N218 bij Geervliet reed woensdagavond een automobilist met 146 kilometer per uur op de teller. De politie heeft zijn rijbewijs afgepakt. De bestuurder werd niet aangehouden, maar moet zich later wel verantwoorden bij de verkeersofficier van justitie.",
+  "link": "https://www.rijnmond.nl/nieuws/2251843/bestuurder-raakt-rijbewijs-kwijt-nadat-hij-bijna-70-km-u-te-hard-reed"
+ },
+ {
+  "id": "24ffc27ff0",
+  "datum": "2026-09-10",
+  "tijd": "07:30",
+  "nieuw": true,
+  "titel": "Gemeente sluit pand aan Saturnusweg in Berkel en Rodenrijs vanwege vondst drugslab",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "pand"
+  ],
+  "samenvatting": "Gemeente sluit pand aan Saturnusweg in Berkel en Rodenrijs vanwege vondst drugslab AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaFFoY3VqaTJvYjJwLXRQcF9NR1R2b2Q0bEJSUVA0VWFXc0g5ZjYzSWJ5ZVBpNmNoZXN4MzFhZENNbHZPRmF5WW9EYlhOYWMxVE5LTFhIUk9KcjJKV3U1bF9rcm9SSzV6ZDBRc0VHMWNhczhyYXlBdnBvOGpyRU1WeHZiT21aN2tFRFVKSW9ybEtSTkdIZGk4aGJvSDNMaFBlZ2dSZmhHLTJQdmdVNWlvQ0xYTV9QS1VtaXRTc244MjFsdw?oc=5"
+ },
+ {
   "id": "c4cfed1cd5",
   "datum": "2026-09-10",
   "tijd": "07:04",
@@ -253,7 +314,7 @@
   "id": "5525eff3f0",
   "datum": "2026-09-09",
   "tijd": "19:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vermeende witwasbankier van Bolle Jos en Taghi opgepakt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -272,7 +333,7 @@
   "id": "7360f34ecb",
   "datum": "2026-09-09",
   "tijd": "18:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Nieuwsoverzicht 09/09 | Openbaar vervoer plat • Nautilus College weer open",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -303,7 +364,7 @@
   "id": "6c51240c54",
   "datum": "2026-09-09",
   "tijd": "18:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Brandweerman (40) uit Almelo volgende week voor de rechter voor mensenhandel, kinderporno en online misbruik",
   "bron": "Moordplekken.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -324,7 +385,7 @@
   "id": "0d8acc3cda",
   "datum": "2026-09-09",
   "tijd": "17:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Moeder van vermoorde Esther Paul vreest verlies van belangrijke informatie voor coldcase",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -343,7 +404,7 @@
   "id": "cc2afbad0b",
   "datum": "2026-09-09",
   "tijd": "17:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Waterschap brengt beverburchten in kaart met een drone, 'Schade willen we vermijden'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
