@@ -265,7 +265,7 @@
   "id": "0d8acc3cda",
   "datum": "2026-09-09",
   "tijd": "17:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Moeder van vermoorde Esther Paul vreest verlies van belangrijke informatie voor coldcase",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -284,7 +284,7 @@
   "id": "cc2afbad0b",
   "datum": "2026-09-09",
   "tijd": "17:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Waterschap brengt beverburchten in kaart met een drone, 'Schade willen we vermijden'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -979,25 +979,6 @@
   ],
   "samenvatting": "De toezichthouders op de inlichtingen- en veiligheidsdiensten hebben forse kritiek op de nieuwe Inlichtingenwet. Zij vinden de wet niet in balans: de bevoegdheden van de AIVD en de MIVD worden flink uitgebreid, terwijl de controle juist minder wordt. Het kabinet wil de geheime diensten meer mogelijkheden geven omdat de",
   "link": "https://nos.nl/l/2630253"
- },
- {
-  "id": "fe65b6112e",
-  "datum": "2026-09-08",
-  "tijd": "23:16",
-  "nieuw": false,
-  "titel": "Alkmaars ziekenhuis 'geschrokken' door van seksueel misbruik verdachte oud-arts",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "De Noordwest Ziekenhuisgroep heeft vandaag gereageerd op verdenkingen tegen een oud-arts die verbonden was aan de Noord-Hollandse ziekenhuisgroep. De 66-jarige anesthesioloog uit Bergen wordt verdacht van seksueel misbruik van kinderen in de Filipijnen. \"We zijn geschrokken en ontzet door de aard van de verdenkingen zo",
-  "link": "https://nos.nl/l/2630250"
  },
  {
   "id": "ad4678d85a",
