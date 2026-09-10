@@ -1,12 +1,12 @@
 {
- "run": "10:34",
+ "run": "11:32",
  "datum": "2026-09-10",
- "nieuw": 19,
- "totaal": 2954,
- "verwijderd": 15,
+ "nieuw": 17,
+ "totaal": 2957,
+ "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1057,
-  "geen dossier": 487
+  "niet-nederlands": 1056,
+  "geen dossier": 492
  },
  "bronnen": [
   {
@@ -14,7 +14,7 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 135,
+   "items": 136,
    "status": "1 nieuw",
    "ok": true
   },
@@ -68,7 +68,7 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 190,
+   "items": 191,
    "status": "1 nieuw",
    "ok": true
   },
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 81,
-   "status": "6 nieuw",
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 50,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 52,
-   "status": "bij",
+   "items": 53,
+   "status": "1 nieuw",
    "ok": true
   },
   {
