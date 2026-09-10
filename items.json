@@ -1,5 +1,45 @@
 [
  {
+  "id": "b8b860db47",
+  "datum": "2026-09-10",
+  "tijd": "14:27",
+  "nieuw": true,
+  "titel": "Interne documenten bevestigen: gemeente Amsterdam wil 2500 banen schrappen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "leider",
+   "organisatie"
+  ],
+  "samenvatting": "De gemeente Amsterdam wil 2500 banen schrappen, bevestigen interne documenten die AT5 en Het Parool inzagen. Dat komt overeen met de plannen in het coalitieakkoord dat Pro en D66 in juni presenteerden. Een groot deel van de ontslagen valt onder meer binnen het Ingenieursbureau van de gemeente, de dienst Verkeer & Openb",
+  "link": "https://nos.nl/l/2630444"
+ },
+ {
+  "id": "43b24ccc79",
+  "datum": "2026-09-10",
+  "tijd": "11:48",
+  "nieuw": true,
+  "titel": "Politie treft 22.000 kilo zwaar illegaal vuurwerk aan",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk",
+   "zwaar illegaal vuurwerk"
+  ],
+  "samenvatting": "Politie treft 22.000 kilo zwaar illegaal vuurwerk aan De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdS1yX09WeXBYbk9SSl9lQVJ5MHV6NkdlN3RLM09HZ2hlQ0dvbnB2bUFNYndPOXlILXIweHdKUjRpbWdOOEx3VU1pVGc2WkRlZGtIYVZUTER2QkluS2NyLWFTTnFYWUdGempES0dGQ0JPb0hUVkxFXzRBRnB6cGQ4RUVNVVlTOXFTUC1iNFdZeExJNEtWNklDcHRlWHhTb01LcEtLSndXZw?oc=5"
+ },
+ {
   "id": "30f7ed4838",
   "datum": "2026-09-10",
   "tijd": "11:27",
@@ -19,6 +59,25 @@
   ],
   "samenvatting": "Auto beklad, opgewacht worden na een zitting en gestalkt worden. Bijna 40 procent van de familierechtadvocaten in Nederland is bedreigd in zaken waar sprake is van partnergeweld. Dat melden Investico, De Groene Amsterdammer en RTL Nieuws na onderzoek . De advocaten worden vooral bedreigd wanneer ze een slachtoffer bijs",
   "link": "https://nos.nl/l/2630427"
+ },
+ {
+  "id": "5447cb131e",
+  "datum": "2026-09-10",
+  "tijd": "11:27",
+  "nieuw": true,
+  "titel": "Wateroverlast leidt naar hennepkwekerij met 450 planten in Dordtse woning",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Wateroverlast leidt naar hennepkwekerij met 450 planten in Dordtse woning AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFh4cVloRmN6OGwxbjlWbkVaOE1KMVpuSHBHbVBUZkN4WW4tWTFrTURvdGxqZkl6QzdyRjVmb1dpdUM4RkxBZjBxTzg4MDlYTVFQcFVOdzR6ZWpNTl9QNE5fRUtzNzRJc1djZVp2emlpcWx2SkVfa3JlcXJ6X1BCczk0UlRNUEdIYzRBUWtudG5SekZ2RkItQzlOai1Na0ZBT3phTl9ZMW96dWJzWmtuRw?oc=5"
  },
  {
   "id": "f821d496fd",
@@ -251,7 +310,7 @@
   "id": "11b82b0303",
   "datum": "2026-09-10",
   "tijd": "08:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrachtwagenchauffeur uit Mierlo raakt gewond bij botsing in Gelderland",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -272,7 +331,7 @@
   "id": "96a0d851b3",
   "datum": "2026-09-10",
   "tijd": "08:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vermoedelijk drugsafval aangetroffen in Nistelrode, politie zoekt naar beelden van daders",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -293,7 +352,7 @@
   "id": "bb849755e5",
   "datum": "2026-09-10",
   "tijd": "08:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vermoedelijk drugsafval aangetroffen in Nistelrode, politie zoekt naar beelden van daders",
   "bron": "Brabants Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -314,7 +373,7 @@
   "id": "2fd03263e0",
   "datum": "2026-09-10",
   "tijd": "08:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestuurder raakt rijbewijs kwijt nadat hij bijna 70 km/u te hard reed",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -333,7 +392,7 @@
   "id": "c8c155c366",
   "datum": "2026-09-10",
   "tijd": "08:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Antwerpse horecafamilie zou vandaag terechtstaan voor fiscale fraude en witwassen: “Zo zou je bijna elke handelaar in de stad kunnen sluiten”",
   "bron": "pzc.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -712,31 +771,6 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523198/moeder-van-vermoorde-esther-paul-vreest-verlies-van-belangrijke-informatie-voor-coldcase"
  },
  {
-  "id": "cc2afbad0b",
-  "datum": "2026-09-09",
-  "tijd": "17:22",
-  "nieuw": false,
-  "titel": "Flevoland - Waterschap brengt beverburchten in kaart met een drone, 'Schade willen we vermijden'",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "bedreiging",
-   "grond",
-   "school",
-   "wapen"
-  ],
-  "samenvatting": "Het is een bedreiging voor onze dijken: bevers. Ze graven gangen van soms wel twintig meter lang in dijken, spoorbermen en wegen. Hun acties kunnen in het ergste geval leiden tot een dijkdoorbraak. \"Schade aan een dijk willen we absoluut vermijden. We moeten hier in Flevoland tenslotte wel veilig onder zeeniveau kunnen",
-  "link": "https://www.omroepflevoland.nl/nieuws/523153/waterschap-brengt-beverburchten-in-kaart-met-een-drone-'schade-willen-we-vermijden'"
- },
- {
   "id": "60f167877c",
   "datum": "2026-09-09",
   "tijd": "17:15",
@@ -1064,6 +1098,27 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6026610/loods-vol-vapes-en-snus-in-dongen-mannen-30-en-44-aangehouden"
  },
  {
+  "id": "eb8433ca25",
+  "datum": "2026-09-09",
+  "tijd": "12:13",
+  "nieuw": false,
+  "titel": "Klimaatactivist uit Tilburg krijgt taakstraf voor blokkeren van A12",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "burgemeester",
+   "grond"
+  ],
+  "samenvatting": "Een 60-jarige man uit Tilburg moet 120 uur taakstraf uitvoeren omdat hij op 25 april de snelweg A12 in Utrecht blokkeerde. Ook moet de klimaatactivist van Extinction Rebellion twee weken de cel in als hij opnieuw de fout in gaat. Dit heeft de rechtbank in Utrecht woensdag besloten. Volgens de rechtbank is door de blokk",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026606/klimaatactivist-uit-tilburg-krijgt-taakstraf-voor-blokkeren-van-a12"
+ },
+ {
   "id": "2ad666faa6",
   "datum": "2026-09-09",
   "tijd": "12:08",
@@ -1195,29 +1250,6 @@
   ],
   "samenvatting": "Zilvermeeuwen doen het niet zo goed, er is steeds minder broedsucces zo blijkt uit onderzoek.",
   "link": "https://www.omroepzeeland.nl/nieuws/18728446/de-zilvermeeuw-trekt-naar-de-stad-door-voedseltekort-en-andere-vijanden-proef-moet-dat-tegengaan"
- },
- {
-  "id": "92a4298713",
-  "datum": "2026-09-09",
-  "tijd": "09:57",
-  "nieuw": false,
-  "titel": "Niet veel drukkere spits ondanks ov-staking, drukte bij deelautoplatforms",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "haven",
-   "organisatie",
-   "school"
-  ],
-  "samenvatting": "Ondanks de staking in het openbaar vervoer is de ochtendspits niet veel drukker geweest dan gemiddeld op een woensdagochtend. Dat melden de ANWB en Rijkswaterstaat. \"Het ziet ernaar uit dat heel veel mensen hun dagplanning hebben aangepast en thuiswerken\", zegt een woordvoerder van de ANWB tegen persbureau ANP. \"Ze gaa",
-  "link": "https://nos.nl/l/2630283"
  },
  {
   "id": "e5cf5d6dea",
