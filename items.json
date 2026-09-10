@@ -1,5 +1,53 @@
 [
  {
+  "id": "dfb8fca802",
+  "datum": "2026-09-10",
+  "tijd": "15:09",
+  "nieuw": true,
+  "titel": "10/9 in Nieuwsuur: Rob Jetten gebruikt AI voor posts • Huisvesting voor arbeidsmigranten • Bolle Jos en Sierra Leone • 25 jaar na 9/11",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "arbeidsmigranten"
+  ],
+  "samenvatting": "Rob Jetten gebruikt AI voor posts Persoonlijke berichten op sociale media van premier Rob Jetten worden met enige regelmaat geschreven met behulp van AI. Dat heeft de Volkskrant onderzocht. Zijn partij D66 ziet daar geen probleem in, maar deskundigen noemen het slecht voor de geloofwaardigheid van de premier. Ook zeker",
+  "link": "https://nos.nl/l/2630450"
+ },
+ {
+  "id": "d9ef941984",
+  "datum": "2026-09-10",
+  "tijd": "15:06",
+  "nieuw": true,
+  "titel": "Almere - Politie neemt meerdere airsoftwapens in beslag bij bedrijvencontrole Almere Haven",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak",
+   "Cocaine, haven & logistiek",
+   "Ondernemers & weerbaarheid",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedrijventerrein",
+   "douane",
+   "haven",
+   "ondermijnend",
+   "ondermijnende criminaliteit",
+   "pand"
+  ],
+  "samenvatting": "De politie heeft meerdere airsoftwapens gevonden tijdens een grote controle op bedrijventerreinen in Almere Haven. Volgens de gemeente Almere ontbraken de benodigde vergunningen of ontheffingen. De politie heeft de airsoftwapens daarom in beslag genomen. De gemeente controleerde afgelopen maandag samen met de politie, ",
+  "link": "https://www.omroepflevoland.nl/nieuws/523296/politie-neemt-meerdere-airsoftwapens-in-beslag-bij-bedrijvencontrole-almere-haven"
+ },
+ {
   "id": "b8b860db47",
   "datum": "2026-09-10",
   "tijd": "14:27",
@@ -18,6 +66,46 @@
   ],
   "samenvatting": "De gemeente Amsterdam wil 2500 banen schrappen, bevestigen interne documenten die AT5 en Het Parool inzagen. Dat komt overeen met de plannen in het coalitieakkoord dat Pro en D66 in juni presenteerden. Een groot deel van de ontslagen valt onder meer binnen het Ingenieursbureau van de gemeente, de dienst Verkeer & Openb",
   "link": "https://nos.nl/l/2630444"
+ },
+ {
+  "id": "6e079303c2",
+  "datum": "2026-09-10",
+  "tijd": "12:50",
+  "nieuw": true,
+  "titel": "Gemeente stopt met standaard Bibob-onderzoek bij verkoop woonwagenkavels",
+  "bron": "Nieuwsblad Stedendriehoek",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Gemeente stopt met standaard Bibob-onderzoek bij verkoop woonwagenkavels Nieuwsblad Stedendriehoek",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEo2eGgxdWpFQzRJTXdfNlNEZ0pLQmF3c2M3aHE4eGxMc2xvcG1vZnNnUF9Sby0yXzYwa1lxWW1rdE1QQ0E5VnpvbUk0bmRoSFU4Z3Badk44Rkp6XzQ2b1JYNHA1VGlrVVZ5ZDliYm14aGU3UzJkaWh6WHE0VzFyX3Fzanc2VkVGWmVtVGpMTmFJYlZwQkZFZWNhUjI5Vm9TQ3RIR0RzZ2JQdHlXZGFZSFhYLUZ1NnZ5NXBMeGJVRQ?oc=5"
+ },
+ {
+  "id": "fcc435d267",
+  "datum": "2026-09-10",
+  "tijd": "12:24",
+  "nieuw": true,
+  "titel": "Zes aanhoudingen na vondst 20.000 kilo vuurwerk in Duitse bunker",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk",
+   "woning"
+  ],
+  "samenvatting": "De politie heeft zes verdachten aangehouden in een langlopend onderzoek naar de handel in zwaar, verboden vuurwerk. In maart werden een woning en vier opslaglocaties doorzocht in Hengelo, Zwolle en Duitsland. Er werd ruim 22.000 kilo vuurwerk aangetroffen in de zwaarste categorieën F3 en F4.",
+  "link": "https://www.oost.nl/nieuws/3694304/zes-aanhoudingen-na-vondst-20000-kilo-vuurwerk-in-duitse-bunker"
  },
  {
   "id": "43b24ccc79",
@@ -272,7 +360,7 @@
   "id": "f69fb9d2f7",
   "datum": "2026-09-10",
   "tijd": "09:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie onderzoekt eigenaar Amercentrale om 'duurzaam' hout uit Maleisië",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -291,7 +379,7 @@
   "id": "d5d34fe706",
   "datum": "2026-09-10",
   "tijd": "09:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ruslands rekrutering van buitenlanders voor oorlog tegen Oekraïne komt neer op mensenhandel",
   "bron": "amnesty-international.be",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -450,6 +538,27 @@
   ],
   "samenvatting": "Antwerpse horecafamilie staat vandaag terecht voor fiscale fraude en witwassen: “Zo zou je bijna elke handelaar in de stad kunnen sluiten” pzc.nl",
   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQN3djbEY3VkhyTEdXNVlack5RazdwWG1fU08teVlZdktkem1OSlZ0YXM0UGpuOGpfYTQ1ZUVoaVJ6UXJpeVRlQnh0SnVwVlBBX1VxdWpuMHEyZEh0cU1uODk5VzhSTmNKcjBVcTVUMVdTM0dhd1pUdWJuRXRfQjZvNENhUmNZa0pvN1I1YXFDRnRSeFpZV044clV4dDNoQXJjNGplTmRra0pQTklVTU83WkVhVUt6clFxZ3RzLUo4MVVCWU1RUmVpZWJqYW9vOHNQdGczWnFsOFBBSG51Y3VFVDBDMFhoaUJKWWdVMzFrS2U3UDdvbTg2Z1QwMGgxN2NBdm1hRg?oc=5"
+ },
+ {
+  "id": "c96957b6b6",
+  "datum": "2026-09-10",
+  "tijd": "07:04",
+  "nieuw": false,
+  "titel": "Antwerpse horecafamilie staat vandaag terecht voor fiscale fraude en witwassen: “Zo zou je bijna elke handelaar in de stad kunnen sluiten”",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "horeca",
+   "witwassen"
+  ],
+  "samenvatting": "Antwerpse horecafamilie staat vandaag terecht voor fiscale fraude en witwassen: “Zo zou je bijna elke handelaar in de stad kunnen sluiten” HLN",
+  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPOGlhdHVYa2ZBLXZDTS1ra1JxcmhoYmdrQXdLT0JrUDd0bFI4SENqNWVETUFhU3FaMDF0SlU5MUF2MUNZTmNHeU4zNjBVYmVKRk1OVDlmWTFlWkc0Y2Q2dUJMdHlScldGSkFYZ1JUUGl4eGMtNlEtd1otcklleVNtejBaU1E2dEpPeGtiNFNNQVY4NTA0RVJRT3pIbUYxSEJLNkdBNEhyZVZCSWUtZFZieTVrUWZUN09WaTdtRzQwT1dZREdTaVFpQ2lXdU53LXpueFF6X0hFaHJuNkhOVVUwcEVuSlFOOENRMjRUTkxlZV9LUUNEdmVMRllLR0tBdw?oc=5"
  },
  {
   "id": "58f868343d",
@@ -700,37 +809,6 @@
   "link": "https://nos.nl/l/2630358"
  },
  {
-  "id": "7360f34ecb",
-  "datum": "2026-09-09",
-  "tijd": "18:45",
-  "nieuw": false,
-  "titel": "Flevoland - Nieuwsoverzicht 09/09 | Openbaar vervoer plat • Nautilus College weer open",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Horeca, winkels & dienstverlening",
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "arbeidsmigranten",
-   "bende",
-   "camping",
-   "explosie",
-   "gemeenteraad",
-   "huurwoning"
-  ],
-  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Landelijke ov-staking legt vandaag trein- en busverkeer plat, deel EBS-chauffeurs rijdt wel • Leerlingen van Almeerse school die plotseling sloot vanwege on",
-  "link": "https://www.omroepflevoland.nl/nieuws/523182/nieuwsoverzicht-0909-or-openbaar-vervoer-plat-*-nautilus-college-weer-open"
- },
- {
   "id": "6c51240c54",
   "datum": "2026-09-09",
   "tijd": "18:04",
@@ -872,6 +950,26 @@
   ],
   "samenvatting": "De Koninklijke Marechaussee heeft vuurwapens gevonden in de buurt van een basisschool in Overasselt. In het gebied wordt onderzoek gedaan naar de dodelijke schietpartij van vorige week. Bij de basisschool werd naar sporen en bewijsmateriaal gezocht. Volgens de politie waren de vuurwapens \"goed verborgen\". Ze zijn niet ",
   "link": "https://nos.nl/l/2630335"
+ },
+ {
+  "id": "ecff6fe4d9",
+  "datum": "2026-09-09",
+  "tijd": "15:32",
+  "nieuw": false,
+  "titel": "Inwoners uit Haaksbergen krijgen uitleg over ondermijnende criminaliteit.",
+  "bron": "RTV Oost",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijnend",
+   "ondermijnende criminaliteit"
+  ],
+  "samenvatting": "Inwoners uit Haaksbergen krijgen uitleg over ondermijnende criminaliteit. RTV Oost",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHFlNEgxZG5OVWU4WGNZMW9HaUJUZm1uWmt0YzdILTNwNTRVQ0c4MWQ4LWRIdHFmZi1zMVdGR0NSS3VDMXZjdGZYTHk1NW5UX1JZMi1kVDllTW1iTzlnX3FaeHdNYWZuSkpjN0F2VzVTTDVIZ2l3SVRsOEt1TlFrdHpCcmFKYVpOV1M5cGZkRHROTm1WUXFRX0hTbTVpbzVaY3h4VEp6eXJMZw?oc=5"
  },
  {
   "id": "10b551b7ee",
@@ -1096,27 +1194,6 @@
   ],
   "samenvatting": "Twee mannen (30 en 44) zijn woensdagochtend opgepakt in een loods aan de Julianastraat in Dongen. In de loods lagen grote hoeveelheden vapes en verboden zakjes met tabak erin, ook wel snus genoemd. De politie startte een onderzoek naar de loods nadat er eerder een vreemde geur werd geroken. “Die geur wordt vaker geroke",
   "link": "https://www.omroepbrabant.nl/nieuws/6026610/loods-vol-vapes-en-snus-in-dongen-mannen-30-en-44-aangehouden"
- },
- {
-  "id": "eb8433ca25",
-  "datum": "2026-09-09",
-  "tijd": "12:13",
-  "nieuw": false,
-  "titel": "Klimaatactivist uit Tilburg krijgt taakstraf voor blokkeren van A12",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "burgemeester",
-   "grond"
-  ],
-  "samenvatting": "Een 60-jarige man uit Tilburg moet 120 uur taakstraf uitvoeren omdat hij op 25 april de snelweg A12 in Utrecht blokkeerde. Ook moet de klimaatactivist van Extinction Rebellion twee weken de cel in als hij opnieuw de fout in gaat. Dit heeft de rechtbank in Utrecht woensdag besloten. Volgens de rechtbank is door de blokk",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026606/klimaatactivist-uit-tilburg-krijgt-taakstraf-voor-blokkeren-van-a12"
  },
  {
   "id": "2ad666faa6",
