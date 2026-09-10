@@ -1,10 +1,78 @@
 [
  {
-  "id": "7a69adf928",
+  "id": "096c907dc8",
+  "datum": "2026-09-10",
+  "tijd": "06:00",
+  "nieuw": true,
+  "titel": "NVWA treedt op tegen transport kalfjes uit Ierland: te lang onderweg zonder melk",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "haven",
+   "last onder dwangsom",
+   "mest",
+   "organisatie",
+   "toezichthouder"
+  ],
+  "samenvatting": "De Nederlandse Voedsel- en Warenautoriteit (NVWA) treedt op tegen de import van piepjonge kalfjes uit Ierland. De dieren krijgen nu tijdens een dagenlange reis nauwelijks te drinken en dat is in strijd met de regels, stelt de autoriteit. Als de omstandigheden niet fors verbeteren, moeten de transporten op termijn ophou",
+  "link": "https://nos.nl/l/2630393"
+ },
+ {
+  "id": "32fdeb7ab1",
+  "datum": "2026-09-10",
+  "tijd": "03:56",
+  "nieuw": true,
+  "titel": "Advocaat Theo Hiddema over zijn leermeester Max Moszkowicz, over slachtofferrechtspraak, over de échte ondermijning van de rechtsstaat en over een ‘totaal bespottelijk’ en mislukt proces tegen Thierry Baudet",
+  "bron": "Wynia's Week",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Advocaat Theo Hiddema over zijn leermeester Max Moszkowicz, over slachtofferrechtspraak, over de échte ondermijning van de rechtsstaat en over een ‘totaal bespottelijk’ en mislukt proces tegen Thierry Baudet Wynia's Week",
+  "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNbFpPS20yUFJzQUtMaGxVc0FlWnd1RnI3cUpuQmpINVNWRC1RVGRwMlRxeVlQbUpPcDc3aG1JeFN3NGE0cWhwTjI0UGVmLXRFdHpUUFlzOF9GTEZsY2FGUnh5dGEwWWFsZEdMZEdpVHBzRTBsYWgzQWRvM3ROc0VKR3VrOHg3WnBnTWNZRlVzZFhCaXppZ0U4UFJQRjE2bGJETEI3QWtuT1k5dWtrbXZ4MFJpMGpPSlBjYWd6RkpWQmV4bnJBZV9YOUxqbnY0bU5ZdWZiSFM0eVJsY1N3OC04SElNNk5EQUFEV2cxUUpZU3plZkpDUVRoaGtUbzRYdEcwZnRsUHhqdG5rSU11UzE1aUpxUjRTTWlJMTdBX1p0REt0Vy1QcUVXR2FLUU5xVmlr?oc=5"
+ },
+ {
+  "id": "4dee31a524",
+  "datum": "2026-09-10",
+  "tijd": "03:37",
+  "nieuw": true,
+  "titel": "Van witwassen tot illegale flamingo’s: waarom Antwerpse horecafamilie vandaag voor rechter moet verschijnen",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "horeca",
+   "witwassen"
+  ],
+  "samenvatting": "Van witwassen tot illegale flamingo’s: waarom Antwerpse horecafamilie vandaag voor rechter moet verschijnen HLN",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUjhxNEN1RF9HZmZabTdvQ090VGZEVzFmaWZhcmVVZDlmYXVmemR0LWdlci04OFJpcGlKZks2TS1tVTlJWTVDeW1qU3hVazhJN1hnZmRZVlAtNWRWQmQya3RoSEw1anFuUFBzRnVJRWNLMjVhcW9QU28wVHFuV3RETHlvNUJFVTJtc0NNTWZtbi1Wd25DcjRhWTM5OWNmaXJ1MGNNUWh5c29kXzRpNmhmd045dGR1TmhIMFlZLTcwcHdDU1hKbmUtcHU0d1Q5ZENfckh4b3RB?oc=5"
+ },
+ {
+  "id": "b998ae4166",
   "datum": "2026-09-09",
   "tijd": "20:49",
   "nieuw": true,
-  "titel": "Flevoland - A28 rond middernacht weer open voor het verkeer, herstelwerkzaamheden brug bij Nijkerk sneller klaar dan gedacht",
+  "titel": "Flevoland - A28 weer open voor het verkeer, herstelwerkzaamheden brug bij Nijkerk sneller klaar dan gedacht",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -17,8 +85,8 @@
    "stort",
    "vrachtwagen"
   ],
-  "samenvatting": "De A28 bij Nijkerk gaat waarschijnlijk rond middernacht weer open voor al het verkeer. Dat meldt Rijkswaterstaat. De snelweg ging maandag plotseling dicht omdat de fundering van de Hardenbergerbrug niet goed meer was. Rond de pijlers van de brug was zoveel zand en grind weggespoeld dat de veiligheid van de constructie ",
-  "link": "https://www.omroepflevoland.nl/nieuws/523219/a28-rond-middernacht-weer-open-voor-het-verkeer-herstelwerkzaamheden-brug-bij-nijkerk-sneller-klaar-dan-gedacht"
+  "samenvatting": "De A28 bij Nijkerk is sinds woensdagavond weer open voor al het verkeer. Dat meldt Rijkswaterstaat. De snelweg ging maandag plotseling dicht omdat de fundering van de Hardenbergerbrug niet goed meer was. Rond de pijlers van de brug was zoveel zand en grind weggespoeld dat de veiligheid van de constructie niet kon worde",
+  "link": "https://www.omroepflevoland.nl/nieuws/523219/a28-weer-open-voor-het-verkeer-herstelwerkzaamheden-brug-bij-nijkerk-sneller-klaar-dan-gedacht"
  },
  {
   "id": "7afc3042eb",
@@ -285,7 +353,7 @@
   "id": "ebe6f0c3d0",
   "datum": "2026-09-09",
   "tijd": "16:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Meer camera's en beveiligers: gemeenteraad Terneuzen kijkt opnieuw naar azc in Neckermanngebouw",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -808,25 +876,6 @@
   ],
   "samenvatting": "De Hardenbergerbrug, waar de A28 overheen loopt, blijft vanwege herstelwerkzaamheden in ieder geval vandaag nog afgesloten. Minister Karremans waarschuwde eerder dit jaar al dat circa 80 miljard euro nodig is om achterstallig onderhoud aan wegen, bruggen en spoor aan te pakken.",
   "link": "https://www.gld.nl/nieuws/8453152/zorgen-om-achterstallig-onderhoud-miljarden-nodig-voor-bruggen-en-wegen"
- },
- {
-  "id": "7bf344ea3d",
-  "datum": "2026-09-09",
-  "tijd": "08:24",
-  "nieuw": false,
-  "titel": "Eerste zitting niet in Middelburg, maar Breda • Datum pro-formazitting bekend",
-  "bron": "Omroep Zeeland",
-  "verzameld_via": "Omroep Zeeland",
-  "soort": "Nieuwsbericht",
-  "regio": "Zeeland",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "school"
-  ],
-  "samenvatting": "Bij een tragisch verkeersongeval op de N290 bij Terhole zijn op donderdag 11 juni drie leerlingen uit groep 8 en de directeur van basisschool De Warande uit Axel om het leven gekomen. De slachtoffers maakten deel uit van een groep die op de fiets onderweg was naar schoolkamp. Vier dodelijke slachtoffers bij aanrijding ",
-  "link": "https://www.omroepzeeland.nl/nieuws/18532638/eerste-zitting-niet-in-middelburg-maar-breda-datum-pro-formazitting-bekend"
  },
  {
   "id": "10943b5c8a",
