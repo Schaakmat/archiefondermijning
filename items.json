@@ -11,14 +11,11 @@
   "regio": "Landelijk",
   "dossiers": [
    "Buitengebied & recreatie",
-   "Geweld, liquidaties & bedreiging",
-   "Horeca, winkels & dienstverlening"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "bedreiging",
    "geweld",
-   "stal",
-   "supermarkt"
+   "stal"
   ],
   "samenvatting": "Auto beklad, opgewacht worden na een zitting en gestalkt worden. Bijna 40 procent van de familierechtadvocaten in Nederland is bedreigd in zaken waar sprake is van partnergeweld. Dat melden Investico, De Groene Amsterdammer en RTL Nieuws na onderzoek . De advocaten worden vooral bedreigd wanneer ze een slachtoffer bijs",
   "link": "https://nos.nl/l/2630427"
@@ -50,11 +47,116 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523176/lelystad-airport-krijgt-mogelijk-mbo-campus-pal-naast-terminal"
  },
  {
-  "id": "a5ef73398a",
+  "id": "47fceeb671",
+  "datum": "2026-09-10",
+  "tijd": "10:21",
+  "nieuw": true,
+  "titel": "Buren verhuizen om ondraaglijke stank van Zwollenaar: 'Urine in muren getrokken'",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De maat is vol voor woningcorporatie SZW. De woning van een Zwollenaar (64) stinkt zó erg, dat de buren boven en naast hem zijn verhuisd. Zelfs een drie maanden durende schoonmaakoperatie kreeg de geur niet weg. SZW wil via de rechter afdwingen dat de man weg gaat.",
+  "link": "https://www.oost.nl/nieuws/3694226/buren-verhuizen-om-ondraaglijke-stank-van-zwollenaar-urine-in-muren-getrokken"
+ },
+ {
+  "id": "b6bebd9333",
+  "datum": "2026-09-10",
+  "tijd": "09:56",
+  "nieuw": true,
+  "titel": "Europol-rapport over witwassen, cryptovaluta en misbruik van legale bedrijfsstructuren door criminele netwerken in de EU",
+  "bron": "BijzonderStrafrecht.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "cryptovaluta",
+   "netwerk",
+   "witwassen"
+  ],
+  "samenvatting": "Europol-rapport over witwassen, cryptovaluta en misbruik van legale bedrijfsstructuren door criminele netwerken in de EU BijzonderStrafrecht.nl",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcUJtMFlQRnBWbmlNVjI1Tm1ORTVRRHpZUXFDU3Robzk5Wm9yWEkwUmZzZndWblFJa0ctQ2NhUkFVZkdPUE9JS2ZPT2d6dnhIUkhsVERweGVCd0xPR01CTDNabE5pdVBLQlhnOWJZdjJhUk5SVGVkeHZTaTlfU2tqblViRzdDaWduSU9FSVREaWVWN3BBNElqcGNRaEdlNWY5RHREeGxOR2liWVdNUXp4cnRvcl9KQVZCTm9kMzV6NGpQTi04dEQ3VjhKRE5FeGFVNEo1aS10bU9PWFZjeHk1TW9TVjgyMTFUcXFpNGhaTEo?oc=5"
+ },
+ {
+  "id": "6f3f846d3f",
+  "datum": "2026-09-10",
+  "tijd": "09:34",
+  "nieuw": true,
+  "titel": "Bewoners uit Haaksbergen krijgen kijkje in drugslab: ‘Ik ken dit alleen van films’",
+  "bron": "oost.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Bewoners uit Haaksbergen krijgen kijkje in drugslab: ‘Ik ken dit alleen van films’ oost.nl",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkl1M004aHVVMFdTR3A0dGx1ZHEzLTA3alRSUGw1WXpQYXpMZ3EyeXpnWDBHZjA3ZUNNWU9kdlRwdGFHQ1c5SDVEdWpzVXNVU052ZXAyQklDRW1leVI1YXFVMmxaa080cktZcU5mTTUtbWo0Z1B4TWVTNDRYVWpiYk1HTzBzZldCZDBkMlN6ZmRzdTZ1aTk3dVVYNXY4VHFsaW5TQllGeVd0RjhHRkpORFRRWVY?oc=5"
+ },
+ {
+  "id": "d60bba6bc0",
+  "datum": "2026-09-10",
+  "tijd": "09:32",
+  "nieuw": true,
+  "titel": "Bewoners uit Haaksbergen krijgen kijkje in drugslab: ‘Ik ken dit alleen van films’",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "ondermijning"
+  ],
+  "samenvatting": "Een aanhangwagen met een drugslab moet bewoners uit Haaksbergen laten zien hoe crimineel werk eruitziet. Drugslabs duiken volgens de politie steeds vaker op in woonwijken. Bij het ondermijningskwartier krijgen inwoners tips om verdachte situaties te herkennen.",
+  "link": "https://www.oost.nl/nieuws/3693976/bewoners-uit-haaksbergen-krijgen-kijkje-in-drugslab-ik-ken-dit-alleen-van-films"
+ },
+ {
+  "id": "f8d6458229",
+  "datum": "2026-09-10",
+  "tijd": "09:30",
+  "nieuw": true,
+  "titel": "Peter Gillis: ‘Gedwongen veiling terecht, maar taxatiewaarde veel te laag’",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "camping",
+   "stort",
+   "vakantiepark"
+  ],
+  "samenvatting": "Peter Gillis (64) is schuldbewust en snapt dat drie van zijn vakantieparken gedwongen geveild gaan worden. Maar toch wil hij de veiling via de rechter tegenhouden omdat de taxatiewaarde van Prinsenmeer volgens hem bijna twintig miljoen euro te laag is. Dat zeggen Gillis en zijn advocaat Eric Braun in een interview met ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026736/peter-gillis-gedwongen-veiling-terecht-maar-taxatiewaarde-veel-te-laag"
+ },
+ {
+  "id": "f69fb9d2f7",
   "datum": "2026-09-10",
   "tijd": "09:11",
   "nieuw": true,
-  "titel": "Amercentrale verbrandt 'duurzaam' hout, kap tast Maleisische bossen aan",
+  "titel": "Politie onderzoekt eigenaar Amercentrale om 'duurzaam' hout uit Maleisië",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -65,8 +167,8 @@
   "tags": [
    "afval"
   ],
-  "samenvatting": "Een deel van de houtpellets die in de Amercentrale in Geertruidenberg wordt verbrandt, heeft onterecht een duurzaam label. Dat komt naar voren uit onderzoek van NRC en onderzoeksprogramma Zembla. De pellets komen uit Maleisië, waar tegen duurzaamheidseisen in hele bomen worden verwerkt tot brandstof, onder meer voor de",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026658/amercentrale-verbrandt-duurzaam-hout-kap-tast-maleisische-bossen-aan"
+  "samenvatting": "Een deel van de houtpellets die in de Amercentrale in Geertruidenberg wordt verbrand, heeft onterecht een duurzaam label. Dat komt naar voren uit onderzoek van NRC en onderzoeksprogramma Zembla. De pellets komen uit Maleisië, waar tegen duurzaamheidseisen in hele bomen worden verwerkt tot brandstof, onder meer voor de ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026658/politie-onderzoekt-eigenaar-amercentrale-om-duurzaam-hout-uit-maleisie"
  },
  {
   "id": "d5d34fe706",
@@ -98,12 +200,14 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Cocaine, haven & logistiek"
+   "Cocaine, haven & logistiek",
+   "Trustkantoren & rechtspersonen"
   ],
   "tags": [
+   "bestuurder",
    "vrachtwagen"
   ],
-  "samenvatting": "Een 29-jarige vrachtwagenchauffeur uit Mierlo is woensdagnacht gewond geraakt bij een botsing met een bergingswagen op de N30 bij Terschuur (Gelderland). De man is met een ambulance naar het ziekenhuis gebracht. De berger vervoerde een pijlwagen, die eerder die nacht door een ander ongeval op de A1 beschadigd was geraa",
+  "samenvatting": "Een 29-jarige vrachtwagenchauffeur uit Mierlo is woensdagnacht gewond geraakt bij een botsing met een aanhanger op de A2 bij Terschuur (Gelderland). Op de aanhanger stond een pijlwagen. De man is met een ambulance naar het ziekenhuis gebracht. Het ongeluk gebeurde rond halfdrie richting Apeldoorn. De kleine vrachtwagen",
   "link": "https://www.omroepbrabant.nl/nieuws/6026732/vrachtwagenchauffeur-uit-mierlo-raakt-gewond-bij-botsing-in-gelderland"
  },
  {
@@ -298,7 +402,7 @@
   "id": "32fdeb7ab1",
   "datum": "2026-09-10",
   "tijd": "03:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Advocaat Theo Hiddema over zijn leermeester Max Moszkowicz, over slachtofferrechtspraak, over de échte ondermijning van de rechtsstaat en over een ‘totaal bespottelijk’ en mislukt proces tegen Thierry Baudet",
   "bron": "Wynia's Week",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -317,7 +421,7 @@
   "id": "4dee31a524",
   "datum": "2026-09-10",
   "tijd": "03:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Van witwassen tot illegale flamingo’s: waarom Antwerpse horecafamilie vandaag voor rechter moet verschijnen",
   "bron": "HLN",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -338,7 +442,7 @@
   "id": "b998ae4166",
   "datum": "2026-09-09",
   "tijd": "20:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - A28 weer open voor het verkeer, herstelwerkzaamheden brug bij Nijkerk sneller klaar dan gedacht",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -359,7 +463,7 @@
   "id": "7afc3042eb",
   "datum": "2026-09-09",
   "tijd": "20:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vloeistof in weiland in Nistelrode gevonden, mogelijk lozing van drugsafval",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -380,7 +484,7 @@
   "id": "8bfc5d3c03",
   "datum": "2026-09-09",
   "tijd": "20:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Brug A28 bij Nijkerk weer helemaal open na spoedherstel",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -720,27 +824,6 @@
   ],
   "samenvatting": "Jumbo heeft in het eerste halfjaar van 2026 meer omzet geboekt en meer klanten naar zijn winkels getrokken. Volgens Jumbo zelf is dat te danken aan verdere modernisering van de winkels en een relevanter assortiment. De Veghelse supermarktketen zag ook zijn marktaandeel stabiliseren. De omzet over de eerste helft van 20",
   "link": "https://www.omroepbrabant.nl/nieuws/6026623/meer-klanten-en-hogere-omzet-voor-jumbo-in-eerste-helft-2026"
- },
- {
-  "id": "330ec9004d",
-  "datum": "2026-09-09",
-  "tijd": "14:44",
-  "nieuw": false,
-  "titel": "Lelystad - Fietspad Gelderse Diep moet met voorrang betere verlichting krijgen",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "gemeenteraad",
-   "moord"
-  ],
-  "samenvatting": "Het fietspad langs het Gelderse Diep in Lelystad moet met voorrang \"actieve\" straatverlichting krijgen om de sociale veiligheid te verbeteren. Een goede oplossing laat veel te lang op zich wachten. Een meerderheid van de gemeenteraad heeft hiervoor een motie gesteund van Mooi Lelystad, Forum voor Democratie, PVV en VVD",
-  "link": "https://www.omroepflevoland.nl/nieuws/523129/fietspad-gelderse-diep-moet-met-voorrang-betere-verlichting-krijgen"
  },
  {
   "id": "7d2e82e6c6",

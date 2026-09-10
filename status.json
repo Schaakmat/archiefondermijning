@@ -1,12 +1,12 @@
 {
- "run": "09:32",
+ "run": "10:34",
  "datum": "2026-09-10",
  "nieuw": 19,
- "totaal": 2950,
- "verwijderd": 12,
+ "totaal": 2954,
+ "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1064,
-  "geen dossier": 513
+  "niet-nederlands": 1057,
+  "geen dossier": 487
  },
  "bronnen": [
   {
@@ -14,7 +14,7 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 134,
+   "items": 135,
    "status": "1 nieuw",
    "ok": true
   },
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 189,
-   "status": "bij",
+   "items": 190,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 165,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 139,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 40,
-   "status": "5 nieuw",
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 80,
-   "status": "5 nieuw",
+   "items": 81,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 48,
-   "status": "bij",
+   "items": 50,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 42,
-   "status": "5 nieuw",
+   "items": 41,
+   "status": "4 nieuw",
    "ok": true
   },
   {
