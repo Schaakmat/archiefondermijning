@@ -4,7 +4,7 @@
   "datum": "2026-09-10",
   "tijd": "20:02",
   "nieuw": true,
-  "titel": "Flevoland - Tiener uit Lelystad opgepakt nadat hij bankpas gebruikte van slachtoffer nepagent",
+  "titel": "Lelystad - Tiener uit Lelystad opgepakt nadat hij bankpas gebruikte van slachtoffer nepagent",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -17,6 +17,25 @@
   ],
   "samenvatting": "Een tiener uit Lelystad is donderdag opgepakt nadat hij had geprobeerd te betalen met een gestolen bankpas. Hij wordt verdacht van zogenoemde helpdeskfraude, meldt de politie. De pas werd op 20 augustus gestolen van een oudere vrouw in Tilburg. Zij had een telefoontje gekregen van een oplichter die zich voordeed als po",
   "link": "https://www.omroepflevoland.nl/nieuws/523344/tiener-uit-lelystad-opgepakt-nadat-hij-bankpas-gebruikte-van-slachtoffer-nepagent"
+ },
+ {
+  "id": "a5256c5806",
+  "datum": "2026-09-10",
+  "tijd": "18:58",
+  "nieuw": true,
+  "titel": "Hoe Marokkaanse jongeren uit Ede onlosmakelijk werden verbonden met de aanslagen van 9/11",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Het begon met een persbericht van de politie uit Ede, niet lang na de aanslagen van 11 september 2001 in de Verenigde Staten. Marokkaanse jongeren zouden op straat de terreurdaden hebben gevierd. Het bericht ging de wereld over en de verontwaardiging was groot. Twee weken later gaf de perswoordvoerder van de politie to",
+  "link": "https://www.gld.nl/nieuws/8517805/hoe-marokkaanse-jongeren-uit-ede-onlosmakelijk-werden-verbonden-met-de-aanslagen-van-9-11"
  },
  {
   "id": "84f63e4200",
@@ -68,6 +87,25 @@
   ],
   "samenvatting": "In een onderzoek naar corruptie door cardiologen heeft de FIOD invallen gedaan in acht woningen en bedrijfspanden. Om hoeveel specialisten het gaat, wil de FIOD niet zeggen. Er zijn geen aanhoudingen verricht. De fiscale opsporingsdienst verdenkt hartspecialisten van twee ziekenhuizen ervan geld te hebben gekregen van ",
   "link": "https://nos.nl/l/2630483"
+ },
+ {
+  "id": "ea2639b68a",
+  "datum": "2026-09-10",
+  "tijd": "18:14",
+  "nieuw": true,
+  "titel": "Weggebruikers opgelet: de Van Brienenoordbrug is tijdelijk dicht vanwege inspecties",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Moet je vanavond nog de weg op? Let dan goed op, want de Van Brienenoordbrug is donderdagavond en -nacht afgesloten voor al het autoverkeer. Rijkswaterstaat inspecteert de installaties van de brug.",
+  "link": "https://www.rijnmond.nl/nieuws/2252087/weggebruikers-opgelet-de-van-brienenoordbrug-is-tijdelijk-dicht-vanwege-inspecties"
  },
  {
   "id": "ec4a06486c",
@@ -253,6 +291,27 @@
   ],
   "samenvatting": "Een kamer vinden in een van de Brabantse studentensteden is al lastig. En vaak blijkt voor een kamer dan ook nog veel meer huur gevraagd te worden dan wettelijk mag, zo blijkt uit onderzoek van radioprogramma Argos. Tilburg komt het slechtst uit het onderzoek. “De prijzen zijn sky-high . Ik heb het er niet voor over”, ",
   "link": "https://www.omroepbrabant.nl/nieuws/6026799/megan-stapte-naar-huurcommissie-nu-is-ze-tevreden-met-prijs-voor-kamer"
+ },
+ {
+  "id": "3e66efbe63",
+  "datum": "2026-09-10",
+  "tijd": "16:49",
+  "nieuw": true,
+  "titel": "Twee nepagenten stelen sieraden van 88-jarige inwoonster van Dordrecht",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "sieraden",
+   "woning"
+  ],
+  "samenvatting": "Een actie tegen inbraken. Daar is de politie mee bezig. Althans dat beweert een zogenaamde politieagente tijdens een telefoongesprek met een 88-jarige inwoonster van Dordrecht. De bejaarde vrouw gelooft haar en staat toe dat er een andere nepagent bij haar langskomt om haar woning te inspecteren.",
+  "link": "https://www.rijnmond.nl/nieuws/2252075/twee-nepagenten-stelen-sieraden-van-88-jarige-inwoonster-van-dordrecht"
  },
  {
   "id": "5a77e5f411",
@@ -477,7 +536,7 @@
   "id": "418745a969",
   "datum": "2026-09-10",
   "tijd": "14:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "FIOD doet invallen: mogelijke corruptie cardiologen Gelderland",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -499,7 +558,7 @@
   "id": "463e8bde01",
   "datum": "2026-09-10",
   "tijd": "14:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dordtse parkeergarage nog maanden dicht vanwege scheur in constructie",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
