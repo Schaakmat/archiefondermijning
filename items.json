@@ -1,5 +1,58 @@
 [
  {
+  "id": "350e3837d1",
+  "datum": "2026-09-10",
+  "tijd": "16:25",
+  "nieuw": true,
+  "titel": "Almere - Almere trekt twee ton uit in de strijd tegen illegale straatraces op bedrijventerrein",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Ondernemers & weerbaarheid",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bedrijventerrein",
+   "bestuurder",
+   "camping",
+   "gemeenteraad",
+   "ondernemers"
+  ],
+  "samenvatting": "De gemeente Almere trekt 200.000 euro uit om illegale straatraces en overlast op bedrijventerrein Stichtsekant tegen te gaan. Het geld wordt onder meer gebruikt voor verkeersregelaars en matrixborden die in de weekenden kunnen worden ingezet. Dat meldt de lokale omroep 1Almere . De gemeenteraad stemde op 3 september un",
+  "link": "https://www.omroepflevoland.nl/nieuws/523310/almere-trekt-twee-ton-uit-in-de-strijd-tegen-illegale-straatraces-op-bedrijventerrein"
+ },
+ {
+  "id": "d4c8ff8a45",
+  "datum": "2026-09-10",
+  "tijd": "15:38",
+  "nieuw": true,
+  "titel": "Sierra Leone beschuldigt Nederland van neo-kolonialisme vanwege Bolle Jos",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "cocaïne",
+   "container",
+   "douane",
+   "geweld",
+   "haven",
+   "organisatie"
+  ],
+  "samenvatting": "In een interview met een tv-station in Sierra Leone, de vermoedelijke verblijfplaats van Bolle Jos, heeft Justitieminister David van Weel de druk op het land opgevoerd. Hij wil dat Sierra Leone de drugscrimineel uitlevert. Maar zijn uitlatingen vallen daar alles behalve goed. De premier van het land beschuldigt Van Wee",
+  "link": "https://nos.nl/l/2630455"
+ },
+ {
   "id": "dfb8fca802",
   "datum": "2026-09-10",
   "tijd": "15:09",
@@ -29,23 +82,38 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
    "Bibob & bestuurlijke aanpak",
    "Cocaine, haven & logistiek",
    "Ondernemers & weerbaarheid",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
    "bedrijventerrein",
-   "douane",
    "haven",
-   "ondermijnend",
-   "ondermijnende criminaliteit",
-   "pand"
+   "vergunning",
+   "wapen"
   ],
   "samenvatting": "De politie heeft meerdere airsoftwapens gevonden tijdens een grote controle op bedrijventerreinen in Almere Haven. Volgens de gemeente Almere ontbraken de benodigde vergunningen of ontheffingen. De politie heeft de airsoftwapens daarom in beslag genomen. De gemeente controleerde afgelopen maandag samen met de politie, ",
   "link": "https://www.omroepflevoland.nl/nieuws/523296/politie-neemt-meerdere-airsoftwapens-in-beslag-bij-bedrijvencontrole-almere-haven"
+ },
+ {
+  "id": "463e8bde01",
+  "datum": "2026-09-10",
+  "tijd": "14:30",
+  "nieuw": true,
+  "titel": "Dordtse parkeergarage nog maanden dicht vanwege scheur in constructie",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Autobranche & garages"
+  ],
+  "tags": [
+   "garage"
+  ],
+  "samenvatting": "De parkeergarage Visstraat in het centrum van Dordrecht blijft nog zeker een aantal maanden dicht. De gemeente wacht nog op een definitief rapport van het onderzoek naar de technische staat van de parkeergarage, dat dit najaar wordt verwacht. Daarna moeten concrete maatregelen worden genomen.",
+  "link": "https://www.rijnmond.nl/nieuws/2252038/dordtse-parkeergarage-nog-maanden-dicht-vanwege-scheur-in-constructie"
  },
  {
   "id": "b8b860db47",
@@ -66,6 +134,25 @@
   ],
   "samenvatting": "De gemeente Amsterdam wil 2500 banen schrappen, bevestigen interne documenten die AT5 en Het Parool inzagen. Dat komt overeen met de plannen in het coalitieakkoord dat Pro en D66 in juni presenteerden. Een groot deel van de ontslagen valt onder meer binnen het Ingenieursbureau van de gemeente, de dienst Verkeer & Openb",
   "link": "https://nos.nl/l/2630444"
+ },
+ {
+  "id": "42c6122de1",
+  "datum": "2026-09-10",
+  "tijd": "13:47",
+  "nieuw": true,
+  "titel": "Twee aanhoudingen voor schietpartij in Breda waarbij man (20) gewond raakte",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De politie heeft twee verdachten aangehouden in het onderzoek naar de schietpartij in de Tolbrugstraat in Breda. Het gaat om twee mannen van 18 en 22 jaar uit Breda. Zij werden vorige week al aangehouden voor de schietpartij in de nacht van 23 op 24 augustus, maar de politie maakte dit pas donderdag bekend. Bij de schi",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026783/twee-aanhoudingen-voor-schietpartij-in-breda-waarbij-man-20-gewond-raakte"
  },
  {
   "id": "6e079303c2",
@@ -258,7 +345,7 @@
   "id": "b6bebd9333",
   "datum": "2026-09-10",
   "tijd": "09:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Europol-rapport over witwassen, cryptovaluta en misbruik van legale bedrijfsstructuren door criminele netwerken in de EU",
   "bron": "BijzonderStrafrecht.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -282,7 +369,7 @@
   "id": "6f3f846d3f",
   "datum": "2026-09-10",
   "tijd": "09:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bewoners uit Haaksbergen krijgen kijkje in drugslab: ‘Ik ken dit alleen van films’",
   "bron": "oost.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -301,7 +388,7 @@
   "id": "d60bba6bc0",
   "datum": "2026-09-10",
   "tijd": "09:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bewoners uit Haaksbergen krijgen kijkje in drugslab: ‘Ik ken dit alleen van films’",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -322,7 +409,7 @@
   "id": "f8d6458229",
   "datum": "2026-09-10",
   "tijd": "09:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Peter Gillis: ‘Gedwongen veiling terecht, maar taxatiewaarde veel te laag’",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -341,7 +428,7 @@
   "id": "7a63b36def",
   "datum": "2026-09-10",
   "tijd": "09:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Opgepakte bestuurder met bivakmuts smeert politiecel onder met poep",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -496,6 +583,27 @@
   ],
   "samenvatting": "Antwerpse horecafamilie zou vandaag terechtstaan voor fiscale fraude en witwassen: “Zo zou je bijna elke handelaar in de stad kunnen sluiten” pzc.nl",
   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQY0ZfcjV4RHVlbHpMcXBGWE0xQUpMWHJwRFhxczVpbEgzSkwwOHVoYjVzdVRCWGh3dk8xUl81WDY5SWNuT2N0dU9YaHgxX19ja01KT0t0SDNPbDgtemRFR3l1ZE5fX1Y4RWVaNno1ci1DQTJGdTRiRm5SbDU0ZFg1RTNEblA3U3ByT1Z4Tkt0WFFCRDFKYWVOWXBLbmluZkxlamp5a2VpLVJ5YUd1WGtFQTVtT2lULWdXMXJIbDgwN3NyaUJYUm11NFVOYWZnTnhPZzRlUG51UE1UYnpjSHhJaGcxWDlEVWxCUk1MNWlhbWdiQnlSMl95YnA5MWFSMlVRbGFhcUxVWno?oc=5"
+ },
+ {
+  "id": "37aade0366",
+  "datum": "2026-09-10",
+  "tijd": "08:08",
+  "nieuw": false,
+  "titel": "Antwerpse horecafamilie zou vandaag terechtstaan voor fiscale fraude en witwassen: “Zo zou je bijna elke handelaar in de stad kunnen sluiten”",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "horeca",
+   "witwassen"
+  ],
+  "samenvatting": "Antwerpse horecafamilie zou vandaag terechtstaan voor fiscale fraude en witwassen: “Zo zou je bijna elke handelaar in de stad kunnen sluiten” HLN",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObmNJMXdPQ3E3di1KaDlQNVF5bFFEd3ZHbGI5XzdocEdPUE5ES1d0M1VUdUc4TFhYeXhfTEo4Zi1ieHl5Vm85N1NUOTRscXNqYVRPYy0tS0ZhSVRRRWlKQzctR1JXX2Rsc29YT0xqVjNRZzN0NkhscGdrZUlPTEhJOVJNMzdIVHNNQ2lJRjZfdUlyVkY3OXlydlRTVGVYbkZkdlBseE9aV0o2aWxpME5IRUZvVUdIX0M5aElNWlFIZzNNa0NzTERUYnNLSTZsYmxoSjdEWEd5SkRXTmI5VEtyTFlVTklucVI0RmVtMXZDalZjdEltQ09ral9EZVFmRDJYT1E?oc=5"
  },
  {
   "id": "24ffc27ff0",
@@ -1010,31 +1118,6 @@
   ],
   "samenvatting": "Illegale bewoning en signalen van mensenhandel gevonden bij controle op ’t Plaveen HuizerNieuws",
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObFJobzlDeEFLYndqbWR2MDl4Z2lNckp4OUh1ZzRYQmhIZHc3OGtBWlVUTFZGMUlFbmxDZFpYenB1X1JHeGdQQXJDX09XdVR1LWhUV0NYV0F0anFjWEdTTkQzUWxzVnZUcHJ0UWVvNG1Cc3NzdEYtVDJ4c2dzTGtYTHhVdGNjVUZoNUhtQUpfV2M0cGFhVFl5UDk3WnIwQnFQNW5NYk5MYmp2bFJYYm1ZLW4wckREYVNiNTZCSlNDQUNtQkZkN01jeU1zZ1JiUHdJNm82SXVfb25wX1hhSmVHb212Rkw?oc=5"
- },
- {
-  "id": "3933e967fb",
-  "datum": "2026-09-09",
-  "tijd": "15:03",
-  "nieuw": false,
-  "titel": "Meer klanten en hogere omzet voor Jumbo in eerste helft 2026",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Corruptie & integriteit",
-   "Horeca, winkels & dienstverlening",
-   "Ondernemers & weerbaarheid",
-   "Witwassen & geldstromen"
-  ],
-  "tags": [
-   "omkoping",
-   "ondernemers",
-   "supermarkt",
-   "witwassen"
-  ],
-  "samenvatting": "Jumbo heeft in het eerste halfjaar van 2026 meer omzet geboekt en meer klanten naar zijn winkels getrokken. Volgens Jumbo zelf is dat te danken aan verdere modernisering van de winkels en een relevanter assortiment. De Veghelse supermarktketen zag ook zijn marktaandeel stabiliseren. De omzet over de eerste helft van 20",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026623/meer-klanten-en-hogere-omzet-voor-jumbo-in-eerste-helft-2026"
  },
  {
   "id": "7d2e82e6c6",
