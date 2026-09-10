@@ -1,12 +1,12 @@
 {
- "run": "15:32",
+ "run": "16:31",
  "datum": "2026-09-10",
- "nieuw": 17,
- "totaal": 2971,
- "verwijderd": 13,
+ "nieuw": 19,
+ "totaal": 2974,
+ "verwijderd": 16,
  "geweigerd": {
-  "niet-nederlands": 1053,
-  "geen dossier": 486
+  "niet-nederlands": 1068,
+  "geen dossier": 464
  },
  "bronnen": [
   {
@@ -14,7 +14,7 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 137,
+   "items": 138,
    "status": "1 nieuw",
    "ok": true
   },
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 82,
-   "status": "5 nieuw",
+   "items": 83,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -510,8 +510,8 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 123,
-   "status": "bij",
-   "ok": true
+   "status": "fout: URLError",
+   "ok": false
   },
   {
    "naam": "1Limburg",
@@ -572,8 +572,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 36,
-   "status": "bij",
+   "items": 37,
+   "status": "1 nieuw",
    "ok": true
   }
  ]
