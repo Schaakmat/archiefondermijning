@@ -19,6 +19,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523344/tiener-uit-lelystad-opgepakt-nadat-hij-bankpas-gebruikte-van-slachtoffer-nepagent"
  },
  {
+  "id": "4967be33cb",
+  "datum": "2026-09-10",
+  "tijd": "19:46",
+  "nieuw": true,
+  "titel": "Gewonde bij steekpartij in woning, één persoon aangehouden",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Bij een steekpartij in Vlaardingen is donderdagavond een persoon gewond geraakt. Dat gebeurde tijdens een ruzie in huiselijke sfeer, zegt de politie. Er is één persoon aangehouden.",
+  "link": "https://www.rijnmond.nl/nieuws/2252097/gewonde-bij-steekpartij-in-woning-een-persoon-aangehouden"
+ },
+ {
   "id": "a5256c5806",
   "datum": "2026-09-10",
   "tijd": "18:58",
@@ -450,7 +469,7 @@
   "id": "aadfd66f25",
   "datum": "2026-09-10",
   "tijd": "15:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester sluit woning met drugslab aan Saturnus voor drie maanden",
   "bron": "RTV Lansingerland",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -473,7 +492,7 @@
   "id": "ff3e798651",
   "datum": "2026-09-10",
   "tijd": "15:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jonge 'agent' loopt tegen de lamp als hij met gestolen bankpas wil betalen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -492,7 +511,7 @@
   "id": "dfb8fca802",
   "datum": "2026-09-10",
   "tijd": "15:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "10/9 in Nieuwsuur: Rob Jetten gebruikt AI voor posts • Huisvesting voor arbeidsmigranten • Bolle Jos en Sierra Leone • 25 jaar na 9/11",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -511,7 +530,7 @@
   "id": "d9ef941984",
   "datum": "2026-09-10",
   "tijd": "15:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Politie neemt meerdere airsoftwapens in beslag bij bedrijvencontrole Almere Haven",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -751,32 +770,6 @@
   ],
   "samenvatting": "Weer explosie bij woning 79-jarige vrouw in Diemen, politie houdt rekening met vergissing AT5",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLV96RFFkeHNENmdFVE45RFRTVGVpRGtiUUZVblFVVWVEelZYdFRMTlZBZlhlS0FEcWlOVEFPVGFFc2JZUWdzcnQ0eDhVQlNlb2FSUjQ1T3ZjSlBYcVotanZfVXpXdHBmbE5ZYUxiUlB0RmduS0tVUFpVZDEwM25ZRXllMnRETXJZODRiSnY3VUVtSnlZVWpWQXIzbWljQkpocWQzazUwb2xXNkNzRHE3bUNEV0p3R1BRdW53SDVJUFBMQQ?oc=5"
- },
- {
-  "id": "bbf0d23351",
-  "datum": "2026-09-10",
-  "tijd": "10:43",
-  "nieuw": false,
-  "titel": "Lelystad - Lelystad Airport krijgt mogelijk mbo-campus pal naast terminal",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "beveiliging",
-   "grond",
-   "haven",
-   "schiphol",
-   "vergunning"
-  ],
-  "samenvatting": "Zodra Lelystad Airport open mag voor vakantievluchten, wil ROC Amsterdam-Flevoland werkplekken en stages aanbieden voor functies binnen de terminal. Zo kunnen studenten tegelijk leren en werkervaring opdoen. Lelystad Airport heeft hierover eind vorige week afspraken gemaakt met ROC Amsterdam-Flevoland en SCALA. Dat is ",
-  "link": "https://www.omroepflevoland.nl/nieuws/523176/lelystad-airport-krijgt-mogelijk-mbo-campus-pal-naast-terminal"
  },
  {
   "id": "0abcf4bfee",
