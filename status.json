@@ -1,12 +1,12 @@
 {
- "run": "17:31",
+ "run": "18:33",
  "datum": "2026-09-10",
- "nieuw": 25,
- "totaal": 2982,
- "verwijderd": 17,
+ "nieuw": 24,
+ "totaal": 2986,
+ "verwijderd": 20,
  "geweigerd": {
-  "niet-nederlands": 1097,
-  "geen dossier": 493
+  "niet-nederlands": 1057,
+  "geen dossier": 489
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 138,
-   "status": "bij",
+   "items": 139,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 166,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 46,
-   "status": "10 nieuw",
+   "status": "9 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 85,
-   "status": "8 nieuw",
+   "items": 86,
+   "status": "9 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 67,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 124,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 51,
-   "status": "bij",
+   "items": 52,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,7 +545,7 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 42,
+   "items": 43,
    "status": "3 nieuw",
    "ok": true
   },
