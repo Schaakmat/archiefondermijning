@@ -221,7 +221,7 @@
   "id": "0e49621297",
   "datum": "2026-09-11",
   "tijd": "15:02",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Recherche Helmond pakt drie mannen op die de baas waren over nepagenten",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -41981,6 +41981,26 @@
   "dossiers": [
    "Witwassen & geldstromen"
   ]
+ },
+ {
+  "id": "0711d59b67",
+  "datum": "2025-02-06",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Limburgse gemeenten zetten in op versterken weerbaarheid tegen ondermijning",
+  "bron": "Roermond.nieuws.nl",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning",
+   "weerbaarheid tegen ondermijning"
+  ],
+  "samenvatting": "Limburgse gemeenten zetten in op versterken weerbaarheid tegen ondermijning Roermond.nieuws.nl",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVItcGVRX0pLSFdNYms1Z3JkdTFvbXdtUDlQVmVtWWZCd25oQTlJWGJkR2dQYUNMTlp6Y19PajFOQXhKMXQxaEZFMFpIVXVSY212SzhoVFRnRlR4dVN4Tno5X2cwZnAycFZJUkdlTHczUEw1VUdId0JUV3NmTHdxSkthU2h0bmg3LUdMdVZfbzBaVmVLM29oZ3hFQnRXRVZtdW1CZFlXanlWNGh6N2c?oc=5"
  },
  {
   "id": "3dba552158",
