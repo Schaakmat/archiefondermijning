@@ -59,7 +59,7 @@
    "explosie",
    "pand"
   ],
-  "samenvatting": "Bij Chinees restaurant De Nieuwe Lotus in Zeewolde heeft vrijdagochtend opnieuw een incident plaatsgevonden. Rond 06.18 uur kwam er een melding binnen van een harde knal. De politie en brandweer kwamen daarop met spoed naar het restaurant. Op de voordeur van het restaurant is een grote barst te zien. Mogelijk is er ook",
+  "samenvatting": "Bij Chinees restaurant De Nieuwe Lotus in Zeewolde heeft vrijdagochtend opnieuw een incident plaatsgevonden. Rond 06.18 uur kwam er een melding binnen van een harde knal. De politie en brandweer kwamen daarop met spoed naar het restaurant. Op de voordeur van het restaurant is een grote barst te zien. Er is ook een expl",
   "link": "https://www.omroepflevoland.nl/nieuws/523386/opnieuw-harde-knal-bij-chinees-restaurant-in-zeewolde-derde-incident-in-korte-tijd"
  },
  {
@@ -145,6 +145,28 @@
   ],
   "samenvatting": "Twee personen zijn donderdagavond rond 22.00 uur aangehouden aan de Herfterlaan in Zwolle. De politie kreeg een melding van een verdachte situatie bij een woning. Buurtbewoners hoorden één of twee schoten.",
   "link": "https://www.oost.nl/nieuws/3694536/twee-aanhoudingen-na-mogelijk-geloste-schoten-in-zwolle"
+ },
+ {
+  "id": "9ec882b055",
+  "datum": "2026-09-11",
+  "tijd": "05:17",
+  "nieuw": true,
+  "titel": "Twee aanhoudingen na melding geloste schoten in Zwolle, kogelhulzen gevonden",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "buitengebied",
+   "erf",
+   "woning"
+  ],
+  "samenvatting": "Twee personen zijn donderdagavond rond 22.00 uur aangehouden aan de Herfterlaan in Zwolle. De politie kreeg een melding van schoten bij een woning in het buitengebied. Buurtbewoners hoorden één of twee schoten. De politie heeft buiten kogelhulzen aangetroffen.",
+  "link": "https://www.oost.nl/nieuws/3694536/twee-aanhoudingen-na-melding-geloste-schoten-in-zwolle-kogelhulzen-gevonden"
  },
  {
   "id": "eced194154",
@@ -244,6 +266,27 @@
   ],
   "samenvatting": "In Dordrecht is vorige week een man aangehouden die wordt verdacht van betrokkenheid bij de invoer van bijna 4.000 kilo cocaïne. De man werd vrijdag 4 september aangehouden, meldt het OM. De partij waar hij mee in verband wordt gebracht, werd maandag aangetroffen in containers in de Franse haven van Duinkerke.",
   "link": "https://www.rijnmond.nl/nieuws/2252172/man-opgepakt-na-vondst-4-ton-cocaine-mogelijk-link-met-bolle-jos"
+ },
+ {
+  "id": "75ad38a1e5",
+  "datum": "2026-09-11",
+  "tijd": "00:00",
+  "nieuw": true,
+  "titel": "Corruptieonderzoek FIOD richt zich op cardiologen OLVG en CWZ",
+  "bron": "Investico",
+  "verzameld_via": "Investico",
+  "soort": "Onderzoek",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "corruptie",
+   "pand"
+  ],
+  "samenvatting": "Opsporingsdienst FIOD heeft bij zeker zes cardiologen beslag gelegd op hun panden. Het gaat om cardiologen van het Amsterdamse OLVG en voormalig cardiologen van het CWZ-ziekenhuis in Nijmegen",
+  "link": "https://www.platform-investico.nl/onderzoeken/corruptieonderzoek-fiod-richt-zich-op-cardiologen-olvg-en-cwz"
  },
  {
   "id": "496cad0238",
@@ -476,7 +519,7 @@
   "id": "6a5742f5b8",
   "datum": "2026-09-10",
   "tijd": "17:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte lozen drugsafval Overloon voor de rechter: advocate plaats twijfels bij inval politie",
   "bron": "Omroep Land van Cuijk",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -497,7 +540,7 @@
   "id": "e3bc04e98c",
   "datum": "2026-09-10",
   "tijd": "17:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Invallen bij internationaal onderzoek naar fraude met paardenvlees",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -507,7 +550,8 @@
    "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "bende"
+   "bende",
+   "organisatie"
   ],
   "samenvatting": "Door gesjoemel in de handel met paarden is het vlees van duizenden dieren mogelijk in de voedselketen terechtgekomen, terwijl dat niet had gemogen. Dat blijkt uit een groot internationaal onderzoek naar meer dan duizend paarden waarbij ook zeven invallen in Nederland zijn gedaan. Het onderzoek wordt geleid door de Belg",
   "link": "https://nos.nl/l/2630473"

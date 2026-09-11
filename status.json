@@ -1,12 +1,12 @@
 {
- "run": "07:33",
+ "run": "08:33",
  "datum": "2026-09-11",
  "nieuw": 25,
- "totaal": 3005,
+ "totaal": 3007,
  "verwijderd": 23,
  "geweigerd": {
-  "niet-nederlands": 1069,
-  "geen dossier": 485
+  "niet-nederlands": 1068,
+  "geen dossier": 476
  },
  "bronnen": [
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 48,
-   "status": "9 nieuw",
+   "status": "8 nieuw",
    "ok": true
   },
   {
@@ -482,8 +482,8 @@
    "url": "www.platform-investico.nl/feed",
    "methode": "RSS",
    "ritme": "1 dag",
-   "items": 1,
-   "status": "bij",
+   "items": 2,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 54,
-   "status": "bij",
+   "items": 55,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 94,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
