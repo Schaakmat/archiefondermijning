@@ -1,12 +1,12 @@
 {
- "run": "20:34",
+ "run": "21:31",
  "datum": "2026-09-11",
- "nieuw": 13,
- "totaal": 3026,
+ "nieuw": 11,
+ "totaal": 3024,
  "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1054,
-  "geen dossier": 471
+  "niet-nederlands": 1057,
+  "geen dossier": 480
  },
  "bronnen": [
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 50,
-   "status": "8 nieuw",
+   "items": 48,
+   "status": "6 nieuw",
    "ok": true
   },
   {

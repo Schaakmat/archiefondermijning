@@ -221,7 +221,7 @@
   "id": "0e49621297",
   "datum": "2026-09-11",
   "tijd": "15:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Recherche Helmond pakt drie mannen op die de baas waren over nepagenten",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -240,7 +240,7 @@
   "id": "eb29dd3169",
   "datum": "2026-09-11",
   "tijd": "14:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Justitie verdenkt automobilist van veroorzaken busongeluk waarna Naomi (15) overleed",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1086,26 +1086,6 @@
   "link": "https://nos.nl/l/2630471"
  },
  {
-  "id": "14fb69a317",
-  "datum": "2026-09-10",
-  "tijd": "17:14",
-  "nieuw": false,
-  "titel": "Familie doorkruist Marokko op zoek naar vermiste Ouadoud (22) uit Zeist",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "netwerk",
-   "organisatie"
-  ],
-  "samenvatting": "In Marokko is de zoektocht naar de vermiste Ouadoud Rabbaj uit Zeist nog steeds in volle gang. De 22-jarige verdween op zondag 19 juli in de stad Tanger, waar hij op vakantie was met zijn ouders. Sindsdien is niets meer van hem vernomen. Twee maanden na zijn verdwijning zet zijn vader, Khadir Rabbaj, de zoektocht in Ma",
-  "link": "https://nos.nl/l/2630469"
- },
- {
   "id": "a3c0cbf0d8",
   "datum": "2026-09-10",
   "tijd": "17:05",
@@ -1274,33 +1254,6 @@
   ],
   "samenvatting": "De gemeente Almere trekt 200.000 euro uit om illegale straatraces en overlast op bedrijventerrein Stichtsekant tegen te gaan. Het geld wordt onder meer gebruikt voor verkeersregelaars en matrixborden die in de weekenden kunnen worden ingezet. Dat meldt de lokale omroep 1Almere . De gemeenteraad stemde op 3 september un",
   "link": "https://www.omroepflevoland.nl/nieuws/523310/almere-trekt-twee-ton-uit-voor-de-strijd-tegen-illegale-straatraces-op-bedrijventerrein"
- },
- {
-  "id": "d4c8ff8a45",
-  "datum": "2026-09-10",
-  "tijd": "15:38",
-  "nieuw": false,
-  "titel": "Sierra Leone beschuldigt Nederland van neo-kolonialisme vanwege Bolle Jos",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "cocaïne",
-   "container",
-   "douane",
-   "geweld",
-   "haven",
-   "organisatie"
-  ],
-  "samenvatting": "In een interview met een tv-station in Sierra Leone, de vermoedelijke verblijfplaats van Bolle Jos, heeft Justitieminister David van Weel de druk op het land opgevoerd. Hij wil dat Sierra Leone de drugscrimineel uitlevert. Maar zijn uitlatingen vallen daar allesbehalve goed. De eerste minister van het land, vergelijkba",
-  "link": "https://nos.nl/l/2630455"
  },
  {
   "id": "63c287484f",
