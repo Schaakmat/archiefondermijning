@@ -19,6 +19,66 @@
   "link": "https://nos.nl/l/2630533"
  },
  {
+  "id": "4a1ef32969",
+  "datum": "2026-09-11",
+  "tijd": "08:57",
+  "nieuw": true,
+  "titel": "Edgar L. zegt zijn stiefzoon Kalilu uit zelfverdediging te hebben doodgestoken: ‘Het is heel spijtig’",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "Moordverdachte Edgar L. zegt zijn stiefzoon Kalilu (21) uit zelfverdediging te hebben doodgestoken. Dat gebeurde in de nacht van 2 juni 2026 in de Nijhoffstraat in Zwijndrecht.",
+  "link": "https://www.rijnmond.nl/nieuws/2252255/edgar-l-zegt-zijn-stiefzoon-kalilu-uit-zelfverdediging-te-hebben-doodgestoken-het-is-heel-spijtig"
+ },
+ {
+  "id": "308d91b3ca",
+  "datum": "2026-09-11",
+  "tijd": "08:49",
+  "nieuw": true,
+  "titel": "Steekpartij na ruzie tussen leerlingen op school",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school"
+  ],
+  "samenvatting": "Bij een ruzie tussen twee leerlingen op het Penta College in Hoogvliet is een leerling gestoken. Het slachtoffer raakte lichtgewond en werd nagekeken door ambulancepersoneel. Hij hoefde niet naar het ziekenhuis. Een verdachte is aangehouden.",
+  "link": "https://www.rijnmond.nl/nieuws/2252234/steekpartij-na-ruzie-tussen-leerlingen-op-school"
+ },
+ {
+  "id": "ad497b3ed7",
+  "datum": "2026-09-11",
+  "tijd": "08:32",
+  "nieuw": true,
+  "titel": "🔴 Hoofddorper vast voor witwassen • Explosie door vuurwerkbom Den Helder",
+  "bron": "NH Nieuws",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "explosie",
+   "vuurwerk",
+   "witwassen"
+  ],
+  "samenvatting": "🔴 Hoofddorper vast voor witwassen • Explosie door vuurwerkbom Den Helder NH Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSHRpSFBMcUNvSXdFTzY5Skp0VG1uX2JxVTVMSDdhb1RjTndDX191Tk9Gd3FraXB4Wng2NmhHLTJ4RVJ2Q0Z4dVR1RG9fRnZnQlV5c0UxMXJ0M1VNZzJvVjRnTVdHcnZFc3lCV2l5RFlkaDljbF9GMV95eFJYcDl3VWZPV2twRTM0LUx4VldmVk5zb01WNFZfQi10T0ZkWmZ4OVBXdERmeEFIQQ?oc=5"
+ },
+ {
   "id": "eb02fbf619",
   "datum": "2026-09-11",
   "tijd": "08:04",
@@ -59,7 +119,7 @@
    "explosie",
    "pand"
   ],
-  "samenvatting": "Bij Chinees restaurant De Nieuwe Lotus in Zeewolde heeft vrijdagochtend opnieuw een incident plaatsgevonden. Rond 06.18 uur kwam er een melding binnen van een harde knal. De politie en brandweer kwamen daarop met spoed naar het restaurant. Op de voordeur van het restaurant is een grote barst te zien. Er is ook een expl",
+  "samenvatting": "Bij Chinees restaurant De Nieuwe Lotus in Zeewolde heeft vrijdagochtend opnieuw een incident plaatsgevonden. Rond 6.15 uur kwam er een melding binnen van een harde knal. De politie en brandweer kwamen daarop met spoed naar het restaurant. Op de voordeur van het restaurant is een grote barst te zien. Er is ook een explo",
   "link": "https://www.omroepflevoland.nl/nieuws/523386/opnieuw-harde-knal-bij-chinees-restaurant-in-zeewolde-derde-incident-in-korte-tijd"
  },
  {
@@ -462,7 +522,7 @@
   "id": "ea2639b68a",
   "datum": "2026-09-10",
   "tijd": "18:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Weggebruikers opgelet: de Van Brienenoordbrug is tijdelijk dicht vanwege inspecties",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -481,7 +541,7 @@
   "id": "ec4a06486c",
   "datum": "2026-09-10",
   "tijd": "18:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Voormalig scoutingleider krijgt taakstraf na aanranding 15-jarig meisje",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -500,7 +560,7 @@
   "id": "8ff038b731",
   "datum": "2026-09-10",
   "tijd": "18:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bakkerij ’t Bakkertje gaat weer bakken na brand en heropent alle winkels",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -792,30 +852,6 @@
   ],
   "samenvatting": "Vierde verdachte drugslab in Terschuur na ruim zeven jaar voor de rechter Barneveldse Krant",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbnJiRFFQeEhHeHFwTUFYSzBibUdGMkk0eWxQZkxOZGZ1LUFKd1pDRGoyWWtLdHlDRW56aDBhOGJRaWVHRVFGN1lNd2pLbk1Hd2x2aG1xRHJMZEQ4bTNuRVdGdWdXTjF0Qk1fNF96c2FQclBIbWRXanZqOXZBeTV3ZmM5VXpjaDZNTjN2alRkS3ZDaTBidHRRSnZjOUpQOGxvaHFBT2prNjk4TDJDSTFHVUdnZDBxUW1UWEE?oc=5"
- },
- {
-  "id": "f769b2baa5",
-  "datum": "2026-09-10",
-  "tijd": "15:29",
-  "nieuw": false,
-  "titel": "Strijd om uitlevering Bolle Jos: Sierra Leone pikt Nederlandse actie niet",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "cocaïne",
-   "container",
-   "douane",
-   "haven",
-   "organisatie"
-  ],
-  "samenvatting": "Minister van Justitie David van Weel heeft de druk op Sierra Leone opgevoerd om Bolle Jos uit te leveren. De uit Breda afkomstige drugscrimineel verblijft vermoedelijk in het West-Afrikaanse land. Van Weel gaf een interview aan een tv-station in Sierra Leone, maar zijn uitlatingen vallen daar niet goed. De premier van ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026794/strijd-om-uitlevering-bolle-jos-sierra-leone-pikt-nederlandse-actie-niet"
  },
  {
   "id": "aadfd66f25",
