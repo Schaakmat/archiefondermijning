@@ -1,5 +1,49 @@
 [
  {
+  "id": "2e1f3c78f6",
+  "datum": "2026-09-11",
+  "tijd": "18:07",
+  "nieuw": true,
+  "titel": "Agent sjoemelt met verkeersboetes, politie wil bekeuringen intrekken",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie"
+  ],
+  "samenvatting": "De politie wil dat zo'n honderd verkeersboetes die zijn uitgeschreven door een sjoemelende politieagent worden ingetrokken. In 4,5 jaar tijd schreef de agent van de eenheid Oost-Nederland bekeuringen uit zonder dat hij daadwerkelijk een verkeersovertreding constateerde. De politie wil niet zeggen hoe de agent te werk g",
+  "link": "https://nos.nl/l/2630615"
+ },
+ {
+  "id": "ab7c35db6b",
+  "datum": "2026-09-11",
+  "tijd": "17:45",
+  "nieuw": true,
+  "titel": "Flevoland - Nieuwsoverzicht 09/11 | Chinees in Zeewolde vier weken gesloten • Rechtszaak over leeg pand Almere",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Horeca, winkels & dienstverlening",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "explosie",
+   "horeca",
+   "pand"
+  ],
+  "samenvatting": "Goedenavond. Elke doordeweekse dag informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Na drie aanslagen gaat Chinees restaurant op slot, Zeewoldenaren leven mee met ondernemer • Spookpand in Almere al acht jaar doorn in het oog, gemeente dreigt met flinke d",
+  "link": "https://www.omroepflevoland.nl/nieuws/523437/nieuwsoverzicht-0911-or-chinees-in-zeewolde-vier-weken-gesloten-*-rechtszaak-over-leeg-pand-almere"
+ },
+ {
   "id": "762c16954c",
   "datum": "2026-09-11",
   "tijd": "15:54",
@@ -23,6 +67,23 @@
   ],
   "samenvatting": "Chinees Restaurant De Nieuwe Lotus in Zeewolde is op last van de burgemeester Bram Harmsma vier weken gesloten. In een paar weken tijd zijn er drie explosies geweest bij het horecapand. De gemeente Zeewolde zegt dat het besluit is genomen om de veiligheid van omwonenden, voorbijgangers en omliggende gebouwen te bescher",
   "link": "https://www.omroepflevoland.nl/nieuws/523443/chinees-restaurant-gesloten-op-last-van-burgemeester-omwonenden-verdrietig-en-teleurgesteld"
+ },
+ {
+  "id": "806ad888fa",
+  "datum": "2026-09-11",
+  "tijd": "15:33",
+  "nieuw": true,
+  "titel": "OM eist 240 uur werkstraf tot 8 jaar celstraf tegen 8 medeverdachten die ‘missies’ uitvoerden voor 52-jarige Amsterdammer afkomstig uit Chile - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "OM eist 240 uur werkstraf tot 8 jaar celstraf tegen 8 medeverdachten die ‘missies’ uitvoerden voor 52-jarige Amsterdammer afkomstig uit Chile Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQLW5MeldmOGpFeVpLV0lXVUtGQWNqWHV6d09Hc0dMR1RCaU9pOUpjSURrekJtMm9NajdtbThiQXVWU0djTEhhbVUtdFdCZC14RnZUbmQxX1YxaEtJTGFRLXBSVXhmbk4tRmtVYTYtd0NyQllUQjJnUnRiZTRBT09KQkl2ZUYxQmpRYjJzZk5mMmwtd2pTSTVJdmVmM3p2VEtKNmpwZU9qM0VzOWpMUEFEV3ZybVA4TGV0eFItbkNZeTgtc2lRMWs3Z1JKR25YNTk3MFA1enp6Sk9KakMxSnRzSVhnMF9XWnNEd2ViQlgtX1BiYmNRZUk0c3JyeDBDMXVELTlGcGcyblIxR0tBODVJdw?oc=5"
  },
  {
   "id": "cc97d1d781",
@@ -304,7 +365,7 @@
   "id": "308d91b3ca",
   "datum": "2026-09-11",
   "tijd": "08:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Steekpartij na ruzie tussen leerlingen op school",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -323,7 +384,7 @@
   "id": "ad497b3ed7",
   "datum": "2026-09-11",
   "tijd": "08:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "🔴 Hoofddorper vast voor witwassen • Explosie door vuurwerkbom Den Helder",
   "bron": "NH Nieuws",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -789,25 +850,6 @@
   ],
   "samenvatting": "Een 34-jarige man uit Den Ham is veroordeeld voor het aanranden van een meisje dat destijds 15 jaar was. De voormalig scoutingleider kreeg vanmiddag in Almelo een taakstraf van 240 uur en drie maanden voorwaardelijke celstraf.",
   "link": "https://www.oost.nl/nieuws/3694351/voormalig-scoutingleider-krijgt-taakstraf-na-aanranding-15-jarig-meisje"
- },
- {
-  "id": "8ff038b731",
-  "datum": "2026-09-10",
-  "tijd": "18:00",
-  "nieuw": false,
-  "titel": "Bakkerij ’t Bakkertje gaat weer bakken na brand en heropent alle winkels",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Alle acht de winkels van bakkerij ’t Bakkertje uit Helmond gaan maandag weer open. Begin deze maand werd de bakkerij getroffen door een brand, waardoor er geen brood gebakken kon worden. Nu de stroomvoorziening is hersteld, kan het familiebedrijf de draad weer oppakken. Eigenaar Theo Dirks is opgelucht dat zijn bakkeri",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026809/bakkerij-t-bakkertje-gaat-weer-bakken-na-brand-en-heropent-alle-winkels"
  },
  {
   "id": "6a5742f5b8",
