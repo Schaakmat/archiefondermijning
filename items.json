@@ -67,6 +67,26 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk",
+   "zwaar illegaal vuurwerk"
+  ],
+  "samenvatting": "Een auto opblazen met 30 cobra’s. Of met vuurwerk schieten op politiepoppen. Een grote vuurwerkdemonstratie vrijdag in Riel laat de gigantische verwoesting van zwaar illegaal vuurwerk zien. Cobra’s, nitraten, shells en geknutselde bommen met benzine: alles ging de lucht in op defensieterrein Kamp de Kiek in Riel. Deure",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026918/zo-ziet-je-auto-eruit-als-30-cobras-ontploffen-stop-met-vuurwerk"
+ },
+ {
+  "id": "4f78a210b7",
+  "datum": "2026-09-11",
+  "tijd": "17:00",
+  "nieuw": true,
+  "titel": "Politie laat auto ontploffen met 30 cobra’s: ‘Stop met vuurwerk’",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
    "Bibob & bestuurlijke aanpak",
    "Geweld, liquidaties & bedreiging",
    "Jeugd & jonge aanwas",
@@ -81,7 +101,7 @@
    "zwaar illegaal vuurwerk"
   ],
   "samenvatting": "Een auto opblazen met 30 cobra’s. Of met vuurwerk schieten op politiepoppen. Een grote vuurwerkdemonstratie vrijdag in Riel laat de gigantische verwoesting van zwaar illegaal vuurwerk zien. Cobra’s, nitraten, shells en geknutselde bommen met benzine: alles ging de lucht in op defensieterrein Kamp de Kiek in Riel. Deure",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026918/zo-ziet-je-auto-eruit-als-30-cobras-ontploffen-stop-met-vuurwerk"
+  "link": "https://www.omroepbrabant.nl/nieuws/6026918/politie-laat-auto-ontploffen-met-30-cobras-stop-met-vuurwerk"
  },
  {
   "id": "f3491e3d1f",
@@ -167,11 +187,11 @@
   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQLW5MeldmOGpFeVpLV0lXVUtGQWNqWHV6d09Hc0dMR1RCaU9pOUpjSURrekJtMm9NajdtbThiQXVWU0djTEhhbVUtdFdCZC14RnZUbmQxX1YxaEtJTGFRLXBSVXhmbk4tRmtVYTYtd0NyQllUQjJnUnRiZTRBT09KQkl2ZUYxQmpRYjJzZk5mMmwtd2pTSTVJdmVmM3p2VEtKNmpwZU9qM0VzOWpMUEFEV3ZybVA4TGV0eFItbkNZeTgtc2lRMWs3Z1JKR25YNTk3MFA1enp6Sk9KakMxSnRzSVhnMF9XWnNEd2ViQlgtX1BiYmNRZUk0c3JyeDBDMXVELTlGcGcyblIxR0tBODVJdw?oc=5"
  },
  {
-  "id": "cc97d1d781",
+  "id": "0e49621297",
   "datum": "2026-09-11",
   "tijd": "15:02",
   "nieuw": true,
-  "titel": "Drie mannen vast die nepagenten op pad stuurden",
+  "titel": "Recherche Helmond pakt drie mannen op die de baas waren over nepagenten",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -183,7 +203,7 @@
    "organisatie"
   ],
   "samenvatting": "De recherche in Helmond heeft drie verdachten aangehouden die mogelijk betrokken zijn bij meerdere oplichtingszaken met nepagenten. De verdachten zouden slachtoffers telefonisch hebben benaderd en vervolgens nepagenten hebben aangestuurd om toe te slaan. Het gaat om twee mannen van 21 en 22 jaar uit Eindhoven en een 21",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026929/drie-mannen-vast-die-nepagenten-op-pad-stuurden"
+  "link": "https://www.omroepbrabant.nl/nieuws/6026929/recherche-helmond-pakt-drie-mannen-op-die-de-baas-waren-over-nepagenten"
  },
  {
   "id": "eb29dd3169",
@@ -308,7 +328,7 @@
   "id": "6e61b4e83c",
   "datum": "2026-09-11",
   "tijd": "11:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "FIOD legt beslag op woningen van vier oud-cardiologen CWZ",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -328,7 +348,7 @@
   "id": "d9bc686469",
   "datum": "2026-09-11",
   "tijd": "10:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Beginnend bestuurder raast met 180 kilometer per uur over N279",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -347,7 +367,7 @@
   "id": "9337c5df9a",
   "datum": "2026-09-11",
   "tijd": "09:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Corruptieonderzoek FIOD richt zich op cardiologen OLVG in Amsterdam en CWZ in Nijmegen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -368,7 +388,7 @@
   "id": "761150142c",
   "datum": "2026-09-11",
   "tijd": "09:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Onderzoek naar corruptie: beslag gelegd op twee panden van cardiologen OLVG",
   "bron": "Het Parool",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -389,7 +409,7 @@
   "id": "e3caf7a7cd",
   "datum": "2026-09-11",
   "tijd": "09:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overlastgevende man valt agent aan en wordt getaserd in Roosendaal",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -406,6 +426,29 @@
   ],
   "samenvatting": "Een 40-jarige man is donderdagavond getaserd door een agent in het centrum van Roosendaal. Hij viel buurtbewoners lastig, gooide de inhoud van prullenbakken op straat en viel een agent aan. Pepperspray bleek niet voldoende om hem te stoppen, dus zette de agent het stroomstootwapen in. Een wijkagent die donderdagavond a",
   "link": "https://www.omroepbrabant.nl/nieuws/6026896/overlastgevende-man-valt-agent-aan-en-wordt-getaserd-in-roosendaal"
+ },
+ {
+  "id": "c3030b9b97",
+  "datum": "2026-09-11",
+  "tijd": "09:21",
+  "nieuw": false,
+  "titel": "Veroordeling van een rechtspersoon voor medeplegen van witwassen van vastgoed via een loan-back-constructie met buitenlandse vennootschappen",
+  "bron": "BijzonderStrafrecht.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen",
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "vastgoed",
+   "vennootschap",
+   "witwassen"
+  ],
+  "samenvatting": "Veroordeling van een rechtspersoon voor medeplegen van witwassen van vastgoed via een loan-back-constructie met buitenlandse vennootschappen BijzonderStrafrecht.nl",
+  "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNm1KR0hlOWIzcXJQbjFFVXQyZFY2NUpxdkY5Q0pTVFhmLTFRU0dpRWZ2VlRod3JrVnU4SjhBWmd2dzFFblRhOVB0LVZYdlpCODNtRjJVZUswTUQ0NmdZU2tpZnVSS0U1ZC1vdi1PU1g3ektzQUJLenFEampPbGI0SXhyS3JQVUhwaVJwcEd5YktmNE9oSzBoY0lzbzlWZnRkbW9HZ3ZsZ3BwWUo5bjNRd2FSUlgzZFlkY2gtYktYeXA4OW11cVZOLVJJMncwNFpDNGNVd19yVGVNWXFYWlBweGYxcVpSRmhlTE14QWlnbmFQN0NyRmJ3UldEbXZ4bVJRUTBVczBOOVcxUU1H?oc=5"
  },
  {
   "id": "514e9eb576",
@@ -1071,31 +1114,6 @@
   ],
   "samenvatting": "Mensenhandel, snus en lachgas op ’t Plaveen in Huizen De Gooi- en Eemlander",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVVBtYng2OXZXZE9vSDVrOXJ5ZWIwTmM5bXAzVFBjcnNhUDRGSVhfUV9TdVJXYzZKS1pLaE5Ga3duRDRmM2tCcGNab3lKb2JJTkNDbEN3cm5uMW1UdE5XSDJpNmRHRXo1b2lBT0ZaMnhfN0R2MTIwZ1lWdUUwVDlaaXlPVXktM21mOEpvTDBXLVNJNHA2Z2hzWnZ1b2c4amFHd0dQQk55RDVEaUxZVmZYTy1laGdzZmR5UG1n?oc=5"
- },
- {
-  "id": "26149e1f5b",
-  "datum": "2026-09-10",
-  "tijd": "17:00",
-  "nieuw": false,
-  "titel": "Megan stapte naar Huurcommissie: nu is ze tevreden met prijs voor kamer",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "haven",
-   "organisatie",
-   "stal",
-   "woning"
-  ],
-  "samenvatting": "Een kamer vinden in een van de Brabantse studentensteden is al lastig. En vaak blijkt voor een kamer dan ook nog veel meer huur gevraagd te worden dan wettelijk mag, zo blijkt uit onderzoek van radioprogramma Argos. Tilburg komt het slechtst uit het onderzoek. “De prijzen zijn sky high . Ik heb het er niet voor over”, ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026799/megan-stapte-naar-huurcommissie-nu-is-ze-tevreden-met-prijs-voor-kamer"
  },
  {
   "id": "0990b014a7",
