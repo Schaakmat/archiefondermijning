@@ -1,5 +1,50 @@
 [
  {
+  "id": "11dfe6d9f4",
+  "datum": "2026-09-11",
+  "tijd": "04:32",
+  "nieuw": true,
+  "titel": "Drie gewonden na achtervolging na inbraak tankstation bij Venlo",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Bij een politieachtervolging na een inbraak bij een tankstation in Kessel (Limburg) zijn vannacht drie gewonden gevallen. De auto van de verdachten crashte op de afrit Venlo-Zuid van de A73, meldt de politie. De politie kreeg na 02.30 uur een melding van de inbraak bij het tankstation aan de Baarloseweg. De politie zag",
+  "link": "https://nos.nl/l/2630514"
+ },
+ {
+  "id": "731748c1d1",
+  "datum": "2026-09-11",
+  "tijd": "03:52",
+  "nieuw": true,
+  "titel": "Man aangehouden na onderschepping 4 ton cocaïne, mogelijk link met Bolle Jos",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "cocaïne",
+   "container",
+   "douane",
+   "haven",
+   "netwerk"
+  ],
+  "samenvatting": "In Dordrecht is vorige week een man aangehouden die wordt verdacht van betrokkenheid bij de invoer van bijna 4000 kilo cocaïne. De man werd vrijdag 4 september aangehouden, meldt het OM. De partij waar hij mee in verband wordt gebracht, werd maandag aangetroffen in containers in de Franse haven van Duinkerke. De verdac",
+  "link": "https://nos.nl/l/2630513"
+ },
+ {
   "id": "496cad0238",
   "datum": "2026-09-10",
   "tijd": "22:45",
@@ -398,7 +443,7 @@
   "id": "5a77e5f411",
   "datum": "2026-09-10",
   "tijd": "16:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gewapende ontvoering en woningoverval met een grote buit heeft een enorme impact op vastgebonden slachtoffers",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1368,25 +1413,6 @@
   ],
   "samenvatting": "In een weiland langs de A50 aan de 126ste Wingweg in Nistelrode is woensdagavond een vloeistof gevonden. Vermoedelijk gaat het om vloeibaar drugsafval dat in het weiland gedumpt is. Welke vloeistof er precies is gevonden, is nog niet duidelijk. Er hing bij het weiland een sterke, zoetige geur, die typisch is voor drugs",
   "link": "https://www.omroepbrabant.nl/nieuws/6026636/vloeistof-in-weiland-in-nistelrode-gevonden-mogelijk-lozing-van-drugsafval"
- },
- {
-  "id": "8bfc5d3c03",
-  "datum": "2026-09-09",
-  "tijd": "20:23",
-  "nieuw": false,
-  "titel": "Brug A28 bij Nijkerk weer helemaal open na spoedherstel",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "stort"
-  ],
-  "samenvatting": "De Hardenbergerbrug in de A28 bij Nijkerk is in de beide richtingen weer open, meldt Rijkswaterstaat. Eerder vanavond ging de brug eerst in de richting van Amersfoort en Utrecht open. Niet veel later volgde de weg richting Zwolle. De brug ging maandag plotseling uit voorzorg dicht. Rond de pijlers van de brug was zovee",
-  "link": "https://nos.nl/l/2630361"
  },
  {
   "id": "b283cf2dd8",
