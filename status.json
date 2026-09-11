@@ -1,12 +1,12 @@
 {
- "run": "03:34",
+ "run": "04:36",
  "datum": "2026-09-11",
- "nieuw": 21,
- "totaal": 2994,
+ "nieuw": 23,
+ "totaal": 2997,
  "verwijderd": 20,
  "geweigerd": {
-  "niet-nederlands": 1053,
-  "geen dossier": 485
+  "niet-nederlands": 1068,
+  "geen dossier": 482
  },
  "bronnen": [
   {
@@ -375,7 +375,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 21,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 70,
-   "status": "bij",
+   "items": 71,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 52,
-   "status": "bij",
+   "items": 53,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -572,8 +572,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 37,
-   "status": "bij",
+   "items": 38,
+   "status": "1 nieuw",
    "ok": true
   }
  ]

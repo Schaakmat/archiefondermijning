@@ -1,5 +1,30 @@
 [
  {
+  "id": "5f9f5f6fc1",
+  "datum": "2026-09-11",
+  "tijd": "06:32",
+  "nieuw": true,
+  "titel": "Wekdienst 11/9: 25 jaar na aanslagen VS • Staking bouwsector",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "cocaïne",
+   "container",
+   "haven",
+   "organisatie"
+  ],
+  "samenvatting": "Goedemorgen! Vandaag is het 25 jaar geleden dat in de Verenigde aanslagen werden gepleegd op de Twin Towers en het Pentagon. In de VS zijn op verschillende plekken herdenkingen. Eerst het weer: vanmorgen is het bewolkt en valt van tijd tot tijd regen of motregen. Vanmiddag wordt het in het westen droger en breekt soms ",
+  "link": "https://nos.nl/l/2630519"
+ },
+ {
   "id": "11dfe6d9f4",
   "datum": "2026-09-11",
   "tijd": "04:32",
@@ -17,6 +42,25 @@
   ],
   "samenvatting": "Bij een politieachtervolging na een inbraak bij een tankstation in Kessel (Limburg) zijn vannacht drie gewonden gevallen. De auto van de verdachten crashte op de afrit Venlo-Zuid van de A73, meldt de politie. De politie kreeg na 02.30 uur een melding van de inbraak bij het tankstation aan de Baarloseweg. De politie zag",
   "link": "https://nos.nl/l/2630514"
+ },
+ {
+  "id": "5ccda1ab30",
+  "datum": "2026-09-11",
+  "tijd": "04:02",
+  "nieuw": true,
+  "titel": "Borne pakt jongerenoverlast aan met extra inzet politie en jongerenwerk",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Borne neemt maatregelen tegen overlast door jongeren. De gemeente zet daarvoor extra politie en jongerenwerk in. Ook in Hengelo zijn onlangs maatregelen genomen vanwege jongerenoverlast.",
+  "link": "https://www.oost.nl/nieuws/3694242/borne-pakt-jongerenoverlast-aan-met-extra-inzet-politie-en-jongerenwerk"
  },
  {
   "id": "731748c1d1",
@@ -38,6 +82,27 @@
   ],
   "samenvatting": "In Dordrecht is vorige week een man aangehouden die wordt verdacht van betrokkenheid bij de invoer van bijna 4000 kilo cocaïne. De man werd vrijdag 4 september aangehouden, meldt het OM. De partij waar hij mee in verband wordt gebracht, werd maandag aangetroffen in containers in de Franse haven van Duinkerke. De verdac",
   "link": "https://nos.nl/l/2630513"
+ },
+ {
+  "id": "c236942515",
+  "datum": "2026-09-11",
+  "tijd": "03:50",
+  "nieuw": true,
+  "titel": "Man opgepakt na vondst 4 ton cocaïne, mogelijk link met Bolle Jos",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne",
+   "container",
+   "haven"
+  ],
+  "samenvatting": "In Dordrecht is vorige week een man aangehouden die wordt verdacht van betrokkenheid bij de invoer van bijna 4.000 kilo cocaïne. De man werd vrijdag 4 september aangehouden, meldt het OM. De partij waar hij mee in verband wordt gebracht, werd maandag aangetroffen in containers in de Franse haven van Duinkerke.",
+  "link": "https://www.rijnmond.nl/nieuws/2252172/man-opgepakt-na-vondst-4-ton-cocaine-mogelijk-link-met-bolle-jos"
  },
  {
   "id": "496cad0238",
@@ -417,7 +482,7 @@
   "id": "3e66efbe63",
   "datum": "2026-09-10",
   "tijd": "16:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee nepagenten stelen sieraden van 88-jarige inwoonster van Dordrecht",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1281,34 +1346,6 @@
   ],
   "samenvatting": "Bonden en bouwsector: fraude en witwassen liggen op de loer bij nieuwe EU-bedrijfsvorm Cobouw",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb19jbkp1SU5uR0lzZWJwclZTWnhJbFB5OFZrdS1pc1NDTnZhZlJpaDZPMElUX0kxR0hFU0NvV2hGeUR2MmU1QU5fVVRKZUdleHdkM3Z0MHF2cWxId3hKYkR6NS1kWUQ5bW1Ob3oyWFU5U1NzUU4xanRabURVbW1pZHRLMV9tdEttU2ZqVGxOM1RyN1VlMlNVTkhyVXZsSEhaQW9xWUNWRS1PMlAwWTRzLUxpcVg?oc=5"
- },
- {
-  "id": "096c907dc8",
-  "datum": "2026-09-10",
-  "tijd": "06:00",
-  "nieuw": false,
-  "titel": "NVWA treedt op tegen transport kalfjes uit Ierland: te lang onderweg zonder melk",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Bibob & bestuurlijke aanpak",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "grond",
-   "haven",
-   "last onder dwangsom",
-   "mest",
-   "organisatie",
-   "toezichthouder"
-  ],
-  "samenvatting": "De Nederlandse Voedsel- en Warenautoriteit (NVWA) treedt op tegen de import van piepjonge kalfjes uit Ierland. De dieren krijgen nu tijdens een dagenlange reis nauwelijks te drinken en dat is in strijd met de regels, stelt de autoriteit. Als de omstandigheden niet fors verbeteren, moeten de transporten op termijn ophou",
-  "link": "https://nos.nl/l/2630393"
  },
  {
   "id": "a8aefe1174",
@@ -53042,6 +53079,25 @@
   ],
   "samenvatting": "Zeewolde gaat met andere gemeenten samenwerken om ondermijning tegen te gaan Lokale Omroep Zeewolde",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNamI3bkhUN3FHRXc1YXlzZ2x6X2cxMDZjNVNKRWdUTE9UWGczVkxSQTE0RFl6U3dmNDBXdlFKOHVZOXdWeWYwTndldmxFSm8xakQtQTFMdE9JVXFYdmwxNjhWdE9JX2N2Zm0weDhxUXFxLVN4cVREOWNQVGhsSkFDY1FGQU1acmV6NlEwbG5PbDU5cUhfMlNiYmRkYjYxcnBDckV1cXUwOFRCS0ZxUTdtdFNiX1dua2pIeEx3MUI1Z2VheVZFLVlZM0NBNFU?oc=5"
+ },
+ {
+  "id": "79ae48d777",
+  "datum": "2021-05-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zeewolde gaat met andere gemeenten samenwerken om ondermijning tegen te gaan",
+  "bron": "Lokale Omroep Zeewolde",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Zeewolde gaat met andere gemeenten samenwerken om ondermijning tegen te gaan Lokale Omroep Zeewolde",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ21QVzM1UkNScVg5UGFsMVdjcGtSNUtTUXE2Tm1CYVloNi1FTFlqOXZ4b0VKcmV4TFE4OWdqRDF0ZnJVOTNKZW5WV1RaYzdLYk1pcVV5ZElmLTNJcWtBdVFMMGlXMWQ0TWdPTmI5T2VBejRhVnBJTjhGUl9WVkxfY25ldVRrWHhIS2dONFlZc1kyUkJyLWNEQzk0bk1CbF9tb19vSm55UEtyMjRrUkpnRUpRNVppSVVRRmVGV1ZwSHRxQ0h3andF?oc=5"
  },
  {
   "id": "d2619271b8",
