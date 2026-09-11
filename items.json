@@ -1,5 +1,24 @@
 [
  {
+  "id": "514e9eb576",
+  "datum": "2026-09-11",
+  "tijd": "09:03",
+  "nieuw": true,
+  "titel": "Werknemers woonwarenhuis verdacht van helpen bij diefstallen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "De politie heeft vijf mensen opgepakt voor diefstallen bij een woonwarenhuis in Heerlen. Drie van hen waren werknemers van het bedrijf. Nadat aangifte was gedaan, is door de politie een onderzoek ingesteld. Hierbij zijn onder andere camerabeelden bekeken. \"Al snel bleek dat de winkel door een van de vijf verdachten afg",
+  "link": "https://nos.nl/l/2630533"
+ },
+ {
   "id": "eb02fbf619",
   "datum": "2026-09-11",
   "tijd": "08:04",
@@ -17,7 +36,7 @@
    "pand",
    "vergunning"
   ],
-  "samenvatting": "Mag de gemeente Almere een dwangsom opleggen aan de eigenaren van een vervallen kantoorpand vlakbij station Almere centrum? Dat was de inzet van een rechtszaak donderdagmiddag. Die was aangespannen door de pandeigenaren. Het voormalige gebouw van de ASQ groep aan de Randstad staat nu acht jaar leeg en ziet er vervallen",
+  "samenvatting": "Mag de gemeente Almere een dwangsom opleggen aan de eigenaren van een vervallen kantoorpand vlakbij station Almere Centrum? Dat was de inzet van een rechtszaak donderdagmiddag. Die was aangespannen door de pandeigenaren. Het voormalige gebouw van de ASQ groep aan de Randstad staat nu acht jaar leeg en ziet er vervallen",
   "link": "https://www.omroepflevoland.nl/nieuws/523360/gemeente-eist-actie:-eigenaren-spookpand-riskeren-dwangsom-om-overlast-zwervers"
  },
  {
@@ -497,7 +516,7 @@
   "id": "4c00dbd9a2",
   "datum": "2026-09-10",
   "tijd": "17:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Premier Jetten liet zijn berichten door AI schrijven: handig of zorgelijk?",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -16350,6 +16369,27 @@
   ],
   "samenvatting": "Spaanse politie rolt een van grootste Europese smokkelnetwerken op, 78 aanhoudingen NOS",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRGhvZVNzRlB4bGF0YmdGRDByOHFEMko1UjNTeEVhOGhqclhTWW40Q0hpZlpYNDl2dERZckpkQTVGUmxsbWVnZm45OFFGNi1WLXVMOVFfX29TdEt4OGtXdTF1Znhra0NvNkZ0TGtjTERwOGlhSzJtYml5Qko2V0pET05rVWUyTUlHaXhveFREQTZoU2hfQ25oRHNKZDhIQzl5bjlwSjFTYkVZckF1aDlRbUFVZw?oc=5"
+ },
+ {
+  "id": "6bd899270f",
+  "datum": "2026-08-07",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugslab op beruchte camping in Schijf, eigenaar blijft voorlopig vastzitten",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "camping",
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab op beruchte camping in Schijf, eigenaar blijft voorlopig vastzitten De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWG5ycHItNkV6V0ozTl82TnV4ZmY4WXRvMWZDYnVrT2c1a3BYSkVEY0F5dUpPZFNaeTQ2NDExVl9lMkdLZWtYZWJ1VGVuS1pGSEFvN1lreC1GY05icmxMQU5fLXNTVWpCb1RmdEdIZG02c3JfOFE4WDVOU2VCU05wdVk4REhMQnh0N0hiQV9NSnIwbWVadWgyM2FBbXU3eDNKOWpuN3hMa1JDb2ticWVzZ3h6aXB0UTd1ZFJZdzlB?oc=5"
  },
  {
   "id": "6cefd4e5e0",

@@ -1,12 +1,12 @@
 {
- "run": "06:37",
+ "run": "07:33",
  "datum": "2026-09-11",
  "nieuw": 25,
- "totaal": 3003,
- "verwijderd": 21,
+ "totaal": 3005,
+ "verwijderd": 23,
  "geweigerd": {
-  "niet-nederlands": 1063,
-  "geen dossier": 480
+  "niet-nederlands": 1069,
+  "geen dossier": 485
  },
  "bronnen": [
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: TimeoutError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 47,
-   "status": "8 nieuw",
+   "items": 48,
+   "status": "9 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 127,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 54,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 93,
-   "status": "bij",
+   "items": 94,
+   "status": "1 nieuw",
    "ok": true
   },
   {
