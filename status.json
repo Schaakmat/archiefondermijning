@@ -1,12 +1,12 @@
 {
- "run": "09:32",
+ "run": "10:32",
  "datum": "2026-09-11",
  "nieuw": 25,
- "totaal": 3009,
- "verwijderd": 23,
+ "totaal": 3012,
+ "verwijderd": 22,
  "geweigerd": {
-  "niet-nederlands": 1066,
-  "geen dossier": 473
+  "niet-nederlands": 1062,
+  "geen dossier": 472
  },
  "bronnen": [
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 194,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 167,
-   "status": "bij",
+   "items": 168,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -500,7 +500,7 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 73,
+   "items": 75,
    "status": "2 nieuw",
    "ok": true
   },

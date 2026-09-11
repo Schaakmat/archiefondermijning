@@ -1,5 +1,27 @@
 [
  {
+  "id": "e3caf7a7cd",
+  "datum": "2026-09-11",
+  "tijd": "09:22",
+  "nieuw": true,
+  "titel": "Overlastgevende man valt agent aan en wordt getaserd in Roosendaal",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "afval",
+   "grond",
+   "wapen"
+  ],
+  "samenvatting": "Een 40-jarige man is donderdagavond getaserd door een agent in het centrum van Roosendaal. Hij viel buurtbewoners lastig, gooide de inhoud van prullenbakken op straat en viel een agent aan. Pepperspray bleek niet voldoende om hem te stoppen, dus zette de agent het stroomstootwapen in. Een wijkagent die donderdagavond a",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026896/overlastgevende-man-valt-agent-aan-en-wordt-getaserd-in-roosendaal"
+ },
+ {
   "id": "514e9eb576",
   "datum": "2026-09-11",
   "tijd": "09:03",
@@ -98,6 +120,25 @@
   ],
   "samenvatting": "Mag de gemeente Almere een dwangsom opleggen aan de eigenaren van een vervallen kantoorpand vlakbij station Almere Centrum? Dat was de inzet van een rechtszaak donderdagmiddag. Die was aangespannen door de pandeigenaren. Het voormalige gebouw van de ASQ groep aan de Randstad staat nu acht jaar leeg en ziet er vervallen",
   "link": "https://www.omroepflevoland.nl/nieuws/523360/gemeente-eist-actie:-eigenaren-spookpand-riskeren-dwangsom-om-overlast-zwervers"
+ },
+ {
+  "id": "0f2a6bccf4",
+  "datum": "2026-09-11",
+  "tijd": "07:51",
+  "nieuw": true,
+  "titel": "Mensenhandel is lang niet altijd zichtbaar",
+  "bron": "Bol-An!",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Mensenhandel is lang niet altijd zichtbaar Bol-An!",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vWkotNjhfdEo0OEI0eDhBR19LY09abUszSmR1anhfUEtubkFKODc5SUFuSU5Kd0pyNjY2MEN6aG5LWUpMVjF5TXh5WmdiVzFicXY5UWpiLUN6UXdWcDVmYTlibFVIcDNTVlJTcVNR?oc=5"
  },
  {
   "id": "69cc9f8192",
@@ -471,7 +512,7 @@
   "id": "84f63e4200",
   "datum": "2026-09-10",
   "tijd": "18:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Nieuwsoverzicht 10/09 | Dronten moddert niet aan • Netl-broers blijven strijdbaar",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -500,7 +541,7 @@
   "id": "b5e8a8d813",
   "datum": "2026-09-10",
   "tijd": "18:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "FIOD doet invallen vanwege verdenking corruptie door cardiologen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -745,6 +786,27 @@
   "link": "https://www.rijnmond.nl/nieuws/2252075/twee-nepagenten-stelen-sieraden-van-88-jarige-inwoonster-van-dordrecht"
  },
  {
+  "id": "37286f4212",
+  "datum": "2026-09-10",
+  "tijd": "16:49",
+  "nieuw": false,
+  "titel": "88-jarige vrouw slachtoffer van oplichting: nepagent komt woning binnen en steelt haar sieraden",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "sieraden",
+   "woning"
+  ],
+  "samenvatting": "Een actie tegen inbraken. Daar is de politie mee bezig. Althans dat beweert een zogenaamde politieagente tijdens een telefoongesprek met een 88-jarige inwoonster van Dordrecht. De bejaarde vrouw gelooft haar en staat toe dat er een andere nepagent bij haar langskomt om haar woning te inspecteren.",
+  "link": "https://www.rijnmond.nl/nieuws/2252075/88-jarige-vrouw-slachtoffer-van-oplichting-nepagent-komt-woning-binnen-en-steelt-haar-sieraden"
+ },
+ {
   "id": "5a77e5f411",
   "datum": "2026-09-10",
   "tijd": "16:42",
@@ -764,6 +826,27 @@
   ],
   "samenvatting": "De politie zoekt de daders van een ontvoering en een woningoverval. Het gaat om vier of vijf mannen. Twee van hen ontvoeren op donderdag 30 juli omstreeks 22.00 uur een 20-jarige vrouw in de buurt van Papendrecht. Vervolgens dringen dezelfde avond rond 23.00 uur drie verdachten haar woning aan de Rotterdamse Prinsenlaa",
   "link": "https://www.rijnmond.nl/nieuws/2252073/gewapende-ontvoering-en-woningoverval-met-een-grote-buit-heeft-een-enorme-impact-op-vastgebonden-slachtoffers"
+ },
+ {
+  "id": "c33b5f76c7",
+  "datum": "2026-09-10",
+  "tijd": "16:42",
+  "nieuw": false,
+  "titel": "Gewapende ontvoering en woningoverval heeft enorme impact op vastgebonden slachtoffers",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "De politie zoekt de daders van een ontvoering en een woningoverval. Het gaat om vier of vijf mannen. Twee van hen ontvoeren op donderdag 30 juli omstreeks 22.00 uur een 20-jarige vrouw in de buurt van Papendrecht. Vervolgens dringen dezelfde avond rond 23.00 uur drie verdachten haar woning aan de Rotterdamse Prinsenlaa",
+  "link": "https://www.rijnmond.nl/nieuws/2252073/gewapende-ontvoering-en-woningoverval-heeft-enorme-impact-op-vastgebonden-slachtoffers"
  },
  {
   "id": "350e3837d1",
@@ -1361,27 +1444,6 @@
   ],
   "samenvatting": "Ruslands rekrutering van buitenlanders voor oorlog tegen Oekraïne komt neer op mensenhandel amnesty-international.be",
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHZWd19hWmo4Y3dyM25QZU5qcnZMdFlGbEJ1SUozakZEbF8tMzRYaGNnQTFyZW9FRDd5c1hMLXFqZHJHMnh2SnZCVHBRZEVubzFLRFJqTG1CZG1QQzRGNEVoR2xtbFIteUhob082NlRVQVJsbW5VNzM0YXZuV2JGdGlXMXNmT3VsckxhU3dHRm1UM3EybE8wU2ppX2wwdkVDa0ZVTDBqN2ZfRkZWakE0d0gtdzVJVzcwT0hRWlFzZEFoTVFTbGw0NUpGdjZNc0FI?oc=5"
- },
- {
-  "id": "11b82b0303",
-  "datum": "2026-09-10",
-  "tijd": "08:45",
-  "nieuw": false,
-  "titel": "Vrachtwagenchauffeur uit Mierlo raakt gewond bij botsing in Gelderland",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder",
-   "vrachtwagen"
-  ],
-  "samenvatting": "Een 29-jarige vrachtwagenchauffeur uit Mierlo is woensdagnacht gewond geraakt bij een botsing met een aanhanger op de A1 bij Terschuur (Gelderland). Op de aanhanger stond een pijlwagen. De man is met een ambulance naar het ziekenhuis gebracht. Het ongeluk gebeurde rond halfdrie richting Apeldoorn. De kleine vrachtwagen",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026732/vrachtwagenchauffeur-uit-mierlo-raakt-gewond-bij-botsing-in-gelderland"
  },
  {
   "id": "96a0d851b3",
