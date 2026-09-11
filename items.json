@@ -1,5 +1,49 @@
 [
  {
+  "id": "eb02fbf619",
+  "datum": "2026-09-11",
+  "tijd": "08:04",
+  "nieuw": true,
+  "titel": "Almere - Gemeente eist actie: eigenaren spookpand riskeren dwangsom om overlast zwervers",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand",
+   "vergunning"
+  ],
+  "samenvatting": "Mag de gemeente Almere een dwangsom opleggen aan de eigenaren van een vervallen kantoorpand vlakbij station Almere centrum? Dat was de inzet van een rechtszaak donderdagmiddag. Die was aangespannen door de pandeigenaren. Het voormalige gebouw van de ASQ groep aan de Randstad staat nu acht jaar leeg en ziet er vervallen",
+  "link": "https://www.omroepflevoland.nl/nieuws/523360/gemeente-eist-actie:-eigenaren-spookpand-riskeren-dwangsom-om-overlast-zwervers"
+ },
+ {
+  "id": "69cc9f8192",
+  "datum": "2026-09-11",
+  "tijd": "07:38",
+  "nieuw": true,
+  "titel": "Zeewolde - Opnieuw harde knal bij Chinees restaurant in Zeewolde, derde incident in korte tijd",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "explosie",
+   "pand"
+  ],
+  "samenvatting": "Bij Chinees restaurant De Nieuwe Lotus in Zeewolde heeft vrijdagochtend opnieuw een incident plaatsgevonden. Rond 06.18 uur kwam er een melding binnen van een harde knal. De politie en brandweer kwamen daarop met spoed naar het restaurant. Op de voordeur van het restaurant is een grote barst te zien. Mogelijk is er ook",
+  "link": "https://www.omroepflevoland.nl/nieuws/523386/opnieuw-harde-knal-bij-chinees-restaurant-in-zeewolde-derde-incident-in-korte-tijd"
+ },
+ {
   "id": "727d6055f3",
   "datum": "2026-09-11",
   "tijd": "07:22",
@@ -44,6 +88,46 @@
   "link": "https://nos.nl/l/2630519"
  },
  {
+  "id": "60b1381400",
+  "datum": "2026-09-11",
+  "tijd": "06:13",
+  "nieuw": true,
+  "titel": "Woonwagenbewoners na excuses Apeldoorn: 'Het stopt maar niet'",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Jarenlang voelden woonwagenbewoners in Apeldoorn zich anders behandeld door de gemeente. Nu is officieel vastgesteld dat de Bibob-toets bij de verkoop van woonwagenkavels discriminerend was. Die erkenning komt binnen. \"Het lucht op dat ze erkennen dat ze ons hebben gediscrimineerd, maar hiermee is het niet klaar.\"",
+  "link": "https://www.gld.nl/nieuws/8521102/woonwagenbewoners-na-excuses-apeldoorn-het-stopt-maar-niet"
+ },
+ {
+  "id": "73e4945326",
+  "datum": "2026-09-11",
+  "tijd": "05:17",
+  "nieuw": true,
+  "titel": "Twee aanhoudingen na mogelijk geloste schoten in Zwolle",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "erf",
+   "woning"
+  ],
+  "samenvatting": "Twee personen zijn donderdagavond rond 22.00 uur aangehouden aan de Herfterlaan in Zwolle. De politie kreeg een melding van een verdachte situatie bij een woning. Buurtbewoners hoorden één of twee schoten.",
+  "link": "https://www.oost.nl/nieuws/3694536/twee-aanhoudingen-na-mogelijk-geloste-schoten-in-zwolle"
+ },
+ {
   "id": "eced194154",
   "datum": "2026-09-11",
   "tijd": "04:49",
@@ -67,7 +151,7 @@
   "datum": "2026-09-11",
   "tijd": "04:32",
   "nieuw": true,
-  "titel": "Drie gewonden na achtervolging na inbraak tankstation bij Venlo",
+  "titel": "Dode en twee gewonden na achtervolging na inbraak tankstation bij Venlo",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
@@ -78,7 +162,7 @@
   "tags": [
    "bestuurder"
   ],
-  "samenvatting": "Bij een politieachtervolging na een inbraak bij een tankstation in Kessel (Limburg) zijn vannacht drie gewonden gevallen. De auto van de verdachten crashte op de afrit Venlo-Zuid van de A73, meldt de politie. De politie kreeg na 02.30 uur een melding van de inbraak bij het tankstation aan de Baarloseweg. De politie zag",
+  "samenvatting": "Bij een politieachtervolging na een inbraak bij een tankstation in Kessel (Limburg) is vannacht een dode gevallen. Volgens de politie gaat het om een 48-jarige man die geen vaste woon- of verblijfplaats heeft. Twee andere inzittenden raakten gewond. De auto van de verdachten crashte op de afrit Venlo-Zuid van de A73, m",
   "link": "https://nos.nl/l/2630514"
  },
  {
@@ -432,7 +516,7 @@
   "id": "920fe82bb4",
   "datum": "2026-09-10",
   "tijd": "17:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gillis strijdt om parken, studentenkamers te duur: dit gebeurde vandaag",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
