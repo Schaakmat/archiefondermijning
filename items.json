@@ -1,5 +1,30 @@
 [
  {
+  "id": "762c16954c",
+  "datum": "2026-09-11",
+  "tijd": "15:54",
+  "nieuw": true,
+  "titel": "Zeewolde - Chinees restaurant gesloten op last van burgemeester, omwonenden verdrietig en teleurgesteld",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Horeca, winkels & dienstverlening",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "explosie",
+   "horeca",
+   "pand"
+  ],
+  "samenvatting": "Chinees Restaurant De Nieuwe Lotus in Zeewolde is op last van de burgemeester Bram Harmsma vier weken gesloten. In een paar weken tijd zijn er drie explosies geweest bij het horecapand. De gemeente Zeewolde zegt dat het besluit is genomen om de veiligheid van omwonenden, voorbijgangers en omliggende gebouwen te bescher",
+  "link": "https://www.omroepflevoland.nl/nieuws/523443/chinees-restaurant-gesloten-op-last-van-burgemeester-omwonenden-verdrietig-en-teleurgesteld"
+ },
+ {
   "id": "beafc2ba92",
   "datum": "2026-09-11",
   "tijd": "14:24",
@@ -19,6 +44,29 @@
   ],
   "samenvatting": "Onderzoek naar corruptie cardiologen Opsporingsdienst FIOD heeft bij zeker zes cardiologen beslag gelegd op hun panden. Het gaat om cardiologen van het Amsterdamse OLVG en voormalig cardiologen van het CWZ-ziekenhuis in Nijmegen. Dat blijkt uit onderzoek van Investico en Nieuwsuur . Verslaggever Fleur Damen schuift aan",
   "link": "https://nos.nl/l/2630578"
+ },
+ {
+  "id": "d8a418d15a",
+  "datum": "2026-09-11",
+  "tijd": "13:50",
+  "nieuw": true,
+  "titel": "Failliete scheepswerf Grave eist 12,7 miljoen euro: 'Het is onrecht'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "erf",
+   "ondernemers",
+   "vergunning"
+  ],
+  "samenvatting": "Een nieuw hoofdstuk in een lang lopende zaak over de failliete scheepswerf in Grave. In 2020 werd de gemeente Land van Cuijk veroordeeld door de Hoge Raad. Vrijdag stonden beide partijen opnieuw voor de rechter. Dit keer ging het niet meer over de vraag óf de gemeente verantwoordelijk is voor het faillissement, maar ov",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026769/failliete-scheepswerf-grave-eist-127-miljoen-euro-het-is-onrecht"
  },
  {
   "id": "94ad4f212f",
@@ -1113,6 +1161,25 @@
   ],
   "samenvatting": "Burgemeester sluit woning met drugslab aan Saturnus voor drie maanden RTV Lansingerland",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajA5dFd3cGV4T3prWTc3bDlpaEdyTWhaNHY1a3kyYUhNVWdXLUtwdXRzYUxtQXlyRDhZN2twWWdnaHJrOGRMN1BnMGxRTTJBNkI1aGsxRElDcHlCeUw1al9ZZGlHNXlvOXBNRUc3RnlORVhvLThyWlk3WWJjNEZERDJaMFpFWlAtcmJvS0xyTlFMWWJJaDRIM3h3SWt6MTBLODhYdnZKV0FDbVJKMmgtWDNlWXhRdjF6XzlF?oc=5"
+ },
+ {
+  "id": "ff3e798651",
+  "datum": "2026-09-10",
+  "tijd": "15:10",
+  "nieuw": false,
+  "titel": "Jonge 'agent' loopt tegen de lamp als hij met gestolen bankpas wil betalen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "sieraden"
+  ],
+  "samenvatting": "Voor de oplichting van een vrouw in Tilburg heeft de politie donderdag een tiener uit Lelystad aangehouden. De jongen deed zich voor als agent. Hij liep tegen de lamp toen hij probeerde iets af te rekenen met de gestolen bankpas van de vrouw. Een winkelmedewerker reageerde alert en belde de politie. Het slachtoffer uit",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026795/jonge-agent-loopt-tegen-de-lamp-als-hij-met-gestolen-bankpas-wil-betalen"
  },
  {
   "id": "dfb8fca802",
