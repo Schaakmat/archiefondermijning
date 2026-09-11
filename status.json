@@ -1,12 +1,12 @@
 {
- "run": "10:32",
+ "run": "11:31",
  "datum": "2026-09-11",
- "nieuw": 25,
- "totaal": 3012,
+ "nieuw": 26,
+ "totaal": 3016,
  "verwijderd": 22,
  "geweigerd": {
-  "niet-nederlands": 1062,
-  "geen dossier": 472
+  "geen dossier": 471,
+  "niet-nederlands": 1075
  },
  "bronnen": [
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 168,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 45,
-   "status": "bij",
+   "items": 46,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -500,7 +500,7 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 75,
+   "items": 77,
    "status": "2 nieuw",
    "ok": true
   },
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 127,
-   "status": "bij",
+   "items": 128,
+   "status": "1 nieuw",
    "ok": true
   },
   {

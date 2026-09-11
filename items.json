@@ -1,5 +1,63 @@
 [
  {
+  "id": "e7a230822b",
+  "datum": "2026-09-11",
+  "tijd": "11:25",
+  "nieuw": true,
+  "titel": "Controles op ondermijning bij De Zandmeren leveren volgens de gemeente positief beeld op",
+  "bron": "dtvnieuws.nl",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Controles op ondermijning bij De Zandmeren leveren volgens de gemeente positief beeld op dtvnieuws.nl",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3VPaFlHYkF2VGhCb1NQQ0FfM29rSzYyaGJzOThZYTRoQjlDSjJrSGJGVVRsdmkwd01PbTFXWVp0RGRyQTNrSUo3cHpnOXZrLUlzY2RDSEQyOE5qLW9zYl9pVnd6UXRycnhKanRUU3BlNnJwS05WQ0ducUhnOGIyeWo0REJ5U1R6Z2xmSTEzNldnOGNRdTBuSHZLTy04NzdaaUVIVVgzYmhWcnBPZmg2eHd1SVdFSVRFSTR5MlJtQQ?oc=5"
+ },
+ {
+  "id": "6e61b4e83c",
+  "datum": "2026-09-11",
+  "tijd": "11:07",
+  "nieuw": true,
+  "titel": "FIOD legt beslag op woningen van vier oud-cardiologen CWZ",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "Opsporingsdienst FIOD heeft beslag gelegd op panden van zeker zes cardiologen. Het gaat om voormalige cardiologen van het CWZ in Nijmegen en cardiologen van het Amsterdamse OLVG. Dat blijkt uit onderzoek van Investico en Nieuwsuur.",
+  "link": "https://www.gld.nl/nieuws/8521256/fiod-legt-beslag-op-woningen-van-vier-oud-cardiologen-cwz"
+ },
+ {
+  "id": "d9bc686469",
+  "datum": "2026-09-11",
+  "tijd": "10:16",
+  "nieuw": true,
+  "titel": "Beginnend bestuurder raast met 180 kilometer per uur over N279",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een beginnend bestuurder raasde donderdagnacht met 180 kilometer per uur over de N279 bij Heeswijk Dinther. Op deze weg is een maximumsnelheid van 80 kilometer per uur toegestaan. Agenten van de politie Maasland zagen de bestuurder rond kwart over twee voorbij scheuren in de nacht van donderdag op vrijdag en hielden de",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026897/beginnend-bestuurder-raast-met-180-kilometer-per-uur-over-n279"
+ },
+ {
   "id": "e3caf7a7cd",
   "datum": "2026-09-11",
   "tijd": "09:22",
@@ -58,6 +116,25 @@
   ],
   "samenvatting": "Moordverdachte Edgar L. zegt zijn stiefzoon Kalilu (21) uit zelfverdediging te hebben doodgestoken. Dat gebeurde in de nacht van 2 juni 2026 in de Nijhoffstraat in Zwijndrecht.",
   "link": "https://www.rijnmond.nl/nieuws/2252255/edgar-l-zegt-zijn-stiefzoon-kalilu-uit-zelfverdediging-te-hebben-doodgestoken-het-is-heel-spijtig"
+ },
+ {
+  "id": "17f104b16b",
+  "datum": "2026-09-11",
+  "tijd": "08:57",
+  "nieuw": true,
+  "titel": "Verdachte dodelijke steekpartij zegt ‘sorry’, familie reageert woedend",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "Moordverdachte Edgar L. zegt zijn stiefzoon Kalilu (21) uit zelfverdediging te hebben doodgestoken. Dat gebeurde in de nacht van 2 juni 2026 in de Nijhoffstraat in Zwijndrecht.",
+  "link": "https://www.rijnmond.nl/nieuws/2252255/verdachte-dodelijke-steekpartij-zegt-sorry-familie-reageert-woedend"
  },
  {
   "id": "308d91b3ca",
@@ -455,7 +532,7 @@
   "id": "4967be33cb",
   "datum": "2026-09-10",
   "tijd": "19:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gewonde bij steekpartij in woning, één persoon aangehouden",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -474,7 +551,7 @@
   "id": "a5256c5806",
   "datum": "2026-09-10",
   "tijd": "18:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hoe Marokkaanse jongeren uit Ede onlosmakelijk werden verbonden met de aanslagen van 9/11",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -493,7 +570,7 @@
   "id": "f1a39f9673",
   "datum": "2026-09-10",
   "tijd": "18:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mensenhandel, snus en lachgas op ’t Plaveen in Huizen",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -763,6 +840,31 @@
   ],
   "samenvatting": "Een kamer vinden in een van de Brabantse studentensteden is al lastig. En vaak blijkt voor een kamer dan ook nog veel meer huur gevraagd te worden dan wettelijk mag, zo blijkt uit onderzoek van radioprogramma Argos. Tilburg komt het slechtst uit het onderzoek. “De prijzen zijn sky high . Ik heb het er niet voor over”, ",
   "link": "https://www.omroepbrabant.nl/nieuws/6026799/megan-stapte-naar-huurcommissie-nu-is-ze-tevreden-met-prijs-voor-kamer"
+ },
+ {
+  "id": "0990b014a7",
+  "datum": "2026-09-10",
+  "tijd": "16:54",
+  "nieuw": false,
+  "titel": "Duitse auto betrokken bij overval op geldtransport, politie zoekt de dader en zijn handlanger",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Autobranche & garages",
+   "Geweld, liquidaties & bedreiging",
+   "Horeca, winkels & dienstverlening",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "garage",
+   "supermarkt",
+   "wapen"
+  ],
+  "samenvatting": "Een gewapende overval op een geldtransport bij een supermarkt in de Rotterdamse Lusthofstraat op woensdagmiddag 15 april. De overvaller slaagt er onder bedreiging van een vuurwapen in een geldcassette buit te maken. Daarna vlucht hij via de parkeergarage naar een auto die op hem staat te wachten in de Adamshofstraat.",
+  "link": "https://www.rijnmond.nl/nieuws/2252077/duitse-auto-betrokken-bij-overval-op-geldtransport-politie-zoekt-de-dader-en-zijn-handlanger"
  },
  {
   "id": "3e66efbe63",
@@ -1406,25 +1508,6 @@
   ],
   "samenvatting": "Een 31-jarige bestuurder die woensdagavond in Breda rondreed met een bivakmuts op, is na veel trammelant opgepakt door de politie. Tijdens een gesprek met agenten dreigde de man hen neer te steken. De arrestatie verliep daarna bepaald niet vlekkeloos: eenmaal opgepakt smeerde de man zijn cel onder met poep. De politie ",
   "link": "https://www.omroepbrabant.nl/nieuws/6026749/opgepakte-bestuurder-met-bivakmuts-smeert-politiecel-onder-met-poep"
- },
- {
-  "id": "f69fb9d2f7",
-  "datum": "2026-09-10",
-  "tijd": "09:11",
-  "nieuw": false,
-  "titel": "Politie onderzoekt eigenaar Amercentrale om 'duurzaam' hout uit Maleisië",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "afval"
-  ],
-  "samenvatting": "Een deel van de houtpellets die in de Amercentrale in Geertruidenberg wordt verbrand, heeft onterecht een duurzaam label. Dat komt naar voren uit onderzoek van NRC en onderzoeksprogramma Zembla. De pellets komen uit Maleisië, waar tegen duurzaamheidseisen in hele bomen worden verwerkt tot brandstof, onder meer voor de ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026658/politie-onderzoekt-eigenaar-amercentrale-om-duurzaam-hout-uit-maleisie"
  },
  {
   "id": "d5d34fe706",
