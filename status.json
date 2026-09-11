@@ -1,12 +1,12 @@
 {
- "run": "02:34",
+ "run": "03:34",
  "datum": "2026-09-11",
  "nieuw": 21,
- "totaal": 2993,
+ "totaal": 2994,
  "verwijderd": 20,
  "geweigerd": {
-  "niet-nederlands": 1073,
-  "geen dossier": 483
+  "niet-nederlands": 1053,
+  "geen dossier": 485
  },
  "bronnen": [
   {
@@ -374,8 +374,8 @@
    "url": "news.google.com/rss/search?q=%22weerbare%20ondernemers%22%20OR%20bedrijv",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 20,
-   "status": "bij",
+   "items": 21,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 47,
-   "status": "9 nieuw",
+   "status": "8 nieuw",
    "ok": true
   },
   {
