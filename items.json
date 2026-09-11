@@ -1,5 +1,26 @@
 [
  {
+  "id": "beafc2ba92",
+  "datum": "2026-09-11",
+  "tijd": "14:24",
+  "nieuw": true,
+  "titel": "11/9 in Nieuwsuur: Onderzoek naar corruptie cardiologen • Herdenking 9/11 • Zeestraat dreigt te sluiten",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "corruptie",
+   "pand"
+  ],
+  "samenvatting": "Onderzoek naar corruptie cardiologen Opsporingsdienst FIOD heeft bij zeker zes cardiologen beslag gelegd op hun panden. Het gaat om cardiologen van het Amsterdamse OLVG en voormalig cardiologen van het CWZ-ziekenhuis in Nijmegen. Dat blijkt uit onderzoek van Investico en Nieuwsuur . Verslaggever Fleur Damen schuift aan",
+  "link": "https://nos.nl/l/2630578"
+ },
+ {
   "id": "e7a230822b",
   "datum": "2026-09-11",
   "tijd": "11:25",
@@ -56,6 +77,54 @@
   ],
   "samenvatting": "Een beginnend bestuurder raasde donderdagnacht met 180 kilometer per uur over de N279 bij Heeswijk Dinther. Op deze weg is een maximumsnelheid van 80 kilometer per uur toegestaan. Agenten van de politie Maasland zagen de bestuurder rond kwart over twee voorbij scheuren in de nacht van donderdag op vrijdag en hielden de",
   "link": "https://www.omroepbrabant.nl/nieuws/6026897/beginnend-bestuurder-raast-met-180-kilometer-per-uur-over-n279"
+ },
+ {
+  "id": "9337c5df9a",
+  "datum": "2026-09-11",
+  "tijd": "09:43",
+  "nieuw": true,
+  "titel": "Corruptieonderzoek FIOD richt zich op cardiologen OLVG in Amsterdam en CWZ in Nijmegen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Criminele samenwerkingsverbanden",
+   "Trustkantoren & rechtspersonen",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "bv",
+   "corruptie",
+   "integriteit",
+   "integriteitsschending",
+   "leider",
+   "pand"
+  ],
+  "samenvatting": "Opsporingsdienst FIOD heeft bij zeker zes cardiologen beslag gelegd op hun panden. Het gaat om cardiologen van het Amsterdamse OLVG en voormalig cardiologen van het CWZ-ziekenhuis in Nijmegen. Dat blijkt uit onderzoek van Investico en Nieuwsuur . Het Openbaar Ministerie (OM) heeft (gedeeltelijk) beslag gelegd op panden",
+  "link": "https://nos.nl/l/2630536"
+ },
+ {
+  "id": "761150142c",
+  "datum": "2026-09-11",
+  "tijd": "09:35",
+  "nieuw": true,
+  "titel": "Onderzoek naar corruptie: beslag gelegd op twee panden van cardiologen OLVG",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "corruptie",
+   "pand"
+  ],
+  "samenvatting": "Onderzoek naar corruptie: beslag gelegd op twee panden van cardiologen OLVG Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTVzZXRfZ3RybXprckQwdmdoLWstazVTRTM4RHVQby0zVFNGQ0VnSnBicmZLZnVITlR0SFRZNndZNXdpNlFTb3ZQZnpjYkNXSmdsa1NoRXFPMUhiRzBTUlVYMi14dFhKOHJsVHRiYnRLN2M4SUloNW5jMWJUd3ZDX2JZblJRSF84UHlpZks5ZGpPSGk1U0pfenhSdExqenFhSi1hZUxQcnU0c3k1R0diZjVUcldDdEk?oc=5"
  },
  {
   "id": "e3caf7a7cd",
@@ -407,7 +476,7 @@
   "id": "731748c1d1",
   "datum": "2026-09-11",
   "tijd": "03:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man aangehouden na onderschepping 4 ton cocaïne, mogelijk link met Bolle Jos",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -428,7 +497,7 @@
   "id": "c236942515",
   "datum": "2026-09-11",
   "tijd": "03:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man opgepakt na vondst 4 ton cocaïne, mogelijk link met Bolle Jos",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -449,7 +518,7 @@
   "id": "75ad38a1e5",
   "datum": "2026-09-11",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Corruptieonderzoek FIOD richt zich op cardiologen OLVG en CWZ",
   "bron": "Investico",
   "verzameld_via": "Investico",
@@ -470,7 +539,7 @@
   "id": "496cad0238",
   "datum": "2026-09-10",
   "tijd": "22:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Douane vindt crack in Surinaamse pinda's: 'Geen lastige zaak om te cracken'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -489,7 +558,7 @@
   "id": "aa16e4ff77",
   "datum": "2026-09-10",
   "tijd": "22:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Europol-rapport over witwassen, cryptovaluta en misbruik van legale bedrijfsstructuren door criminele netwerken in de EU",
   "bron": "drimble.nl",
   "verzameld_via": "Nieuws — Crypto & digitaal geld",
@@ -513,7 +582,7 @@
   "id": "abe07abee3",
   "datum": "2026-09-10",
   "tijd": "20:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Tiener uit Lelystad opgepakt nadat hij bankpas gebruikte van slachtoffer nepagent",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -584,35 +653,6 @@
   ],
   "samenvatting": "Mensenhandel, snus en lachgas op ’t Plaveen in Huizen Noordhollands Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaVV2Q3MwbGs4YnFPcHR0SVE4T25Lb1BnWDd3TnpoRHpGNG10Nkk4SGtleElBRXh6dmNQZUxFNmMxb0FnVnJraEtnS1d5cV9wcGhVNUpUOHBUeW5yRDZ6ODBBNDRGVTR2eER3dVdUVUpkQ3pDd1pIay1HQkUtcW41SG1XTTZJdlduc2RsQmtOZ1pSRTlpX29hbUlINGlxT25LeXk0TlR6VDZwR3lGNjczM3d0WQ?oc=5"
- },
- {
-  "id": "84f63e4200",
-  "datum": "2026-09-10",
-  "tijd": "18:45",
-  "nieuw": false,
-  "titel": "Flevoland - Nieuwsoverzicht 10/09 | Dronten moddert niet aan • Netl-broers blijven strijdbaar",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Milieucriminaliteit & afval",
-   "Ondernemers & weerbaarheid",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "afval",
-   "bedrijventerrein",
-   "explosie",
-   "grond",
-   "haven",
-   "organisatie"
-  ],
-  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Borden en bewustwording om modderige buitenwegen tijdens oogsttijd • Broers Crebas blijven strijdbaar nadat bestuursrechter drones voorrang geeft • Meer dan",
-  "link": "https://www.omroepflevoland.nl/nieuws/523258/nieuwsoverzicht-1009-or-dronten-moddert-niet-aan-*-netl-broers-blijven-strijdbaar"
  },
  {
   "id": "b5e8a8d813",
