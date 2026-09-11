@@ -1,5 +1,24 @@
 [
  {
+  "id": "727d6055f3",
+  "datum": "2026-09-11",
+  "tijd": "07:22",
+  "nieuw": true,
+  "titel": "Emmeloord - 'Meestervervalser' exposeert in de Poldertoren",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "Zeven jaar geleden raakte Berthoo Lammers uit Emmeloord geïnspireerd door de schilderwerken van Johannes Vermeer. \"De echte schilderijen zijn gemaakt tussen 1634 en 1670\", zeg hij. Dat waren er 34, waarvan Lammers er 22 heeft nagemaakt. Het komend weekend zijn deze kunstwerken te bekijken in een speciaal daarvoor inger",
+  "link": "https://www.omroepflevoland.nl/nieuws/523330/'meestervervalser'-exposeert-in-de-poldertoren"
+ },
+ {
   "id": "5f9f5f6fc1",
   "datum": "2026-09-11",
   "tijd": "06:32",
@@ -23,6 +42,25 @@
   ],
   "samenvatting": "Goedemorgen! Vandaag is het 25 jaar geleden dat in de Verenigde aanslagen werden gepleegd op de Twin Towers en het Pentagon. In de VS zijn op verschillende plekken herdenkingen. Eerst het weer: vanmorgen is het bewolkt en valt van tijd tot tijd regen of motregen. Vanmiddag wordt het in het westen droger en breekt soms ",
   "link": "https://nos.nl/l/2630519"
+ },
+ {
+  "id": "eced194154",
+  "datum": "2026-09-11",
+  "tijd": "04:49",
+  "nieuw": true,
+  "titel": "14-jarige geschopt en geslagen, 'veel jongeren' zagen het gebeuren",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Een 14-jarige scholier is onlangs in Zevenaar mishandeld door meerdere jongeren en de mishandeling is gefilmd. De politie is op zoek naar getuigen.",
+  "link": "https://www.gld.nl/nieuws/8521141/14-jarige-geschopt-en-geslagen-veel-jongeren-zagen-het-gebeuren"
  },
  {
   "id": "11dfe6d9f4",
@@ -418,7 +456,7 @@
   "id": "14fb69a317",
   "datum": "2026-09-10",
   "tijd": "17:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Familie doorkruist Marokko op zoek naar vermiste Ouadoud (22) uit Zeist",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -438,7 +476,7 @@
   "id": "a3c0cbf0d8",
   "datum": "2026-09-10",
   "tijd": "17:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mensenhandel, snus en lachgas op ’t Plaveen in Huizen",
   "bron": "De Gooi- en Eemlander",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -457,7 +495,7 @@
   "id": "26149e1f5b",
   "datum": "2026-09-10",
   "tijd": "17:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Megan stapte naar Huurcommissie: nu is ze tevreden met prijs voor kamer",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
