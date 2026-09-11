@@ -4,7 +4,7 @@
   "datum": "2026-09-11",
   "tijd": "18:45",
   "nieuw": true,
-  "titel": "Oad-directeur over busongeluk in Zwitserland: 'Dit is je ergste nachtmerrie'",
+  "titel": "Nog tien middel- tot zwaargewonden na busongeluk Zwitserland",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
@@ -15,8 +15,27 @@
   "tags": [
    "organisatie"
   ],
-  "samenvatting": "Bij reisorganisatie Oad heeft het busongeluk in Zwitserland een enorme schok teweeggebracht. \"Dit is je ergste nachtmerrie\", zegt Oad-directeur Arjan Koster tegen de NOS. Hij is zelf afgereisd naar Zwitserland. \"Het is je grootste angst dat je tijdens het seizoen een keer gebeld wordt met zo'n bericht.\" Bij het zware o",
+  "samenvatting": "In verschillende ziekenhuizen liggen na het zware busongeluk in Zwitserland nog tien middel- tot zwaargewonden. Dat heeft de directeur van de reisorganisatie laten weten. Volgens alarmcentrale Eurocross hebben zeker acht mensen het ziekenhuis inmiddels verlaten. Bij het ongeluk tijdens een Oad-busreis kwamen gisteren v",
   "link": "https://nos.nl/l/2630621"
+ },
+ {
+  "id": "5719648dba",
+  "datum": "2026-09-11",
+  "tijd": "18:30",
+  "nieuw": true,
+  "titel": "Explosief gevonden bij huis in Sint-Michielsgestel, omgeving afgezet",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "In een tuin aan de Campanulastraat in Sint-Michielsgestel is vrijdag aan het eind van de middag een zelfgemaakt explosief gevonden. Voorbijgangers zagen het liggen en waarschuwden de politie. Het ging om een lege frisdrankfles met daarin een vermoedelijk brandbare vloeistof. Aan de fles zat een zelfgemaakt explosief va",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026938/explosief-gevonden-bij-huis-in-sint-michielsgestel-omgeving-afgezet"
  },
  {
   "id": "2e1f3c78f6",
@@ -87,16 +106,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "burgemeester",
-   "explosie",
-   "geweld",
-   "jongeren",
    "vuurwerk",
    "zwaar illegaal vuurwerk"
   ],
@@ -122,6 +134,25 @@
   ],
   "samenvatting": "Verdachten in oud megaproces overvallen door strafeisen: tot 8 jaar voor deelname aan veronderstelde criminele organisatie ‘Rico de Chileen’ Het Parool",
   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQT2VXMHZyTVI4LW9JUzNVUTE0QTM3WE8tZFQtTVptLVB1RnNzM29pb1JyNXU1cDNRdU9lWUEydjRqQWlFNUdmYXlnaVBIYlBGdlRKUENUSVlIbVNvNHF6SWpScnJaX2R1aUk4QXdxNWF3VTAza19SSjRCX001dExDNmdlSDJXQzl6ZUxQQXhWMmpXak50Sk1LY1c4UjV3MVFkcVJzaTFNNWYyZ1JPRlV1WGZtSEtDMnZhTXdIdWNfM2dNNUZnNUxlZTR1bFRzRV9WSDVrWENYTDhlZU9Yc2JSSGJNLWdrNGpOSEhyUTU3ampUX2RPemZVMHNIQ0ZXd210TWw0dWdVeWQ?oc=5"
+ },
+ {
+  "id": "4be996a304",
+  "datum": "2026-09-11",
+  "tijd": "16:37",
+  "nieuw": true,
+  "titel": "Politie zoekt getuigen voor harde explosie bij bestelbus",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Eibergen is in de nacht van donderdag op vrijdag opgeschrikt door een hevige explosie. De oorzaak van de explosie is niet bekend. Ondertussen zoekt de politie getuigen.",
+  "link": "https://www.gld.nl/nieuws/8521491/politie-zoekt-getuigen-voor-harde-explosie-bij-bestelbus"
  },
  {
   "id": "13281c0440",
@@ -268,7 +299,7 @@
   "id": "ce204dfdd5",
   "datum": "2026-09-11",
   "tijd": "13:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Veertien vaten met vermoedelijk drugsafval gevonden in Angerlo: politie zoekt getuigen",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -290,7 +321,7 @@
   "id": "94ad4f212f",
   "datum": "2026-09-11",
   "tijd": "12:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "🔴Dode bij ernstig ongeval N9 bij Callantsoog • Hoofddorper vast voor witwassen",
   "bron": "NH Nieuws",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -309,7 +340,7 @@
   "id": "e7a230822b",
   "datum": "2026-09-11",
   "tijd": "11:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Controles op ondermijning bij De Zandmeren leveren volgens de gemeente positief beeld op",
   "bron": "dtvnieuws.nl",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -404,28 +435,6 @@
   ],
   "samenvatting": "Onderzoek naar corruptie: beslag gelegd op twee panden van cardiologen OLVG Het Parool",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTVzZXRfZ3RybXprckQwdmdoLWstazVTRTM4RHVQby0zVFNGQ0VnSnBicmZLZnVITlR0SFRZNndZNXdpNlFTb3ZQZnpjYkNXSmdsa1NoRXFPMUhiRzBTUlVYMi14dFhKOHJsVHRiYnRLN2M4SUloNW5jMWJUd3ZDX2JZblJRSF84UHlpZks5ZGpPSGk1U0pfenhSdExqenFhSi1hZUxQcnU0c3k1R0diZjVUcldDdEk?oc=5"
- },
- {
-  "id": "e3caf7a7cd",
-  "datum": "2026-09-11",
-  "tijd": "09:22",
-  "nieuw": false,
-  "titel": "Overlastgevende man valt agent aan en wordt getaserd in Roosendaal",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Milieucriminaliteit & afval",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "afval",
-   "grond",
-   "wapen"
-  ],
-  "samenvatting": "Een 40-jarige man is donderdagavond getaserd door een agent in het centrum van Roosendaal. Hij viel buurtbewoners lastig, gooide de inhoud van prullenbakken op straat en viel een agent aan. Pepperspray bleek niet voldoende om hem te stoppen, dus zette de agent het stroomstootwapen in. Een wijkagent die donderdagavond a",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026896/overlastgevende-man-valt-agent-aan-en-wordt-getaserd-in-roosendaal"
  },
  {
   "id": "c3030b9b97",
