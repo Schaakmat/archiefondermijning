@@ -25,6 +25,44 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523443/chinees-restaurant-gesloten-op-last-van-burgemeester-omwonenden-verdrietig-en-teleurgesteld"
  },
  {
+  "id": "cc97d1d781",
+  "datum": "2026-09-11",
+  "tijd": "15:02",
+  "nieuw": true,
+  "titel": "Drie mannen vast die nepagenten op pad stuurden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "De recherche in Helmond heeft drie verdachten aangehouden die mogelijk betrokken zijn bij meerdere oplichtingszaken met nepagenten. De verdachten zouden slachtoffers telefonisch hebben benaderd en vervolgens nepagenten hebben aangestuurd om toe te slaan. Het gaat om twee mannen van 21 en 22 jaar uit Eindhoven en een 21",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026929/drie-mannen-vast-die-nepagenten-op-pad-stuurden"
+ },
+ {
+  "id": "eb29dd3169",
+  "datum": "2026-09-11",
+  "tijd": "14:33",
+  "nieuw": true,
+  "titel": "Justitie verdenkt automobilist van veroorzaken busongeluk waarna Naomi (15) overleed",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school"
+  ],
+  "samenvatting": "Een 66-jarige Rotterdammer moet zich binnenkort bij de rechtbank in Rotterdam verantwoorden voor een busongeluk bij Zwartewaal. Als gevolg van het ongeluk op 30 januari 2025 overleed de 15-jarige Naomi, die in de bus zat. Het meisje was onderweg naar school.",
+  "link": "https://www.rijnmond.nl/nieuws/2252391/justitie-verdenkt-automobilist-van-veroorzaken-busongeluk-waarna-naomi-15-overleed"
+ },
+ {
   "id": "beafc2ba92",
   "datum": "2026-09-11",
   "tijd": "14:24",
@@ -56,14 +94,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Ondernemers & weerbaarheid"
+   "Buitengebied & recreatie"
   ],
   "tags": [
-   "erf",
-   "ondernemers",
-   "vergunning"
+   "erf"
   ],
   "samenvatting": "Een nieuw hoofdstuk in een lang lopende zaak over de failliete scheepswerf in Grave. In 2020 werd de gemeente Land van Cuijk veroordeeld door de Hoge Raad. Vrijdag stonden beide partijen opnieuw voor de rechter. Dit keer ging het niet meer over de vraag óf de gemeente verantwoordelijk is voor het faillissement, maar ov",
   "link": "https://www.omroepbrabant.nl/nieuws/6026769/failliete-scheepswerf-grave-eist-127-miljoen-euro-het-is-onrecht"
@@ -311,7 +345,7 @@
   "id": "eb02fbf619",
   "datum": "2026-09-11",
   "tijd": "08:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Gemeente eist actie: eigenaren spookpand riskeren dwangsom om overlast zwervers",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -332,7 +366,7 @@
   "id": "0f2a6bccf4",
   "datum": "2026-09-11",
   "tijd": "07:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mensenhandel is lang niet altijd zichtbaar",
   "bron": "Bol-An!",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -351,7 +385,7 @@
   "id": "69cc9f8192",
   "datum": "2026-09-11",
   "tijd": "07:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeewolde - Opnieuw harde knal bij Chinees restaurant in Zeewolde, derde incident in korte tijd",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -374,7 +408,7 @@
   "id": "727d6055f3",
   "datum": "2026-09-11",
   "tijd": "07:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - 'Meestervervalser' exposeert in de Poldertoren",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -393,7 +427,7 @@
   "id": "5f9f5f6fc1",
   "datum": "2026-09-11",
   "tijd": "06:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wekdienst 11/9: 25 jaar na aanslagen VS • Staking bouwsector",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -418,7 +452,7 @@
   "id": "60b1381400",
   "datum": "2026-09-11",
   "tijd": "06:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Woonwagenbewoners na excuses Apeldoorn: 'Het stopt maar niet'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -640,25 +674,6 @@
   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ2ZXZnM1NmxTeEdXWjRZdG92RjI1dDVNSTUxRHNmelJaSUJKUUFJMnRTR3BLdXJoV1BzRDEtbGVtNEVMTVY5cEptM0RWbS1QSWhmckVTdVpTelZFOGI1YWNVTkJLX3ZMRXpCM3hZNkpEVkpaa0xzWk9CWDlmTVhlSUxyYlQtU2VEZFRoNkNZemh6VENYWFUyb0xWLTA3VXZvaExKZmNxRU5YSmtDY0FBSUt0cDhpRFp3cURoVmNnYmpKY25PakR2Q0tzQmdXWmJpd1NKSkcwY0hIYlA1VmNyOVFiTzBWeXI3cmVyejFfRXhTaG1OMkZ1VWFxaHRFZw?oc=5"
  },
  {
-  "id": "abe07abee3",
-  "datum": "2026-09-10",
-  "tijd": "20:02",
-  "nieuw": false,
-  "titel": "Lelystad - Tiener uit Lelystad opgepakt nadat hij bankpas gebruikte van slachtoffer nepagent",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "sieraden"
-  ],
-  "samenvatting": "Een tiener uit Lelystad is donderdag opgepakt nadat hij had geprobeerd te betalen met een gestolen bankpas. Hij wordt verdacht van zogenoemde helpdeskfraude, meldt de politie. De pas werd op 20 augustus gestolen van een oudere vrouw in Tilburg. Zij had een telefoontje gekregen van een oplichter die zich voordeed als po",
-  "link": "https://www.omroepflevoland.nl/nieuws/523344/tiener-uit-lelystad-opgepakt-nadat-hij-bankpas-gebruikte-van-slachtoffer-nepagent"
- },
- {
   "id": "4967be33cb",
   "datum": "2026-09-10",
   "tijd": "19:46",
@@ -853,30 +868,6 @@
   ],
   "samenvatting": "Minister-president Rob Jetten en zijn partij D66 hebben honderden berichten op sociale media laten schrijven door kunstmatige intelligentie (AI), zo werd vandaag bekend door onderzoek van de Volkskrant . Politici gebruikten al regelmatig mensen om hun teksten te schrijven, maar hoe geloofwaardig zijn ze als ze hun uiti",
   "link": "https://nos.nl/l/2630471"
- },
- {
-  "id": "920fe82bb4",
-  "datum": "2026-09-10",
-  "tijd": "17:15",
-  "nieuw": false,
-  "titel": "Gillis strijdt om parken, studentenkamers te duur: dit gebeurde vandaag",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "afval",
-   "burgemeester",
-   "camping",
-   "vakantiepark"
-  ],
-  "samenvatting": "Peter Gillis vecht de waardebepaling van drie vakantieparken aan die binnenkort onder de hamer gaan en twee op de drie studentenkamers in Tilburg en Breda zijn te duur. Dit zijn de vijf verhalen die je donderdag gelezen moet hebben. Peter Gillis accepteert dat drie van zijn vakantieparken gedwongen geveild worden, maar",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026807/gillis-strijdt-om-parken-studentenkamers-te-duur-dit-gebeurde-vandaag"
  },
  {
   "id": "14fb69a317",
@@ -1163,25 +1154,6 @@
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajA5dFd3cGV4T3prWTc3bDlpaEdyTWhaNHY1a3kyYUhNVWdXLUtwdXRzYUxtQXlyRDhZN2twWWdnaHJrOGRMN1BnMGxRTTJBNkI1aGsxRElDcHlCeUw1al9ZZGlHNXlvOXBNRUc3RnlORVhvLThyWlk3WWJjNEZERDJaMFpFWlAtcmJvS0xyTlFMWWJJaDRIM3h3SWt6MTBLODhYdnZKV0FDbVJKMmgtWDNlWXhRdjF6XzlF?oc=5"
  },
  {
-  "id": "ff3e798651",
-  "datum": "2026-09-10",
-  "tijd": "15:10",
-  "nieuw": false,
-  "titel": "Jonge 'agent' loopt tegen de lamp als hij met gestolen bankpas wil betalen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "sieraden"
-  ],
-  "samenvatting": "Voor de oplichting van een vrouw in Tilburg heeft de politie donderdag een tiener uit Lelystad aangehouden. De jongen deed zich voor als agent. Hij liep tegen de lamp toen hij probeerde iets af te rekenen met de gestolen bankpas van de vrouw. Een winkelmedewerker reageerde alert en belde de politie. Het slachtoffer uit",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026795/jonge-agent-loopt-tegen-de-lamp-als-hij-met-gestolen-bankpas-wil-betalen"
- },
- {
   "id": "dfb8fca802",
   "datum": "2026-09-10",
   "tijd": "15:09",
@@ -1308,25 +1280,6 @@
   ],
   "samenvatting": "De gemeente Amsterdam wil 2500 banen schrappen, bevestigen interne documenten die AT5 en Het Parool inzagen. Dat komt overeen met de plannen in het coalitieakkoord dat Pro en D66 in juni presenteerden. Een groot deel van de ontslagen valt onder meer binnen het Ingenieursbureau van de gemeente, de dienst Verkeer & Openb",
   "link": "https://nos.nl/l/2630444"
- },
- {
-  "id": "67eff0e8a6",
-  "datum": "2026-09-10",
-  "tijd": "14:12",
-  "nieuw": false,
-  "titel": "Invallen in Brabant om gesjoemel met paardenpaspoorten",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "In een groot internationaal onderzoek naar fraude met paardenpaspoorten zijn ook op meerdere plekken in Brabant invallen gedaan. Onderzoekers vermoeden dat paarden met vervalste papieren toch in de voedselketen terechtkomen, terwijl dat vanwege medicijngebruik niet is toegestaan. In totaal zijn de afgelopen dagen op 24",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026786/invallen-in-brabant-om-gesjoemel-met-paardenpaspoorten"
  },
  {
   "id": "6e079303c2",
