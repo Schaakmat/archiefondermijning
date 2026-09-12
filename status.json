@@ -1,12 +1,12 @@
 {
- "run": "01:35",
+ "run": "02:31",
  "datum": "2026-09-12",
  "nieuw": 11,
  "totaal": 3025,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1078,
-  "geen dossier": 499
+  "niet-nederlands": 1089,
+  "geen dossier": 495
  },
  "bronnen": [
   {
@@ -78,7 +78,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
