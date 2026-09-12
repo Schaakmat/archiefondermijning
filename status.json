@@ -1,12 +1,12 @@
 {
- "run": "19:27",
+ "run": "20:31",
  "datum": "2026-09-12",
- "nieuw": 11,
- "totaal": 3042,
+ "nieuw": 12,
+ "totaal": 3044,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1059,
-  "geen dossier": 491
+  "niet-nederlands": 1068,
+  "geen dossier": 499
  },
  "bronnen": [
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 119,
-   "status": "bij",
+   "items": 120,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 85,
-   "status": "bij",
+   "items": 86,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 89,
-   "status": "5 nieuw",
+   "status": "4 nieuw",
    "ok": true
   },
   {
