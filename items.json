@@ -1,5 +1,24 @@
 [
  {
+  "id": "84a7e69a6a",
+  "datum": "2026-09-12",
+  "tijd": "19:58",
+  "nieuw": true,
+  "titel": "Bestuurder van fatbike wordt onwel na aanhouding in Rotterdam en overlijdt",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een bestuurder van een fatbike is zaterdagavond door de politie staande gehouden aan de Vaarnerkamp in Rotterdam. De man werd enige tijd later onwel en moest gereanimeerd worden. Inmiddels is bekendgemaakt door de politie dat de persoon is overleden.",
+  "link": "https://www.rijnmond.nl/nieuws/2252567/bestuurder-van-fatbike-wordt-onwel-na-aanhouding-in-rotterdam-en-overlijdt"
+ },
+ {
   "id": "a66a67800d",
   "datum": "2026-09-12",
   "tijd": "18:54",
@@ -203,7 +222,7 @@
   "id": "d157817bd3",
   "datum": "2026-09-12",
   "tijd": "14:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Naardense autohandelaar tijdens megastrafzaak rond bekende crimineel Rico de Chileen: ’Ik word aangeklaagd voor witwassen, maar ik heb gewoon mijn werk gedaan’",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -224,7 +243,7 @@
   "id": "67fec2c609",
   "datum": "2026-09-12",
   "tijd": "11:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OAS brengt ministers samen voor regionale aanpak drugscriminaliteit en witwassen",
   "bron": "Suriname Herald",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
