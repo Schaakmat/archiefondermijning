@@ -1,5 +1,49 @@
 [
  {
+  "id": "c2f1ff2c37",
+  "datum": "2026-09-12",
+  "tijd": "09:57",
+  "nieuw": true,
+  "titel": "Dokters willen minder vervuilende medicijnen voorschrijven, maar weten niet hoe",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "leider",
+   "stal",
+   "supermarkt"
+  ],
+  "samenvatting": "De meeste artsen willen graag medicatie voorschrijven die het milieu zo min mogelijk belast, maar ze missen de kennis om dit te doen. Dat blijkt uit onderzoek geleid door het Universitair Medisch Centrum Groningen in samenwerking met andere ziekenhuizen. Ook vrezen dokters dat het te veel tijd kost. Medicijnen zijn een",
+  "link": "https://nos.nl/l/2630673"
+ },
+ {
+  "id": "74f4a75d2b",
+  "datum": "2026-09-12",
+  "tijd": "08:00",
+  "nieuw": true,
+  "titel": "Hoe het beeld Willem de Pijper dankzij een kroeggrap Bredase historie werd",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "goud",
+   "stal"
+  ],
+  "samenvatting": "Wie over de Havermarkt in Breda loopt, ziet daar een bronzen beeld van een troubadour met een luit. Tenminste, officieel. Want generaties kroeggangers kennen het beeld als Willem de Peijper, een zeventiende-eeuwse kernfysicus. Die man heeft nooit bestaan. De grap begon ruim vijftig jaar geleden achter de bar van café D",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024539/hoe-het-beeld-willem-de-pijper-dankzij-een-kroeggrap-bredase-historie-werd"
+ },
+ {
   "id": "a318fc38aa",
   "datum": "2026-09-12",
   "tijd": "05:31",
@@ -155,7 +199,7 @@
   "id": "ab7c35db6b",
   "datum": "2026-09-11",
   "tijd": "17:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Nieuwsoverzicht 09/11 | Chinees in Zeewolde vier weken gesloten • Rechtszaak over leeg pand Almere",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -174,7 +218,7 @@
   "id": "ec601e5b69",
   "datum": "2026-09-11",
   "tijd": "17:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zo ziet je auto eruit als 30 cobra's ontploffen: 'Stop met vuurwerk'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -194,7 +238,7 @@
   "id": "4f78a210b7",
   "datum": "2026-09-11",
   "tijd": "17:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie laat auto ontploffen met 30 cobra’s: ‘Stop met vuurwerk’",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -693,29 +737,6 @@
   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vWkotNjhfdEo0OEI0eDhBR19LY09abUszSmR1anhfUEtubkFKODc5SUFuSU5Kd0pyNjY2MEN6aG5LWUpMVjF5TXh5WmdiVzFicXY5UWpiLUN6UXdWcDVmYTlibFVIcDNTVlJTcVNR?oc=5"
  },
  {
-  "id": "69cc9f8192",
-  "datum": "2026-09-11",
-  "tijd": "07:38",
-  "nieuw": false,
-  "titel": "Zeewolde - Opnieuw harde knal bij Chinees restaurant in Zeewolde, derde incident in korte tijd",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "burgemeester",
-   "explosie",
-   "pand"
-  ],
-  "samenvatting": "Bij Chinees restaurant De Nieuwe Lotus in Zeewolde heeft vrijdagochtend opnieuw een incident plaatsgevonden. Rond 6.15 uur kwam er een melding binnen van een harde knal. De politie en brandweer kwamen daarop met spoed naar het restaurant. Op de voordeur van het restaurant is een grote barst te zien. Er is ook een explo",
-  "link": "https://www.omroepflevoland.nl/nieuws/523386/opnieuw-harde-knal-bij-chinees-restaurant-in-zeewolde-derde-incident-in-korte-tijd"
- },
- {
   "id": "5f9f5f6fc1",
   "datum": "2026-09-11",
   "tijd": "06:32",
@@ -820,25 +841,6 @@
   ],
   "samenvatting": "Een 14-jarige scholier is onlangs in Zevenaar mishandeld door meerdere jongeren en de mishandeling is gefilmd. De politie is op zoek naar getuigen.",
   "link": "https://www.gld.nl/nieuws/8521141/14-jarige-geschopt-en-geslagen-veel-jongeren-zagen-het-gebeuren"
- },
- {
-  "id": "11dfe6d9f4",
-  "datum": "2026-09-11",
-  "tijd": "04:32",
-  "nieuw": false,
-  "titel": "Dode en twee gewonden na achtervolging na inbraak tankstation bij Venlo",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Bij een politieachtervolging na een inbraak bij een tankstation in Kessel (Limburg) is vannacht een dode gevallen. Volgens de politie gaat het om een 48-jarige man die geen vaste woon- of verblijfplaats heeft. Twee andere inzittenden raakten gewond. De auto van de verdachten crashte op de afrit Venlo-Zuid van de A73, m",
-  "link": "https://nos.nl/l/2630514"
  },
  {
   "id": "0744aa5d10",
