@@ -1,5 +1,24 @@
 [
  {
+  "id": "88003996f8",
+  "datum": "2026-09-12",
+  "tijd": "01:44",
+  "nieuw": true,
+  "titel": "Politie doet onderzoek bij station Assen na bommelding van inzittende trein",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Tussen Beilen en Groningen Europapark rijden sinds gisteravond laat geen treinen door een bommelding. Een inzittende van een trein zou gezegd hebben dat hij meerdere bommen heeft geplaatst, meldt de politie Drenthe op X. De man die dat gezegd zou hebben is aangehouden. De politie kreeg rond 23.30 uur melding over de ve",
+  "link": "https://nos.nl/l/2630658"
+ },
+ {
   "id": "54268477f0",
   "datum": "2026-09-11",
   "tijd": "18:45",
@@ -204,7 +223,7 @@
   "id": "806ad888fa",
   "datum": "2026-09-11",
   "tijd": "15:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist 240 uur werkstraf tot 8 jaar celstraf tegen 8 medeverdachten die ‘missies’ uitvoerden voor 52-jarige Amsterdammer afkomstig uit Chile - Openbaar Ministerie",
   "bron": "Openbaar Ministerie",
   "verzameld_via": "Openbaar Ministerie",
@@ -221,7 +240,7 @@
   "id": "0e49621297",
   "datum": "2026-09-11",
   "tijd": "15:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Recherche Helmond pakt drie mannen op die de baas waren over nepagenten",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1065,25 +1084,6 @@
   ],
   "samenvatting": "Door gesjoemel in de handel met paarden is het vlees van duizenden dieren mogelijk in de voedselketen terechtgekomen, terwijl dat niet had gemogen. Dat blijkt uit een groot internationaal onderzoek naar meer dan duizend paarden waarbij ook zeven invallen in Nederland zijn gedaan. Het onderzoek wordt geleid door de Belg",
   "link": "https://nos.nl/l/2630473"
- },
- {
-  "id": "4c00dbd9a2",
-  "datum": "2026-09-10",
-  "tijd": "17:25",
-  "nieuw": false,
-  "titel": "Premier Jetten liet zijn berichten door AI schrijven: handig of zorgelijk?",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "Minister-president Rob Jetten en zijn partij D66 hebben honderden berichten op sociale media laten schrijven door kunstmatige intelligentie (AI), zo werd vandaag bekend door onderzoek van de Volkskrant . Politici gebruikten al regelmatig mensen om hun teksten te schrijven, maar hoe geloofwaardig zijn ze als ze hun uiti",
-  "link": "https://nos.nl/l/2630471"
  },
  {
   "id": "a3c0cbf0d8",
