@@ -1,12 +1,12 @@
 {
- "run": "09:30",
+ "run": "10:30",
  "datum": "2026-09-12",
- "nieuw": 12,
- "totaal": 3030,
+ "nieuw": 9,
+ "totaal": 3029,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1074,
-  "geen dossier": 474
+  "niet-nederlands": 1061,
+  "geen dossier": 485
  },
  "bronnen": [
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 196,
-   "status": "bij",
+   "items": 197,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 48,
-   "status": "6 nieuw",
+   "items": 47,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 82,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 131,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 22,
-   "status": "1 nieuw",
+   "items": 21,
+   "status": "bij",
    "ok": true
   },
   {

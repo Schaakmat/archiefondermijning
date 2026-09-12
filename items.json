@@ -120,25 +120,6 @@
   "link": "https://www.rijnmond.nl/nieuws/2252094/veroordeelde-oud-burgemeester-herman-j-opnieuw-onder-vuur-goochelaars-spreken-van-ongepaste-appjes"
  },
  {
-  "id": "6a5fc57ee2",
-  "datum": "2026-09-12",
-  "tijd": "05:17",
-  "nieuw": true,
-  "titel": "Auto rijdt tegen tankstation in Hoorn en vliegt in brand, inzittende dood",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "In Hoorn is vannacht een auto tegen een tankstation gebotst en in brand gevlogen. Daarbij kwam een inzittende om het leven en raakten twee andere inzittenden gewond. Zij zijn naar het ziekenhuis gebracht. De politie meldt niets over hun toestand of identiteit. Het ongeluk gebeurde rond 02.00 uur in de straat Keern aan ",
-  "link": "https://nos.nl/l/2630660"
- },
- {
   "id": "f65cf55981",
   "datum": "2026-09-12",
   "tijd": "04:26",
@@ -199,7 +180,7 @@
   "id": "54268477f0",
   "datum": "2026-09-11",
   "tijd": "18:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nog tien middel- tot zwaargewonden na busongeluk Zwitserland",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -218,7 +199,7 @@
   "id": "5719648dba",
   "datum": "2026-09-11",
   "tijd": "18:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explosief gevonden bij huis in Sint-Michielsgestel, omgeving afgezet",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -2576,25 +2557,6 @@
   ],
   "samenvatting": "De Hardenbergerbrug, waar de A28 overheen loopt, blijft vanwege herstelwerkzaamheden in ieder geval vandaag nog afgesloten. Minister Karremans waarschuwde eerder dit jaar al dat circa 80 miljard euro nodig is om achterstallig onderhoud aan wegen, bruggen en spoor aan te pakken.",
   "link": "https://www.gld.nl/nieuws/8453152/zorgen-om-achterstallig-onderhoud-miljarden-nodig-voor-bruggen-en-wegen"
- },
- {
-  "id": "7bf344ea3d",
-  "datum": "2026-09-09",
-  "tijd": "08:24",
-  "nieuw": false,
-  "titel": "Eerste zitting niet in Middelburg, maar Breda • Datum pro-formazitting bekend",
-  "bron": "Omroep Zeeland",
-  "verzameld_via": "Omroep Zeeland",
-  "soort": "Nieuwsbericht",
-  "regio": "Zeeland",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "school"
-  ],
-  "samenvatting": "Bij een tragisch verkeersongeval op de N290 bij Terhole zijn op donderdag 11 juni drie leerlingen uit groep 8 en de directeur van basisschool De Warande uit Axel om het leven gekomen. De slachtoffers maakten deel uit van een groep die op de fiets onderweg was naar schoolkamp. Vier dodelijke slachtoffers bij aanrijding ",
-  "link": "https://www.omroepzeeland.nl/nieuws/18532638/eerste-zitting-niet-in-middelburg-maar-breda-datum-pro-formazitting-bekend"
  },
  {
   "id": "10943b5c8a",
@@ -23489,6 +23451,27 @@
   ],
   "samenvatting": "Vijf mensen gearresteerd wegens witwassen van 2 miljoen euro aan zorggeld ed.nl",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzhZNzdjSG5fX0FOUXFHZnBiZU1yb2E5dEppWTYyNms4b1dyZGxha0F5UjlxcWVSRGQ4STB4MF94bnNvdzFRUnRwZ1ZQMkNVQ2FrdFBzSkZ2S2hWdVZKYmRfdXRscDU0VlItVmN2bnVwMmtvREQ1VmxuNGhueEJnNXdXNVBkUy1pWTBmS1M4dEZQbmRMT1BXSjM3cHdXalA0U3oyVkw4NmNSclBXN1cwXzZR?oc=5"
+ },
+ {
+  "id": "b9eddc2ead",
+  "datum": "2026-06-03",
+  "tijd": "15:41",
+  "nieuw": false,
+  "titel": "Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering in verband met het verbeteren van de bestrijding van heling, witwassen en de daaraan ten grondslag liggende vermogensdelicten",
+  "bron": "Tweede Kamer der Staten-Generaal",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "grond",
+   "witwassen"
+  ],
+  "samenvatting": "Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering in verband met het verbeteren van de bestrijding van heling, witwassen en de daaraan ten grondslag liggende vermogensdelicten Tweede Kamer der Staten-Generaal",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQalVnek1jU0RDUFlhMXhkOWZjR1VLTkt4LTZ0N2lwdXVBdlh1WVJaUThVaVAwVTdfc2hLTTUxOWcyOVh6Tm9RRGRZNi02ZUN3VDFpODliVjRUSXNkVXE5Yk9NZ1ZUd3lxY0V1cXZRU2RXbGdlZGhYR01KS0dSRWNRVg?oc=5"
  },
  {
   "id": "24131f5aed",
