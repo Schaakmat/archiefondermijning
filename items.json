@@ -10,13 +10,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting"
+   "Jeugd & jonge aanwas"
   ],
   "tags": [
-   "beveiliging",
-   "pand",
    "school"
   ],
   "samenvatting": "De politie is op zoek naar getuigen van een brand bij een school aan de Leekerhoek in Lelystad. De brand ontstond vrijdagavond nadat een scooter in brand was gestoken. Het vuur sloeg vervolgens over naar het schoolgebouw. Twee mannen uit Lelystad zijn kort na de brand aangehouden. De brand brak rond 21.30 uur uit. Bij ",
@@ -41,6 +37,29 @@
   ],
   "samenvatting": "Het plein voor het gemeentehuis in Emmeloord gaat vanaf maandag op de schop. Stenen gaan eruit, groen komt ervoor terug. De zogenoemde 'Onderduikersbank' verhuist naar de ingang van het gemeentehuis. Bij die plek komt ook een eerbetoon aan Harmen Visser, de naamgever van het plein. Het Harmen Visserplein is voor de deu",
   "link": "https://www.omroepflevoland.nl/nieuws/523302/harmen-visserplein-krijgt-opknapbeurt:-meer-groen-en-eerbetoon-aan-naamgever"
+ },
+ {
+  "id": "0ac9369564",
+  "datum": "2026-09-12",
+  "tijd": "14:38",
+  "nieuw": true,
+  "titel": "Duizenden mensen bij klimaatmars in Amsterdam: 'Holy moly, stop met olie'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "organisatie",
+   "pand",
+   "stal"
+  ],
+  "samenvatting": "Duizenden mensen hebben vanmiddag in Amsterdam meegelopen met een klimaatmars. De deelnemers liepen gezamenlijk van de Dam naar het Museumplein om aandacht te vragen voor klimaatproblemen. Volgens de organisatie waren zo'n 40.000 mensen op de been. De politie en de gemeente doen geen uitspraak over het aantal aanwezige",
+  "link": "https://nos.nl/l/2630694"
  },
  {
   "id": "d157817bd3",
@@ -83,11 +102,11 @@
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXpuc3pBZ1hRMDdJazNlWXctUUlQckhpNWtmR2N1X1hJamhGazhOZXNqLWZOdHA5VEpzV3U0eGlwaDNJZW5GUktHRnBVWVN0ZGpQX19PVDl0V2V0RUc0dmxIVDJ2MUY1dlhRUDFzUTRCUklSd2dpTUVMT1QtTDhEcnlaUnJ5WEppa0VlUGNwZGU1UlpYRFJvTEpTeUlqMnlEbDZFX01NeDVWRjhfQmZaaGhCZ2Vla1A1aHVGQzJrVF9lZlk2?oc=5"
  },
  {
-  "id": "08ac6e642a",
+  "id": "674962b61f",
   "datum": "2026-09-12",
   "tijd": "11:05",
   "nieuw": true,
-  "titel": "Begraven en cremeren op 'vreemde' plekken: wat er wel en niet mag",
+  "titel": "Waarom je niet zomaar de as van je dierbaren overal uit mag strooien",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -99,7 +118,7 @@
    "stal"
   ],
   "samenvatting": "In de Efteling strooien bezoekers soms stiekem de as van overleden dierbaren uit, blijkt uit gesprekken van Omroep Brabant. Uitvaartondernemer Karen Admiraal van Buitengewoon Afscheid begrijpt wel waarom mensen hiervoor kiezen, ondanks dat het eigenlijk niet mag. \"Rondom uitvaarten en crematies zijn vaak veel regels en",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026963/begraven-en-cremeren-op-vreemde-plekken-wat-er-wel-en-niet-mag"
+  "link": "https://www.omroepbrabant.nl/nieuws/6026963/waarom-je-niet-zomaar-de-as-van-je-dierbaren-overal-uit-mag-strooien"
  },
  {
   "id": "50ef9c0630",
@@ -190,7 +209,7 @@
   "id": "7fff6cdc58",
   "datum": "2026-09-12",
   "tijd": "08:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jongen opgepakt voor mishandeling en vernedering in Ede",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -209,7 +228,7 @@
   "id": "c3b98dd231",
   "datum": "2026-09-12",
   "tijd": "08:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie lost waarschuwingsschot na vechtpartij",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -228,7 +247,7 @@
   "id": "74f4a75d2b",
   "datum": "2026-09-12",
   "tijd": "08:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hoe het beeld Willem de Pijper dankzij een kroeggrap Bredase historie werd",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -2677,25 +2696,6 @@
   ],
   "samenvatting": "De Hardenbergerbrug, waar de A28 overheen loopt, blijft vanwege herstelwerkzaamheden in ieder geval vandaag nog afgesloten. Minister Karremans waarschuwde eerder dit jaar al dat circa 80 miljard euro nodig is om achterstallig onderhoud aan wegen, bruggen en spoor aan te pakken.",
   "link": "https://www.gld.nl/nieuws/8453152/zorgen-om-achterstallig-onderhoud-miljarden-nodig-voor-bruggen-en-wegen"
- },
- {
-  "id": "7bf344ea3d",
-  "datum": "2026-09-09",
-  "tijd": "08:24",
-  "nieuw": false,
-  "titel": "Eerste zitting niet in Middelburg, maar Breda • Datum pro-formazitting bekend",
-  "bron": "Omroep Zeeland",
-  "verzameld_via": "Omroep Zeeland",
-  "soort": "Nieuwsbericht",
-  "regio": "Zeeland",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "school"
-  ],
-  "samenvatting": "Bij een tragisch verkeersongeval op de N290 bij Terhole zijn op donderdag 11 juni drie leerlingen uit groep 8 en de directeur van basisschool De Warande uit Axel om het leven gekomen. De slachtoffers maakten deel uit van een groep die op de fiets onderweg was naar schoolkamp. Vier dodelijke slachtoffers bij aanrijding ",
-  "link": "https://www.omroepzeeland.nl/nieuws/18532638/eerste-zitting-niet-in-middelburg-maar-breda-datum-pro-formazitting-bekend"
  },
  {
   "id": "10943b5c8a",
