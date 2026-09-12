@@ -1,5 +1,24 @@
 [
  {
+  "id": "a318fc38aa",
+  "datum": "2026-09-12",
+  "tijd": "05:31",
+  "nieuw": true,
+  "titel": "Veroordeelde oud-burgemeester Herman J. opnieuw onder vuur: goochelaars spreken van 'ongepaste appjes'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Herman J., de oud-burgemeester van Hendrik-Ido-Ambacht die is veroordeeld voor kinderporno, heeft nu ook beroering veroorzaakt in de goochelwereld. Hij zou jaren geleden jonge goochelaars ongepaste berichten hebben gestuurd.",
+  "link": "https://www.rijnmond.nl/nieuws/2252094/veroordeelde-oud-burgemeester-herman-j-opnieuw-onder-vuur-goochelaars-spreken-van-ongepaste-appjes"
+ },
+ {
   "id": "6a5fc57ee2",
   "datum": "2026-09-12",
   "tijd": "05:17",
@@ -196,7 +215,7 @@
   "id": "4be996a304",
   "datum": "2026-09-11",
   "tijd": "16:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie zoekt getuigen voor harde explosie bij bestelbus",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -215,7 +234,7 @@
   "id": "13281c0440",
   "datum": "2026-09-11",
   "tijd": "15:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rotterdammer (63) opgepakt na vondst van drugslab in woning",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -236,7 +255,7 @@
   "id": "762c16954c",
   "datum": "2026-09-11",
   "tijd": "15:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeewolde - Chinees restaurant gesloten op last van burgemeester, omwonenden verdrietig en teleurgesteld",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -676,25 +695,6 @@
   ],
   "samenvatting": "Bij Chinees restaurant De Nieuwe Lotus in Zeewolde heeft vrijdagochtend opnieuw een incident plaatsgevonden. Rond 6.15 uur kwam er een melding binnen van een harde knal. De politie en brandweer kwamen daarop met spoed naar het restaurant. Op de voordeur van het restaurant is een grote barst te zien. Er is ook een explo",
   "link": "https://www.omroepflevoland.nl/nieuws/523386/opnieuw-harde-knal-bij-chinees-restaurant-in-zeewolde-derde-incident-in-korte-tijd"
- },
- {
-  "id": "727d6055f3",
-  "datum": "2026-09-11",
-  "tijd": "07:22",
-  "nieuw": false,
-  "titel": "Emmeloord - 'Meestervervalser' exposeert in de Poldertoren",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "erf"
-  ],
-  "samenvatting": "Zeven jaar geleden raakte Berthoo Lammers uit Emmeloord geïnspireerd door de schilderwerken van Johannes Vermeer. \"De echte schilderijen zijn gemaakt tussen 1634 en 1670\", zeg hij. Dat waren er 34, waarvan Lammers er 22 heeft nagemaakt. Het komend weekend zijn deze kunstwerken te bekijken in een speciaal daarvoor inger",
-  "link": "https://www.omroepflevoland.nl/nieuws/523330/'meestervervalser'-exposeert-in-de-poldertoren"
  },
  {
   "id": "5f9f5f6fc1",
