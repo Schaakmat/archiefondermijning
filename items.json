@@ -100,6 +100,27 @@
   "link": "https://www.gld.nl/nieuws/8521781/woning-onbewoonbaar-na-explosie-en-brand-politie-zoekt-getuigen"
  },
  {
+  "id": "204c1082e8",
+  "datum": "2026-09-12",
+  "tijd": "15:57",
+  "nieuw": true,
+  "titel": "Explosie en brand maken woning onbewoonbaar: politie zoekt beelden en getuigen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "Een woning aan de Nicolaasvicarie in Culemborg is in de nacht van vrijdag op zaterdag flink beschadigd geraakt door een explosie en brand en onbewoonbaar. De brand werd rond 04.35 uur gemeld.",
+  "link": "https://www.gld.nl/nieuws/8521781/explosie-en-brand-maken-woning-onbewoonbaar-politie-zoekt-beelden-en-getuigen"
+ },
+ {
   "id": "dfe8935dbb",
   "datum": "2026-09-12",
   "tijd": "14:40",
@@ -201,7 +222,7 @@
   "id": "50ef9c0630",
   "datum": "2026-09-12",
   "tijd": "10:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grote partij zwaar vuurwerk in bestelbus en loods gevonden, man opgepakt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -225,7 +246,7 @@
   "id": "c2f1ff2c37",
   "datum": "2026-09-12",
   "tijd": "09:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dokters willen minder vervuilende medicijnen voorschrijven, maar weten niet hoe",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",

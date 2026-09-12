@@ -1,12 +1,12 @@
 {
- "run": "16:30",
+ "run": "17:28",
  "datum": "2026-09-12",
- "nieuw": 12,
- "totaal": 3039,
- "verwijderd": 9,
+ "nieuw": 11,
+ "totaal": 3040,
+ "verwijderd": 10,
  "geweigerd": {
   "niet-nederlands": 1055,
-  "geen dossier": 487
+  "geen dossier": 492
  },
  "bronnen": [
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 49,
-   "status": "6 nieuw",
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -509,7 +509,7 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 133,
+   "items": 134,
    "status": "1 nieuw",
    "ok": true
   },
