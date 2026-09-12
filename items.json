@@ -1,5 +1,24 @@
 [
  {
+  "id": "a66a67800d",
+  "datum": "2026-09-12",
+  "tijd": "18:54",
+  "nieuw": true,
+  "titel": "Automobilist rijdt rechtdoor in bocht op A58 en knalt tegen een boom",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een auto is zaterdag van de weg geraakt bij de afslag Sint Willebrord op de A58. De auto is tegen een boom gereden. De bestuurder is gewond geraakt en naar het ziekenhuis gebracht. Het ongeluk gebeurde in de bocht van de afslag. De bestuurder reed rechtdoor en kwam tot stilstand tegen de boom. De brandweer, politie en ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026980/automobilist-rijdt-rechtdoor-in-bocht-op-a58-en-knalt-tegen-een-boom"
+ },
+ {
   "id": "9ab6481437",
   "datum": "2026-09-12",
   "tijd": "18:19",
@@ -205,7 +224,7 @@
   "id": "67fec2c609",
   "datum": "2026-09-12",
   "tijd": "11:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OAS brengt ministers samen voor regionale aanpak drugscriminaliteit en witwassen",
   "bron": "Suriname Herald",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
