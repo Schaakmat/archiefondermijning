@@ -1,5 +1,25 @@
 [
  {
+  "id": "dfe8935dbb",
+  "datum": "2026-09-12",
+  "tijd": "14:40",
+  "nieuw": true,
+  "titel": "Emmeloord - Harmen Visserplein krijgt opknapbeurt: meer groen én eerbetoon aan naamgever",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester",
+   "gemeenteraad"
+  ],
+  "samenvatting": "Het plein voor het gemeentehuis in Emmeloord gaat vanaf maandag op de schop. Stenen gaan eruit, groen komt ervoor terug. De zogenoemde 'Onderduikersbank' verhuist naar de ingang van het gemeentehuis. Bij die plek komt ook een eerbetoon aan Harmen Visser, de naamgever van het plein. Het Harmen Visserplein is voor de deu",
+  "link": "https://www.omroepflevoland.nl/nieuws/523302/harmen-visserplein-krijgt-opknapbeurt:-meer-groen-en-eerbetoon-aan-naamgever"
+ },
+ {
   "id": "67fec2c609",
   "datum": "2026-09-12",
   "tijd": "11:09",
@@ -104,6 +124,25 @@
   "link": "https://www.gld.nl/nieuws/8521603/minderjarige-aangehouden-voor-mishandelen-en-vernederen-12-jarige-in-ede"
  },
  {
+  "id": "7fff6cdc58",
+  "datum": "2026-09-12",
+  "tijd": "08:34",
+  "nieuw": true,
+  "titel": "Jongen opgepakt voor mishandeling en vernedering in Ede",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "De politie heeft een minderjarige jongen aangehouden voor de mishandeling van een 12-jarige jongen in Ede. De verdachte werd aangehouden voor 'openlijke geweldpleging tegen personen'.",
+  "link": "https://www.gld.nl/nieuws/8521603/jongen-opgepakt-voor-mishandeling-en-vernedering-in-ede"
+ },
+ {
   "id": "c3b98dd231",
   "datum": "2026-09-12",
   "tijd": "08:25",
@@ -166,7 +205,7 @@
   "id": "f65cf55981",
   "datum": "2026-09-12",
   "tijd": "04:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Scooterrijder gewond bij botsing met auto in Breda",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -795,31 +834,6 @@
   ],
   "samenvatting": "Mensenhandel is lang niet altijd zichtbaar Bol-An!",
   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vWkotNjhfdEo0OEI0eDhBR19LY09abUszSmR1anhfUEtubkFKODc5SUFuSU5Kd0pyNjY2MEN6aG5LWUpMVjF5TXh5WmdiVzFicXY5UWpiLUN6UXdWcDVmYTlibFVIcDNTVlJTcVNR?oc=5"
- },
- {
-  "id": "5f9f5f6fc1",
-  "datum": "2026-09-11",
-  "tijd": "06:32",
-  "nieuw": false,
-  "titel": "Wekdienst 11/9: 25 jaar na aanslagen VS • Staking bouwsector",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "afval",
-   "cocaïne",
-   "container",
-   "haven",
-   "organisatie"
-  ],
-  "samenvatting": "Goedemorgen! Vandaag is het 25 jaar geleden dat in de Verenigde aanslagen werden gepleegd op de Twin Towers en het Pentagon. In de VS zijn op verschillende plekken herdenkingen. Eerst het weer: vanmorgen is het bewolkt en valt van tijd tot tijd regen of motregen. Vanmiddag wordt het in het westen droger en breekt soms ",
-  "link": "https://nos.nl/l/2630519"
  },
  {
   "id": "60b1381400",
