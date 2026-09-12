@@ -1,12 +1,12 @@
 {
- "run": "15:29",
+ "run": "16:30",
  "datum": "2026-09-12",
- "nieuw": 10,
- "totaal": 3036,
- "verwijderd": 10,
+ "nieuw": 12,
+ "totaal": 3039,
+ "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 1060,
-  "geen dossier": 482
+  "niet-nederlands": 1055,
+  "geen dossier": 487
  },
  "bronnen": [
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 47,
-   "status": "5 nieuw",
+   "items": 49,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 132,
-   "status": "bij",
+   "items": 133,
+   "status": "1 nieuw",
    "ok": true
   },
   {

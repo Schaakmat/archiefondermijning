@@ -1,5 +1,65 @@
 [
  {
+  "id": "9ab6481437",
+  "datum": "2026-09-12",
+  "tijd": "18:19",
+  "nieuw": true,
+  "titel": "Voortvluchtige Nederlandse wapenhandelaar Guus Kouwenhoven (84) overleden",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "wapenhandel"
+  ],
+  "samenvatting": "De voortvluchtige Nederlandse zakenman Guus Kouwenhoven, die veroordeeld is voor medeplichtigheid aan oorlogsmisdrijven in Liberia, is op 84-jarige leeftijd overleden. Dat melden Liberiaanse media op basis van een verklaring van zijn familie. Kouwenhoven kreeg in 2017 van het gerechtshof in Den Bosch negentien jaar cel",
+  "link": "https://nos.nl/l/2630727"
+ },
+ {
+  "id": "bb02fff079",
+  "datum": "2026-09-12",
+  "tijd": "18:10",
+  "nieuw": true,
+  "titel": "Kustwacht weer te bereiken met marifoon, storing voorbij",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "netwerk",
+   "stal"
+  ],
+  "samenvatting": "Alle radiosystemen bij de Nederlandse Kustwacht doen het weer. De nooddienst is weer bereikbaar via de marifoon en ook via het noodkanaal. Sinds vanochtend vroeg was de Kustwacht alleen nog per telefoon bereikbaar en daardoor konden er geen berichten ontvangen of verzonden worden. Ook navigatieberichten en stormwaarsch",
+  "link": "https://nos.nl/l/2630722"
+ },
+ {
+  "id": "063ffd0c87",
+  "datum": "2026-09-12",
+  "tijd": "16:00",
+  "nieuw": true,
+  "titel": "Bram en Iris maakten hun droomreis en kwamen thuis met bijzondere souvenirs",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Bram van Diessen (26) en zijn vriendin Iris Rodriguez Cruz (24) uit Tilburg maakten afgelopen maart een reis van 3000 kilometer door Vietnam: van Hanoi in het noorden naar Ho Chi Minh in het zuiden. De trip eindigde in een tattooshop. Dat bezoek bleek onverwachts een bijzondere verrijking van de reis. Toen Bram en Iris",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026431/bram-en-iris-maakten-hun-droomreis-en-kwamen-thuis-met-bijzondere-souvenirs"
+ },
+ {
   "id": "895d99be34",
   "datum": "2026-09-12",
   "tijd": "15:57",
@@ -17,6 +77,27 @@
   ],
   "samenvatting": "De politie is op zoek naar getuigen van een brand bij een school aan de Leekerhoek in Lelystad. De brand ontstond vrijdagavond nadat een scooter in brand was gestoken. Het vuur sloeg vervolgens over naar het schoolgebouw. Twee mannen uit Lelystad zijn kort na de brand aangehouden. De brand brak rond 21.30 uur uit. Bij ",
   "link": "https://www.omroepflevoland.nl/nieuws/523542/politie-zoekt-getuigen-na-brandstichting-bij-school-in-lelystad"
+ },
+ {
+  "id": "b1e4155a1d",
+  "datum": "2026-09-12",
+  "tijd": "15:57",
+  "nieuw": true,
+  "titel": "Woning onbewoonbaar na explosie en brand: politie zoekt getuigen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "Een woning aan de Nicolaasvicarie in Culemborg is in de nacht van vrijdag op zaterdag flink beschadigd geraakt door een explosie en brand en onbewoonbaar. De brand werd rond 04.35 uur gemeld.",
+  "link": "https://www.gld.nl/nieuws/8521781/woning-onbewoonbaar-na-explosie-en-brand-politie-zoekt-getuigen"
  },
  {
   "id": "dfe8935dbb",
@@ -49,14 +130,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Vastgoed & huisvesting"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "organisatie",
-   "pand",
-   "stal"
+   "organisatie"
   ],
   "samenvatting": "Duizenden mensen hebben vanmiddag in Amsterdam meegelopen met een klimaatmars. De deelnemers liepen gezamenlijk van de Dam naar het Museumplein om aandacht te vragen voor klimaatproblemen. Volgens de organisatie waren zo'n 40.000 mensen op de been. De politie en de gemeente doen geen uitspraak over het aantal aanwezige",
   "link": "https://nos.nl/l/2630694"
@@ -171,7 +248,7 @@
   "id": "83b156e3c3",
   "datum": "2026-09-12",
   "tijd": "09:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vader is vader niet meer door één klap tijdens feest in Brabanthallen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -190,7 +267,7 @@
   "id": "cac9d72c77",
   "datum": "2026-09-12",
   "tijd": "08:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Minderjarige aangehouden voor mishandelen en vernederen 12-jarige in Ede",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -557,25 +634,6 @@
   "tags": [],
   "samenvatting": "OM eist 240 uur werkstraf tot 8 jaar celstraf tegen 8 medeverdachten die ‘missies’ uitvoerden voor 52-jarige Amsterdammer afkomstig uit Chile Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQLW5MeldmOGpFeVpLV0lXVUtGQWNqWHV6d09Hc0dMR1RCaU9pOUpjSURrekJtMm9NajdtbThiQXVWU0djTEhhbVUtdFdCZC14RnZUbmQxX1YxaEtJTGFRLXBSVXhmbk4tRmtVYTYtd0NyQllUQjJnUnRiZTRBT09KQkl2ZUYxQmpRYjJzZk5mMmwtd2pTSTVJdmVmM3p2VEtKNmpwZU9qM0VzOWpMUEFEV3ZybVA4TGV0eFItbkNZeTgtc2lRMWs3Z1JKR25YNTk3MFA1enp6Sk9KakMxSnRzSVhnMF9XWnNEd2ViQlgtX1BiYmNRZUk0c3JyeDBDMXVELTlGcGcyblIxR0tBODVJdw?oc=5"
- },
- {
-  "id": "0e49621297",
-  "datum": "2026-09-11",
-  "tijd": "15:02",
-  "nieuw": false,
-  "titel": "Recherche Helmond pakt drie mannen op die de baas waren over nepagenten",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "De recherche in Helmond heeft drie verdachten aangehouden die mogelijk betrokken zijn bij meerdere oplichtingszaken met nepagenten. De verdachten zouden slachtoffers telefonisch hebben benaderd en vervolgens nepagenten hebben aangestuurd om toe te slaan. Het gaat om twee mannen van 21 en 22 jaar uit Eindhoven en een 21",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026929/recherche-helmond-pakt-drie-mannen-op-die-de-baas-waren-over-nepagenten"
  },
  {
   "id": "eb29dd3169",
