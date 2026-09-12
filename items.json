@@ -57,6 +57,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6026953/scooterrijder-gewond-bij-botsing-met-auto-in-breda"
  },
  {
+  "id": "5ac126b1de",
+  "datum": "2026-09-12",
+  "tijd": "04:00",
+  "nieuw": true,
+  "titel": "Bestelbus ontploft, omwonenden zien iemand wegrennen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Eibergen werd in de nacht van donderdag op vrijdag opgeschrikt door een hevige explosie. De oorzaak van de explosie is niet bekend. Ondertussen zoekt de politie getuigen.",
+  "link": "https://www.gld.nl/nieuws/8521491/bestelbus-ontploft-omwonenden-zien-iemand-wegrennen"
+ },
+ {
   "id": "88003996f8",
   "datum": "2026-09-12",
   "tijd": "01:44",
@@ -195,7 +214,7 @@
   "id": "f3491e3d1f",
   "datum": "2026-09-11",
   "tijd": "16:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachten in oud megaproces overvallen door strafeisen: tot 8 jaar voor deelname aan veronderstelde criminele organisatie ‘Rico de Chileen’ - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
