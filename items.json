@@ -41,6 +41,27 @@
   "link": "https://nos.nl/l/2630722"
  },
  {
+  "id": "bb4f108175",
+  "datum": "2026-09-12",
+  "tijd": "16:00",
+  "nieuw": true,
+  "titel": "Naardense autohandelaar tijdens megastrafzaak rond bekende crimineel Rico de Chileen: ’Ik word aangeklaagd voor witwassen, maar ik heb gewoon mijn werk gedaan’",
+  "bron": "De Gooi- en Eemlander",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Autobranche & garages",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "autohandelaar",
+   "witwassen"
+  ],
+  "samenvatting": "Naardense autohandelaar tijdens megastrafzaak rond bekende crimineel Rico de Chileen: ’Ik word aangeklaagd voor witwassen, maar ik heb gewoon mijn werk gedaan’ De Gooi- en Eemlander",
+  "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNaWtlUXBnbjEwWnhhQWVJYTVuSTJlanJROFNXVzRnUFdVbHQwdWowaWlXeU44TzNuRmJEd203SDNrb0oyUjFZb29fUWlBZTk3c0NFeE8xdHRsQjJ3REZ3c3FNR1AycmZMS2V0NlUwSk9BTzVzc0pUc0JEeE1uTkxEd1A4YTZwekhNRkhXLVdqNU1HRHFWTkhzVl85cHdvQk9HMk5ScVZxZFludnk5OHBZS25HbDc3TEJfWDJLS3pwblBFbGZJWTlWMEhOUDI0LWhQb3hSVi1xZnhLQlh5V1FfMFRMelphRDlwalExY2hPd1lSNHJoU2JMS1VQTHVLSFlOZi05VWJUMnpibTBYVjJrTU1KZjd0d3VOM2xoczRlcjBMYklybFhtSnZQMUc4VXRHbmE0OUEydzR1WVZRdHhCbTlINTFCZw?oc=5"
+ },
+ {
   "id": "063ffd0c87",
   "datum": "2026-09-12",
   "tijd": "16:00",
@@ -203,7 +224,7 @@
   "id": "674962b61f",
   "datum": "2026-09-12",
   "tijd": "11:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Waarom je niet zomaar de as van je dierbaren overal uit mag strooien",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
