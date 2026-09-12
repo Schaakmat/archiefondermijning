@@ -1,5 +1,28 @@
 [
  {
+  "id": "895d99be34",
+  "datum": "2026-09-12",
+  "tijd": "15:57",
+  "nieuw": true,
+  "titel": "Lelystad - Politie zoekt getuigen na brandstichting bij school in Lelystad",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "beveiliging",
+   "pand",
+   "school"
+  ],
+  "samenvatting": "De politie is op zoek naar getuigen van een brand bij een school aan de Leekerhoek in Lelystad. De brand ontstond vrijdagavond nadat een scooter in brand was gestoken. Het vuur sloeg vervolgens over naar het schoolgebouw. Twee mannen uit Lelystad zijn kort na de brand aangehouden. De brand brak rond 21.30 uur uit. Bij ",
+  "link": "https://www.omroepflevoland.nl/nieuws/523542/politie-zoekt-getuigen-na-brandstichting-bij-school-in-lelystad"
+ },
+ {
   "id": "dfe8935dbb",
   "datum": "2026-09-12",
   "tijd": "14:40",
@@ -20,6 +43,27 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523302/harmen-visserplein-krijgt-opknapbeurt:-meer-groen-en-eerbetoon-aan-naamgever"
  },
  {
+  "id": "d157817bd3",
+  "datum": "2026-09-12",
+  "tijd": "14:08",
+  "nieuw": true,
+  "titel": "Naardense autohandelaar tijdens megastrafzaak rond bekende crimineel Rico de Chileen: ’Ik word aangeklaagd voor witwassen, maar ik heb gewoon mijn werk gedaan’",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Autobranche & garages",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "autohandelaar",
+   "witwassen"
+  ],
+  "samenvatting": "Naardense autohandelaar tijdens megastrafzaak rond bekende crimineel Rico de Chileen: ’Ik word aangeklaagd voor witwassen, maar ik heb gewoon mijn werk gedaan’ Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcHV3LWlpaFg4NjFQSVVOQ3JTbXRTc2k0ZGZrVFFLX0h4YXJkaURKeWNLWURRUGpXT2d6T3UtenYxU2xQOE50ODZuT0s5TUFtdWk4aXpiOEFtcHJnNFpodnVWX0hZUUZyUUYyM2JGNWtYamdkM1pwdlBjdEJoV2VQOS1IdjdjbWpuLTR6VzNscS1rWkpfU1BvSnhULV9XdmVHV2VRWlpYZ0lWaENtM2hBenpwdm5iWjNjQjA3UTVuYnBpemU1eHg4cjhvOU9xX2xPWkZVQkhZZzJqZGdiOFFxdUw0Q2p0a0hydzhGdzYxWUpVeG54bzBQTW9JZlBjdzNEYjFtZlptLXBaSzRCaWtVWjRtbUU1ejdPemRibEllMHBOUnBBMVRSV2FRcjBnNWZ2c0xuQTFGeTFNUTc3eUE?oc=5"
+ },
+ {
   "id": "67fec2c609",
   "datum": "2026-09-12",
   "tijd": "11:09",
@@ -37,6 +81,25 @@
   ],
   "samenvatting": "OAS brengt ministers samen voor regionale aanpak drugscriminaliteit en witwassen Suriname Herald",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXpuc3pBZ1hRMDdJazNlWXctUUlQckhpNWtmR2N1X1hJamhGazhOZXNqLWZOdHA5VEpzV3U0eGlwaDNJZW5GUktHRnBVWVN0ZGpQX19PVDl0V2V0RUc0dmxIVDJ2MUY1dlhRUDFzUTRCUklSd2dpTUVMT1QtTDhEcnlaUnJ5WEppa0VlUGNwZGU1UlpYRFJvTEpTeUlqMnlEbDZFX01NeDVWRjhfQmZaaGhCZ2Vla1A1aHVGQzJrVF9lZlk2?oc=5"
+ },
+ {
+  "id": "08ac6e642a",
+  "datum": "2026-09-12",
+  "tijd": "11:05",
+  "nieuw": true,
+  "titel": "Begraven en cremeren op 'vreemde' plekken: wat er wel en niet mag",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "In de Efteling strooien bezoekers soms stiekem de as van overleden dierbaren uit, blijkt uit gesprekken van Omroep Brabant. Uitvaartondernemer Karen Admiraal van Buitengewoon Afscheid begrijpt wel waarom mensen hiervoor kiezen, ondanks dat het eigenlijk niet mag. \"Rondom uitvaarten en crematies zijn vaak veel regels en",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026963/begraven-en-cremeren-op-vreemde-plekken-wat-er-wel-en-niet-mag"
  },
  {
   "id": "50ef9c0630",
@@ -186,7 +249,7 @@
   "id": "a318fc38aa",
   "datum": "2026-09-12",
   "tijd": "05:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Veroordeelde oud-burgemeester Herman J. opnieuw onder vuur: goochelaars spreken van 'ongepaste appjes'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
