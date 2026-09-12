@@ -1,12 +1,12 @@
 {
- "run": "04:30",
+ "run": "05:29",
  "datum": "2026-09-12",
- "nieuw": 10,
- "totaal": 3024,
+ "nieuw": 13,
+ "totaal": 3027,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1058,
-  "geen dossier": 482
+  "niet-nederlands": 1047,
+  "geen dossier": 473
  },
  "bronnen": [
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 47,
-   "status": "5 nieuw",
+   "items": 48,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 83,
-   "status": "1 nieuw",
+   "items": 84,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -572,8 +572,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 38,
-   "status": "bij",
+   "items": 39,
+   "status": "1 nieuw",
    "ok": true
   }
  ]

@@ -1,5 +1,43 @@
 [
  {
+  "id": "6a5fc57ee2",
+  "datum": "2026-09-12",
+  "tijd": "05:17",
+  "nieuw": true,
+  "titel": "Auto rijdt tegen tankstation in Hoorn en vliegt in brand, inzittende dood",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "In Hoorn is vannacht een auto tegen een tankstation gebotst en in brand gevlogen. Daarbij kwam een inzittende om het leven en raakten twee andere inzittenden gewond. Zij zijn naar het ziekenhuis gebracht. De politie meldt niets over hun toestand of identiteit. Het ongeluk gebeurde rond 02.00 uur in de straat Keern aan ",
+  "link": "https://nos.nl/l/2630660"
+ },
+ {
+  "id": "f65cf55981",
+  "datum": "2026-09-12",
+  "tijd": "04:26",
+  "nieuw": true,
+  "titel": "Scooterrijder gewond bij botsing met auto in Breda",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een scooter en een auto zijn vrijdagnacht op elkaar gebotst op de Haagweg in Breda. De bestuurder van de scooter raakte daarbij gewond. Het slachtoffer is met de ambulance naar het ziekenhuis gebracht. De bestuurder van de auto is door de politie meegenomen naar het politiebureau. Waarom de man is meegenomen en of hij ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026953/scooterrijder-gewond-bij-botsing-met-auto-in-breda"
+ },
+ {
   "id": "88003996f8",
   "datum": "2026-09-12",
   "tijd": "01:44",
@@ -15,7 +53,7 @@
   "tags": [
    "explosie"
   ],
-  "samenvatting": "Tussen Beilen en Groningen Europapark reden sinds gisteravond laat enkele uren geen treinen door een bommelding. Een inzittende van een trein zou gezegd hebben dat hij meerdere bommen had geplaatst, meldt de politie Drenthe op X. De man om wie het ging werd daarop aangehouden op station Assen. De politie kreeg rond 23.",
+  "samenvatting": "Tussen Beilen en Groningen Europapark reden gisteravond laat enkele uren geen treinen door een bommelding. Een inzittende van een trein zou gezegd hebben dat hij meerdere bommen had geplaatst, meldt de politie Drenthe op X. De man om wie het ging werd daarop aangehouden op station Assen. De politie kreeg rond 23.30 uur",
   "link": "https://nos.nl/l/2630658"
  },
  {
@@ -198,7 +236,7 @@
   "id": "762c16954c",
   "datum": "2026-09-11",
   "tijd": "15:54",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Zeewolde - Chinees restaurant gesloten op last van burgemeester, omwonenden verdrietig en teleurgesteld",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -53487,6 +53525,27 @@
   ],
   "samenvatting": "'Mannen uit drugslab zwommen de hele haven over' Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX3J6d3kzejZqSTRPRVFYUVRWem9NOHk5aVpGbG1SS3piSkpQU3RLVjFEdlhnSFJmb1BPdFE5WEhlVHppNWRld0R0SHVRMmNSQUk4OHhYdmJIQTBCZmN1dDNXM0RQNGVTenFJSHEtRE44YVAyLVQ4UVdOWFRxMVVDanI4ZHBzMV9YdHFxWmdNMmhSYzhG?oc=5"
+ },
+ {
+  "id": "5397ba30b5",
+  "datum": "2021-06-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Burgemeester Utrecht wil ondermijning aanpakken: 'Het vergiftigt de stad'",
+  "bron": "RTV Utrecht",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester",
+   "ondermijning"
+  ],
+  "samenvatting": "Burgemeester Utrecht wil ondermijning aanpakken: 'Het vergiftigt de stad' RTV Utrecht",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV1VOYlg4Q3pRN0VoSElYemR3M0tBME9nMG5KS3JMWkVYMDlTQ0Z5T2NZQ3dqZTI2YVF2N21KNlhteVJnUk9ORVNzSFI4bkNsNVczWkk0OW9hV0J2a3ZranU3MWdSSGhvNEhYOGJldWw1QkYwVEV5Q0xjd0E3VnNGTElLajB3YkFlT2doRGo4VFExcUN4UnlBRHVTSjRqM3RYWHhSMEhaWVR4TFhjOWxleg?oc=5"
  },
  {
   "id": "90bf8ddb2c",
