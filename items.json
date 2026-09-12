@@ -1,5 +1,52 @@
 [
  {
+  "id": "67fec2c609",
+  "datum": "2026-09-12",
+  "tijd": "11:09",
+  "nieuw": true,
+  "titel": "OAS brengt ministers samen voor regionale aanpak drugscriminaliteit en witwassen",
+  "bron": "Suriname Herald",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "OAS brengt ministers samen voor regionale aanpak drugscriminaliteit en witwassen Suriname Herald",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXpuc3pBZ1hRMDdJazNlWXctUUlQckhpNWtmR2N1X1hJamhGazhOZXNqLWZOdHA5VEpzV3U0eGlwaDNJZW5GUktHRnBVWVN0ZGpQX19PVDl0V2V0RUc0dmxIVDJ2MUY1dlhRUDFzUTRCUklSd2dpTUVMT1QtTDhEcnlaUnJ5WEppa0VlUGNwZGU1UlpYRFJvTEpTeUlqMnlEbDZFX01NeDVWRjhfQmZaaGhCZ2Vla1A1aHVGQzJrVF9lZlk2?oc=5"
+ },
+ {
+  "id": "50ef9c0630",
+  "datum": "2026-09-12",
+  "tijd": "10:35",
+  "nieuw": true,
+  "titel": "Grote partij zwaar vuurwerk in bestelbus en loods gevonden, man opgepakt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs",
+   "Trustkantoren & rechtspersonen",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bestuurder",
+   "loods",
+   "pand",
+   "vuurwerk",
+   "wapen",
+   "zwaar illegaal vuurwerk"
+  ],
+  "samenvatting": "In een bestelbus in Geffen hebben agenten vrijdagavond duizenden stuks zwaar illegaal vuurwerk gevonden. Die vondst leidde vervolgens naar een loods in Heesch. Daar werden naast vuurwerk ook drugs en airsoftwapens gevonden. Een man uit Geffen is opgepakt. De bus kreeg vrijdagavond een stopteken van surveillerende agent",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026960/grote-partij-zwaar-vuurwerk-in-bestelbus-en-loods-gevonden-man-opgepakt"
+ },
+ {
   "id": "c2f1ff2c37",
   "datum": "2026-09-12",
   "tijd": "09:57",
@@ -161,7 +208,7 @@
   "id": "88003996f8",
   "datum": "2026-09-12",
   "tijd": "01:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politieactie bij station Assen na bommelding voorbij, verdachte aangehouden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
