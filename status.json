@@ -1,12 +1,12 @@
 {
- "run": "09:53",
+ "run": "10:33",
  "datum": "2026-09-13",
- "nieuw": 9,
- "totaal": 3055,
- "verwijderd": 10,
+ "nieuw": 12,
+ "totaal": 3058,
+ "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 1074,
-  "geen dossier": 498
+  "niet-nederlands": 1053,
+  "geen dossier": 503
  },
  "bronnen": [
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 204,
-   "status": "bij",
+   "items": 205,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 89,
-   "status": "3 nieuw",
+   "items": 90,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 85,
-   "status": "bij",
+   "items": 86,
+   "status": "1 nieuw",
    "ok": true
   },
   {
