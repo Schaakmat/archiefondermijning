@@ -19,6 +19,68 @@
   "link": "https://nos.nl/l/2630875"
  },
  {
+  "id": "a60737d262",
+  "datum": "2026-09-13",
+  "tijd": "19:44",
+  "nieuw": true,
+  "titel": "Man (19) uit Zwijndrecht in woning aangehouden voor betrokkenheid schietpartij",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Een 19-jarige man uit Zwijndrecht is zondagmorgen door een arrestatieteam aangehouden in zijn woning. De man wordt verdacht van betrokkenheid bij een schietpartij op het festival Parels van de Stad in Amsterdam. De schietpartij vond zaterdagavond plaats.",
+  "link": "https://www.rijnmond.nl/nieuws/2252962/man-19-uit-zwijndrecht-in-woning-aangehouden-voor-betrokkenheid-schietpartij"
+ },
+ {
+  "id": "9390e7d770",
+  "datum": "2026-09-13",
+  "tijd": "19:39",
+  "nieuw": true,
+  "titel": "Meerdere meldingen van schoten in Beers: 'Geen verband met Overasselt'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "explosie",
+   "geweld"
+  ],
+  "samenvatting": "Bij de Kraaijenbergse Plassen tussen Beers en Gassel zijn zondagavond meerdere meldingen van schoten geweest. De politie is met een helikopter, agenten met kogelwerende vesten en een speciaal team aanwezig om te zoeken. Een politiewoordvoerder laat rond kwart voor tien 's avonds weten dat verschillende mensen melding h",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027013/meerdere-meldingen-van-schoten-in-beers-geen-verband-met-overasselt"
+ },
+ {
+  "id": "b61639416d",
+  "datum": "2026-09-13",
+  "tijd": "18:38",
+  "nieuw": true,
+  "titel": "Geweld bij supermarkt, doorbraak in spieronderzoek en kleurrijk bloemencorso op zondag 13 september",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "geweld",
+   "supermarkt"
+  ],
+  "samenvatting": "Het was een zondag van uitersten in Gelderland. In Wijchen raakte iemand gewond bij een geweldsincident en op verschillende wegen ging het mis. Tegelijkertijd trokken indrukwekkende corsowagens door Lichtenvoorde en stonden hardlopers stil bij de offers voor onze vrijheid. Dit is het nieuwsoverzicht van zondag 13 septe",
+  "link": "https://www.gld.nl/nieuws/8522457/geweld-bij-supermarkt-doorbraak-in-spieronderzoek-en-kleurrijk-bloemencorso-op-zondag-13-september"
+ },
+ {
   "id": "794143c3cb",
   "datum": "2026-09-13",
   "tijd": "17:41",
@@ -159,7 +221,7 @@
   "id": "2b3a4a00ca",
   "datum": "2026-09-13",
   "tijd": "10:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overleden man Rotterdam werd door politie tegen de grond gewerkt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -178,7 +240,7 @@
   "id": "273d9cfda8",
   "datum": "2026-09-13",
   "tijd": "10:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Duitse auto betrokken bij overval op geldtransport, politie zoekt dader en handlanger",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
