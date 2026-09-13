@@ -178,7 +178,7 @@
   "id": "59fcf51842",
   "datum": "2026-09-12",
   "tijd": "22:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man overleden bij aanhouding door politie in Rotterdam",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -197,7 +197,7 @@
   "id": "84a7e69a6a",
   "datum": "2026-09-12",
   "tijd": "19:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestuurder van fatbike wordt onwel na aanhouding in Rotterdam en overlijdt",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -216,7 +216,7 @@
   "id": "2f4f72a83a",
   "datum": "2026-09-12",
   "tijd": "19:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestuurder van fatbike wordt onwel tijdens aanhouding in Rotterdam en overlijdt",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -235,7 +235,7 @@
   "id": "a66a67800d",
   "datum": "2026-09-12",
   "tijd": "18:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Automobilist rijdt rechtdoor in bocht op A58 en knalt tegen een boom",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -593,27 +593,6 @@
   ],
   "samenvatting": "In de nacht van vrijdag op zaterdag heeft er een grote vechtpartij plaatsgevonden op de Wagenstraat in Maassluis. Meerdere personen vochten met elkaar en er zou een vuurwapen zijn gezien. De politie rukte met veel eenheden uit en loste een waarschuwingsschot.",
   "link": "https://www.rijnmond.nl/nieuws/2252525/politie-lost-waarschuwingsschot-na-vechtpartij"
- },
- {
-  "id": "74f4a75d2b",
-  "datum": "2026-09-12",
-  "tijd": "08:00",
-  "nieuw": false,
-  "titel": "Hoe het beeld Willem de Pijper dankzij een kroeggrap Bredase historie werd",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "goud",
-   "stal"
-  ],
-  "samenvatting": "Wie over de Havermarkt in Breda loopt, ziet daar een bronzen beeld van een troubadour met een luit. Tenminste, officieel. Want generaties kroeggangers kennen het beeld als Willem de Peijper, een zeventiende-eeuwse kernfysicus. Die man heeft nooit bestaan. De grap begon ruim vijftig jaar geleden achter de bar van café D",
-  "link": "https://www.omroepbrabant.nl/nieuws/6024539/hoe-het-beeld-willem-de-pijper-dankzij-een-kroeggrap-bredase-historie-werd"
  },
  {
   "id": "a318fc38aa",
