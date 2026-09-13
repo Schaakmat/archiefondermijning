@@ -1,5 +1,43 @@
 [
  {
+  "id": "2b3a4a00ca",
+  "datum": "2026-09-13",
+  "tijd": "10:21",
+  "nieuw": true,
+  "titel": "Overleden man Rotterdam werd door politie tegen de grond gewerkt",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "De man die gisteravond kort na zijn aanhouding in Rotterdam-Zuid overleed, werd door agenten tegen de grond gedrukt, is te zien op beelden op sociale media. Hij schreeuwde daarbij ook om hulp. Het Openbaar Ministerie (OM) zegt dat het gaat om een 51-jarige man uit Rotterdam. Hij werd staande gehouden aan de Vaarnerkamp",
+  "link": "https://nos.nl/l/2630796"
+ },
+ {
+  "id": "ac55ee096d",
+  "datum": "2026-09-13",
+  "tijd": "07:43",
+  "nieuw": true,
+  "titel": "Nijmeegse onderzoeker ‘knipt’ genfoutje weg uit spiercellen bij zeldzame spierziekte",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "Een foutje in het DNA kan een erfelijke spierziekte veroorzaken: myotone dystrofie type 1 (MD). Het is de meest voorkomende spierziekte in Nederland, maar er is nog heel weinig over bekend. Postdoctoraal onderzoeker Renée Raaijmakers van het Radboudumc in Nijmegen onderzocht hoe je dat foutje kunt herstellen en boekte ",
+  "link": "https://www.gld.nl/nieuws/8521934/nijmeegse-onderzoeker-knipt-genfoutje-weg-uit-spiercellen-bij-zeldzame-spierziekte"
+ },
+ {
   "id": "21e7d35fec",
   "datum": "2026-09-13",
   "tijd": "06:43",
@@ -61,11 +99,30 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6026985/groep-jonge-fatbikers-door-eindhoven-achtervolgd-na-beroving-met-geweld"
  },
  {
+  "id": "1f23ec4bf6",
+  "datum": "2026-09-13",
+  "tijd": "05:00",
+  "nieuw": true,
+  "titel": "Twee jaar gevangenisstraf geëist tegen handelaar in luxe auto’s uit Naarden voor witwassen van grote sommen geld",
+  "bron": "De Gooi- en Eemlander",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Twee jaar gevangenisstraf geëist tegen handelaar in luxe auto’s uit Naarden voor witwassen van grote sommen geld De Gooi- en Eemlander",
+  "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPLTY1b3d0UVBEUzlSWVV4YkNFNFY4c3VXLUdQMjBDUVFzVUxGd095bGxsNFlxamMtYmg1aV8tT3h3TGJCSVV0VUNxckxnb2V4X3plTjJVZXJ2Nnpnc1ktVnMzMEFOWEtGZXh3eHBDSG1hTTh6dEZxXzhfTWxxYjE4VWRsVEhyakZJNVRteU96RUFhRUFuR1N6OFdzNTVqUy03NzA2dHNiVVZ2RWV2endJM1YxY05JeUdzT3pfbFY2WDZ1dE84ZGQ4Nm9TSmUzTjZlSFIyREVGVU95TUp1dEZtd2hoTzdXTks4elc0QzNySlgzdDFwRGNkYWtCNlJlUUU4eUJyZGdicTZlRE0?oc=5"
+ },
+ {
   "id": "24a23bcc60",
   "datum": "2026-09-13",
   "tijd": "05:00",
   "nieuw": true,
-  "titel": "Een avondje Valkenbergpark; hoe onveilig is het nou echt? 'Rot op!'",
+  "titel": "Een avondje Valkenbergpark: hoe onveilig is het nou echt? 'Rot op!'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -197,7 +254,7 @@
   "id": "9ab6481437",
   "datum": "2026-09-12",
   "tijd": "18:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Voortvluchtige Nederlandse wapenhandelaar Guus Kouwenhoven (84) overleden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -217,7 +274,7 @@
   "id": "bb02fff079",
   "datum": "2026-09-12",
   "tijd": "18:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kustwacht weer te bereiken met marifoon, storing voorbij",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -238,7 +295,7 @@
   "id": "bb4f108175",
   "datum": "2026-09-12",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Naardense autohandelaar tijdens megastrafzaak rond bekende crimineel Rico de Chileen: ’Ik word aangeklaagd voor witwassen, maar ik heb gewoon mijn werk gedaan’",
   "bron": "De Gooi- en Eemlander",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -481,25 +538,6 @@
   "link": "https://nos.nl/l/2630673"
  },
  {
-  "id": "83b156e3c3",
-  "datum": "2026-09-12",
-  "tijd": "09:00",
-  "nieuw": false,
-  "titel": "Vader is vader niet meer door één klap tijdens feest in Brabanthallen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "stal"
-  ],
-  "samenvatting": "Eén harde vuistslag maakte een einde aan het leven van een 56-jarige man. Niet letterlijk, want de man leeft nog, maar in de praktijk wel: de man liep forse hersenschade op en kan niet meer zelfstandig leven. Zijn familie heeft hem nog in hun midden, maar tegelijkertijd missen ze hem. In de rechtbank in Den Bosch werd ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026924/vader-is-vader-niet-meer-door-een-klap-tijdens-feest-in-brabanthallen"
- },
- {
   "id": "cac9d72c77",
   "datum": "2026-09-12",
   "tijd": "08:34",
@@ -555,6 +593,27 @@
   ],
   "samenvatting": "In de nacht van vrijdag op zaterdag heeft er een grote vechtpartij plaatsgevonden op de Wagenstraat in Maassluis. Meerdere personen vochten met elkaar en er zou een vuurwapen zijn gezien. De politie rukte met veel eenheden uit en loste een waarschuwingsschot.",
   "link": "https://www.rijnmond.nl/nieuws/2252525/politie-lost-waarschuwingsschot-na-vechtpartij"
+ },
+ {
+  "id": "74f4a75d2b",
+  "datum": "2026-09-12",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Hoe het beeld Willem de Pijper dankzij een kroeggrap Bredase historie werd",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "goud",
+   "stal"
+  ],
+  "samenvatting": "Wie over de Havermarkt in Breda loopt, ziet daar een bronzen beeld van een troubadour met een luit. Tenminste, officieel. Want generaties kroeggangers kennen het beeld als Willem de Peijper, een zeventiende-eeuwse kernfysicus. Die man heeft nooit bestaan. De grap begon ruim vijftig jaar geleden achter de bar van café D",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024539/hoe-het-beeld-willem-de-pijper-dankzij-een-kroeggrap-bredase-historie-werd"
  },
  {
   "id": "a318fc38aa",
@@ -669,25 +728,6 @@
   ],
   "samenvatting": "In een tuin aan de Campanulastraat in Sint-Michielsgestel is vrijdag aan het eind van de middag een zelfgemaakt explosief gevonden. Voorbijgangers zagen het liggen en waarschuwden de politie. Het ging om een lege frisdrankfles met daarin een vermoedelijk brandbare vloeistof. Aan de fles zat een zelfgemaakt explosief va",
   "link": "https://www.omroepbrabant.nl/nieuws/6026938/explosief-gevonden-bij-huis-in-sint-michielsgestel-omgeving-afgezet"
- },
- {
-  "id": "2e1f3c78f6",
-  "datum": "2026-09-11",
-  "tijd": "18:07",
-  "nieuw": false,
-  "titel": "Agent sjoemelt met verkeersboetes, politie wil bekeuringen intrekken",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Corruptie & integriteit"
-  ],
-  "tags": [
-   "corruptie"
-  ],
-  "samenvatting": "De politie wil dat zo'n honderd verkeersboetes die zijn uitgeschreven door een sjoemelende politieagent worden ingetrokken. In 4,5 jaar tijd schreef de agent van de eenheid Oost-Nederland bekeuringen uit zonder dat hij daadwerkelijk een verkeersovertreding constateerde. De politie wil niet zeggen hoe de agent te werk g",
-  "link": "https://nos.nl/l/2630615"
  },
  {
   "id": "ab7c35db6b",
@@ -2969,25 +3009,6 @@
   ],
   "samenvatting": "De Hardenbergerbrug, waar de A28 overheen loopt, blijft vanwege herstelwerkzaamheden in ieder geval vandaag nog afgesloten. Minister Karremans waarschuwde eerder dit jaar al dat circa 80 miljard euro nodig is om achterstallig onderhoud aan wegen, bruggen en spoor aan te pakken.",
   "link": "https://www.gld.nl/nieuws/8453152/zorgen-om-achterstallig-onderhoud-miljarden-nodig-voor-bruggen-en-wegen"
- },
- {
-  "id": "7bf344ea3d",
-  "datum": "2026-09-09",
-  "tijd": "08:24",
-  "nieuw": false,
-  "titel": "Eerste zitting niet in Middelburg, maar Breda • Datum pro-formazitting bekend",
-  "bron": "Omroep Zeeland",
-  "verzameld_via": "Omroep Zeeland",
-  "soort": "Nieuwsbericht",
-  "regio": "Zeeland",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "school"
-  ],
-  "samenvatting": "Bij een tragisch verkeersongeval op de N290 bij Terhole zijn op donderdag 11 juni drie leerlingen uit groep 8 en de directeur van basisschool De Warande uit Axel om het leven gekomen. De slachtoffers maakten deel uit van een groep die op de fiets onderweg was naar schoolkamp. Vier dodelijke slachtoffers bij aanrijding ",
-  "link": "https://www.omroepzeeland.nl/nieuws/18532638/eerste-zitting-niet-in-middelburg-maar-breda-datum-pro-formazitting-bekend"
  },
  {
   "id": "10943b5c8a",
