@@ -10,15 +10,32 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Crypto & digitaal geld",
    "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "bitcoin",
    "moord"
   ],
   "samenvatting": "Een 45-jarige vrouw zonder vaste woon- of verblijfplaats is opgepakt in een onderzoek naar het bestellen van een moord. Dat zou gebeurd zijn via het darkweb, meldt de politie Rotterdam. De vrouw is vrijdag aangehouden op verdenking van betrokkenheid bij de zaak. Of zij zelf achter de opdracht zit, zegt de politie niet.",
   "link": "https://nos.nl/l/2630875"
+ },
+ {
+  "id": "794143c3cb",
+  "datum": "2026-09-13",
+  "tijd": "17:41",
+  "nieuw": true,
+  "titel": "Aanhouding na geweldsincident bij Jumbo, traumahelikopter ingezet",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Buiten de Jumbo in Wijchen is op zondagavond een geweldsincident gebeurd.",
+  "link": "https://www.gld.nl/nieuws/8522421/aanhouding-na-geweldsincident-bij-jumbo-traumahelikopter-ingezet"
  },
  {
   "id": "1fcf80f3fb",
@@ -38,6 +55,25 @@
   ],
   "samenvatting": "De politie Rotterdam heeft een 45-jarige vrouw aangehouden op verdenking van betrokkenheid bij het bestellen van een huurmoord. Een Rotterdamse ondernemer zou het doelwit zijn geweest. Wat zich precies heeft ontvouwen, kan een woordvoerder van de politie nog niet vertellen.",
   "link": "https://www.rijnmond.nl/nieuws/2252947/vrouw-aangehouden-in-onderzoek-naar-huurmoord-hoeveel-kost-het-om-zijn-armen-en-benen-af-te-hakken"
+ },
+ {
+  "id": "258108ae26",
+  "datum": "2026-09-13",
+  "tijd": "17:38",
+  "nieuw": true,
+  "titel": "Vrouw (45) aangehouden in onderzoek naar bestellen van huurmoord op Rotterdamse ondernemer",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "De politie Rotterdam heeft een 45-jarige vrouw aangehouden op verdenking van betrokkenheid bij het bestellen van een huurmoord. Een Rotterdamse ondernemer zou het doelwit zijn geweest. Wat zich precies heeft ontvouwen, kan een woordvoerder van de politie nog niet vertellen.",
+  "link": "https://www.rijnmond.nl/nieuws/2252947/vrouw-45-aangehouden-in-onderzoek-naar-bestellen-van-huurmoord-op-rotterdamse-ondernemer"
  },
  {
   "id": "11def2e3aa",
@@ -167,7 +203,7 @@
   "id": "bebb433130",
   "datum": "2026-09-13",
   "tijd": "10:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hilversumse (37) hoeft niet de cel in voor witwassen. Luxe levensstijl was niet te rijmen met legale inkomsten",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -186,7 +222,7 @@
   "id": "ac55ee096d",
   "datum": "2026-09-13",
   "tijd": "07:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nijmeegse onderzoeker ‘knipt’ genfoutje weg uit spiercellen bij zeldzame spierziekte",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
