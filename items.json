@@ -1,5 +1,24 @@
 [
  {
+  "id": "3ec553c15c",
+  "datum": "2026-09-13",
+  "tijd": "05:40",
+  "nieuw": true,
+  "titel": "Rusland ronselt buitenlanders voor het front: Amnesty bevestigt mensensmokkel",
+  "bron": "bnr.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Rusland ronselt buitenlanders voor het front: Amnesty bevestigt mensensmokkel bnr.nl",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHdtRHFDN0s3cGY3aUJFQ0ZnbDNrcjF4N3ZTNElOcmFDcjh2eF9jNVFrazJPZE8yYWdUa1dabEwxZkxlTldTZXFfMi03ZlZHVlZCNGtGaFBTTmV4ZmdqZ095dVFyb0szaDNhbmhQN1Q1QklxWE1yd3Vtc1h3a2t6b2xwN0xocVJnQkhLc2MwazdIb1RtNjJVOUZJbDdzbV9GbFRQNzNyd3lYX3FtbGEtOEZoalM3dHpKdHJHdjd4LV9pRzJJTlE?oc=5"
+ },
+ {
   "id": "f142eb158e",
   "datum": "2026-09-13",
   "tijd": "05:02",
@@ -59,6 +78,25 @@
   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUlA2dDhwZGRzRHZBekJFZEJFLVJUaXh0NWZ4eFFlN3ZRZGktMHJ5SmV4VVFmNmMtdm4wSzByNk1aVmFqN3ZlaTAydmZfcEtreHJUMkRDZjhuSDh0ZS1CSHY0aWpEbnVQTGJyQVlfZHN1WDdwQmtVV3ZSZUN2ek4wZHVucTkxUjNnM2daT3M2RWR1ZFVOQWYweVZrRXNDSDhQNXVYRFg2cE0xcVFoM3JRQm1vNWFLd1pWWUIxQ3JRY3hiQ2RXWVRxUllQbUxWZzBOM25UdEVETTV2blFsaU8wLTZaVGo2LTcyQUcyRi1pVl8tbzI2ZE9yQ01LYXpCcVNiZHVJ?oc=5"
  },
  {
+  "id": "1c5a411081",
+  "datum": "2026-09-12",
+  "tijd": "23:33",
+  "nieuw": true,
+  "titel": "Overleden arrestant werd verdacht van diefstal fatbike, boze reacties van bewoners",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "De man die zaterdagavond kort na zijn aanhouding in Rotterdam-Zuid overleed, werd door de politie verdacht van de diefstal van een fatbike. Op beelden is te zien dat de man hardhandig gearresteerd werd en hevig verzet bood.",
+  "link": "https://www.rijnmond.nl/nieuws/2252595/overleden-arrestant-werd-verdacht-van-diefstal-fatbike-boze-reacties-van-bewoners"
+ },
+ {
   "id": "59fcf51842",
   "datum": "2026-09-12",
   "tijd": "22:44",
@@ -95,6 +133,25 @@
   ],
   "samenvatting": "Een bestuurder van een fatbike is zaterdagavond door de politie staande gehouden aan de Vaarnerkamp in Rotterdam. De man werd enige tijd later onwel en moest gereanimeerd worden. Inmiddels is bekendgemaakt door de politie dat de persoon is overleden.",
   "link": "https://www.rijnmond.nl/nieuws/2252567/bestuurder-van-fatbike-wordt-onwel-na-aanhouding-in-rotterdam-en-overlijdt"
+ },
+ {
+  "id": "2f4f72a83a",
+  "datum": "2026-09-12",
+  "tijd": "19:58",
+  "nieuw": true,
+  "titel": "Bestuurder van fatbike wordt onwel tijdens aanhouding in Rotterdam en overlijdt",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een bestuurder van een fatbike is zaterdagavond tijdens zijn arrestatie onwel geworden. Hij moest worden gereanimeerd. Inmiddels is bekendgemaakt dat de persoon is overleden.",
+  "link": "https://www.rijnmond.nl/nieuws/2252567/bestuurder-van-fatbike-wordt-onwel-tijdens-aanhouding-in-rotterdam-en-overlijdt"
  },
  {
   "id": "a66a67800d",
@@ -219,7 +276,7 @@
   "id": "b1e4155a1d",
   "datum": "2026-09-12",
   "tijd": "15:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Woning onbewoonbaar na explosie en brand: politie zoekt getuigen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -240,7 +297,7 @@
   "id": "204c1082e8",
   "datum": "2026-09-12",
   "tijd": "15:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explosie en brand maken woning onbewoonbaar: politie zoekt beelden en getuigen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -261,7 +318,7 @@
   "id": "dfe8935dbb",
   "datum": "2026-09-12",
   "tijd": "14:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - Harmen Visserplein krijgt opknapbeurt: meer groen én eerbetoon aan naamgever",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -477,27 +534,6 @@
   ],
   "samenvatting": "In de nacht van vrijdag op zaterdag heeft er een grote vechtpartij plaatsgevonden op de Wagenstraat in Maassluis. Meerdere personen vochten met elkaar en er zou een vuurwapen zijn gezien. De politie rukte met veel eenheden uit en loste een waarschuwingsschot.",
   "link": "https://www.rijnmond.nl/nieuws/2252525/politie-lost-waarschuwingsschot-na-vechtpartij"
- },
- {
-  "id": "74f4a75d2b",
-  "datum": "2026-09-12",
-  "tijd": "08:00",
-  "nieuw": false,
-  "titel": "Hoe het beeld Willem de Pijper dankzij een kroeggrap Bredase historie werd",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "goud",
-   "stal"
-  ],
-  "samenvatting": "Wie over de Havermarkt in Breda loopt, ziet daar een bronzen beeld van een troubadour met een luit. Tenminste, officieel. Want generaties kroeggangers kennen het beeld als Willem de Peijper, een zeventiende-eeuwse kernfysicus. Die man heeft nooit bestaan. De grap begon ruim vijftig jaar geleden achter de bar van café D",
-  "link": "https://www.omroepbrabant.nl/nieuws/6024539/hoe-het-beeld-willem-de-pijper-dankzij-een-kroeggrap-bredase-historie-werd"
  },
  {
   "id": "a318fc38aa",
