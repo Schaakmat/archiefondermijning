@@ -1,12 +1,12 @@
 {
- "run": "02:31",
+ "run": "03:31",
  "datum": "2026-09-13",
- "nieuw": 11,
- "totaal": 3047,
+ "nieuw": 12,
+ "totaal": 3048,
  "verwijderd": 11,
  "geweigerd": {
   "niet-nederlands": 1056,
-  "geen dossier": 497
+  "geen dossier": 498
  },
  "bronnen": [
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 201,
-   "status": "bij",
+   "items": 202,
+   "status": "1 nieuw",
    "ok": true
   },
   {
