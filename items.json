@@ -1,5 +1,26 @@
 [
  {
+  "id": "21e7d35fec",
+  "datum": "2026-09-13",
+  "tijd": "06:43",
+  "nieuw": true,
+  "titel": "Hoofddorper aangehouden voor witwassen; beslag op schip in IJmuiden en pand in Amsterdam",
+  "bron": "Nieuws.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "pand",
+   "witwassen"
+  ],
+  "samenvatting": "Hoofddorper aangehouden voor witwassen; beslag op schip in IJmuiden en pand in Amsterdam Nieuws.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbGVBN1ZMaVcwMGh3T0FudHk4M3F0YnJtWXYzXy14VGowMkxfNmlaOXBObFRKVm9KSGhjc3Z5bGplTXdmbzVUMVdhZHRfLTFGb2lIUnBaZExLYzh2QVltNjh3T3VvS2FEWFUyeVpRM2pBZnltajdFckFnRHZFTDNTRHZ2MmtlR1g2UVJIWWVuOVR5UjJvQlZPMDRnTHM2ZVpXSW9qaG02bHRkOVk3NWlzRGg4SEJVYW1lZmYxbDVHODBEZw?oc=5"
+ },
+ {
   "id": "3ec553c15c",
   "datum": "2026-09-13",
   "tijd": "05:40",
@@ -40,11 +61,11 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6026985/groep-jonge-fatbikers-door-eindhoven-achtervolgd-na-beroving-met-geweld"
  },
  {
-  "id": "54af00764f",
+  "id": "24a23bcc60",
   "datum": "2026-09-13",
   "tijd": "05:00",
   "nieuw": true,
-  "titel": "Een avondje Park Valkenberg; hoe onveilig is het nou echt? 'Rot op!'",
+  "titel": "Een avondje Valkenbergpark; hoe onveilig is het nou echt? 'Rot op!'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -55,8 +76,8 @@
   "tags": [
    "school"
   ],
-  "samenvatting": "De veiligheid in Park Valkenberg, of juist het gebrek daaraan, is een hot topic in Breda. Vorige maand nog werd een 41-jarige vrouw overvallen en begin september werden dertien overlastgevers in het park op de bon geslingerd. In augustus startte de gemeente Breda een onderzoek om uiteindelijk het park veiliger te maken",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026910/een-avondje-park-valkenberg-hoe-onveilig-is-het-nou-echt-rot-op"
+  "samenvatting": "De veiligheid in het Valkenbergpark, of juist het gebrek daaraan, is een hot topic in Breda. Vorige maand nog werd een 41-jarige vrouw overvallen en begin september werden dertien overlastgevers in het park op de bon geslingerd. In augustus startte de gemeente Breda een onderzoek om uiteindelijk het park veiliger te ma",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026910/een-avondje-valkenbergpark-hoe-onveilig-is-het-nou-echt-rot-op"
  },
  {
   "id": "dee1448709",
@@ -238,7 +259,7 @@
   "id": "063ffd0c87",
   "datum": "2026-09-12",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bram en Iris maakten hun droomreis en kwamen thuis met bijzondere souvenirs",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -257,7 +278,7 @@
   "id": "895d99be34",
   "datum": "2026-09-12",
   "tijd": "15:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Politie zoekt getuigen na brandstichting bij school in Lelystad",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -2948,6 +2969,25 @@
   ],
   "samenvatting": "De Hardenbergerbrug, waar de A28 overheen loopt, blijft vanwege herstelwerkzaamheden in ieder geval vandaag nog afgesloten. Minister Karremans waarschuwde eerder dit jaar al dat circa 80 miljard euro nodig is om achterstallig onderhoud aan wegen, bruggen en spoor aan te pakken.",
   "link": "https://www.gld.nl/nieuws/8453152/zorgen-om-achterstallig-onderhoud-miljarden-nodig-voor-bruggen-en-wegen"
+ },
+ {
+  "id": "7bf344ea3d",
+  "datum": "2026-09-09",
+  "tijd": "08:24",
+  "nieuw": false,
+  "titel": "Eerste zitting niet in Middelburg, maar Breda • Datum pro-formazitting bekend",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school"
+  ],
+  "samenvatting": "Bij een tragisch verkeersongeval op de N290 bij Terhole zijn op donderdag 11 juni drie leerlingen uit groep 8 en de directeur van basisschool De Warande uit Axel om het leven gekomen. De slachtoffers maakten deel uit van een groep die op de fiets onderweg was naar schoolkamp. Vier dodelijke slachtoffers bij aanrijding ",
+  "link": "https://www.omroepzeeland.nl/nieuws/18532638/eerste-zitting-niet-in-middelburg-maar-breda-datum-pro-formazitting-bekend"
  },
  {
   "id": "10943b5c8a",
