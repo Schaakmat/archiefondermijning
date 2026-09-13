@@ -1,12 +1,12 @@
 {
- "run": "10:33",
+ "run": "11:29",
  "datum": "2026-09-13",
- "nieuw": 12,
- "totaal": 3058,
+ "nieuw": 10,
+ "totaal": 3059,
  "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 1053,
-  "geen dossier": 503
+  "niet-nederlands": 1057,
+  "geen dossier": 497
  },
  "bronnen": [
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 205,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 50,
-   "status": "5 nieuw",
+   "items": 49,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 90,
-   "status": "4 nieuw",
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -500,7 +500,7 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 86,
+   "items": 87,
    "status": "1 nieuw",
    "ok": true
   },
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 135,
-   "status": "bij",
+   "items": 136,
+   "status": "1 nieuw",
    "ok": true
   },
   {

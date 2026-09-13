@@ -19,6 +19,31 @@
   "link": "https://nos.nl/l/2630796"
  },
  {
+  "id": "273d9cfda8",
+  "datum": "2026-09-13",
+  "tijd": "10:14",
+  "nieuw": true,
+  "titel": "Duitse auto betrokken bij overval op geldtransport, politie zoekt dader en handlanger",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Autobranche & garages",
+   "Geweld, liquidaties & bedreiging",
+   "Horeca, winkels & dienstverlening",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "garage",
+   "supermarkt",
+   "wapen"
+  ],
+  "samenvatting": "Bij een supermarkt in de Rotterdamse Lusthofstraat vindt op woensdagmiddag 15 april een gewapende overval plaats op een geldtransport. De overvaller slaagt er onder bedreiging van een vuurwapen in een geldcassette buit te maken. Daarna vlucht hij via de parkeergarage naar een auto die op hem wacht in de Adamshofstraat.",
+  "link": "https://www.rijnmond.nl/nieuws/2252077/duitse-auto-betrokken-bij-overval-op-geldtransport-politie-zoekt-dader-en-handlanger"
+ },
+ {
   "id": "bebb433130",
   "datum": "2026-09-13",
   "tijd": "10:03",
@@ -55,6 +80,25 @@
   ],
   "samenvatting": "Een foutje in het DNA kan een erfelijke spierziekte veroorzaken: myotone dystrofie type 1 (MD). Het is de meest voorkomende spierziekte in Nederland, maar er is nog heel weinig over bekend. Postdoctoraal onderzoeker Renée Raaijmakers van het Radboudumc in Nijmegen onderzocht hoe je dat foutje kunt herstellen en boekte ",
   "link": "https://www.gld.nl/nieuws/8521934/nijmeegse-onderzoeker-knipt-genfoutje-weg-uit-spiercellen-bij-zeldzame-spierziekte"
+ },
+ {
+  "id": "73893ffbeb",
+  "datum": "2026-09-13",
+  "tijd": "07:43",
+  "nieuw": true,
+  "titel": "Doorbraak in onderzoek naar meest voorkomende spierziekte in Nederland",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "Een foutje in het DNA kan een erfelijke spierziekte veroorzaken: myotone dystrofie type 1 (MD). Het is de meest voorkomende spierziekte in Nederland, maar er is nog heel weinig over bekend. Postdoctoraal onderzoeker Renée Raaijmakers van het Radboudumc in Nijmegen onderzocht hoe je dat foutje kunt herstellen en boekte ",
+  "link": "https://www.gld.nl/nieuws/8521934/doorbraak-in-onderzoek-naar-meest-voorkomende-spierziekte-in-nederland"
  },
  {
   "id": "21e7d35fec",
@@ -159,7 +203,7 @@
   "id": "dee1448709",
   "datum": "2026-09-13",
   "tijd": "03:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee jaar gevangenisstraf geëist tegen handelaar in luxe auto’s uit Naarden voor witwassen van grote sommen geld",
   "bron": "noordhollandsdagblad.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -178,7 +222,7 @@
   "id": "1c5a411081",
   "datum": "2026-09-12",
   "tijd": "23:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overleden arrestant werd verdacht van diefstal fatbike, boze reacties van bewoners",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -197,7 +241,7 @@
   "id": "0314f99266",
   "datum": "2026-09-12",
   "tijd": "23:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overleden arrestant (51) werd verdacht van diefstal fatbike, boze reacties van bewoners",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -216,7 +260,7 @@
   "id": "59fcf51842",
   "datum": "2026-09-12",
   "tijd": "22:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man overleden bij aanhouding door politie in Rotterdam",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -501,13 +545,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Milieucriminaliteit & afval",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "grond",
-   "vuurwerk",
-   "zwaar illegaal vuurwerk"
+   "vuurwerk"
   ],
   "samenvatting": "In Nederland kun je sinds 1 augustus geen vuurwerk meer kopen, maar in het buitenland wél. Welke straf kun je verwachten als je bij onze zuider- of oosterburen vuurwerk haalt en ermee de grens over rijdt? Strafrechtadvocaat Sander Arts uit Breda, gespecialiseerd in vuurwerkzaken, vertelt er meer over. De politie houdt ",
   "link": "https://www.omroepbrabant.nl/nieuws/6026958/vuurwerk-halen-in-belgie-of-duitsland-dat-kan-je-duur-komen-te-staan"
@@ -729,25 +770,6 @@
   ],
   "samenvatting": "Tussen Beilen en Groningen Europapark reden gisteravond laat enkele uren geen treinen door een bommelding. Een inzittende van een trein zou gezegd hebben dat hij meerdere bommen had geplaatst, meldt de politie Drenthe op X. De man om wie het ging werd daarop aangehouden op station Assen. Het gaat om een 24-jarige man z",
   "link": "https://nos.nl/l/2630658"
- },
- {
-  "id": "54268477f0",
-  "datum": "2026-09-11",
-  "tijd": "18:45",
-  "nieuw": false,
-  "titel": "Nog tien middel- tot zwaargewonden na busongeluk Zwitserland",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "In verschillende ziekenhuizen liggen na het zware busongeluk in Zwitserland nog tien middel- tot zwaargewonden. Dat heeft de directeur van de reisorganisatie laten weten. Volgens alarmcentrale Eurocross hebben zeker acht mensen het ziekenhuis inmiddels verlaten. Bij het ongeluk tijdens een Oad-busreis kwamen gisteren v",
-  "link": "https://nos.nl/l/2630621"
  },
  {
   "id": "5719648dba",
