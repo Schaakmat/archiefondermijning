@@ -1,5 +1,26 @@
 [
  {
+  "id": "1630de9a3a",
+  "datum": "2026-09-13",
+  "tijd": "14:47",
+  "nieuw": true,
+  "titel": "Emmeloord - Drie van de acht gedumpte kittens hebben een nieuw huis gevonden",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "organisatie"
+  ],
+  "samenvatting": "Drie van de acht gedumpte kittens die eind augustus gevonden werden op een carpoolplaats in Emmeloord, hebben inmiddels een nieuw thuis gevonden. Dat meldt Dierenambulance Witte Gerrit op Facebook. De dieren werden samen met twee moederpoezen gevonden en waren er volgens de dierenambulance slecht aan toe. De politie kr",
+  "link": "https://www.omroepflevoland.nl/nieuws/523645/drie-van-de-acht-gedumpte-kittens-hebben-een-nieuw-huis-gevonden"
+ },
+ {
   "id": "2b3a4a00ca",
   "datum": "2026-09-13",
   "tijd": "10:21",
@@ -165,7 +186,7 @@
   "id": "1f23ec4bf6",
   "datum": "2026-09-13",
   "tijd": "05:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Twee jaar gevangenisstraf geëist tegen handelaar in luxe auto’s uit Naarden voor witwassen van grote sommen geld",
   "bron": "De Gooi- en Eemlander",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -5488,6 +5509,25 @@
   ],
   "samenvatting": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen gelderlander.nl",
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLWlIM3ZNN05FeWp4SXBsbkUxWEhKYm9LQUtqbnlpVUZCSlN2VXhxRDdVaUVjNnlkSGlBWmQ5Z3pRUVk5djNHWk9HXy13Vml6NnJuY3RqRFRLQWNmZ0x1dG53S0dEX3ZPVjlGOE1uMmxQZm0yLVRlYmx4YlFwb1YtbFB3bXpHMGtMVUdDSDVBUnFlVjVGVmNrdHBlZGdDMC1nRGloMDh0X0dyUS1BQ0prRTFkZ0tlYU9qUFQ1eHllb2ZxOXJvQXA3OFlR?oc=5"
+ },
+ {
+  "id": "821df218ad",
+  "datum": "2026-09-04",
+  "tijd": "12:14",
+  "nieuw": false,
+  "titel": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMC1Gay1pYXhYckNDS1JpSlNOM2c1VFVOeVhiOEVrZ0JEdEFxWUJXRUpCbFBMZ2FWRVRibU5sLXB4ZUJzdlMxRll6alZsenNRRG5UUE9XZFdBb09aaTFYdlVqc1lDYzZVcW9aQjdob1JiODhoTzU5ZFhNcmJtRTFOVFhMMHdpeG9jMEx2M0ZTWWVWcnNwaXFZclZWajhJUFV5SG1BaTdxQW9tNG5IUU9XWXFSb0hUejYtVHNqaEJ3VUVNZw?oc=5"
  },
  {
   "id": "86440eabaf",
