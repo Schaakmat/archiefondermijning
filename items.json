@@ -1,5 +1,45 @@
 [
  {
+  "id": "477939a9b6",
+  "datum": "2026-09-13",
+  "tijd": "19:57",
+  "nieuw": true,
+  "titel": "Vrouw (45) opgepakt in onderzoek naar huurmoord via darkweb",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bitcoin",
+   "moord"
+  ],
+  "samenvatting": "Een 45-jarige vrouw zonder vaste woon- of verblijfplaats is opgepakt in een onderzoek naar het bestellen van een moord. Dat zou gebeurd zijn via het darkweb, meldt de politie Rotterdam. De vrouw is vrijdag aangehouden op verdenking van betrokkenheid bij de zaak. Of zij zelf achter de opdracht zit, zegt de politie niet.",
+  "link": "https://nos.nl/l/2630875"
+ },
+ {
+  "id": "1fcf80f3fb",
+  "datum": "2026-09-13",
+  "tijd": "17:38",
+  "nieuw": true,
+  "titel": "Vrouw aangehouden in onderzoek naar huurmoord: 'Hoeveel kost het om zijn armen en benen af te hakken?'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "De politie Rotterdam heeft een 45-jarige vrouw aangehouden op verdenking van betrokkenheid bij het bestellen van een huurmoord. Een Rotterdamse ondernemer zou het doelwit zijn geweest. Wat zich precies heeft ontvouwen, kan een woordvoerder van de politie nog niet vertellen.",
+  "link": "https://www.rijnmond.nl/nieuws/2252947/vrouw-aangehouden-in-onderzoek-naar-huurmoord-hoeveel-kost-het-om-zijn-armen-en-benen-af-te-hakken"
+ },
+ {
   "id": "11def2e3aa",
   "datum": "2026-09-13",
   "tijd": "16:03",
@@ -165,7 +205,7 @@
   "id": "73893ffbeb",
   "datum": "2026-09-13",
   "tijd": "07:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Doorbraak in onderzoek naar meest voorkomende spierziekte in Nederland",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -793,25 +833,6 @@
   ],
   "samenvatting": "Eibergen werd in de nacht van donderdag op vrijdag opgeschrikt door een hevige explosie. De oorzaak van de explosie is niet bekend. Ondertussen zoekt de politie getuigen.",
   "link": "https://www.gld.nl/nieuws/8521491/bestelbus-ontploft-omwonenden-zien-iemand-wegrennen"
- },
- {
-  "id": "88003996f8",
-  "datum": "2026-09-12",
-  "tijd": "01:44",
-  "nieuw": false,
-  "titel": "Politieactie bij station Assen na bommelding voorbij, verdachte aangehouden",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "explosie"
-  ],
-  "samenvatting": "Tussen Beilen en Groningen Europapark reden gisteravond laat enkele uren geen treinen door een bommelding. Een inzittende van een trein zou gezegd hebben dat hij meerdere bommen had geplaatst, meldt de politie Drenthe op X. De man om wie het ging werd daarop aangehouden op station Assen. Het gaat om een 24-jarige man z",
-  "link": "https://nos.nl/l/2630658"
  },
  {
   "id": "5719648dba",

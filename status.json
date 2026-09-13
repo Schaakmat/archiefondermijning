@@ -1,12 +1,12 @@
 {
- "run": "17:29",
+ "run": "18:33",
  "datum": "2026-09-13",
- "nieuw": 9,
- "totaal": 3062,
+ "nieuw": 10,
+ "totaal": 3063,
  "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 1062,
-  "geen dossier": 509
+  "niet-nederlands": 1058,
+  "geen dossier": 517
  },
  "bronnen": [
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 87,
-   "status": "bij",
+   "items": 88,
+   "status": "1 nieuw",
    "ok": true
   },
   {
