@@ -205,7 +205,7 @@
   "id": "3ec553c15c",
   "datum": "2026-09-13",
   "tijd": "05:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rusland ronselt buitenlanders voor het front: Amnesty bevestigt mensensmokkel",
   "bron": "bnr.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -224,7 +224,7 @@
   "id": "f142eb158e",
   "datum": "2026-09-13",
   "tijd": "05:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Groep jonge fatbikers door Eindhoven achtervolgd na beroving met geweld",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -651,25 +651,6 @@
   ],
   "samenvatting": "OAS brengt ministers samen voor regionale aanpak drugscriminaliteit en witwassen Suriname Herald",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXpuc3pBZ1hRMDdJazNlWXctUUlQckhpNWtmR2N1X1hJamhGazhOZXNqLWZOdHA5VEpzV3U0eGlwaDNJZW5GUktHRnBVWVN0ZGpQX19PVDl0V2V0RUc0dmxIVDJ2MUY1dlhRUDFzUTRCUklSd2dpTUVMT1QtTDhEcnlaUnJ5WEppa0VlUGNwZGU1UlpYRFJvTEpTeUlqMnlEbDZFX01NeDVWRjhfQmZaaGhCZ2Vla1A1aHVGQzJrVF9lZlk2?oc=5"
- },
- {
-  "id": "674962b61f",
-  "datum": "2026-09-12",
-  "tijd": "11:05",
-  "nieuw": false,
-  "titel": "Waarom je niet zomaar de as van je dierbaren overal uit mag strooien",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "stal"
-  ],
-  "samenvatting": "In de Efteling strooien bezoekers soms stiekem de as van overleden dierbaren uit, blijkt uit gesprekken van Omroep Brabant. Uitvaartondernemer Karen Admiraal van Buitengewoon Afscheid begrijpt wel waarom mensen hiervoor kiezen, ondanks dat het eigenlijk niet mag. \"Rondom uitvaarten en crematies zijn vaak veel regels en",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026963/waarom-je-niet-zomaar-de-as-van-je-dierbaren-overal-uit-mag-strooien"
  },
  {
   "id": "50ef9c0630",

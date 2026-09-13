@@ -1,11 +1,11 @@
 {
- "run": "14:30",
+ "run": "15:30",
  "datum": "2026-09-13",
- "nieuw": 12,
- "totaal": 3064,
- "verwijderd": 9,
+ "nieuw": 10,
+ "totaal": 3063,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1053,
+  "niet-nederlands": 1052,
   "geen dossier": 503
  },
  "bronnen": [
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 206,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 90,
-   "status": "3 nieuw",
+   "items": 89,
+   "status": "2 nieuw",
    "ok": true
   },
   {
