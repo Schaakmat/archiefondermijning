@@ -1,5 +1,32 @@
 [
  {
+  "id": "266165d705",
+  "datum": "2026-09-14",
+  "tijd": "21:06",
+  "nieuw": true,
+  "titel": "Belgisch OM eist 5 jaar cel tegen Nederlandse advocaat in groot drugsproces",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Corruptie & integriteit",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bende",
+   "cocaïne",
+   "container",
+   "criminele organisatie",
+   "haven",
+   "moord"
+  ],
+  "samenvatting": "Het Openbaar Ministerie in België eist vijf jaar cel tegen de Nederlandse strafrechtadvocaat Cem Polat. Hij wordt verdacht van het doorspelen van vertrouwelijke informatie aan een Belgische drugsbaron. Polat was volgens het OM onderdeel van de criminele organisatie van Flor Bressers, de hoofdverdachte in een geruchtmak",
+  "link": "https://nos.nl/l/2631004"
+ },
+ {
   "id": "b6d362be25",
   "datum": "2026-09-14",
   "tijd": "19:45",
@@ -12,20 +39,53 @@
   "dossiers": [
    "Buitengebied & recreatie",
    "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging",
-   "Horeca, winkels & dienstverlening",
-   "Witwassen & geldstromen"
+   "Horeca, winkels & dienstverlening"
   ],
   "tags": [
-   "beveiliging",
-   "haven",
    "horeca",
    "schiphol",
-   "stal",
-   "witwassen"
+   "stal"
   ],
   "samenvatting": "Een 51-jarige Almeerder wordt twee jaar in een inrichting voor stelselmatige daders geplaatst. Dat heeft de rechtbank Noord-Holland bepaald. De man liep in november vorig jaar tegen de lamp, nadat hij bij een horecagelegenheid op Schiphol een flesje appelsap ontvreemde. Het blijkt dat hij nog veel meer diefstallen op z",
   "link": "https://www.omroepflevoland.nl/nieuws/523782/almeerse-dief-(51)-slaat-toe-op-schiphol-en-heeft-koffer-vol-telefoons-en-cosmetica"
+ },
+ {
+  "id": "a2e59ad2bf",
+  "datum": "2026-09-14",
+  "tijd": "18:23",
+  "nieuw": true,
+  "titel": "Grote controle in Eindhoven: ruim zestig boetes, 155 vapes en aanhouding",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Bij een grote verkeerscontrole rond de Woenselse Markt en Kruisstraat in Eindhoven zijn vrijdag meer dan zestig verkeersboetes uitgedeeld. Ook werden 155 vapes gevonden. Dat meldt de politie Eindhoven maandag op Instagram. De politie hield de controle samen met de Belastingdienst en handhaving van de gemeente Eindhoven",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027184/grote-controle-in-eindhoven-ruim-zestig-boetes-155-vapes-en-aanhouding"
+ },
+ {
+  "id": "aad5ef15ce",
+  "datum": "2026-09-14",
+  "tijd": "18:07",
+  "nieuw": true,
+  "titel": "Moeder en zoon verdacht van onderdak bieden aan illegale prostituee in Deventer",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Een moeder en zoon uit Enschede worden verdacht van mensensmokkel in Deventer door een vrouw uit Colombia onderdak en sekswerk te bieden. De vrouw werd aan het werk gezet in een salon voor erotische massages. Het duo erkent dat de vrouw er zonder de benodigde papieren werkte.",
+  "link": "https://www.oost.nl/nieuws/3695546/moeder-en-zoon-verdacht-van-onderdak-bieden-aan-illegale-prostituee-in-deventer"
  },
  {
   "id": "959c1189ae",
@@ -262,7 +322,7 @@
   "id": "98131304bd",
   "datum": "2026-09-14",
   "tijd": "15:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man aangehouden na melding van mogelijk vuurwapen in Lobith: politiehelikopter en DSI ter plaatse",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -281,7 +341,7 @@
   "id": "e5fe4ade15",
   "datum": "2026-09-14",
   "tijd": "15:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Urk - Urker buurt bezorgd en politiek krijgt te weinig info, plan voor 'fundamentele wijziging' Oude Dorp onder vuur",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -298,6 +358,25 @@
   ],
   "samenvatting": "Past er aan de rand van het Oude Dorp op Urk een wooncomplex van meer dan veertien meter hoog, waar nu nog een gebouw van zes meter hoog staat? Over die vraag heeft de Urker politiek zich gebogen. Voorafgaand aan de politieke discussie vertelde een verontruste Urkse, namens tientallen buren, over de grote zorgen die er",
   "link": "https://www.omroepflevoland.nl/nieuws/523276/urker-buurt-bezorgd-en-politiek-krijgt-te-weinig-info-plan-voor-'fundamentele-wijziging'-oude-dorp-onder-vuur"
+ },
+ {
+  "id": "11f5177be5",
+  "datum": "2026-09-14",
+  "tijd": "14:37",
+  "nieuw": false,
+  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
+  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
@@ -530,29 +609,6 @@
   ],
   "samenvatting": "Een trein is maandagochtend op de Horsterweg in Ermelo op een vrachtwagen gebotst. De vrachtwagenchauffeur is volgens de politie met lichte verwondingen naar het ziekenhuis gebracht. De ravage is groot.",
   "link": "https://www.gld.nl/nieuws/8522950/trein-met-ongeveer-150-reizigers-botst-op-vrachtwagen-chauffeur-gewond"
- },
- {
-  "id": "96cc3fd18b",
-  "datum": "2026-09-14",
-  "tijd": "07:56",
-  "nieuw": false,
-  "titel": "Schoten gehoord in Beers: niks gevonden bij grote zoekactie van politie",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "doodgeschoten",
-   "explosie",
-   "geweld",
-   "wapen"
-  ],
-  "samenvatting": "Bij een grote zoekactie bij de Kraaijenbergse Plassen tussen Beers en Gassel is zondagavond niks gevonden door agenten. Er kwamen meerdere meldingen binnen van mensen die schoten hadden gehoord in het gebied. Tien agenten met kogelwerende vesten en een politiehelikopter doorzochten zondagavond het uitgestrekte gebied. ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027113/schoten-gehoord-in-beers-niks-gevonden-bij-grote-zoekactie-van-politie"
  },
  {
   "id": "016d459c21",
