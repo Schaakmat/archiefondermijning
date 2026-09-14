@@ -1,5 +1,24 @@
 [
  {
+  "id": "016d459c21",
+  "datum": "2026-09-14",
+  "tijd": "07:44",
+  "nieuw": true,
+  "titel": "Lijst Babijn wil asielzoekers opvangen op gesloten vakantiepark Marina Beach",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "vakantiepark"
+  ],
+  "samenvatting": "In het verleden zijn er op het vakantiepark op De Braakman al eerder asielzoekers ondergebracht.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18777997/lijst-babijn-wil-asielzoekers-opvangen-op-gesloten-vakantiepark-marina-beach"
+ },
+ {
   "id": "a8a891e26f",
   "datum": "2026-09-14",
   "tijd": "07:19",
@@ -156,7 +175,7 @@
   "id": "78d4d8f660",
   "datum": "2026-09-13",
   "tijd": "19:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Schoten gehoord in Beers, politie rukt groots uit met helikopter",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -178,7 +197,7 @@
   "id": "b61639416d",
   "datum": "2026-09-13",
   "tijd": "18:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Geweld bij supermarkt, doorbraak in spieronderzoek en kleurrijk bloemencorso op zondag 13 september",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -291,11 +310,11 @@
   "link": "https://nos.nl/l/2630830"
  },
  {
-  "id": "f35ef3b917",
+  "id": "7e0110ca83",
   "datum": "2026-09-13",
   "tijd": "15:58",
   "nieuw": false,
-  "titel": "Flevoland - Brief met waarschuwingssticker moet Drontenaren weerbaar maken tegen nepagenten",
+  "titel": "Flevoland - Brief met waarschuwingssticker moet 65-plussers in Dronten weerbaar maken tegen nepagenten",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -308,8 +327,8 @@
    "burgemeester",
    "sieraden"
   ],
-  "samenvatting": "De gemeente Dronten heeft samen met de politie een waarschuwingsbrief gestuurd naar inwoners over nepagenten. In de brief wordt uitgebreid ingegaan op de werkwijze van deze oplichters en worden tips gegeven over hoe te handelen als er een verdacht persoon voor de deur staat, belt of online contact zoekt. De politie waa",
-  "link": "https://www.omroepflevoland.nl/nieuws/523214/brief-met-waarschuwingssticker-moet-drontenaren-weerbaar-maken-tegen-nepagenten"
+  "samenvatting": "De gemeente Dronten heeft samen met de politie een waarschuwingsbrief over nepagenten gestuurd naar inwoners van 65 jaar en ouder. In de brief wordt uitgebreid ingegaan op de werkwijze van deze oplichters en worden tips gegeven over hoe te handelen als er een verdacht persoon voor de deur staat, belt of online contact ",
+  "link": "https://www.omroepflevoland.nl/nieuws/523214/brief-met-waarschuwingssticker-moet-65-plussers-in-dronten-weerbaar-maken-tegen-nepagenten"
  },
  {
   "id": "1630de9a3a",
@@ -531,6 +550,25 @@
   ],
   "samenvatting": "Twee jaar gevangenisstraf geëist tegen handelaar in luxe auto’s uit Naarden voor witwassen van grote sommen geld De Gooi- en Eemlander",
   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPLTY1b3d0UVBEUzlSWVV4YkNFNFY4c3VXLUdQMjBDUVFzVUxGd095bGxsNFlxamMtYmg1aV8tT3h3TGJCSVV0VUNxckxnb2V4X3plTjJVZXJ2Nnpnc1ktVnMzMEFOWEtGZXh3eHBDSG1hTTh6dEZxXzhfTWxxYjE4VWRsVEhyakZJNVRteU96RUFhRUFuR1N6OFdzNTVqUy03NzA2dHNiVVZ2RWV2endJM1YxY05JeUdzT3pfbFY2WDZ1dE84ZGQ4Nm9TSmUzTjZlSFIyREVGVU95TUp1dEZtd2hoTzdXTks4elc0QzNySlgzdDFwRGNkYWtCNlJlUUU4eUJyZGdicTZlRE0?oc=5"
+ },
+ {
+  "id": "24a23bcc60",
+  "datum": "2026-09-13",
+  "tijd": "05:00",
+  "nieuw": false,
+  "titel": "Een avondje Valkenbergpark: hoe onveilig is het nou echt? 'Rot op!'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school"
+  ],
+  "samenvatting": "De veiligheid in het Valkenbergpark, of juist het gebrek daaraan, is een hot topic in Breda. Vorige maand nog werd een 41-jarige vrouw overvallen en begin september werden dertien overlastgevers in het park op de bon geslingerd. In augustus startte de gemeente Breda een onderzoek om uiteindelijk het park veiliger te ma",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026910/een-avondje-valkenbergpark-hoe-onveilig-is-het-nou-echt-rot-op"
  },
  {
   "id": "dee1448709",
