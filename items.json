@@ -1,5 +1,32 @@
 [
  {
+  "id": "5d23856bc8",
+  "datum": "2026-09-14",
+  "tijd": "21:57",
+  "nieuw": true,
+  "titel": "Stille tocht voor Alfredo Goeloe die overleed na arrestatie: 'Hoorde hem help roepen'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "burgemeester",
+   "geweld",
+   "grond",
+   "organisatie",
+   "stal"
+  ],
+  "samenvatting": "\"Ik ben heel boos\", zegt Charnelle Babel (37), de vrouw van Alfredo Goeloe. Ze is zeven maanden zwanger van hun eerste kind. Vanavond vond in Rotterdam-Zuid een stille tocht plaats ter nagedachtenis aan Goeloe. De 51-jarige Rotterdammer overleed zaterdagavond kort nadat hij door de politie was aangehouden aan het Vaarn",
+  "link": "https://nos.nl/l/2631007"
+ },
+ {
   "id": "266165d705",
   "datum": "2026-09-14",
   "tijd": "21:06",
@@ -10,21 +37,37 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Cocaine, haven & logistiek",
    "Corruptie & integriteit",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "bende",
-   "cocaïne",
-   "container",
    "criminele organisatie",
-   "haven",
-   "moord"
+   "organisatie",
+   "vertrouwelijke informatie"
   ],
   "samenvatting": "Het Openbaar Ministerie in België eist vijf jaar cel tegen de Nederlandse strafrechtadvocaat Cem Polat. Hij wordt verdacht van het doorspelen van vertrouwelijke informatie aan een Belgische drugsbaron. Polat was volgens het OM onderdeel van de criminele organisatie van Flor Bressers, de hoofdverdachte in een geruchtmak",
   "link": "https://nos.nl/l/2631004"
+ },
+ {
+  "id": "0f37e4557e",
+  "datum": "2026-09-14",
+  "tijd": "20:22",
+  "nieuw": true,
+  "titel": "Nieuwe getuigenoproep na kluisverklaring over vergismoord Rob Zweekhorst",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "moord",
+   "wapen"
+  ],
+  "samenvatting": "De politie stelt tijdelijk een speciaal telefoonnummer open waar mensen tips kunnen delen over de vergismoord op Rob Zweekhorst uit Berkel en Rodenrijs in 2014. Dat is maandag bekendgemaakt in het tv-programma Opsporing Verzocht. In de afgelopen maanden werd in de Ringvaartplas in Rotterdam gezocht naar het moordwapen.",
+  "link": "https://www.rijnmond.nl/nieuws/2253517/nieuwe-getuigenoproep-na-kluisverklaring-over-vergismoord-rob-zweekhorst"
  },
  {
   "id": "b6d362be25",
@@ -50,6 +93,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523782/almeerse-dief-(51)-slaat-toe-op-schiphol-en-heeft-koffer-vol-telefoons-en-cosmetica"
  },
  {
+  "id": "80ece98c97",
+  "datum": "2026-09-14",
+  "tijd": "19:16",
+  "nieuw": true,
+  "titel": "Sfeer slaat om tijdens stille tocht voor Alfredo: politiebureau bekogeld met stenen en vuurwerk, ME moet in actie komen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk"
+  ],
+  "samenvatting": "Honderden mensen hebben in Rotterdam-Zuid een stille tocht gelopen voor de 51-jarige Alfredo Goeloe, die zaterdagavond bij zijn arrestatie aan de Vaarnerkamp overleed. De stille tocht eindigde bij politiebureau Zuidplein. Daar liep de situatie uit de hand. De Mobiele Eenheid moest meerdere charges uitvoeren om de rust ",
+  "link": "https://www.rijnmond.nl/nieuws/2253485/sfeer-slaat-om-tijdens-stille-tocht-voor-alfredo-politiebureau-bekogeld-met-stenen-en-vuurwerk-me-moet-in-actie-komen"
+ },
+ {
   "id": "a2e59ad2bf",
   "datum": "2026-09-14",
   "tijd": "18:23",
@@ -67,6 +129,27 @@
   ],
   "samenvatting": "Bij een grote verkeerscontrole rond de Woenselse Markt en Kruisstraat in Eindhoven zijn vrijdag meer dan zestig verkeersboetes uitgedeeld. Ook werden 155 vapes gevonden. Dat meldt de politie Eindhoven maandag op Instagram. De politie hield de controle samen met de Belastingdienst en handhaving van de gemeente Eindhoven",
   "link": "https://www.omroepbrabant.nl/nieuws/6027184/grote-controle-in-eindhoven-ruim-zestig-boetes-155-vapes-en-aanhouding"
+ },
+ {
+  "id": "683e6a10eb",
+  "datum": "2026-09-14",
+  "tijd": "18:18",
+  "nieuw": true,
+  "titel": "Trein botst op vrachtwagen, gewapende man gemeld en vermiste man gevonden op maandag 14 september",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vrachtwagen",
+   "wapen"
+  ],
+  "samenvatting": "Een treinongeluk zorgde maandag voor een flinke ravage in Ermelo en in Lobith rukte de politie groots uit na een melding over een mogelijk vuurwapen. In Aalten kwam ondertussen goed nieuws over een vermiste man. Dit en meer gebeurde maandag 14 september in Gelderland.",
+  "link": "https://www.gld.nl/nieuws/8523305/trein-botst-op-vrachtwagen-gewapende-man-gemeld-en-vermiste-man-gevonden-op-maandag-14-september"
  },
  {
   "id": "aad5ef15ce",
@@ -244,7 +327,7 @@
   "id": "e2019008b7",
   "datum": "2026-09-14",
   "tijd": "15:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vliegtuigje dat vertrok uit Hilversum neergestort in Duitsland, drie doden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -265,7 +348,7 @@
   "id": "ec233d33de",
   "datum": "2026-09-14",
   "tijd": "15:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mysterie rondom schoten: 'Stropers trekken in groepen rond'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -284,7 +367,7 @@
   "id": "5913522a62",
   "datum": "2026-09-14",
   "tijd": "15:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nieuw spoor in mysterie rond schoten tussen Beers en Gassel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -303,7 +386,7 @@
   "id": "1c8916a531",
   "datum": "2026-09-14",
   "tijd": "15:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Directeur verdacht van betrokkenheid drugslab ziet bedrijf failliet gaan: ‘Liep voor zijn arrestatie nog goed’",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -550,27 +633,6 @@
   ],
   "samenvatting": "De actie startte na online advertenties.",
   "link": "https://www.omroepzeeland.nl/nieuws/18778630/invallen-bij-vier-sekswerkers-zonder-vergunning-in-zeeuws-vlaanderen"
- },
- {
-  "id": "87c4565bea",
-  "datum": "2026-09-14",
-  "tijd": "09:11",
-  "nieuw": false,
-  "titel": "Ruwe aardolie gelekt bij pompstation in Hoeven, druk van leiding gehaald",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "grond",
-   "haven"
-  ],
-  "samenvatting": "Bij het RAPL-pompstation (Rotterdam Antwerpen Pijpleiding) aan de Langeweg in Hoeven is maandagochtend ruwe aardolie in een speciale opvangput in het pomphuis gelekt. De druk is van de leiding gehaald. De ruwe aardolie is in de daarvoor bestemde put gelekt en niet op de grond terecht gekomen. De lekkage heeft geen geva",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027116/ruwe-aardolie-gelekt-bij-pompstation-in-hoeven-druk-van-leiding-gehaald"
  },
  {
   "id": "c0422da765",
@@ -1231,25 +1293,6 @@
   ],
   "samenvatting": "De man die zaterdagavond kort na zijn aanhouding in Rotterdam-Zuid overleed, werd door de politie verdacht van diefstal van een fatbike. Op beelden is te zien dat hij hardhandig gearresteerd werd en hevig verzet bood.",
   "link": "https://www.rijnmond.nl/nieuws/2252595/overleden-arrestant-51-werd-verdacht-van-diefstal-fatbike-boze-reacties-van-bewoners"
- },
- {
-  "id": "59fcf51842",
-  "datum": "2026-09-12",
-  "tijd": "22:44",
-  "nieuw": false,
-  "titel": "Man overleden bij aanhouding door politie in Rotterdam",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "In Rotterdam is gisteravond een man overleden bij een aanhouding door de politie. Hij reed op een fatbike, toen hij in Rotterdam-Zuid staande werd gehouden. Omstanders zeggen volgens omroep Rijnmond dat het gebeurde na een achtervolging. De man werd staande gehouden nadat de politie een melding had gekregen over een ge",
-  "link": "https://nos.nl/l/2630766"
  },
  {
   "id": "84a7e69a6a",
