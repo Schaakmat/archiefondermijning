@@ -1,5 +1,24 @@
 [
  {
+  "id": "38bf88d073",
+  "datum": "2026-09-14",
+  "tijd": "12:31",
+  "nieuw": true,
+  "titel": "A17 deze week vier nachten dicht tussen Roosendaal en knooppunt Noordhoek",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "De A17 is vanaf maandag vier nachten dicht op verschillende plekken tussen knooppunt Noordhoek en Roosendaal. Dit zorgt voor twintig minuten extra reistijd. Rijkswaterstaat voert van maandag 14 tot vrijdag 18 september onderhoud uit op de A17. De volgende stukken zijn dan dicht: Tussen knooppunt Noordhoek en Oud-Gastel",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027131/a17-deze-week-vier-nachten-dicht-tussen-roosendaal-en-knooppunt-noordhoek"
+ },
+ {
   "id": "12df37b377",
   "datum": "2026-09-14",
   "tijd": "12:23",
@@ -17,6 +36,25 @@
   ],
   "samenvatting": "Vorige week woensdag is in het Brabantse Dinteloord een 31-jarige man uit Polen aangehouden. De man wordt in zijn geboorteland verdacht van zware mishandeling en moord op zijn vader. De man was al enige tijd op de vlucht, maar op basis van nieuwe informatie kon de politie hem traceren. Agenten hielden hem aan terwijl h",
   "link": "https://nos.nl/l/2630950"
+ },
+ {
+  "id": "6ba921dd78",
+  "datum": "2026-09-14",
+  "tijd": "12:12",
+  "nieuw": true,
+  "titel": "Opa krijgt vier jaar cel voor misbruik kleinzoons: 'Liefde was wederzijds'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jeugd"
+  ],
+  "samenvatting": "Gerard van der K. (79) uit Veen heeft vier jaar cel gekregen voor het misbruiken van zijn twee kleinzoons. Dat heeft het gerechtshof in Den Bosch geoordeeld. Eerder kreeg deze opa nog drie jaar cel en een jaar voorwaardelijk van de rechtbank, maar het hof vindt vier jaar cel passender. Volgens het gerechtshof heeft Van",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027129/opa-krijgt-vier-jaar-cel-voor-misbruik-kleinzoons-liefde-was-wederzijds"
  },
  {
   "id": "f61c004543",
@@ -200,7 +238,7 @@
   "id": "60035f9f9a",
   "datum": "2026-09-14",
   "tijd": "05:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Milieuorganisatie sleept overheid voor de rechter om hout bij Amercentrale",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -219,7 +257,7 @@
   "id": "4af5ff6491",
   "datum": "2026-09-14",
   "tijd": "03:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto volledig in vlammen op, politie houdt alle scenario's open",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1066,29 +1104,6 @@
   ],
   "samenvatting": "In een bestelbus in Geffen hebben agenten vrijdagavond duizenden stuks zwaar illegaal vuurwerk gevonden. Die vondst leidde vervolgens naar een loods in Heesch. Daar werden naast vuurwerk ook drugs en airsoftwapens gevonden. Een man uit Geffen is opgepakt. De bus kreeg vrijdagavond een stopteken van surveillerende agent",
   "link": "https://www.omroepbrabant.nl/nieuws/6026960/grote-partij-zwaar-vuurwerk-in-bestelbus-en-loods-gevonden-man-opgepakt"
- },
- {
-  "id": "c2f1ff2c37",
-  "datum": "2026-09-12",
-  "tijd": "09:57",
-  "nieuw": false,
-  "titel": "Dokters willen minder vervuilende medicijnen voorschrijven, maar weten niet hoe",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Horeca, winkels & dienstverlening"
-  ],
-  "tags": [
-   "leider",
-   "stal",
-   "supermarkt"
-  ],
-  "samenvatting": "De meeste artsen willen graag medicatie voorschrijven die het milieu zo min mogelijk belast, maar ze missen de kennis om dit te doen. Dat blijkt uit onderzoek geleid door het Universitair Medisch Centrum Groningen in samenwerking met andere ziekenhuizen. Ook vrezen dokters dat het te veel tijd kost. Medicijnen zijn een",
-  "link": "https://nos.nl/l/2630673"
  },
  {
   "id": "cac9d72c77",
