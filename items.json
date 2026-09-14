@@ -1,5 +1,33 @@
 [
  {
+  "id": "b6d362be25",
+  "datum": "2026-09-14",
+  "tijd": "19:45",
+  "nieuw": true,
+  "titel": "Almere - Almeerse dief (51) slaat toe op Schiphol en heeft koffer vol telefoons en cosmetica",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Geweld, liquidaties & bedreiging",
+   "Horeca, winkels & dienstverlening",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "beveiliging",
+   "haven",
+   "horeca",
+   "schiphol",
+   "stal",
+   "witwassen"
+  ],
+  "samenvatting": "Een 51-jarige Almeerder wordt twee jaar in een inrichting voor stelselmatige daders geplaatst. Dat heeft de rechtbank Noord-Holland bepaald. De man liep in november vorig jaar tegen de lamp, nadat hij bij een horecagelegenheid op Schiphol een flesje appelsap ontvreemde. Het blijkt dat hij nog veel meer diefstallen op z",
+  "link": "https://www.omroepflevoland.nl/nieuws/523782/almeerse-dief-(51)-slaat-toe-op-schiphol-en-heeft-koffer-vol-telefoons-en-cosmetica"
+ },
+ {
   "id": "959c1189ae",
   "datum": "2026-09-14",
   "tijd": "17:51",
@@ -17,6 +45,25 @@
   ],
   "samenvatting": "\"Dit lokaal kunnen we als verloren beschouwen\". Dat zegt Ernst Meijer, één van de directeuren van basisschool De Zeearend in Lelystad. Het hele klaslokaal is vervuild met roet. Bij het raam waar het vuur begon is flinke brandschade. Aan de buitenkant van het raam stond een scooter die vrijdagavond in brand was gestoken",
   "link": "https://www.omroepflevoland.nl/nieuws/523757/basisschooldirecteur-na-vierde-brand-in-zes-jaar-tijd:-'ik-word-er-woest-van'"
+ },
+ {
+  "id": "5fe781a034",
+  "datum": "2026-09-14",
+  "tijd": "17:48",
+  "nieuw": true,
+  "titel": "Bromfietser slaat op de vlucht na ongeluk, maar buurtbewoners grijpen in",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een bestuurder van een bromfiets is maandagavond opgepakt nadat hij op de Meidoornstraat in Breda met een auto was gebotst. De man probeerde na het ongeluk te voet te vluchten, maar hij kwam niet ver: buurtbewoners hielden hem tegen. Het ongeluk gebeurde nadat de bromfietser geen voorrang gaf aan de auto, waar dat wel ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027182/bromfietser-slaat-op-de-vlucht-na-ongeluk-maar-buurtbewoners-grijpen-in"
  },
  {
   "id": "63e2b71d16",
@@ -253,29 +300,10 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523276/urker-buurt-bezorgd-en-politiek-krijgt-te-weinig-info-plan-voor-'fundamentele-wijziging'-oude-dorp-onder-vuur"
  },
  {
-  "id": "11f5177be5",
-  "datum": "2026-09-14",
-  "tijd": "14:37",
-  "nieuw": true,
-  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
-  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
- },
- {
   "id": "666c7e9209",
   "datum": "2026-09-14",
   "tijd": "14:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jeugdleider van Almelose brandweer bekent in omvangrijke zedenzaak",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",

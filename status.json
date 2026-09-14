@@ -1,12 +1,12 @@
 {
- "run": "17:39",
+ "run": "18:45",
  "datum": "2026-09-14",
  "nieuw": 14,
- "totaal": 3102,
- "verwijderd": 15,
+ "totaal": 3103,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1066,
-  "geen dossier": 505
+  "geen dossier": 233,
+  "niet-nederlands": 1
  },
  "bronnen": [
   {
@@ -15,8 +15,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 144,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Drugsproductie & labs",
@@ -33,8 +33,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 153,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Hennep & wietteelt",
@@ -51,8 +51,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 60,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Cocaine, haven & logistiek",
@@ -69,8 +69,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 206,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Witwassen & geldstromen",
@@ -87,8 +87,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 8,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Goudhandel & edelmetalen",
@@ -105,8 +105,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 67,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Crypto & digitaal geld",
@@ -123,8 +123,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 19,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Vastgoed & huisvesting",
@@ -141,8 +141,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 31,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Trustkantoren & rechtspersonen",
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -159,8 +159,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 46,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Bibob & bestuurlijke aanpak",
@@ -177,8 +177,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 6,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Horeca, winkels & dienstverlening",
@@ -195,8 +195,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 25,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Autobranche & garages",
@@ -213,8 +213,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 121,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Zorgfraude & sociale zekerheid",
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -231,8 +231,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 170,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Arbeidsuitbuiting & mensenhandel",
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -249,8 +249,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 87,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Wapens, explosieven & vuurwerk",
@@ -267,8 +267,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 59,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Geweld, liquidaties & bedreiging",
@@ -285,8 +285,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 40,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Corruptie & integriteit",
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -303,8 +303,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 18,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Buitengebied & recreatie",
@@ -321,8 +321,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 139,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Milieucriminaliteit & afval",
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -339,8 +339,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 29,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Criminele samenwerkingsverbanden",
@@ -357,8 +357,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 42,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Jeugd & jonge aanwas",
@@ -375,8 +375,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 21,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Ondernemers & weerbaarheid",
@@ -393,8 +393,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 48,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Beleid, wetgeving & toezicht",
@@ -402,17 +402,17 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
    "naam": "Rijksoverheid",
-   "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
+   "url": "feeds.rijksoverheid.nl/nieuws.rss",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 34,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Politie",
@@ -420,8 +420,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 58,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Openbaar Ministerie",
@@ -429,8 +429,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 125,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Rechtspraak — strafzaken",
@@ -438,8 +438,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 8,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "WODC",
@@ -447,8 +447,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 60,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "RIEC / LIEC / CCV",
@@ -456,8 +456,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 32,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "NOS — binnenland",
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 101,
-   "status": "6 nieuw",
+   "items": 102,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 92,
-   "status": "2 nieuw",
+   "items": 91,
+   "status": "bij",
    "ok": true
   },
   {
@@ -519,7 +519,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 0,
-   "status": "0 records",
+   "status": "fout 503",
    "ok": false
   },
   {
@@ -545,18 +545,18 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 46,
-   "status": "3 nieuw",
+   "items": 47,
+   "status": "4 nieuw",
    "ok": true
   },
   {
    "naam": "AT5 / Amsterdam",
-   "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
+   "url": "www.at5.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 55,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Regio — zuid & oost",
@@ -564,8 +564,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 95,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Gemeenten & burgemeesters",
@@ -573,8 +573,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 39,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   }
  ]
 }
