@@ -1,5 +1,70 @@
 [
  {
+  "id": "87c4565bea",
+  "datum": "2026-09-14",
+  "tijd": "09:11",
+  "nieuw": true,
+  "titel": "Ruwe aardolie gelekt bij pompstation in Hoeven, druk van leiding gehaald",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "haven",
+   "stal"
+  ],
+  "samenvatting": "Bij het RAPL-pompstation (Rotterdam Antwerpen Pijpleiding) aan de Langeweg in Hoeven is maandagochtend ruwe aardolie in een speciale opvangbak in het pomphuis gelekt. De brandweer heeft de druk van de leiding gehaald. Dankzij de stalen opvangbak is voorkomen dat de ruwe aardolie op de grond lekt. De lekkage heeft geen ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027116/ruwe-aardolie-gelekt-bij-pompstation-in-hoeven-druk-van-leiding-gehaald"
+ },
+ {
+  "id": "9bcc885eff",
+  "datum": "2026-09-14",
+  "tijd": "08:37",
+  "nieuw": true,
+  "titel": "Minderjarige nepagent steelt waardevolle spullen van bejaarde vrouw",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Een minderjarige jongen heeft zondagavond waardevolle spullen gestolen van een bejaarde vrouw op de Koperwiek in Etten-Leur. Hij deed zich voor als politieagent en doorzocht zo meerdere kamers in het huis. De jongen deed zich aan de voordeur voor als agent om zo het huis binnen te komen. Hij doorzocht meerdere kamers i",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027115/minderjarige-nepagent-steelt-waardevolle-spullen-van-bejaarde-vrouw"
+ },
+ {
+  "id": "96cc3fd18b",
+  "datum": "2026-09-14",
+  "tijd": "07:56",
+  "nieuw": true,
+  "titel": "Schoten gehoord in Beers: niks gevonden bij grote zoekactie van politie",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "explosie",
+   "geweld",
+   "wapen"
+  ],
+  "samenvatting": "Bij een grote zoekactie bij de Kraaijenbergse Plassen tussen Beers en Gassel is zondagavond niks gevonden door agenten. Er kwamen meerdere meldingen binnen van mensen die schoten hadden gehoord in het gebied. Tien agenten met kogelwerende vesten en een politiehelikopter doorzochten zondagavond het uitgestrekte gebied. ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027113/schoten-gehoord-in-beers-niks-gevonden-bij-grote-zoekactie-van-politie"
+ },
+ {
   "id": "016d459c21",
   "datum": "2026-09-14",
   "tijd": "07:44",
@@ -115,6 +180,27 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6027017/auto-volledig-in-vlammen-op-politie-houdt-alle-scenarios-open"
  },
  {
+  "id": "c115b958e5",
+  "datum": "2026-09-14",
+  "tijd": "03:41",
+  "nieuw": true,
+  "titel": "Auto brandt uit naast tandartspraktijk, politie onderzoekt brand",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "garage",
+   "pand"
+  ],
+  "samenvatting": "Een geparkeerde auto is in de nacht van zondag op maandag volledig uitgebrand aan de Grote Spie in Breda. De auto stond naast een tandartspraktijk. De gevel van het pand liep flinke schade op. De politie doet onderzoek of er mogelijk sprake is van brandstichting. Rond vijf voor drie vloog de auto, die bij een aantal ga",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027017/auto-brandt-uit-naast-tandartspraktijk-politie-onderzoekt-brand"
+ },
+ {
   "id": "f03b973000",
   "datum": "2026-09-14",
   "tijd": "03:03",
@@ -137,7 +223,7 @@
   "id": "477939a9b6",
   "datum": "2026-09-13",
   "tijd": "19:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw (45) opgepakt in onderzoek naar huurmoord via darkweb",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -156,7 +242,7 @@
   "id": "a60737d262",
   "datum": "2026-09-13",
   "tijd": "19:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (19) uit Zwijndrecht in woning aangehouden voor betrokkenheid schietpartij",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -550,25 +636,6 @@
   ],
   "samenvatting": "Twee jaar gevangenisstraf geëist tegen handelaar in luxe auto’s uit Naarden voor witwassen van grote sommen geld De Gooi- en Eemlander",
   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPLTY1b3d0UVBEUzlSWVV4YkNFNFY4c3VXLUdQMjBDUVFzVUxGd095bGxsNFlxamMtYmg1aV8tT3h3TGJCSVV0VUNxckxnb2V4X3plTjJVZXJ2Nnpnc1ktVnMzMEFOWEtGZXh3eHBDSG1hTTh6dEZxXzhfTWxxYjE4VWRsVEhyakZJNVRteU96RUFhRUFuR1N6OFdzNTVqUy03NzA2dHNiVVZ2RWV2endJM1YxY05JeUdzT3pfbFY2WDZ1dE84ZGQ4Nm9TSmUzTjZlSFIyREVGVU95TUp1dEZtd2hoTzdXTks4elc0QzNySlgzdDFwRGNkYWtCNlJlUUU4eUJyZGdicTZlRE0?oc=5"
- },
- {
-  "id": "24a23bcc60",
-  "datum": "2026-09-13",
-  "tijd": "05:00",
-  "nieuw": false,
-  "titel": "Een avondje Valkenbergpark: hoe onveilig is het nou echt? 'Rot op!'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "school"
-  ],
-  "samenvatting": "De veiligheid in het Valkenbergpark, of juist het gebrek daaraan, is een hot topic in Breda. Vorige maand nog werd een 41-jarige vrouw overvallen en begin september werden dertien overlastgevers in het park op de bon geslingerd. In augustus startte de gemeente Breda een onderzoek om uiteindelijk het park veiliger te ma",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026910/een-avondje-valkenbergpark-hoe-onveilig-is-het-nou-echt-rot-op"
  },
  {
   "id": "dee1448709",
