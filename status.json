@@ -1,12 +1,12 @@
 {
- "run": "09:34",
+ "run": "10:33",
  "datum": "2026-09-14",
- "nieuw": 11,
- "totaal": 3078,
- "verwijderd": 8,
+ "nieuw": 13,
+ "totaal": 3081,
+ "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1078,
-  "geen dossier": 510
+  "niet-nederlands": 1061,
+  "geen dossier": 508
  },
  "bronnen": [
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 120,
-   "status": "bij",
+   "items": 121,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 50,
-   "status": "4 nieuw",
+   "items": 51,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 95,
-   "status": "5 nieuw",
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 139,
-   "status": "bij",
+   "items": 140,
+   "status": "1 nieuw",
    "ok": true
   },
   {

@@ -1,5 +1,24 @@
 [
  {
+  "id": "12df37b377",
+  "datum": "2026-09-14",
+  "tijd": "12:23",
+  "nieuw": true,
+  "titel": "Poolse verdachte van moord op vader opgepakt in Dinteloord",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "Vorige week woensdag is in het Brabantse Dinteloord een 31-jarige man uit Polen aangehouden. De man wordt in zijn geboorteland verdacht van zware mishandeling en moord op zijn vader. De man was al enige tijd op de vlucht, maar op basis van nieuwe informatie kon de politie hem traceren. Agenten hielden hem aan terwijl h",
+  "link": "https://nos.nl/l/2630950"
+ },
+ {
   "id": "87c4565bea",
   "datum": "2026-09-14",
   "tijd": "09:11",
@@ -23,11 +42,11 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6027116/ruwe-aardolie-gelekt-bij-pompstation-in-hoeven-druk-van-leiding-gehaald"
  },
  {
-  "id": "9bcc885eff",
+  "id": "c0422da765",
   "datum": "2026-09-14",
   "tijd": "08:37",
   "nieuw": true,
-  "titel": "Minderjarige nepagent steelt waardevolle spullen van bejaarde vrouw",
+  "titel": "Bejaarde vrouw in Etten-Leur van waardevolle spullen bestolen door nepagent",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -39,7 +58,26 @@
    "stal"
   ],
   "samenvatting": "Een minderjarige jongen heeft zondagavond waardevolle spullen gestolen van een bejaarde vrouw op de Koperwiek in Etten-Leur. Hij deed zich voor als politieagent en doorzocht zo meerdere kamers in het huis. De jongen deed zich aan de voordeur voor als agent om zo het huis binnen te komen. Hij doorzocht meerdere kamers i",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027115/minderjarige-nepagent-steelt-waardevolle-spullen-van-bejaarde-vrouw"
+  "link": "https://www.omroepbrabant.nl/nieuws/6027115/bejaarde-vrouw-in-etten-leur-van-waardevolle-spullen-bestolen-door-nepagent"
+ },
+ {
+  "id": "6c4b37103f",
+  "datum": "2026-09-14",
+  "tijd": "08:32",
+  "nieuw": true,
+  "titel": "Trein met ongeveer 150 reizigers botst op vrachtwagen, chauffeur gewond",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Een trein is maandagochtend op de Horsterweg in Ermelo op een vrachtwagen gebotst. De vrachtwagenchauffeur is volgens de politie met lichte verwondingen naar het ziekenhuis gebracht. De ravage is groot.",
+  "link": "https://www.gld.nl/nieuws/8522950/trein-met-ongeveer-150-reizigers-botst-op-vrachtwagen-chauffeur-gewond"
  },
  {
   "id": "96cc3fd18b",
@@ -190,11 +228,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages",
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "garage",
    "pand"
   ],
   "samenvatting": "Een geparkeerde auto is in de nacht van zondag op maandag volledig uitgebrand aan de Grote Spie in Breda. De auto stond naast een tandartspraktijk. De gevel van het pand liep flinke schade op. De politie doet onderzoek of er mogelijk sprake is van brandstichting. Rond vijf voor drie vloog de auto, die bij een aantal ga",
@@ -436,6 +472,25 @@
   ],
   "samenvatting": "Drie van de acht gedumpte kittens die eind augustus gevonden werden op een carpoolplaats in Emmeloord, hebben inmiddels een nieuw thuis gevonden. Dat meldt Dierenambulance Witte Gerrit op Facebook. De dieren werden samen met twee moederpoezen gevonden en waren er volgens de dierenambulance slecht aan toe. De politie kr",
   "link": "https://www.omroepflevoland.nl/nieuws/523645/drie-van-de-acht-gedumpte-kittens-hebben-een-nieuw-huis-gevonden"
+ },
+ {
+  "id": "e9bf62d96b",
+  "datum": "2026-09-13",
+  "tijd": "12:45",
+  "nieuw": false,
+  "titel": "Burgemeester Ton Heerts jaagt op zorgcriminelen en dat gaat niet om geld",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Burgemeester Ton Heerts jaagt op zorgcriminelen en dat gaat niet om geld de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTWZ2bVlJV2VFek1QNjVaWi1WRzg4QTB2WkJXR3djZFlRTWx6bVdfYmtLRWRjQTFFTU1XT1NwNnVVUEptazltWDJFbElxMHN6dkV3akh6RkVTdHZmQ1JFRWZKNHZwY2lkeTJESlBjOURmWlZlVWtxUzJoTkozWmFOUnBueVYyZW45cGVEdVFhQXd2Ty1HeXJwQzlTeDZRdEJJYkRZX3hYWFU1RFdSRmRVTmc0WW15ODgy?oc=5"
  },
  {
   "id": "6a374bcc0f",
