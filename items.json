@@ -1,5 +1,26 @@
 [
  {
+  "id": "e2019008b7",
+  "datum": "2026-09-14",
+  "tijd": "15:58",
+  "nieuw": true,
+  "titel": "Vliegtuigje dat vertrok uit Hilversum neergestort in Duitsland, drie doden",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "school",
+   "stort"
+  ],
+  "samenvatting": "Bij de plaats Erkelenz net over de Duitse grens bij Roermond is een klein vliegtuigje neergestort, drie mensen zijn om het leven gekomen. Dat melden Duitse media. Het vliegtuig stond geregistreerd bij de Vliegschool Hilversum. \"Met grote bezorgdheid delen wij mee dat er een ongeval heeft plaatsgevonden in Duitsland met",
+  "link": "https://nos.nl/l/2630973"
+ },
+ {
   "id": "e5fe4ade15",
   "datum": "2026-09-14",
   "tijd": "15:23",
@@ -22,6 +43,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523276/urker-buurt-bezorgd-en-politiek-krijgt-te-weinig-info-plan-voor-'fundamentele-wijziging'-oude-dorp-onder-vuur"
  },
  {
+  "id": "014992a1f5",
+  "datum": "2026-09-14",
+  "tijd": "14:03",
+  "nieuw": true,
+  "titel": "Politie houdt twee mannen uit Epe aan op A1 na verkeersconflict",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Twee mannen uit Epe zijn gisteren op de A1 ter hoogte van Holten aangehouden na een verkeersconflict waarbij mogelijk een wapen is gezien. Volgens voorbijgangers hielden agenten de verdachten bij de aanhouding onder schot.",
+  "link": "https://www.oost.nl/nieuws/3695519/politie-houdt-twee-mannen-uit-epe-aan-op-a1-na-verkeersconflict"
+ },
+ {
   "id": "eb12a3f502",
   "datum": "2026-09-14",
   "tijd": "13:35",
@@ -32,17 +72,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
    "cocaïne",
-   "container",
-   "douane",
-   "haven",
-   "netwerk",
-   "stal"
+   "douane"
   ],
   "samenvatting": "In Ghana zijn drie handlangers van Bolle Jos aangehouden. Volgens de Ghanese narcoticadienst vertegenwoordigden de verdachten de uit Breda afkomstige drugscrimineel en faciliteerden ze zijn activiteiten. De arrestaties volgden op een onderschepping van een cocaïnevracht door de Franse douane, schrijft de narcoticadiens",
   "link": "https://www.omroepbrabant.nl/nieuws/6027141/drie-handlangers-van-drugscrimineel-bolle-jos-opgepakt-in-ghana"
@@ -141,6 +175,25 @@
   ],
   "samenvatting": "Het Zwitserse Openbaar Ministerie is een onderzoek gestart naar de chauffeur die achter het stuur zat bij het dodelijke busongeluk in Zwitserland. Afgelopen donderdag raakte de Oad-touringcar van de weg en kantelde. Vijf inzittenden kwamen om het leven, onder wie een 75-jarige vrouw uit Uden. De Zwitserse autoriteiten ",
   "link": "https://www.omroepbrabant.nl/nieuws/6027126/strafrechtelijk-onderzoek-gestart-naar-chauffeur-van-dodelijk-busongeluk"
+ },
+ {
+  "id": "a1caff7499",
+  "datum": "2026-09-14",
+  "tijd": "10:38",
+  "nieuw": true,
+  "titel": "Invallen bij vier sekswerkers zonder vergunning in Zeeuws-Vlaanderen",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "vergunning"
+  ],
+  "samenvatting": "De actie startte na online advertenties.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18778630/invallen-bij-vier-sekswerkers-zonder-vergunning-in-zeeuws-vlaanderen"
  },
  {
   "id": "87c4565bea",
@@ -285,7 +338,7 @@
   "id": "5482a6a208",
   "datum": "2026-09-14",
   "tijd": "07:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Een primeur voor Oost-Vlaanderen: Ronse richt eerste criminaliteitscel GIEC op in strijd tegen fraude en ondermijnende criminaliteit",
   "bron": "HLN",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -305,7 +358,7 @@
   "id": "60035f9f9a",
   "datum": "2026-09-14",
   "tijd": "05:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Milieuorganisatie sleept overheid voor de rechter om hout bij Amercentrale",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -3606,25 +3659,6 @@
   ],
   "samenvatting": "De Hardenbergerbrug, waar de A28 overheen loopt, blijft vanwege herstelwerkzaamheden in ieder geval vandaag nog afgesloten. Minister Karremans waarschuwde eerder dit jaar al dat circa 80 miljard euro nodig is om achterstallig onderhoud aan wegen, bruggen en spoor aan te pakken.",
   "link": "https://www.gld.nl/nieuws/8453152/zorgen-om-achterstallig-onderhoud-miljarden-nodig-voor-bruggen-en-wegen"
- },
- {
-  "id": "7bf344ea3d",
-  "datum": "2026-09-09",
-  "tijd": "08:24",
-  "nieuw": false,
-  "titel": "Eerste zitting niet in Middelburg, maar Breda • Datum pro-formazitting bekend",
-  "bron": "Omroep Zeeland",
-  "verzameld_via": "Omroep Zeeland",
-  "soort": "Nieuwsbericht",
-  "regio": "Zeeland",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "school"
-  ],
-  "samenvatting": "Bij een tragisch verkeersongeval op de N290 bij Terhole zijn op donderdag 11 juni drie leerlingen uit groep 8 en de directeur van basisschool De Warande uit Axel om het leven gekomen. De slachtoffers maakten deel uit van een groep die op de fiets onderweg was naar schoolkamp. Vier dodelijke slachtoffers bij aanrijding ",
-  "link": "https://www.omroepzeeland.nl/nieuws/18532638/eerste-zitting-niet-in-middelburg-maar-breda-datum-pro-formazitting-bekend"
  },
  {
   "id": "10943b5c8a",
@@ -58639,6 +58673,25 @@
   ],
   "samenvatting": "Zelf de gevaren ontdekken van illegale hennepteelt in Overvechtse 'kwekerij' RTV Utrecht",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkJPVmJTbXlxQU8tbG1ocWpTcUJLcDdYSWNWOW5jTUtoWjF3d0x3WEJfQ1hHdGg2M2tWcm9raDFWak5FY3dxNzBWN19Pclp2NGUtNnltZjd2Y1I5NkNJbGYyYTdzOXBDQ3lhZEo0NVRlbEo5NVJGLXFZRWhMUDAtMnRKNml3YU5zb2RUblVhcHpNYktMZzM5M1pkWWFPNUNQeC1Oc2NPanh1VVlXYTBhX2hJT0VUZw?oc=5"
+ },
+ {
+  "id": "85624ad277",
+  "datum": "2018-11-29",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "FIOD verdenkt echtpaar van fraude met sloopgoud",
+  "bron": "FIOD",
+  "verzameld_via": "Nieuws — Goudhandel & edelmetalen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "goud"
+  ],
+  "samenvatting": "FIOD verdenkt echtpaar van fraude met sloopgoud FIOD",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84LW9CVUU5RnZRbTNMdUF6dTV5M1NfYldrSzc5bTNIU2FxdzZwdDhwVTJUT1Zhb0pWRldfRWRyblN5WHVyUjllTXB1WjlVMnFyMnBCWUtEQjhKRVBmRUFMbFYxN01tT2JPMUFaT3k4YUZTSGwtM0hn?oc=5"
  },
  {
   "id": "6dad7ae2fd",

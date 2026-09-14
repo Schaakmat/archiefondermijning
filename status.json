@@ -1,12 +1,12 @@
 {
- "run": "13:38",
+ "run": "14:37",
  "datum": "2026-09-14",
- "nieuw": 16,
- "totaal": 3088,
- "verwijderd": 12,
+ "nieuw": 17,
+ "totaal": 3091,
+ "verwijderd": 14,
  "geweigerd": {
   "niet-nederlands": 1071,
-  "geen dossier": 506
+  "geen dossier": 508
  },
  "bronnen": [
   {
@@ -86,8 +86,8 @@
    "url": "news.google.com/rss/search?q=goudhandel%20witwassen%20OR%20goudopkoper%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 7,
-   "status": "bij",
+   "items": 8,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: TimeoutError",
    "ok": false
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 50,
-   "status": "3 nieuw",
+   "items": 51,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 99,
-   "status": "8 nieuw",
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 56,
-   "status": "bij",
+   "items": 57,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -555,7 +555,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 55,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
