@@ -1,11 +1,11 @@
 {
- "run": "14:37",
+ "run": "15:36",
  "datum": "2026-09-14",
  "nieuw": 17,
- "totaal": 3091,
+ "totaal": 3094,
  "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1071,
+  "niet-nederlands": 1068,
   "geen dossier": 508
  },
  "bronnen": [
@@ -87,7 +87,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 8,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: TimeoutError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 169,
-   "status": "bij",
+   "items": 170,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 86,
-   "status": "bij",
+   "items": 87,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 99,
-   "status": "7 nieuw",
+   "items": 100,
+   "status": "8 nieuw",
    "ok": true
   },
   {
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 23,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 57,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
