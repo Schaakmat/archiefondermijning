@@ -1,12 +1,12 @@
 {
- "run": "04:33",
+ "run": "05:31",
  "datum": "2026-09-14",
- "nieuw": 12,
- "totaal": 3071,
- "verwijderd": 9,
+ "nieuw": 9,
+ "totaal": 3070,
+ "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1086,
-  "geen dossier": 523
+  "niet-nederlands": 1056,
+  "geen dossier": 509
  },
  "bronnen": [
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 90,
-   "status": "3 nieuw",
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 22,
-   "status": "1 nieuw",
+   "items": 21,
+   "status": "bij",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 56,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

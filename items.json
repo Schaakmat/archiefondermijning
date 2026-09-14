@@ -10,11 +10,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages",
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "garage",
    "pand"
   ],
   "samenvatting": "Een geparkeerde auto is in de nacht van zondag op maandag volledig uitgebrand aan de Grote Spie in Breda. De auto stond naast een tandartspraktijk. De gevel van het pand liep flinke schade op. De politie doet onderzoek of er mogelijk sprake is van brandstichting. Rond vijf voor drie vloog de auto, die bij een aantal ga",
@@ -181,7 +179,7 @@
   "id": "11def2e3aa",
   "datum": "2026-09-13",
   "tijd": "16:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "13/9 in Nieuwsuur: Neemt AI de wereld over? • Portret Jesse Klaver",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -200,7 +198,7 @@
   "id": "f35ef3b917",
   "datum": "2026-09-13",
   "tijd": "15:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Brief met waarschuwingssticker moet Drontenaren weerbaar maken tegen nepagenten",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -221,7 +219,7 @@
   "id": "1630de9a3a",
   "datum": "2026-09-13",
   "tijd": "14:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - Drie van de acht gedumpte kittens hebben een nieuw huis gevonden",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -3271,25 +3269,6 @@
   ],
   "samenvatting": "De Hardenbergerbrug, waar de A28 overheen loopt, blijft vanwege herstelwerkzaamheden in ieder geval vandaag nog afgesloten. Minister Karremans waarschuwde eerder dit jaar al dat circa 80 miljard euro nodig is om achterstallig onderhoud aan wegen, bruggen en spoor aan te pakken.",
   "link": "https://www.gld.nl/nieuws/8453152/zorgen-om-achterstallig-onderhoud-miljarden-nodig-voor-bruggen-en-wegen"
- },
- {
-  "id": "7bf344ea3d",
-  "datum": "2026-09-09",
-  "tijd": "08:24",
-  "nieuw": false,
-  "titel": "Eerste zitting niet in Middelburg, maar Breda • Datum pro-formazitting bekend",
-  "bron": "Omroep Zeeland",
-  "verzameld_via": "Omroep Zeeland",
-  "soort": "Nieuwsbericht",
-  "regio": "Zeeland",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "school"
-  ],
-  "samenvatting": "Bij een tragisch verkeersongeval op de N290 bij Terhole zijn op donderdag 11 juni drie leerlingen uit groep 8 en de directeur van basisschool De Warande uit Axel om het leven gekomen. De slachtoffers maakten deel uit van een groep die op de fiets onderweg was naar schoolkamp. Vier dodelijke slachtoffers bij aanrijding ",
-  "link": "https://www.omroepzeeland.nl/nieuws/18532638/eerste-zitting-niet-in-middelburg-maar-breda-datum-pro-formazitting-bekend"
  },
  {
   "id": "10943b5c8a",
