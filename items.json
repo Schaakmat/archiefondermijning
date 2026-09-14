@@ -1,5 +1,72 @@
 [
  {
+  "id": "e5fe4ade15",
+  "datum": "2026-09-14",
+  "tijd": "15:23",
+  "nieuw": true,
+  "titel": "Urk - Urker buurt bezorgd en politiek krijgt te weinig info, plan voor 'fundamentele wijziging' Oude Dorp onder vuur",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "Past er aan de rand van het Oude Dorp op Urk een wooncomplex van meer dan veertien meter hoog, waar nu nog een gebouw van zes meter hoog staat? Over die vraag heeft de Urker politiek zich gebogen. Voorafgaand aan de politieke discussie vertelde een verontruste Urkse, namens tientallen buren, over de grote zorgen die er",
+  "link": "https://www.omroepflevoland.nl/nieuws/523276/urker-buurt-bezorgd-en-politiek-krijgt-te-weinig-info-plan-voor-'fundamentele-wijziging'-oude-dorp-onder-vuur"
+ },
+ {
+  "id": "eb12a3f502",
+  "datum": "2026-09-14",
+  "tijd": "13:35",
+  "nieuw": true,
+  "titel": "Drie handlangers van drugscrimineel Bolle Jos opgepakt in Ghana",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "cocaïne",
+   "container",
+   "douane",
+   "haven",
+   "netwerk",
+   "stal"
+  ],
+  "samenvatting": "In Ghana zijn drie handlangers van Bolle Jos aangehouden. Volgens de Ghanese narcoticadienst vertegenwoordigden de verdachten de uit Breda afkomstige drugscrimineel en faciliteerden ze zijn activiteiten. De arrestaties volgden op een onderschepping van een cocaïnevracht door de Franse douane, schrijft de narcoticadiens",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027141/drie-handlangers-van-drugscrimineel-bolle-jos-opgepakt-in-ghana"
+ },
+ {
+  "id": "9471ea8750",
+  "datum": "2026-09-14",
+  "tijd": "12:57",
+  "nieuw": true,
+  "titel": "Belangrijke handlanger van ‘Bolle Jos’ opgepakt in Ghana na reeks cocaïnevangsten - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne"
+  ],
+  "samenvatting": "Belangrijke handlanger van ‘Bolle Jos’ opgepakt in Ghana na reeks cocaïnevangsten Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1pyRGg3endCX210YmtXUWVPTlRiQWlTNEJ4SGRKZThrZ2czVjR1SjVmNDcwak5ETlBuS1dxOExuQkRuLVBsVW4xYjZrMEFuSEduSC02cWFYdFlZQUxReXlhLXNpa1hHWnRnNWJmTEpTeU9ISFQzd3dNZXM3RlB3TEVJZ1FWWDhhcnVCWUZDZlplM3JBR3oyNnEzUWZOaDhCQU1QOHBFNUdLVVlhS05udnBTSGRuZldRcW9ZZUhB?oc=5"
+ },
+ {
   "id": "38bf88d073",
   "datum": "2026-09-14",
   "tijd": "12:31",
@@ -238,7 +305,7 @@
   "id": "60035f9f9a",
   "datum": "2026-09-14",
   "tijd": "05:40",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Milieuorganisatie sleept overheid voor de rechter om hout bij Amercentrale",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -3539,6 +3606,25 @@
   ],
   "samenvatting": "De Hardenbergerbrug, waar de A28 overheen loopt, blijft vanwege herstelwerkzaamheden in ieder geval vandaag nog afgesloten. Minister Karremans waarschuwde eerder dit jaar al dat circa 80 miljard euro nodig is om achterstallig onderhoud aan wegen, bruggen en spoor aan te pakken.",
   "link": "https://www.gld.nl/nieuws/8453152/zorgen-om-achterstallig-onderhoud-miljarden-nodig-voor-bruggen-en-wegen"
+ },
+ {
+  "id": "7bf344ea3d",
+  "datum": "2026-09-09",
+  "tijd": "08:24",
+  "nieuw": false,
+  "titel": "Eerste zitting niet in Middelburg, maar Breda • Datum pro-formazitting bekend",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school"
+  ],
+  "samenvatting": "Bij een tragisch verkeersongeval op de N290 bij Terhole zijn op donderdag 11 juni drie leerlingen uit groep 8 en de directeur van basisschool De Warande uit Axel om het leven gekomen. De slachtoffers maakten deel uit van een groep die op de fiets onderweg was naar schoolkamp. Vier dodelijke slachtoffers bij aanrijding ",
+  "link": "https://www.omroepzeeland.nl/nieuws/18532638/eerste-zitting-niet-in-middelburg-maar-breda-datum-pro-formazitting-bekend"
  },
  {
   "id": "10943b5c8a",
