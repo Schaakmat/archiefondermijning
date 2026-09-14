@@ -1,5 +1,45 @@
 [
  {
+  "id": "4af5ff6491",
+  "datum": "2026-09-14",
+  "tijd": "03:41",
+  "nieuw": true,
+  "titel": "Auto volledig in vlammen op, politie houdt alle scenario's open",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "garage",
+   "pand"
+  ],
+  "samenvatting": "Een geparkeerde auto is in de nacht van zondag op maandag volledig uitgebrand aan de Grote Spie in Breda. De auto stond naast een tandartspraktijk. De gevel van het pand liep flinke schade op. De politie doet onderzoek of er mogelijk sprake is van brandstichting. Rond vijf voor drie vloog de auto, die bij een aantal ga",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027017/auto-volledig-in-vlammen-op-politie-houdt-alle-scenarios-open"
+ },
+ {
+  "id": "f03b973000",
+  "datum": "2026-09-14",
+  "tijd": "03:03",
+  "nieuw": true,
+  "titel": "Aantal Thaise massagesalons verdrievoudigd in Overijssel: 'Soms moet klant huilen'",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "massagesalon"
+  ],
+  "samenvatting": "Je hoofd en nek laten masseren of een full-bodymassage: Thaise massagesalons schieten de afgelopen jaren als paddenstoelen uit de grond in Overijssel. In tien jaar tijd is het aantal salons verdrievoudigd. Waarom het zo populair is? \"Zo'n massage helpt enorm voor je lichaam en spieren.\"",
+  "link": "https://www.oost.nl/nieuws/3694278/aantal-thaise-massagesalons-verdrievoudigd-in-overijssel-soms-moet-klant-huilen"
+ },
+ {
   "id": "477939a9b6",
   "datum": "2026-09-13",
   "tijd": "19:57",
@@ -181,7 +221,7 @@
   "id": "1630de9a3a",
   "datum": "2026-09-13",
   "tijd": "14:47",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Emmeloord - Drie van de acht gedumpte kittens hebben een nieuw huis gevonden",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -3231,6 +3271,25 @@
   ],
   "samenvatting": "De Hardenbergerbrug, waar de A28 overheen loopt, blijft vanwege herstelwerkzaamheden in ieder geval vandaag nog afgesloten. Minister Karremans waarschuwde eerder dit jaar al dat circa 80 miljard euro nodig is om achterstallig onderhoud aan wegen, bruggen en spoor aan te pakken.",
   "link": "https://www.gld.nl/nieuws/8453152/zorgen-om-achterstallig-onderhoud-miljarden-nodig-voor-bruggen-en-wegen"
+ },
+ {
+  "id": "7bf344ea3d",
+  "datum": "2026-09-09",
+  "tijd": "08:24",
+  "nieuw": false,
+  "titel": "Eerste zitting niet in Middelburg, maar Breda • Datum pro-formazitting bekend",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school"
+  ],
+  "samenvatting": "Bij een tragisch verkeersongeval op de N290 bij Terhole zijn op donderdag 11 juni drie leerlingen uit groep 8 en de directeur van basisschool De Warande uit Axel om het leven gekomen. De slachtoffers maakten deel uit van een groep die op de fiets onderweg was naar schoolkamp. Vier dodelijke slachtoffers bij aanrijding ",
+  "link": "https://www.omroepzeeland.nl/nieuws/18532638/eerste-zitting-niet-in-middelburg-maar-breda-datum-pro-formazitting-bekend"
  },
  {
   "id": "10943b5c8a",
