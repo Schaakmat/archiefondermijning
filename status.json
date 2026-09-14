@@ -1,12 +1,12 @@
 {
- "run": "10:33",
+ "run": "11:33",
  "datum": "2026-09-14",
- "nieuw": 13,
- "totaal": 3081,
+ "nieuw": 12,
+ "totaal": 3083,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1061,
-  "geen dossier": 508
+  "niet-nederlands": 1099,
+  "geen dossier": 532
  },
  "bronnen": [
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 121,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -284,8 +284,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 39,
-   "status": "bij",
+   "items": 40,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 51,
-   "status": "5 nieuw",
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 95,
-   "status": "4 nieuw",
+   "items": 96,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 140,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

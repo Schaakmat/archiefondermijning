@@ -19,6 +19,25 @@
   "link": "https://nos.nl/l/2630950"
  },
  {
+  "id": "f61c004543",
+  "datum": "2026-09-14",
+  "tijd": "11:20",
+  "nieuw": true,
+  "titel": "Strafrechtelijk onderzoek gestart naar chauffeur van dodelijk busongeluk",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "Het Zwitserse Openbaar Ministerie is een onderzoek gestart naar de chauffeur die achter het stuur zat bij het dodelijke busongeluk in Zwitserland. Afgelopen donderdag raakte de Oad-touringcar van de weg en kantelde. Vijf inzittenden kwamen om het leven, onder wie een 75-jarige vrouw uit Uden. De Zwitserse autoriteiten ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027126/strafrechtelijk-onderzoek-gestart-naar-chauffeur-van-dodelijk-busongeluk"
+ },
+ {
   "id": "87c4565bea",
   "datum": "2026-09-14",
   "tijd": "09:11",
@@ -29,16 +48,14 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Cocaine, haven & logistiek",
    "Milieucriminaliteit & afval"
   ],
   "tags": [
    "grond",
-   "haven",
-   "stal"
+   "haven"
   ],
-  "samenvatting": "Bij het RAPL-pompstation (Rotterdam Antwerpen Pijpleiding) aan de Langeweg in Hoeven is maandagochtend ruwe aardolie in een speciale opvangbak in het pomphuis gelekt. De brandweer heeft de druk van de leiding gehaald. Dankzij de stalen opvangbak is voorkomen dat de ruwe aardolie op de grond lekt. De lekkage heeft geen ",
+  "samenvatting": "Bij het RAPL-pompstation (Rotterdam Antwerpen Pijpleiding) aan de Langeweg in Hoeven is maandagochtend ruwe aardolie in een speciale opvangput in het pomphuis gelekt. De druk is van de leiding gehaald. De ruwe aardolie is in de daarvoor bestemde put gelekt en niet op de grond terecht gekomen. De lekkage heeft geen geva",
   "link": "https://www.omroepbrabant.nl/nieuws/6027116/ruwe-aardolie-gelekt-bij-pompstation-in-hoeven-druk-van-leiding-gehaald"
  },
  {
@@ -221,7 +238,7 @@
   "id": "c115b958e5",
   "datum": "2026-09-14",
   "tijd": "03:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto brandt uit naast tandartspraktijk, politie onderzoekt brand",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -240,7 +257,7 @@
   "id": "f03b973000",
   "datum": "2026-09-14",
   "tijd": "03:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aantal Thaise massagesalons verdrievoudigd in Overijssel: 'Soms moet klant huilen'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -2281,6 +2298,27 @@
   ],
   "samenvatting": "Burgemeester sluit woning met drugslab aan Saturnus voor drie maanden RTV Lansingerland",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajA5dFd3cGV4T3prWTc3bDlpaEdyTWhaNHY1a3kyYUhNVWdXLUtwdXRzYUxtQXlyRDhZN2twWWdnaHJrOGRMN1BnMGxRTTJBNkI1aGsxRElDcHlCeUw1al9ZZGlHNXlvOXBNRUc3RnlORVhvLThyWlk3WWJjNEZERDJaMFpFWlAtcmJvS0xyTlFMWWJJaDRIM3h3SWt6MTBLODhYdnZKV0FDbVJKMmgtWDNlWXhRdjF6XzlF?oc=5"
+ },
+ {
+  "id": "002ce804b6",
+  "datum": "2026-09-10",
+  "tijd": "15:13",
+  "nieuw": false,
+  "titel": "Onderzoek naar corruptie bij cardiologen, acht panden doorzocht",
+  "bron": "RTL.nl",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "corruptie",
+   "pand"
+  ],
+  "samenvatting": "Onderzoek naar corruptie bij cardiologen, acht panden doorzocht RTL.nl",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb0JmdmsxbWNlS3FlRnVENG9TbjVRR2E5N1VkeVNBMmsxeHlpcXd5Uk4wT0ozdzFObHY3dWxnTnFrRkdvZUFnRXlBZDcwQVZDcEFDMzc4OHM5Y0lRNnZKcVlyckNUYklaQnBObDJNODNsVDJIVjVLYnJQMmc5c1dtYjIwZlZUcjRremJqTVVubTR4bWl2aVJQUkw4VXotYzQtM0J3ZkRCbHVwc1VVUjNTdVVYUFg0LWhj?oc=5"
  },
  {
   "id": "38bce76ab6",
