@@ -1,5 +1,32 @@
 [
  {
+  "id": "4be288b899",
+  "datum": "2026-09-15",
+  "tijd": "07:24",
+  "nieuw": true,
+  "titel": "Stel mishandeld na 'grapje' in parkeergarage, cel- en taakstraffen opgelegd",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages",
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval",
+   "Trustkantoren & rechtspersonen",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bestuurder",
+   "explosie",
+   "garage",
+   "geweld",
+   "grond"
+  ],
+  "samenvatting": "Een discussie in een parkeergarage in Eindhoven tussen een Belgisch stel en een groep jongens uit Boxtel, Liempde en Son liep vier jaar geleden volledig uit de hand. Binnen een paar minuten ontstond een massale vechtpartij waarbij het zwaargewond raakte. Een verdachte kreeg maandag een celstraf, vier anderen kregen taa",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027185/stel-mishandeld-na-grapje-in-parkeergarage-cel-en-taakstraffen-opgelegd"
+ },
+ {
   "id": "cced279066",
   "datum": "2026-09-15",
   "tijd": "06:50",
@@ -36,7 +63,7 @@
    "beveiliging",
    "schiphol"
   ],
-  "samenvatting": "Door een grote storing is het treinverkeer in grote delen van Nederland ontregeld. Volgens spoorbeheerder ProRail gaat het vermoedelijk om sabotage. \"Op meerdere plekken op het spoor zijn materialen aangetroffen die daar bewust zijn neergelegd\", zegt een woordvoerder. \"Er lijkt sprake van sabotage.\" Er zijn volgens de ",
+  "samenvatting": "Door een grote storing is het treinverkeer in grote delen van Nederland ontregeld. Volgens spoorbeheerder ProRail gaat het vermoedelijk om sabotage. \"Op meerdere plekken op het spoor zijn materialen aangetroffen die daar bewust zijn neergelegd\", zegt een woordvoerder. \"Er lijkt sprake van sabotage.\" De spoorbeheerder s",
   "link": "https://nos.nl/l/2631022"
  },
  {
@@ -226,6 +253,27 @@
   "link": "https://www.rijnmond.nl/nieuws/2253517/nieuwe-getuigenoproep-na-kluisverklaring-over-vergismoord-rob-zweekhorst"
  },
  {
+  "id": "e2b0917b84",
+  "datum": "2026-09-14",
+  "tijd": "20:22",
+  "nieuw": true,
+  "titel": "Mysterieuze kluisverklaring geeft nieuw spoor in vergismoord Rob Zweekhorst",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "moord",
+   "wapen"
+  ],
+  "samenvatting": "De politie stelt tijdelijk een speciaal telefoonnummer open waar mensen tips kunnen delen over de vergismoord op Rob Zweekhorst uit Berkel en Rodenrijs in 2014. Dat is maandag bekendgemaakt in het tv-programma Opsporing Verzocht. In de afgelopen maanden werd in de Ringvaartplas in Rotterdam gezocht naar het moordwapen.",
+  "link": "https://www.rijnmond.nl/nieuws/2253517/mysterieuze-kluisverklaring-geeft-nieuw-spoor-in-vergismoord-rob-zweekhorst"
+ },
+ {
   "id": "b6d362be25",
   "datum": "2026-09-14",
   "tijd": "19:45",
@@ -249,10 +297,29 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523782/almeerse-dief-(51)-slaat-toe-op-schiphol-en-heeft-koffer-vol-telefoons-en-cosmetica"
  },
  {
+  "id": "69edf00b73",
+  "datum": "2026-09-14",
+  "tijd": "19:20",
+  "nieuw": false,
+  "titel": "Korenfestival Amusing neemt sabbatical, volgend jaar geen 21e editie",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "Er komt geen nieuwe editie van het korenfestival Amusing in Hengelo. Na het twintigjarig jubileum van dit jaar neemt de organisatie een pauze en onderzoekt ze hoe het festival in de toekomst verder kan.",
+  "link": "https://www.oost.nl/cultuur/3695557/korenfestival-amusing-neemt-sabbatical-volgend-jaar-geen-21e-editie"
+ },
+ {
   "id": "80ece98c97",
   "datum": "2026-09-14",
   "tijd": "19:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Sfeer slaat om tijdens stille tocht voor Alfredo: politiebureau bekogeld met stenen en vuurwerk, ME moet in actie komen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -271,7 +338,7 @@
   "id": "a2e59ad2bf",
   "datum": "2026-09-14",
   "tijd": "18:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grote controle in Eindhoven: ruim zestig boetes, 155 vapes en aanhouding",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -290,7 +357,7 @@
   "id": "683e6a10eb",
   "datum": "2026-09-14",
   "tijd": "18:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Trein botst op vrachtwagen, gewapende man gemeld en vermiste man gevonden op maandag 14 september",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
