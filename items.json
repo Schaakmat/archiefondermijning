@@ -1,5 +1,26 @@
 [
  {
+  "id": "a0286b69a9",
+  "datum": "2026-09-15",
+  "tijd": "18:31",
+  "nieuw": true,
+  "titel": "Flevoland - Prinsjesdag: kabinet houdt vast aan stikstofplan, onduidelijkheid over infrastructuur",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "organisatie",
+   "pand"
+  ],
+  "samenvatting": "Ondanks boerenprotesten op Prinsjesdag houdt het kabinet voet bij stuk als het gaat om het aanpakken van het stikstofprobleem. De landbouwsector zal daaraan een belangrijke bijdrage moeten leveren, al ontkomen ook de industrie en verkeer en vervoer niet aan maatregelen. Enkele Flevolandse boeren voerden dinsdagmiddag a",
+  "link": "https://www.omroepflevoland.nl/nieuws/523872/prinsjesdag:-kabinet-houdt-vast-aan-stikstofplan-onduidelijkheid-over-infrastructuur"
+ },
+ {
   "id": "497f8d7da4",
   "datum": "2026-09-15",
   "tijd": "16:05",
@@ -18,6 +39,25 @@
   ],
   "samenvatting": "Zeven mannen zijn afgelopen weekend aangehouden voor de invoer en handel in illegaal zwaar vuurwerk. Bij de actie is in totaal 3800 kilo aan explosieven in beslag genomen. Volgens de politie gaat het om een groep die vuurwerk vanuit Duitsland naar Nederland heeft geïmporteerd. In samenwerking met de Duitse politie kree",
   "link": "https://nos.nl/l/2631123"
+ },
+ {
+  "id": "5f8f54d3d5",
+  "datum": "2026-09-15",
+  "tijd": "15:56",
+  "nieuw": true,
+  "titel": "Gemeente haalt boomstam weg tegen afvaldumping, te weinig effect: ‘Geen andere oplossing dan opruimen’",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "Gemeente haalt boomstam weg tegen afvaldumping, te weinig effect: ‘Geen andere oplossing dan opruimen’ De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU1RXS3hWaWkyNXZjTXhKRjY5ZGhKRWR3eXZmamFrcVJQdXlHNXhhYl9fR3JSdVd4cGV2MlRETXNkSHJHLUw0c0lBT3FLTW5ONnZDUVpFNlZrdzRFMGJKdWtxeEZxN2Jza2NXRExzZDEzTFNPRnlzUHhQZ2g0cktiR0dWQmg5ai1oRU9pNmhRSG5palYxckp1blFoWTdtVWZhTFA2bkNOWk5HaFR1Mzc0V0picjFGRDZRTUtrN2hicVRzNFJDX1hJOFd2MXRrR2w2TWFweTZZUlNVX3M?oc=5"
  },
  {
   "id": "4e2482ed25",
@@ -69,14 +109,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "burgemeester",
-   "geweld",
-   "jeugd"
+   "geweld"
   ],
   "samenvatting": "In juni 2006 werd een vrouw aangevallen in Bergen op Zoom en met geweld verkracht. Dinsdagmiddag zat, ruim twintig jaar later, de man van wie de politie denkt dat hij de dader is in de rechtbank in Breda. Maar Andreas B. (38) uit Halsteren ontkent dat hij de verkrachter is. Andreas B. werd begin juni opgepakt na een dn",
   "link": "https://www.omroepbrabant.nl/nieuws/6027328/man-38-twintig-jaar-na-verkrachting-gepakt-gevonden-dna-bewijst-niks"
@@ -227,9 +263,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Cocaine, haven & logistiek"
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
+   "organisatie",
    "vrachtwagen"
   ],
   "samenvatting": "Boeren zijn tijdens Prinsjesdag met hun trekkers de weg opgegaan om te protesteren. Op verschillende viaducten in de provincie vragen ze aandacht voor de problemen in de sector. Daarbij waren veel omgekeerde Nederlandse vlaggen te zien. De protesterende boeren zijn onder meer gespot op het viaduct van de Zuidwesterring",
@@ -239,7 +277,7 @@
   "id": "448a893ed0",
   "datum": "2026-09-15",
   "tijd": "12:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ook spullen op spoor gelegd in Deurne, politie onderzoekt beelden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -258,7 +296,7 @@
   "id": "87326311e8",
   "datum": "2026-09-15",
   "tijd": "12:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ook in Deurne sabotage op het spoor, auto stopte midden in de nacht",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -277,7 +315,7 @@
   "id": "131e542198",
   "datum": "2026-09-15",
   "tijd": "12:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Celstraf voor drugsbaron Randy R.: hoe een intensief onderzoek leidde tot de vondst van het grootste Spaanse xtc-lab ooit",
   "bron": "pzc.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -296,7 +334,7 @@
   "id": "c2fb055e33",
   "datum": "2026-09-15",
   "tijd": "11:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee mannen uit Oss opgepakt in groot onderzoek naar zwaar vuurwerk",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -316,7 +354,7 @@
   "id": "981714ed4d",
   "datum": "2026-09-15",
   "tijd": "11:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gemeente steekt stokje voor herdenking ezel Pleun: 'Niet op deze manier'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -587,6 +625,25 @@
   ],
   "samenvatting": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van dinsdag 15 september.",
   "link": "https://www.oost.nl/nieuws/3695680/112-nieuws-meerdere-bermbranden-in-de-regio-3800-kilo-vuurwerk-in-beslag-genomen"
+ },
+ {
+  "id": "2175db93dc",
+  "datum": "2026-09-15",
+  "tijd": "06:51",
+  "nieuw": false,
+  "titel": "112 Nieuws: traumaheli opgeroepen om ongeval bij Luttenberg | 3800 kilo vuurwerk in beslag genomen",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk"
+  ],
+  "samenvatting": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van dinsdag 15 september.",
+  "link": "https://www.oost.nl/nieuws/3695680/112-nieuws-traumaheli-opgeroepen-om-ongeval-bij-luttenberg-3800-kilo-vuurwerk-in-beslag-genomen"
  },
  {
   "id": "cced279066",
@@ -1178,25 +1235,6 @@
   ],
   "samenvatting": "De politie is maandag met veel eenheden, waaronder de Dienst Speciale Interventies (DSI), aanwezig in het centrum van Lobith voor een melding van een persoon met een mogelijk vuurwapen. Een 112-verslaggever ter plaatse meldt dat een persoon is aangehouden.",
   "link": "https://www.gld.nl/nieuws/8523286/man-aangehouden-na-melding-van-mogelijk-vuurwapen-in-lobith-politiehelikopter-en-dsi-ter-plaatse"
- },
- {
-  "id": "11f5177be5",
-  "datum": "2026-09-14",
-  "tijd": "14:37",
-  "nieuw": false,
-  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
-  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
