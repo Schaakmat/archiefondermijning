@@ -1,5 +1,28 @@
 [
  {
+  "id": "1d51c14bcb",
+  "datum": "2026-09-15",
+  "tijd": "01:33",
+  "nieuw": true,
+  "titel": "NRC: man die in Rotterdam overleed na arrestatie had geen fiets gestolen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "organisatie",
+   "stal"
+  ],
+  "samenvatting": "De 51-jarige Alfredo Goeloe, die zaterdagavond in Rotterdam overleed kort nadat hij door de politie was aangehouden, reed niet op een gestolen fiets rond. Dat bevestigt een woordvoerder van de politie aan NRC . De politie was in de buurt aan het controleren na een melding van diefstal van een fatbike. Goeloe's fiets wa",
+  "link": "https://nos.nl/l/2631015"
+ },
+ {
   "id": "5d23856bc8",
   "datum": "2026-09-14",
   "tijd": "21:57",
@@ -266,7 +289,7 @@
   "id": "b24b5e4e30",
   "datum": "2026-09-14",
   "tijd": "16:26",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Weer illegale gokpraktijken ontdekt bij twee horecazaken in Helmond",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -538,6 +561,26 @@
   ],
   "samenvatting": "Haarlemmer beschuldigd van seksuele uitbuiting minderjarige uit Brazilië en bedreiging van haar stiefvader. Man (22) eerder veroordeeld voor steekincident en geweld Haarlems Dagblad",
   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNY2ZDMXhsWUF4anBvUUhhc00zRkVuSnJzSHlpZGM2eG1TbXp4THo5U1RfSnlhZnp4eGFTRDByb1NNZElpbFVFZ01Ddms4R2QtcmY5b0xUdHVRY2J2VVM4SnVRQ0ktaTBTQ1h6MEl6NU5IR1JYUFdTWnFldlpqd1JiSE10YkNId3M5YTI4VXJtaWpuTDEyamZUQ3hENDNFZmg5ZXJQRnJpM1Z4emdFUXNCdHZWamVEN0dnX0gzTkxLcElDczBIZTJfblRWTi1OdmFYM2Y2OHZUbVk1WkVEamxJNWxGeDJqV0hpRU9HVzc5VHFtMGFXMk9ZN0VxTms0ZFFzSFJiSkc1VEs5aHBVclNaQkdtUFAzNU9sWU9ma09sQkdkTV9OQXRUQ2NIT1ZMdEdMNnZpemV0Vk9obTVZaFpGa29hazk?oc=5"
+ },
+ {
+  "id": "80e900d7fb",
+  "datum": "2026-09-14",
+  "tijd": "13:27",
+  "nieuw": false,
+  "titel": "Haarlemmer beschuldigd van seksuele uitbuiting minderjarige uit Brazilië en bedreiging van haar stiefvader. Man (22) eerder veroordeeld voor steekincident en geweld",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bedreiging",
+   "geweld"
+  ],
+  "samenvatting": "Haarlemmer beschuldigd van seksuele uitbuiting minderjarige uit Brazilië en bedreiging van haar stiefvader. Man (22) eerder veroordeeld voor steekincident en geweld Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPdklJLXRVM1MzTFNlREpPOFFuRkZINzdTSE9KakNUdk9NUVhYT2RSdmh6U3NrTzFCYW45d19jOWJtcmdQZThBWDdCdlQtdVp6QmlDTjdwVXZHb0F5bkVwOTkwOGpMYV9yelpadm9Yd2l2OVVZR3o5T1llSzdrd01qbmNuN2lSc3U0Z21lbDYtSXU4c29vSnZnc2dBT2dUV2NEX0RRaXJzT3hyR0d6bVhRVGRxZ3RpQzNuYy1Gb2hSZEhfZmhYNlhMY1NGNUYzZ1BMcGxzZnotZDVQV3V0WDRLMVd6S1N2aU51alRXRFFadDFhMHY3ckd6MkRVZWgtT3ozWmVrUWZrZUR3aHIzWDR6RFE2NG5hRmpRc1BZa202ZkFYa0hTUThQeFVGWXJTeDAxd2o0ZXNaaXlON1NKaklJdkd1Ni1nODM5d2s4?oc=5"
  },
  {
   "id": "9471ea8750",
