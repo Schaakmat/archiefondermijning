@@ -1,5 +1,32 @@
 [
  {
+  "id": "4cb4dc24a5",
+  "datum": "2026-09-15",
+  "tijd": "20:50",
+  "nieuw": true,
+  "titel": "Almere - Overval City Juwelier duurt voor eigenaar en zoon nog altijd voort: 'De overval is niet die dag geëindigd voor ons'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Goudhandel & edelmetalen",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "grond",
+   "jeugd",
+   "juwelier",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "De overval op City Juwelier in Almere eind vorig jaar duurde slechts 24 seconden. Maar voor de eigenaar van de zaak en zijn zoon is het nog altijd niet voorbij. \"Wij hebben allebei PTSS en zijn daarvoor in behandeling. De overval is niet die dag geëindigd voor ons\", vertelde de zoon dinsdag in de rechtbank. De 19-jarig",
+  "link": "https://www.omroepflevoland.nl/nieuws/523932/overval-city-juwelier-duurt-voor-eigenaar-en-zoon-nog-altijd-voort:-'de-overval-is-niet-die-dag-geeindigd-voor-ons'"
+ },
+ {
   "id": "8a964815da",
   "datum": "2026-09-15",
   "tijd": "20:38",
@@ -10,12 +37,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
    "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "geweld",
-   "organisatie"
+   "geweld"
   ],
   "samenvatting": "Er zijn nog geen verdachten opgepakt, maar aanwijzingen dat er protesterende boeren achter de landelijke sabotageacties op het spoor zitten zijn er inmiddels wel . Als dat zo is, hebben ze met deze actie hun eigen glazen ingegooid, verzekert hoogleraar terrorisme en politiek geweld Bart Schuurman. De acties van vannach",
   "link": "https://nos.nl/l/2631159"
@@ -78,20 +103,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Geweld, liquidaties & bedreiging",
    "Jeugd & jonge aanwas",
-   "Ondernemers & weerbaarheid",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Ondernemers & weerbaarheid"
   ],
   "tags": [
-   "bedreiging",
    "bedrijventerrein",
-   "burgemeester",
-   "explosie",
-   "gemeenteraad",
-   "geweld"
+   "jongeren"
   ],
   "samenvatting": "De komst van een opvanglocatie voor alleenstaande minderjarige vluchtelingen (amv) in Engelen zorgt al maanden voor veel onrust. De gemeente Den Bosch wil vijftig jongeren van 15 tot 18 jaar opvangen in een voormalig politiekantoor op bedrijventerrein De Vutter. In het dorp is veel weerstand tegen het plan. Woensdagavo",
   "link": "https://www.omroepbrabant.nl/nieuws/6026774/raad-praat-woensdag-weer-over-asielopvang-engelen-dit-gebeurde-tot-nu-toe"
@@ -114,6 +131,25 @@
   ],
   "samenvatting": "Een staandehouding voor de diefstal van een fatbike. Dat was de eerste lezing van de politie na het overlijden van de 51-jarige Alfredo bij zijn arrestatie. Nu bevestigt de politie dat hij ten onrechte werd aangezien voor een fietsendief, maar dat hij weigerde zich te identificeren en op de vlucht sloeg. Volgens omstan",
   "link": "https://www.rijnmond.nl/nieuws/2254039/dit-is-hoe-de-rijksrecherche-onderzoek-doet-naar-de-dood-van-arrestant-alfredo"
+ },
+ {
+  "id": "03c531e726",
+  "datum": "2026-09-15",
+  "tijd": "17:53",
+  "nieuw": true,
+  "titel": "Zo doet de Rijksrecherche onderzoek naar de dood van arrestant Alfredo",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Een staandehouding voor de diefstal van een fatbike. Dat was de eerste lezing van de politie na het overlijden van de 51-jarige Alfredo bij zijn arrestatie. Nu bevestigt de politie dat hij ten onrechte werd aangezien voor een fietsendief, maar dat hij weigerde zich te identificeren en op de vlucht sloeg. Volgens omstan",
+  "link": "https://www.rijnmond.nl/nieuws/2254039/zo-doet-de-rijksrecherche-onderzoek-naar-de-dood-van-arrestant-alfredo"
  },
  {
   "id": "497f8d7da4",
@@ -332,7 +368,7 @@
   "id": "c14eeb408c",
   "datum": "2026-09-15",
   "tijd": "14:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Schuld van Peter Gillis loopt op tot boven 27 miljoen: 'Het geduld is op'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1639,6 +1675,46 @@
   ],
   "samenvatting": "Een primeur voor Oost-Vlaanderen: Ronse richt eerste GIEC op in strijd tegen fraude en ondermijnende criminaliteit HLN",
   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0ZTUmhhejlJdFF3TlltaTJkdFpoUnZ0R0JvUTNTWlhJWmdCOXk3dkstSGJBa1V6Mm40ZEtLRWo5WEdsb05PbXNiTDh3WjB5WGZ3WjltM3BqUncxTWZmWDdGY1JMMGRlbE5SLWJxSk5fRDdjdkczNlFJUlIwRmhLWi1QWFlZUzVSX3pvTWNBMlRKd0ExTGZlYTdLRXcyMEJpZ0dGZEFKOHozVDVRaEJISHBGR0RBSzJnZE9hV0N0NFFlQnZheHlqVHEtdm1kRW5jb1Zrb3B1SllXQTVMZU94N2tR?oc=5"
+ },
+ {
+  "id": "69d843640d",
+  "datum": "2026-09-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Anti-witwaspakket, Confiscatierichtlijn en FIU-Nederland in de justitiebegroting 2027",
+  "bron": "BijzonderStrafrecht.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "fiu-nederland"
+  ],
+  "samenvatting": "Anti-witwaspakket, Confiscatierichtlijn en FIU-Nederland in de justitiebegroting 2027 BijzonderStrafrecht.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0puNVIwUmRxTjh4VXZkakg0OURqWXhTLVhMeWNidVdoMnN3T1NyTGlLRWJKUUtWMFFVdGQ0LWxoXy1mLUZMMjhwUXVXeTA2cGwzU3JHUklaZzdyRnZ0U1lLY1h4NnQ2R1gwNnVmakRBRzZsZHk0NHg5Ynd3Y1pIR2ZjRkxjdTUtZ3U5SGh0LWJuQm9CZGZkc1lNZnpZOHlUZS1GS1FxUnpTcm5PWTFEWFJlelZDYll5ZnJncUZKX3BWUQ?oc=5"
+ },
+ {
+  "id": "4bce3f64c9",
+  "datum": "2026-09-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Justitiebegroting 2027 en ondermijning: integere economie, corruptie en de C8-coalitie",
+  "bron": "BijzonderStrafrecht.nl",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie",
+   "ondermijning"
+  ],
+  "samenvatting": "Justitiebegroting 2027 en ondermijning: integere economie, corruptie en de C8-coalitie BijzonderStrafrecht.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjJSbDRoTmlKaFVBdUUtQ3p4SGQzM3RJYm43WC1fbW9mT2tDRU5BaVV2d0luQTJRd3BUNFp2bnQ3eWwyeGRLcWdVN1FIN25xdk1iTTRHbmZSNkoyVW5wTmpXdmpMSFp6TElBdm9qWU9tVUVHaDVVdk5sdEY0cGI1R01GdTNzZjVMVldET0w2YnJWSXVoWGhDM2hERGl0VkptenNZR3BlY0I5cV9WZWgydkcydUZQbkpBUXpfRi1hdXZVQQ?oc=5"
  },
  {
   "id": "60035f9f9a",
