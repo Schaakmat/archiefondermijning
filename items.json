@@ -10,18 +10,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Goudhandel & edelmetalen",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Goudhandel & edelmetalen"
   ],
   "tags": [
-   "grond",
-   "jeugd",
-   "juwelier",
-   "wapen",
-   "woning"
+   "juwelier"
   ],
   "samenvatting": "De overval op City Juwelier in Almere eind vorig jaar duurde slechts 24 seconden. Maar voor de eigenaar van de zaak en zijn zoon is het nog altijd niet voorbij. \"Wij hebben allebei PTSS en zijn daarvoor in behandeling. De overval is niet die dag geëindigd voor ons\", vertelde de zoon dinsdag in de rechtbank. De 19-jarig",
   "link": "https://www.omroepflevoland.nl/nieuws/523932/overval-city-juwelier-duurt-voor-eigenaar-en-zoon-nog-altijd-voort:-'de-overval-is-niet-die-dag-geeindigd-voor-ons'"
@@ -72,6 +64,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523916/meisje-raakt-als-13-jarige-betrokken-bij-helpdeskfraude-ouderen-voor-26.000-euro-opgelicht"
  },
  {
+  "id": "879368d996",
+  "datum": "2026-09-15",
+  "tijd": "19:16",
+  "nieuw": true,
+  "titel": "Eis celstraf voor 22 keer bedreigen van ex-vrouw uit Zwolle: 'Hij heeft hulp nodig'",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bedreiging"
+  ],
+  "samenvatting": "Tegen een 32-jarige man is vijftien maanden cel geëist, waarvan vijf voorwaardelijk voor het bedreigen van zijn ex-vrouw in Zwolle. De officier van justitie weegt mee dat de bedreigingen van de man doorgingen toen hij al in de cel zat De officier wil een contactverbod voor de verdachte.",
+  "link": "https://www.oost.nl/nieuws/3696223/eis-celstraf-voor-22-keer-bedreigen-van-ex-vrouw-uit-zwolle-hij-heeft-hulp-nodig"
+ },
+ {
   "id": "a0286b69a9",
   "datum": "2026-09-15",
   "tijd": "18:31",
@@ -112,6 +123,35 @@
   ],
   "samenvatting": "De komst van een opvanglocatie voor alleenstaande minderjarige vluchtelingen (amv) in Engelen zorgt al maanden voor veel onrust. De gemeente Den Bosch wil vijftig jongeren van 15 tot 18 jaar opvangen in een voormalig politiekantoor op bedrijventerrein De Vutter. In het dorp is veel weerstand tegen het plan. Woensdagavo",
   "link": "https://www.omroepbrabant.nl/nieuws/6026774/raad-praat-woensdag-weer-over-asielopvang-engelen-dit-gebeurde-tot-nu-toe"
+ },
+ {
+  "id": "6c838c91d6",
+  "datum": "2026-09-15",
+  "tijd": "18:30",
+  "nieuw": true,
+  "titel": "Hoe de komst van 50 jonge vluchtelingen Engelen bezighoudt, een tijdlijn",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Ondernemers & weerbaarheid",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "bedrijventerrein",
+   "burgemeester",
+   "explosie",
+   "gemeenteraad",
+   "geweld"
+  ],
+  "samenvatting": "De komst van een opvanglocatie voor alleenstaande minderjarige vluchtelingen (amv) in Engelen zorgt al maanden voor veel onrust. De gemeente Den Bosch wil vijftig jongeren van 15 tot 18 jaar opvangen in een voormalig politiekantoor op bedrijventerrein De Vutter. In het dorp is veel weerstand tegen het plan. Woensdagavo",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026774/hoe-de-komst-van-50-jonge-vluchtelingen-engelen-bezighoudt-een-tijdlijn"
  },
  {
   "id": "342681cd37",
@@ -271,7 +311,7 @@
   "id": "42d4b9b078",
   "datum": "2026-09-15",
   "tijd": "14:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Brand in woning was poging om lichaam van Poolse man (44) weg te maken",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -290,7 +330,7 @@
   "id": "c63bd5d79f",
   "datum": "2026-09-15",
   "tijd": "14:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Attributen voor productie synthetische drugs gevonden bij een loods in Brunssum: politie start onderzoek",
   "bron": "De Limburger",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -311,7 +351,7 @@
   "id": "1c7d386b0c",
   "datum": "2026-09-15",
   "tijd": "14:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man uit Deventer verdacht van stalking en intimidatie na kraken van digitale opslag",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -327,29 +367,10 @@
   "link": "https://www.oost.nl/nieuws/3695841/man-uit-deventer-verdacht-van-stalking-en-intimidatie-na-kraken-van-digitale-opslag"
  },
  {
-  "id": "b860060b0c",
-  "datum": "2026-09-15",
-  "tijd": "14:30",
-  "nieuw": true,
-  "titel": "Wijkagent Niels loopt trauma op na ongeluk meisje (1): 'Alles werd zwart'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "ondernemers"
-  ],
-  "samenvatting": "Als wijkagent Niels (46) aankomt op de Markt in Helmond, ziet hij iets wat hem altijd zal bijblijven. Mensen houden tafelkleedjes omhoog om een meisje van anderhalf jaar uit het zicht van omstanders te houden. Het kind is uit een raam gevallen vanaf de derde verdieping van een appartement, nadat het op de vensterbank w",
-  "link": "https://www.omroepbrabant.nl/nieuws/6026819/wijkagent-niels-loopt-trauma-op-na-ongeluk-meisje-1-alles-werd-zwart"
- },
- {
   "id": "ef758407ed",
   "datum": "2026-09-15",
   "tijd": "14:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bouwen centraal in derde aflevering van het Nedersaksencafé bij RTV Oost",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
