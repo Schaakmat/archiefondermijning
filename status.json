@@ -1,12 +1,12 @@
 {
- "run": "03:40",
+ "run": "04:42",
  "datum": "2026-09-15",
- "nieuw": 13,
+ "nieuw": 12,
  "totaal": 3114,
  "verwijderd": 12,
  "geweigerd": {
-  "niet-nederlands": 1073,
-  "geen dossier": 494
+  "niet-nederlands": 1084,
+  "geen dossier": 500
  },
  "bronnen": [
   {
@@ -78,7 +78,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 102,
-   "status": "6 nieuw",
+   "items": 101,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 94,
-   "status": "1 nieuw",
+   "items": 95,
+   "status": "2 nieuw",
    "ok": true
   },
   {

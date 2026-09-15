@@ -1,5 +1,24 @@
 [
  {
+  "id": "a16a56dc9a",
+  "datum": "2026-09-15",
+  "tijd": "03:56",
+  "nieuw": true,
+  "titel": "Man gewond bij steekpartij in woning, verdachte opgepakt",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "In een woning aan de Mijnsherenlaan in Rotterdam-Charlois is maandagavond een steekpartij geweest. Daarbij is iemand gewond geraakt. Het slachtoffer is gecontroleerd door ambulancepersoneel, maar het is onbekend of hij naar het ziekenhuis moest.",
+  "link": "https://www.rijnmond.nl/nieuws/2253826/man-gewond-bij-steekpartij-in-woning-verdachte-opgepakt"
+ },
+ {
   "id": "48f7700bd7",
   "datum": "2026-09-15",
   "tijd": "03:20",
@@ -17,6 +36,25 @@
   ],
   "samenvatting": "Een auto is maandagavond in de sloot beland langs de Neerhandelseweg in Andel. Na het ongeval ging de bestuurder naar huis, tot verwarring van de hulpdiensten. Toen de brandweer en politie bij de auto arriveerden, was de bestuurder nergens te bekennen. Later op de avond keerde de bestuurder, een vrouwm terug naar de pl",
   "link": "https://www.omroepbrabant.nl/nieuws/6027194/auto-in-de-sloot-gevonden-in-andel-bestuurder-naar-huis-gegaan"
+ },
+ {
+  "id": "ada97c66a9",
+  "datum": "2026-09-15",
+  "tijd": "03:20",
+  "nieuw": true,
+  "titel": "Auto in de sloot in Andel, bestuurder naar huis gegaan",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een auto is maandagavond in de sloot beland langs de Neerhandelseweg in Andel. Na het ongeval ging de bestuurder naar huis, tot verwarring van de hulpdiensten. Toen de brandweer en politie bij de auto arriveerden, was de bestuurder nergens te bekennen. Later op de avond keerde de bestuurder, een vrouw, terug naar de pl",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027194/auto-in-de-sloot-in-andel-bestuurder-naar-huis-gegaan"
  },
  {
   "id": "1d51c14bcb",
@@ -212,7 +250,7 @@
   "id": "959c1189ae",
   "datum": "2026-09-14",
   "tijd": "17:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Basisschooldirecteur na vierde brand in zes jaar tijd: 'Ik word er woest van'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -231,7 +269,7 @@
   "id": "5fe781a034",
   "datum": "2026-09-14",
   "tijd": "17:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bromfietser slaat op de vlucht na ongeluk, maar buurtbewoners grijpen in",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -250,7 +288,7 @@
   "id": "63e2b71d16",
   "datum": "2026-09-14",
   "tijd": "17:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Urk - Koningin Máxima brengt eind september bezoek aan Urk",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -655,25 +693,6 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6027129/opa-krijgt-vier-jaar-cel-voor-misbruik-kleinzoons-liefde-was-wederzijds"
  },
  {
-  "id": "f61c004543",
-  "datum": "2026-09-14",
-  "tijd": "11:20",
-  "nieuw": false,
-  "titel": "Strafrechtelijk onderzoek gestart naar chauffeur van dodelijk busongeluk",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "Het Zwitserse Openbaar Ministerie is een onderzoek gestart naar de chauffeur die achter het stuur zat bij het dodelijke busongeluk in Zwitserland. Afgelopen donderdag raakte de Oad-touringcar van de weg en kantelde. Vijf inzittenden kwamen om het leven, onder wie een 75-jarige vrouw uit Uden. De Zwitserse autoriteiten ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027126/strafrechtelijk-onderzoek-gestart-naar-chauffeur-van-dodelijk-busongeluk"
- },
- {
   "id": "a1caff7499",
   "datum": "2026-09-14",
   "tijd": "10:38",
@@ -691,25 +710,6 @@
   ],
   "samenvatting": "De actie startte na online advertenties.",
   "link": "https://www.omroepzeeland.nl/nieuws/18778630/invallen-bij-vier-sekswerkers-zonder-vergunning-in-zeeuws-vlaanderen"
- },
- {
-  "id": "c0422da765",
-  "datum": "2026-09-14",
-  "tijd": "08:37",
-  "nieuw": false,
-  "titel": "Bejaarde vrouw in Etten-Leur van waardevolle spullen bestolen door nepagent",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "stal"
-  ],
-  "samenvatting": "Een minderjarige jongen heeft zondagavond waardevolle spullen gestolen van een bejaarde vrouw op de Koperwiek in Etten-Leur. Hij deed zich voor als politieagent en doorzocht zo meerdere kamers in het huis. De jongen deed zich aan de voordeur voor als agent om zo het huis binnen te komen. Hij doorzocht meerdere kamers i",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027115/bejaarde-vrouw-in-etten-leur-van-waardevolle-spullen-bestolen-door-nepagent"
  },
  {
   "id": "6c4b37103f",
