@@ -1,5 +1,47 @@
 [
  {
+  "id": "f1e9f48dfb",
+  "datum": "2026-09-15",
+  "tijd": "23:27",
+  "nieuw": true,
+  "titel": "'Weinig beelden en geen idee over daders', zegt ProRail-baas",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "beveiliging",
+   "wapen"
+  ],
+  "samenvatting": "\"Ik vind het echt verschrikkelijk wat er gebeurt\", zegt Mirjam van Velthuizen, bestuursvoorzitter van ProRail tegen Nieuwsuur over de sabotageacties op het spoor. Hoewel de spoorbeheerder na de sabotages van dinsdag extra camera's en surveillance langs het spoor heeft ingezet, is ze er niet gerust op. \"Laten we eerlijk",
+  "link": "https://nos.nl/l/2631181"
+ },
+ {
+  "id": "85eef8448a",
+  "datum": "2026-09-15",
+  "tijd": "23:13",
+  "nieuw": true,
+  "titel": "Branden in de berm en tientallen sabotageacties op het spoor: een overzicht van de dag",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld",
+   "organisatie"
+  ],
+  "samenvatting": "Het was een onrustige Prinsjesdag op de weg en op het spoor: langs meerdere snelwegen staken boerenactivisten onder meer hooibalen in brand, en op het spoor veroorzaakten voorwerpen tientallenstoringen. Een overzicht. 05.30 uur Vanochtend vroeg ontdekt spoorbeheerder ProRail meerdere storingen in Midden- en Oost-Nederl",
+  "link": "https://nos.nl/l/2631176"
+ },
+ {
   "id": "4cb4dc24a5",
   "datum": "2026-09-15",
   "tijd": "20:50",
@@ -135,20 +177,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Geweld, liquidaties & bedreiging",
    "Jeugd & jonge aanwas",
-   "Ondernemers & weerbaarheid",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Ondernemers & weerbaarheid"
   ],
   "tags": [
-   "bedreiging",
    "bedrijventerrein",
-   "burgemeester",
-   "explosie",
-   "gemeenteraad",
-   "geweld"
+   "jongeren"
   ],
   "samenvatting": "De komst van een opvanglocatie voor alleenstaande minderjarige vluchtelingen (amv) in Engelen zorgt al maanden voor veel onrust. De gemeente Den Bosch wil vijftig jongeren van 15 tot 18 jaar opvangen in een voormalig politiekantoor op bedrijventerrein De Vutter. In het dorp is veel weerstand tegen het plan. Woensdagavo",
   "link": "https://www.omroepbrabant.nl/nieuws/6026774/hoe-de-komst-van-50-jonge-vluchtelingen-engelen-bezighoudt-een-tijdlijn"
@@ -292,7 +326,7 @@
   "id": "0f4f4378bd",
   "datum": "2026-09-15",
   "tijd": "15:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (38) twintig jaar na verkrachting gepakt: 'Gevonden dna bewijst niks'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -971,33 +1005,6 @@
   ],
   "samenvatting": "De 51-jarige Alfredo Goeloe, die zaterdagavond in Rotterdam overleed kort nadat hij door de politie was aangehouden, reed niet op een gestolen fiets rond. Dat bevestigt een woordvoerder van de politie aan NRC . De politie was in de buurt aan het controleren na een melding van diefstal van een fatbike. Goeloe's fiets wa",
   "link": "https://nos.nl/l/2631015"
- },
- {
-  "id": "5d23856bc8",
-  "datum": "2026-09-14",
-  "tijd": "21:57",
-  "nieuw": false,
-  "titel": "Stille tocht voor Alfredo Goeloe die overleed na arrestatie; na afloop onrustig",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "burgemeester",
-   "geweld",
-   "grond",
-   "organisatie",
-   "stal"
-  ],
-  "samenvatting": "\"Ik ben heel boos\", zegt Charnelle Babel (37), de vrouw van Alfredo Goeloe. Ze is zeven maanden zwanger van hun eerste kind. Vanavond vond in Rotterdam-Zuid een stille tocht plaats ter nagedachtenis aan Goeloe. De 51-jarige Rotterdammer overleed zaterdagavond kort nadat hij door de politie was aangehouden aan het Vaarn",
-  "link": "https://nos.nl/l/2631007"
  },
  {
   "id": "266165d705",
@@ -3943,6 +3950,25 @@
   ],
   "samenvatting": "Wateroverlast leidt naar hennepkwekerij met 450 planten in Dordtse woning AD.nl",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFh4cVloRmN6OGwxbjlWbkVaOE1KMVpuSHBHbVBUZkN4WW4tWTFrTURvdGxqZkl6QzdyRjVmb1dpdUM4RkxBZjBxTzg4MDlYTVFQcFVOdzR6ZWpNTl9QNE5fRUtzNzRJc1djZVp2emlpcWx2SkVfa3JlcXJ6X1BCczk0UlRNUEdIYzRBUWtudG5SekZ2RkItQzlOai1Na0ZBT3phTl9ZMW96dWJzWmtuRw?oc=5"
+ },
+ {
+  "id": "9df742a98a",
+  "datum": "2026-09-10",
+  "tijd": "11:27",
+  "nieuw": false,
+  "titel": "Wateroverlast leidt naar hennepkwekerij met 450 planten in Dordtse woning",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Wateroverlast leidt naar hennepkwekerij met 450 planten in Dordtse woning BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXhTdEh1WjFYVzJsZDQweGdYdElBeklzeWZDbENyT1pqbWZUOG5tVm5kZVBvY1FGTnZzdWM4TlBLOVZXMVBWcDZfMHdBVkp4YXgtaktqRi10X0gwQXhlTjRFRmRYX2lERVJXRVhTVkRXb1FmYU9LaTlOT21xTFlRSGxJYjQtemdvZDItS3M4YmRFQXdTbzBTTDNuZmJWbGJ2YXBWTko4Q2k5WW9HZGxfMlo3WFl1T2pC?oc=5"
  },
  {
   "id": "f821d496fd",
@@ -49749,6 +49775,25 @@
   ],
   "samenvatting": "Steenrijke Nederlandse cryptobaron (51) opgepakt in Colombia, werd over hele wereld gezocht HLN",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0FhNTNVQ2s3Z01uS1l6TjJsZldJNlA5LVV6MTNxVTI3QmttTHlEQmpGSVgySWlBdnQySUVjMC1yOXZuSjJ1M2FxY245ZnAwZUZkT1Z4MERBc0lmSGdpeXg3Z290Wm92Y3Z4N080aE01UU54NXpibEYwUC1pWEJFa0FaSWFPdXZrOFUtUHlaeXpxc2pFeHdOcWFmRVZhUU4tZnBzLVhNT3lEeV9DZzg2Rmg5V1o4RFBwNGFSd3FaRkg2ajhkWjdn?oc=5"
+ },
+ {
+  "id": "f5daf24663",
+  "datum": "2023-12-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Informatie uit Bibob-onderzoek mag gebruikt worden bij tuchtprocedure",
+  "bron": "Accountancy Vanmorgen ·",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Informatie uit Bibob-onderzoek mag gebruikt worden bij tuchtprocedure Accountancy Vanmorgen ·",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNVdQZjlVTEprSklHYXZVbE1kT2dHWVZxZnpQYjQ0UWpwVmpQNFhVUld1c2ltaTNtTFpLSzVLenJveDNROGZOQ3FJM3pKSjFfdjRHaXZEREd3R0xzWUx6UUFrMmstc3RpWUNWV0czbXNZSzRNbG50U1Z3bU5KUE1BNmg5aVc2VjM1aktfMzNRTGNEVjNmMjdHZjNLMEwxMEQ3ODd4VDJuRUFQRF9PQlZuOUhMWGNTbUhQ?oc=5"
  },
  {
   "id": "00ef786db4",
