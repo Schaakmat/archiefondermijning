@@ -99,6 +99,25 @@
   "link": "https://nos.nl/l/2631117"
  },
  {
+  "id": "da160dcf47",
+  "datum": "2026-09-15",
+  "tijd": "15:28",
+  "nieuw": true,
+  "titel": "Branden bij een woning en voertuig in Sint-Maartensdijk",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De politie onderzoekt beide incidenten.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18782662/branden-bij-een-woning-en-voertuig-in-sint-maartensdijk"
+ },
+ {
   "id": "0f4f4378bd",
   "datum": "2026-09-15",
   "tijd": "15:09",
@@ -256,7 +275,7 @@
   "id": "22a9ab8502",
   "datum": "2026-09-15",
   "tijd": "12:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Boeren voeren op Prinsjesdag actie vanaf viaducten",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -1235,6 +1254,25 @@
   ],
   "samenvatting": "De politie is maandag met veel eenheden, waaronder de Dienst Speciale Interventies (DSI), aanwezig in het centrum van Lobith voor een melding van een persoon met een mogelijk vuurwapen. Een 112-verslaggever ter plaatse meldt dat een persoon is aangehouden.",
   "link": "https://www.gld.nl/nieuws/8523286/man-aangehouden-na-melding-van-mogelijk-vuurwapen-in-lobith-politiehelikopter-en-dsi-ter-plaatse"
+ },
+ {
+  "id": "11f5177be5",
+  "datum": "2026-09-14",
+  "tijd": "14:37",
+  "nieuw": false,
+  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
+  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
