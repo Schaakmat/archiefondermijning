@@ -1,5 +1,52 @@
 [
  {
+  "id": "8a964815da",
+  "datum": "2026-09-15",
+  "tijd": "20:38",
+  "nieuw": true,
+  "titel": "Spoorsaboteurs kunnen hoge straffen tegemoetzien: 'Ze namen alle risico's voor lief'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld",
+   "organisatie"
+  ],
+  "samenvatting": "Er zijn nog geen verdachten opgepakt, maar aanwijzingen dat er protesterende boeren achter de landelijke sabotageacties op het spoor zitten zijn er inmiddels wel . Als dat zo is, hebben ze met deze actie hun eigen glazen ingegooid, verzekert hoogleraar terrorisme en politiek geweld Bart Schuurman. De acties van vannach",
+  "link": "https://nos.nl/l/2631159"
+ },
+ {
+  "id": "a7398566a4",
+  "datum": "2026-09-15",
+  "tijd": "20:16",
+  "nieuw": true,
+  "titel": "Lelystad - Meisje raakt als 13-jarige betrokken bij helpdeskfraude, ouderen voor 26.000 euro opgelicht",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "contant geld",
+   "geweld",
+   "jeugd",
+   "school",
+   "woning"
+  ],
+  "samenvatting": "Ze was 13 jaar toen ze betrokken raakte bij de oplichting van ten minste twaalf ouderen. Samen met enkele mededaders maakte ze eind vorig jaar meer dan 26.000 euro buit. Dat gebeurde via zogenoemde bankhelpdeskfraude. De slachtoffers in de leeftijd van 66 tot 92 jaar werden gebeld door een zogenaamde medewerker van een",
+  "link": "https://www.omroepflevoland.nl/nieuws/523916/meisje-raakt-als-13-jarige-betrokken-bij-helpdeskfraude-ouderen-voor-26.000-euro-opgelicht"
+ },
+ {
   "id": "a0286b69a9",
   "datum": "2026-09-15",
   "tijd": "18:31",
@@ -19,6 +66,54 @@
   ],
   "samenvatting": "Ondanks boerenprotesten op Prinsjesdag houdt het kabinet voet bij stuk als het gaat om het aanpakken van het stikstofprobleem. De landbouwsector zal daaraan een belangrijke bijdrage moeten leveren, al ontkomen ook de industrie en verkeer en vervoer niet aan maatregelen. Enkele Flevolandse boeren voerden dinsdagmiddag a",
   "link": "https://www.omroepflevoland.nl/nieuws/523872/prinsjesdag:-kabinet-houdt-vast-aan-stikstofplan-onduidelijkheid-over-infrastructuur"
+ },
+ {
+  "id": "adf87b7ced",
+  "datum": "2026-09-15",
+  "tijd": "18:30",
+  "nieuw": true,
+  "titel": "Raad praat woensdag weer over asielopvang Engelen, dit gebeurde tot nu toe",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Ondernemers & weerbaarheid",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "bedrijventerrein",
+   "burgemeester",
+   "explosie",
+   "gemeenteraad",
+   "geweld"
+  ],
+  "samenvatting": "De komst van een opvanglocatie voor alleenstaande minderjarige vluchtelingen (amv) in Engelen zorgt al maanden voor veel onrust. De gemeente Den Bosch wil vijftig jongeren van 15 tot 18 jaar opvangen in een voormalig politiekantoor op bedrijventerrein De Vutter. In het dorp is veel weerstand tegen het plan. Woensdagavo",
+  "link": "https://www.omroepbrabant.nl/nieuws/6026774/raad-praat-woensdag-weer-over-asielopvang-engelen-dit-gebeurde-tot-nu-toe"
+ },
+ {
+  "id": "342681cd37",
+  "datum": "2026-09-15",
+  "tijd": "17:53",
+  "nieuw": true,
+  "titel": "Dit is hoe de Rijksrecherche onderzoek doet naar de dood van arrestant Alfredo",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Een staandehouding voor de diefstal van een fatbike. Dat was de eerste lezing van de politie na het overlijden van de 51-jarige Alfredo bij zijn arrestatie. Nu bevestigt de politie dat hij ten onrechte werd aangezien voor een fietsendief, maar dat hij weigerde zich te identificeren en op de vlucht sloeg. Volgens omstan",
+  "link": "https://www.rijnmond.nl/nieuws/2254039/dit-is-hoe-de-rijksrecherche-onderzoek-doet-naar-de-dood-van-arrestant-alfredo"
  },
  {
   "id": "497f8d7da4",
@@ -256,7 +351,7 @@
   "id": "73ed78e2c3",
   "datum": "2026-09-15",
   "tijd": "13:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw (22) gewond bij geweldsincident, twee mannen opgepakt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
