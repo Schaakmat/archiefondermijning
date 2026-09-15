@@ -1,10 +1,48 @@
 [
  {
+  "id": "73ed78e2c3",
+  "datum": "2026-09-15",
+  "tijd": "13:15",
+  "nieuw": true,
+  "titel": "Vrouw (22) gewond bij geweldsincident, twee mannen opgepakt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Bij een ernstig geweldsincident in Apeldoorn is maandagavond een 22-jarige vrouw uit die plaats gewond geraakt. Het slachtoffer is per ambulance naar het ziekenhuis gebracht, meldt de politie. Die hield kort na het incident twee verdachten aan.",
+  "link": "https://www.gld.nl/nieuws/8523692/vrouw-22-gewond-bij-geweldsincident-twee-mannen-opgepakt"
+ },
+ {
   "id": "448a893ed0",
   "datum": "2026-09-15",
   "tijd": "12:32",
   "nieuw": true,
   "titel": "Ook spullen op spoor gelegd in Deurne, politie onderzoekt beelden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "buitengebied"
+  ],
+  "samenvatting": "Ook in het buitengebied van het Brabantse Deurne blijken 'objecten'op het spoor te zijn gelegd in de nacht van maandag op dinsdag. De politie onderzoekt beelden van een auto die iets voor half vier stilstond bij een verkeersdrempel op de Griendtsveenseweg, enkele kilometers buiten de bebouwde kom aan de oostkant van De",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027315/ook-spullen-op-spoor-gelegd-in-deurne-politie-onderzoekt-beelden"
+ },
+ {
+  "id": "87326311e8",
+  "datum": "2026-09-15",
+  "tijd": "12:32",
+  "nieuw": true,
+  "titel": "Ook in Deurne sabotage op het spoor, auto stopte midden in de nacht",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -17,8 +55,8 @@
    "bestuurder",
    "buitengebied"
   ],
-  "samenvatting": "Ook in het buitengebied van het Brabantse Deurne blijken 'objecten'op het spoor te zijn gelegd in de nacht van maandag op dinsdag. De politie onderzoekt beelden van een auto die iets voor half vier stilstond bij een verkeersdrempel op de Griendtsveenseweg, enkele kilometers buiten de bebouwde kom aan de oostkant van De",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027315/ook-spullen-op-spoor-gelegd-in-deurne-politie-onderzoekt-beelden"
+  "samenvatting": "Ook in het buitengebied van het Brabantse Deurne blijken 'objecten' op het spoor te zijn gelegd in de nacht van maandag op dinsdag. Het is één van de vele plekken in Nederland waar het treinverkeer was platgelegd door materiaal op het spoor. ProRail gaat uit van sabotage De politie onderzoekt beelden van een auto die i",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027315/ook-in-deurne-sabotage-op-het-spoor-auto-stopte-midden-in-de-nacht"
  },
  {
   "id": "131e542198",
@@ -206,7 +244,7 @@
   "id": "710b77d771",
   "datum": "2026-09-15",
   "tijd": "09:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Yannick organiseert straatgevechten: 'Ik wil tot bloedens toe knokken'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -225,7 +263,7 @@
   "id": "9989db833a",
   "datum": "2026-09-15",
   "tijd": "09:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Driftig menneke' Yannick organiseert straatgevechten: 'Ik wil knokken'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",

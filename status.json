@@ -1,12 +1,12 @@
 {
- "run": "12:47",
+ "run": "13:43",
  "datum": "2026-09-15",
  "nieuw": 12,
- "totaal": 3137,
+ "totaal": 3139,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1074,
-  "geen dossier": 486
+  "niet-nederlands": 1075,
+  "geen dossier": 484
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 147,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -491,7 +491,7 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 106,
+   "items": 107,
    "status": "3 nieuw",
    "ok": true
   },
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 146,
-   "status": "bij",
+   "items": 147,
+   "status": "1 nieuw",
    "ok": true
   },
   {
