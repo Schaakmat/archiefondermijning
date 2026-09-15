@@ -1,5 +1,45 @@
 [
  {
+  "id": "448a893ed0",
+  "datum": "2026-09-15",
+  "tijd": "12:32",
+  "nieuw": true,
+  "titel": "Ook spullen op spoor gelegd in Deurne, politie onderzoekt beelden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "buitengebied"
+  ],
+  "samenvatting": "Ook in het buitengebied van het Brabantse Deurne blijken 'objecten'op het spoor te zijn gelegd in de nacht van maandag op dinsdag. De politie onderzoekt beelden van een auto die iets voor half vier stilstond bij een verkeersdrempel op de Griendtsveenseweg, enkele kilometers buiten de bebouwde kom aan de oostkant van De",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027315/ook-spullen-op-spoor-gelegd-in-deurne-politie-onderzoekt-beelden"
+ },
+ {
+  "id": "131e542198",
+  "datum": "2026-09-15",
+  "tijd": "12:13",
+  "nieuw": true,
+  "titel": "Celstraf voor drugsbaron Randy R.: hoe een intensief onderzoek leidde tot de vondst van het grootste Spaanse xtc-lab ooit",
+  "bron": "pzc.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "xtc-lab"
+  ],
+  "samenvatting": "Celstraf voor drugsbaron Randy R.: hoe een intensief onderzoek leidde tot de vondst van het grootste Spaanse xtc-lab ooit pzc.nl",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSzBCQmtoWk1FTVc3VGdvNVdsRkY1Uk5tR0J4a3c1N25Lai1DZVdzd3MzUmY0X1BPQ2hRbzRoOGtoTmlrcGNZUTVXRTA0d3ZoNzNudTlOSmo2d0RoV1ZSNXoyRHhjTFF0WFBueGdjX2d1WUZPWmxibUFjQXhrY21FZlhYUlVNR3FJX1lLQzVHYThVNnAwSExSdzlNS1ZrTXBta2pZeHMzWlROODFDclJfaTR4MDVoVWY5REdvRHJhek5mc1J4SEt4S2l5SWFXQXViSGlxQk5HWkFjbXgwMXEweGxwekhhZFY5eEZCdzRrcUg?oc=5"
+ },
+ {
   "id": "c2fb055e33",
   "datum": "2026-09-15",
   "tijd": "11:31",
@@ -10,13 +50,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Wapens, explosieven & vuurwerk",
-   "Witwassen & geldstromen"
+   "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "contant geld",
    "vuurwerk",
-   "witwassen",
    "zwaar illegaal vuurwerk"
   ],
   "samenvatting": "Bij een groot politieonderzoek naar zwaar illegaal vuurwerk zijn twee mannen uit Oss opgepakt. Een van hen, een 22-jarige man, werd eind augustus al aangehouden bij Schaijk, meldt de politie nu. Ook werd toen ruim 1200 kilo zwaar vuurwerk gevonden. Afgelopen zaterdag werd opnieuw een verdachte uit Oss opgepakt. In tota",
@@ -207,7 +244,7 @@
   "id": "6591bd015d",
   "datum": "2026-09-15",
   "tijd": "08:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Johan Derksen zag Matty Verkamman uit Tholen doen wat hij zelf niet durfde: ‘Dat vond ik moedig’",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -226,7 +263,7 @@
   "id": "4be288b899",
   "datum": "2026-09-15",
   "tijd": "07:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stel mishandeld na 'grapje' in parkeergarage, cel- en taakstraffen opgelegd",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -245,7 +282,7 @@
   "id": "7518afb341",
   "datum": "2026-09-15",
   "tijd": "07:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw 'als boksbal gebruikt', vijf mannen krijgen cel- en taakstraffen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -264,7 +301,7 @@
   "id": "6498e59e4d",
   "datum": "2026-09-15",
   "tijd": "06:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Studentensteden zetten Huurteams en vergunningen in tegen te hoge kamerprijzen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -283,7 +320,7 @@
   "id": "cced279066",
   "datum": "2026-09-15",
   "tijd": "06:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wekdienst 15/9: Prinsjesdag • Nieuwe zitting in moordzaak Lisa uit Abcoude",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
