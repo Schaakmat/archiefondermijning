@@ -1,10 +1,67 @@
 [
  {
+  "id": "feaf597c12",
+  "datum": "2026-09-15",
+  "tijd": "10:34",
+  "nieuw": true,
+  "titel": "Trein bij Steenwijk door sabotageactie 'in aanraking met materiaal op spoor'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "beveiliging"
+  ],
+  "samenvatting": "ProRail zegt dat ten minste één trein op het sabotagemateriaal is gereden waarmee vanochtend op het spoor een grote storing werd veroorzaakt. \"Vanochtend is een trein in aanraking gekomen met materialen op het spoor\", zegt een woordvoerder van ProRail tegen de NOS. Volgens de woordvoerder gebeurde dat bij Steenwijk. \"H",
+  "link": "https://nos.nl/l/2631053"
+ },
+ {
+  "id": "6591bd015d",
+  "datum": "2026-09-15",
+  "tijd": "08:13",
+  "nieuw": true,
+  "titel": "Johan Derksen zag Matty Verkamman uit Tholen doen wat hij zelf niet durfde: ‘Dat vond ik moedig’",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "motorclub"
+  ],
+  "samenvatting": "Samen met volkszanger John de Bever en voormalig motorclubvoorman Henk Kuipers vormt de Thoolse journalist een merkwaardig trio.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18768043/johan-derksen-zag-matty-verkamman-uit-tholen-doen-wat-hij-zelf-niet-durfde-dat-vond-ik-moedig"
+ },
+ {
   "id": "4be288b899",
   "datum": "2026-09-15",
   "tijd": "07:24",
   "nieuw": true,
   "titel": "Stel mishandeld na 'grapje' in parkeergarage, cel- en taakstraffen opgelegd",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages"
+  ],
+  "tags": [
+   "garage"
+  ],
+  "samenvatting": "Een discussie in een parkeergarage in Eindhoven tussen een Belgisch stel en een groep jongens uit Boxtel, Liempde en Son liep vier jaar geleden volledig uit de hand. Binnen een paar minuten ontstond een massale vechtpartij waarbij het zwaargewond raakte. Een verdachte kreeg maandag een celstraf, vier anderen kregen taa",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027185/stel-mishandeld-na-grapje-in-parkeergarage-cel-en-taakstraffen-opgelegd"
+ },
+ {
+  "id": "7518afb341",
+  "datum": "2026-09-15",
+  "tijd": "07:24",
+  "nieuw": true,
+  "titel": "Vrouw 'als boksbal gebruikt', vijf mannen krijgen cel- en taakstraffen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -23,8 +80,8 @@
    "geweld",
    "grond"
   ],
-  "samenvatting": "Een discussie in een parkeergarage in Eindhoven tussen een Belgisch stel en een groep jongens uit Boxtel, Liempde en Son liep vier jaar geleden volledig uit de hand. Binnen een paar minuten ontstond een massale vechtpartij waarbij het zwaargewond raakte. Een verdachte kreeg maandag een celstraf, vier anderen kregen taa",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027185/stel-mishandeld-na-grapje-in-parkeergarage-cel-en-taakstraffen-opgelegd"
+  "samenvatting": "Een discussie in een parkeergarage in Eindhoven tussen een Belgisch stel en een groep jongens uit Boxtel, Liempde en Son liep vier jaar geleden volledig uit de hand. Binnen een paar minuten ontstond een massale vechtpartij waarbij het stel zwaargewond raakte. Een verdachte kreeg maandag een celstraf, vier anderen krege",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027185/vrouw-als-boksbal-gebruikt-vijf-mannen-krijgen-cel-en-taakstraffen"
  },
  {
   "id": "cced279066",
@@ -235,7 +292,7 @@
   "id": "0f37e4557e",
   "datum": "2026-09-14",
   "tijd": "20:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nieuwe getuigenoproep na kluisverklaring over vergismoord Rob Zweekhorst",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -256,7 +313,7 @@
   "id": "e2b0917b84",
   "datum": "2026-09-14",
   "tijd": "20:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mysterieuze kluisverklaring geeft nieuw spoor in vergismoord Rob Zweekhorst",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -277,7 +334,7 @@
   "id": "b6d362be25",
   "datum": "2026-09-14",
   "tijd": "19:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Almeerse dief (51) slaat toe op Schiphol en heeft koffer vol telefoons en cosmetica",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
