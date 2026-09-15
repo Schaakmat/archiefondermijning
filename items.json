@@ -1,5 +1,27 @@
 [
  {
+  "id": "a6409bd8c9",
+  "datum": "2026-09-15",
+  "tijd": "11:02",
+  "nieuw": true,
+  "titel": "Na 44 jaar definitieve straf voor moord op Nederlandse journalisten in El Salvador",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "kopstuk",
+   "moord"
+  ],
+  "samenvatting": "Drie militaire kopstukken die zijn veroordeeld voor de moord op vier Nederlandse journalisten in El Salvador krijgen definitief dertig jaar celstraf. Hun cassatieberoep is verworpen. Dat meldt een nabestaande van een van de journalisten, na een bericht van hun advocaat. Daarmee komt er na 44 jaar een einde aan de zaak.",
+  "link": "https://nos.nl/l/2631062"
+ },
+ {
   "id": "feaf597c12",
   "datum": "2026-09-15",
   "tijd": "10:34",
@@ -17,6 +39,25 @@
   ],
   "samenvatting": "ProRail zegt dat ten minste één trein op het sabotagemateriaal is gereden waarmee vanochtend op het spoor een grote storing werd veroorzaakt. \"Vanochtend is een trein in aanraking gekomen met materialen op het spoor\", zegt een woordvoerder van ProRail tegen de NOS. Volgens de woordvoerder gebeurde dat bij Steenwijk. \"H",
   "link": "https://nos.nl/l/2631053"
+ },
+ {
+  "id": "710b77d771",
+  "datum": "2026-09-15",
+  "tijd": "09:30",
+  "nieuw": true,
+  "titel": "Yannick organiseert straatgevechten: 'Ik wil tot bloedens toe knokken'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school"
+  ],
+  "samenvatting": "\"Ik was altijd al een driftig manneke. Op de basisschool had iemand mijn broertje geslagen. Die jongen pakte ik toen bij z’n haren en dan sleepte ik ‘m zo met z’n gezicht over de stoeptegels heen en weer.\" Tegenwoordig organiseert Yannick uit Schijndel 'hood fights': illegale straatgevechten. Yannick is een van de nach",
+  "link": "https://www.omroepbrabant.nl/nieuws/6024574/yannick-organiseert-straatgevechten-ik-wil-tot-bloedens-toe-knokken"
  },
  {
   "id": "6591bd015d",
@@ -67,18 +108,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages",
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval",
-   "Trustkantoren & rechtspersonen",
-   "Wapens, explosieven & vuurwerk"
+   "Autobranche & garages"
   ],
   "tags": [
-   "bestuurder",
-   "explosie",
-   "garage",
-   "geweld",
-   "grond"
+   "garage"
   ],
   "samenvatting": "Een discussie in een parkeergarage in Eindhoven tussen een Belgisch stel en een groep jongens uit Boxtel, Liempde en Son liep vier jaar geleden volledig uit de hand. Binnen een paar minuten ontstond een massale vechtpartij waarbij het stel zwaargewond raakte. Een verdachte kreeg maandag een celstraf, vier anderen krege",
   "link": "https://www.omroepbrabant.nl/nieuws/6027185/vrouw-als-boksbal-gebruikt-vijf-mannen-krijgen-cel-en-taakstraffen"
@@ -224,7 +257,7 @@
   "id": "1d51c14bcb",
   "datum": "2026-09-15",
   "tijd": "01:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "NRC: man die in Rotterdam overleed na arrestatie had geen fiets gestolen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -243,7 +276,7 @@
   "id": "5d23856bc8",
   "datum": "2026-09-14",
   "tijd": "21:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stille tocht voor Alfredo Goeloe die overleed na arrestatie; na afloop onrustig",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -270,7 +303,7 @@
   "id": "266165d705",
   "datum": "2026-09-14",
   "tijd": "21:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Belgisch OM eist 5 jaar cel tegen Nederlandse advocaat in groot drugsproces",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -900,25 +933,6 @@
   ],
   "samenvatting": "Vorige week woensdag is in het Brabantse Dinteloord een 31-jarige man uit Polen aangehouden. De man wordt in zijn geboorteland verdacht van zware mishandeling en moord op zijn vader. De man was al enige tijd op de vlucht, maar op basis van nieuwe informatie kon de politie hem traceren. Agenten hielden hem aan terwijl h",
   "link": "https://nos.nl/l/2630950"
- },
- {
-  "id": "6ba921dd78",
-  "datum": "2026-09-14",
-  "tijd": "12:12",
-  "nieuw": false,
-  "titel": "Opa krijgt vier jaar cel voor misbruik kleinzoons: 'Liefde was wederzijds'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jeugd"
-  ],
-  "samenvatting": "Gerard van der K. (79) uit Veen heeft vier jaar cel gekregen voor het misbruiken van zijn twee kleinzoons. Dat heeft het gerechtshof in Den Bosch geoordeeld. Eerder kreeg deze opa nog drie jaar cel en een jaar voorwaardelijk van de rechtbank, maar het hof vindt vier jaar cel passender. Volgens het gerechtshof heeft Van",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027129/opa-krijgt-vier-jaar-cel-voor-misbruik-kleinzoons-liefde-was-wederzijds"
  },
  {
   "id": "a1caff7499",
