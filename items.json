@@ -1,5 +1,24 @@
 [
  {
+  "id": "cced279066",
+  "datum": "2026-09-15",
+  "tijd": "06:50",
+  "nieuw": true,
+  "titel": "Wekdienst 15/9: Prinsjesdag • Nieuwe zitting in moordzaak Lisa uit Abcoude",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "Het is de derde dinsdag van september: Prinsjesdag. Het minderheidskabinet presenteert de begroting voor volgend jaar en koning Willem-Alexander houdt de troonrede. Ook wordt de strafzaak vervolgd tegen de 23-jarige Chris Jude, die bekend heeft dat hij de 17-jarige Lisa uit Abcoude heeft vermoord. Eerst het weer: Lokaa",
+  "link": "https://nos.nl/l/2631023"
+ },
+ {
   "id": "a16a56dc9a",
   "datum": "2026-09-15",
   "tijd": "03:56",
@@ -191,7 +210,7 @@
   "id": "a2e59ad2bf",
   "datum": "2026-09-14",
   "tijd": "18:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grote controle in Eindhoven: ruim zestig boetes, 155 vapes en aanhouding",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -210,7 +229,7 @@
   "id": "683e6a10eb",
   "datum": "2026-09-14",
   "tijd": "18:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Trein botst op vrachtwagen, gewapende man gemeld en vermiste man gevonden op maandag 14 september",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -231,7 +250,7 @@
   "id": "aad5ef15ce",
   "datum": "2026-09-14",
   "tijd": "18:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Moeder en zoon verdacht van onderdak bieden aan illegale prostituee in Deventer",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -302,6 +321,7 @@
   ],
   "tags": [
    "burgemeester",
+   "jeugd",
    "jongeren",
    "leider",
    "ondernemers"
@@ -517,25 +537,6 @@
   ],
   "samenvatting": "Past er aan de rand van het Oude Dorp op Urk een wooncomplex van meer dan veertien meter hoog, waar nu nog een gebouw van zes meter hoog staat? Over die vraag heeft de Urker politiek zich gebogen. Voorafgaand aan de politieke discussie vertelde een verontruste Urkse, namens tientallen buren, over de grote zorgen die er",
   "link": "https://www.omroepflevoland.nl/nieuws/523276/urker-buurt-bezorgd-en-politiek-krijgt-te-weinig-info-plan-voor-'fundamentele-wijziging'-oude-dorp-onder-vuur"
- },
- {
-  "id": "11f5177be5",
-  "datum": "2026-09-14",
-  "tijd": "14:37",
-  "nieuw": false,
-  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
-  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
