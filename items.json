@@ -13,8 +13,7 @@
    "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "bedreiging",
-   "beveiliging"
+   "bedreiging"
   ],
   "samenvatting": "Een student van de Technische Universiteit Eindhoven zou vanochtend in een volle collegezaal beledigende en racistische opmerkingen hebben gemaakt naar medestudenten. Daarna bracht de man naar verluidt de Hitlergroet. De politie heeft een verdachte aangehouden voor bedreiging. Het is niet duidelijk of dit de student is",
   "link": "https://nos.nl/l/2631275"
@@ -281,7 +280,7 @@
   "id": "cab2be21e4",
   "datum": "2026-09-16",
   "tijd": "14:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "De wedstrijd \"Jongeren slaan de handen ineen om mensenhandel te voorkomen en te bestrijden\" in 2026 was een doorslaand succes.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -300,7 +299,7 @@
   "id": "b16e067935",
   "datum": "2026-09-16",
   "tijd": "14:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Digitale zorg inzien of regelen? Vanaf vandaag is voor heel Zeeland een helpdesk",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -319,7 +318,7 @@
   "id": "12de00b6d8",
   "datum": "2026-09-16",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Raad weer bijeen over opvanglocatie Engelen: dit gebeurt er woensdag",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -338,7 +337,7 @@
   "id": "fc88365751",
   "datum": "2026-09-16",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Opvanglocatie Engelen opnieuw besproken: dit kun je woensdag verwachten",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -19540,6 +19539,28 @@
   ],
   "samenvatting": "Hart van Nederland - Late Editie: Jongen (9) vindt handgranaat bij buitenschoolse opvang in Vught KIJK",
   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTVFzZUcxc1JLeUIycnBieGRGVUN5UGJFd1pPYmZrVktKUklHa2YtamlySjA1UFBmSTYxMEhIZ1g1WFlSWnBqakJoeEFHczZDYnYzZS04N1o5QllaV0VOcDhnY3l5ZUFLN0s5REZacUNwcVJqcUpnNlpVaTBmaGZENWJR?oc=5"
+ },
+ {
+  "id": "1b9d661e08",
+  "datum": "2026-08-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Amsterdam pakt malafide ondernemers in binnenstad aan: vergunning verplicht voor winkeliers op de Nieuwendijk",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "ondernemers",
+   "vergunning",
+   "winkeliers"
+  ],
+  "samenvatting": "Amsterdam pakt malafide ondernemers in binnenstad aan: vergunning verplicht voor winkeliers op de Nieuwendijk Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM2tCUUduNHRLNkMzSzVROWVJd0FPNVZmc2hTZ3RCRjFraGhpX05wOHAzMXAtazFyd2lQdUxiM2NONG5hQkFzTWpFbm1WeUx4MkFWci1uako1cWhFU0dTckRkX01DRDhsdThNbEFsbnNLRnhSTktyU2ZLWVZuZFdHRG4tTXdCOFpLZGFXZWtoWnhDYVJ6LWdmcjVUV3RpUkhPSWxOZjBLRlRodnFodnM2UzBQTmllbFNPS3dCNHdjY2RWUkpOVGtJZjZEaS1iYy1Gd3lSdUg1eWhCLVF5eGpXVExNSUk?oc=5"
  },
  {
   "id": "8061240eef",
