@@ -1,5 +1,48 @@
 [
  {
+  "id": "8ba1e2c16c",
+  "datum": "2026-09-16",
+  "tijd": "17:52",
+  "nieuw": true,
+  "titel": "Suurhoffbrug richting Maasvlakte deels gesloten vanwege scheuren in de constructie",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "De westelijke Suurhoffbrug in de A15 is door Rijkswaterstaat \"omwille van de veiligheid\" gedeeltelijk afgesloten nadat bij een inspectie scheuren waren gevonden in een van de hoofdliggers van de brug. Om de belasting van de brug te verminderen, zijn de twee rijstroken in de richting van de Maasvlakte per direct geslote",
+  "link": "https://nos.nl/l/2631269"
+ },
+ {
+  "id": "92966fe94a",
+  "datum": "2026-09-16",
+  "tijd": "17:37",
+  "nieuw": true,
+  "titel": "Voet van verdachte en 'wapenarsenaal' gevonden in kelderbox na explosie Amsterdam",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "pand",
+   "school",
+   "wapen"
+  ],
+  "samenvatting": "In de kelderbox in de Amsterdamse wijk Osdorp waar in juni een explosie plaatsvond, zijn wapens gevonden. Ook een afgerukte voet van een van de verdachten werd daar aangetroffen, maakte het Openbaar Ministerie bekend op de eerste zitting in de rechtbank van Amsterdam. In de nacht van 11 op 12 juni brak er brand uit na ",
+  "link": "https://nos.nl/l/2631263"
+ },
+ {
   "id": "0c47318b85",
   "datum": "2026-09-16",
   "tijd": "17:25",
@@ -30,15 +73,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Milieucriminaliteit & afval",
-   "Wapens, explosieven & vuurwerk"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "afval",
-   "explosie",
    "leider",
-   "netwerk",
    "organisatie"
   ],
   "samenvatting": "Het Openbaar Ministerie wil dat de 41-jarige Ayham A. uit het Zuid-Hollandse dorp Arkel 17,5 jaar cel krijgt voor zijn rol binnen de terroristische organisatie Islamitische Staat (IS). Volgens het OM is er voldoende bewijs om aan te nemen dat A. een vooraanstaande rol speelde bij het laten uitvoeren van martelingen, be",
@@ -62,6 +100,69 @@
   ],
   "samenvatting": "Een automobilist is woensdagmiddag met haar auto een tuin in Dronten ingereden en tegen de gevel van een woning tot stilstand gekomen. Volgens een 112-correspondent ging het om een oudere vrouw die bezig was met parkeren. Ze raakte niet gewond, meldt de politie. Het opmerkelijke ongeluk gebeurde rond 13.20 uur aan de L",
   "link": "https://www.omroepflevoland.nl/nieuws/524017/parkeren-gaat-mis:-automobilist-eindigt-in-voortuin-tegen-gevel-woning"
+ },
+ {
+  "id": "f30dd83377",
+  "datum": "2026-09-16",
+  "tijd": "16:33",
+  "nieuw": true,
+  "titel": "Oussama B., die woning en kantoor van Derk Wiersum verkende voorafgaand aan de moord, na jarenlange klopjacht opgepakt in Parijs - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "moord",
+   "woning"
+  ],
+  "samenvatting": "Oussama B., die woning en kantoor van Derk Wiersum verkende voorafgaand aan de moord, na jarenlange klopjacht opgepakt in Parijs Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSEdGc2cwaUh6RHJOclI2V3pOT1dNNkt1NGRKSERXTkZEYUxySHpROUlNcjFuQldZWWZfcjg4MmpENE1sb085SFNBWEszang2YWYyVWUtOGVoOXNzaW8xX0NRbGVQdDJhekF4azlaWHBGUkVkZDR3RVltck1pcTk1MC1lUkRuSVdUcEdwVzFKV1FlVWpJekNKUWVnSzFmZ01kRXpRS2xDT0I0MVdXam1vVXJXeDlnbTF3WGpuNHFfWVhmVkItRnJ1UFZ5bndhWVF3eVY2X2ppQ0xFOUtvc2cxOGFkSWFaZWU3UURxRGRpVFJidWZyOVJDMldMTQ?oc=5"
+ },
+ {
+  "id": "b80b7c4765",
+  "datum": "2026-09-16",
+  "tijd": "16:15",
+  "nieuw": true,
+  "titel": "Zeg Rijkswaterstaat, mag een militaire vrachtwagen de Merwedebrug A27 over?",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "stal",
+   "vrachtwagen"
+  ],
+  "samenvatting": "'Tonnie On Tour' zag het woensdagmiddag met eigen ogen gebeuren: een militaire vrachtwagen die over de Merwedebrug reed. En dat terwijl de brug al twee maanden dicht is voor vrachtwagens. Tonnie is zelfbenoemd weginspecteur en al vele jaren fan van de Merwedebrug. Mag dit, vroeg Tonnie aan zijn 1600 volgers op X? In zi",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027532/zeg-rijkswaterstaat-mag-een-militaire-vrachtwagen-de-merwedebrug-a27-over"
+ },
+ {
+  "id": "ace2f65dd1",
+  "datum": "2026-09-16",
+  "tijd": "15:32",
+  "nieuw": true,
+  "titel": "70-jarige vrouw overleden na ongeval met vrachtwagen bij Luttenberg",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "De 70-jarige fietsster die gisteren ernstig gewond raakte bij een ongeval op de Mastenbroekweg bij Luttenberg, is overleden. Dat meldt de politie. Het slachtoffer kwam uit de Friese gemeente Opsterland.",
+  "link": "https://www.oost.nl/nieuws/3696552/70-jarige-vrouw-overleden-na-ongeval-met-vrachtwagen-bij-luttenberg"
  },
  {
   "id": "aeac4692d0",
@@ -150,17 +251,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Jeugd & jonge aanwas",
-   "Ondernemers & weerbaarheid",
-   "Wapens, explosieven & vuurwerk"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "bedrijventerrein",
-   "explosie",
-   "gemeenteraad",
-   "jongeren",
-   "vergunning"
+   "gemeenteraad"
   ],
   "samenvatting": "De gemeenteraad van Den Bosch praat woensdagavond opnieuw over de komst van een opvanglocatie voor alleenstaande minderjarige vluchtelingen (amv) in Engelen. Politieke partijen stemmen niet over het voorstel, maar kunnen wel hun meningen over het plan meegeven aan het college. Vijf vragen over wat we vanavond kunnen ve",
   "link": "https://www.omroepbrabant.nl/nieuws/6027473/opvanglocatie-engelen-opnieuw-besproken-dit-kun-je-woensdag-verwachten"
@@ -277,7 +371,7 @@
   "id": "5620bf77cf",
   "datum": "2026-09-16",
   "tijd": "12:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Van wijn tot halva: importverbod raakt Israël Producten Centrum",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -296,7 +390,7 @@
   "id": "4faaadf8ed",
   "datum": "2026-09-16",
   "tijd": "11:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Versterking van de maatregelen ter voorkoming en bestrijding van witwassen in de goud- en edelstenenhandel.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -317,7 +411,7 @@
   "id": "a3c9581ebb",
   "datum": "2026-09-16",
   "tijd": "11:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Onderzoek naar vliegtuigbom in Eindhoven, straten afgesloten",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -535,6 +629,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523934/sebastiaan-(20)-levert-hamer-voor-overval-op-juwelier:-voorwaardelijke-jeugd-tbs"
  },
  {
+  "id": "56d8d48e93",
+  "datum": "2026-09-16",
+  "tijd": "09:22",
+  "nieuw": false,
+  "titel": "Veroordeling tot taakstraf voor witwassen van € 20.000 in een meegevoerd tasje; geen vormverzuim bij het overhandigen van het tasje aan de politie",
+  "bron": "BijzonderStrafrecht.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Veroordeling tot taakstraf voor witwassen van € 20.000 in een meegevoerd tasje; geen vormverzuim bij het overhandigen van het tasje aan de politie BijzonderStrafrecht.nl",
+  "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQWpMRUZpb2lNNzdoeDNwc1FlRkJrbGw3OXVTZ0pNLXIxRjF5aWNLaDJKTlQyV0pGTFdJSUFWdWd1UEticFYyaXQ1c2RNa3hIN2VETVUxVVdELVJYY3psVmozdnh2c0wyZTN3RnNkbDg1MUM5Q3VRQng3czN3U0VySVp2OGNsb2tibEdrVnR4Q2ZTQnlYRlJ1ZWNkT2RRMlA2cVRCZE5kT2hRQ2RZZnNjZWRTZF82dEZsQUhoZ2tGcnZwWXgwNmV2Q2tBTGJ4ZkVxbFp3TWdqd1pIX1BvX21XR0RNcjNCU0JVWmpNN2ZJbXJ2MlBMWVBJejZIdVhmYTlwdXg5NktGaWRsYTItQ19Z?oc=5"
+ },
+ {
   "id": "1fc065f336",
   "datum": "2026-09-16",
   "tijd": "09:16",
@@ -554,6 +667,25 @@
   ],
   "samenvatting": "Zwaarbewapende agenten zijn dinsdagavond naar een flatwoning gegaan aan de Reijerweg in Ridderkerk. Dat deden zij na meldingen over een agressieve man in het huis, die spullen uit het raam zou gooien. Omwonenden hadden ook een knal gehoord en in het raam zat een gat.",
   "link": "https://www.rijnmond.nl/nieuws/2254554/agressieve-man-gooit-spullen-naar-buiten-kogelgat-in-raam-aanhouding-door-zwaarbewapende-agenten"
+ },
+ {
+  "id": "22a23cabe9",
+  "datum": "2026-09-16",
+  "tijd": "09:15",
+  "nieuw": false,
+  "titel": "Werknemer Schmidt Zeevis speelt vertrouwelijke klantgegevens door",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "vertrouwelijke informatie"
+  ],
+  "samenvatting": "Een werknemer van Koninklijke Schmidt Zeevis uit Rotterdam heeft vertrouwelijke informatie van een klant aan een ander bedrijf gegeven. Met het doorspelen van die gegevens heeft de werknemer het geheimhoudingsbeding uit de arbeidsovereenkomst geschonden. Als hij dat nog een keer doet, moet hij een boete betalen. Dat co",
+  "link": "https://www.rijnmond.nl/nieuws/2254575/werknemer-schmidt-zeevis-speelt-vertrouwelijke-klantgegevens-door"
  },
  {
   "id": "cd8c65f3d6",
@@ -843,32 +975,6 @@
   "link": "https://nos.nl/l/2631159"
  },
  {
-  "id": "a7398566a4",
-  "datum": "2026-09-15",
-  "tijd": "20:16",
-  "nieuw": false,
-  "titel": "Lelystad - Meisje raakt als 13-jarige betrokken bij helpdeskfraude, ouderen voor 26.000 euro opgelicht",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting",
-   "Witwassen & geldstromen"
-  ],
-  "tags": [
-   "contant geld",
-   "geweld",
-   "jeugd",
-   "school",
-   "woning"
-  ],
-  "samenvatting": "Ze was 13 jaar toen ze betrokken raakte bij de oplichting van ten minste twaalf ouderen. Samen met enkele mededaders maakte ze eind vorig jaar meer dan 26.000 euro buit. Dat gebeurde via zogenoemde bankhelpdeskfraude. De slachtoffers in de leeftijd van 66 tot 92 jaar werden gebeld door een zogenaamde medewerker van een",
-  "link": "https://www.omroepflevoland.nl/nieuws/523916/meisje-raakt-als-13-jarige-betrokken-bij-helpdeskfraude-ouderen-voor-26.000-euro-opgelicht"
- },
- {
   "id": "ce5db49d1b",
   "datum": "2026-09-15",
   "tijd": "19:22",
@@ -1062,26 +1168,6 @@
   ],
   "samenvatting": "Sabotage op het spoor Op veel plekken in het midden, oosten en noorden van Nederland rijden nog minder treinen. De oorzaak zijn sabotageacties, wie erachter zit, is nog onduidelijk. Op zeker dertig plekken zijn spullen op de rails gevonden. Er zijn nu ook acties gaande langs de wegen, daar staan hooibalen in brand. Het",
   "link": "https://nos.nl/l/2631118"
- },
- {
-  "id": "500a639e7c",
-  "datum": "2026-09-15",
-  "tijd": "15:52",
-  "nieuw": false,
-  "titel": "Lichaam gevonden bij Arnhem, mogelijk vermiste zanger Ben Saunders",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "motorclub",
-   "satudarah"
-  ],
-  "samenvatting": "Bij een zoekactie in een recreatiegebied ten zuiden van Arnhem is vanmiddag een lichaam aangetroffen. Vrienden van de 43-jarige zanger Ben Saunders zeggen tegen De Telegraaf dat het om hem gaat. De winnaar van het eerste seizoen van tv-talentenjacht The Voice of Holland is sinds vanochtend vermist. Later verspreidde de",
-  "link": "https://nos.nl/l/2631117"
  },
  {
   "id": "da160dcf47",
@@ -2089,6 +2175,25 @@
   ],
   "samenvatting": "De politie is maandag met veel eenheden, waaronder de Dienst Speciale Interventies (DSI), aanwezig in het centrum van Lobith voor een melding van een persoon met een mogelijk vuurwapen. Een 112-verslaggever ter plaatse meldt dat een persoon is aangehouden.",
   "link": "https://www.gld.nl/nieuws/8523286/man-aangehouden-na-melding-van-mogelijk-vuurwapen-in-lobith-politiehelikopter-en-dsi-ter-plaatse"
+ },
+ {
+  "id": "11f5177be5",
+  "datum": "2026-09-14",
+  "tijd": "14:37",
+  "nieuw": false,
+  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
+  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
