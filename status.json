@@ -1,12 +1,12 @@
 {
- "run": "13:42",
+ "run": "14:40",
  "datum": "2026-09-16",
- "nieuw": 16,
- "totaal": 3198,
- "verwijderd": 17,
+ "nieuw": 21,
+ "totaal": 3204,
+ "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1092,
-  "geen dossier": 477
+  "niet-nederlands": 1080,
+  "geen dossier": 478
  },
  "bronnen": [
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 175,
-   "status": "bij",
+   "items": 176,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 114,
-   "status": "4 nieuw",
+   "items": 116,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 151,
-   "status": "bij",
+   "items": 152,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 26,
-   "status": "bij",
+   "items": 27,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 66,
-   "status": "bij",
+   "items": 67,
+   "status": "1 nieuw",
    "ok": true
   },
   {
