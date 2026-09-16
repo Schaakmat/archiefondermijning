@@ -1,5 +1,50 @@
 [
  {
+  "id": "0c47318b85",
+  "datum": "2026-09-16",
+  "tijd": "17:25",
+  "nieuw": true,
+  "titel": "Meisje (14) aangehouden voor vernielingen basisschool Mierlo, 100.000 euro schade",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren",
+   "school"
+  ],
+  "samenvatting": "Een 14-jarig meisje uit Mierlo is gisteren aangehouden voor betrokkenheid bij grootschalige vernielingen op een basisschool in Mierlo, in de buurt van Eindhoven. Eind augustus richtte een groep jongeren voor zo'n 100.000 euro schade aan in bassischool De Kleine Vos. De groep vernielde digiborden, gooide meubels om en r",
+  "link": "https://nos.nl/l/2631261"
+ },
+ {
+  "id": "8e46e64d74",
+  "datum": "2026-09-16",
+  "tijd": "17:10",
+  "nieuw": true,
+  "titel": "Mogelijke IS-leider uit Arkel moet 17,5 de cel in, vindt het OM",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "afval",
+   "explosie",
+   "leider",
+   "netwerk",
+   "organisatie"
+  ],
+  "samenvatting": "Het Openbaar Ministerie wil dat de 41-jarige Ayham A. uit het Zuid-Hollandse dorp Arkel 17,5 jaar cel krijgt voor zijn rol binnen de terroristische organisatie Islamitische Staat (IS). Volgens het OM is er voldoende bewijs om aan te nemen dat A. een vooraanstaande rol speelde bij het laten uitvoeren van martelingen, be",
+  "link": "https://nos.nl/l/2631258"
+ },
+ {
   "id": "3cd8a97453",
   "datum": "2026-09-16",
   "tijd": "16:39",
@@ -86,6 +131,25 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "gemeenteraad"
+  ],
+  "samenvatting": "De gemeenteraad van Den Bosch praat woensdagavond opnieuw over de komst van een opvanglocatie voor alleenstaande minderjarige vluchtelingen (amv) in Engelen. Politieke partijen stemmen niet over het voorstel, maar kunnen wel hun meningen over het plan meegeven aan het college. Vijf vragen over wat we vanavond kunnen ve",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027473/raad-weer-bijeen-over-opvanglocatie-engelen-dit-gebeurt-er-woensdag"
+ },
+ {
+  "id": "fc88365751",
+  "datum": "2026-09-16",
+  "tijd": "14:00",
+  "nieuw": true,
+  "titel": "Opvanglocatie Engelen opnieuw besproken: dit kun je woensdag verwachten",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
    "Bibob & bestuurlijke aanpak",
    "Jeugd & jonge aanwas",
    "Ondernemers & weerbaarheid",
@@ -99,7 +163,7 @@
    "vergunning"
   ],
   "samenvatting": "De gemeenteraad van Den Bosch praat woensdagavond opnieuw over de komst van een opvanglocatie voor alleenstaande minderjarige vluchtelingen (amv) in Engelen. Politieke partijen stemmen niet over het voorstel, maar kunnen wel hun meningen over het plan meegeven aan het college. Vijf vragen over wat we vanavond kunnen ve",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027473/raad-weer-bijeen-over-opvanglocatie-engelen-dit-gebeurt-er-woensdag"
+  "link": "https://www.omroepbrabant.nl/nieuws/6027473/opvanglocatie-engelen-opnieuw-besproken-dit-kun-je-woensdag-verwachten"
  },
  {
   "id": "f5284e4f6e",
@@ -112,10 +176,13 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging"
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
   ],
   "tags": [
-   "beveiliging"
+   "bedreiging",
+   "beveiliging",
+   "woning"
   ],
   "samenvatting": "Een student van de Technische Universiteit Eindhoven (TU/e) heeft woensdagochtend in een volle collegezaal beledigende en racistische opmerkingen gemaakt richting medestudenten. Ook bracht de student de nazigroet. Studiegenoten grepen in en zouden op de vuist zijn gegaan met de mannelijke student. Het incident gebeurde",
   "link": "https://www.omroepbrabant.nl/nieuws/6027517/nazigroet-van-student-tue-in-volle-collegezaal-mondt-uit-in-vechtpartij"
@@ -125,7 +192,7 @@
   "datum": "2026-09-16",
   "tijd": "13:31",
   "nieuw": true,
-  "titel": "Almere - Nieuwe regels gemeente Almere: Scholen krijgen voorrang op overvol stroomnet",
+  "titel": "Almere - Nieuwe regels gemeente Almere: scholen krijgen voorrang op overvol stroomnet",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -203,7 +270,7 @@
    "loods",
    "pand"
   ],
-  "samenvatting": "Een gespecialiseerd gaspakkenteam van Chemelot is woensdagmiddag naar binnen gegaan bij Aarts Metaal aan de Bonksel in Asten nadat daar giftige en bijtende dampen waren vrijgekomen. De specialisten zijn gestart met het gecontroleerd ontluchten van het bedrijf. De woonwijk en omliggende bedrijven blijven uit voorzorg on",
+  "samenvatting": "Een gespecialiseerd gaspakkenteam van Chemelot is woensdagmiddag naar binnen gegaan bij Aarts Metaal aan de Bonksel in Asten nadat daar giftige en bijtende dampen waren vrijgekomen. De specialisten zijn gestart met het gecontroleerd ontluchten van het bedrijf. De woonwijk en omliggende bedrijven werden uit voorzorg ont",
   "link": "https://www.omroepbrabant.nl/nieuws/6027506/specialistisch-team-naar-binnen-na-vrijkomen-giftige-dampen-in-asten"
  },
  {
@@ -269,7 +336,7 @@
   "id": "d2609a3e94",
   "datum": "2026-09-16",
   "tijd": "11:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Vrouw met 95 messteken om het leven gebracht': verdachte wordt nader onderzocht",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -288,7 +355,7 @@
   "id": "756c03bc4b",
   "datum": "2026-09-16",
   "tijd": "11:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester sluit pand van drugslab in IJsselmuiden voor half jaar, buren kunnen nog niet terug",
   "bron": "de Stentor",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -311,7 +378,7 @@
   "id": "8d9441e4ef",
   "datum": "2026-09-16",
   "tijd": "11:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester sluit pand van drugslab in IJsselmuiden voor half jaar, buren kunnen nog niet terug",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -334,7 +401,7 @@
   "id": "97133d0b02",
   "datum": "2026-09-16",
   "tijd": "11:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Civiele Bescherming is nog steeds bezig met ontmanteling van “zeer groot” drugslab in Bree",
   "bron": "Nieuwsblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -353,7 +420,7 @@
   "id": "d0bb406720",
   "datum": "2026-09-16",
   "tijd": "10:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Lastpak' van camping in Barchem komt tot overeenkomst met Huttopia",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -372,7 +439,7 @@
   "id": "77544ee396",
   "datum": "2026-09-16",
   "tijd": "10:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gast van camping Barchem komt eindelijk tot deal met Huttopia: 'Ik ben een lastpak'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -391,7 +458,7 @@
   "id": "36a9e58535",
   "datum": "2026-09-16",
   "tijd": "10:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist straffen tegen OM-medewerker en partner in drugsonderzoek - Openbaar Ministerie",
   "bron": "Openbaar Ministerie",
   "verzameld_via": "Openbaar Ministerie",
@@ -408,7 +475,7 @@
   "id": "bad60487c2",
   "datum": "2026-09-16",
   "tijd": "10:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie tieners aangehouden in onderzoek naar explosie Kolfschotenstraat Amsterdam-Zuidoost - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -487,25 +554,6 @@
   ],
   "samenvatting": "Zwaarbewapende agenten zijn dinsdagavond naar een flatwoning gegaan aan de Reijerweg in Ridderkerk. Dat deden zij na meldingen over een agressieve man in het huis, die spullen uit het raam zou gooien. Omwonenden hadden ook een knal gehoord en in het raam zat een gat.",
   "link": "https://www.rijnmond.nl/nieuws/2254554/agressieve-man-gooit-spullen-naar-buiten-kogelgat-in-raam-aanhouding-door-zwaarbewapende-agenten"
- },
- {
-  "id": "22a23cabe9",
-  "datum": "2026-09-16",
-  "tijd": "09:15",
-  "nieuw": false,
-  "titel": "Werknemer Schmidt Zeevis speelt vertrouwelijke klantgegevens door",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Corruptie & integriteit"
-  ],
-  "tags": [
-   "vertrouwelijke informatie"
-  ],
-  "samenvatting": "Een werknemer van Koninklijke Schmidt Zeevis uit Rotterdam heeft vertrouwelijke informatie van een klant aan een ander bedrijf gegeven. Met het doorspelen van die gegevens heeft de werknemer het geheimhoudingsbeding uit de arbeidsovereenkomst geschonden. Als hij dat nog een keer doet, moet hij een boete betalen. Dat co",
-  "link": "https://www.rijnmond.nl/nieuws/2254575/werknemer-schmidt-zeevis-speelt-vertrouwelijke-klantgegevens-door"
  },
  {
   "id": "cd8c65f3d6",
@@ -1349,25 +1397,6 @@
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMnpXdTJoQkFlc1FVNU1lUFBDcEtJSHFWQVp3emNsMExIeFdZY0hZZVVRT0hhTzl2RXdCS3BMUlM5UjhneGdsM1FHYW1KSW5lQXJ3aV9vWTZPUWV3LXdCWlBkV0stcVVUVlc0YXg4N001SnBZUXUtbU5oLURFaG9sUm5saWV6cEtTZE1EV1VuNktJVW9seU1NVER2b21wbjdsWnpNS0pmSEE1MnBRMmkzY3FhVTFzVXBoeHZsTzJRV1o5X0J5N1ZEMVMzRUFlQ3M5bUlUbVdlTDNsZlNaZkI0?oc=5"
  },
  {
-  "id": "feaf597c12",
-  "datum": "2026-09-15",
-  "tijd": "10:34",
-  "nieuw": false,
-  "titel": "Trein bij Steenwijk door sabotageactie 'in aanraking met materiaal op spoor'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "beveiliging"
-  ],
-  "samenvatting": "ProRail zegt dat ten minste één trein op het sabotagemateriaal is gereden waarmee vanochtend op het spoor een grote storing werd veroorzaakt. \"Vanochtend is een trein in aanraking gekomen met materialen op het spoor\", zegt een woordvoerder van ProRail tegen de NOS. Volgens de woordvoerder gebeurde dat bij Steenwijk. \"H",
-  "link": "https://nos.nl/l/2631053"
- },
- {
   "id": "f58174d8a0",
   "datum": "2026-09-15",
   "tijd": "10:27",
@@ -2060,25 +2089,6 @@
   ],
   "samenvatting": "De politie is maandag met veel eenheden, waaronder de Dienst Speciale Interventies (DSI), aanwezig in het centrum van Lobith voor een melding van een persoon met een mogelijk vuurwapen. Een 112-verslaggever ter plaatse meldt dat een persoon is aangehouden.",
   "link": "https://www.gld.nl/nieuws/8523286/man-aangehouden-na-melding-van-mogelijk-vuurwapen-in-lobith-politiehelikopter-en-dsi-ter-plaatse"
- },
- {
-  "id": "11f5177be5",
-  "datum": "2026-09-14",
-  "tijd": "14:37",
-  "nieuw": false,
-  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
-  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
@@ -59433,6 +59443,25 @@
   ],
   "samenvatting": "De aanpak van zorgfraude hoeft niet te wachten op een nieuwe wet Trouw",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUkZnVDVzU1UxeV9MdllGUGd0UmMwTjdLNVk0SnJsLVcxa1M2VjV2dTBqWlZTd2hJVWU3akdTOHI2VXJ6aFM3V2doRE5XV1VJeV9MbHI1cWhpS0NfZVptQ2g2d0lmeUxTaVctX3J2N3FqdkdXemVwT2pLbDQycWtsZ0lRNFByblBMdEpnS1ZYYnA5VDBBWjV2VHN1MmEtRURfWjZ5WQ?oc=5"
+ },
+ {
+  "id": "9e944af763",
+  "datum": "2020-01-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Taxichauffeur Besnik A. krijgt half jaar cel voor witwassen - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Taxichauffeur Besnik A. krijgt half jaar cel voor witwassen Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbU8yRUxyS21hbmp0bzlPd19GVDJKYVNpZzA2WVVzeWhKeEtFWlk0dGN5enpNV2ZlSjhfVDZaS2tKYTQ5YzVici1KQV8tbDhQbFV0UGQxczRtcC1wNVMyM255cVc0QzlZVFg3WnpJRDQ2Y1hQVjRycTZCc3BfWHpPSUNXMzA0dDQzWTNoLWFmZ2RDeU9qLUVuZEZldzZtTjRkaVE?oc=5"
  },
  {
   "id": "4a10fc43d1",
