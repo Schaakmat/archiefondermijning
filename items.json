@@ -23,6 +23,44 @@
   "link": "https://www.omroepflevoland.nl/nieuws/524025/d66-in-tweede-kamer:-'wij-hebben-veel-vragen-over-renaissanceschool-almere'"
  },
  {
+  "id": "142f02aed7",
+  "datum": "2026-09-16",
+  "tijd": "19:14",
+  "nieuw": true,
+  "titel": "Paard overleden bij botsing met auto, bestuurder gewond",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Bij een ongeval op de Kralingse Plaslaan in Rotterdam is een paard overleden. Het dier, afkomstig van de manege die vlakbij ligt, kwam in botsing met een auto en overleed ter plekke. De bestuurder van de auto is gewond geraakt, zo meldt de politie.",
+  "link": "https://www.rijnmond.nl/nieuws/2254801/paard-overleden-bij-botsing-met-auto-bestuurder-gewond"
+ },
+ {
+  "id": "1327b0d16f",
+  "datum": "2026-09-16",
+  "tijd": "19:06",
+  "nieuw": true,
+  "titel": "Extra miljoenen voor elektrificatie spoorlijn tussen Zutphen en Oldenzaal",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "netwerk"
+  ],
+  "samenvatting": "Het kabinet trekt 16 miljoen euro extra uit voor de elektrificatie van de spoorlijn Zutphen-Oldenzaal. Daarmee komt de overstap van diesel naar een volledig elektrisch spoornetwerk in Overijssel een stap dichterbij. De provincie heeft er vertrouwen in de financiering met dit extra bedrag rond te krijgen.",
+  "link": "https://www.oost.nl/nieuws/3696513/extra-miljoenen-voor-elektrificatie-spoorlijn-tussen-zutphen-en-oldenzaal"
+ },
+ {
   "id": "80b47963d4",
   "datum": "2026-09-16",
   "tijd": "18:37",
@@ -265,7 +303,7 @@
   "id": "ace2f65dd1",
   "datum": "2026-09-16",
   "tijd": "15:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "70-jarige vrouw overleden na ongeval met vrachtwagen bij Luttenberg",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -841,32 +879,6 @@
   ],
   "samenvatting": "Tussen brokstukken explosie Osdorp vond recherche wapenarsenaal en voet van verdachte AT5",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdnhqTHZ0RFlZblhGdVBGeDh2a1o1NDV2X2pjMWRVNGpubXBXS095R0hBTUdDODhLNEtieXdfbjBlOVJ6SVU1TTN1N2xYLUVMRUZWSzhWMV81eVdHaWltVzluRkY5TXpDaVctYTVhdWdseFVHMkoxNzJqaDVHbTdCeDhoY0puOXBZRjZqQUpZNFBrZkJ4?oc=5"
- },
- {
-  "id": "3d061e05ce",
-  "datum": "2026-09-16",
-  "tijd": "08:48",
-  "nieuw": false,
-  "titel": "Lelystad - Wethouder praat raad Lelystad bij over Stadshart: winkelpanden Trommel volgend jaar zomer gesloopt",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Horeca, winkels & dienstverlening",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "coffeeshop",
-   "gemeenteraad",
-   "horeca",
-   "pand",
-   "supermarkt",
-   "vergunning"
-  ],
-  "samenvatting": "Het voormalige winkelblok De Trommel aan de Agorahof in Lelystad wordt vanaf mei volgend jaar gesloopt. Wat er precies voor terugkomt, is nog niet duidelijk. Wel is het ongewenst dat de huidige situatie, waarin veel panden leegstaan, blijft bestaan. Dat zei wethouder Sanne de Wilde dinsdagavond in een korte bijpraatses",
-  "link": "https://www.omroepflevoland.nl/nieuws/523937/wethouder-praat-raad-lelystad-bij-over-stadshart:-winkelpanden-trommel-volgend-jaar-zomer-gesloopt"
  },
  {
   "id": "a7eed45812",
