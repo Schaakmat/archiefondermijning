@@ -1,10 +1,31 @@
 [
  {
+  "id": "eac05b9903",
+  "datum": "2026-09-16",
+  "tijd": "06:15",
+  "nieuw": true,
+  "titel": "Naam Bolle Jos voor het eerst genoemd in Europees Parlement",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "geweld"
+  ],
+  "samenvatting": "Het Europees Parlement wil een keiharde aanpak voor Bolle Jos afdwingen door de druk verder op te voeren bij Sierra Leone. Dat schrijft De Telegraaf. Het is de eerste keer dat de naam van de Bredase drugscrimineel wordt genoemd in het Europees Parlement. Volgens de krant stemt een ruime meerderheid van het Europarlemen",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027363/naam-bolle-jos-voor-het-eerst-genoemd-in-europees-parlement"
+ },
+ {
   "id": "6942dccece",
   "datum": "2026-09-16",
   "tijd": "05:56",
   "nieuw": true,
-  "titel": "Aangetroffen lichaam in recreatieplas bij Arnhem is van zanger Ben Saunders",
+  "titel": "Zanger Ben Saunders (43) overleden, eerste winnaar The Voice of Holland",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
@@ -32,17 +53,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
+   "Buitengebied & recreatie"
   ],
   "tags": [
-   "grond",
-   "makelaar",
    "stal",
-   "vakantiepark",
-   "vergunning"
+   "vakantiepark"
   ],
   "samenvatting": "Ingeslagen ramen, een uitgebrande stacaravan, vernielingen en diefstallen. Op het gesloten vakantiepark Prinsenmeer in Ommel staan nog honderden chalets van privé-eigenaren. Zoals het chalet van Kristy, die er slechts 2,5 maand plezier van had. Nu vreest ze dat de gedwongen veiling van het park haar laatste hoop op een",
   "link": "https://www.omroepbrabant.nl/nieuws/6027352/kristy-in-tranen-op-vakantiepark-peter-gillis-chalet-is-niks-meer-waard"
@@ -273,7 +288,7 @@
   "id": "adf87b7ced",
   "datum": "2026-09-15",
   "tijd": "18:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Raad praat woensdag weer over asielopvang Engelen, dit gebeurde tot nu toe",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -294,7 +309,7 @@
   "id": "6c838c91d6",
   "datum": "2026-09-15",
   "tijd": "18:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hoe de komst van 50 jonge vluchtelingen Engelen bezighoudt, een tijdlijn",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
