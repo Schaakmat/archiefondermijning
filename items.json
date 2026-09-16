@@ -1,5 +1,46 @@
 [
  {
+  "id": "6942dccece",
+  "datum": "2026-09-16",
+  "tijd": "05:56",
+  "nieuw": true,
+  "titel": "Aangetroffen lichaam in recreatieplas bij Arnhem is van zanger Ben Saunders",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "motorclub",
+   "satudarah",
+   "wapen"
+  ],
+  "samenvatting": "De familie van Ben Saunders heeft bevestigd dat de zanger is overleden. Bij een recreatieplas ten zuiden van Arnhem werd gisteren het lichaam van een man gevonden. Er waren al vermoedens dat het om Saunders ging. Hoe hij om het leven is gekomen, is niet bekendgemaakt. De politie liet eerder wel weten dat een misdrijf i",
+  "link": "https://nos.nl/l/2631188"
+ },
+ {
+  "id": "b28e936eb4",
+  "datum": "2026-09-16",
+  "tijd": "04:21",
+  "nieuw": true,
+  "titel": "Werkgever schuldig aan dood werknemer na omvallen heistelling in Waalhaven",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "De rechter heeft een funderingsbedrijf uit Noord-Holland schuldig verklaard aan de dood van een eigen werknemer. Dat gebeurde tijdens heiwerkzaamheden in de Rotterdamse Waalhaven. Het bedrijf krijgt een boete van 100.000 euro, waarvan 30.000 voorwaardelijk.",
+  "link": "https://www.rijnmond.nl/nieuws/2254165/werkgever-schuldig-aan-dood-werknemer-na-omvallen-heistelling-in-waalhaven"
+ },
+ {
   "id": "74fb409eee",
   "datum": "2026-09-16",
   "tijd": "00:53",
@@ -42,7 +83,7 @@
   "datum": "2026-09-15",
   "tijd": "23:27",
   "nieuw": true,
-  "titel": "'Weinig beelden en geen idee over daders', zegt ProRail-baas",
+  "titel": "'Weinig beelden en geen idee over daders sabotage', zegt ProRail-baas",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
@@ -267,7 +308,7 @@
   "id": "03c531e726",
   "datum": "2026-09-15",
   "tijd": "17:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zo doet de Rijksrecherche onderzoek naar de dood van arrestant Alfredo",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1246,25 +1287,6 @@
   ],
   "samenvatting": "Een moeder en zoon uit Enschede worden verdacht van mensensmokkel in Deventer door een vrouw uit Colombia onderdak en sekswerk te bieden. De vrouw werd aan het werk gezet in een salon voor erotische massages. Het duo erkent dat de vrouw er zonder de benodigde papieren werkte.",
   "link": "https://www.oost.nl/nieuws/3695546/moeder-en-zoon-verdacht-van-onderdak-bieden-aan-illegale-prostituee-in-deventer"
- },
- {
-  "id": "959c1189ae",
-  "datum": "2026-09-14",
-  "tijd": "17:51",
-  "nieuw": false,
-  "titel": "Lelystad - Basisschooldirecteur na vierde brand in zes jaar tijd: 'Ik word er woest van'",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "school"
-  ],
-  "samenvatting": "\"Dit lokaal kunnen we als verloren beschouwen\". Dat zegt Ernst Meijer, één van de directeuren van basisschool De Zeearend in Lelystad. Het hele klaslokaal is vervuild met roet. Bij het raam waar het vuur begon is flinke brandschade. Aan de buitenkant van het raam stond een scooter die vrijdagavond in brand was gestoken",
-  "link": "https://www.omroepflevoland.nl/nieuws/523757/basisschooldirecteur-na-vierde-brand-in-zes-jaar-tijd:-'ik-word-er-woest-van'"
  },
  {
   "id": "5fe781a034",
