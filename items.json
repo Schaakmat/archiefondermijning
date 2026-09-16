@@ -1,5 +1,33 @@
 [
  {
+  "id": "e2ccac51e7",
+  "datum": "2026-09-16",
+  "tijd": "21:15",
+  "nieuw": true,
+  "titel": "Gemeente moet asielopvang Engelen sluiten als afspraken geschonden worden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Jeugd & jonge aanwas",
+   "Ondernemers & weerbaarheid",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedrijventerrein",
+   "burgemeester",
+   "explosie",
+   "gemeenteraad",
+   "jongeren",
+   "pand"
+  ],
+  "samenvatting": "Als de asielopvang in Engelen er komt moet de gemeente die tussentijds kunnen sluiten als afspraken niet nagekomen worden. Woensdagavond werd in de gemeenteraad van Den Bosch opnieuw gesproken over de opvang van vijftig minderjarige asielzoekers. Duidelijk werd dat er zorgen zijn over de leefbaarheid in Engelen en of d",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027545/gemeente-moet-asielopvang-engelen-sluiten-als-afspraken-geschonden-worden"
+ },
+ {
   "id": "c1768fa715",
   "datum": "2026-09-16",
   "tijd": "20:56",
@@ -257,10 +285,29 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6027537/live-alle-ogen-op-raad-den-bosch-bij-debat-over-asielopvang-engelen"
  },
  {
+  "id": "e80ae7ae2f",
+  "datum": "2026-09-16",
+  "tijd": "16:22",
+  "nieuw": true,
+  "titel": "Alle ogen op raad Den Bosch bij debat over asielopvang Engelen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "gemeenteraad"
+  ],
+  "samenvatting": "De gemeenteraad van Den Bosch praatte woensdagavond opnieuw over de komst van een opvanglocatie voor alleenstaande minderjarige vluchtelingen (amv) in Engelen. Politieke partijen stemmen niet over het voorstel, maar kunnen wel hun meningen over het plan meegeven aan het college. In dit liveblog kon je de vergadering vo",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027537/alle-ogen-op-raad-den-bosch-bij-debat-over-asielopvang-engelen"
+ },
+ {
   "id": "b80b7c4765",
   "datum": "2026-09-16",
   "tijd": "16:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeg Rijkswaterstaat, mag een militaire vrachtwagen de Merwedebrug A27 over?",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -283,7 +330,7 @@
   "id": "931e081ee4",
   "datum": "2026-09-16",
   "tijd": "15:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hoe ontsnap je uit een criminele familie?",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
