@@ -44,11 +44,31 @@
   "link": "https://nos.nl/l/2631239"
  },
  {
-  "id": "961d1173f1",
+  "id": "423fd4c99d",
+  "datum": "2026-09-16",
+  "tijd": "12:33",
+  "nieuw": true,
+  "titel": "Ravage op school in Mierlo: meisje (14) aangehouden, 100.000 euro schade",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren",
+   "school"
+  ],
+  "samenvatting": "Een 14-jarig meisje uit Mierlo is dinsdag aangehouden voor haar mogelijke betrokkenheid bij de grootschalige vernielingen op basisschool De Kleine Vos in Mierlo. De schade wordt geschat op 100.000 euro. Zondagavond 30 augustus werd de basisschool aan de Graspieper getroffen door een groep jongeren. In verschillende kla",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027510/ravage-op-school-in-mierlo-meisje-14-aangehouden-100000-euro-schade"
+ },
+ {
+  "id": "9e310dbe0c",
   "datum": "2026-09-16",
   "tijd": "12:28",
   "nieuw": true,
-  "titel": "'Maximale veiligheidsmaatregelen' bij bestrijding giftige gaswolk in Asten",
+  "titel": "Specialistisch team naar binnen na vrijkomen giftige dampen in Asten",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -63,7 +83,7 @@
    "pand"
   ],
   "samenvatting": "Een gespecialiseerd gaspakkenteam van Chemelot is woensdagmiddag naar binnen gegaan bij Aarts Metaal aan de Bonksel in Asten nadat daar giftige en bijtende dampen waren vrijgekomen. De specialisten zijn gestart met het gecontroleerd ontluchten van het bedrijf. De woonwijk en omliggende bedrijven blijven uit voorzorg on",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027506/maximale-veiligheidsmaatregelen-bij-bestrijding-giftige-gaswolk-in-asten"
+  "link": "https://www.omroepbrabant.nl/nieuws/6027506/specialistisch-team-naar-binnen-na-vrijkomen-giftige-dampen-in-asten"
  },
  {
   "id": "4faaadf8ed",
@@ -311,7 +331,7 @@
   "id": "1fc065f336",
   "datum": "2026-09-16",
   "tijd": "09:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Agressieve man gooit spullen naar buiten, 'kogelgat' in raam: aanhouding door zwaarbewapende agenten",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -332,7 +352,7 @@
   "id": "22a23cabe9",
   "datum": "2026-09-16",
   "tijd": "09:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Werknemer Schmidt Zeevis speelt vertrouwelijke klantgegevens door",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -351,7 +371,7 @@
   "id": "cd8c65f3d6",
   "datum": "2026-09-16",
   "tijd": "09:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tussen brokstukken explosie Osdorp vond recherche wapenarsenaal en voet van verdachte - AT5",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -371,7 +391,7 @@
   "id": "3d061e05ce",
   "datum": "2026-09-16",
   "tijd": "08:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Wethouder praat raad Lelystad bij over Stadshart: winkelpanden Trommel volgend jaar zomer gesloopt",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -397,7 +417,7 @@
   "id": "a7eed45812",
   "datum": "2026-09-16",
   "tijd": "08:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explosie onder sportschool in Osdorp vond volgens justitie plaats in ‘criminele box’ met bommen én (zware) vuurwapens - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -419,7 +439,7 @@
   "id": "d3a6e525a4",
   "datum": "2026-09-16",
   "tijd": "07:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie pakt verdachte (22) op in Vlissingen na vondst harddrugs en contant geld",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -438,7 +458,7 @@
   "id": "c9508aadfb",
   "datum": "2026-09-16",
   "tijd": "07:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw overreden door bestelbus na botsing op drukke kruising in Nuenen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1051,27 +1071,6 @@
   "link": "https://www.gld.nl/nieuws/8523692/vrouw-22-gewond-bij-geweldsincident-twee-mannen-opgepakt"
  },
  {
-  "id": "22a9ab8502",
-  "datum": "2026-09-15",
-  "tijd": "12:56",
-  "nieuw": false,
-  "titel": "Flevoland - Boeren voeren op Prinsjesdag actie vanaf viaducten",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie",
-   "vrachtwagen"
-  ],
-  "samenvatting": "Boeren zijn tijdens Prinsjesdag met hun trekkers de weg opgegaan om te protesteren. Op verschillende viaducten in de provincie vragen ze aandacht voor de problemen in de sector. Daarbij waren veel omgekeerde Nederlandse vlaggen te zien. De protesterende boeren zijn onder meer gespot op het viaduct van de Zuidwesterring",
-  "link": "https://www.omroepflevoland.nl/nieuws/523867/boeren-voeren-op-prinsjesdag-actie-vanaf-viaducten"
- },
- {
   "id": "448a893ed0",
   "datum": "2026-09-15",
   "tijd": "12:32",
@@ -1440,25 +1439,6 @@
   ],
   "samenvatting": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van dinsdag 15 september.",
   "link": "https://www.oost.nl/nieuws/3695680/112-nieuws-traumaheli-opgeroepen-om-ongeval-bij-luttenberg-3800-kilo-vuurwerk-in-beslag-genomen"
- },
- {
-  "id": "cced279066",
-  "datum": "2026-09-15",
-  "tijd": "06:50",
-  "nieuw": false,
-  "titel": "Wekdienst 15/9: Prinsjesdag • Nieuwe zitting in moordzaak Lisa uit Abcoude",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "moord"
-  ],
-  "samenvatting": "Het is de derde dinsdag van september: Prinsjesdag. Het minderheidskabinet presenteert de begroting voor volgend jaar en koning Willem-Alexander houdt de troonrede. Ook wordt de strafzaak vervolgd tegen de 23-jarige Chris Jude, die bekend heeft dat hij de 17-jarige Lisa uit Abcoude heeft vermoord. Eerst het weer: Lokaa",
-  "link": "https://nos.nl/l/2631023"
  },
  {
   "id": "0a21364bc0",
