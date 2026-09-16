@@ -10,19 +10,14 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
    "Geweld, liquidaties & bedreiging",
    "Goudhandel & edelmetalen",
-   "Jeugd & jonge aanwas",
-   "Wapens, explosieven & vuurwerk"
+   "Jeugd & jonge aanwas"
   ],
   "tags": [
    "geweld",
    "jeugd",
-   "juwelier",
-   "organisatie",
-   "sieraden",
-   "wapen"
+   "juwelier"
   ],
   "samenvatting": "Sebastiaan K. (20) uit Lelystad krijgt voorwaardelijke jeugd-tbs met een proeftijd van twee jaar voor zijn aandeel in de gewelddadige overval op juwelier Siebel in Batavia Stad. De rechtbank vindt niet bewezen dat hij een belangrijke rol speelde bij de voorbereiding ervan. K. leverde wel de hamer waarmee op 7 maart vor",
   "link": "https://www.omroepflevoland.nl/nieuws/523934/sebastiaan-(20)-levert-hamer-voor-overval-op-juwelier:-voorwaardelijke-jeugd-tbs"
@@ -54,11 +49,51 @@
   "link": "https://www.omroepflevoland.nl/nieuws/523937/wethouder-praat-raad-lelystad-bij-over-stadshart:-winkelpanden-trommel-volgend-jaar-zomer-gesloopt"
  },
  {
-  "id": "d2301c76b5",
+  "id": "d3a6e525a4",
+  "datum": "2026-09-16",
+  "tijd": "07:55",
+  "nieuw": true,
+  "titel": "Politie pakt verdachte (22) op in Vlissingen na vondst harddrugs en contant geld",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "contant geld"
+  ],
+  "samenvatting": "Hij wordt verdacht van de handel in harddrugs. Bij de aanhouding troffen agenten een grote som geld bij hem aan.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18783385/politie-pakt-verdachte-22-op-in-vlissingen-na-vondst-harddrugs-en-contant-geld"
+ },
+ {
+  "id": "c9508aadfb",
+  "datum": "2026-09-16",
+  "tijd": "07:41",
+  "nieuw": true,
+  "titel": "Vrouw overreden door bestelbus na botsing op drukke kruising in Nuenen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "kapper"
+  ],
+  "samenvatting": "Een fietsster is woensdagochtend ernstig gewond geraakt bij een aanrijding met een bestelbus op de kruising van de Europalaan met de Vallestap in Nuenen. De vrouw werd na de botsing door de bus overreden en is met spoed naar een traumacentrum gebracht. De bestuurder van het bestelbusje zag volgens omstander de vrouw op",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027419/vrouw-overreden-door-bestelbus-na-botsing-op-drukke-kruising-in-nuenen"
+ },
+ {
+  "id": "b96243773c",
   "datum": "2026-09-16",
   "tijd": "07:11",
   "nieuw": true,
-  "titel": "Sint-Jan en Stadstoren Stadhuis onveilig: stadsbeiaardier mag niet spelen",
+  "titel": "Arbeidsinspectie sluit klokkentoren Sint-Jan en Stadhuis: 'Trap te steil'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -71,8 +106,8 @@
    "pand",
    "stal"
   ],
-  "samenvatting": "Stadsbeiaardier Joost van Balkom bespeelt de klokken in de Stadstoren van het Bossche Stadhuis en die van de Sint-Janstoren voorlopig niet. De gemeentelijke arbeidsinspectie heeft aangegeven dat er sprake is van een onveilige situatie en dus zitten beide torens in Den Bosch voorlopig op slot. “Het slot is al veranderd,",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027418/sint-jan-en-stadstoren-stadhuis-onveilig-stadsbeiaardier-mag-niet-spelen"
+  "samenvatting": "De klokken van de Sint-Jan en van het Bossche Stadhuis worden voorlopig niet live bespeeld. De gemeentelijke arbeidsinspectie vindt de situatie te onveilig en heeft beide torens per direct op slot gedaan. “Het slot is al veranderd, ik mag er niet meer in”, zegt stadsbeiaardier Joost van Balkom die in dienst is van de g",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027418/arbeidsinspectie-sluit-klokkentoren-sint-jan-en-stadhuis-trap-te-steil"
  },
  {
   "id": "eac05b9903",
@@ -361,7 +396,7 @@
   "id": "a0286b69a9",
   "datum": "2026-09-15",
   "tijd": "18:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Prinsjesdag: kabinet houdt vast aan stikstofplan, onduidelijkheid over infrastructuur",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -1506,6 +1541,29 @@
   ],
   "samenvatting": "Van drugsafval tot brand en verloedering: hoe een vroegere varkensboerderij schrik aanjaagt ad.nl",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ01qMk1NbTN3S0VKaFV3OTJYWl9xTWN0UVVpTUlQMURmSTU1Um0wZG5LdHdBTEd2Z1ppdkNUd1h5NmtHbTU3SE1Tdk1qSmtwbGRHR3FmcF9YT1MzVzFVOTZfT2ZIN1Zrd2VmcTkySzFwTzhvcldrS0ZMY2djeDd6MmdrNDdENlFNSEYyemU5NHI0YUlKLWktQVhDQXpfY0tSRGNrZE1FTkNaZVAwZEpGQVVXSVRMYXFsQ3g4VFkyVThoZWFC?oc=5"
+ },
+ {
+  "id": "fdb9a0b086",
+  "datum": "2026-09-14",
+  "tijd": "16:08",
+  "nieuw": false,
+  "titel": "Van drugsafval tot brand en verloedering: hoe een vroegere varkensboerderij schrik aanjaagt",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "boerderij",
+   "drugsafval"
+  ],
+  "samenvatting": "Van drugsafval tot brand en verloedering: hoe een vroegere varkensboerderij schrik aanjaagt BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjdNRnVqenJKRHUyNEFjd0l2Vm1fR2pPREs1c2FtVUpfZ29XQ1ptQ0JwaHR0ZDhGdXR3ZWZPVlU0bGVqTmxTZkZnQkxSdzFidU1MSDlnTjdsM3FuQWpPUl9xNEJubjZZd21US2dtWUZROXdyTFoyQ0l6d2xHcXU1SDRtM0tva3J6Q3A4WWUxS0lYZWVkblZzanVXXzZfV0h4ZnJuVnctX282c1k2em0yV0FOWGJQT2U4MXdnS1pxV083MGoyS1hiSXp2MW8?oc=5"
  },
  {
   "id": "f24fc36c1d",
