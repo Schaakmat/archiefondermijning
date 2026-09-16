@@ -1,12 +1,12 @@
 {
- "run": "10:38",
+ "run": "11:39",
  "datum": "2026-09-16",
- "nieuw": 20,
- "totaal": 3189,
- "verwijderd": 19,
+ "nieuw": 22,
+ "totaal": 3194,
+ "verwijderd": 17,
  "geweigerd": {
-  "niet-nederlands": 1084,
-  "geen dossier": 478
+  "niet-nederlands": 1099,
+  "geen dossier": 493
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 151,
-   "status": "bij",
+   "items": 153,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 208,
-   "status": "bij",
+   "items": 209,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -411,7 +411,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 35,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -429,7 +429,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 126,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 148,
-   "status": "bij",
+   "items": 149,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 50,
-   "status": "4 nieuw",
+   "items": 51,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -555,7 +555,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 60,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
