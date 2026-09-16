@@ -1,5 +1,28 @@
 [
  {
+  "id": "c1768fa715",
+  "datum": "2026-09-16",
+  "tijd": "20:56",
+  "nieuw": true,
+  "titel": "Almere - D66 in Tweede Kamer: 'Wij hebben veel vragen over Renaissanceschool Almere'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "haven",
+   "school"
+  ],
+  "samenvatting": "D66 in de Tweede Kamer stelt de bekostiging van de Renaissanceschool in Almere Poort ter discussie. D66-Kamerlid Ilana Rooderkerk vraagt zich af of het overheidsgeld in verhouding staat tot het aantal scholieren. De Renaissanceschool heeft momenteel zes geregistreerde leerlingen, van wie er vier daadwerkelijk les krijg",
+  "link": "https://www.omroepflevoland.nl/nieuws/524025/d66-in-tweede-kamer:-'wij-hebben-veel-vragen-over-renaissanceschool-almere'"
+ },
+ {
   "id": "80b47963d4",
   "datum": "2026-09-16",
   "tijd": "18:37",
@@ -261,7 +284,7 @@
   "id": "aeac4692d0",
   "datum": "2026-09-16",
   "tijd": "14:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hengelose cryptohandelaar krijgt 180 uur taakstraf voor oplichting",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
