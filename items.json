@@ -1,5 +1,24 @@
 [
  {
+  "id": "3ff204267e",
+  "datum": "2026-09-16",
+  "tijd": "21:44",
+  "nieuw": true,
+  "titel": "Onderzoek bij Maxime Night Club in verband met mogelijke mensensmokkel",
+  "bron": "EA News Aruba",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Onderzoek bij Maxime Night Club in verband met mogelijke mensensmokkel EA News Aruba",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUphSHQwbFhGMUE5RWdfZmRLT3IzQ2NBUWlWNnNLbkY4dWdxOEJZMzBoS05Gam9DcVJ5Mkh5Q1ZESmtJYWpxdEVJMXJSVXY4SHNqcWpjYWJTd1hOcDA4Qlpic3MtZ0NRYnRDYnE0a0hRMHBXdzd2Q1ZDTE5BSDVBVmF5X2RhWUpneURoR1Z0b1NEOXEzaWtmdGFn?oc=5"
+ },
+ {
   "id": "e2ccac51e7",
   "datum": "2026-09-16",
   "tijd": "21:15",
@@ -288,7 +307,7 @@
   "id": "e80ae7ae2f",
   "datum": "2026-09-16",
   "tijd": "16:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Alle ogen op raad Den Bosch bij debat over asielopvang Engelen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
