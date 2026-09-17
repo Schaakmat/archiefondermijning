@@ -1,5 +1,24 @@
 [
  {
+  "id": "9334d7083e",
+  "datum": "2026-09-17",
+  "tijd": "10:16",
+  "nieuw": true,
+  "titel": "Almere - Inspectie beoordeelt vrije school Waldorf in eerste jaar als 'zeer zwak', conclusie komt hard aan",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school"
+  ],
+  "samenvatting": "De kleinschalige nieuwe school Waldorf in Almere is tijdens het eerste onderzoek door de Inspectie van het Onderwijs beoordeeld als 'zeer zwak'. Drie van de vier onderzochte onderdelen hebben namelijk een onvoldoende gekregen. De vrijeschool is een jaar geleden gestart met een havo-afdeling met twintig leerlingen . Dit",
+  "link": "https://www.omroepflevoland.nl/nieuws/524106/inspectie-beoordeelt-vrije-school-waldorf-in-eerste-jaar-als-'zeer-zwak'-conclusie-komt-hard-aan"
+ },
+ {
   "id": "075dead080",
   "datum": "2026-09-17",
   "tijd": "09:00",
@@ -17,6 +36,66 @@
   ],
   "samenvatting": "Een rechtbank in Milaan heeft vrijdag zes mensen veroordeeld voor grootschalige fraude met btw. Ze kregen gevangenisstraffen opgelegd van vier tot iets meer dan zeven jaar. De rechter gelastte ook de inbeslagname van ongeveer 300 miljoen euro aan crimineel verkregen vermogen, zo maakte het Europees Openbaar Ministerie ",
   "link": "https://www.ftm.nl/artikelen/btw-bende-veroordeeld"
+ },
+ {
+  "id": "90100be3f9",
+  "datum": "2026-09-17",
+  "tijd": "08:20",
+  "nieuw": true,
+  "titel": "'Student die nazigroet deed ging ook los in appgroep met medestudenten'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "bedreiging",
+   "woning"
+  ],
+  "samenvatting": "De student van de Technische Universiteit Eindhoven (TU/e) die woensdagochtend in een volle collegezaal de nazigroet bracht, heeft die ochtend hoogst waarschijnlijk ook racistische uitlatingen gedaan in een appgroep met medestudenten. Dat blijkt uit screenshots die op social media te zien zijn. Het incident gebeurde wo",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027656/student-die-nazigroet-deed-ging-ook-los-in-appgroep-met-medestudenten"
+ },
+ {
+  "id": "68fd1714c9",
+  "datum": "2026-09-17",
+  "tijd": "07:39",
+  "nieuw": true,
+  "titel": "Spookvoertuigen in beslag genomen en 87 boetes uitgedeeld bij politieactie",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk",
+   "zwaar illegaal vuurwerk"
+  ],
+  "samenvatting": "Bij een grote politiecontrole in Eindhoven zijn woensdagavond 87 boetes uitgeschreven. Dat is een flinke vangst, want in totaal werden 140 voertuigen gecontroleerd. Daarnaast werden vijf 'spookvoertuigen' in beslag genomen. De vijf zogeheten spookvoertuigen waren niet geldig geregistreerd, waardoor er geen belastingen ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027655/spookvoertuigen-in-beslag-genomen-en-87-boetes-uitgedeeld-bij-politieactie"
+ },
+ {
+  "id": "702beb451d",
+  "datum": "2026-09-17",
+  "tijd": "05:34",
+  "nieuw": true,
+  "titel": "‘Spannend project’ of ‘blunderbrug’? Zorgen over oeververbinding die een miljard duurder dreigt te worden",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "gemeenteraad"
+  ],
+  "samenvatting": "De nieuwe stadsbrug over de Nieuwe Maas bestaat voorlopig alleen uit plannen en onderzoeken, maar in de Rotterdamse gemeenteraad doemt al het schrikbeeld op van een financiële strop. Oppositiepartijen vrezen dat de derde stadsbrug veel duurder wordt dan de begrote 1,3 miljard euro. “Ik begrijp dat u zenuwachtig wordt.”",
+  "link": "https://www.rijnmond.nl/nieuws/2254812/spannend-project-of-blunderbrug-zorgen-over-oeververbinding-die-een-miljard-duurder-dreigt-te-worden"
  },
  {
   "id": "af2a0ebf2d",
@@ -208,7 +287,7 @@
   "id": "3c82219bb9",
   "datum": "2026-09-16",
   "tijd": "19:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hennepkwekerij in kelder: man (67) uit Maarheeze krijgt taakstraf en moet verdiensten terugbetalen",
   "bron": "Eindhovens Dagblad",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -227,7 +306,7 @@
   "id": "80b47963d4",
   "datum": "2026-09-16",
   "tijd": "18:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Student TU Eindhoven zou Hitlergroet hebben gebracht in collegezaal",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -246,7 +325,7 @@
   "id": "8ba1e2c16c",
   "datum": "2026-09-16",
   "tijd": "17:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Suurhoffbrug richting Maasvlakte deels gesloten vanwege scheuren in de constructie",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -596,28 +675,6 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6027473/opvanglocatie-engelen-opnieuw-besproken-dit-kun-je-woensdag-verwachten"
  },
  {
-  "id": "f5284e4f6e",
-  "datum": "2026-09-16",
-  "tijd": "13:45",
-  "nieuw": false,
-  "titel": "Nazigroet van student TU/e in volle collegezaal mondt uit in vechtpartij",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "bedreiging",
-   "beveiliging",
-   "woning"
-  ],
-  "samenvatting": "Een student van de Technische Universiteit Eindhoven (TU/e) heeft woensdagochtend in een volle collegezaal beledigende en racistische opmerkingen gemaakt richting medestudenten. Ook bracht de student de nazigroet. Studiegenoten grepen in en zouden op de vuist zijn gegaan met de mannelijke student. Het incident gebeurde",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027517/nazigroet-van-student-tue-in-volle-collegezaal-mondt-uit-in-vechtpartij"
- },
- {
   "id": "cde0181af9",
   "datum": "2026-09-16",
   "tijd": "12:57",
@@ -738,25 +795,6 @@
   ],
   "samenvatting": "Versterking van de maatregelen ter voorkoming en bestrijding van witwassen in de goud- en edelstenenhandel. Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkRhX2F0S244c3AtZUw4MHNQMVFBdUpUUkVNdVJxWkN5eE9YN2hDek1JaWVpcVNzbUhPakdmTWNpV2FFTU14Y182RVBtaEE4X2t1dmtkQzlVY09pYTlldzkyRC1UTWpsVWJqNXNWYlAwdjVud0dvaFUzcUtsRXpnd2MzU1FkaHZucHU2RklCMVBXYlE?oc=5"
- },
- {
-  "id": "a3c9581ebb",
-  "datum": "2026-09-16",
-  "tijd": "11:55",
-  "nieuw": false,
-  "titel": "Onderzoek naar vliegtuigbom in Eindhoven, straten afgesloten",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "explosie"
-  ],
-  "samenvatting": "In Eindhoven wordt woensdag onderzoek gedaan naar een gevonden vliegtuigbom uit de Tweede Wereldoorlog. Meerdere straten rond de Raiffeisenstraat zijn daarom afgesloten. De bom werd op 7 september gevonden tijdens werkzaamheden op een bouwlocatie in het centrum van Eindhoven. Sinds de vondst wordt gekeken hoe het explo",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027501/onderzoek-naar-vliegtuigbom-in-eindhoven-straten-afgesloten"
  },
  {
   "id": "d2609a3e94",
@@ -38247,6 +38285,29 @@
   ],
   "samenvatting": "Woning in Heemskerk die de burgemeester sloot na vondst spullen hennepkwekerij mag weer open. Sluiting wordt last onder dwangsom Noordhollands Dagblad",
   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNQTdhZzA5X2ZYNVhweUJFajVfMElTMGR3SWJlOUgyNk5DRWtiZ1k0cTFqLTJleVBCV2lWclNoMVZUQTNkTUd1YUt4NFJGd0g5Z2psdXVrNExoSlN5REhtcGZaOGZLSVB6OHJyRHMza2Y2czdHc1F5TnZTalZ3Q0duZEdCUEtMdXhlZGV3andwREdzQ3FmRVBPUFNzNUpTMUdGdldhVU9iaC1ua3pVcnU5UDBsRFlINDhDS3k0OTkwRk1Fa3AyVlN4eVAtRGR3SnFCOWFtblY1a1hZdl9ERHhBS09YM1FSemY1RlhhZEVkaHhZOXlFRENzOTVzVFlpQ3VkUlUyWTdtMEJxd3pPNjJUbS1Ua0dBdVNCaFR4TA?oc=5"
+ },
+ {
+  "id": "37aa5ea96a",
+  "datum": "2025-12-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Kopstuk van Kempense afval- en mestfraude sluit deal met Nederlandse justitie in gelijkaardig dossier: “Winstbejag was het enige doel”",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "kopstuk",
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Kopstuk van Kempense afval- en mestfraude sluit deal met Nederlandse justitie in gelijkaardig dossier: “Winstbejag was het enige doel” AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORFZQRU1xWnhQVTNaZkVjcVluSkI1R0MzTHhBUUpkRjBOY3JaeUVxWE9ORDB5NXZpNWZlTndFQlZ4Mzc5Nlg3b2FoVjBtelVUUm9BQ3VacS0tZVUyQm1MeTRHcGVBTWRnZVZ0TnQxOHkwcWhnNjRwMWZOY2c1cUh6VkRHZzJkc19SUFJGOWlfcTd4ZGRkVTh4RnVpMmVpMm5vMk5MZlprSXA3RWh5S0VYRFNvYU5iRXA3Y2docjdzTjJIaGlwbWRhNzh3eG1ZcHIzcWVRY2x0N05RbjZ2aGRZSHY1dHpNUQ?oc=5"
  },
  {
   "id": "d5493f27cb",
