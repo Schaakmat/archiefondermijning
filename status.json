@@ -1,12 +1,12 @@
 {
- "run": "06:46",
+ "run": "07:43",
  "datum": "2026-09-17",
  "nieuw": 13,
- "totaal": 3224,
- "verwijderd": 13,
+ "totaal": 3227,
+ "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1093,
-  "geen dossier": 477
+  "niet-nederlands": 1106,
+  "geen dossier": 483
  },
  "bronnen": [
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -473,8 +473,8 @@
    "url": "www.ftm.nl/feed",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 5,
-   "status": "bij",
+   "items": 6,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -483,7 +483,7 @@
    "methode": "RSS",
    "ritme": "1 dag",
    "items": 3,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -500,7 +500,7 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 107,
+   "items": 108,
    "status": "2 nieuw",
    "ok": true
   },
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 69,
-   "status": "bij",
+   "items": 70,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -555,7 +555,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 64,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

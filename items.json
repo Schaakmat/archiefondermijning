@@ -1,5 +1,24 @@
 [
  {
+  "id": "075dead080",
+  "datum": "2026-09-17",
+  "tijd": "09:00",
+  "nieuw": true,
+  "titel": "Btw-bende in Milaan veroordeeld tot gevangenis­straf",
+  "bron": "Follow the Money",
+  "verzameld_via": "Follow the Money",
+  "soort": "Onderzoek",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende"
+  ],
+  "samenvatting": "Een rechtbank in Milaan heeft vrijdag zes mensen veroordeeld voor grootschalige fraude met btw. Ze kregen gevangenisstraffen opgelegd van vier tot iets meer dan zeven jaar. De rechter gelastte ook de inbeslagname van ongeveer 300 miljoen euro aan crimineel verkregen vermogen, zo maakte het Europees Openbaar Ministerie ",
+  "link": "https://www.ftm.nl/artikelen/btw-bende-veroordeeld"
+ },
+ {
   "id": "af2a0ebf2d",
   "datum": "2026-09-17",
   "tijd": "05:29",
@@ -167,6 +186,25 @@
   "link": "https://www.oost.nl/nieuws/3696513/extra-miljoenen-voor-elektrificatie-spoorlijn-tussen-zutphen-en-oldenzaal"
  },
  {
+  "id": "48cd3fa7d7",
+  "datum": "2026-09-16",
+  "tijd": "19:06",
+  "nieuw": true,
+  "titel": "Elektrificatie spoorlijn Zutphen-Oldenzaal stap dichterbij door extra miljoenen",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "netwerk"
+  ],
+  "samenvatting": "Het kabinet trekt 16 miljoen euro extra uit voor de elektrificatie van de spoorlijn Zutphen-Oldenzaal. Daarmee komt de overstap van diesel naar een volledig elektrisch spoornetwerk in Overijssel een stap dichterbij. De provincie heeft er vertrouwen in de financiering met dit extra bedrag rond te krijgen.",
+  "link": "https://www.oost.nl/nieuws/3696513/elektrificatie-spoorlijn-zutphen-oldenzaal-stap-dichterbij-door-extra-miljoenen"
+ },
+ {
   "id": "3c82219bb9",
   "datum": "2026-09-16",
   "tijd": "19:00",
@@ -227,7 +265,7 @@
   "id": "92966fe94a",
   "datum": "2026-09-16",
   "tijd": "17:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Voet van verdachte en 'wapenarsenaal' gevonden in kelderbox na explosie Amsterdam",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -247,7 +285,7 @@
   "id": "0c47318b85",
   "datum": "2026-09-16",
   "tijd": "17:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Meisje (14) aangehouden voor vernielingen basisschool Mierlo, 100.000 euro schade",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -2380,6 +2418,25 @@
   ],
   "samenvatting": "De politie is maandag met veel eenheden, waaronder de Dienst Speciale Interventies (DSI), aanwezig in het centrum van Lobith voor een melding van een persoon met een mogelijk vuurwapen. Een 112-verslaggever ter plaatse meldt dat een persoon is aangehouden.",
   "link": "https://www.gld.nl/nieuws/8523286/man-aangehouden-na-melding-van-mogelijk-vuurwapen-in-lobith-politiehelikopter-en-dsi-ter-plaatse"
+ },
+ {
+  "id": "11f5177be5",
+  "datum": "2026-09-14",
+  "tijd": "14:37",
+  "nieuw": false,
+  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
+  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
