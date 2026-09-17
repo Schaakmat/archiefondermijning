@@ -1,12 +1,12 @@
 {
- "run": "10:41",
+ "run": "11:40",
  "datum": "2026-09-17",
- "nieuw": 13,
- "totaal": 3236,
+ "nieuw": 12,
+ "totaal": 3239,
  "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 1091,
-  "geen dossier": 479
+  "niet-nederlands": 1092,
+  "geen dossier": 472
  },
  "bronnen": [
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 111,
-   "status": "3 nieuw",
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -527,7 +527,7 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 28,
+   "items": 29,
    "status": "1 nieuw",
    "ok": true
   },
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 70,
-   "status": "bij",
+   "items": 71,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,7 +545,7 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 50,
+   "items": 51,
    "status": "2 nieuw",
    "ok": true
   },
