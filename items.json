@@ -1,10 +1,54 @@
 [
  {
+  "id": "19f17e9ffc",
+  "datum": "2026-09-17",
+  "tijd": "15:09",
+  "nieuw": true,
+  "titel": "Urk - Burgemeester Urk noemt aanrandingszaak fractievoorzitter 'ernstig': 'Integriteit en vertrouwen van groot belang'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Corruptie & integriteit",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "burgemeester",
+   "gemeenteraad",
+   "integriteit",
+   "jongeren"
+  ],
+  "samenvatting": "Burgemeester Bart Jaspers Faijer van de gemeente Urk noemt de strafzaak tegen een fractievoorzitter uit de gemeenteraad 'ernstig'. Vandaag verscheen de beschuldigde politicus (58) voor de rechtbank van Zutphen vanwege een zedendelict eind 2024 met een destijds 18-jarige jongen. Jaspers Faijer heeft de berichten over za",
+  "link": "https://www.omroepflevoland.nl/nieuws/524151/burgemeester-urk-noemt-aanrandingszaak-fractievoorzitter-'ernstig':-'integriteit-en-vertrouwen-van-groot-belang'"
+ },
+ {
+  "id": "12b9e68a6a",
+  "datum": "2026-09-17",
+  "tijd": "15:03",
+  "nieuw": true,
+  "titel": "17/9 in Nieuwsuur: Geen grip op zorgfraude • De boekhouding van het kabinet-Jetten • Woede in Israël door Gaza-docu",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgaanbieder",
+   "zorgfraude"
+  ],
+  "samenvatting": "Geen grip op zorgfraude Gemeenten geven jaarlijks grote bedragen uit aan zorggeld voor verschillende zorgaanbieders. Maar de fraude in de sector blijft een hardnekkig probleem. Er kan voldoende worden aangetoond of zorg daadwerkelijk is verleend, en er verdwijnen grote bedragen in de zakken van criminelen. De Tweede Ka",
+  "link": "https://nos.nl/l/2631390"
+ },
+ {
   "id": "808f7b6096",
   "datum": "2026-09-17",
   "tijd": "14:23",
   "nieuw": true,
-  "titel": "Flevoland - Spookauto in berm van Larserweg na weken weggesleept",
+  "titel": "Lelystad - Spookauto in berm van Larserweg na weken weggesleept",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -19,6 +63,25 @@
   ],
   "samenvatting": "De spookauto die al weken in de berm van de Larserweg in Lelystad staat, is donderdagmiddag weggesleept. Een bergingsdienst heeft de auto in opdracht van de provincie weggehaald. Van de eigenaar ontbrak eind augustus nog ieder spoor. Het voertuig stond sinds 14 augustus in de berm ter hoogte van de bushalte Eendenweg, ",
   "link": "https://www.omroepflevoland.nl/nieuws/524143/spookauto-in-berm-van-larserweg-na-weken-weggesleept"
+ },
+ {
+  "id": "f5ed51a7ae",
+  "datum": "2026-09-17",
+  "tijd": "13:20",
+  "nieuw": true,
+  "titel": "Verdachte van geweld in Overasselt vrijdag weer op vrije voeten",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Een 22-jarige Belg die wordt verdacht van betrokkenheid bij het dodelijke schietincident in Overasselt wordt vrijdag vrijgelaten. Volgens het Openbaar Ministerie blijkt uit de voorlopige resultaten van het onderzoek dat hij aantoonbaar niet op een plaats delict is geweest. Hij blijft voorlopig wel verdachte.",
+  "link": "https://www.gld.nl/nieuws/8524481/verdachte-van-geweld-in-overasselt-vrijdag-weer-op-vrije-voeten"
  },
  {
   "id": "50ac37d872",
@@ -78,6 +141,27 @@
   "link": "https://nos.nl/l/2631366"
  },
  {
+  "id": "249771e85d",
+  "datum": "2026-09-17",
+  "tijd": "11:45",
+  "nieuw": true,
+  "titel": "Enschedese (58) opgepakt die huurmoord zou hebben besteld via darkweb",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bitcoin",
+   "moord"
+  ],
+  "samenvatting": "De politie heeft een Enschedese (58) opgepakt die met bitcoin een huurmoord zou hebben besteld op het darkweb. Het beoogde slachtoffer was iemand uit Overijssel.",
+  "link": "https://www.oost.nl/nieuws/3696787/enschedese-58-opgepakt-die-huurmoord-zou-hebben-besteld-via-darkweb"
+ },
+ {
   "id": "d7c028bf2a",
   "datum": "2026-09-17",
   "tijd": "11:40",
@@ -116,6 +200,25 @@
   ],
   "samenvatting": "Ook is de tweede getroffen woning gesloten door de gemeente Tholen",
   "link": "https://www.omroepzeeland.nl/nieuws/18789817/gemeente-tholen-plaatst-cameras-in-bloemenlaan-na-twee-explosies-in-een-week"
+ },
+ {
+  "id": "70aa9a5228",
+  "datum": "2026-09-17",
+  "tijd": "11:12",
+  "nieuw": true,
+  "titel": "Camera's en woningsluiting: gemeente grijpt in na ontploffingen Sint-Maartensdijk",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De tweede getroffen woning is gesloten door de gemeente Tholen",
+  "link": "https://www.omroepzeeland.nl/nieuws/18789817/cameras-en-woningsluiting-gemeente-grijpt-in-na-ontploffingen-sint-maartensdijk"
  },
  {
   "id": "261ff317ce",
@@ -159,7 +262,7 @@
   "id": "9334d7083e",
   "datum": "2026-09-17",
   "tijd": "10:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Inspectie beoordeelt vrije school Waldorf in eerste jaar als 'zeer zwak', conclusie komt hard aan",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -178,7 +281,7 @@
   "id": "4ae4353634",
   "datum": "2026-09-17",
   "tijd": "09:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Geen waarschuwingsschot: agent schoot gericht op verfspuiter bij rechtbank",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -197,7 +300,7 @@
   "id": "f0f99faf71",
   "datum": "2026-09-17",
   "tijd": "09:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Archeologisch onderzoek moet uitwijzen dat Zeeland vóór de Romeinen al springlevend was",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -216,7 +319,7 @@
   "id": "a32ecda0a4",
   "datum": "2026-09-17",
   "tijd": "09:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lao Cai intensiveert de inspanningen om mensenhandel in gebieden met etnische minderheden te voorkomen.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -308,11 +411,11 @@
   "link": "https://www.rijnmond.nl/nieuws/2255206/politie-agent-schoot-gericht-nadat-hij-met-spuitbus-in-gezicht-werd-bespoten"
  },
  {
-  "id": "68fd1714c9",
+  "id": "0f80b81a85",
   "datum": "2026-09-17",
   "tijd": "07:39",
   "nieuw": false,
-  "titel": "Spookvoertuigen in beslag genomen en 87 boetes uitgedeeld bij politieactie",
+  "titel": "Tientallen boetes uitgeschreven en spookwagens ontdekt bij politieactie",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -325,7 +428,7 @@
    "zwaar illegaal vuurwerk"
   ],
   "samenvatting": "Bij een grote politiecontrole in Eindhoven zijn woensdagavond 87 boetes uitgeschreven. Dat is een flinke vangst, want in totaal werden 140 voertuigen gecontroleerd. Daarnaast werden vijf 'spookvoertuigen' in beslag genomen. De vijf zogeheten spookvoertuigen waren niet geldig geregistreerd, waardoor er geen belastingen ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027655/spookvoertuigen-in-beslag-genomen-en-87-boetes-uitgedeeld-bij-politieactie"
+  "link": "https://www.omroepbrabant.nl/nieuws/6027655/tientallen-boetes-uitgeschreven-en-spookwagens-ontdekt-bij-politieactie"
  },
  {
   "id": "702beb451d",
@@ -449,31 +552,6 @@
   ],
   "samenvatting": "Als de asielopvang in Engelen er komt, moet de gemeente die tussentijds kunnen sluiten als afspraken niet nagekomen worden. Woensdagavond werd in de gemeenteraad van Den Bosch opnieuw gesproken over de opvang van vijftig minderjarige asielzoekers. Duidelijk werd dat er zorgen zijn over de leefbaarheid in Engelen en of ",
   "link": "https://www.omroepbrabant.nl/nieuws/6027545/gemeente-moet-asielopvang-engelen-sluiten-als-afspraken-geschonden-worden"
- },
- {
-  "id": "c1768fa715",
-  "datum": "2026-09-16",
-  "tijd": "20:56",
-  "nieuw": false,
-  "titel": "Almere - D66 in Tweede Kamer: 'Wij hebben veel vragen over Renaissanceschool Almere'",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Cocaine, haven & logistiek",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "grond",
-   "haven",
-   "kamervragen",
-   "school"
-  ],
-  "samenvatting": "D66 in de Tweede Kamer stelt de bekostiging van de Renaissanceschool in Almere Poort ter discussie met Kamervragen. D66-Kamerlid Ilana Rooderkerk vraagt zich af of het overheidsgeld in verhouding staat tot het aantal scholieren. De Renaissanceschool heeft momenteel zes geregistreerde leerlingen, van wie er vier daadwer",
-  "link": "https://www.omroepflevoland.nl/nieuws/524025/d66-in-tweede-kamer:-'wij-hebben-veel-vragen-over-renaissanceschool-almere'"
  },
  {
   "id": "142f02aed7",
@@ -747,11 +825,11 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6027537/alle-ogen-op-raad-den-bosch-bij-debat-over-asielopvang-engelen"
  },
  {
-  "id": "b80b7c4765",
+  "id": "b3b49236b5",
   "datum": "2026-09-16",
   "tijd": "16:15",
   "nieuw": false,
-  "titel": "Zeg Rijkswaterstaat, mag een militaire vrachtwagen de Merwedebrug A27 over?",
+  "titel": "Militaire vrachtwagen rijdt over Merwedebrug: 'Mag dat?'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -767,7 +845,7 @@
    "vrachtwagen"
   ],
   "samenvatting": "'Tonnie On Tour' zag het woensdagmiddag met eigen ogen gebeuren: een militaire vrachtwagen die over de Merwedebrug reed. En dat terwijl de brug al twee maanden dicht is voor vrachtwagens. Tonnie is zelfbenoemd weginspecteur en al vele jaren fan van de Merwedebrug. Mag dit, vroeg Tonnie aan zijn 1600 volgers op X? In zi",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027532/zeg-rijkswaterstaat-mag-een-militaire-vrachtwagen-de-merwedebrug-a27-over"
+  "link": "https://www.omroepbrabant.nl/nieuws/6027532/militaire-vrachtwagen-rijdt-over-merwedebrug-mag-dat"
  },
  {
   "id": "931e081ee4",
@@ -2641,25 +2719,6 @@
   ],
   "samenvatting": "De politie is maandag met veel eenheden, waaronder de Dienst Speciale Interventies (DSI), aanwezig in het centrum van Lobith voor een melding van een persoon met een mogelijk vuurwapen. Een 112-verslaggever ter plaatse meldt dat een persoon is aangehouden.",
   "link": "https://www.gld.nl/nieuws/8523286/man-aangehouden-na-melding-van-mogelijk-vuurwapen-in-lobith-politiehelikopter-en-dsi-ter-plaatse"
- },
- {
-  "id": "11f5177be5",
-  "datum": "2026-09-14",
-  "tijd": "14:37",
-  "nieuw": false,
-  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
-  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
