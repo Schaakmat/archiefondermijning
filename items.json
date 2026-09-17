@@ -10,19 +10,13 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Jeugd & jonge aanwas",
    "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "burgemeester",
-   "cobra 6",
-   "erf",
    "explosie",
-   "jeugd",
-   "vuurwerk"
+   "vuurwerk",
+   "woning"
   ],
   "samenvatting": "Tegen betaling plaatste de jongen een vuurwerkbom bij een woning in Almere. Het zou de vierde explosie in korte tijd worden, maar een kapotte lont voorkwam een gigantische vuurbal. De jongen werd twee weken later aangehouden en is nu veroordeeld. Het is 9 januari 2025 als de dan 16-jarige jongen samen met een ander naa",
   "link": "https://www.omroepflevoland.nl/nieuws/524160/tiener-veroordeeld-voor-poging-tot-veroorzaken-explosie-bij-almeerse-woning"
@@ -89,6 +83,27 @@
   ],
   "samenvatting": "Geen grip op zorgfraude Gemeenten geven jaarlijks grote bedragen uit aan zorggeld voor verschillende zorgaanbieders. Maar de fraude in de sector blijft een hardnekkig probleem. Er kan voldoende worden aangetoond of zorg daadwerkelijk is verleend, en er verdwijnen grote bedragen in de zakken van criminelen. De Tweede Ka",
   "link": "https://nos.nl/l/2631390"
+ },
+ {
+  "id": "b82e3107b3",
+  "datum": "2026-09-17",
+  "tijd": "14:31",
+  "nieuw": true,
+  "titel": "Anonieme tips, vuurwapen en cash: Hengeloër wil huis terug, maar vangt bot",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Een 50-jarige Hengeloër krijgt zijn huissleutels voorlopig niet terug. Zijn woning aan de Waregemstraat is drie maanden gesloten na de vondst van een vuurwapen en drugsgerelateerde spullen. De rechter wees zijn verzoek af. Door de uitspraak komen nu opvallende details over de inval naar buiten.",
+  "link": "https://www.oost.nl/nieuws/3696815/anonieme-tips-vuurwapen-en-cash-hengeloer-wil-huis-terug-maar-vangt-bot"
  },
  {
   "id": "808f7b6096",
@@ -191,7 +206,7 @@
   "id": "50ac37d872",
   "datum": "2026-09-17",
   "tijd": "12:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Urker (58) hoort celstraf tegen zich eisen wegens aanranding van jongen (18), 'politieke carrière staat op het spel'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -210,7 +225,7 @@
   "id": "d983d2fbb6",
   "datum": "2026-09-17",
   "tijd": "12:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Urk - Urker politicus (58) hoort celstraf tegen zich eisen wegens aanranding van jongen (18), 'Hij heeft mijn vertrouwen geschaad'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -229,7 +244,7 @@
   "id": "ebca82160d",
   "datum": "2026-09-17",
   "tijd": "11:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verkeer Suurhoffbrug tot acht weken over vluchtstrook door scheuren in constructie",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -248,7 +263,7 @@
   "id": "249771e85d",
   "datum": "2026-09-17",
   "tijd": "11:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Enschedese (58) opgepakt die huurmoord zou hebben besteld via darkweb",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -55217,6 +55232,27 @@
   ],
   "samenvatting": "Boeren bij wie drugslab wordt gevonden krijgen meer bescherming Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFsc2p1QkJwY3VySUtFRFFxY0R0dFN5ellkb3E2Z0RQbURneVFqM1RfVEJBSjlEUmZUZnh1NFlkaFJiX05aQm1sTmZvSDE4SkZwTDA2YmNjYzNEU2VuQ0RPMEEyMkJmSzRiUlhCaGlZZk9iMlZHNHktd0lYWkxXcXdtMDE4V3dqSTNUNWxiQms5M3gxTmdteFNMZTJ1OVRkOWhVV3kyMjJkZUE?oc=5"
+ },
+ {
+  "id": "b32cda31eb",
+  "datum": "2022-11-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Kamerbrief over plan van aanpak drugssmokkel via mainports - Rijksoverheid.nl",
+  "bron": "Rijksoverheid",
+  "verzameld_via": "Rijksoverheid",
+  "soort": "Kamerbrief",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "drugssmokkel",
+   "kamerbrief"
+  ],
+  "samenvatting": "Kamerbrief over plan van aanpak drugssmokkel via mainports Rijksoverheid.nl",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlJyd2VpTmRmMHlfWWNselhBWURiNUdSZEEzV20yRTZUekpYSGp3Y0NSb2xHMGNPWGpQUmhRTHU2bF9SNmxBU3JUZzdMVTMzaXZFb0tmcDZIdlVva3FDeUJ6c1B6WDNZVE1vdV9xSHlLMG1qZVZOU3JoLThfV3AtQzFuRWZMYUcyR1JocVZVa0NUZjhrS3RxNW1nVzQ?oc=5"
  },
  {
   "id": "7ac9845e7b",
