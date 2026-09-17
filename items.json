@@ -1,5 +1,24 @@
 [
  {
+  "id": "af2a0ebf2d",
+  "datum": "2026-09-17",
+  "tijd": "05:29",
+  "nieuw": true,
+  "titel": "Transport zo zwaar als Boeing 747 trekt bekijks: zelfs verkeerslichten moeten wijken",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Drie enorme transformatoren zijn in de nacht van woensdag op donderdag van Spijkenisse naar Simonshaven vervoerd. Voor het bijzondere transport werd de volledige route tijdelijk afgesloten. Ook verkeerslichten moesten wijken.",
+  "link": "https://www.rijnmond.nl/nieuws/2255158/transport-zo-zwaar-als-boeing-747-trekt-bekijks-zelfs-verkeerslichten-moeten-wijken"
+ },
+ {
   "id": "1ae2d2d7cf",
   "datum": "2026-09-17",
   "tijd": "04:11",
@@ -17,6 +36,25 @@
   ],
   "samenvatting": "Een bijzonder transport is onderweg naar Simonshaven. Drie grote transformatoren voor hoogspanningsmasten worden vervoerd . Voor het transport is de hele route tijdelijk afgesloten.",
   "link": "https://www.rijnmond.nl/nieuws/2255158/zware-lading-onderweg-naar-hoogspanningsstation"
+ },
+ {
+  "id": "224a8996c3",
+  "datum": "2026-09-17",
+  "tijd": "00:00",
+  "nieuw": true,
+  "titel": "Corruptieonderzoek Zwolse cardiologen uitgebreid naar Indonesië, FIOD vraagt lokale politie om hulp",
+  "bron": "Investico",
+  "verzameld_via": "Investico",
+  "soort": "Onderzoek",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie"
+  ],
+  "samenvatting": "Het corruptieonderzoek naar (voormalig) cardiologen van het Isala-ziekenhuis in Zwolle heeft zich uitgebreid naar Indonesië. Nederland vraagt Indonesische politie om hulp.",
+  "link": "https://www.platform-investico.nl/onderzoeken/corruptieonderzoek-zwolse-cardiologen-uitgebreid-naar-indonesie-fiod-vraagt-lokale-politie-om-hulp"
  },
  {
   "id": "3ff204267e",
@@ -229,7 +267,7 @@
   "id": "7d0b9ec94f",
   "datum": "2026-09-16",
   "tijd": "17:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Papegaai in de Efteling en zwangerschap na overlijden: dit gebeurde vandaag",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -249,7 +287,7 @@
   "id": "8e46e64d74",
   "datum": "2026-09-16",
   "tijd": "17:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mogelijke IS-leider uit Arkel moet 17,5 de cel in, vindt het OM",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -1121,48 +1159,6 @@
   ],
   "samenvatting": "Het risico op mensenhandel tegengaan door de lokroep van \"gemakkelijk werk, hoog loon\". Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdC1HaGpNb3BMTmZQLU1xM3Z6Wlo1b21HSmJqWWFQRTdzcWZtNnZDSjNPS0FnRDkxbzQ0YWtoNk5rWmdZb1RXWWItZ1pQT1pIcjFpMWxQSkhkVHFZSkFZWFpJbUJYWVlqTS1BVnpBV003ZWVkcDc5ZHhFZk8zei1iY3dQcHdZbkhEVU5JVGhlRnowMmM?oc=5"
- },
- {
-  "id": "f1e9f48dfb",
-  "datum": "2026-09-15",
-  "tijd": "23:27",
-  "nieuw": false,
-  "titel": "'Weinig beelden en geen idee over daders sabotage', zegt ProRail-baas",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "beveiliging",
-   "wapen"
-  ],
-  "samenvatting": "\"Ik vind het echt verschrikkelijk wat er gebeurt\", zegt Mirjam van Velthuizen, bestuursvoorzitter van ProRail tegen Nieuwsuur over de sabotageacties op het spoor. Hoewel de spoorbeheerder na de sabotages van dinsdag extra camera's en surveillance langs het spoor inzet, is ze er niet gerust op. \"Laten we eerlijk zijn, w",
-  "link": "https://nos.nl/l/2631181"
- },
- {
-  "id": "85eef8448a",
-  "datum": "2026-09-15",
-  "tijd": "23:13",
-  "nieuw": false,
-  "titel": "Branden in de berm en tientallen sabotageacties op het spoor: een overzicht van de dag",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld",
-   "organisatie"
-  ],
-  "samenvatting": "Het was een onrustige Prinsjesdag op de weg en op het spoor: langs meerdere snelwegen staken boerenactivisten onder meer hooibalen in brand, en op het spoor veroorzaakten voorwerpen tientallen storingen. Een overzicht. 05.30 uur Vanochtend vroeg ontdekt spoorbeheerder ProRail meerdere storingen in Midden- en Oost-Neder",
-  "link": "https://nos.nl/l/2631176"
  },
  {
   "id": "4cb4dc24a5",
@@ -2384,25 +2380,6 @@
   ],
   "samenvatting": "De politie is maandag met veel eenheden, waaronder de Dienst Speciale Interventies (DSI), aanwezig in het centrum van Lobith voor een melding van een persoon met een mogelijk vuurwapen. Een 112-verslaggever ter plaatse meldt dat een persoon is aangehouden.",
   "link": "https://www.gld.nl/nieuws/8523286/man-aangehouden-na-melding-van-mogelijk-vuurwapen-in-lobith-politiehelikopter-en-dsi-ter-plaatse"
- },
- {
-  "id": "11f5177be5",
-  "datum": "2026-09-14",
-  "tijd": "14:37",
-  "nieuw": false,
-  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
-  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
@@ -23338,6 +23315,27 @@
   ],
   "samenvatting": "Opsporing en voorkoming van uitkerings- en zorgfraude levert het Gooi een besparing van ruim een miljoen op De Gooi- en Eemlander",
   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRnp4OVo1OXN5cXNNa3Z4aWZTYW1ucHpNX1M0TkRrTDM1U2w0RjRvUW1HeDcwX2JDUW5EY1c5ZWRRM0xZS1dibm5SekVqc0tiWi03QzYtYUt3UHVkb01XR29QQUxwX3hzSkc5VjJZMk5kR2VmbGhIdW45T01qVHRmYnh5YUxZcVU3Mk00b2R6ZWY0U2tHY2l3YURRNXAxRUs2Tzk1dy1lMF81UkJlNzF5Tzg0OVJvU0lZSlFrQ2NteWlCZ2wyVTN5UkxnVlFtZTRHQk9MenVzZHhUdU5JWnpwNUQwWGVMTVFqZnBuVXlUVG5scjhDV1ZYZ3QtQnhkdXBhN3hSSQ?oc=5"
+ },
+ {
+  "id": "d6451aba4b",
+  "datum": "2026-07-08",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Explosie en autobrand bij woning in Oost, politie zoekt getuigen - AT5",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "Explosie en autobrand bij woning in Oost, politie zoekt getuigen AT5",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdzRWdGpvTV8wS0RjMkMtUFV3dmNNdXBQRjM4VXAtdjZIaTdKbkxiZzVHc29LdE9Ecy10aXF3cWswc3JBMjhGM1dUVnh1bU5qMTc2M2Vpd2ZHR1U4OVJQaENQeGxmc1R4Z0ZPVGprT0NMZENScW9iTkJJcjZESWlRTGdBbm9FSDFhWFRSZmZIcU1ua2xMX0VpQVFQRVloRE9o?oc=5"
  },
  {
   "id": "5bca73cac3",

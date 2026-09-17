@@ -1,12 +1,12 @@
 {
- "run": "05:39",
+ "run": "06:46",
  "datum": "2026-09-17",
  "nieuw": 13,
  "totaal": 3224,
- "verwijderd": 12,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1086,
-  "geen dossier": 481
+  "niet-nederlands": 1093,
+  "geen dossier": 477
  },
  "bronnen": [
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 61,
-   "status": "4 nieuw",
+   "items": 59,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -482,8 +482,8 @@
    "url": "www.platform-investico.nl/feed",
    "methode": "RSS",
    "ritme": "1 dag",
-   "items": 2,
-   "status": "bij",
+   "items": 3,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 63,
-   "status": "bij",
+   "items": 64,
+   "status": "1 nieuw",
    "ok": true
   },
   {
