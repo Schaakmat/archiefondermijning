@@ -19,6 +19,46 @@
   "link": "https://www.omroepflevoland.nl/nieuws/524106/inspectie-beoordeelt-vrije-school-waldorf-in-eerste-jaar-als-'zeer-zwak'-conclusie-komt-hard-aan"
  },
  {
+  "id": "a32ecda0a4",
+  "datum": "2026-09-17",
+  "tijd": "09:29",
+  "nieuw": true,
+  "titel": "Lao Cai intensiveert de inspanningen om mensenhandel in gebieden met etnische minderheden te voorkomen.",
+  "bron": "Vietnam.vn",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Lao Cai intensiveert de inspanningen om mensenhandel in gebieden met etnische minderheden te voorkomen. Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTlVYUURycWh4cHZxa2lIS3MwR3oyY0JjLVRfUXoydk54SFNBYkwzV2pZT2VScHFIVFNhYWUxQlhZR3pkZ0F0NnBuWGE3amNLR3dkb3ItaG5xYkhyRnFUdGhXUHluTTB5Um9rMm9rMkpHNmpXcjhuVlpGN0tjQmR0X2hqNXpySWFoSHN5VjRLQWFoNGtIdE95TVd4dktvbjFVdDVxbg?oc=5"
+ },
+ {
+  "id": "e7e5f380eb",
+  "datum": "2026-09-17",
+  "tijd": "09:05",
+  "nieuw": true,
+  "titel": "Student die nazigroet bracht in collegezaal is minderjarige jongen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "bedreiging",
+   "woning"
+  ],
+  "samenvatting": "De student van de Technische Universiteit Eindhoven (TU/e) die woensdagochtend in een volle collegezaal de nazigroet bracht, is een minderjarige jongen. Dat laat de politie donderdag weten aan Omroep Brabant. Hij is aangehouden voor bedreiging. De politie onderzoekt ook racistische filmpjes die de student eerder in een",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027666/student-die-nazigroet-bracht-in-collegezaal-is-minderjarige-jongen"
+ },
+ {
   "id": "075dead080",
   "datum": "2026-09-17",
   "tijd": "09:00",
@@ -38,25 +78,23 @@
   "link": "https://www.ftm.nl/artikelen/btw-bende-veroordeeld"
  },
  {
-  "id": "90100be3f9",
+  "id": "4ea688fabd",
   "datum": "2026-09-17",
-  "tijd": "08:20",
+  "tijd": "08:09",
   "nieuw": true,
-  "titel": "'Student die nazigroet deed ging ook los in appgroep met medestudenten'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
+  "titel": "Waarschuwingsschot in ochtendspits na rode verf op rechtbank",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
   "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
+  "regio": "Rotterdam",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting"
+   "Buitengebied & recreatie"
   ],
   "tags": [
-   "bedreiging",
-   "woning"
+   "erf"
   ],
-  "samenvatting": "De student van de Technische Universiteit Eindhoven (TU/e) die woensdagochtend in een volle collegezaal de nazigroet bracht, heeft die ochtend hoogst waarschijnlijk ook racistische uitlatingen gedaan in een appgroep met medestudenten. Dat blijkt uit screenshots die op social media te zien zijn. Het incident gebeurde wo",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027656/student-die-nazigroet-deed-ging-ook-los-in-appgroep-met-medestudenten"
+  "samenvatting": "Op het Wilhelminaplein in Rotterdam heeft een agent een waarschuwingsschot gelost bij een aanhouding. Dat gebeurde nadat hij een spuitbus rode verf op zich gericht kreeg.",
+  "link": "https://www.rijnmond.nl/nieuws/2255206/waarschuwingsschot-in-ochtendspits-na-rode-verf-op-rechtbank"
  },
  {
   "id": "68fd1714c9",
@@ -230,7 +268,7 @@
   "id": "142f02aed7",
   "datum": "2026-09-16",
   "tijd": "19:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Paard overleden bij botsing met auto, bestuurder gewond",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -249,7 +287,7 @@
   "id": "1327b0d16f",
   "datum": "2026-09-16",
   "tijd": "19:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Extra miljoenen voor elektrificatie spoorlijn tussen Zutphen en Oldenzaal",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -268,7 +306,7 @@
   "id": "48cd3fa7d7",
   "datum": "2026-09-16",
   "tijd": "19:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Elektrificatie spoorlijn Zutphen-Oldenzaal stap dichterbij door extra miljoenen",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -2456,25 +2494,6 @@
   ],
   "samenvatting": "De politie is maandag met veel eenheden, waaronder de Dienst Speciale Interventies (DSI), aanwezig in het centrum van Lobith voor een melding van een persoon met een mogelijk vuurwapen. Een 112-verslaggever ter plaatse meldt dat een persoon is aangehouden.",
   "link": "https://www.gld.nl/nieuws/8523286/man-aangehouden-na-melding-van-mogelijk-vuurwapen-in-lobith-politiehelikopter-en-dsi-ter-plaatse"
- },
- {
-  "id": "11f5177be5",
-  "datum": "2026-09-14",
-  "tijd": "14:37",
-  "nieuw": false,
-  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
-  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
@@ -16462,6 +16481,25 @@
   ],
   "samenvatting": "In deze schuur in Herveld werd een hennepkwekerij aangetroffen ad.nl",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3J6QnU2eFBmMWVqdnBCVUFGMEZEMVhNd09NUDgzLUpTVmNMMS1LS2xuclBILWNJWjdvWS1Ec0NlVmFpOVZha19RTVl2YVoxaWt2R0xDU1dDUmdLS1M0TXc0ei1KLXE3QmJTYWNiU25vRHoyTExLR2lobUVxRVFDU1BEQXctUG10d2hqOG5hLXpReTV6MkFVVDc5RjA5TUtSa3kxRDI4OE9pZw?oc=5"
+ },
+ {
+  "id": "4d04bb78b1",
+  "datum": "2026-08-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "In deze schuur in Herveld werd een hennepkwekerij aangetroffen",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "In deze schuur in Herveld werd een hennepkwekerij aangetroffen de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXB1UEpSVnY1cF85LUU1MHBCV2g2VUpwMUVPYkRyN3M1bGZ3VkltRlZ3TlFvVWJUOWg2VmpONkdpZGhTLW1fLWVIbml2bEM3cTJfTGttZ2ZvRVN6N0tsVE0zc09BR09EZzZla3FLc2ZRSGJINXpXTmthWWdjT1VQaVp5SGFHYmdCVjRKWnE1SUZOUmlxV09NNTBuZzZieER1ZEFpQS1VSl9QQ0FUcXZKaGROTQ?oc=5"
  },
  {
   "id": "cd24ce0be2",
