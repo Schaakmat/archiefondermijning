@@ -1,5 +1,26 @@
 [
  {
+  "id": "808f7b6096",
+  "datum": "2026-09-17",
+  "tijd": "14:23",
+  "nieuw": true,
+  "titel": "Flevoland - Spookauto in berm van Larserweg na weken weggesleept",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "toezichthouder"
+  ],
+  "samenvatting": "De spookauto die al weken in de berm van de Larserweg in Lelystad staat, is donderdagmiddag weggesleept. Een bergingsdienst heeft de auto in opdracht van de provincie weggehaald. Van de eigenaar ontbrak eind augustus nog ieder spoor. Het voertuig stond sinds 14 augustus in de berm ter hoogte van de bushalte Eendenweg, ",
+  "link": "https://www.omroepflevoland.nl/nieuws/524143/spookauto-in-berm-van-larserweg-na-weken-weggesleept"
+ },
+ {
   "id": "50ac37d872",
   "datum": "2026-09-17",
   "tijd": "12:20",
@@ -29,15 +50,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "gemeenteraad",
-   "jeugd",
-   "jongeren",
-   "leider"
+   "gemeenteraad"
   ],
   "samenvatting": "Tegen een man uit Urk (58) is donderdag een celstraf van 20 maanden waarvan 8 maanden voorwaardelijk geëist wegens een zedendelict. De Urker, op dit moment ook fractievoorzitter in de gemeenteraad, wordt verdacht van het met dwang aanranden van een 18-jarige jongen in een rijdende auto in Lelystad. De Urker begeleidde ",
   "link": "https://www.omroepflevoland.nl/nieuws/524133/urker-politicus-(58)-hoort-celstraf-tegen-zich-eisen-wegens-aanranding-van-jongen-(18)-'hij-heeft-mijn-vertrouwen-geschaad'"
@@ -60,6 +76,25 @@
   ],
   "samenvatting": "Het verkeer dat via het westelijke deel van de Suurhoffbrug in de A15 naar de Maasvlakte gaat, zal de komende zes tot acht weken over de vluchtstrook moeten blijven rijden. Gisteren maakte Rijkswaterstaat al bekend dat er tijdens een inspectie scheuren waren aangetroffen in de hoofdliggers van de brug. De veiligheid va",
   "link": "https://nos.nl/l/2631366"
+ },
+ {
+  "id": "d7c028bf2a",
+  "datum": "2026-09-17",
+  "tijd": "11:40",
+  "nieuw": true,
+  "titel": "Oostbuis richting Borssele weer open na berging kapotte vrachtwagen",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "De sluiting duurde ongeveer een uur",
+  "link": "https://www.omroepzeeland.nl/nieuws/18790012/oostbuis-richting-borssele-weer-open-na-berging-kapotte-vrachtwagen"
  },
  {
   "id": "1b95621018",
@@ -117,7 +152,7 @@
   "tags": [
    "organisatie"
   ],
-  "samenvatting": "Mark van den Oever, de voorman van Farmers Defence Force uit Sint Hubert, roept zijn achterban op om hun telefoons leeg te maken, omdat er volgens hem invallen door de politie worden verwacht. Dat doet hij in een besloten Facebookgroep van Farmers Defence Force. 'Er worden invallen verwacht eind van de week ivm hooibal",
+  "samenvatting": "Mark van den Oever, de voorman van Farmers Defence Force uit Sint Hubert, roept zijn achterban op om hun telefoons leeg te maken, omdat er volgens hem invallen worden verwacht. Dat doet hij in een besloten Facebookgroep van Farmers Defence Force. 'Er worden invallen verwacht eind van de week ivm hooibalen. Zorg dat de ",
   "link": "https://www.omroepbrabant.nl/nieuws/6027675/fdf-voorman-vreest-invallen-en-roept-achterban-op-telefoons-te-wissen"
  },
  {
@@ -200,7 +235,7 @@
   "id": "e7e5f380eb",
   "datum": "2026-09-17",
   "tijd": "09:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Student die nazigroet bracht in collegezaal is minderjarige jongen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -219,7 +254,7 @@
   "id": "075dead080",
   "datum": "2026-09-17",
   "tijd": "09:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Btw-bende in Milaan veroordeeld tot gevangenis­straf",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -908,28 +943,6 @@
   ],
   "samenvatting": "Een 14-jarig meisje uit Mierlo is dinsdag aangehouden voor haar mogelijke betrokkenheid bij de grootschalige vernielingen op basisschool De Kleine Vos in Mierlo. De schade wordt geschat op 100.000 euro. Zondagavond 30 augustus werd de basisschool aan de Graspieper getroffen door een groep jongeren. In verschillende kla",
   "link": "https://www.omroepbrabant.nl/nieuws/6027510/ravage-op-school-in-mierlo-meisje-14-aangehouden-100000-euro-schade"
- },
- {
-  "id": "9e310dbe0c",
-  "datum": "2026-09-16",
-  "tijd": "12:28",
-  "nieuw": false,
-  "titel": "Specialistisch team naar binnen na vrijkomen giftige dampen in Asten",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Drugsproductie & labs",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "loods",
-   "pand"
-  ],
-  "samenvatting": "Een gespecialiseerd gaspakkenteam van Chemelot is woensdagmiddag naar binnen gegaan bij Aarts Metaal aan de Bonksel in Asten nadat daar giftige en bijtende dampen waren vrijgekomen. De specialisten zijn gestart met het gecontroleerd ontluchten van het bedrijf. De woonwijk en omliggende bedrijven werden uit voorzorg ont",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027506/specialistisch-team-naar-binnen-na-vrijkomen-giftige-dampen-in-asten"
  },
  {
   "id": "5620bf77cf",
@@ -2628,6 +2641,25 @@
   ],
   "samenvatting": "De politie is maandag met veel eenheden, waaronder de Dienst Speciale Interventies (DSI), aanwezig in het centrum van Lobith voor een melding van een persoon met een mogelijk vuurwapen. Een 112-verslaggever ter plaatse meldt dat een persoon is aangehouden.",
   "link": "https://www.gld.nl/nieuws/8523286/man-aangehouden-na-melding-van-mogelijk-vuurwapen-in-lobith-politiehelikopter-en-dsi-ter-plaatse"
+ },
+ {
+  "id": "11f5177be5",
+  "datum": "2026-09-14",
+  "tijd": "14:37",
+  "nieuw": false,
+  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
+  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
@@ -21734,6 +21766,25 @@
   ],
   "samenvatting": "Hennepkwekerij aangetroffen bij inval aan de Nijverheidstraat in Edam rodi.nl",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT1lEZjQ2cENHTDd0emljZkpCTGxZUnlxNlRZVlN6MnltQ2RReElQb09zWUZhcjhuMHhsX19XampHTFAwRFFmajluYWkwWWQ4WHUybVo0WjhISXlYaEtQQWNxNzdSY290M1VBZDJ0dmFSem1vMnk2Y25sdGdfMTAwd0NfTFdpOVFYaTZLX18ya0FydXlTcmdwaGpoOUhYUnhWdXpTV0prVERRbF8yaVNfenBIZlg4ZVYyMEJLSVdB?oc=5"
+ },
+ {
+  "id": "d34f5d379f",
+  "datum": "2026-07-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Twee zeventigers en veertiger gearresteerd na vondst van drugslab in Diepenbeek",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Twee zeventigers en veertiger gearresteerd na vondst van drugslab in Diepenbeek Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeHBJWWJJdVFGc0ZvM0NLZmN2MEFoMnRfTXNOSjNlRDJQQllfLW5tejZzN0F1aVhVMk9Eend0emF1QWlrd3Y2MG90eU5tN0NDeFBvSzNKaHN1bjFCMVBtenliZmJJdlJvRHpmZmdEd2phR1RucjZGUjQwQnlwV3Yyc3pobHRGdmxKZGloRVg2Qld4NWdIU3R3UlRHWmZodHhkcnVJR29vRU40dlZtMVlMd1haRk9PWjY5bjNWTnBKVG5jNWtmbnEyclFaWHBFNi1vaDcyemJLOE40bzdselE?oc=5"
  },
  {
   "id": "63ba123f4f",
