@@ -1,10 +1,33 @@
 [
  {
+  "id": "4e96316f1e",
+  "datum": "2026-09-17",
+  "tijd": "22:21",
+  "nieuw": true,
+  "titel": "Tientallen pro-Palestijnse demonstranten opgepakt bij Israël-manifestatie op Dam",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Criminele samenwerkingsverbanden",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "leider",
+   "pand"
+  ],
+  "samenvatting": "Tientallen pro-Palestijnse demonstranten zijn op de Dam in Amsterdam aangehouden. Ze waren ondanks een verbod op een pro-Israël demonstratie afgekomen. Volgens persbureau ANP stonden zo'n dertig pro-Palestijnse demonstranten bij het Nationaal Monument. Ook stond een groep op de Damstraat. De politie heeft ze met een st",
+  "link": "https://nos.nl/l/2631438"
+ },
+ {
   "id": "676a9c11a8",
   "datum": "2026-09-17",
   "tijd": "21:34",
   "nieuw": true,
-  "titel": "Flevoland - Auto belandt op zijn dak bij supermarkt in Lelystad",
+  "titel": "Lelystad - Auto belandt op zijn dak bij supermarkt in Lelystad",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -15,7 +38,7 @@
   "tags": [
    "supermarkt"
   ],
-  "samenvatting": "Een auto is donderdagavond naast de supermarkt aan de Agoraweg in het centrum van Lelystad op zijn kop beland. Dat gebeurde rond 19:30 uur. Volgens een 112-correspondent is de auto tegen een andere wagen gereden, of moest daarvoor uitwijken en is daarna tegen een paaltje gereden. De auto belandde op zijn dak. De hulpdi",
+  "samenvatting": "Een auto is donderdagavond naast de supermarkt aan de Agoraweg in het centrum van Lelystad op zijn kop beland. Dat gebeurde rond 19.30 uur. Volgens een 112-correspondent is de auto tegen een andere wagen gereden, of moest daarvoor uitwijken en is daarna tegen een paaltje gereden. De auto belandde op zijn dak. Of gewond",
   "link": "https://www.omroepflevoland.nl/nieuws/524200/auto-belandt-op-zijn-dak-bij-supermarkt-in-lelystad"
  },
  {
@@ -211,7 +234,7 @@
   "id": "1e34e3bb14",
   "datum": "2026-09-17",
   "tijd": "17:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oost-Nederland speerpunt in bestrijding zorgfraude: 71 miljoen euro aan criminele geldstromen onderzocht",
   "bron": "de Volkskrant",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -232,7 +255,7 @@
   "id": "afb93402aa",
   "datum": "2026-09-17",
   "tijd": "16:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Staphorst en Meppel zien kansen voor opvangschip met 300 vluchtelingen",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -251,7 +274,7 @@
   "id": "35b6037b8a",
   "datum": "2026-09-17",
   "tijd": "16:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "300 vluchtelingen op het water: Staphorst en Meppel zien kansen voor opvangschip",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -270,7 +293,7 @@
   "id": "76b2103b0c",
   "datum": "2026-09-17",
   "tijd": "16:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Staphorst en Meppel willen 300 asielzoekers opvangen op het water",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
