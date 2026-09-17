@@ -1,5 +1,46 @@
 [
  {
+  "id": "50ac37d872",
+  "datum": "2026-09-17",
+  "tijd": "12:20",
+  "nieuw": true,
+  "titel": "Flevoland - Urker (58) hoort celstraf tegen zich eisen wegens aanranding van jongen (18), 'politieke carrière staat op het spel'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "jeugd",
+   "jongeren"
+  ],
+  "samenvatting": "Tegen een man uit Urk (58) is donderdag een celstraf van 20 maanden waarvan 8 maanden voorwaardelijk geëist wegens een zedendelict. De Urker, tegenwoordig gemeenteraadslid, wordt verdacht van het met dwang aanranden van een 18-jarige jongen in een rijdende auto in Lelystad. De Urker begeleidde de jongen enkele jaren te",
+  "link": "https://www.omroepflevoland.nl/nieuws/524133/urker-(58)-hoort-celstraf-tegen-zich-eisen-wegens-aanranding-van-jongen-(18)-'politieke-carriere-staat-op-het-spel'"
+ },
+ {
+  "id": "ebca82160d",
+  "datum": "2026-09-17",
+  "tijd": "11:59",
+  "nieuw": true,
+  "titel": "Verkeer Suurhoffbrug tot acht weken over vluchtstrook door scheuren in constructie",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Het verkeer dat via het westelijke deel van de Suurhoffbrug in de A15 naar de Maasvlakte gaat, zal de komende zes tot acht weken over de vluchtstrook moeten blijven rijden. Gisteren maakte Rijkswaterstaat al bekend dat er tijdens een inspectie scheuren waren aangetroffen in de hoofdliggers van de brug. De veiligheid va",
+  "link": "https://nos.nl/l/2631366"
+ },
+ {
   "id": "9334d7083e",
   "datum": "2026-09-17",
   "tijd": "10:16",
@@ -17,6 +58,44 @@
   ],
   "samenvatting": "De kleinschalige nieuwe school Waldorf in Almere is tijdens het eerste onderzoek door de Inspectie van het Onderwijs beoordeeld als 'zeer zwak'. Drie van de vier onderzochte onderdelen hebben namelijk een onvoldoende gekregen. De vrijeschool is een jaar geleden gestart met een havo-afdeling met twintig leerlingen . Dit",
   "link": "https://www.omroepflevoland.nl/nieuws/524106/inspectie-beoordeelt-vrije-school-waldorf-in-eerste-jaar-als-'zeer-zwak'-conclusie-komt-hard-aan"
+ },
+ {
+  "id": "4ae4353634",
+  "datum": "2026-09-17",
+  "tijd": "09:48",
+  "nieuw": true,
+  "titel": "Geen waarschuwingsschot: agent schoot gericht op verfspuiter bij rechtbank",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "De agent die bij de rechtbank in Rotterdam met rode verf is bespoten, heeft gericht geschoten op de verdachte. Het schot miste de verdachte, een 39-jarige man uit Schiedam. Eerder meldde de politie dat het ging om een waarschuwingsschot, omdat er niemand was geraakt.",
+  "link": "https://www.rijnmond.nl/nieuws/2255242/geen-waarschuwingsschot-agent-schoot-gericht-op-verfspuiter-bij-rechtbank"
+ },
+ {
+  "id": "f0f99faf71",
+  "datum": "2026-09-17",
+  "tijd": "09:44",
+  "nieuw": true,
+  "titel": "Archeologisch onderzoek moet uitwijzen dat Zeeland vóór de Romeinen al springlevend was",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Groot archeologisch onderzoek moet vroege bewoning van Zeeland in kaart brengen.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18650986/archeologisch-onderzoek-moet-uitwijzen-dat-zeeland-voor-de-romeinen-al-springlevend-was"
  },
  {
   "id": "a32ecda0a4",
@@ -48,12 +127,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "bedreiging",
-   "woning"
+   "bedreiging"
   ],
   "samenvatting": "De student van de Technische Universiteit Eindhoven (TU/e) die woensdagochtend in een volle collegezaal de nazigroet bracht, is een minderjarige jongen. Dat laat de politie donderdag weten aan Omroep Brabant. Hij is aangehouden voor bedreiging. De politie onderzoekt ook racistische filmpjes die de student eerder in een",
   "link": "https://www.omroepbrabant.nl/nieuws/6027666/student-die-nazigroet-bracht-in-collegezaal-is-minderjarige-jongen"
@@ -95,6 +172,25 @@
   ],
   "samenvatting": "Op het Wilhelminaplein in Rotterdam heeft een agent een waarschuwingsschot gelost bij een aanhouding. Dat gebeurde nadat hij een spuitbus rode verf op zich gericht kreeg.",
   "link": "https://www.rijnmond.nl/nieuws/2255206/waarschuwingsschot-in-ochtendspits-na-rode-verf-op-rechtbank"
+ },
+ {
+  "id": "aa7049022a",
+  "datum": "2026-09-17",
+  "tijd": "08:09",
+  "nieuw": true,
+  "titel": "Politie: agent schoot gericht nadat hij met spuitbus in gezicht werd bespoten",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "De agent die bij de rechtbank in Rotterdam met rode verf is bespoten, heeft gericht geschoten op de verdachte. Het schot miste de verdachte, een 39-jarige man uit Schiedam. Eerder meldde de politie dat het ging om een waarschuwingsschot, omdat er niemand was geraakt.",
+  "link": "https://www.rijnmond.nl/nieuws/2255206/politie-agent-schoot-gericht-nadat-hij-met-spuitbus-in-gezicht-werd-bespoten"
  },
  {
   "id": "68fd1714c9",
@@ -158,7 +254,7 @@
   "id": "1ae2d2d7cf",
   "datum": "2026-09-17",
   "tijd": "04:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zware lading onderweg naar hoogspanningsstation",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -177,7 +273,7 @@
   "id": "224a8996c3",
   "datum": "2026-09-17",
   "tijd": "00:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Corruptieonderzoek Zwolse cardiologen uitgebreid naar Indonesië, FIOD vraagt lokale politie om hulp",
   "bron": "Investico",
   "verzameld_via": "Investico",
@@ -196,7 +292,7 @@
   "id": "3ff204267e",
   "datum": "2026-09-16",
   "tijd": "21:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Onderzoek bij Maxime Night Club in verband met mogelijke mensensmokkel",
   "bron": "EA News Aruba",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -215,7 +311,7 @@
   "id": "e2ccac51e7",
   "datum": "2026-09-16",
   "tijd": "21:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gemeente moet asielopvang Engelen sluiten als afspraken geschonden worden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -243,7 +339,7 @@
   "id": "c1768fa715",
   "datum": "2026-09-16",
   "tijd": "20:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - D66 in Tweede Kamer: 'Wij hebben veel vragen over Renaissanceschool Almere'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -1174,28 +1270,6 @@
   ],
   "samenvatting": "Hij wordt verdacht van de handel in harddrugs. Bij de aanhouding troffen agenten een grote som geld bij hem aan.",
   "link": "https://www.omroepzeeland.nl/nieuws/18783385/politie-pakt-verdachte-22-op-in-vlissingen-na-vondst-harddrugs-en-contant-geld"
- },
- {
-  "id": "6942dccece",
-  "datum": "2026-09-16",
-  "tijd": "05:56",
-  "nieuw": false,
-  "titel": "Zanger Ben Saunders (43) overleden, eerste winnaar The Voice of Holland",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "motorclub",
-   "satudarah",
-   "wapen"
-  ],
-  "samenvatting": "De familie van Ben Saunders heeft bevestigd dat de zanger is overleden. Bij een recreatieplas ten zuiden van Arnhem werd gisteren het lichaam van een man gevonden. Er waren al vermoedens dat het om Saunders ging. Hoe hij om het leven is gekomen, is niet bekendgemaakt. De politie liet eerder wel weten dat een misdrijf i",
-  "link": "https://nos.nl/l/2631188"
  },
  {
   "id": "09798932f7",
