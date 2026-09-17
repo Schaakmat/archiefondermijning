@@ -1,5 +1,24 @@
 [
  {
+  "id": "1ae2d2d7cf",
+  "datum": "2026-09-17",
+  "tijd": "04:11",
+  "nieuw": true,
+  "titel": "Zware lading onderweg naar hoogspanningsstation",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Een bijzonder transport is onderweg naar Simonshaven. Drie grote transformatoren voor hoogspanningsmasten worden vervoerd . Voor het transport is de hele route tijdelijk afgesloten.",
+  "link": "https://www.rijnmond.nl/nieuws/2255158/zware-lading-onderweg-naar-hoogspanningsstation"
+ },
+ {
   "id": "3ff204267e",
   "datum": "2026-09-16",
   "tijd": "21:44",
@@ -43,7 +62,7 @@
    "jongeren",
    "pand"
   ],
-  "samenvatting": "Als de asielopvang in Engelen er komt moet de gemeente die tussentijds kunnen sluiten als afspraken niet nagekomen worden. Woensdagavond werd in de gemeenteraad van Den Bosch opnieuw gesproken over de opvang van vijftig minderjarige asielzoekers. Duidelijk werd dat er zorgen zijn over de leefbaarheid in Engelen en of d",
+  "samenvatting": "Als de asielopvang in Engelen er komt, moet de gemeente die tussentijds kunnen sluiten als afspraken niet nagekomen worden. Woensdagavond werd in de gemeenteraad van Den Bosch opnieuw gesproken over de opvang van vijftig minderjarige asielzoekers. Duidelijk werd dat er zorgen zijn over de leefbaarheid in Engelen en of ",
   "link": "https://www.omroepbrabant.nl/nieuws/6027545/gemeente-moet-asielopvang-engelen-sluiten-als-afspraken-geschonden-worden"
  },
  {
@@ -106,6 +125,25 @@
   ],
   "samenvatting": "Het kabinet trekt 16 miljoen euro extra uit voor de elektrificatie van de spoorlijn Zutphen-Oldenzaal. Daarmee komt de overstap van diesel naar een volledig elektrisch spoornetwerk in Overijssel een stap dichterbij. De provincie heeft er vertrouwen in de financiering met dit extra bedrag rond te krijgen.",
   "link": "https://www.oost.nl/nieuws/3696513/extra-miljoenen-voor-elektrificatie-spoorlijn-tussen-zutphen-en-oldenzaal"
+ },
+ {
+  "id": "3c82219bb9",
+  "datum": "2026-09-16",
+  "tijd": "19:00",
+  "nieuw": true,
+  "titel": "Hennepkwekerij in kelder: man (67) uit Maarheeze krijgt taakstraf en moet verdiensten terugbetalen",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij in kelder: man (67) uit Maarheeze krijgt taakstraf en moet verdiensten terugbetalen Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUzBNd3Iybm9lLXoxOU1HbWduOHh1RHNUeEJFNUpTbEM4dVRNZGNQTE1rNm43Tnc2VjI5eHF3QjY1TDFHaVZiRzFDZk1hcXo5M3FEckQ1Q3d4akQ1Sk9YX2pSWFBIOEhveHdlRVNNd0g1X3MtVG1Sbkp5QTBBcUczeDlybWdDR0lycTVZUzR6VlBJVzVDS2tRcExsQzdsQkgxbnlYTkl2Q1dCTHZ6WmxSQW54blFHNGJmS1djR0JMZjVMNlIzbkpfRHNLaU5uNWJx?oc=5"
  },
  {
   "id": "80b47963d4",
@@ -248,7 +286,7 @@
   "id": "3cd8a97453",
   "datum": "2026-09-16",
   "tijd": "16:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Parkeren gaat mis: automobilist eindigt in voortuin tegen gevel woning",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -267,7 +305,7 @@
   "id": "f30dd83377",
   "datum": "2026-09-16",
   "tijd": "16:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oussama B., die woning en kantoor van Derk Wiersum verkende voorafgaand aan de moord, na jarenlange klopjacht opgepakt in Parijs - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -500,29 +538,6 @@
   ],
   "samenvatting": "Een student van de Technische Universiteit Eindhoven (TU/e) heeft woensdagochtend in een volle collegezaal beledigende en racistische opmerkingen gemaakt richting medestudenten. Ook bracht de student de nazigroet. Studiegenoten grepen in en zouden op de vuist zijn gegaan met de mannelijke student. Het incident gebeurde",
   "link": "https://www.omroepbrabant.nl/nieuws/6027517/nazigroet-van-student-tue-in-volle-collegezaal-mondt-uit-in-vechtpartij"
- },
- {
-  "id": "5106b1f485",
-  "datum": "2026-09-16",
-  "tijd": "13:31",
-  "nieuw": false,
-  "titel": "Almere - Nieuwe regels gemeente Almere: scholen krijgen voorrang op overvol stroomnet",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "school",
-   "vergunning",
-   "woning"
-  ],
-  "samenvatting": "Het elektriciteitsnet in Almere heeft niet genoeg ruimte voor alle nieuwe bouwprojecten. Daarom heeft de gemeente regels opgesteld voor de volgorde waarin woningbouw- en onderwijsprojecten worden aangemeld voor voorrang bij de netbeheerder. Als een school en een woningbouwproject in dezelfde maand en hetzelfde jaar wil",
-  "link": "https://www.omroepflevoland.nl/nieuws/523994/nieuwe-regels-gemeente-almere:-scholen-krijgen-voorrang-op-overvol-stroomnet"
  },
  {
   "id": "cde0181af9",
@@ -2367,25 +2382,6 @@
   ],
   "samenvatting": "De politie is maandag met veel eenheden, waaronder de Dienst Speciale Interventies (DSI), aanwezig in het centrum van Lobith voor een melding van een persoon met een mogelijk vuurwapen. Een 112-verslaggever ter plaatse meldt dat een persoon is aangehouden.",
   "link": "https://www.gld.nl/nieuws/8523286/man-aangehouden-na-melding-van-mogelijk-vuurwapen-in-lobith-politiehelikopter-en-dsi-ter-plaatse"
- },
- {
-  "id": "11f5177be5",
-  "datum": "2026-09-14",
-  "tijd": "14:37",
-  "nieuw": false,
-  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
-  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
