@@ -76,6 +76,7 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
+   "Beleid, wetgeving & toezicht",
    "Cocaine, haven & logistiek",
    "Jeugd & jonge aanwas",
    "Milieucriminaliteit & afval"
@@ -83,9 +84,10 @@
   "tags": [
    "grond",
    "haven",
+   "kamervragen",
    "school"
   ],
-  "samenvatting": "D66 in de Tweede Kamer stelt de bekostiging van de Renaissanceschool in Almere Poort ter discussie. D66-Kamerlid Ilana Rooderkerk vraagt zich af of het overheidsgeld in verhouding staat tot het aantal scholieren. De Renaissanceschool heeft momenteel zes geregistreerde leerlingen, van wie er vier daadwerkelijk les krijg",
+  "samenvatting": "D66 in de Tweede Kamer stelt de bekostiging van de Renaissanceschool in Almere Poort ter discussie met Kamervragen. D66-Kamerlid Ilana Rooderkerk vraagt zich af of het overheidsgeld in verhouding staat tot het aantal scholieren. De Renaissanceschool heeft momenteel zes geregistreerde leerlingen, van wie er vier daadwer",
   "link": "https://www.omroepflevoland.nl/nieuws/524025/d66-in-tweede-kamer:-'wij-hebben-veel-vragen-over-renaissanceschool-almere'"
  },
  {
@@ -267,7 +269,7 @@
   "id": "a11cc7bc08",
   "datum": "2026-09-16",
   "tijd": "16:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jongens van 15, 17 en 18 jaar oud opgepakt voor explosie in Zuidoost - AT5",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -2382,6 +2384,25 @@
   ],
   "samenvatting": "De politie is maandag met veel eenheden, waaronder de Dienst Speciale Interventies (DSI), aanwezig in het centrum van Lobith voor een melding van een persoon met een mogelijk vuurwapen. Een 112-verslaggever ter plaatse meldt dat een persoon is aangehouden.",
   "link": "https://www.gld.nl/nieuws/8523286/man-aangehouden-na-melding-van-mogelijk-vuurwapen-in-lobith-politiehelikopter-en-dsi-ter-plaatse"
+ },
+ {
+  "id": "11f5177be5",
+  "datum": "2026-09-14",
+  "tijd": "14:37",
+  "nieuw": false,
+  "titel": "Getuige van arrestatie waarbij Alfredo (51) om het leven kwam: 'Ze luisterden niet naar hem'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Buurtbewoners zijn geschokt door het overlijden van de 51-jarige Alfredo Goeloe. De man raakte zaterdagavond tijdens zijn aanhouding aan de Vaarnerkamp in Rotterdam-Charlois onwel en overleed op straat. Op de plek waar het gebeurde, liggen bloemen, kaarsen en zijn meerdere uitingen verspreid die spreken over 'politiege",
+  "link": "https://www.rijnmond.nl/nieuws/2253397/getuige-van-arrestatie-waarbij-alfredo-51-om-het-leven-kwam-ze-luisterden-niet-naar-hem"
  },
  {
   "id": "666c7e9209",
