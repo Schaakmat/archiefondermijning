@@ -1,5 +1,24 @@
 [
  {
+  "id": "676a9c11a8",
+  "datum": "2026-09-17",
+  "tijd": "21:34",
+  "nieuw": true,
+  "titel": "Flevoland - Auto belandt op zijn dak bij supermarkt in Lelystad",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "supermarkt"
+  ],
+  "samenvatting": "Een auto is donderdagavond naast de supermarkt aan de Agoraweg in het centrum van Lelystad op zijn kop beland. Dat gebeurde rond 19:30 uur. Volgens een 112-correspondent is de auto tegen een andere wagen gereden, of moest daarvoor uitwijken en is daarna tegen een paaltje gereden. De auto belandde op zijn dak. De hulpdi",
+  "link": "https://www.omroepflevoland.nl/nieuws/524200/auto-belandt-op-zijn-dak-bij-supermarkt-in-lelystad"
+ },
+ {
   "id": "949c6460f5",
   "datum": "2026-09-17",
   "tijd": "19:39",
@@ -54,6 +73,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/524165/nieuwsoverzicht-1709-or-spookauto-eindelijk-weggehaald-*-urker-politicus-verdacht-van-aanranding"
  },
  {
+  "id": "34932294dd",
+  "datum": "2026-09-17",
+  "tijd": "18:27",
+  "nieuw": true,
+  "titel": "Bestuurder onder invloed rijdt water in",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een auto is donderdagavond het water langs de Kralingse Zoom in Rotterdam ingereden. De bestuurder wist zelf uit het voertuig te komen en bleef op het dak zitten tot de hulpdiensten hem naar de kant hielpen. De man mocht na het ongeval wel gelijk mee met de politie; hij wordt namelijk verdacht van rijden onder invloed.",
+  "link": "https://www.rijnmond.nl/nieuws/2255437/bestuurder-onder-invloed-rijdt-water-in"
+ },
+ {
   "id": "e28f5e4d1b",
   "datum": "2026-09-17",
   "tijd": "18:08",
@@ -71,6 +109,25 @@
   ],
   "samenvatting": "Criminelen gebruiken geld in de zorg op grote schaal om zichzelf te verrijken. Volgens het Regionaal Informatie- en Expertise Centrum (RIEC) Oost-Nederland, dat overheden ondersteunt bij de aanpak van georganiseerde criminaliteit, zouden er verdachte transacties van tenminste 71 miljoen euro zijn. Onder ander bij zorgi",
   "link": "https://www.gld.nl/nieuws/8524566/voor-71-miljoen-euro-aan-verdachte-transacties-met-zorggeld-nog-maar-topje-van-de-ijsberg"
+ },
+ {
+  "id": "94d717dfc0",
+  "datum": "2026-09-17",
+  "tijd": "18:08",
+  "nieuw": true,
+  "titel": "Criminelen slaan toe in de zorg: voor 71 miljoen euro aan verdachte transacties met zorggeld",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "riec"
+  ],
+  "samenvatting": "Criminelen gebruiken geld in de zorg op grote schaal om zichzelf te verrijken. Volgens het Regionaal Informatie- en Expertise Centrum (RIEC) Oost-Nederland, dat overheden ondersteunt bij de aanpak van georganiseerde criminaliteit, zouden er verdachte transacties van tenminste 71 miljoen euro zijn. Onder ander bij zorgi",
+  "link": "https://www.gld.nl/nieuws/8524566/criminelen-slaan-toe-in-de-zorg-voor-71-miljoen-euro-aan-verdachte-transacties-met-zorggeld"
  },
  {
   "id": "f8b6e80c64",
@@ -232,7 +289,7 @@
   "id": "7464b9980a",
   "datum": "2026-09-17",
   "tijd": "16:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Tiener veroordeeld voor poging tot veroorzaken explosie bij Almeerse woning",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -254,7 +311,7 @@
   "id": "95f08b22c7",
   "datum": "2026-09-17",
   "tijd": "16:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Strafzaak tegen man (49) die wordt verdacht van vrouwenhandel en mensensmokkel niet inhoudelijk behandeld. ’Tickets, vervoer, verblijf en afspraken geregeld’",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -508,6 +565,25 @@
   "link": "https://www.gld.nl/nieuws/8524481/verdachte-van-geweld-in-overasselt-vrijdag-weer-op-vrije-voeten"
  },
  {
+  "id": "0399906149",
+  "datum": "2026-09-17",
+  "tijd": "13:03",
+  "nieuw": false,
+  "titel": "17/9 in Nieuwsuur: Geen grip op zorgfraude • De boekhouding van het kabinet-Jetten • Woede in Israël door Gaza-docu",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "17/9 in Nieuwsuur: Geen grip op zorgfraude • De boekhouding van het kabinet-Jetten • Woede in Israël door Gaza-docu NOS",
+  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQemIxRnVoa3d2YVpBbzFEME1fcHZqeFhKOWZyRGJOY3ppckU1aEFBMDlSWm9jeHUzY2J1eUdPQWNnT3dJUl80aTRfWUQ1a3IwZE9RZUtYckM3aklLLTkwalAzclJ4X2FRdFprMlRZOC05YUxTWVQ5ZXFoaWZ4ZzVMRjZNNEwtQzhSZW9LQ09LcERoUWVNQWVORU1Zakw5NFFndWZicFphOFZlaU5LN1ViZlZ5UEVEUGhfWkJvRFVzUTNZeUF2a3V1RUxKWTlRelVEZHdzc25EUEpvY3hIWXgzTmpQYTJDdw?oc=5"
+ },
+ {
   "id": "50ac37d872",
   "datum": "2026-09-17",
   "tijd": "12:20",
@@ -643,6 +719,25 @@
   ],
   "samenvatting": "De tweede getroffen woning is gesloten door de gemeente Tholen",
   "link": "https://www.omroepzeeland.nl/nieuws/18789817/cameras-en-woningsluiting-gemeente-grijpt-in-na-ontploffingen-sint-maartensdijk"
+ },
+ {
+  "id": "e8dc6b3211",
+  "datum": "2026-09-17",
+  "tijd": "11:12",
+  "nieuw": false,
+  "titel": "Twee dagen nadat Jelle de boerderij terugkocht, stond de politie op de stoep: ‘Dit bedenk je toch niet’",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "boerderij"
+  ],
+  "samenvatting": "Twee dagen nadat Jelle de boerderij terugkocht, stond de politie op de stoep: ‘Dit bedenk je toch niet’ de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMXF2Z1djLTlmVzRfTFhSVWMwU0toNGNBTmJGUkJhVHAzQ0lFTjZOX2V1aHdEVjYtaGlXMTdLMjlDS3RyeVZLNHk1TkNudWw0Q3gzOHFBanFpd3h6RmZwZTJ4SDQ5b0hya3R2VzI2SGdYMnRKNnFHYlZXaWViQldFNUlqcG1IOVpEVTRFVTV0b0dTQThOMEJtWW1rb2ppTXFqNmk1ZmduS1otSENTVjNjbDYyaFFaRnRtalJ3SGZxMHBOckhVMHdKZ0I2TUxCdktjM3IzazRldjRkc1k?oc=5"
  },
  {
   "id": "261ff317ce",
