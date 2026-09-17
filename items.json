@@ -1,5 +1,54 @@
 [
  {
+  "id": "7464b9980a",
+  "datum": "2026-09-17",
+  "tijd": "16:28",
+  "nieuw": true,
+  "titel": "Almere - Tiener veroordeeld voor poging tot veroorzaken explosie bij Almeerse woning",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "cobra 6",
+   "erf",
+   "explosie",
+   "jeugd",
+   "vuurwerk"
+  ],
+  "samenvatting": "Tegen betaling plaatste de jongen een vuurwerkbom bij een woning in Almere. Het zou de vierde explosie in korte tijd worden, maar een kapotte lont voorkwam een gigantische vuurbal. De jongen werd twee weken later aangehouden en is nu veroordeeld. Het is 9 januari 2025 als de dan 16-jarige jongen samen met een ander naa",
+  "link": "https://www.omroepflevoland.nl/nieuws/524160/tiener-veroordeeld-voor-poging-tot-veroorzaken-explosie-bij-almeerse-woning"
+ },
+ {
+  "id": "a04422230a",
+  "datum": "2026-09-17",
+  "tijd": "16:00",
+  "nieuw": true,
+  "titel": "Vrouw in boerkini ten onrechte uit sauna Hierden gestuurd",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "toezichthouder"
+  ],
+  "samenvatting": "Een sauna- en wellnessbedrijf in Hierden, bij Harderwijk, heeft een vrouw die een boerkini droeg ten onrechte weggestuurd. Toezichthouder College voor de Rechten van de Mens oordeelt dat er sprake was van discriminatie op grond van godsdienst en geslacht. De vrouw bracht in juni vorig jaar een bezoek aan de Zwaluwhoeve",
+  "link": "https://nos.nl/l/2631395"
+ },
+ {
   "id": "19f17e9ffc",
   "datum": "2026-09-17",
   "tijd": "15:09",
@@ -11,14 +60,12 @@
   "regio": "Flevoland",
   "dossiers": [
    "Bibob & bestuurlijke aanpak",
-   "Corruptie & integriteit",
-   "Jeugd & jonge aanwas"
+   "Corruptie & integriteit"
   ],
   "tags": [
    "burgemeester",
    "gemeenteraad",
-   "integriteit",
-   "jongeren"
+   "integriteit"
   ],
   "samenvatting": "Burgemeester Bart Jaspers Faijer van de gemeente Urk noemt de strafzaak tegen een fractievoorzitter uit de gemeenteraad 'ernstig'. Vandaag verscheen de beschuldigde politicus (58) voor de rechtbank van Zutphen vanwege een zedendelict eind 2024 met een destijds 18-jarige jongen. Jaspers Faijer heeft de berichten over za",
   "link": "https://www.omroepflevoland.nl/nieuws/524151/burgemeester-urk-noemt-aanrandingszaak-fractievoorzitter-'ernstig':-'integriteit-en-vertrouwen-van-groot-belang'"
@@ -63,6 +110,63 @@
   ],
   "samenvatting": "De spookauto die al weken in de berm van de Larserweg in Lelystad staat, is donderdagmiddag weggesleept. Een bergingsdienst heeft de auto in opdracht van de provincie weggehaald. Van de eigenaar ontbrak eind augustus nog ieder spoor. Het voertuig stond sinds 14 augustus in de berm ter hoogte van de bushalte Eendenweg, ",
   "link": "https://www.omroepflevoland.nl/nieuws/524143/spookauto-in-berm-van-larserweg-na-weken-weggesleept"
+ },
+ {
+  "id": "b978d1bec6",
+  "datum": "2026-09-17",
+  "tijd": "14:02",
+  "nieuw": true,
+  "titel": "Inbrekers slepen zware kluis uit woning in Numansdorp",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Drie mannen hebben midden in de nacht ingebroken in een woning aan de Numansgors in Numansdorp. Ze gingen ervandoor met een zware kluis vol waardevolle spullen. De verdachten staan op camerabeeld en de politie wil weten wie ze zijn.",
+  "link": "https://www.rijnmond.nl/nieuws/2255377/inbrekers-slepen-zware-kluis-uit-woning-in-numansdorp"
+ },
+ {
+  "id": "7445e8a4a6",
+  "datum": "2026-09-17",
+  "tijd": "13:54",
+  "nieuw": true,
+  "titel": "Politie zoekt tips over vergismoord op Rob Zweekhorst",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "06-292 60 290. Wie iets weet over de vergismoord op Rob Zweekhorst kan tijdelijk dit nummer bellen. De lijn is open tot en met maandag 28 september. Bellers kunnen in aanmerking komen voor de status van bijzondere getuige. Hun identiteit kan dan worden beschermd.",
+  "link": "https://www.rijnmond.nl/nieuws/2255373/politie-zoekt-tips-over-vergismoord-op-rob-zweekhorst"
+ },
+ {
+  "id": "58e6611283",
+  "datum": "2026-09-17",
+  "tijd": "13:44",
+  "nieuw": true,
+  "titel": "Verdachte die sieraden van 88-jarige steelt, meldt zich niet: politie toont hem nu herkenbaar",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "sieraden"
+  ],
+  "samenvatting": "De man die ervan wordt verdacht een 88-jarige vrouw uit Dordrecht met een babbeltruc te hebben bestolen, wordt nu herkenbaar getoond. Hij kreeg vorige week de kans zichzelf bij de politie te melden, maar heeft dat niet gedaan.",
+  "link": "https://www.rijnmond.nl/nieuws/2255293/verdachte-die-sieraden-van-88-jarige-steelt-meldt-zich-niet-politie-toont-hem-nu-herkenbaar"
  },
  {
   "id": "f5ed51a7ae",
@@ -165,7 +269,7 @@
   "id": "d7c028bf2a",
   "datum": "2026-09-17",
   "tijd": "11:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oostbuis richting Borssele weer open na berging kapotte vrachtwagen",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -184,7 +288,7 @@
   "id": "1b95621018",
   "datum": "2026-09-17",
   "tijd": "11:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gemeente Tholen plaatst camera's in Bloemenlaan na twee explosies in één week",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -205,7 +309,7 @@
   "id": "70aa9a5228",
   "datum": "2026-09-17",
   "tijd": "11:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Camera's en woningsluiting: gemeente grijpt in na ontploffingen Sint-Maartensdijk",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -224,7 +328,7 @@
   "id": "261ff317ce",
   "datum": "2026-09-17",
   "tijd": "11:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Corruptieonderzoek naar Zwolse cardiologen breidt zich uit naar Indonesië",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -243,7 +347,7 @@
   "id": "95339112dc",
   "datum": "2026-09-17",
   "tijd": "10:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "FDF-voorman vreest invallen en roept achterban op telefoons te wissen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
