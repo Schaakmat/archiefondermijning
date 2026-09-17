@@ -1,5 +1,36 @@
 [
  {
+  "id": "d2c90dde35",
+  "datum": "2026-09-17",
+  "tijd": "18:45",
+  "nieuw": true,
+  "titel": "Flevoland - Nieuwsoverzicht 17/09 | Spookauto eindelijk weggehaald • Urker politicus verdacht van aanranding",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Corruptie & integriteit",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "explosie",
+   "grond",
+   "haven",
+   "integriteit",
+   "jeugd"
+  ],
+  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Spookauto in berm van Larserweg bij Lelystad na weken weggesleept • Urker politicus (58) hoort celstraf tegen zich eisen wegens aanranding van jongen (18) •",
+  "link": "https://www.omroepflevoland.nl/nieuws/524165/nieuwsoverzicht-1709-or-spookauto-eindelijk-weggehaald-*-urker-politicus-verdacht-van-aanranding"
+ },
+ {
   "id": "5f83169d19",
   "datum": "2026-09-17",
   "tijd": "18:00",
@@ -10,26 +41,53 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Bibob & bestuurlijke aanpak",
-   "Criminele samenwerkingsverbanden",
-   "Crypto & digitaal geld",
-   "Jeugd & jonge aanwas",
-   "Trustkantoren & rechtspersonen",
-   "Vastgoed & huisvesting",
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "riec"
+  ],
+  "samenvatting": "Criminelen maken nog steeds op grote schaal misbruik van zorggeld. Het Regionaal Informatie- en Expertise Centrum (RIEC) Oost-Nederland, dat overheden ondersteunt bij de aanpak van georganiseerde criminaliteit, stuitte op geldstromen achter verdachte transacties waarmee tenminste 71 miljoen euro is gemoeid. RIEC keek n",
+  "link": "https://nos.nl/l/2631405"
+ },
+ {
+  "id": "3ae6cdb3c7",
+  "datum": "2026-09-17",
+  "tijd": "17:15",
+  "nieuw": true,
+  "titel": "New Kids-film en FDF-voorman vreest invallen: dit gebeurde vandaag",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "crypto"
+  ],
+  "samenvatting": "Een nieuwe New Kids-film over carnaval en een oproep van de voorman van Farmers Defence Force aan zijn achterban om hun telefoons leeg te maken. Dit zijn de vijf verhalen die je donderdag gelezen moet hebben. De makers van New Kids keren terug met de film 'Carnaval', die op 11 november in première gaat. De trailer toon",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027714/new-kids-film-en-fdf-voorman-vreest-invallen-dit-gebeurde-vandaag"
+ },
+ {
+  "id": "1e34e3bb14",
+  "datum": "2026-09-17",
+  "tijd": "17:00",
+  "nieuw": true,
+  "titel": "Oost-Nederland speerpunt in bestrijding zorgfraude: 71 miljoen euro aan criminele geldstromen onderzocht",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
    "Witwassen & geldstromen",
    "Zorgfraude & sociale zekerheid"
   ],
   "tags": [
-   "bestuurder",
-   "burgemeester",
-   "contant geld",
    "criminele geldstromen",
-   "crypto",
-   "cryptovaluta"
+   "zorgfraude"
   ],
-  "samenvatting": "Criminelen maken nog steeds op grote schaal misbruik van zorggeld. Het Regionaal Informatie- en Expertise Centrum (RIEC) Oost-Nederland, dat overheden ondersteunt bij de aanpak van georganiseerde criminaliteit, stuitte op geldstromen achter verdachte transacties waarmee tenminste 71 miljoen euro is gemoeid. RIEC keek n",
-  "link": "https://nos.nl/l/2631405"
+  "samenvatting": "Oost-Nederland speerpunt in bestrijding zorgfraude: 71 miljoen euro aan criminele geldstromen onderzocht de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOVduOWhNTFA1WVcxQjFPc3lTaDA5cjE3RHRobUI3MmxpcmFZM2R1S3hVZnlvLUlsVVZxdGRyWGZlUE1IaWNIV0hDZzRabnZmZTlnTXFNWVU5UGVRQlF6NVFKYUo3dlRUQm8xQkNPTk5sVUR4dTJVMm9PRmFCSkhwc2NOZktaTmlhMWVOUnNjVXZoVHFGQUJ5YVpjV3RjdWZKZ1FvMlBGOEs4aU54VDdqWENycmdFeHhEUENTbUpKNnZNSERsdVJ1N2lIUDRZSVVCRndRLVZYMVgyYXBxMzg5SEd0Z3Q?oc=5"
  },
  {
   "id": "afb93402aa",
@@ -49,6 +107,25 @@
   ],
   "samenvatting": "De gemeenten Staphorst en Meppel onderzoeken samen met het Centraal Orgaan opvang asielzoekers (COA) of in de Wachthaven van Meppel een drijvende opvanglocatie voor maximaal 300 vluchtelingen kan komen. De opvang zou tijdelijk zijn en maximaal voor tien jaar.",
   "link": "https://www.oost.nl/nieuws/3696925/staphorst-en-meppel-zien-kansen-voor-opvangschip-met-300-vluchtelingen"
+ },
+ {
+  "id": "35b6037b8a",
+  "datum": "2026-09-17",
+  "tijd": "16:31",
+  "nieuw": true,
+  "titel": "300 vluchtelingen op het water: Staphorst en Meppel zien kansen voor opvangschip",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "De gemeenten Staphorst en Meppel onderzoeken samen met het Centraal Orgaan opvang asielzoekers (COA) of in de Wachthaven van Meppel een drijvende opvanglocatie voor maximaal 300 vluchtelingen kan komen. De opvang zou tijdelijk zijn en maximaal voor tien jaar.",
+  "link": "https://www.oost.nl/nieuws/3696925/300-vluchtelingen-op-het-water-staphorst-en-meppel-zien-kansen-voor-opvangschip"
  },
  {
   "id": "7464b9980a",
@@ -71,6 +148,25 @@
   ],
   "samenvatting": "Tegen betaling plaatste de jongen een vuurwerkbom bij een woning in Almere. Het zou de vierde explosie in korte tijd worden, maar een kapotte lont voorkwam een gigantische vuurbal. De jongen werd twee weken later aangehouden en is nu veroordeeld. Het is 9 januari 2025 als de dan 16-jarige jongen samen met een ander naa",
   "link": "https://www.omroepflevoland.nl/nieuws/524160/tiener-veroordeeld-voor-poging-tot-veroorzaken-explosie-bij-almeerse-woning"
+ },
+ {
+  "id": "95f08b22c7",
+  "datum": "2026-09-17",
+  "tijd": "16:16",
+  "nieuw": true,
+  "titel": "Strafzaak tegen man (49) die wordt verdacht van vrouwenhandel en mensensmokkel niet inhoudelijk behandeld. ’Tickets, vervoer, verblijf en afspraken geregeld’",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Strafzaak tegen man (49) die wordt verdacht van vrouwenhandel en mensensmokkel niet inhoudelijk behandeld. ’Tickets, vervoer, verblijf en afspraken geregeld’ Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPbTk4WWxMOTAwR2d0OXNGbjRJRi1XbU9xeUJsYTJVaGVXNVpVMjktdGtwbHFIeVZ0Y1FrZGJqUm5NUmt2TjJacmlwRS1vdk5xcmJuSUo0alMyQllKdHMyMV9UWmFWTXpHbVVfVmRpQ1JXRnhtTVkzeHM1Y3c0ZW5rZWs2dXZnNHNQXzlxT0M3aDRIZThOV0NjM2tPSW1ZQVBBVTU0M1lhTEs3U05MY2c5emVaeEZKLUFOcUxjMG5aeUNzVUZyOTFpWGVaWDg5RE5YNVozR29oLXNUYWdnMUZ0OUZ3bDFuc3lGc1pqWkZfZTRiQVlVcEFXbFVEY0J2S2dWOTcyaUloTHpUcG9WalVTemVvQzFHMUp0elBhemJkaGNubm9uUF9zQklCbWd4R1ZEcjN0dlZzQXg?oc=5"
  },
  {
   "id": "f3f3911eab",
@@ -154,7 +250,7 @@
   "id": "19f17e9ffc",
   "datum": "2026-09-17",
   "tijd": "15:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Urk - Burgemeester Urk noemt aanrandingszaak fractievoorzitter 'ernstig': 'Integriteit en vertrouwen van groot belang'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -176,7 +272,7 @@
   "id": "12b9e68a6a",
   "datum": "2026-09-17",
   "tijd": "15:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "17/9 in Nieuwsuur: Geen grip op zorgfraude • De boekhouding van het kabinet-Jetten • Woede in Israël door Gaza-docu",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -196,7 +292,7 @@
   "id": "b82e3107b3",
   "datum": "2026-09-17",
   "tijd": "14:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Anonieme tips, vuurwapen en cash: Hengeloër wil huis terug, maar vangt bot",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -217,7 +313,7 @@
   "id": "808f7b6096",
   "datum": "2026-09-17",
   "tijd": "14:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Spookauto in berm van Larserweg na weken weggesleept",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -238,7 +334,7 @@
   "id": "b978d1bec6",
   "datum": "2026-09-17",
   "tijd": "14:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inbrekers slepen zware kluis uit woning in Numansdorp",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -257,7 +353,7 @@
   "id": "7445e8a4a6",
   "datum": "2026-09-17",
   "tijd": "13:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie zoekt tips over vergismoord op Rob Zweekhorst",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -276,7 +372,7 @@
   "id": "58e6611283",
   "datum": "2026-09-17",
   "tijd": "13:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte die sieraden van 88-jarige steelt, meldt zich niet: politie toont hem nu herkenbaar",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -465,25 +561,6 @@
   ],
   "samenvatting": "Het corruptieonderzoek naar (voormalig) cardiologen van Isala in Zwolle heeft zich uitgebreid naar Indonesië. Dat melden Nieuwsuur en Investico. De Indonesische politie deed daar in november onderzoek bij een hartziekenhuis dat is opgericht door één van de verdachte Zwolse cardiologen.",
   "link": "https://www.oost.nl/nieuws/3696693/corruptieonderzoek-naar-zwolse-cardiologen-breidt-zich-uit-naar-indonesie"
- },
- {
-  "id": "95339112dc",
-  "datum": "2026-09-17",
-  "tijd": "10:45",
-  "nieuw": false,
-  "titel": "FDF-voorman vreest invallen en roept achterban op telefoons te wissen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "Mark van den Oever, de voorman van Farmers Defence Force uit Sint Hubert, roept zijn achterban op om hun telefoons leeg te maken, omdat er volgens hem invallen worden verwacht. Dat doet hij in een besloten Facebookgroep van Farmers Defence Force. 'Er worden invallen verwacht eind van de week ivm hooibalen. Zorg dat de ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027675/fdf-voorman-vreest-invallen-en-roept-achterban-op-telefoons-te-wissen"
  },
  {
   "id": "9334d7083e",
@@ -1069,29 +1146,6 @@
   ],
   "samenvatting": "De gemeenteraad van Den Bosch praatte woensdagavond opnieuw over de komst van een opvanglocatie voor alleenstaande minderjarige vluchtelingen (amv) in Engelen. Politieke partijen stemmen niet over het voorstel, maar kunnen wel hun meningen over het plan meegeven aan het college. In dit liveblog kon je de vergadering vo",
   "link": "https://www.omroepbrabant.nl/nieuws/6027537/alle-ogen-op-raad-den-bosch-bij-debat-over-asielopvang-engelen"
- },
- {
-  "id": "b3b49236b5",
-  "datum": "2026-09-16",
-  "tijd": "16:15",
-  "nieuw": false,
-  "titel": "Militaire vrachtwagen rijdt over Merwedebrug: 'Mag dat?'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder",
-   "stal",
-   "vrachtwagen"
-  ],
-  "samenvatting": "'Tonnie On Tour' zag het woensdagmiddag met eigen ogen gebeuren: een militaire vrachtwagen die over de Merwedebrug reed. En dat terwijl de brug al twee maanden dicht is voor vrachtwagens. Tonnie is zelfbenoemd weginspecteur en al vele jaren fan van de Merwedebrug. Mag dit, vroeg Tonnie aan zijn 1600 volgers op X? In zi",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027532/militaire-vrachtwagen-rijdt-over-merwedebrug-mag-dat"
  },
  {
   "id": "931e081ee4",
@@ -32202,6 +32256,25 @@
   ],
   "samenvatting": "Cijfers veiligheid in Rijswijk: lichte stijging in incidenten, maar zorgen om jeugd, digitale criminaliteit en ondermijning Feel Good Nieuws",
   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeFRzM1JQdU9HcFlwUmZZY0ktaTFCcVNyekNuSlNEU3RURE5tY2hEX2xNdmxLaDBBS2h3YTItek0zUjdvZ0JqRkRfaHpvYnd4R01uV3NWRHVLSWRWMWNfVWFsVmN6aW5nV3lhTjlVUVZzZTJpN1JCeFlrZVhGbUpTV2VkYkVNLWF4NlBkMXpha05XdFZSWFBsWlNvTzNQQVJsVjJBa0xUVGlxTkN6YTROYVV4Nm5LaGt0NHRuV0ZjOUpOcWY4M0tITEZuV1k1dHpsbU1ZRWk2Unh5STNTa3c?oc=5"
+ },
+ {
+  "id": "0bcf357506",
+  "datum": "2026-04-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Epe sluit zich aan bij Week tegen de Ondermijning",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Epe sluit zich aan bij Week tegen de Ondermijning de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUg1Q0NPNmF2S3doQzlKVDRFSm15ZzZ2M3k4SXM2LVhwUFRLa2I2QkRLbWdWRS1Fb1hIRGlrczl3QjVxcHVTUXhLQ2U0LXRMVlZVRm5ZN3Vfdzg3YlllVWlOYjBxdFI4eTJwOHpGRW52SHFpa2FNR3NEZmd6OVh3RHlIQzFkSTQ4czBLV3JwUDB4QQ?oc=5"
  },
  {
   "id": "748b077c0f",
