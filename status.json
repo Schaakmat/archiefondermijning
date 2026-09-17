@@ -1,12 +1,12 @@
 {
- "run": "17:37",
+ "run": "18:43",
  "datum": "2026-09-17",
- "nieuw": 12,
- "totaal": 3262,
+ "nieuw": 13,
+ "totaal": 3267,
  "verwijderd": 8,
  "geweigerd": {
-  "niet-nederlands": 1086,
-  "geen dossier": 495
+  "niet-nederlands": 1081,
+  "geen dossier": 467
  },
  "bronnen": [
   {
@@ -68,7 +68,7 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 212,
+   "items": 213,
    "status": "1 nieuw",
    "ok": true
   },
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 180,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -392,7 +392,7 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 52,
+   "items": 53,
    "status": "1 nieuw",
    "ok": true
   },
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 62,
-   "status": "2 nieuw",
+   "items": 63,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 156,
-   "status": "bij",
+   "items": 157,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -536,7 +536,7 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 75,
+   "items": 76,
    "status": "1 nieuw",
    "ok": true
   },
