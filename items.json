@@ -1,5 +1,28 @@
 [
  {
+  "id": "28d64c2829",
+  "datum": "2026-09-18",
+  "tijd": "06:39",
+  "nieuw": true,
+  "titel": "Wekdienst 18/9: Verkiezingen in Rusland • Eerste zitting zaak oudermoord Meerstad",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "moord",
+   "stort",
+   "vuurwerk"
+  ],
+  "samenvatting": "Goedemorgen! In Rusland beginnen de verkiezingen voor de Doema, het lagerhuis van het parlement. Kritische oppositiepartijen zijn uitgesloten van deelname. Het weer: vandaag schijnt de zon geregeld en komen ook stapelwolken voor. Vooral in het noorden vallen vanochtend nog enkele buien, die tijdens de middag via Duitsl",
+  "link": "https://nos.nl/l/2631455"
+ },
+ {
   "id": "22ceb710cd",
   "datum": "2026-09-18",
   "tijd": "06:01",
@@ -19,6 +42,25 @@
   ],
   "samenvatting": "De provincie verwacht dat de meeste illegale waterputten in Zuidelijk Flevoland nog dit jaar worden afgesloten. Dat schrijft het college van Gedeputeerde Staten aan Provinciale Staten. Tot nu toe zijn pas elf van de 109 putten gesaneerd. Er lopen ook nog tien juridische procedures van boeren die de put niet willen slui",
   "link": "https://www.omroepflevoland.nl/nieuws/524163/waterputten-na-jaren-gedoe-aangepakt:-'mijn-koeien-drinken-nu-uit-de-kraan'"
+ },
+ {
+  "id": "a04610358e",
+  "datum": "2026-09-18",
+  "tijd": "03:01",
+  "nieuw": true,
+  "titel": "Nog altijd veel zorgfraude in Oost-Nederland: zo wordt geld weggesluisd",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Er wordt nog altijd op grote schaal gefraudeerd in de zorg in Oost-Nederland. Onderzoekers van het Regionaal Informatie- en Expertisecentrum Oost Nederland brachten voor ruim 71 miljoen euro aan verdachte geldstromen in kaart. Volgens de onderzoekers is dit slechts het topje van de ijsberg.",
+  "link": "https://www.oost.nl/nieuws/3696750/nog-altijd-veel-zorgfraude-in-oost-nederland-zo-wordt-geld-weggesluisd"
  },
  {
   "id": "ff5142f885",
@@ -76,7 +118,7 @@
   "tags": [
    "supermarkt"
   ],
-  "samenvatting": "Een auto is donderdagavond naast de supermarkt aan de Agoraweg in het centrum van Lelystad op zijn kop beland. Dat gebeurde rond 19.30 uur. Volgens een 112-correspondent is de auto tegen een andere wagen gereden, of moest daarvoor uitwijken en is daarna tegen een paaltje gereden. De auto belandde op zijn dak. Of er gew",
+  "samenvatting": "Een auto is donderdagavond naast naast de Albert Heijn in het centrum van Lelystad op zijn kop beland. Dat gebeurde rond 19.30 uur. Volgens een 112-correspondent is de auto tegen een andere wagen gereden, of moest daarvoor uitwijken en is daarna tegen een paaltje gereden. De auto belandde op zijn dak. Of er gewonden bi",
   "link": "https://www.omroepflevoland.nl/nieuws/524200/auto-belandt-op-zijn-dak-bij-supermarkt-in-lelystad"
  },
  {
@@ -232,7 +274,7 @@
   "id": "5f83169d19",
   "datum": "2026-09-17",
   "tijd": "18:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Voor 71 miljoen euro aan verdachte transacties met zorggeld in Oost-Nederland",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -9950,6 +9992,25 @@
   ],
   "samenvatting": "Enorme partij crystal meth van 16.000 kilo gepakt bij oprollen MEGA drugslab in Sinaloa Drimble",
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGJvQUE5R0xXTWFCX0xkak9fMVJwTTF0TkpvbHJUaFNBYnFmZkc5dEVVUWNpN2VNWm1Pbmo5a2ZRZFJvdkpSMUxTMG1ZbmlVUWUzSlZfQ09iNGJPZmtTaWlBUlhZallLaHJ5S0ZHMy1kMVlFQmcycWxlUXliQi13amw1c3lxYXkxQUhpMXFqT1RWRVVuSEY2a25RNGtNeURya0xLNU53d2dSRUp2eHpSMmx1dGEyNXlpV3F4U1Y5V2ExcFBESDNtdWRtQVZNdjJl?oc=5"
+ },
+ {
+  "id": "0a41e19f59",
+  "datum": "2026-09-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV1Q5bjhaYnpaNWxpeS1uYXhMVjQyeTdZZzhUOVRMX19idDZ2Tk1rd29SZjRjVWszODB6ajhVNnNmRU5hcFQzSFUtNnpIcHhDX2dpcHJfTktXNmJodFpZdTllY2lGcldMa00zZFU1eGN2aFpkVXhBNGs3YUxEMV83UlVRaDVOZmhHbzVMWG92Z1g2YXJ0MVo3cFpGcHoxbUxuT0ZKdGJ5V0JuX1dWWEdGRWxjVC1rcUFyYzkzMGJ2bnlmcTA?oc=5"
  },
  {
   "id": "b730f89de1",
