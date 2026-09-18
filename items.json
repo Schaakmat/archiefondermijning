@@ -97,6 +97,25 @@
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ1pxbnNVRzVDSkg0VElIejdzWHEzWmZoTHQyX2FTTTlid0VCaHVzSDZZekNBVjRReFVOazMxdTdoaTNxVDRmWXlDSHBIX0ZUWjBtN3VNTmFieUFjd3diY29YaXYtX00ycjBmelRETUlpQTNhM184TDk3VzNMMENxcksya0x3cENvWEpzVkozZ1RRTEk?oc=5"
  },
  {
+  "id": "42f796ca84",
+  "datum": "2026-09-18",
+  "tijd": "19:44",
+  "nieuw": true,
+  "titel": "Overleden persoon aangetroffen in woning, politie doet onderzoek",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Een overleden persoon is vrijdagavond bij een woning aan de Koningin Emmalaan in Ermelo aangetroffen.",
+  "link": "https://www.gld.nl/nieuws/8524971/overleden-persoon-aangetroffen-in-woning-politie-doet-onderzoek"
+ },
+ {
   "id": "fcb86e89b1",
   "datum": "2026-09-18",
   "tijd": "19:41",
@@ -271,6 +290,25 @@
   "link": "https://www.gld.nl/nieuws/8524906/dit-is-jan-g-de-drugscrimineel-die-in-overasselt-werd-aangevallen-en-in-duitsland-werd-opgepakt"
  },
  {
+  "id": "c69df4037e",
+  "datum": "2026-09-18",
+  "tijd": "17:23",
+  "nieuw": true,
+  "titel": "Aanhoudingen voor uitbuiting, mensensmokkel bij restaurantketens",
+  "bron": "Welingelichte Kringen",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Aanhoudingen voor uitbuiting, mensensmokkel bij restaurantketens Welingelichte Kringen",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmdLMlhITVd4U3hRRUZ0dTJhb1dOU3QzcTBfVzN3UzhleXhsWklFVThYMk0zeFdlWjdyX3A0ak1NQWZyV0lVUTY4RjdwcElGNE54TGFxRGZJU3djU2pBMDVWT1E4M2dJSlZCdlRHWU52VWhhck1nRmJTYzJYNUZjQTNwX0t0WXV4bEg4NWRWWTM0ZHEyenQydFFvZ2lUeFB2SnZMQW1HcVpsNUJQOWtqUw?oc=5"
+ },
+ {
   "id": "36a2cf4575",
   "datum": "2026-09-18",
   "tijd": "16:53",
@@ -321,7 +359,7 @@
   "id": "22ac81127d",
   "datum": "2026-09-18",
   "tijd": "16:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oorlogsgeschiedenis komt tot leven op Camp Liberty: 'Heb de groene ziekte'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
