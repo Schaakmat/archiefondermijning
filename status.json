@@ -1,12 +1,12 @@
 {
- "run": "20:35",
+ "run": "21:38",
  "datum": "2026-09-18",
- "nieuw": 22,
- "totaal": 3341,
- "verwijderd": 17,
+ "nieuw": 17,
+ "totaal": 3342,
+ "verwijderd": 16,
  "geweigerd": {
-  "niet-nederlands": 1083,
-  "geen dossier": 471
+  "niet-nederlands": 1014,
+  "geen dossier": 479
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 166,
-   "status": "2 nieuw",
+   "items": 167,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 191,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 72,
-   "status": "9 nieuw",
+   "status": "8 nieuw",
    "ok": true
   },
   {
@@ -564,8 +564,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 97,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "Gemeenten & burgemeesters",

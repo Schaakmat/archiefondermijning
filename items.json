@@ -10,19 +10,32 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
-   "Geweld, liquidaties & bedreiging",
-   "Horeca, winkels & dienstverlening",
-   "Ondernemers & weerbaarheid"
+   "Arbeidsuitbuiting & mensenhandel"
   ],
   "tags": [
-   "geweld",
-   "horeca",
-   "mensensmokkel",
-   "ondernemers"
+   "mensensmokkel"
   ],
   "samenvatting": "De Opsporingsdienst van de Nederlandse Arbeidsinspectie heeft vandaag twee eigenaren van een aantal Indiase restaurants aangehouden op verdenking van mensensmokkel en uitbuiting. Europol, dat bij de actie betrokken was, spreekt van ruim zeventig slachtoffers. De eigenaren hebben acht restaurants die onderdeel zijn van ",
   "link": "https://nos.nl/l/2631581"
+ },
+ {
+  "id": "1dbb59a552",
+  "datum": "2026-09-18",
+  "tijd": "20:46",
+  "nieuw": true,
+  "titel": "Het drugslab in Bree",
+  "bron": "De Limburger",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Het drugslab in Bree De Limburger",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RaWhSeVJFYzMxV2hMdUw5S0FudzBaZWhoc2xfOWZ5Nm50T0lzeWVoUTdKaEhyUGFkWDkySUZDaFk4V2UxWTQ5OXpPemJwYnRmYm9VN0tKU1VwM0JMQVFmOFV2MDNHR0VXRmY2SmtlbGFYMFJheVNzSFFCZDc?oc=5"
  },
  {
   "id": "9ad51a7e5c",
@@ -327,7 +340,7 @@
   "id": "6e00d59cd7",
   "datum": "2026-09-18",
   "tijd": "15:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (24) uit gemeente Hoorn aangehouden na brand in loods Lambertschaag: politie onderzoekt mogelijke rol bij drugslab",
   "bron": "OnsWestfriesland",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -348,7 +361,7 @@
   "id": "f80c49e402",
   "datum": "2026-09-18",
   "tijd": "15:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Asfalt op Merwedebrug wordt vervangen: brug drie dagen dicht",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -367,7 +380,7 @@
   "id": "52cc1e7ae0",
   "datum": "2026-09-18",
   "tijd": "15:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Waarom powerbanks in een vliegtuig niet zo'n goed idee zijn",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -391,7 +404,7 @@
   "id": "fccdc68584",
   "datum": "2026-09-18",
   "tijd": "15:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Honderd handtekeningen konden deze woontoren niet stoppen: ‘Een gedrocht’",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -418,7 +431,7 @@
   "id": "b6d6687acb",
   "datum": "2026-09-18",
   "tijd": "15:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Koks fabriceerden MDMA en crystal meth in “één van de grootste actieve drugslabs van de afgelopen jaren”",
   "bron": "HBVL",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -443,7 +456,7 @@
   "id": "0f3ed22fd5",
   "datum": "2026-09-18",
   "tijd": "15:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Israëlcentrum beklad en fontein rood gekleurd: boetes geëist voor vernieling",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
