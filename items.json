@@ -230,7 +230,7 @@
   "id": "faabdf41a3",
   "datum": "2026-09-17",
   "tijd": "17:48",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Zorgfraudeurs strijken ieder jaar miljarden op: ‘Wordt bijna net zoveel mee verdiend als met cocaïne’",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -251,7 +251,7 @@
   "id": "a06860d5ef",
   "datum": "2026-09-17",
   "tijd": "17:48",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Zorgfraudeurs strijken ieder jaar miljarden op: ‘Wordt bijna net zo veel mee verdiend als met cocaïne’",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -272,7 +272,7 @@
   "id": "3ae6cdb3c7",
   "datum": "2026-09-17",
   "tijd": "17:15",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "New Kids-film en FDF-voorman vreest invallen: dit gebeurde vandaag",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -307,6 +307,25 @@
   ],
   "samenvatting": "Oost-Nederland speerpunt in bestrijding zorgfraude: 71 miljoen euro aan criminele geldstromen onderzocht de Volkskrant",
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOVduOWhNTFA1WVcxQjFPc3lTaDA5cjE3RHRobUI3MmxpcmFZM2R1S3hVZnlvLUlsVVZxdGRyWGZlUE1IaWNIV0hDZzRabnZmZTlnTXFNWVU5UGVRQlF6NVFKYUo3dlRUQm8xQkNPTk5sVUR4dTJVMm9PRmFCSkhwc2NOZktaTmlhMWVOUnNjVXZoVHFGQUJ5YVpjV3RjdWZKZ1FvMlBGOEs4aU54VDdqWENycmdFeHhEUENTbUpKNnZNSERsdVJ1N2lIUDRZSVVCRndRLVZYMVgyYXBxMzg5SEd0Z3Q?oc=5"
+ },
+ {
+  "id": "09ebb1b27f",
+  "datum": "2026-09-17",
+  "tijd": "17:00",
+  "nieuw": false,
+  "titel": "Marokkaanse Nederlander \"Croc\" ontsnapt in Marbella aan liquidatie, sinister vervolg met dreigvideo",
+  "bron": "Bladna",
+  "verzameld_via": "Nieuws — Geweld, liquidaties & bedreiging",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "Marokkaanse Nederlander \"Croc\" ontsnapt in Marbella aan liquidatie, sinister vervolg met dreigvideo Bladna",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmRXbEhwWkhDVl8tQ05lc0hwcW1TNThYaUxBQW1ZQmlGRU92M2tCMkRQTmx1VDdVZURJdkllMEVla0E4VTIzMVI3OEFrMGlpeHZ4ZG5EXzh0dlJjNE5wUDNyRkpEd01rVFQxeXlFa0Nlb2tTeDZ4cmxxMmp0Z01IMFpNQkRSeTAwWHV0cjJpT0ZRZzBMQWlORmYtU1FrTlhuZnZYQnlQWC1BZW8?oc=5"
  },
  {
   "id": "afb93402aa",
@@ -504,6 +523,25 @@
   ],
   "samenvatting": "Mogelijk drugslab op plek van grote brand Lambertschaag, omgeving ontruimd nhnieuws.nl",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVRLS0gtajZuUnNFTXJQUUFhX2R3UXpteWNNQUhEb1lyLTF1S2J1bnl6RWQ3eGxkdlpUcTU4bWE4cnhxSnlEZFVhZ2FVc1QwRUdBZ0U2ODV1eHJVVDlkTDBiMnNpUEZtZ1Bab2tEUG5RYTVzZGZleGMzSjk1c2ZCYVRSS3k3cDZWNHk0Mm9iVU1jalBFdjJDZmNyblZoejJCbmdLU2Y2eE80bWpaekstXw?oc=5"
+ },
+ {
+  "id": "175e365490",
+  "datum": "2026-09-17",
+  "tijd": "15:31",
+  "nieuw": false,
+  "titel": "GNR intensiveert de handhaving tegen illegale immigratie en arbeidsuitbuiting.",
+  "bron": "Portugal Resident",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "arbeidsuitbuiting"
+  ],
+  "samenvatting": "GNR intensiveert de handhaving tegen illegale immigratie en arbeidsuitbuiting. Portugal Resident",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnRsSW5HUTJKNlJtbmZiVnlzbEhadllBZm5rQnVCQzdJdGdhdnRyNlpVamFlWmhMSE5uamZYN2xqcGpybEVycVoybGh0djhTTFpmc2dQZHBNSUs3MnlKNEpQSjBjenF3VjRyVHdlajhjN1A4R2p5OG93Tm1UcmlZU2QtdFprSVVRNzZCOXNockdrX1MxVXRCQU9ZR2t2R0lvRzZFUndheXd3cHRmc0swTmtMdUJ0UQ?oc=5"
  },
  {
   "id": "19f17e9ffc",
@@ -50669,6 +50707,25 @@
   ],
   "samenvatting": "Motorclub Hardliners verboden vanwege cultuur waarin criminaliteit wordt ‘gestimuleerd en opgedragen’ NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaVYzdXNhVEVtWGZDMmJyZmhuOTN4SkRGQXlsZFpIVmozNUFfTXcwbnkxbU9VZzRYWEdJdTdQdW5RQ3VDMHZUTWs0MkZRUlkyY29SNmFDVTAwRndORmNYN3B5b3JQU0VfX0FiSVdVcFhDbnFYQ0VXVk9lenYtMnltR1pTdHltN01DRGZNLWFaWWV4b0tacmEtLWxXU2V0Tl9OQXBxcTFGVVBnZ181aXYyZGpoVkljdEsxXzFxTl9yUkhJMXN1cGNCMHVBLWd1RVVTeWw5MzlZcUk1dGZoY2c?oc=5"
+ },
+ {
+  "id": "a4d05d13e9",
+  "datum": "2024-03-07",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Woning in Amsterdam-Zuidoost gesloten na vondst van drugs en drie gestolen fatbikes - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Woning in Amsterdam-Zuidoost gesloten na vondst van drugs en drie gestolen fatbikes Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR001bXBWUjM3bDZ5T2ZMWmNDSXoyX21GaWNyQ3lTYWw5X3pwM0VNUjlxZmVicG9JNEltbkpmemdsTl9BTXE5YWVqcFNtRXNIeU5fbkJPdl9qeC1wdzhqN1FreGF3OGs5cDN2ZTRLVEZBcWdZODFEWU9hMFo3ekU3d1dDWnRHWTZhX1RBNnZQbGplaHVfZVJUSmZ6ZlZDTHBsbEh2Tzl4V3BHUWx3QWg1d1JId3hUdktjQ3BhTVktV2ROamc?oc=5"
  },
  {
   "id": "3fb57a8be0",
