@@ -1,5 +1,50 @@
 [
  {
+  "id": "66e0e6abbd",
+  "datum": "2026-09-18",
+  "tijd": "14:06",
+  "nieuw": true,
+  "titel": "Jan G. uit Overasselt aangehouden in Duitsland voor drugssmokkel",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "cocaïne",
+   "cocaïnesmokkel",
+   "container",
+   "drugssmokkel",
+   "geweld",
+   "moord"
+  ],
+  "samenvatting": "De man uit Overasselt van wie het huis deze maand werd beschoten, is aangehouden in Duitsland. Hij werd gearresteerd op verzoek van de Nederlandse politie . Bronnen bevestigen aan de NOS dat het de 28-jarige Jan G. is. G. werd aangehouden op een parkeerplaats langs de A44 ter hoogte van de Duitse plaats Soest. De polit",
+  "link": "https://nos.nl/l/2631503"
+ },
+ {
+  "id": "4bb1f323f6",
+  "datum": "2026-09-18",
+  "tijd": "14:04",
+  "nieuw": true,
+  "titel": "18/9 in Nieuwsuur: Direct conflict met Rusland? • Russen bang voor mobilisatie • Frankrijk in de ban van De Gaulle",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Direct conflict met Rusland? Er zijn zorgen over volgende escalaties en zelfs mogelijk een direct gewapend conflict met Rusland. Volgens de Poolse premier Donald Tusk bereidt Rusland directe 'hybride' aanvallen voor op landen die Oekraïne steunen. Ook de denktank Institute for the Study of War (ISW) komt met de waarsch",
+  "link": "https://nos.nl/l/2631502"
+ },
+ {
   "id": "4f8506ff12",
   "datum": "2026-09-18",
   "tijd": "12:54",
@@ -10,19 +55,32 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "geweld",
-   "jeugd",
-   "moord",
-   "school",
-   "woning"
+   "moord"
   ],
   "samenvatting": "Het 15-jarige meisje uit het Groningse Meerstad dat wordt verdacht van het doden van haar beide ouders blijft zeker negentig dagen langer in hechtenis. Dat heeft de rechtbank in Groningen besloten tijdens een eerste pro-formazitting. Vanwege de jonge leeftijd van de verdachte vond de zitting plaats achter gesloten deur",
   "link": "https://nos.nl/l/2631495"
+ },
+ {
+  "id": "2f29214b90",
+  "datum": "2026-09-18",
+  "tijd": "12:42",
+  "nieuw": true,
+  "titel": "De eerste paal van nieuwe gevangenis in Vlissingen moet de grond nog in, maar, solliciteren kan nu al",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "Het Justitieel Complex Vlissingen (JCV) opent pas in 2030 de deuren, maar de eerste vacatures staan al open.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18792925/de-eerste-paal-van-nieuwe-gevangenis-in-vlissingen-moet-de-grond-nog-in-maar-solliciteren-kan-nu-al"
  },
  {
   "id": "b33bc74675",
@@ -48,6 +106,51 @@
   ],
   "samenvatting": "De politie heeft gisteravond veertien aanhoudingen verricht tijdens een protest in het Gelderse Opheusden tegen de mogelijke komst van een asielzoekerscentrum. Twaalf van de veertien verdachten komen uit de gemeente Neder-Betuwe, waar Opheusden onder valt. Een verdachte is afkomstig uit de gemeente Buren en een uit gem",
   "link": "https://nos.nl/l/2631493"
+ },
+ {
+  "id": "5c2961f64f",
+  "datum": "2026-09-18",
+  "tijd": "11:58",
+  "nieuw": true,
+  "titel": "Jan G. uit Overasselt in Duitsland opgepakt voor smokkel van 4000 kilo cocaïne - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne"
+  ],
+  "samenvatting": "Jan G. uit Overasselt in Duitsland opgepakt voor smokkel van 4000 kilo cocaïne Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZE9CcDVSaUJSd0QzeEVaUzNsVk9PamRjNkdfVVJSUmcxYmdCSWV1WDlRTXZ2cUdFRDRPVHBKTlhoN2pDRjNEcEpiVDlGTmFxUU9URjVha2NQdTdrR1J1TU9md2I3V3plNXF2UHF3eGVRV0hLMm1pSDlhZkQxZ1poT2dpUUxYa2taa2phcHNIM2w5LTkzdEVUTmxuRGl2WWFLTVBqeU1ZZTlDODFNSkYxcmNxck5Qdk5ndlZv?oc=5"
+ },
+ {
+  "id": "2490d6a003",
+  "datum": "2026-09-18",
+  "tijd": "11:58",
+  "nieuw": true,
+  "titel": "Jan G. uit Overasselt, die in beeld kwam na geweldsexplosie rond zijn woning, in Duitsland opgepakt voor cocaïnesmokkel - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "cocaïne",
+   "cocaïnesmokkel",
+   "explosie",
+   "geweld",
+   "woning"
+  ],
+  "samenvatting": "Jan G. uit Overasselt, die in beeld kwam na geweldsexplosie rond zijn woning, in Duitsland opgepakt voor cocaïnesmokkel Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMW50cnc3WkFpV1ZEQnNEUE9INXFPSVdDY2tPZ1VTNkd6WVdaT2lkNUlxbERzVnFfdXRtcUQ4d0JiLU1rUnhDR05sekl6elBmRnVoMHdlY1NyMnRjTmJ2TzRyQUlNWnk3VDZsM19rY1ZtanlZMS13NVZMbWkzYTZlM2t5M1JtTkh2YkNUSE1RMHZveF90UWJJdGRGSU1hXzMzNmhsbm5EM04yU2dOc3ItRTlmN3h2cF9TTDlUQk5oUEVHZGREWW5xMy1scTBZQ0hHaXNnRk9aWEgxNEZQYTh2aUVydGtvTE9qUjRyUXg4WQ?oc=5"
  },
  {
   "id": "1b29b96a8b",
@@ -80,17 +183,11 @@
   "regio": "Noord-Brabant",
   "dossiers": [
    "Arbeidsuitbuiting & mensenhandel",
-   "Beleid, wetgeving & toezicht",
-   "Bibob & bestuurlijke aanpak",
    "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "aanpak ondermijning",
-   "burgemeester",
-   "mensenhandel",
-   "ondermijnend",
-   "ondermijnende criminaliteit",
-   "ondermijning"
+   "organisatie",
+   "prostitutie"
   ],
   "samenvatting": "Illegaal sekswerk is ontdekt op drie plekken in Oudenbosch. Dat gebeurde tijdens een gezamenlijke controle van de gemeente Halderberge, de politie en andere hulpverlenende organisaties. Bij de controle werden meerdere sekswerkers aangetroffen. Op alle drie de locaties ging het om illegale prostitutie. Ook vier mensen d",
   "link": "https://www.omroepbrabant.nl/nieuws/6027822/gemeente-grijpt-in-na-vondst-illegaal-sekswerk-in-oudenbosch"
@@ -116,6 +213,25 @@
   ],
   "samenvatting": "Het veelbesproken Europese migratiepact is vandaag precies honderd dagen van kracht. Met de nieuwe regels moeten asielprocedures sneller verlopen, zodat eerder duidelijk wordt of een asielzoeker mag blijven of niet. In de praktijk zien Vluchtelingenwerk Nederland en asieladvocaten inderdaad dat de procedure sneller gaa",
   "link": "https://nos.nl/l/2631482"
+ },
+ {
+  "id": "5211405a2e",
+  "datum": "2026-09-18",
+  "tijd": "10:18",
+  "nieuw": true,
+  "titel": "Verdachten geweld Overasselt komen niet uit Gelderland",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Voor zover nu bekend komt geen van de verdachten van het geweld in Overasselt, ruim twee weken geleden, uit Gelderland. Ze komen uit Noord- en Zuid-Holland, België en Frankrijk. Dat maakte het Openbaar Ministerie (OM) zojuist bekend. Vanochtend werd ook duidelijk dat het voorarrest van alle vastzittende verdachten word",
+  "link": "https://www.gld.nl/nieuws/8524725/verdachten-geweld-overasselt-komen-niet-uit-gelderland"
  },
  {
   "id": "7023696185",
@@ -216,6 +332,25 @@
   "link": "https://www.gld.nl/nieuws/8524745/fietser-overleden-na-aanrijding-met-vrachtwagen"
  },
  {
+  "id": "2f2bff2bf6",
+  "datum": "2026-09-18",
+  "tijd": "09:22",
+  "nieuw": true,
+  "titel": "Fietser (74) overleden na aanrijding met vrachtwagen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Bij een ernstig verkeersongeval aan het Raadhuisplein in Ede is vrijdagochtend een fietser overleden. Volgens de politie gaat het om een 74-jarige vrouw uit Ede.",
+  "link": "https://www.gld.nl/nieuws/8524745/fietser-74-overleden-na-aanrijding-met-vrachtwagen"
+ },
+ {
   "id": "f18ae9adbb",
   "datum": "2026-09-18",
   "tijd": "08:36",
@@ -233,6 +368,26 @@
   ],
   "samenvatting": "Vrachtwagenchauffeur Tonnie Smits zag het woensdagmiddag met eigen ogen gebeuren. Een militaire vrachtwagen reed over de Merwedebrug, terwijl deze brug al twee maanden verboden terrein is voor vrachtwagens. Hoe zit dat en mag dat wel? Rijkswaterstaat heeft het antwoord. Tonnie is een zelfbenoemd weginspecteur en groot ",
   "link": "https://www.omroepbrabant.nl/nieuws/6027741/militaire-truck-reed-over-merwedebrug-rijkswaterstaat-spreekt-defensie-aan"
+ },
+ {
+  "id": "64154f0188",
+  "datum": "2026-09-18",
+  "tijd": "08:21",
+  "nieuw": true,
+  "titel": "Advocaat: meer dreiging tegen van corruptie verdachte ambtenaar",
+  "bron": "ijmuidercourant.nl",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie"
+  ],
+  "samenvatting": "Advocaat: meer dreiging tegen van corruptie verdachte ambtenaar ijmuidercourant.nl",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlItaFEyRWFnUkpzWVBxdmZPbDQ1QjFUM05sSXBwb3gybmJyaEs3UkxXODJmUWRNS0NzVGNqaEZYR0FBcUxMQ1l1bDdnUUNMYkVIYlhqM2hvNmt6aC1wYXVfdktWbG5Qd1o5OGp5T0dKcWVZQzVUR3E1NjMxZGt3TmVNWmwwdld0Ymx0NndNMjN2aTNHSUVRMzFBNGQwX1llRG96RHZMdVJFMk9MeFhOYWFUYnlFX3RuNHpF?oc=5"
  },
  {
   "id": "ca6d16e909",
@@ -316,7 +471,7 @@
   "id": "22ceb710cd",
   "datum": "2026-09-18",
   "tijd": "06:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Waterputten na jaren gedoe aangepakt: 'Mijn koeien drinken nu uit de kraan'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -337,7 +492,7 @@
   "id": "c6bf11adc1",
   "datum": "2026-09-18",
   "tijd": "05:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dealers, verslaafden en vechtpartijen teisteren woonwijk, bewoners zijn wanhopig",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -356,7 +511,7 @@
   "id": "e957c948c5",
   "datum": "2026-09-18",
   "tijd": "05:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester doet beroep op kabinet na dodelijk geweld in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -378,7 +533,7 @@
   "id": "2a208bf684",
   "datum": "2026-09-18",
   "tijd": "03:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explosie vernielt gevel van broodjeszaak Geldrop, eigenaresse emotioneel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -390,8 +545,7 @@
   ],
   "tags": [
    "explosie",
-   "pand",
-   "vuurwerk"
+   "pand"
   ],
   "samenvatting": "Een explosief heeft in de nacht van donderdag op vrijdag grote schade aangericht bij een broodjeszaak in Geldrop. De gevel van het pand aan de Heuvel werd rond één uur in de nacht met een harde knal weggeblazen. Er raakte niemand gewond. Het gaat om een broodjeszaak van de keten Bufkes, met vestigingen door heel Nederl",
   "link": "https://www.omroepbrabant.nl/nieuws/6027726/explosie-vernielt-gevel-van-broodjeszaak-geldrop-eigenaresse-emotioneel"
@@ -1047,6 +1201,25 @@
   "link": "https://www.rijnmond.nl/nieuws/2255377/inbrekers-slepen-zware-kluis-uit-woning-in-numansdorp"
  },
  {
+  "id": "cacd1203f1",
+  "datum": "2026-09-17",
+  "tijd": "14:02",
+  "nieuw": false,
+  "titel": "Inbrekers slepen zware kluis uit woning, één van de daders kijkt vol in de camera",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Drie mannen hebben midden in de nacht ingebroken in een woning aan de Numansgors in Numansdorp. Ze gingen ervandoor met een zware kluis vol waardevolle spullen. De verdachten staan op camerabeeld en de politie wil weten wie ze zijn.",
+  "link": "https://www.rijnmond.nl/nieuws/2255377/inbrekers-slepen-zware-kluis-uit-woning-een-van-de-daders-kijkt-vol-in-de-camera"
+ },
+ {
   "id": "7445e8a4a6",
   "datum": "2026-09-17",
   "tijd": "13:54",
@@ -1159,25 +1332,6 @@
   ],
   "samenvatting": "Tegen een man uit Urk (58) is donderdag een celstraf van 20 maanden waarvan 8 maanden voorwaardelijk geëist wegens een zedendelict. De Urker, op dit moment ook fractievoorzitter in de gemeenteraad, wordt verdacht van het met dwang aanranden van een 18-jarige jongen in een rijdende auto in Lelystad. De Urker begeleidde ",
   "link": "https://www.omroepflevoland.nl/nieuws/524133/urker-politicus-(58)-hoort-celstraf-tegen-zich-eisen-wegens-aanranding-van-jongen-(18)-'hij-heeft-mijn-vertrouwen-geschaad'"
- },
- {
-  "id": "ebca82160d",
-  "datum": "2026-09-17",
-  "tijd": "11:59",
-  "nieuw": false,
-  "titel": "Verkeer Suurhoffbrug tot acht weken over vluchtstrook door scheuren in constructie",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "vrachtwagen"
-  ],
-  "samenvatting": "Het verkeer dat via het westelijke deel van de Suurhoffbrug in de A15 naar de Maasvlakte gaat, zal de komende zes tot acht weken over de vluchtstrook moeten blijven rijden. Gisteren maakte Rijkswaterstaat al bekend dat er tijdens een inspectie scheuren waren aangetroffen in de hoofdliggers van de brug. De veiligheid va",
-  "link": "https://nos.nl/l/2631366"
  },
  {
   "id": "249771e85d",
@@ -2328,25 +2482,6 @@
   ],
   "samenvatting": "Zwaarbewapende agenten zijn dinsdagavond naar een flatwoning gegaan aan de Reijerweg in Ridderkerk. Dat deden zij na meldingen over een agressieve man in het huis, die spullen uit het raam zou gooien. Omwonenden hadden ook een knal gehoord en in het raam zat een gat.",
   "link": "https://www.rijnmond.nl/nieuws/2254554/agressieve-man-gooit-spullen-naar-buiten-kogelgat-in-raam-aanhouding-door-zwaarbewapende-agenten"
- },
- {
-  "id": "22a23cabe9",
-  "datum": "2026-09-16",
-  "tijd": "09:15",
-  "nieuw": false,
-  "titel": "Werknemer Schmidt Zeevis speelt vertrouwelijke klantgegevens door",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Corruptie & integriteit"
-  ],
-  "tags": [
-   "vertrouwelijke informatie"
-  ],
-  "samenvatting": "Een werknemer van Koninklijke Schmidt Zeevis uit Rotterdam heeft vertrouwelijke informatie van een klant aan een ander bedrijf gegeven. Met het doorspelen van die gegevens heeft de werknemer het geheimhoudingsbeding uit de arbeidsovereenkomst geschonden. Als hij dat nog een keer doet, moet hij een boete betalen. Dat co",
-  "link": "https://www.rijnmond.nl/nieuws/2254575/werknemer-schmidt-zeevis-speelt-vertrouwelijke-klantgegevens-door"
  },
  {
   "id": "cd8c65f3d6",
@@ -4386,6 +4521,25 @@
   ],
   "samenvatting": "Een foutje in het DNA kan een erfelijke spierziekte veroorzaken: myotone dystrofie type 1 (MD). Het is de meest voorkomende spierziekte in Nederland, maar er is nog heel weinig over bekend. Postdoctoraal onderzoeker Renée Raaijmakers van het Radboudumc in Nijmegen onderzocht hoe je dat foutje kunt herstellen en boekte ",
   "link": "https://www.gld.nl/nieuws/8521934/doorbraak-in-onderzoek-naar-meest-voorkomende-spierziekte-in-nederland"
+ },
+ {
+  "id": "a0770a9938",
+  "datum": "2026-09-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vrijspraak van beroepsmatige fraude met online handel bij gebrek aan bewijs van eigen uitvoeringshandelingen; veroordeling voor medeplegen van witwassen via ter beschikking gestelde bankrekeningen",
+  "bron": "BijzonderStrafrecht.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Vrijspraak van beroepsmatige fraude met online handel bij gebrek aan bewijs van eigen uitvoeringshandelingen; veroordeling voor medeplegen van witwassen via ter beschikking gestelde bankrekeningen BijzonderStrafrecht.nl",
+  "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPZVcxd0pvSDVKYnN0OHVJMEtCMEZVd0hxTThDYjRXR05rSzRUX08yYVJDZDBNWlpvaGYxYU80NkhtWXc0QzdmUDZYMmpuUTBJZ3JfQWNUbklGSjlVUlMtc0VhOVMwTVVQLW1JNURNbzR6N0VWRThITzVkQzJmWVFnWVlMZ3dYaTJNTUhEc2dnZm9jd3VqOVRSWHJjTld1TmptU3FTV184UkRwenZPZ2cyS1pPSWJqTFMyc0I5MC14T2R5QjlvV1QyamktSGM4Y3VIYzI1amZ2M2RRemtXWkl0end4R1RQMVYzRWJGNXZzZnZVQTFRWDVSYmc2V083QU9CODVyNEVWZ0FrSTRDUmI4a2xQMmpJZF9kb29XVzJSTWlTVW9JdC1oSG43VDFJQ1l0VHBNMDJsa3dELUZoazNvNmtBWXJzejZVYTRmWnRMVURQUjFKeWc?oc=5"
  },
  {
   "id": "21e7d35fec",
