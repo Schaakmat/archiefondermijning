@@ -10,14 +10,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval",
-   "Wapens, explosieven & vuurwerk"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "moord",
-   "stort",
-   "vuurwerk"
+   "moord"
   ],
   "samenvatting": "Goedemorgen! In Rusland beginnen de verkiezingen voor de Doema, het lagerhuis van het parlement. Kritische oppositiepartijen zijn uitgesloten van deelname. Het weer: vandaag schijnt de zon geregeld en komen ook stapelwolken voor. Vooral in het noorden vallen vanochtend nog enkele buien, die tijdens de middag via Duitsl",
   "link": "https://nos.nl/l/2631455"
@@ -255,7 +251,7 @@
   "id": "f8b6e80c64",
   "datum": "2026-09-17",
   "tijd": "18:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Artsen Mazonakis ook verdacht van witwassen",
   "bron": "Parakalo",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -274,7 +270,7 @@
   "id": "5f83169d19",
   "datum": "2026-09-17",
   "tijd": "18:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Voor 71 miljoen euro aan verdachte transacties met zorggeld in Oost-Nederland",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -2039,6 +2035,25 @@
   ],
   "samenvatting": "Zwaarbewapende agenten zijn dinsdagavond naar een flatwoning gegaan aan de Reijerweg in Ridderkerk. Dat deden zij na meldingen over een agressieve man in het huis, die spullen uit het raam zou gooien. Omwonenden hadden ook een knal gehoord en in het raam zat een gat.",
   "link": "https://www.rijnmond.nl/nieuws/2254554/agressieve-man-gooit-spullen-naar-buiten-kogelgat-in-raam-aanhouding-door-zwaarbewapende-agenten"
+ },
+ {
+  "id": "22a23cabe9",
+  "datum": "2026-09-16",
+  "tijd": "09:15",
+  "nieuw": false,
+  "titel": "Werknemer Schmidt Zeevis speelt vertrouwelijke klantgegevens door",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "vertrouwelijke informatie"
+  ],
+  "samenvatting": "Een werknemer van Koninklijke Schmidt Zeevis uit Rotterdam heeft vertrouwelijke informatie van een klant aan een ander bedrijf gegeven. Met het doorspelen van die gegevens heeft de werknemer het geheimhoudingsbeding uit de arbeidsovereenkomst geschonden. Als hij dat nog een keer doet, moet hij een boete betalen. Dat co",
+  "link": "https://www.rijnmond.nl/nieuws/2254575/werknemer-schmidt-zeevis-speelt-vertrouwelijke-klantgegevens-door"
  },
  {
   "id": "cd8c65f3d6",
