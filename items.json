@@ -1,5 +1,32 @@
 [
  {
+  "id": "36a2cf4575",
+  "datum": "2026-09-18",
+  "tijd": "16:53",
+  "nieuw": true,
+  "titel": "Almere - Zero-emissiezone blijft in Almere Stad, zones in Haven en Buiten op losse schroeven",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Cocaine, haven & logistiek",
+   "Ondernemers & weerbaarheid",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "gemeenteraad",
+   "haven",
+   "ondernemers",
+   "winkeliers",
+   "woning"
+  ],
+  "samenvatting": "De zero-emissiezone in Almere Stad blijft voorlopig staan. Het college van burgemeester en wethouders werkt aan een nieuw verkeersbesluit om de zones in Almere Haven en Almere Buiten niet in te voeren. Ondernemers uit Buiten zijn blij met het besluit, al zijn de ondernemers nog niet helemaal uit de wind. \"Almere Buiten",
+  "link": "https://www.omroepflevoland.nl/nieuws/524261/zero-emissiezone-blijft-in-almere-stad-zones-in-haven-en-buiten-op-losse-schroeven"
+ },
+ {
   "id": "52cc1e7ae0",
   "datum": "2026-09-18",
   "tijd": "15:41",
@@ -24,6 +51,33 @@
   "link": "https://nos.nl/l/2631521"
  },
  {
+  "id": "945c3c1e67",
+  "datum": "2026-09-18",
+  "tijd": "15:30",
+  "nieuw": true,
+  "titel": "Protest helpt niet: omstreden woontoren komt er toch",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages",
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "garage",
+   "gemeenteraad",
+   "haven",
+   "pand",
+   "stal"
+  ],
+  "samenvatting": "De ene na de andere woontoren verschijnt in Eindhoven, en niet iedereen is daar blij mee. Bewoners van de Oude Haven, vlak bij het centrum, maken zich grote zorgen over nieuwbouwproject Blake. Een meerderheid van de gemeenteraad stemde deze week in met de plannen: een gebouw met woonlagen van zes tot twaalf hoog. \"Het ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027833/protest-helpt-niet-omstreden-woontoren-komt-er-toch"
+ },
+ {
   "id": "20f85e3856",
   "datum": "2026-09-18",
   "tijd": "14:54",
@@ -45,6 +99,44 @@
   ],
   "samenvatting": "De Nederlandse Staat moet een schilderij van Nederlandse landschapschilder Jan van Goyen teruggeven aan de erfgenamen. Dat heeft de Restitutiecommissie bepaald, die adviseert over nazi-roofkunst in Nederland. Het gaat om het schilderij Vissers aan de oevers van een plas, dat deel uitmaakt van de Rijkscollectie en zich ",
   "link": "https://nos.nl/l/2631511"
+ },
+ {
+  "id": "7340f284ec",
+  "datum": "2026-09-18",
+  "tijd": "14:48",
+  "nieuw": true,
+  "titel": "Spanje levert verdachte van voorbereiden drugsimport en witwassen over aan Nederland",
+  "bron": "blikopnieuws.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Spanje levert verdachte van voorbereiden drugsimport en witwassen over aan Nederland blikopnieuws.nl",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGtQeGg4U2dBV2tIbXBiYXJnOWdnVzltckVvYnJFeTEweWtTQUcwNzl5UU9TN2RhNXVJTl92aHNKME0xLTlCdWNRYXp6eERmSEhkdWhXWlhIdzc1RjdCRGJBSlhMeVNjZG80Zk1fbHh5WXN2T01aS3p6QnE5Y09wWE5acUFUbU9aM2IyR2tmR041NVFuTTlPNG9UeWF1UUkzYkkyaklDajVBeDN4RjlXRlhMTDg0M0NMeW5FWU5CYVY2aVQ1?oc=5"
+ },
+ {
+  "id": "5e502f108f",
+  "datum": "2026-09-18",
+  "tijd": "14:23",
+  "nieuw": true,
+  "titel": "\"Drugslab in Bree was één van de grootste ooit\": vandaag 5e verdachte aangehouden",
+  "bron": "vrt.be",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "\"Drugslab in Bree was één van de grootste ooit\": vandaag 5e verdachte aangehouden vrt.be",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UWWNRcVlDTnllUExPSDFsQTZHa3FrUVZ5WktEb2pmc1ZRVTJFNnhzeEZLODdMd1gwNDZFNU1oS2dXUHIyVnJnTGpHejhmdmEzQWNaUDdISVFKdkJNWVlnTEVuOTlrQXB0cXVOX2R4QUpYZkljZDg4?oc=5"
  },
  {
   "id": "e64401e282",
@@ -78,6 +170,25 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "Een man is zwaar mishandeld na een ruzie in uitgaansgebied Stratumseind in Eindhoven. Hij werd getrapt tegen zijn hoofd en gezicht terwijl hij weerloos op de grond lag en raakte bewusteloos. Dat gebeurde donderdagavond. Agenten hielden een verdachte aan, die zich hevig verzette en volgens de politie zelfs probeerde een",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027845/man-getrapt-in-zijn-gezicht-na-ruzie-verdachte-probeert-agent-te-bijten"
+ },
+ {
+  "id": "4b7a1e937d",
+  "datum": "2026-09-18",
+  "tijd": "14:09",
+  "nieuw": true,
+  "titel": "Man mishandeld en bewusteloos geslagen op Stratumseind",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
    "Geweld, liquidaties & bedreiging",
    "Milieucriminaliteit & afval"
   ],
@@ -86,7 +197,7 @@
    "grond"
   ],
   "samenvatting": "Een man is zwaar mishandeld na een ruzie in uitgaansgebied Stratumseind in Eindhoven. Hij werd getrapt tegen zijn hoofd en gezicht terwijl hij weerloos op de grond lag en raakte bewusteloos. Dat gebeurde donderdagavond. Agenten hielden een verdachte aan, die zich hevig verzette en volgens de politie zelfs probeerde een",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027845/man-getrapt-in-zijn-gezicht-na-ruzie-verdachte-probeert-agent-te-bijten"
+  "link": "https://www.omroepbrabant.nl/nieuws/6027845/man-mishandeld-en-bewusteloos-geslagen-op-stratumseind"
  },
  {
   "id": "edcf38790d",
@@ -383,7 +494,7 @@
   "id": "eea0647dc8",
   "datum": "2026-09-18",
   "tijd": "10:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gemeente grijpt in na vondst illegaal sekswerk in Oudenbosch",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -404,7 +515,7 @@
   "id": "784020c27d",
   "datum": "2026-09-18",
   "tijd": "10:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "100 dagen EU-migratiepact: 'Snelheid ten koste van zorgvuldigheid'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -426,7 +537,7 @@
   "id": "5211405a2e",
   "datum": "2026-09-18",
   "tijd": "10:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachten geweld Overasselt komen niet uit Gelderland",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -756,6 +867,25 @@
   ],
   "samenvatting": "Twee weken na het dodelijke schietincident in Overasselt kwam de gemeenteraad van Heumen weer bijeen. In een openingsverklaring riep burgemeester Joerie Minses de landelijke politiek op alles in het werk te stellen om de georganiseerde criminaliteit aan te pakken. Tegelijkertijd benadrukte hij dat Overasselt vooral beh",
   "link": "https://www.gld.nl/nieuws/8524605/burgemeester-doet-beroep-op-kabinet-na-dodelijk-geweld-in-overasselt"
+ },
+ {
+  "id": "350f9cbdc4",
+  "datum": "2026-09-18",
+  "tijd": "04:10",
+  "nieuw": false,
+  "titel": "Auto op de zijkant, bestuurder meegenomen naar politiebureau",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een automobilist is donderdagavond met zijn auto op zijn zijkant terechtgekomen na een eenzijdig ongeval.",
+  "link": "https://www.gld.nl/nieuws/8524642/auto-op-de-zijkant-bestuurder-meegenomen-naar-politiebureau"
  },
  {
   "id": "2a208bf684",
@@ -2660,6 +2790,25 @@
   ],
   "samenvatting": "Zwaarbewapende agenten zijn dinsdagavond naar een flatwoning gegaan aan de Reijerweg in Ridderkerk. Dat deden zij na meldingen over een agressieve man in het huis, die spullen uit het raam zou gooien. Omwonenden hadden ook een knal gehoord en in het raam zat een gat.",
   "link": "https://www.rijnmond.nl/nieuws/2254554/agressieve-man-gooit-spullen-naar-buiten-kogelgat-in-raam-aanhouding-door-zwaarbewapende-agenten"
+ },
+ {
+  "id": "22a23cabe9",
+  "datum": "2026-09-16",
+  "tijd": "09:15",
+  "nieuw": false,
+  "titel": "Werknemer Schmidt Zeevis speelt vertrouwelijke klantgegevens door",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "vertrouwelijke informatie"
+  ],
+  "samenvatting": "Een werknemer van Koninklijke Schmidt Zeevis uit Rotterdam heeft vertrouwelijke informatie van een klant aan een ander bedrijf gegeven. Met het doorspelen van die gegevens heeft de werknemer het geheimhoudingsbeding uit de arbeidsovereenkomst geschonden. Als hij dat nog een keer doet, moet hij een boete betalen. Dat co",
+  "link": "https://www.rijnmond.nl/nieuws/2254575/werknemer-schmidt-zeevis-speelt-vertrouwelijke-klantgegevens-door"
  },
  {
   "id": "cd8c65f3d6",
