@@ -1,12 +1,12 @@
 {
- "run": "10:40",
+ "run": "11:41",
  "datum": "2026-09-18",
- "nieuw": 17,
- "totaal": 3295,
- "verwijderd": 13,
+ "nieuw": 19,
+ "totaal": 3300,
+ "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1071,
-  "geen dossier": 478
+  "niet-nederlands": 1074,
+  "geen dossier": 477
  },
  "bronnen": [
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 182,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 66,
-   "status": "5 nieuw",
+   "items": 68,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 121,
-   "status": "5 nieuw",
+   "items": 122,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 161,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 31,
-   "status": "bij",
+   "items": 32,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -536,7 +536,7 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 78,
+   "items": 79,
    "status": "1 nieuw",
    "ok": true
   },

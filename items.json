@@ -1,5 +1,101 @@
 [
  {
+  "id": "4f8506ff12",
+  "datum": "2026-09-18",
+  "tijd": "12:54",
+  "nieuw": true,
+  "titel": "Meisje (15) uit Meerstad dat wordt verdacht van moord op ouders blijft vastzitten",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "geweld",
+   "jeugd",
+   "moord",
+   "school",
+   "woning"
+  ],
+  "samenvatting": "Het 15-jarige meisje uit het Groningse Meerstad dat wordt verdacht van het doden van haar beide ouders blijft zeker negentig dagen langer in hechtenis. Dat heeft de rechtbank in Groningen besloten tijdens een eerste pro-formazitting. Vanwege de jonge leeftijd van de verdachte vond de zitting plaats achter gesloten deur",
+  "link": "https://nos.nl/l/2631495"
+ },
+ {
+  "id": "b33bc74675",
+  "datum": "2026-09-18",
+  "tijd": "12:41",
+  "nieuw": true,
+  "titel": "Veertien arrestaties na azc-protest Opheusden, komen allemaal uit de buurt",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "geweld",
+   "grond",
+   "vuurwerk"
+  ],
+  "samenvatting": "De politie heeft gisteravond veertien aanhoudingen verricht tijdens een protest in het Gelderse Opheusden tegen de mogelijke komst van een asielzoekerscentrum. Twaalf van de veertien verdachten komen uit de gemeente Neder-Betuwe, waar Opheusden onder valt. Een verdachte is afkomstig uit de gemeente Buren en een uit gem",
+  "link": "https://nos.nl/l/2631493"
+ },
+ {
+  "id": "1b29b96a8b",
+  "datum": "2026-09-18",
+  "tijd": "11:04",
+  "nieuw": true,
+  "titel": "Bestuurder vergeet handrem: auto belandt in water, politie vindt illegale sigaretten",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Toen de auto uit het water werd getakeld, zagen agenten echter wel iets opmerkelijks op de achterbank liggen.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18792538/bestuurder-vergeet-handrem-auto-belandt-in-water-politie-vindt-illegale-sigaretten"
+ },
+ {
+  "id": "eea0647dc8",
+  "datum": "2026-09-18",
+  "tijd": "10:34",
+  "nieuw": true,
+  "titel": "Gemeente grijpt in na vondst illegaal sekswerk in Oudenbosch",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "aanpak ondermijning",
+   "burgemeester",
+   "mensenhandel",
+   "ondermijnend",
+   "ondermijnende criminaliteit",
+   "ondermijning"
+  ],
+  "samenvatting": "Illegaal sekswerk is ontdekt op drie plekken in Oudenbosch. Dat gebeurde tijdens een gezamenlijke controle van de gemeente Halderberge, de politie en andere hulpverlenende organisaties. Bij de controle werden meerdere sekswerkers aangetroffen. Op alle drie de locaties ging het om illegale prostitutie. Ook vier mensen d",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027822/gemeente-grijpt-in-na-vondst-illegaal-sekswerk-in-oudenbosch"
+ },
+ {
   "id": "784020c27d",
   "datum": "2026-09-18",
   "tijd": "10:29",
@@ -80,6 +176,25 @@
   ],
   "samenvatting": "Twee gemaskerde mannen op een skinnybike en scooter hebben afgelopen nacht geprobeerd een fietser in Enschede te beroven. Het slachtoffer wist te ontkomen en verstopte zich voor zijn belagers. Kort daarna volgde een achtervolging door de politie, waarbij een agent een stroomstootwapen inzette.",
   "link": "https://www.oost.nl/nieuws/3697105/gemaskerde-mannen-proberen-fietser-te-beroven-in-enschede"
+ },
+ {
+  "id": "b7cec14a85",
+  "datum": "2026-09-18",
+  "tijd": "09:49",
+  "nieuw": true,
+  "titel": "Gemaskerde mannen belagen fietser in Enschede, politie grijpt stroomstootwapen",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Twee gemaskerde mannen op een skinnybike en scooter hebben afgelopen nacht geprobeerd een fietser in Enschede te beroven. Het slachtoffer wist te ontkomen en verstopte zich voor zijn belagers. Kort daarna volgde een achtervolging door de politie, waarbij een agent een stroomstootwapen inzette.",
+  "link": "https://www.oost.nl/nieuws/3697105/gemaskerde-mannen-belagen-fietser-in-enschede-politie-grijpt-stroomstootwapen"
  },
  {
   "id": "52e0b8abb9",
@@ -285,7 +400,7 @@
   "id": "a04610358e",
   "datum": "2026-09-18",
   "tijd": "03:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nog altijd veel zorgfraude in Oost-Nederland: zo wordt geld weggesluisd",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -304,7 +419,7 @@
   "id": "ff5142f885",
   "datum": "2026-09-18",
   "tijd": "00:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Meer dan tien aanhoudingen bij anti-azc-protest in Opheusden, ME ingezet",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -328,7 +443,7 @@
   "id": "4e96316f1e",
   "datum": "2026-09-17",
   "tijd": "22:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tientallen pro-Palestijnse demonstranten opgepakt bij Israël-manifestatie op Dam",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
