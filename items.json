@@ -22,6 +22,85 @@
   "link": "https://nos.nl/l/2631482"
  },
  {
+  "id": "7023696185",
+  "datum": "2026-09-18",
+  "tijd": "10:15",
+  "nieuw": true,
+  "titel": "TU/e grijpt in na nazigroet tijdens college: student voorlopig geweerd",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bedreiging",
+   "beveiliging"
+  ],
+  "samenvatting": "Een student van de Technische Universiteit Eindhoven (TU/e) mag voorlopig niet meer naar de campus komen. Hij bracht woensdag een nazigroet tijdens een college. De universiteit ontzegt hem de toegang totdat er een gesprek is geweest en de situatie helemaal is beoordeeld. Dat laat de TU/e weten. De nazigroet zorgde woen",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027817/tue-grijpt-in-na-nazigroet-tijdens-college-student-voorlopig-geweerd"
+ },
+ {
+  "id": "49593418ec",
+  "datum": "2026-09-18",
+  "tijd": "10:02",
+  "nieuw": true,
+  "titel": "Nog geen duidelijkheid over dodelijk ongeluk A59, wel aangifte tegen boeren",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester",
+   "evaluatie"
+  ],
+  "samenvatting": "Wat er precies gebeurde bij het dodelijke ongeluk op de A59 tijdens het boerenprotest van 14 augustus, is nog altijd niet duidelijk. Politie en Openbaar Ministerie (OM) onderzoeken nog de oorzaak. Bij het ongeluk op de A59 kwamen een 71-jarige man en een 72-jarige vrouw uit Oss om het leven . Een 34-jarige vrouw uit Ni",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027800/nog-geen-duidelijkheid-over-dodelijk-ongeluk-a59-wel-aangifte-tegen-boeren"
+ },
+ {
+  "id": "81302be585",
+  "datum": "2026-09-18",
+  "tijd": "09:49",
+  "nieuw": true,
+  "titel": "Gemaskerde mannen proberen fietser te beroven in Enschede",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Twee gemaskerde mannen op een skinnybike en scooter hebben afgelopen nacht geprobeerd een fietser in Enschede te beroven. Het slachtoffer wist te ontkomen en verstopte zich voor zijn belagers. Kort daarna volgde een achtervolging door de politie, waarbij een agent een stroomstootwapen inzette.",
+  "link": "https://www.oost.nl/nieuws/3697105/gemaskerde-mannen-proberen-fietser-te-beroven-in-enschede"
+ },
+ {
+  "id": "52e0b8abb9",
+  "datum": "2026-09-18",
+  "tijd": "09:22",
+  "nieuw": true,
+  "titel": "Fietser overleden na aanrijding met vrachtwagen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Bij een ernstig verkeersongeval aan het Raadhuisplein in Ede is vrijdagochtend een persoon overleden. Dat meldt de politie.",
+  "link": "https://www.gld.nl/nieuws/8524745/fietser-overleden-na-aanrijding-met-vrachtwagen"
+ },
+ {
   "id": "f18ae9adbb",
   "datum": "2026-09-18",
   "tijd": "08:36",
@@ -232,12 +311,17 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
+   "burgemeester",
+   "gemeenteraad",
+   "grond",
    "vuurwerk"
   ],
-  "samenvatting": "De politie heeft gisteravond in Opheusden meer dan tien mensen aangehouden tijdens een protest tegen de mogelijke komst van een asielzoekerscentrum. In het gemeentehuis was een gespreksavond bezig over asielopvang in de gemeente Neder-Betuwe. Volgens dagblad de Gelderlander waren daar enkele honderden demonstranten op ",
+  "samenvatting": "De politie heeft gisteravond in het Gelderse dorp Opheusden meer dan tien mensen aangehouden tijdens een uit de hand gelopen protest tegen de mogelijke komst van een asielzoekerscentrum. In het gemeentehuis organiseerde het college \"een gespreksavond\" over de mogelijke komst van een asielzoekerscentrum. Volgens de spre",
   "link": "https://nos.nl/l/2631449"
  },
  {
@@ -265,7 +349,7 @@
   "id": "676a9c11a8",
   "datum": "2026-09-17",
   "tijd": "21:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Auto belandt op zijn dak bij supermarkt in Lelystad",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -284,7 +368,7 @@
   "id": "833e215fa4",
   "datum": "2026-09-17",
   "tijd": "20:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Onrust bij debat over asielopvang: vuurwerk gegooid en politiehelikopter ingezet",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -1251,26 +1335,6 @@
   "link": "https://www.rijnmond.nl/nieuws/2255206/politie-agent-schoot-gericht-nadat-hij-met-spuitbus-in-gezicht-werd-bespoten"
  },
  {
-  "id": "0f80b81a85",
-  "datum": "2026-09-17",
-  "tijd": "07:39",
-  "nieuw": false,
-  "titel": "Tientallen boetes uitgeschreven en spookwagens ontdekt bij politieactie",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "vuurwerk",
-   "zwaar illegaal vuurwerk"
-  ],
-  "samenvatting": "Bij een grote politiecontrole in Eindhoven zijn woensdagavond 87 boetes uitgeschreven. Dat is een flinke vangst, want in totaal werden 140 voertuigen gecontroleerd. Daarnaast werden vijf 'spookvoertuigen' in beslag genomen. De vijf zogeheten spookvoertuigen waren niet geldig geregistreerd, waardoor er geen belastingen ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027655/tientallen-boetes-uitgeschreven-en-spookwagens-ontdekt-bij-politieactie"
- },
- {
   "id": "702beb451d",
   "datum": "2026-09-17",
   "tijd": "05:34",
@@ -1383,34 +1447,6 @@
   ],
   "samenvatting": "Onderzoek bij Maxime Night Club in verband met mogelijke mensensmokkel EA News Aruba",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUphSHQwbFhGMUE5RWdfZmRLT3IzQ2NBUWlWNnNLbkY4dWdxOEJZMzBoS05Gam9DcVJ5Mkh5Q1ZESmtJYWpxdEVJMXJSVXY4SHNqcWpjYWJTd1hOcDA4Qlpic3MtZ0NRYnRDYnE0a0hRMHBXdzd2Q1ZDTE5BSDVBVmF5X2RhWUpneURoR1Z0b1NEOXEzaWtmdGFn?oc=5"
- },
- {
-  "id": "e2ccac51e7",
-  "datum": "2026-09-16",
-  "tijd": "21:15",
-  "nieuw": false,
-  "titel": "Gemeente moet asielopvang Engelen sluiten als afspraken geschonden worden",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Jeugd & jonge aanwas",
-   "Ondernemers & weerbaarheid",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "bedrijventerrein",
-   "burgemeester",
-   "explosie",
-   "gemeenteraad",
-   "jongeren",
-   "pand"
-  ],
-  "samenvatting": "Als de asielopvang in Engelen er komt, moet de gemeente die tussentijds kunnen sluiten als afspraken niet nagekomen worden. Woensdagavond werd in de gemeenteraad van Den Bosch opnieuw gesproken over de opvang van vijftig minderjarige asielzoekers. Duidelijk werd dat er zorgen zijn over de leefbaarheid in Engelen en of ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027545/gemeente-moet-asielopvang-engelen-sluiten-als-afspraken-geschonden-worden"
  },
  {
   "id": "142f02aed7",
@@ -2177,6 +2213,25 @@
   ],
   "samenvatting": "Zwaarbewapende agenten zijn dinsdagavond naar een flatwoning gegaan aan de Reijerweg in Ridderkerk. Dat deden zij na meldingen over een agressieve man in het huis, die spullen uit het raam zou gooien. Omwonenden hadden ook een knal gehoord en in het raam zat een gat.",
   "link": "https://www.rijnmond.nl/nieuws/2254554/agressieve-man-gooit-spullen-naar-buiten-kogelgat-in-raam-aanhouding-door-zwaarbewapende-agenten"
+ },
+ {
+  "id": "22a23cabe9",
+  "datum": "2026-09-16",
+  "tijd": "09:15",
+  "nieuw": false,
+  "titel": "Werknemer Schmidt Zeevis speelt vertrouwelijke klantgegevens door",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "vertrouwelijke informatie"
+  ],
+  "samenvatting": "Een werknemer van Koninklijke Schmidt Zeevis uit Rotterdam heeft vertrouwelijke informatie van een klant aan een ander bedrijf gegeven. Met het doorspelen van die gegevens heeft de werknemer het geheimhoudingsbeding uit de arbeidsovereenkomst geschonden. Als hij dat nog een keer doet, moet hij een boete betalen. Dat co",
+  "link": "https://www.rijnmond.nl/nieuws/2254575/werknemer-schmidt-zeevis-speelt-vertrouwelijke-klantgegevens-door"
  },
  {
   "id": "cd8c65f3d6",
@@ -22518,6 +22573,25 @@
   ],
   "samenvatting": "Shownieuws: Michella Kox neemt het op voor Luca T. na beschuldigingen van mensenhandel KIJK",
   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hdTFObEY0ai1aT0tJRmhOSXAwVkR0R0hDUnZJb05PaGhDN3RlTG1YYmRJZ0NIOVZNM0NyVy1iOUJrUjVkYjhIa2tJYXRpaWNBMUlNOXB6cFYxZW56cUJyX093NHRLSnc?oc=5"
+ },
+ {
+  "id": "090d3498ec",
+  "datum": "2026-07-25",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Michella Kox neemt het op voor Luca T. na beschuldigingen van mensenhandel",
+  "bron": "Shownieuws",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Michella Kox neemt het op voor Luca T. na beschuldigingen van mensenhandel Shownieuws",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdDNJcl9Ib0tGX002Ymo4QlFOaTV1NjBDWERDZGZoU2g4MlBfbFdhaTNodXVLT3JXY3ROa0pSeEVQVWFkdHdVcmxCRmhJMV9Pb1JRZEpRMGFlRWVhcEE1Q01CdUtjVVdnN2hXR1RzMDdvYzRIR1dlMVpMWm14TnNOV3kxQzJVWnd0RF84X2ZRcURYMHlZaF9TeXZFQnppQ3g2SVBOZVN3QjN0U3VIYWVCTXBkTDRvSEw0d2hzWjAyMjJ4eXdFYmxF?oc=5"
  },
  {
   "id": "f1146dc8a9",
