@@ -1,5 +1,62 @@
 [
  {
+  "id": "27ee78f2f8",
+  "datum": "2026-09-19",
+  "tijd": "09:00",
+  "nieuw": true,
+  "titel": "Zeewolde - Wethouderschap in plaats van pensioen: 'leuker dan gedacht'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "gemeenteraad"
+  ],
+  "samenvatting": "Oud-ondernemer Hans de Groot heeft zijn pensioen uitgesteld voor de kans om wethouder te worden in Zeewolde. Over ruim een week wordt hij 66, en in het programma Over Flevoland Gesproken vertelt hij eigenlijk van plan te zijn geweest vanaf 1 juni met pensioen te gaan. De verkiezingsuitslag in maart veranderde alles voo",
+  "link": "https://www.omroepflevoland.nl/nieuws/524264/wethouderschap-in-plaats-van-pensioen:-'leuker-dan-gedacht'"
+ },
+ {
+  "id": "379003703b",
+  "datum": "2026-09-19",
+  "tijd": "07:18",
+  "nieuw": true,
+  "titel": "Aanhoudingen voor uitbuiting, mensensmokkel bij restaurantketens",
+  "bron": "Omroep West",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Aanhoudingen voor uitbuiting, mensensmokkel bij restaurantketens Omroep West",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWxWaFNrMVc0VVR2M0ZVR0xldV9tdlhVRjNOWGVWSmJGZXpWX2syQnBwdFNxRXZ6R0F3My1ZT2xVOGVyTVhSV0R4RWdmZW5qeGtVZ0JpQ2NUTU1OdERhMDhyT1k1U0NoSzBhbUl5ZU4zOFlGUTZpaUI5QmRDazNDbjhhdmJ0ZlhrYzBMVzZhN08yYmMtd0pkODlFRmVObEtwbEZvcXE2NXM?oc=5"
+ },
+ {
+  "id": "7b6d5a1f04",
+  "datum": "2026-09-19",
+  "tijd": "05:51",
+  "nieuw": true,
+  "titel": "Politie-expert over fatale arrestatie Alfredo Goeloe: 'Veel mensen hebben al snel een mening'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "De dood van de 51-jarige Alfredo Goeloe roept verdriet, woede en veel vragen op. Op beelden is te zien hoe agenten hem tijdens zijn aanhouding tegen de grond houden, terwijl hij om hulp roept. Daarvóór was hij na een controle weggerend. Politiewetenschapper Jaap Timmer legt uit wat agenten tijdens een aanhouding mogen ",
+  "link": "https://www.rijnmond.nl/nieuws/2255575/politie-expert-over-fatale-arrestatie-alfredo-goeloe-veel-mensen-hebben-al-snel-een-mening"
+ },
+ {
   "id": "c5221c6bdd",
   "datum": "2026-09-18",
   "tijd": "22:25",
@@ -235,7 +292,7 @@
   "id": "45da842105",
   "datum": "2026-09-18",
   "tijd": "18:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aanhoudingen voor mensenhandel en mensensmokkel bij Indiase restaurantketens die ook in Amsterdam zitten",
   "bron": "Het Parool",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -255,7 +312,7 @@
   "id": "81c0340aab",
   "datum": "2026-09-18",
   "tijd": "18:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee restauranteigenaren aangehouden voor mensenhandel en mensensmokkel",
   "bron": "NH Nieuws",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -1019,27 +1076,6 @@
   ],
   "samenvatting": "Voor zover nu bekend komt geen van de verdachten van het geweld in Overasselt, ruim twee weken geleden, uit Gelderland. Ze komen uit Noord- en Zuid-Holland, België en Frankrijk. Dat maakte het Openbaar Ministerie (OM) zojuist bekend. Vanochtend werd ook duidelijk dat het voorarrest van alle vastzittende verdachten word",
   "link": "https://www.gld.nl/nieuws/8524725/verdachten-geweld-overasselt-komen-niet-uit-gelderland"
- },
- {
-  "id": "49593418ec",
-  "datum": "2026-09-18",
-  "tijd": "10:02",
-  "nieuw": false,
-  "titel": "Nog geen duidelijkheid over dodelijk ongeluk A59, wel aangifte tegen boeren",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Bibob & bestuurlijke aanpak"
-  ],
-  "tags": [
-   "burgemeester",
-   "evaluatie"
-  ],
-  "samenvatting": "Wat er precies gebeurde bij het dodelijke ongeluk op de A59 tijdens het boerenprotest van 14 augustus, is nog altijd niet duidelijk. Politie en Openbaar Ministerie (OM) onderzoeken nog de oorzaak. Bij het ongeluk op de A59 kwamen een 71-jarige man en een 72-jarige vrouw uit Oss om het leven . Een 34-jarige vrouw uit Ni",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027800/nog-geen-duidelijkheid-over-dodelijk-ongeluk-a59-wel-aangifte-tegen-boeren"
  },
  {
   "id": "81302be585",
