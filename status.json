@@ -1,12 +1,12 @@
 {
- "run": "09:43",
+ "run": "10:35",
  "datum": "2026-09-19",
- "nieuw": 18,
- "totaal": 3354,
+ "nieuw": 15,
+ "totaal": 3356,
  "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1101,
-  "geen dossier": 507
+  "niet-nederlands": 1075,
+  "geen dossier": 494
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 169,
-   "status": "2 nieuw",
+   "items": 170,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 123,
-   "status": "bij",
+   "items": 124,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -375,7 +375,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 22,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 99,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
