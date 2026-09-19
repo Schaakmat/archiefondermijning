@@ -293,7 +293,7 @@
   "id": "ae0cc7ad3c",
   "datum": "2026-09-18",
   "tijd": "17:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dit is Jan G.: de drugscrimineel die in Overasselt werd aangevallen en in Duitsland werd opgepakt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -1397,29 +1397,6 @@
   ],
   "samenvatting": "Bij een protest in Opheusden is donderdagavond een grimmige sfeer ontstaan. In het gemeentehuis vindt een raadsvergadering plaats over de toekomstige opvang van asielzoekers. Er zijn meerdere personen aangehouden.",
   "link": "https://www.gld.nl/nieuws/8524614/onrust-bij-debat-over-asielopvang-vuurwerk-gegooid-en-politiehelikopter-ingezet"
- },
- {
-  "id": "949c6460f5",
-  "datum": "2026-09-17",
-  "tijd": "19:39",
-  "nieuw": false,
-  "titel": "Nabestaanden van Goeloe doen aangifte van doodslag tegen politie",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "geweld",
-   "grond",
-   "organisatie"
-  ],
-  "samenvatting": "De familie van de man die zaterdag na zijn aanhouding overleed in Rotterdam heeft aangifte gedaan tegen de politie. Dat zegt advocaat Gerald Roethof die de familie van Alfredo Goeloe bijstaat, tegen de NOS. Roethof heeft namens de oudste dochter van Goeloe aangifte gedaan. De familie zegt dat er sprake is van doodslag ",
-  "link": "https://nos.nl/l/2631426"
  },
  {
   "id": "34932294dd",
