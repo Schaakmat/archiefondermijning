@@ -1,5 +1,43 @@
 [
  {
+  "id": "cfd697c48d",
+  "datum": "2026-09-19",
+  "tijd": "13:29",
+  "nieuw": true,
+  "titel": "Lelystad - Zeewoldenaar (45) hoort 48 maanden cel eisen voor verkrachting 14-jarig buurmeisje",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Het Openbaar Ministerie eist 48 maanden cel, waarvan zes maanden voorwaardelijk tegen de 45-jarige P.B. uit Zeewolde, vanwege verkrachting van zijn 14-jarige buurmeisje en het bezit van kinderporno. De man ontkent dat er seksueel contact is geweest, maar erkent dat hij het meisje in zijn woning heeft verborgen voor haa",
+  "link": "https://www.omroepflevoland.nl/nieuws/524373/zeewoldenaar-(45)-hoort-48-maanden-cel-eisen-voor-verkrachting-14-jarig-buurmeisje"
+ },
+ {
+  "id": "4a72c672d3",
+  "datum": "2026-09-19",
+  "tijd": "13:28",
+  "nieuw": true,
+  "titel": "Dodelijk ongeval pal voor ziekenhuis in Zwolle",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Bij een verkeersongeval in Zwolle is gisteren een 58-jarige vrouw uit die plaats om het leven gekomen, meldt de politie. Het ongeluk gebeurde pal voor het Isala-ziekenhuis. Het slachtoffer liep over een voetgangersoversteekplaats toen ze werd aangereden door een auto. Die werd bestuurd door een 83-jarige vrouw uit de g",
+  "link": "https://nos.nl/l/2631627"
+ },
+ {
   "id": "69022db1a1",
   "datum": "2026-09-19",
   "tijd": "12:32",
@@ -15,7 +53,7 @@
   "tags": [
    "pand"
   ],
-  "samenvatting": "Klimaatactivisten van Extinction Rebellion (XR) hebben de A12 bezet bij Zevenaar, ten zuidoosten van Arnhem. De politie is met meerdere voertuigen aanwezig en probeert de activisten van de snelweg te krijgen, schrijft Omroep Gelderland. Bij het protest zouden zo'n honderd demonstranten aanwezig zijn. De politie kon tie",
+  "samenvatting": "Klimaatactivisten van Extinction Rebellion (XR) hebben de A12 bezet bij Zevenaar, ten zuidoosten van Arnhem. De politie en mobiele eenheid zijn met meerdere voertuigen aanwezig en proberen de activisten van de snelweg te krijgen. De politie haalt inmiddels ook demonstranten van de snelweg. Bij het protest zouden zo'n h",
   "link": "https://nos.nl/l/2631621"
  },
  {
@@ -29,14 +67,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "cocaïne",
-   "kopstuk",
-   "moord",
    "netwerk"
   ],
   "samenvatting": "Dat 'Bolle Jos' Leijdekkers (35) wereldwijd onder een vergrootglas ligt, is alles behalve gunstig voor zijn vermogen om geld te verdienen. Het netwerk van de Bredase drugscrimineel staat steeds meer onder druk doordat onder andere zijn drugs vaker wordt onderschept. Ook schrikt de internationale aandacht voor de crimin",
@@ -98,6 +131,25 @@
   ],
   "samenvatting": "Snotneus zorgde dat Kamran op kantoor was toen naast hem een drugslab ontplofte NU",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORS0wRHg1Nm9vQm1HS1RNWXQ0OEE2clV0eUZiMEh6enFZeHNLUjdPNzJxQmlzY0tyY3UzWjVRc3RlZmliQUdYeFpuZURlekgza1ZLMEhPZVI5bkJoLUNBTkpSNE43MW5QajFnN3haaDVWTGx0ZkVSTkE0X3p4SldJNEh0NGZGUDZVdzNRTmJiRnk3TnBvdFdlMU5fT01hQTlvaHRFTEVlZ3BZdmN2R2UwNk45ZGVWMHg2ZFE?oc=5"
+ },
+ {
+  "id": "fbbb59c687",
+  "datum": "2026-09-19",
+  "tijd": "08:53",
+  "nieuw": true,
+  "titel": "Kamran was vanwege snotneus op kantoor toen naast hem een drugslab ontplofte",
+  "bron": "NU",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Kamran was vanwege snotneus op kantoor toen naast hem een drugslab ontplofte NU",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTXc1VHJOV0ViZEdBQk5Fc2p3YU5VSGNRUEtzQnV5QWdicVdVaU1XSnIxbWlreHl3a2pXVmpMNzhMS2g2MXZTaTByUFlIb3VsaXVoT1lJQkxzLXhydS1Pa2xWbVFsOGJjUzNQczZvdm9nOVVyZ3ZXTUh3SlVTdm9hMzg1eGxyZlJKOWEzSnRaRXk0REJrNFBhRk05YnNoc0hDblAyUGFiR1RqM3R0dkVKY0xXcEp6Zw?oc=5"
  },
  {
   "id": "afec477f21",
@@ -236,7 +288,7 @@
   "id": "1dbb59a552",
   "datum": "2026-09-18",
   "tijd": "20:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Het drugslab in Bree",
   "bron": "De Limburger",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -255,7 +307,7 @@
   "id": "9ad51a7e5c",
   "datum": "2026-09-18",
   "tijd": "20:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee arrestaties om mensensmokkel en uitbuiting bij Indiase restaurants",
   "bron": "NOS",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -274,7 +326,7 @@
   "id": "f16ad384a5",
   "datum": "2026-09-18",
   "tijd": "20:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Groot drugslab net over grens België opgerold, vier Nederlanders opgepakt",
   "bron": "Hart van Nederland",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
