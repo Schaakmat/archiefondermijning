@@ -1,11 +1,11 @@
 {
- "run": "15:38",
+ "run": "16:40",
  "datum": "2026-09-19",
- "nieuw": 17,
- "totaal": 3367,
- "verwijderd": 13,
+ "nieuw": 16,
+ "totaal": 3369,
+ "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1072,
+  "niet-nederlands": 1077,
   "geen dossier": 493
  },
  "bronnen": [
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 174,
-   "status": "2 nieuw",
+   "items": 175,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 47,
-   "status": "bij",
+   "items": 48,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -266,8 +266,8 @@
    "url": "news.google.com/rss/search?q=liquidatie%20criminele%20milieu%20OR%20moor",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 60,
-   "status": "bij",
+   "items": 61,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 126,
-   "status": "6 nieuw",
+   "items": 125,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 80,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
