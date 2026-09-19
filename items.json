@@ -37,20 +37,34 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
    "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "burgemeester",
-   "geweld",
    "organisatie",
-   "vuurwerk",
    "wapen"
   ],
   "samenvatting": "Bij de demonstratie van de extreemrechtse organisatie Wij Zijn Het Volk in Den Haag zijn 24 betogers opgepakt, meldt de politie. Ze werden aangehouden voor onder meer het niet voldoen aan het noodbevel en verboden wapenbezit. Een geplande mars door de stad werd aan het begin van de middag door de politie verboden \"vanw",
   "link": "https://nos.nl/l/2631670"
+ },
+ {
+  "id": "065406920f",
+  "datum": "2026-09-19",
+  "tijd": "18:02",
+  "nieuw": true,
+  "titel": "Venezolaanse vrouw en partner aangehouden in onderzoek naar mensensmokkel",
+  "bron": "Suriname Herald",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Venezolaanse vrouw en partner aangehouden in onderzoek naar mensensmokkel Suriname Herald",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbENpSUN3U1pNRmc4SW1mZjVPMEo0QVhvZG5HYVRhY0YyZC1lank1blFfWDdLU2tncVowWFQ4cFI1dkJ6YzJqUGFQclJ1QVF5emFTRHN5LS0zMWJiazJQN2JfVjh1eU9KbnkyYmR5eDAtZktBLVpRZnVkcElfeUtSTFNfSXRSRGxzRG95Z3MxZ1dsd3d1RFVncjRGRjhRRzFhMUtzQVhhMkJfT20ybjg4Rl9jbF9lRmFnUkZr?oc=5"
  },
  {
   "id": "7faaef1d8b",
@@ -257,7 +271,7 @@
   "id": "53d77c5ee0",
   "datum": "2026-09-19",
   "tijd": "11:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vier Nederlanders aangehouden na vondst van groot drugslaboratorium in het Belgische Bree",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -277,7 +291,7 @@
   "id": "f59a303e1f",
   "datum": "2026-09-19",
   "tijd": "11:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aanhoudingen voor uitbuiting en mensensmokkel bij Indiase restaurantketens, waaronder in Utrecht",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -296,7 +310,7 @@
   "id": "fde34d6651",
   "datum": "2026-09-19",
   "tijd": "11:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aanhoudingen voor uitbuiting en mensensmokkel bij Indiase restaurantketens, waaronder in Utrecht",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -315,7 +329,7 @@
   "id": "26336b664f",
   "datum": "2026-09-19",
   "tijd": "10:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Eerst 19 meldingen van overlast, dan een explosie en grote brand",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -1037,30 +1051,6 @@
   ],
   "samenvatting": "De Merwedebrug gaat drie dagen helemaal dicht. Rijkswaterstaat vervangt het asfalt door een lichtere en dunnere laag, nodig voor de bouw van de nieuwe brug ernaast. Verkeer moet omrijden en houdt rekening met tot een uur extra reistijd. De afsluiting duurt van donderdagavond 24 september 21.00 uur tot maandagnacht 28 s",
   "link": "https://www.omroepbrabant.nl/nieuws/6027851/asfalt-op-merwedebrug-wordt-vervangen-brug-drie-dagen-dicht"
- },
- {
-  "id": "52cc1e7ae0",
-  "datum": "2026-09-18",
-  "tijd": "15:41",
-  "nieuw": false,
-  "titel": "Waarom powerbanks in een vliegtuig niet zo'n goed idee zijn",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "grond",
-   "haven",
-   "organisatie",
-   "schiphol"
-  ],
-  "samenvatting": "Vlucht KL735 was donderdag een paar uur onderweg van Amsterdam naar Curaçao, toen in de businessclass de powerbank van oud-KLM-directeur Camiel Eurlings vlamvatte . Er ontstond een kleine brand bij een stoel en een man liep brandwonden op. Het cabinepersoneel wist de brand snel te blussen, maar de schade aan het toeste",
-  "link": "https://nos.nl/l/2631521"
  },
  {
   "id": "fccdc68584",
