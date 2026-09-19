@@ -255,7 +255,7 @@
   "id": "188fb01f20",
   "datum": "2026-09-18",
   "tijd": "17:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aanhoudingen voor uitbuiting, mensensmokkel bij restaurantketens",
   "bron": "IJmuider Courant",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -274,7 +274,7 @@
   "id": "d1ddaa5716",
   "datum": "2026-09-18",
   "tijd": "17:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Arbeidsinspectie slaat toe: aanhoudingen voor uitbuiting en mensensmokkel bij restaurantketens",
   "bron": "De Telegraaf",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -1295,27 +1295,6 @@
   "link": "https://www.gld.nl/nieuws/8524642/auto-op-de-zijkant-bestuurder-meegenomen-naar-politiebureau"
  },
  {
-  "id": "2a208bf684",
-  "datum": "2026-09-18",
-  "tijd": "03:42",
-  "nieuw": false,
-  "titel": "Explosie vernielt gevel van broodjeszaak Geldrop, eigenaresse emotioneel",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "explosie",
-   "pand"
-  ],
-  "samenvatting": "Een explosief heeft in de nacht van donderdag op vrijdag grote schade aangericht bij een broodjeszaak in Geldrop. De gevel van het pand aan de Heuvel werd rond één uur in de nacht met een harde knal weggeblazen. Er raakte niemand gewond. Het gaat om een broodjeszaak van de keten Bufkes, met vestigingen door heel Nederl",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027726/explosie-vernielt-gevel-van-broodjeszaak-geldrop-eigenaresse-emotioneel"
- },
- {
   "id": "a04610358e",
   "datum": "2026-09-18",
   "tijd": "03:01",
@@ -1357,27 +1336,6 @@
   ],
   "samenvatting": "De politie heeft gisteravond in het Gelderse dorp Opheusden meer dan tien mensen aangehouden tijdens een uit de hand gelopen protest tegen de mogelijke komst van een asielzoekerscentrum. In het gemeentehuis organiseerde het college \"een gespreksavond\" over de mogelijke komst van een asielzoekerscentrum. Volgens de spre",
   "link": "https://nos.nl/l/2631449"
- },
- {
-  "id": "4e96316f1e",
-  "datum": "2026-09-17",
-  "tijd": "22:21",
-  "nieuw": false,
-  "titel": "Tientallen pro-Palestijnse demonstranten opgepakt bij Israël-manifestatie op Dam",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "burgemeester",
-   "pand"
-  ],
-  "samenvatting": "Tientallen pro-Palestijnse demonstranten zijn op de Dam in Amsterdam aangehouden. Ze waren ondanks een verbod op een pro-Israël demonstratie afgekomen. Volgens persbureau ANP stonden zo'n dertig pro-Palestijnse demonstranten bij het Nationaal Monument. Ook stond een groep op de Damstraat. De politie heeft ze met een st",
-  "link": "https://nos.nl/l/2631438"
  },
  {
   "id": "833e215fa4",
