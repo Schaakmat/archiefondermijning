@@ -19,6 +19,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/524264/wethouderschap-in-plaats-van-pensioen:-'leuker-dan-gedacht'"
  },
  {
+  "id": "c941d66333",
+  "datum": "2026-09-19",
+  "tijd": "08:00",
+  "nieuw": true,
+  "titel": "Wat moet pensionado Floris (48) met een taser op zijn koelkast?",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Floris stuurt zijn ex een dreigend bericht over haar nieuwe vriend. Hij vernielt haar telefoon en in zijn keuken ligt een stroomstootwapen. Bij de rechter heeft de Gorkummer heel wat uit te leggen.",
+  "link": "https://www.rijnmond.nl/nieuws/2255871/wat-moet-pensionado-floris-48-met-een-taser-op-zijn-koelkast"
+ },
+ {
   "id": "379003703b",
   "datum": "2026-09-19",
   "tijd": "07:18",
@@ -252,7 +271,7 @@
   "id": "3f5b116940",
   "datum": "2026-09-18",
   "tijd": "18:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee restauranteigenaren aangehouden voor mensenhandel en mensensmokkel",
   "bron": "Headliner.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -272,7 +291,7 @@
   "id": "23676776fd",
   "datum": "2026-09-18",
   "tijd": "18:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aanhoudingen wegens mensenhandel en mensensmokkel bij Indiase restaurantketens met vestiging in Amsterdam",
   "bron": "Het Parool",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
