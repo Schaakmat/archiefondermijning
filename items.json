@@ -1,5 +1,25 @@
 [
  {
+  "id": "91c1e94cc1",
+  "datum": "2026-09-19",
+  "tijd": "15:27",
+  "nieuw": true,
+  "titel": "Lelystad - Politie ontruimt woningen en zoekt getuigen na brand in Punter 20",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "Bij een woning in de wijk Punter 20 in Lelystad is zaterdagnacht brand uitgebroken. Niemand raakte gewond, wel raakte de woning zwaar beschadigd. Omliggende panden werden uit voorzorg ontruimd. De oorzaak van de brand uitbrak is nog niet duidelijk. De brand werd rond half drie 's nachts gemeld, waarna de brandweer met ",
+  "link": "https://www.omroepflevoland.nl/nieuws/524390/politie-ontruimt-woningen-en-zoekt-getuigen-na-brand-in-punter-20"
+ },
+ {
   "id": "cfd697c48d",
   "datum": "2026-09-19",
   "tijd": "13:29",
@@ -74,6 +94,25 @@
   ],
   "samenvatting": "Aanhoudingen voor uitbuiting en mensensmokkel bij Indiase restaurantketens, waaronder in Utrecht AD.nl",
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUs0cUJHYURqV2YxT2ZhSmlPT21NMndONnRLQkN6WURwVFc2Z0hXWGgwckVSUzRUZVk5LVlrRjhDcWRuekNNWmxXOXhNNlhudzQ4S1JzaExsS25TZlRrR1V5OEloS1NnZldrUlhVQnppeG9kdjB2dm1PUVBIRzZGTEdkZU5HYlNaZ2lTdkZQSklqTlVaYzN4LUdybTZLRXozc2JtbkJlQ0pYa1FOOGpaUHJrU1FMbDR4RWMtQmtzdmRRYy1tSHBYa25rWQ?oc=5"
+ },
+ {
+  "id": "fde34d6651",
+  "datum": "2026-09-19",
+  "tijd": "11:48",
+  "nieuw": true,
+  "titel": "Aanhoudingen voor uitbuiting en mensensmokkel bij Indiase restaurantketens, waaronder in Utrecht",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Aanhoudingen voor uitbuiting en mensensmokkel bij Indiase restaurantketens, waaronder in Utrecht De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUWU3RnZreDZETUdsUS13YWZkWWFNMXJrYld4dW1kNEVGVHpoQmdwdzFXQldnQS1rSExseGd1ME1GeVFyNXRYeHZZRkpVZUI3WEgzWVpoZ3pUbDYteXlQbkNra0RKT05MdjVIZE0yYjRvY0ppeDdCWGwxV19QcklxdGZwNV9SbU5LU2llclJzUV94LVhYZGtpcDM4NzE4cnlzQm8yU2k0a193aTB4Ukd1SFhub0dfWWNmcXVFMk00NXhVd3ZDUDZkVmphQ1FaRktwX1RwTUwxYTY?oc=5"
  },
  {
   "id": "3da0513b09",
@@ -231,7 +270,7 @@
   "id": "379003703b",
   "datum": "2026-09-19",
   "tijd": "07:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aanhoudingen voor uitbuiting, mensensmokkel bij restaurantketens",
   "bron": "Omroep West",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -250,7 +289,7 @@
   "id": "0dc6cad3a8",
   "datum": "2026-09-19",
   "tijd": "06:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man uit Sittard opgepakt bij groot drugslab in Belgisch Limburg",
   "bron": "Mijnstreek Vandaag",
   "verzameld_via": "Regio — zuid & oost",
@@ -269,7 +308,7 @@
   "id": "7b6d5a1f04",
   "datum": "2026-09-19",
   "tijd": "05:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie-expert over fatale arrestatie Alfredo Goeloe: 'Veel mensen hebben al snel een mening'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1302,28 +1341,6 @@
   ],
   "samenvatting": "Illegaal sekswerk is ontdekt op drie plekken in Oudenbosch. Dat gebeurde tijdens een gezamenlijke controle van de gemeente Halderberge, de politie en andere hulpverlenende organisaties. Bij de controle werden meerdere sekswerkers aangetroffen. Op alle drie de locaties ging het om illegale prostitutie. Ook vier mensen d",
   "link": "https://www.omroepbrabant.nl/nieuws/6027822/gemeente-grijpt-in-na-vondst-illegaal-sekswerk-in-oudenbosch"
- },
- {
-  "id": "784020c27d",
-  "datum": "2026-09-18",
-  "tijd": "10:29",
-  "nieuw": false,
-  "titel": "100 dagen EU-migratiepact: 'Snelheid ten koste van zorgvuldigheid'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "leider",
-   "mensenhandel",
-   "organisatie"
-  ],
-  "samenvatting": "Het veelbesproken Europese migratiepact is vandaag precies honderd dagen van kracht. Met de nieuwe regels moeten asielprocedures sneller verlopen, zodat eerder duidelijk wordt of een asielzoeker mag blijven of niet. In de praktijk zien Vluchtelingenwerk Nederland en asieladvocaten inderdaad dat de procedure sneller gaa",
-  "link": "https://nos.nl/l/2631482"
  },
  {
   "id": "5211405a2e",
