@@ -1,12 +1,12 @@
 {
- "run": "19:38",
+ "run": "20:37",
  "datum": "2026-09-19",
  "nieuw": 12,
  "totaal": 3372,
  "verwijderd": 12,
  "geweigerd": {
-  "niet-nederlands": 1077,
-  "geen dossier": 496
+  "niet-nederlands": 1060,
+  "geen dossier": 491
  },
  "bronnen": [
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: TimeoutError",
+   "status": "fout 500",
    "ok": false
   },
   {
