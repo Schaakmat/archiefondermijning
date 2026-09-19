@@ -1,5 +1,58 @@
 [
  {
+  "id": "e01abc36e5",
+  "datum": "2026-09-19",
+  "tijd": "19:03",
+  "nieuw": true,
+  "titel": "Rutten - Dorpsbelang Rutten: 'Uitbreiding van het dorp begint in 2029'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "erf",
+   "grond",
+   "huurwoning",
+   "school",
+   "vastgoed",
+   "woning"
+  ],
+  "samenvatting": "Rutten kan vanaf begin 2029 uitbreiden met een nieuwe wijk. Dat meldt Dorpsbelang. Ten oosten van het bestaande dorp moeten enkele tientallen huizen verrijzen. Het is een mijlpaal, omdat Rutten al zo'n twintig jaar niet meer is uitgebreid. Het betreffend perceel ligt langs de Ruttenseweg. Het gaat om zo'n vijf hectare ",
+  "link": "https://www.omroepflevoland.nl/nieuws/523780/dorpsbelang-rutten:-'uitbreiding-van-het-dorp-begint-in-2029'"
+ },
+ {
+  "id": "bb3b91b2c6",
+  "datum": "2026-09-19",
+  "tijd": "18:57",
+  "nieuw": true,
+  "titel": "24 aanhoudingen bij extreemrechtse betoging in Den Haag",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "geweld",
+   "organisatie",
+   "vuurwerk",
+   "wapen"
+  ],
+  "samenvatting": "Bij de demonstratie van de extreemrechtse organisatie Wij Zijn Het Volk in Den Haag zijn 24 betogers opgepakt, meldt de politie. Ze werden aangehouden voor onder meer het niet voldoen aan het noodbevel en verboden wapenbezit. Een geplande mars door de stad werd aan het begin van de middag door de politie verboden \"vanw",
+  "link": "https://nos.nl/l/2631670"
+ },
+ {
   "id": "7faaef1d8b",
   "datum": "2026-09-19",
   "tijd": "16:27",
@@ -74,7 +127,7 @@
    "pand",
    "woning"
   ],
-  "samenvatting": "Bij een woning in de wijk Punter 20 in Lelystad is zaterdagnacht brand uitgebroken. Niemand raakte gewond, wel raakte de woning zwaar beschadigd. Omliggende panden werden uit voorzorg ontruimd. De oorzaak van de brand is nog niet duidelijk. De brand werd rond 02.20 uur gemeld, waarna de brandweer met drie tankautospuit",
+  "samenvatting": "Bij een woning in de wijk Punter 20 in Lelystad is brand uitgebroken in de nacht van vrijdag op zaterdag. Niemand raakte gewond, wel raakte de woning zwaar beschadigd. Omliggende panden werden uit voorzorg ontruimd. De oorzaak van de brand is nog niet duidelijk. De brand werd rond 02.20 uur gemeld, waarna de brandweer ",
   "link": "https://www.omroepflevoland.nl/nieuws/524390/woningen-ontruimd-en-getuigen-gezocht-na-brand-in-punter-20"
  },
  {
@@ -259,10 +312,33 @@
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUWU3RnZreDZETUdsUS13YWZkWWFNMXJrYld4dW1kNEVGVHpoQmdwdzFXQldnQS1rSExseGd1ME1GeVFyNXRYeHZZRkpVZUI3WEgzWVpoZ3pUbDYteXlQbkNra0RKT05MdjVIZE0yYjRvY0ppeDdCWGwxV19QcklxdGZwNV9SbU5LU2llclJzUV94LVhYZGtpcDM4NzE4cnlzQm8yU2k0a193aTB4Ukd1SFhub0dfWWNmcXVFMk00NXhVd3ZDUDZkVmphQ1FaRktwX1RwTUwxYTY?oc=5"
  },
  {
+  "id": "26336b664f",
+  "datum": "2026-09-19",
+  "tijd": "10:07",
+  "nieuw": true,
+  "titel": "Eerst 19 meldingen van overlast, dan een explosie en grote brand",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "pand",
+   "snackbar"
+  ],
+  "samenvatting": "Buurtbewoners zeggen al lange tijd overlast te ervaren van de bewoners van de leegstaande snackbar in Nijmegen-Oost, waar zaterdagavond een grote brand uitbrak. Volgens omwonenden renden na een harde explosie meerdere mensen het pand uit. De politie bevestigt dat bij de brand twee gewonden zijn gevallen. Een van hen is",
+  "link": "https://www.gld.nl/nieuws/8525129/eerst-19-meldingen-van-overlast-dan-een-explosie-en-grote-brand"
+ },
+ {
   "id": "3da0513b09",
   "datum": "2026-09-19",
   "tijd": "09:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bolle Jos is 'te heet', ook drugskartels twijfelen vaker aan hem",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -281,7 +357,7 @@
   "id": "27ee78f2f8",
   "datum": "2026-09-19",
   "tijd": "09:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeewolde - Wethouderschap in plaats van pensioen: 'leuker dan gedacht'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -300,7 +376,7 @@
   "id": "909697fe5c",
   "datum": "2026-09-19",
   "tijd": "08:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Het ontplofte drugslab in Schammenkamp is een van de vele tijdbommen",
   "bron": "nu.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1077,29 +1153,6 @@
   "link": "https://www.gld.nl/nieuws/8521421/israelcentrum-beklad-en-fontein-rood-gekleurd-boetes-geeist-voor-vernieling"
  },
  {
-  "id": "20f85e3856",
-  "datum": "2026-09-18",
-  "tijd": "14:54",
-  "nieuw": false,
-  "titel": "Restitutiecommissie: geef schilderij Van Goyen terug aan erfgenamen Goudstikker",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Goudhandel & edelmetalen",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "erf",
-   "goud",
-   "makelaar"
-  ],
-  "samenvatting": "De Nederlandse Staat moet een schilderij van Nederlandse landschapschilder Jan van Goyen teruggeven aan de erfgenamen. Dat heeft de Restitutiecommissie bepaald, die adviseert over nazi-roofkunst in Nederland. Het gaat om het schilderij Vissers aan de oevers van een plas, dat deel uitmaakt van de Rijkscollectie en zich ",
-  "link": "https://nos.nl/l/2631511"
- },
- {
   "id": "7340f284ec",
   "datum": "2026-09-18",
   "tijd": "14:48",
@@ -1420,6 +1473,26 @@
   ],
   "samenvatting": "Advocaat: meer dreiging tegen van corruptie verdachte ambtenaar Drimble",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnhYdHo1SGpWeDItWXI5MWxEaW9GdTJta2NtQkNqbHpubVNSUVJ5S3prUG5hbHNzbW1pY3FUOHVNMmo1cEp2RlQ2TkVZMkcyc3lnQkpRMXA0RGZNcDE4MnI2aU5OYWY3YVNISGhMZzh3clNmeVpLT3JoUnB0Vy0yNmpfQkpuLTIyTUNGWXpYWGx0bm5hUjhGRUhDbnVkTlBvaVRmcTk0TDluTHZMS05DUVFHVXRiQzhtUTVkVGx5bWRnZkdu?oc=5"
+ },
+ {
+  "id": "f868980376",
+  "datum": "2026-09-18",
+  "tijd": "11:04",
+  "nieuw": false,
+  "titel": "Advocaat: meer dreiging tegen van corruptie verdachte ambtenaar",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie"
+  ],
+  "samenvatting": "Advocaat: meer dreiging tegen van corruptie verdachte ambtenaar Drimble",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVEoxNDY5LWdGeWZuVlR3bnF3c0ZTYXdCdWNxamV4Z3VQYXJsYnpuTmVJRFBzMjJqaUZLV19tcmxyUnZiMmNDbEw0OGxoRGpxRTh6SmFJWkdMWGNMTGpjSlNYY25PZWN3TGZ0cUJ1YjNkRmlDTk92ZjMxZnphN3NIZ1VHQmplLVRWY1N6a1J4bXdsWTdESFVQTGozUm9od3kxbGR0X1UxeXUwdDN6VGV1VmpIMXV5U093em1jYnktSDR3bGdV?oc=5"
  },
  {
   "id": "eea0647dc8",

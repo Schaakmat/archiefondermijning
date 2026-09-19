@@ -1,12 +1,12 @@
 {
- "run": "16:40",
+ "run": "17:38",
  "datum": "2026-09-19",
  "nieuw": 16,
- "totaal": 3369,
- "verwijderd": 14,
+ "totaal": 3372,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1077,
-  "geen dossier": 493
+  "niet-nederlands": 1108,
+  "geen dossier": 500
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 175,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 48,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 61,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -284,8 +284,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 48,
-   "status": "bij",
+   "items": 49,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 169,
-   "status": "bij",
+   "items": 170,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 57,
-   "status": "3 nieuw",
+   "items": 58,
+   "status": "4 nieuw",
    "ok": true
   },
   {
