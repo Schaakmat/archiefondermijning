@@ -1,5 +1,43 @@
 [
  {
+  "id": "7faaef1d8b",
+  "datum": "2026-09-19",
+  "tijd": "16:27",
+  "nieuw": true,
+  "titel": "19/9 in Nieuwsuur: VS en Denemarken sluiten 'Groenland-deal' • Wint AfD opnieuw? • Nabestaanden prankcall-drama doen verhaal",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "VS en Denemarken sluiten 'Groenland-deal' De VS, Denemarken en Groenland zeggen een akkoord te hebben bereikt over de veiligheid van Groenland. Daarmee lijkt er na eerdere dreigementen van president Trump om het eiland in het Noordpoolgebied desnoods met geweld in te nemen een diplomatieke oplossing gevonden, waarbij G",
+  "link": "https://nos.nl/l/2631650"
+ },
+ {
+  "id": "667cfe6b04",
+  "datum": "2026-09-19",
+  "tijd": "15:52",
+  "nieuw": true,
+  "titel": "Jongen raakt gewond na val van rijdende trein bij Uitgeest",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "Een jongen is vannacht gewond geraakt nadat hij tussen Uitgeest en Krommenie van een rijdende trein was gevallen. Volgens de politie had hij zich aan de buitenkant van de trein vastgeklampt. Het incident gebeurde rond 01.20 uur. Vrienden van de jongen in de trein zagen hem na vertrek in Uitgeest aan een treindeur hange",
+  "link": "https://nos.nl/l/2631643"
+ },
+ {
   "id": "91c1e94cc1",
   "datum": "2026-09-19",
   "tijd": "15:27",
@@ -18,6 +56,26 @@
   ],
   "samenvatting": "Bij een woning in de wijk Punter 20 in Lelystad is zaterdagnacht brand uitgebroken. Niemand raakte gewond, wel raakte de woning zwaar beschadigd. Omliggende panden werden uit voorzorg ontruimd. De oorzaak van de brand uitbrak is nog niet duidelijk. De brand werd rond half drie 's nachts gemeld, waarna de brandweer met ",
   "link": "https://www.omroepflevoland.nl/nieuws/524390/politie-ontruimt-woningen-en-zoekt-getuigen-na-brand-in-punter-20"
+ },
+ {
+  "id": "072a3846e3",
+  "datum": "2026-09-19",
+  "tijd": "15:27",
+  "nieuw": true,
+  "titel": "Lelystad - Woningen ontruimd en getuigen gezocht na brand in Punter 20",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "Bij een woning in de wijk Punter 20 in Lelystad is zaterdagnacht brand uitgebroken. Niemand raakte gewond, wel raakte de woning zwaar beschadigd. Omliggende panden werden uit voorzorg ontruimd. De oorzaak van de brand is nog niet duidelijk. De brand werd rond 02.20 uur gemeld, waarna de brandweer met drie tankautospuit",
+  "link": "https://www.omroepflevoland.nl/nieuws/524390/woningen-ontruimd-en-getuigen-gezocht-na-brand-in-punter-20"
  },
  {
   "id": "cfd697c48d",
@@ -73,7 +131,7 @@
   "tags": [
    "pand"
   ],
-  "samenvatting": "De mobiele eenheid (ME) is begonnen met het verwijderen van demonstranten die de A12 bij Zevenaar ten zuidoosten van Arnhem blokkeren. De betogers zijn van Extinction Rebellion (XR). De activisten worden van de snelweg gehaald en in bussen afgevoerd, meldt Omroep Gelderland. De demonstranten waren verdeeld over drie gr",
+  "samenvatting": "De politie heeft op de A12 zo'n vijftig demonstranten weggehaald die bij Zevenaar ten zuidoosten van Arnhem de weg blokkeerden. Ook zijn naar schatting nog eens honderd betogers verwijderd in de omgeving van de oprit naar de A12. De activisten zijn van Extinction Rebellion (XR). De betogers zijn in bussen afgevoerd, de",
   "link": "https://nos.nl/l/2631621"
  },
  {
@@ -194,7 +252,7 @@
   "id": "fbbb59c687",
   "datum": "2026-09-19",
   "tijd": "08:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kamran was vanwege snotneus op kantoor toen naast hem een drugslab ontplofte",
   "bron": "NU",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -213,7 +271,7 @@
   "id": "afec477f21",
   "datum": "2026-09-19",
   "tijd": "08:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee mannen uit Weert aangehouden bij groot drugslab in België",
   "bron": "VML Nieuws",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -232,7 +290,7 @@
   "id": "ff0ec56451",
   "datum": "2026-09-19",
   "tijd": "08:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zorgfraude gaat niet alleen om geld, maar vooral over patiëntveiligheid",
   "bron": "Bnnvara",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -251,7 +309,7 @@
   "id": "c941d66333",
   "datum": "2026-09-19",
   "tijd": "08:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wat moet pensionado Floris (48) met een taser op zijn koelkast?",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1072,25 +1130,6 @@
   "link": "https://nos.nl/l/2631503"
  },
  {
-  "id": "4bb1f323f6",
-  "datum": "2026-09-18",
-  "tijd": "14:04",
-  "nieuw": false,
-  "titel": "18/9 in Nieuwsuur: Direct conflict met Rusland? • Russen bang voor mobilisatie • Frankrijk in de ban van De Gaulle",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "wapen"
-  ],
-  "samenvatting": "Direct conflict met Rusland? Er zijn zorgen over volgende escalaties en zelfs mogelijk een direct gewapend conflict met Rusland. Volgens de Poolse premier Donald Tusk bereidt Rusland directe 'hybride' aanvallen voor op landen die Oekraïne steunen. Ook de denktank Institute for the Study of War (ISW) komt met de waarsch",
-  "link": "https://nos.nl/l/2631502"
- },
- {
   "id": "0498867d2d",
   "datum": "2026-09-18",
   "tijd": "13:39",
@@ -1165,31 +1204,6 @@
   ],
   "samenvatting": "Het Justitieel Complex Vlissingen (JCV) opent pas in 2030 de deuren, maar de eerste vacatures staan al open.",
   "link": "https://www.omroepzeeland.nl/nieuws/18792925/de-eerste-paal-van-nieuwe-gevangenis-in-vlissingen-moet-de-grond-nog-in-maar-solliciteren-kan-nu-al"
- },
- {
-  "id": "b33bc74675",
-  "datum": "2026-09-18",
-  "tijd": "12:41",
-  "nieuw": false,
-  "titel": "Veertien arrestaties na azc-protest Opheusden, komen allemaal uit de buurt",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "burgemeester",
-   "geweld",
-   "grond",
-   "vuurwerk"
-  ],
-  "samenvatting": "De politie heeft gisteravond veertien aanhoudingen verricht tijdens een protest in het Gelderse Opheusden tegen de mogelijke komst van een asielzoekerscentrum. Twaalf van de veertien verdachten komen uit de gemeente Neder-Betuwe, waar Opheusden onder valt. Een verdachte is afkomstig uit de gemeente Buren en een uit gem",
-  "link": "https://nos.nl/l/2631493"
  },
  {
   "id": "5bbff6bd7a",
