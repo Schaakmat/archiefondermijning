@@ -1,12 +1,12 @@
 {
- "run": "08:41",
+ "run": "09:43",
  "datum": "2026-09-19",
- "nieuw": 14,
- "totaal": 3349,
+ "nieuw": 18,
+ "totaal": 3354,
  "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1079,
-  "geen dossier": 502
+  "niet-nederlands": 1101,
+  "geen dossier": 507
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 167,
-   "status": "bij",
+   "items": 169,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -374,8 +374,8 @@
    "url": "news.google.com/rss/search?q=%22weerbare%20ondernemers%22%20OR%20bedrijv",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 21,
-   "status": "bij",
+   "items": 22,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 120,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 97,
-   "status": "bij",
+   "items": 99,
+   "status": "2 nieuw",
    "ok": true
   },
   {
