@@ -1,12 +1,12 @@
 {
- "run": "06:39",
+ "run": "07:39",
  "datum": "2026-09-20",
- "nieuw": 11,
- "totaal": 3378,
- "verwijderd": 11,
+ "nieuw": 12,
+ "totaal": 3380,
+ "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1094,
-  "geen dossier": 490
+  "niet-nederlands": 1093,
+  "geen dossier": 492
  },
  "bronnen": [
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 199,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 120,
-   "status": "bij",
+   "items": 122,
+   "status": "2 nieuw",
    "ok": true
   },
   {

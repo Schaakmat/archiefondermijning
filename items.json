@@ -1,5 +1,24 @@
 [
  {
+  "id": "9eef567d77",
+  "datum": "2026-09-20",
+  "tijd": "07:12",
+  "nieuw": true,
+  "titel": "Drie aanhoudingen na beroving met mogelijk vuurwapen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Een man is in de nacht van zaterdag op zondag beroofd op de Kruiskade in het centrum van Rotterdam. Dat gebeurde rond 05:40 uur. Daarbij werd gedreigd met iets dat op een vuurwapen leek. Op de Abraham van Stolkweg in Rotterdam-West heeft de politie drie verdachten aangehouden voor de beroving.",
+  "link": "https://www.rijnmond.nl/nieuws/2256247/drie-aanhoudingen-na-beroving-met-mogelijk-vuurwapen"
+ },
+ {
   "id": "f1d2fe2faa",
   "datum": "2026-09-20",
   "tijd": "06:00",
@@ -19,6 +38,25 @@
   ],
   "samenvatting": "In ‘Follow the Money interviewt’ spreken journalisten Annette van Soest en Harm Ede Botje met sleutelfiguren uit verschillende FTM-dossiers. Van toezichthouders en wetenschappers tot politici en juristen. Of het nu gaat om fraude en witwassen, de toekomst van ons landbouwbeleid of onze rechtsstaat: Follow the Money int",
   "link": "https://www.ftm.nl/artikelen/ftm-interviewt-yvo-amar"
+ },
+ {
+  "id": "08dd1923a5",
+  "datum": "2026-09-20",
+  "tijd": "05:23",
+  "nieuw": true,
+  "titel": "Drie aanhoudingen na beroving met mogelijk vuurwapen | Auto gaat in vlammen op",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van zondag 20 september.",
+  "link": "https://www.rijnmond.nl/nieuws/2256233/drie-aanhoudingen-na-beroving-met-mogelijk-vuurwapen-auto-gaat-in-vlammen-op"
  },
  {
   "id": "c09639b527",
@@ -205,7 +243,7 @@
   "id": "91c1e94cc1",
   "datum": "2026-09-19",
   "tijd": "15:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Politie ontruimt woningen en zoekt getuigen na brand in Punter 20",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
