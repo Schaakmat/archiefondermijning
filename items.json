@@ -1,5 +1,45 @@
 [
  {
+  "id": "2dba5cfecc",
+  "datum": "2026-09-20",
+  "tijd": "11:08",
+  "nieuw": true,
+  "titel": "Man in Nijmegen met schotwond: twee Brabanders opgepakt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Voor de mogelijke betrokkenheid bij het neerschieten van een man uit Nijmegen zijn twee Brabanders opgepakt. Het gaat om een 25-jarige man uit de gemeente Land van Cuijk en een 30-jarige man uit Vught, laat de politie weten. De twee werden aangehouden nadat zaterdagnacht rond vier uur 's aan de Rijnstraat in Nijmegen e",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027922/man-in-nijmegen-met-schotwond-twee-brabanders-opgepakt"
+ },
+ {
+  "id": "bd94cb6a91",
+  "datum": "2026-09-20",
+  "tijd": "10:07",
+  "nieuw": true,
+  "titel": "'Iedereen in boerderij Jan G. moest dood, vermoedelijke schutters geïdentificeerd'",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "boerderij",
+   "doodgeschoten"
+  ],
+  "samenvatting": "De twee mannen die op 1 september bij de boerderij van Jan G. in Overasselt een 51-jarige beveiliger zouden hebben doodgeschoten, zijn geïdentificeerd. Dat meldt De Telegraaf op basis van bronnen rond het onderzoek. Volgens verklaringen van verdachten was het doel van de groep om iedereen in de boerderij van Jan G. te ",
+  "link": "https://www.gld.nl/nieuws/8526431/iedereen-in-boerderij-jan-g-moest-dood-vermoedelijke-schutters-geidentificeerd"
+ },
+ {
   "id": "3b1f236f98",
   "datum": "2026-09-20",
   "tijd": "08:52",
@@ -217,7 +257,7 @@
   "id": "2088ee576f",
   "datum": "2026-09-19",
   "tijd": "20:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Pak zorgfraude nú aan: verlaag direct de belastingdruk op de werkende middenklasse",
   "bron": "Petities.nl",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -236,7 +276,7 @@
   "id": "e01abc36e5",
   "datum": "2026-09-19",
   "tijd": "19:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rutten - Dorpsbelang Rutten: 'Uitbreiding van het dorp begint in 2029'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
