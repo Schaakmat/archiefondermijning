@@ -1,12 +1,12 @@
 {
- "run": "20:37",
+ "run": "21:37",
  "datum": "2026-09-20",
- "nieuw": 10,
- "totaal": 3398,
+ "nieuw": 12,
+ "totaal": 3401,
  "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 1064,
-  "geen dossier": 502
+  "niet-nederlands": 1081,
+  "geen dossier": 504
  },
  "bronnen": [
   {
@@ -303,7 +303,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 19,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 175,
-   "status": "bij",
+   "items": 177,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 68,
-   "status": "bij",
+   "items": 69,
+   "status": "1 nieuw",
    "ok": true
   },
   {
