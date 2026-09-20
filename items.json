@@ -42,6 +42,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6027922/twee-brabanders-opgepakt-voor-neerschieten-man-in-nijmegen"
  },
  {
+  "id": "454e7e0fa6",
+  "datum": "2026-09-20",
+  "tijd": "10:54",
+  "nieuw": true,
+  "titel": "Politie onderzoekt rol bestuurders bij blokkade A12 door XR",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "De politie verhoort zondag nog drie mensen vanwege de blokkade van Extinction Rebellion op de A12 bij Zevenaar.",
+  "link": "https://www.gld.nl/nieuws/8526441/politie-onderzoekt-rol-bestuurders-bij-blokkade-a12-door-xr"
+ },
+ {
   "id": "bd94cb6a91",
   "datum": "2026-09-20",
   "tijd": "10:07",
@@ -204,7 +223,7 @@
   "id": "08dd1923a5",
   "datum": "2026-09-20",
   "tijd": "05:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie aanhoudingen na beroving met mogelijk vuurwapen | Auto gaat in vlammen op",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -223,7 +242,7 @@
   "id": "6f6130cc88",
   "datum": "2026-09-20",
   "tijd": "05:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie aanhoudingen na beroving met mogelijk vuurwapen | Auto raakt van weg en klapt op boom",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -477,52 +496,6 @@
   ],
   "samenvatting": "Bij een woning in de wijk Punter 20 in Lelystad is brand uitgebroken in de nacht van vrijdag op zaterdag. Niemand raakte gewond, wel raakte de woning zwaar beschadigd. Omliggende panden werden uit voorzorg ontruimd. De oorzaak van de brand is nog niet duidelijk. De brand werd rond 02.20 uur gemeld, waarna de brandweer ",
   "link": "https://www.omroepflevoland.nl/nieuws/524390/woningen-ontruimd-en-getuigen-gezocht-na-brand-in-punter-20"
- },
- {
-  "id": "08dd0fc604",
-  "datum": "2026-09-19",
-  "tijd": "15:00",
-  "nieuw": false,
-  "titel": "Geen trouwauto, maar een trein: stel geeft elkaar ja-woord op station",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Corruptie & integriteit",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "ambtenaar",
-   "geweld",
-   "goud",
-   "organisatie"
-  ],
-  "samenvatting": "Geen Frans chateau of grote bloementuin vol rozen, maar perron 1 van station Den Bosch. Voor Jacqueline Meeuwsen en Harm Roestenberg is het dé plek in hun stad waar zij elkaar zaterdagochtend het ja-woord gaven. Op het perron waggelt Harm wat zenuwachtig heen en weer, wachtend tot de trein arriveert. “Dit was de spanne",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027892/geen-trouwauto-maar-een-trein-stel-geeft-elkaar-ja-woord-op-station"
- },
- {
-  "id": "37e20e3c3f",
-  "datum": "2026-09-19",
-  "tijd": "14:51",
-  "nieuw": false,
-  "titel": "Ouder echtpaar zwaargewond bij frontale botsing op N267 bij Andel",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder",
-   "beveiliging"
-  ],
-  "samenvatting": "Bij een frontale botsing tussen een auto en een bestelbusje zijn zaterdagmiddag drie mensen gewond geraakt in Andel. Het ongeluk gebeurde op de N267 tussen Wijk en Aalburg en Giessen. Een ouder echtpaar is zwaargewond geraakt bij het ongeluk. Een witte auto, waarin het ouder echtpaar reed, kwam vanuit Wijk en Aalburg. ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027895/ouder-echtpaar-zwaargewond-bij-frontale-botsing-op-n267-bij-andel"
  },
  {
   "id": "4ae409a046",
