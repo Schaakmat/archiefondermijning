@@ -1,5 +1,36 @@
 [
  {
+  "id": "e9ec4f6d58",
+  "datum": "2026-09-20",
+  "tijd": "20:22",
+  "nieuw": true,
+  "titel": "Almere - Afvaldumpingen en overlast domineren meldingen in Almere: 17.000 afvaldumpingen",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval",
+   "Ondernemers & weerbaarheid",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "afval",
+   "afvaldumping",
+   "container",
+   "grond",
+   "jongeren",
+   "ondernemers"
+  ],
+  "samenvatting": "Inwoners van Almere hebben vorig jaar massaal melding gemaakt van problemen in hun leefomgeving. Uit een analyse van ruim 65.000 meldingen bij de gemeente blijkt dat afvaldumpingen veruit de grootste bron van overlast zijn. In totaal gingen er meer dan 17.500 meldingen over illegaal gestort afval in de stad. Daarmee he",
+  "link": "https://www.omroepflevoland.nl/nieuws/522113/afvaldumpingen-en-overlast-domineren-meldingen-in-almere:-17.000-afvaldumpingen"
+ },
+ {
   "id": "051e6f673c",
   "datum": "2026-09-20",
   "tijd": "17:55",
@@ -183,7 +214,7 @@
   "id": "54a9d2152a",
   "datum": "2026-09-20",
   "tijd": "07:41",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Jubileumzege voor Jeffrey Herlings in Australië, sluit seizoen in stijl af",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -60840,6 +60871,26 @@
   "dossiers": [
    "Corruptie & integriteit"
   ]
+ },
+ {
+  "id": "adf1714f20",
+  "datum": "2021-04-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM wil dat van corruptie verdachte Bergense ambtenaar Van H. in de tweede helft van dit jaar voor de rechter komt",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie"
+  ],
+  "samenvatting": "OM wil dat van corruptie verdachte Bergense ambtenaar Van H. in de tweede helft van dit jaar voor de rechter komt Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb3NvWWdDRFo1SjMzaXIxY1VzZm1UcmRfaEZQQzRYbkJyNjNqN252WTJONDFTal8tZ1pGSmw3N1BvUmFOZDNpQjNORDNkelQyOUxHbkhLNG5Sd0k5M0YxUkYwX052TWd2M2liVHh1NlltRFdsd0tkRk5WS3JWbUZXTDhJb2Y5WnEySzhvTDFBRGJsR0hoc05fbWNRVzRfS0hmSFRSVWhRSUh6b3JBd2d6QzhDR3ZwSE02aXZLYmMxRDBRaVptdDdwZ0pldnlrYmVUSDFBMWV6eWtTem1ieGNaQWFRZXZhMmtvWXhoblE4eW42MjFPQWJjTXNIMm0wWkhpTHpyZjNRWGM?oc=5"
  },
  {
   "id": "4e8d3257e8",
