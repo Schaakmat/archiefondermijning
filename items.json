@@ -1,5 +1,66 @@
 [
  {
+  "id": "051e6f673c",
+  "datum": "2026-09-20",
+  "tijd": "17:55",
+  "nieuw": true,
+  "titel": "20/9 in Nieuwsuur: Duitse deelstaatverkiezingen • Studeercrisis? • VN kiest nieuwe leider",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "leider",
+   "school"
+  ],
+  "samenvatting": "Duitse deelstaatverkiezingen In de Duitse deelstaten Berlijn en Mecklenburg-Voor-Pommeren wordt vandaag gestemd voor de deelstaatverkiezingen. De stembusgang kan grote gevolgen hebben voor de landelijke politiek. Na de monsterzege van de radicaal-rechtse AfD in Saksen-Anhalt staat bondskanselier Merz onder druk, mede o",
+  "link": "https://nos.nl/l/2631800"
+ },
+ {
+  "id": "e4dffd4d15",
+  "datum": "2026-09-20",
+  "tijd": "16:31",
+  "nieuw": true,
+  "titel": "Bij deze motorclub is iedereen met een Harley-Davidson welkom: ‘We zijn gewoon een clubje oude lullen’",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "motorclub"
+  ],
+  "samenvatting": "Motorclubs worden vaak gezien als een gesloten mannenbolwerk. Bij Rotterdam Chapter is iedereen welkom, zolang je maar een Harley-Davidson hebt. “We willen gewoon de hele dag over motoren kletsen.”",
+  "link": "https://www.rijnmond.nl/nieuws/2255559/bij-deze-motorclub-is-iedereen-met-een-harley-davidson-welkom-we-zijn-gewoon-een-clubje-oude-lullen"
+ },
+ {
+  "id": "e847bd614b",
+  "datum": "2026-09-20",
+  "tijd": "16:01",
+  "nieuw": true,
+  "titel": "Fietser rommelt bij afvalcontainers Zwolse flats en even later ontstaat brand",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "container"
+  ],
+  "samenvatting": "Wie is verantwoordelijk voor de branden aan de Palestrinalaan in Zwolle? In de nacht van zaterdag 1 op zondag 2 augustus woedden meerdere brandjes in de straat. De politie heeft beelden vrijgegeven van een fietser die in die bewuste nacht bij meerdere afvalcontainers rommelt.",
+  "link": "https://www.oost.nl/nieuws/3694405/fietser-rommelt-bij-afvalcontainers-zwolse-flats-en-even-later-ontstaat-brand"
+ },
+ {
   "id": "59ca5ae616",
   "datum": "2026-09-20",
   "tijd": "15:06",
@@ -202,7 +263,7 @@
   "id": "f1d2fe2faa",
   "datum": "2026-09-20",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Podcast | ‘Grote bedrijven die sancties tegen Rusland overtreden, blijven buiten schot’",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -223,7 +284,7 @@
   "id": "688162d4ac",
   "datum": "2026-09-20",
   "tijd": "05:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grote brand verwoest bowlingcentrum in Leeuwarden, brand mogelijk aangestoken",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -242,7 +303,7 @@
   "id": "08dd1923a5",
   "datum": "2026-09-20",
   "tijd": "05:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie aanhoudingen na beroving met mogelijk vuurwapen | Auto gaat in vlammen op",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
