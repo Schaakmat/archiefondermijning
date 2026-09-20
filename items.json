@@ -11,19 +11,13 @@
   "regio": "Landelijk",
   "dossiers": [
    "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Drugsproductie & labs",
    "Geweld, liquidaties & bedreiging",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
    "boerderij",
-   "cocaïne",
-   "erf",
-   "leider",
-   "loods",
-   "moord"
+   "moord",
+   "wapen"
   ],
   "samenvatting": "De politie heeft de identiteit achterhaald van de twee verdachten van de moord op de beveiliger van drugscrimineel Jan G. uit Overasselt. Dat schrijft De Telegraaf op basis van bronnen rond de politie. De twee waren onderdeel van een groep van ruim dertig gemaskerde en gewapende mannen. Zij waren begin september naar d",
   "link": "https://nos.nl/l/2631760"
@@ -188,6 +182,25 @@
   "link": "https://www.ftm.nl/artikelen/ftm-interviewt-yvo-amar"
  },
  {
+  "id": "688162d4ac",
+  "datum": "2026-09-20",
+  "tijd": "05:36",
+  "nieuw": true,
+  "titel": "Grote brand verwoest bowlingcentrum in Leeuwarden, brand mogelijk aangestoken",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "asbest"
+  ],
+  "samenvatting": "In Leeuwarden is een bowlingcentrum compleet verwoest door een brand. Er vielen geen gewonden. De brandweer heeft het gebouw gecontroleerd laten uitbranden. Het is niet bekend hoe de brand in het bowlingcentrum aan het Kalverdijkje is ontstaan. De politie doet onderzoek. De brand brak rond 03.45 uur uit. Er waren op da",
+  "link": "https://nos.nl/l/2631714"
+ },
+ {
   "id": "08dd1923a5",
   "datum": "2026-09-20",
   "tijd": "05:23",
@@ -210,7 +223,7 @@
   "id": "6f6130cc88",
   "datum": "2026-09-20",
   "tijd": "05:23",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Drie aanhoudingen na beroving met mogelijk vuurwapen | Auto raakt van weg en klapt op boom",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -300,6 +313,33 @@
   ],
   "samenvatting": "Pak zorgfraude nú aan: verlaag direct de belastingdruk op de werkende middenklasse Petities.nl",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWnBhZ1lkVXdPRk1fdG4yaG9ZbmRfZmlaSjZwSTJMWVpta3owU1lNWXc1MDM3WUZVUnV5X3RFaVBjSE5oZkZJeEl1eVNHX09DNjZWU3MySGpDekRIa1VfUE8xUUhmZ3JBcTBZaTNkS0VOTm5ReHg2Ry1WakJBajFOSTJYcHV2Ml8yRTNhdnp4dWYxODRhaTJZTjhSR0dtWEhwTG80aFF2aHpnZVA0Q2E5RjFsdWJ6TW85Ym9jblZ3?oc=5"
+ },
+ {
+  "id": "e01abc36e5",
+  "datum": "2026-09-19",
+  "tijd": "19:03",
+  "nieuw": false,
+  "titel": "Rutten - Dorpsbelang Rutten: 'Uitbreiding van het dorp begint in 2029'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "erf",
+   "grond",
+   "huurwoning",
+   "school",
+   "vastgoed",
+   "woning"
+  ],
+  "samenvatting": "Rutten kan vanaf begin 2029 uitbreiden met een nieuwe wijk. Dat meldt Dorpsbelang. Ten oosten van het bestaande dorp moeten enkele tientallen huizen verrijzen. Het is een mijlpaal, omdat Rutten al zo'n twintig jaar niet meer is uitgebreid. Het betreffende perceel ligt langs de Ruttenseweg. Het gaat om zo'n vijf hectare",
+  "link": "https://www.omroepflevoland.nl/nieuws/523780/dorpsbelang-rutten:-'uitbreiding-van-het-dorp-begint-in-2029'"
  },
  {
   "id": "bb3b91b2c6",
@@ -417,6 +457,26 @@
   ],
   "samenvatting": "Bij een woning in de wijk Punter 20 in Lelystad is zaterdagnacht brand uitgebroken. Niemand raakte gewond, wel raakte de woning zwaar beschadigd. Omliggende panden werden uit voorzorg ontruimd. De oorzaak van de brand uitbrak is nog niet duidelijk. De brand werd rond half drie 's nachts gemeld, waarna de brandweer met ",
   "link": "https://www.omroepflevoland.nl/nieuws/524390/politie-ontruimt-woningen-en-zoekt-getuigen-na-brand-in-punter-20"
+ },
+ {
+  "id": "072a3846e3",
+  "datum": "2026-09-19",
+  "tijd": "15:27",
+  "nieuw": false,
+  "titel": "Lelystad - Woningen ontruimd en getuigen gezocht na brand in Punter 20",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "Bij een woning in de wijk Punter 20 in Lelystad is brand uitgebroken in de nacht van vrijdag op zaterdag. Niemand raakte gewond, wel raakte de woning zwaar beschadigd. Omliggende panden werden uit voorzorg ontruimd. De oorzaak van de brand is nog niet duidelijk. De brand werd rond 02.20 uur gemeld, waarna de brandweer ",
+  "link": "https://www.omroepflevoland.nl/nieuws/524390/woningen-ontruimd-en-getuigen-gezocht-na-brand-in-punter-20"
  },
  {
   "id": "08dd0fc604",
