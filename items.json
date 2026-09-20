@@ -1,5 +1,24 @@
 [
  {
+  "id": "3b1f236f98",
+  "datum": "2026-09-20",
+  "tijd": "08:52",
+  "nieuw": true,
+  "titel": "Auto raakt van weg en klapt op boom in Arkel",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Op de Achterdijk in Arkel is een auto zaterdagavond van de weg geraakt en tegen een boom gereden. Rond 22:30 uur gebeurde het ongeluk. Niemand is gewond geraakt. Volgens ZHZActueel zei de bestuurder tegen de politie dat hij alcohol had gedronken.",
+  "link": "https://www.rijnmond.nl/nieuws/2256255/auto-raakt-van-weg-en-klapt-op-boom-in-arkel"
+ },
+ {
   "id": "ae286f709c",
   "datum": "2026-09-20",
   "tijd": "08:24",
@@ -60,11 +79,11 @@
   "link": "https://www.rijnmond.nl/nieuws/2256247/drie-aanhoudingen-na-beroving-met-mogelijk-vuurwapen"
  },
  {
-  "id": "7491f72029",
+  "id": "cc4287e2ac",
   "datum": "2026-09-20",
   "tijd": "07:06",
   "nieuw": true,
-  "titel": "Kenteken eraf en lachgastanks verstoppen: vaker vreemde acties na een crash",
+  "titel": "Ook deze bestuurders dachten meteen aan iets anders na hun aanrijding",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -76,7 +95,7 @@
    "bestuurder"
   ],
   "samenvatting": "Een flinke klap, een hoop brokstukken en vervolgens… een opmerkelijke actie. De bestuurder die zaterdagnacht in Goirle tegen een lantaarnpaal knalde, nam voordat hij vluchtte nog snel zijn kenteken mee. Hij is zeker niet de eerste automobilist die na een crash iets opvallends doet: deze bestuurders maakten het na hun b",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027919/kenteken-eraf-en-lachgastanks-verstoppen-vaker-vreemde-acties-na-een-crash"
+  "link": "https://www.omroepbrabant.nl/nieuws/6027919/ook-deze-bestuurders-dachten-meteen-aan-iets-anders-na-hun-aanrijding"
  },
  {
   "id": "f1d2fe2faa",
@@ -237,14 +256,14 @@
    "vastgoed",
    "woning"
   ],
-  "samenvatting": "Rutten kan vanaf begin 2029 uitbreiden met een nieuwe wijk. Dat meldt Dorpsbelang. Ten oosten van het bestaande dorp moeten enkele tientallen huizen verrijzen. Het is een mijlpaal, omdat Rutten al zo'n twintig jaar niet meer is uitgebreid. Het betreffend perceel ligt langs de Ruttenseweg. Het gaat om zo'n vijf hectare ",
+  "samenvatting": "Rutten kan vanaf begin 2029 uitbreiden met een nieuwe wijk. Dat meldt Dorpsbelang. Ten oosten van het bestaande dorp moeten enkele tientallen huizen verrijzen. Het is een mijlpaal, omdat Rutten al zo'n twintig jaar niet meer is uitgebreid. Het betreffende perceel ligt langs de Ruttenseweg. Het gaat om zo'n vijf hectare",
   "link": "https://www.omroepflevoland.nl/nieuws/523780/dorpsbelang-rutten:-'uitbreiding-van-het-dorp-begint-in-2029'"
  },
  {
   "id": "bb3b91b2c6",
   "datum": "2026-09-19",
   "tijd": "18:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "24 aanhoudingen bij extreemrechtse betoging in Den Haag",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -715,6 +734,27 @@
   ],
   "samenvatting": "24-jarige man uit Hoorn aangehouden na brand in loods aan Noordereinde in Lambertshaag, politie onderzoekt aanwezigheid drugslab rodi.nl",
   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORE9CM1Z0R0htSWswdWtxWDQyLTdDX3N3ZHhjWVlhdEMyNl9rdGFVdE9DZVJ0OXk2cU45MlVHdHN4RXVsc0tMTjc4TldSX1JsSGZfcnpfaExVcE1ZT0s2SWJ2WlpfS2EycUFjeUUwdzc0eGlSSTVwZnRDeERfT1lQY2JKTDc5UHBlRmhTYTdFTFZ4MTdqLVZSRzM4N3ZVT1FCc3B0UHNOVFZSVEtHT1NRaWVub0QtOVdZTFhaZENFa3RqaDY1UVI1S3hrenRJN1dEZENDNHhjY3psaTRpRk5TX1JUOVRoczBWa0dSamNkNHRFakpyRGFj?oc=5"
+ },
+ {
+  "id": "a1312196d8",
+  "datum": "2026-09-19",
+  "tijd": "08:38",
+  "nieuw": false,
+  "titel": "24-jarige man uit Hoorn aangehouden na brand in loods aan Noordereinde in Lambertshaag, politie onderzoekt aanwezigheid drugslab",
+  "bron": "rodi.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "loods"
+  ],
+  "samenvatting": "24-jarige man uit Hoorn aangehouden na brand in loods aan Noordereinde in Lambertshaag, politie onderzoekt aanwezigheid drugslab rodi.nl",
+  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc01lV0VxTzZoNkdxcXF4Y0NMcnhIR0pPVzU2OXliaUlKNUpZQk9uSHI3WndBY0hHbUxnNnhMZGtXNXY3UE44TjY4V3d3NkIxVkZsWnZQU1FEMDNYN3JMUlNlNVBRYkRXYmtZQXdqNWlVUHJCdzRMblE0WlR6ekFmam5LREs0azE3ZVcybHMtbGVTNzhqV1ZidXV3VjNDbjFfRE0xbWJOZ2xxVHNXVzc3Y1RXSXFaWFA0Sng4VjFWTHpocGxkVW94OUpScWh1bkMtR1VHMWpDckpJeDhDbXZDT3NEUlk4VEhsaFRCQ1FGZHVlQQ?oc=5"
  },
  {
   "id": "ff0ec56451",
