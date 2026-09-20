@@ -1,5 +1,24 @@
 [
  {
+  "id": "9632c14e20",
+  "datum": "2026-09-20",
+  "tijd": "23:08",
+  "nieuw": true,
+  "titel": "Dode bij schietpartij in woonwijk in Roermond",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "beveiliging"
+  ],
+  "samenvatting": "Bij een schietpartij in een woonwijk in Roermond is gisteravond een man om het leven gekomen. De schietpartij was iets voor 22.00 uur op de Terbaansweg. Meerdere buurtbewoners hadden 112 gebeld omdat ze een aantal schoten hadden gehoord. Er werd onder meer een traumahelikopter opgeroepen voor het slachtoffer, en hij we",
+  "link": "https://nos.nl/l/2631850"
+ },
+ {
   "id": "e9ec4f6d58",
   "datum": "2026-09-20",
   "tijd": "20:22",
@@ -186,7 +205,7 @@
   "id": "3b1f236f98",
   "datum": "2026-09-20",
   "tijd": "08:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto raakt van weg en klapt op boom in Arkel",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -205,7 +224,7 @@
   "id": "ae286f709c",
   "datum": "2026-09-20",
   "tijd": "08:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Zeeuwse tussenpersoon Kasteelmoord vrijgelaten'",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -225,7 +244,7 @@
   "id": "54a9d2152a",
   "datum": "2026-09-20",
   "tijd": "07:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jubileumzege voor Jeffrey Herlings in Australië, sluit seizoen in stijl af",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
