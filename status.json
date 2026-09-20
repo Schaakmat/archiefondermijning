@@ -1,12 +1,12 @@
 {
- "run": "00:44",
+ "run": "01:34",
  "datum": "2026-09-20",
- "nieuw": 11,
- "totaal": 3373,
+ "nieuw": 12,
+ "totaal": 3374,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1086,
-  "geen dossier": 487
+  "niet-nederlands": 1077,
+  "geen dossier": 494
  },
  "bronnen": [
   {
@@ -86,8 +86,8 @@
    "url": "news.google.com/rss/search?q=goudhandel%20witwassen%20OR%20goudopkoper%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 8,
-   "status": "bij",
+   "items": 9,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
