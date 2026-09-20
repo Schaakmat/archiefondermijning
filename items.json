@@ -60,6 +60,25 @@
   "link": "https://www.rijnmond.nl/nieuws/2256247/drie-aanhoudingen-na-beroving-met-mogelijk-vuurwapen"
  },
  {
+  "id": "7491f72029",
+  "datum": "2026-09-20",
+  "tijd": "07:06",
+  "nieuw": true,
+  "titel": "Kenteken eraf en lachgastanks verstoppen: vaker vreemde acties na een crash",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een flinke klap, een hoop brokstukken en vervolgens… een opmerkelijke actie. De bestuurder die zaterdagnacht in Goirle tegen een lantaarnpaal knalde, nam voordat hij vluchtte nog snel zijn kenteken mee. Hij is zeker niet de eerste automobilist die na een crash iets opvallends doet: deze bestuurders maakten het na hun b",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027919/kenteken-eraf-en-lachgastanks-verstoppen-vaker-vreemde-acties-na-een-crash"
+ },
+ {
   "id": "f1d2fe2faa",
   "datum": "2026-09-20",
   "tijd": "06:00",
@@ -98,6 +117,44 @@
   ],
   "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van zondag 20 september.",
   "link": "https://www.rijnmond.nl/nieuws/2256233/drie-aanhoudingen-na-beroving-met-mogelijk-vuurwapen-auto-gaat-in-vlammen-op"
+ },
+ {
+  "id": "6f6130cc88",
+  "datum": "2026-09-20",
+  "tijd": "05:23",
+  "nieuw": true,
+  "titel": "Drie aanhoudingen na beroving met mogelijk vuurwapen | Auto raakt van weg en klapt op boom",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van zondag 20 september.",
+  "link": "https://www.rijnmond.nl/nieuws/2256233/drie-aanhoudingen-na-beroving-met-mogelijk-vuurwapen-auto-raakt-van-weg-en-klapt-op-boom"
+ },
+ {
+  "id": "e320158256",
+  "datum": "2026-09-20",
+  "tijd": "04:39",
+  "nieuw": true,
+  "titel": "Man raakt gewond bij schietpartij: twee verdachten en politie zoekt naar het wapen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Een man is in de nacht van zaterdag op zondag neergeschoten aan de Rijnstraat in Nijmegen. De politie heeft binnen een uur twee verdachten aangehouden.",
+  "link": "https://www.gld.nl/nieuws/8526145/man-raakt-gewond-bij-schietpartij-twee-verdachten-en-politie-zoekt-naar-het-wapen"
  },
  {
   "id": "c09639b527",
@@ -208,7 +265,7 @@
   "id": "959e6f93ed",
   "datum": "2026-09-19",
   "tijd": "18:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Pak zorgfraude nú aan: verlaag direct de belastingdruk op de werkende middenklasse",
   "bron": "petities.nl",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -227,7 +284,7 @@
   "id": "065406920f",
   "datum": "2026-09-19",
   "tijd": "18:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Venezolaanse vrouw en partner aangehouden in onderzoek naar mensensmokkel",
   "bron": "Suriname Herald",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -246,7 +303,7 @@
   "id": "7faaef1d8b",
   "datum": "2026-09-19",
   "tijd": "16:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "19/9 in Nieuwsuur: VS en Denemarken sluiten 'Groenland-deal' • Wint AfD opnieuw? • Nabestaanden prankcall-drama doen verhaal",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -265,7 +322,7 @@
   "id": "667cfe6b04",
   "datum": "2026-09-19",
   "tijd": "15:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jongen raakt gewond na val van rijdende trein bij Uitgeest",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -1140,33 +1197,6 @@
   ],
   "samenvatting": "Aanhoudingen voor uitbuiting, mensensmokkel bij restaurantketens Welingelichte Kringen",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmdLMlhITVd4U3hRRUZ0dTJhb1dOU3QzcTBfVzN3UzhleXhsWklFVThYMk0zeFdlWjdyX3A0ak1NQWZyV0lVUTY4RjdwcElGNE54TGFxRGZJU3djU2pBMDVWT1E4M2dJSlZCdlRHWU52VWhhck1nRmJTYzJYNUZjQTNwX0t0WXV4bEg4NWRWWTM0ZHEyenQydFFvZ2lUeFB2SnZMQW1HcVpsNUJQOWtqUw?oc=5"
- },
- {
-  "id": "36a2cf4575",
-  "datum": "2026-09-18",
-  "tijd": "16:53",
-  "nieuw": false,
-  "titel": "Almere - Zero-emissiezone blijft in Almere Stad, zones in Haven en Buiten op losse schroeven",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Cocaine, haven & logistiek",
-   "Ondernemers & weerbaarheid",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "burgemeester",
-   "gemeenteraad",
-   "haven",
-   "ondernemers",
-   "winkeliers",
-   "woning"
-  ],
-  "samenvatting": "De zero-emissiezone in Almere Stad blijft voorlopig staan. Het college van burgemeester en wethouders werkt aan een nieuw verkeersbesluit om de zones in Almere Haven en Almere Buiten niet in te voeren. Ondernemers uit Buiten zijn blij met het besluit, al zijn de ondernemers nog niet helemaal uit de wind. \"Almere Buiten",
-  "link": "https://www.omroepflevoland.nl/nieuws/524261/zero-emissiezone-blijft-in-almere-stad-zones-in-haven-en-buiten-op-losse-schroeven"
  },
  {
   "id": "37bf4ef1a8",
