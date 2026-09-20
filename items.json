@@ -10,12 +10,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "leider",
-   "school"
+   "leider"
   ],
   "samenvatting": "Duitse deelstaatverkiezingen In de Duitse deelstaten Berlijn en Mecklenburg-Voor-Pommeren wordt vandaag gestemd voor de deelstaatverkiezingen. De stembusgang kan grote gevolgen hebben voor de landelijke politiek. Na de monsterzege van de radicaal-rechtse AfD in Saksen-Anhalt staat bondskanselier Merz onder druk, mede o",
   "link": "https://nos.nl/l/2631800"
@@ -103,25 +101,6 @@
   "link": "https://nos.nl/l/2631760"
  },
  {
-  "id": "39a9959dc7",
-  "datum": "2026-09-20",
-  "tijd": "11:08",
-  "nieuw": true,
-  "titel": "Twee Brabanders opgepakt voor neerschieten man in Nijmegen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "wapen"
-  ],
-  "samenvatting": "Voor de mogelijke betrokkenheid bij het neerschieten van een man uit Nijmegen zijn twee Brabanders opgepakt. Het gaat om een 25-jarige man uit de gemeente Land van Cuijk en een 30-jarige man uit Vught, laat de politie weten. De twee werden aangehouden nadat zaterdagnacht rond vier uur 's aan de Rijnstraat in Nijmegen e",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027922/twee-brabanders-opgepakt-voor-neerschieten-man-in-nijmegen"
- },
- {
   "id": "454e7e0fa6",
   "datum": "2026-09-20",
   "tijd": "10:54",
@@ -204,7 +183,7 @@
   "id": "54a9d2152a",
   "datum": "2026-09-20",
   "tijd": "07:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jubileumzege voor Jeffrey Herlings in Australië, sluit seizoen in stijl af",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -225,7 +204,7 @@
   "id": "9eef567d77",
   "datum": "2026-09-20",
   "tijd": "07:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie aanhoudingen na beroving met mogelijk vuurwapen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -244,7 +223,7 @@
   "id": "cc4287e2ac",
   "datum": "2026-09-20",
   "tijd": "07:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ook deze bestuurders dachten meteen aan iets anders na hun aanrijding",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
