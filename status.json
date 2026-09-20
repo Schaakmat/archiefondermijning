@@ -1,12 +1,12 @@
 {
- "run": "05:35",
+ "run": "06:39",
  "datum": "2026-09-20",
  "nieuw": 11,
  "totaal": 3378,
- "verwijderd": 12,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1095,
-  "geen dossier": 484
+  "niet-nederlands": 1094,
+  "geen dossier": 490
  },
  "bronnen": [
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 198,
-   "status": "bij",
+   "items": 199,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 124,
-   "status": "4 nieuw",
+   "items": 123,
+   "status": "3 nieuw",
    "ok": true
   },
   {
