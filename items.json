@@ -225,7 +225,7 @@
   "id": "072a3846e3",
   "datum": "2026-09-19",
   "tijd": "15:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Woningen ontruimd en getuigen gezocht na brand in Punter 20",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -245,7 +245,7 @@
   "id": "08dd0fc604",
   "datum": "2026-09-19",
   "tijd": "15:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Geen trouwauto, maar een trein: stel geeft elkaar ja-woord op station",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -270,7 +270,7 @@
   "id": "37e20e3c3f",
   "datum": "2026-09-19",
   "tijd": "14:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ouder echtpaar zwaargewond bij frontale botsing op N267 bij Andel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1129,33 +1129,6 @@
   ],
   "samenvatting": "De Merwedebrug gaat drie dagen helemaal dicht. Rijkswaterstaat vervangt het asfalt door een lichtere en dunnere laag, nodig voor de bouw van de nieuwe brug ernaast. Verkeer moet omrijden en houdt rekening met tot een uur extra reistijd. De afsluiting duurt van donderdagavond 24 september 21.00 uur tot maandagnacht 28 s",
   "link": "https://www.omroepbrabant.nl/nieuws/6027851/asfalt-op-merwedebrug-wordt-vervangen-brug-drie-dagen-dicht"
- },
- {
-  "id": "fccdc68584",
-  "datum": "2026-09-18",
-  "tijd": "15:30",
-  "nieuw": false,
-  "titel": "Honderd handtekeningen konden deze woontoren niet stoppen: ‘Een gedrocht’",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Autobranche & garages",
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "garage",
-   "gemeenteraad",
-   "haven",
-   "pand",
-   "stal"
-  ],
-  "samenvatting": "De ene na de andere woontoren verschijnt in Eindhoven, en niet iedereen is daar blij mee. Bewoners van de Oude Haven, vlak bij het centrum, maken zich grote zorgen over nieuwbouwproject Blake. Een meerderheid van de gemeenteraad stemde deze week in met de plannen: een gebouw met woonlagen van zes tot twaalf hoog. \"Het ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027833/honderd-handtekeningen-konden-deze-woontoren-niet-stoppen-een-gedrocht"
  },
  {
   "id": "b6d6687acb",
