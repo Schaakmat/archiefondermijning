@@ -1,10 +1,39 @@
 [
  {
-  "id": "2dba5cfecc",
+  "id": "78f612e4c5",
+  "datum": "2026-09-20",
+  "tijd": "14:36",
+  "nieuw": true,
+  "titel": "Identiteit schutters Overasselt achterhaald, 'iedereen op de boerderij moest dood'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Drugsproductie & labs",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "boerderij",
+   "cocaïne",
+   "erf",
+   "leider",
+   "loods",
+   "moord"
+  ],
+  "samenvatting": "De politie heeft de identiteit achterhaald van de twee verdachten van de moord op de beveiliger van drugscrimineel Jan G. uit Overasselt. Dat schrijft De Telegraaf op basis van bronnen rond de politie. De twee waren onderdeel van een groep van ruim dertig gemaskerde en gewapende mannen. Zij waren begin september naar d",
+  "link": "https://nos.nl/l/2631760"
+ },
+ {
+  "id": "39a9959dc7",
   "datum": "2026-09-20",
   "tijd": "11:08",
   "nieuw": true,
-  "titel": "Man in Nijmegen met schotwond: twee Brabanders opgepakt",
+  "titel": "Twee Brabanders opgepakt voor neerschieten man in Nijmegen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -16,7 +45,7 @@
    "wapen"
   ],
   "samenvatting": "Voor de mogelijke betrokkenheid bij het neerschieten van een man uit Nijmegen zijn twee Brabanders opgepakt. Het gaat om een 25-jarige man uit de gemeente Land van Cuijk en een 30-jarige man uit Vught, laat de politie weten. De twee werden aangehouden nadat zaterdagnacht rond vier uur 's aan de Rijnstraat in Nijmegen e",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027922/man-in-nijmegen-met-schotwond-twee-brabanders-opgepakt"
+  "link": "https://www.omroepbrabant.nl/nieuws/6027922/twee-brabanders-opgepakt-voor-neerschieten-man-in-nijmegen"
  },
  {
   "id": "bd94cb6a91",
@@ -181,7 +210,7 @@
   "id": "6f6130cc88",
   "datum": "2026-09-20",
   "tijd": "05:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie aanhoudingen na beroving met mogelijk vuurwapen | Auto raakt van weg en klapt op boom",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -200,7 +229,7 @@
   "id": "e320158256",
   "datum": "2026-09-20",
   "tijd": "04:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man raakt gewond bij schietpartij: twee verdachten en politie zoekt naar het wapen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -219,7 +248,7 @@
   "id": "c09639b527",
   "datum": "2026-09-20",
   "tijd": "04:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gewonde na mogelijk schietincident • bestuurder aangehouden",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -238,7 +267,7 @@
   "id": "07ce324b49",
   "datum": "2026-09-20",
   "tijd": "03:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Automobilist gaat ervandoor na crash en haalt kentekenplaten auto snel weg",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -271,33 +300,6 @@
   ],
   "samenvatting": "Pak zorgfraude nú aan: verlaag direct de belastingdruk op de werkende middenklasse Petities.nl",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWnBhZ1lkVXdPRk1fdG4yaG9ZbmRfZmlaSjZwSTJMWVpta3owU1lNWXc1MDM3WUZVUnV5X3RFaVBjSE5oZkZJeEl1eVNHX09DNjZWU3MySGpDekRIa1VfUE8xUUhmZ3JBcTBZaTNkS0VOTm5ReHg2Ry1WakJBajFOSTJYcHV2Ml8yRTNhdnp4dWYxODRhaTJZTjhSR0dtWEhwTG80aFF2aHpnZVA0Q2E5RjFsdWJ6TW85Ym9jblZ3?oc=5"
- },
- {
-  "id": "e01abc36e5",
-  "datum": "2026-09-19",
-  "tijd": "19:03",
-  "nieuw": false,
-  "titel": "Rutten - Dorpsbelang Rutten: 'Uitbreiding van het dorp begint in 2029'",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "erf",
-   "grond",
-   "huurwoning",
-   "school",
-   "vastgoed",
-   "woning"
-  ],
-  "samenvatting": "Rutten kan vanaf begin 2029 uitbreiden met een nieuwe wijk. Dat meldt Dorpsbelang. Ten oosten van het bestaande dorp moeten enkele tientallen huizen verrijzen. Het is een mijlpaal, omdat Rutten al zo'n twintig jaar niet meer is uitgebreid. Het betreffende perceel ligt langs de Ruttenseweg. Het gaat om zo'n vijf hectare",
-  "link": "https://www.omroepflevoland.nl/nieuws/523780/dorpsbelang-rutten:-'uitbreiding-van-het-dorp-begint-in-2029'"
  },
  {
   "id": "bb3b91b2c6",
@@ -415,26 +417,6 @@
   ],
   "samenvatting": "Bij een woning in de wijk Punter 20 in Lelystad is zaterdagnacht brand uitgebroken. Niemand raakte gewond, wel raakte de woning zwaar beschadigd. Omliggende panden werden uit voorzorg ontruimd. De oorzaak van de brand uitbrak is nog niet duidelijk. De brand werd rond half drie 's nachts gemeld, waarna de brandweer met ",
   "link": "https://www.omroepflevoland.nl/nieuws/524390/politie-ontruimt-woningen-en-zoekt-getuigen-na-brand-in-punter-20"
- },
- {
-  "id": "072a3846e3",
-  "datum": "2026-09-19",
-  "tijd": "15:27",
-  "nieuw": false,
-  "titel": "Lelystad - Woningen ontruimd en getuigen gezocht na brand in Punter 20",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "pand",
-   "woning"
-  ],
-  "samenvatting": "Bij een woning in de wijk Punter 20 in Lelystad is brand uitgebroken in de nacht van vrijdag op zaterdag. Niemand raakte gewond, wel raakte de woning zwaar beschadigd. Omliggende panden werden uit voorzorg ontruimd. De oorzaak van de brand is nog niet duidelijk. De brand werd rond 02.20 uur gemeld, waarna de brandweer ",
-  "link": "https://www.omroepflevoland.nl/nieuws/524390/woningen-ontruimd-en-getuigen-gezocht-na-brand-in-punter-20"
  },
  {
   "id": "08dd0fc604",
@@ -658,25 +640,6 @@
   ],
   "samenvatting": "Dat 'Bolle Jos' Leijdekkers (35) wereldwijd onder een vergrootglas ligt, is alles behalve gunstig voor zijn vermogen om geld te verdienen. Het netwerk van de Bredase drugscrimineel staat steeds meer onder druk doordat onder andere zijn drugs vaker wordt onderschept. Ook schrikt de internationale aandacht voor de crimin",
   "link": "https://www.omroepbrabant.nl/nieuws/6027880/bolle-jos-is-te-heet-ook-drugskartels-twijfelen-vaker-aan-hem"
- },
- {
-  "id": "27ee78f2f8",
-  "datum": "2026-09-19",
-  "tijd": "09:00",
-  "nieuw": false,
-  "titel": "Zeewolde - Wethouderschap in plaats van pensioen: 'leuker dan gedacht'",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak"
-  ],
-  "tags": [
-   "gemeenteraad"
-  ],
-  "samenvatting": "Oud-ondernemer Hans de Groot heeft zijn pensioen uitgesteld voor de kans om wethouder te worden in Zeewolde. Over ruim een week wordt hij 66, en in het programma Over Flevoland Gesproken vertelt hij eigenlijk van plan te zijn geweest vanaf 1 juni met pensioen te gaan. De verkiezingsuitslag in maart veranderde alles voo",
-  "link": "https://www.omroepflevoland.nl/nieuws/524264/wethouderschap-in-plaats-van-pensioen:-'leuker-dan-gedacht'"
  },
  {
   "id": "909697fe5c",
