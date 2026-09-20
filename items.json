@@ -10,22 +10,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Ondernemers & weerbaarheid",
-   "Wapens, explosieven & vuurwerk"
+   "Milieucriminaliteit & afval"
   ],
   "tags": [
    "afval",
    "afvaldumping",
-   "container",
-   "grond",
-   "jongeren",
-   "ondernemers"
+   "stort"
   ],
   "samenvatting": "Inwoners van Almere hebben vorig jaar massaal melding gemaakt van problemen in hun leefomgeving. Uit een analyse van ruim 65.000 meldingen bij de gemeente blijkt dat afvaldumpingen veruit de grootste bron van overlast zijn. In totaal gingen er meer dan 17.500 meldingen over illegaal gestort afval in de stad. Daarmee he",
   "link": "https://www.omroepflevoland.nl/nieuws/522113/afvaldumpingen-en-overlast-domineren-meldingen-in-almere:-17.000-afvaldumpingen"
@@ -194,7 +184,7 @@
   "id": "ae286f709c",
   "datum": "2026-09-20",
   "tijd": "08:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Zeeuwse tussenpersoon Kasteelmoord vrijgelaten'",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -214,7 +204,7 @@
   "id": "54a9d2152a",
   "datum": "2026-09-20",
   "tijd": "07:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jubileumzege voor Jeffrey Herlings in Australië, sluit seizoen in stijl af",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
