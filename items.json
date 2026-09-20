@@ -184,7 +184,7 @@
   "id": "ae286f709c",
   "datum": "2026-09-20",
   "tijd": "08:24",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "'Zeeuwse tussenpersoon Kasteelmoord vrijgelaten'",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -3433,6 +3433,27 @@
   ],
   "samenvatting": "De 70-jarige fietsster die gisteren ernstig gewond raakte bij een ongeval op de Mastenbroekweg bij Luttenberg, is overleden. Dat meldt de politie. Het slachtoffer kwam uit de Friese gemeente Opsterland.",
   "link": "https://www.oost.nl/nieuws/3696552/70-jarige-vrouw-overleden-na-ongeval-met-vrachtwagen-bij-luttenberg"
+ },
+ {
+  "id": "b65568d990",
+  "datum": "2026-09-16",
+  "tijd": "14:54",
+  "nieuw": false,
+  "titel": "Miljoenen pillen amfetamine verstopt in blikken havermout in loods Maasbree, totale vangst weegt 375 kilo: ‘Drugs bestemd voor Libanon’",
+  "bron": "De Limburger",
+  "verzameld_via": "Nieuws — Buitengebied & recreatie",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "amfetamine",
+   "loods"
+  ],
+  "samenvatting": "Miljoenen pillen amfetamine verstopt in blikken havermout in loods Maasbree, totale vangst weegt 375 kilo: ‘Drugs bestemd voor Libanon’ De Limburger",
+  "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPMmVDWFVkLTFRbzRaenRIaTR0OGh6QWthbWZXVWJvUmx0ZGxaM3k2SGxXbzYzUWhSNFRsek9yejdiNkMweUFtYTZkMUpaVlhRbnhPakROLWh5M0lRWF9VN0FtUUF2RVBJQ1ZfamRWeWdsbHJmaDEzUEpIUmM4UUpTZHc4QnVCMXFtMlFycTB0dkctNy1wbkFJdWE4YTRfZy01RUpaclZMNVJWbzM1cERIRUNiLU5ldWNqYm8zc193ZkF4VE1RUnRJM1hiNEhLcXozZnE4eFdYUFJocUZGdkpGdmZIUGNjTkc3STd3ZUtOQVJXeHFtYTJ2WTNmazlDcEFqcjBYYXdZelNWOVoxZDNKOXdJaUF0MFZoZE41Njd1bUgzLThFTHc?oc=5"
  },
  {
   "id": "aeac4692d0",
