@@ -1,5 +1,64 @@
 [
  {
+  "id": "f1d2fe2faa",
+  "datum": "2026-09-20",
+  "tijd": "06:00",
+  "nieuw": true,
+  "titel": "Podcast | ‘Grote bedrijven die sancties tegen Rusland overtreden, blijven buiten schot’",
+  "bron": "Follow the Money",
+  "verzameld_via": "Follow the Money",
+  "soort": "Onderzoek",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "toezichthouder",
+   "witwassen"
+  ],
+  "samenvatting": "In ‘Follow the Money interviewt’ spreken journalisten Annette van Soest en Harm Ede Botje met sleutelfiguren uit verschillende FTM-dossiers. Van toezichthouders en wetenschappers tot politici en juristen. Of het nu gaat om fraude en witwassen, de toekomst van ons landbouwbeleid of onze rechtsstaat: Follow the Money int",
+  "link": "https://www.ftm.nl/artikelen/ftm-interviewt-yvo-amar"
+ },
+ {
+  "id": "c09639b527",
+  "datum": "2026-09-20",
+  "tijd": "04:09",
+  "nieuw": true,
+  "titel": "Gewonde na mogelijk schietincident • bestuurder aangehouden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Het actuele 112-nieuws uit Gelderland van deze dag bundelen we in een liveblog. Je leest en ziet hier een overzicht van ongelukken, branden, vermissingen en misdrijven in onze provincie.",
+  "link": "https://www.gld.nl/nieuws/8526115/gewonde-na-mogelijk-schietincident-bestuurder-aangehouden"
+ },
+ {
+  "id": "b631bbad7c",
+  "datum": "2026-09-20",
+  "tijd": "03:30",
+  "nieuw": true,
+  "titel": "Automobilist gaat ervandoor na crash auto en haalt kentekenplaten snel weg",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een automobilist is er zaterdagnacht vandoor gegaan nadat deze met de auto gecrasht was tegen een lantaarnpaal naast de Turnhoutsebaan in Goirle. Dit gebeurde bij de rotonde met de Tijvoortsebaan. Voorbijgangers ontdekten de lege auto rond twee uur 's nachts. De bestuurder had, voordat deze ervandoor ging, de kentekenp",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027908/automobilist-gaat-ervandoor-na-crash-auto-en-haalt-kentekenplaten-snel-weg"
+ },
+ {
   "id": "2088ee576f",
   "datum": "2026-09-19",
   "tijd": "20:47",
@@ -232,7 +291,7 @@
   "id": "4ae409a046",
   "datum": "2026-09-19",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Quiztijd! Hoe goed heb jij het nieuws uit Overijssel gevolgd?",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -251,7 +310,7 @@
   "id": "cfd697c48d",
   "datum": "2026-09-19",
   "tijd": "13:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Zeewoldenaar (45) hoort 48 maanden cel eisen voor verkrachting 14-jarig buurmeisje",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",

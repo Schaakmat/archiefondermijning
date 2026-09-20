@@ -1,12 +1,12 @@
 {
- "run": "03:37",
+ "run": "04:39",
  "datum": "2026-09-20",
- "nieuw": 13,
- "totaal": 3376,
+ "nieuw": 14,
+ "totaal": 3379,
  "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1068,
-  "geen dossier": 489
+  "niet-nederlands": 999,
+  "geen dossier": 488
  },
  "bronnen": [
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 126,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -473,8 +473,8 @@
    "url": "www.ftm.nl/feed",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 6,
-   "status": "bij",
+   "items": 7,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 124,
-   "status": "4 nieuw",
+   "items": 125,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 170,
-   "status": "bij",
+   "items": 171,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -555,7 +555,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 68,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
