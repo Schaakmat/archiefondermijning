@@ -1,12 +1,12 @@
 {
- "run": "07:39",
+ "run": "08:37",
  "datum": "2026-09-20",
- "nieuw": 12,
- "totaal": 3380,
+ "nieuw": 14,
+ "totaal": 3384,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1093,
-  "geen dossier": 492
+  "niet-nederlands": 1057,
+  "geen dossier": 494
  },
  "bronnen": [
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 215,
-   "status": "bij",
+   "items": 216,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -86,8 +86,8 @@
    "url": "news.google.com/rss/search?q=goudhandel%20witwassen%20OR%20goudopkoper%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 9,
-   "status": "bij",
+   "items": 10,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 123,
-   "status": "3 nieuw",
+   "items": 124,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 122,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 33,
-   "status": "bij",
+   "items": 34,
+   "status": "1 nieuw",
    "ok": true
   },
   {

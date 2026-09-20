@@ -1,5 +1,46 @@
 [
  {
+  "id": "ae286f709c",
+  "datum": "2026-09-20",
+  "tijd": "08:24",
+  "nieuw": true,
+  "titel": "'Zeeuwse tussenpersoon Kasteelmoord vrijgelaten'",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "huurmoordenaar",
+   "moord"
+  ],
+  "samenvatting": "Evert de C. is in 2019 veroordeeld tot 20 jaar cel omdat hij de huurmoordenaar heeft geregeld om kasteelheer Stijn Staelens te vermoorden.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18796489/zeeuwse-tussenpersoon-kasteelmoord-vrijgelaten"
+ },
+ {
+  "id": "54a9d2152a",
+  "datum": "2026-09-20",
+  "tijd": "07:41",
+  "nieuw": true,
+  "titel": "Jubileumzege voor Jeffrey Herlings in Australië, sluit seizoen in stijl af",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bv",
+   "stal"
+  ],
+  "samenvatting": "Motocrosser Jeffrey Herlings uit Oploo heeft het MXGP-seizoen in stijl afgesloten. Hij kwam tijdens de afsluiteinde grand prix in het Australische Darwin in beide manches op zijn Honda als eerste over de finish. Voor Herlings was zijn zege in Australië de achtste GP-zege op rij, zijn dertiende van dit seizoen en de 125",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027918/jubileumzege-voor-jeffrey-herlings-in-australie-sluit-seizoen-in-stijl-af"
+ },
+ {
   "id": "9eef567d77",
   "datum": "2026-09-20",
   "tijd": "07:12",
@@ -5760,6 +5801,27 @@
   ],
   "samenvatting": "Hoofddorper aangehouden voor witwassen; beslag op schip in IJmuiden en pand in Amsterdam Nieuws.nl",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbGVBN1ZMaVcwMGh3T0FudHk4M3F0YnJtWXYzXy14VGowMkxfNmlaOXBObFRKVm9KSGhjc3Z5bGplTXdmbzVUMVdhZHRfLTFGb2lIUnBaZExLYzh2QVltNjh3T3VvS2FEWFUyeVpRM2pBZnltajdFckFnRHZFTDNTRHZ2MmtlR1g2UVJIWWVuOVR5UjJvQlZPMDRnTHM2ZVpXSW9qaG02bHRkOVk3NWlzRGg4SEJVYW1lZmYxbDVHODBEZw?oc=5"
+ },
+ {
+  "id": "a2d0ecdb24",
+  "datum": "2026-09-13",
+  "tijd": "06:42",
+  "nieuw": false,
+  "titel": "Hoofddorper aangehouden voor witwassen; beslag op schip in IJmuiden en pand in Amsterdam",
+  "bron": "Nieuws.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "pand",
+   "witwassen"
+  ],
+  "samenvatting": "Hoofddorper aangehouden voor witwassen; beslag op schip in IJmuiden en pand in Amsterdam Nieuws.nl",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFQ0NnIwdjNGNWNnN2hhalVxQl9tUkp4Q0NOQkxLNjlCREFPQWVSeDhRT3F5aEx2SFRkeVJuTDJqU3hWQ1VyLUp1THg1ZnZPdHVZSVZ5OVRCd2dPRERrS2plSm93cXJLQ0VEaFUyQXVHSlQyRlRRZjNQZWJiTzRhOTA5UHdtM3oxTE5Xb2Uya3MzczNyMXlzQmhiUEFvaU1pUGs1aEtNUnVUc3FjU1UtRXFZMXZnd0k?oc=5"
  },
  {
   "id": "b8059951d0",
@@ -55533,6 +55595,26 @@
   ],
   "samenvatting": "Drie woningen doorzocht in onderzoek naar drugshandel en witwassen Mijn Politie",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUlExOGVsZExxaHkzbHV5dmluMlFodS1uN2gyZmdKSThHZTd1Ull4SWFVSnBtS2xNcmpMZkxBYzhRQjhHNGM0UjE3TGpwWE9ibExYNmN3NHRBdHZKN19PTmE4VzBVSlNfNmcySzQ0WHdBOGVjOVNYQVZhU3N1c0NWSnJxMlplVDlycG5VR1NhRmN2eUgyTm05REEwVjd5aV9BWmdMdWI2UXNXTzU5ZnZGR1AxR2R6NWt5?oc=5"
+ },
+ {
+  "id": "e9e52d32d1",
+  "datum": "2023-07-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Goudhandel, sigarettensmokkel, btw-fraude, autozwendel en drugstrafiek: Georgische ‘maffia’ van alle markten thuis",
+  "bron": "GVA",
+  "verzameld_via": "Nieuws — Goudhandel & edelmetalen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "goud",
+   "goudhandel"
+  ],
+  "samenvatting": "Goudhandel, sigarettensmokkel, btw-fraude, autozwendel en drugstrafiek: Georgische ‘maffia’ van alle markten thuis GVA",
+  "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQanBxSlVBNnRTSTFNeXNJQzJ6YnRmbVR5WTZIeEdXUm0xZnRJR3N3R1RlU3RITnh3bXM4cEhsU3QtVGc2VFJTQ0p1WkxGNHlsVUZ2V3pwYTdQbkJjLVcwSEszWnNUUUJuQmxiZXFjUmFFQmtxZW0ySTg3dmNuUm1pM1dOMXNDNnNzX0pGUXFKLXRmS3p0eEZFRVVNQUg4bjV6ZjZmTlJmNWljNHRKaFRTbDctTHFjbnRoYTZNVWRiQXlLdERsM19EZURQaU5QN2hHNWNFTmJRS1VxaFcwTkcyMHdEcDJBTjRnSFR2Ykg4Z1JvWlBQUVNzMkxidnEyb0pHbzRhMDZnMERpSXlrSUdUbA?oc=5"
  },
  {
   "id": "c32d7a1950",
