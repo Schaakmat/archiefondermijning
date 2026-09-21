@@ -19,24 +19,48 @@
   "link": "https://www.oost.nl/nieuws/3695882/honderden-extra-truckparkings-nodig-het-probleem-wordt-alleen-maar-erger"
  },
  {
-  "id": "f0c52ab81b",
+  "id": "20793cb2f9",
+  "datum": "2026-09-21",
+  "tijd": "06:54",
+  "nieuw": true,
+  "titel": "Te weinig plek voor vrachtwagens: 'Soms parkeer je waar het niet mag'",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Er zijn te weinig parkeerplaatsen voor vrachtwagens in Overijssel. Vooral langs de A1 en A28 levert dat problemen op. De belangrijkste parkeer- en verzorgingsplaatsen staan er regelmatig vol, met name 's avonds en 's nachts. Dat blijkt uit onderzoek van Logistics Overijssel in opdracht van de provincie.",
+  "link": "https://www.oost.nl/nieuws/3695882/te-weinig-plek-voor-vrachtwagens-soms-parkeer-je-waar-het-niet-mag"
+ },
+ {
+  "id": "1a071c4675",
   "datum": "2026-09-21",
   "tijd": "06:43",
   "nieuw": true,
-  "titel": "Loods van champignonkwekerij in brand in Overloon, rook trekt over A73",
+  "titel": "Grote brand bij paddenstoelenkwekerij in Overloon, rook trekt over A73",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
    "Buitengebied & recreatie",
-   "Drugsproductie & labs"
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
   ],
   "tags": [
-   "loods"
+   "arbeidsmigranten",
+   "asbest",
+   "loods",
+   "stort"
   ],
-  "samenvatting": "Een loods van een champignonkwekerij staat maandagochtend in brand aan de Merseloseweg in Overloon. De brandweer is met veel materieel op de plek en heeft opgeschaald naar grote brand. De brand brak rond kwart over acht uit. Er is door de brandweer opgeschaald. Op het terrein van de kwekerij staan twee loodsen. De bran",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027954/loods-van-champignonkwekerij-in-brand-in-overloon-rook-trekt-over-a73"
+  "samenvatting": "Een loods van een paddenstoelenkwekerij aan de Merseloseweg in Overloon staat maandagochtend in brand. Meerdere korpsen van de brandweer zijn ter plaatse gekomen. Bij de brand komt veel rook vrij. Ook zit er asbest in het dak van de loods. De brand brak rond kwart over acht uit in het dak van een loods. \"We hebben te m",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027954/grote-brand-bij-paddenstoelenkwekerij-in-overloon-rook-trekt-over-a73"
  },
  {
   "id": "d9fd303fc3",
@@ -58,6 +82,25 @@
   ],
   "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van maandag 21 september.",
   "link": "https://www.rijnmond.nl/nieuws/2256625/aanhouding-voor-babbeltruc-in-capelle-opnieuw-explosie-bij-woning-in-crooswijk"
+ },
+ {
+  "id": "11e3afa6a8",
+  "datum": "2026-09-21",
+  "tijd": "04:46",
+  "nieuw": true,
+  "titel": "Overtredingen in Schiedamse horeca | Aanhouding voor babbeltruc in Capelle",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "horeca"
+  ],
+  "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van maandag 21 september.",
+  "link": "https://www.rijnmond.nl/nieuws/2256625/overtredingen-in-schiedamse-horeca-aanhouding-voor-babbeltruc-in-capelle"
  },
  {
   "id": "04581cd08e",
@@ -150,22 +193,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Ondernemers & weerbaarheid",
-   "Wapens, explosieven & vuurwerk"
+   "Milieucriminaliteit & afval"
   ],
   "tags": [
    "afval",
    "afvaldumping",
-   "container",
-   "grond",
-   "jongeren",
-   "ondernemers"
+   "stort"
   ],
   "samenvatting": "Inwoners van Almere hebben vorig jaar massaal melding gemaakt van problemen in hun leefomgeving. Uit een analyse van ruim 65.000 meldingen bij de gemeente blijkt dat afvaldumpingen veruit de grootste bron van overlast zijn. In totaal gingen er meer dan 17.500 meldingen over illegaal gestort afval in de stad. Daarmee he",
   "link": "https://www.omroepflevoland.nl/nieuws/522113/afvaldumpingen-en-overlast-domineren-meldingen-in-almere:-17.000-gaan-over-afvaldumpingen"
@@ -193,7 +226,7 @@
   "id": "cbcef98970",
   "datum": "2026-09-20",
   "tijd": "17:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nieuwe beelden tonen wat er vóór én na schietpartij Overasselt gebeurde",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -214,7 +247,7 @@
   "id": "e4dffd4d15",
   "datum": "2026-09-20",
   "tijd": "16:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bij deze motorclub is iedereen met een Harley-Davidson welkom: ‘We zijn gewoon een clubje oude lullen’",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -233,7 +266,7 @@
   "id": "e847bd614b",
   "datum": "2026-09-20",
   "tijd": "16:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Fietser rommelt bij afvalcontainers Zwolse flats en even later ontstaat brand",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -254,7 +287,7 @@
   "id": "59ca5ae616",
   "datum": "2026-09-20",
   "tijd": "15:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Na blokkade A12: wat riskeren de actievoerders?",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -273,7 +306,7 @@
   "id": "78f612e4c5",
   "datum": "2026-09-20",
   "tijd": "14:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Identiteit schutters Overasselt achterhaald, 'iedereen op de boerderij moest dood'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -303,14 +336,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
-   "Criminele samenwerkingsverbanden",
-   "Wapens, explosieven & vuurwerk"
+   "Arbeidsuitbuiting & mensenhandel"
   ],
   "tags": [
-   "arbeidsmigranten",
-   "leider",
-   "wapen"
+   "arbeidsmigranten"
   ],
   "samenvatting": "Een 25-jarige man is neergestoken bij een verblijf voor arbeidsmigranten aan de Basilius van Bruggelaan in Velp. Hij raakte daarbij gewond aan zijn gezicht en been en is naar het ziekenhuis gebracht. De politie hield in de nacht van zaterdag op zondag een 24-jarige man aan als verdachte van de steekpartij. Beide mannen",
   "link": "https://www.omroepbrabant.nl/nieuws/6027934/verdachte-24-opgepakt-na-steekpartij-bij-verblijf-voor-arbeidsmigranten"
@@ -625,33 +654,6 @@
   ],
   "samenvatting": "Pak zorgfraude nú aan: verlaag direct de belastingdruk op de werkende middenklasse Petities.nl",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWnBhZ1lkVXdPRk1fdG4yaG9ZbmRfZmlaSjZwSTJMWVpta3owU1lNWXc1MDM3WUZVUnV5X3RFaVBjSE5oZkZJeEl1eVNHX09DNjZWU3MySGpDekRIa1VfUE8xUUhmZ3JBcTBZaTNkS0VOTm5ReHg2Ry1WakJBajFOSTJYcHV2Ml8yRTNhdnp4dWYxODRhaTJZTjhSR0dtWEhwTG80aFF2aHpnZVA0Q2E5RjFsdWJ6TW85Ym9jblZ3?oc=5"
- },
- {
-  "id": "e01abc36e5",
-  "datum": "2026-09-19",
-  "tijd": "19:03",
-  "nieuw": false,
-  "titel": "Rutten - Dorpsbelang Rutten: 'Uitbreiding van het dorp begint in 2029'",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "erf",
-   "grond",
-   "huurwoning",
-   "school",
-   "vastgoed",
-   "woning"
-  ],
-  "samenvatting": "Rutten kan vanaf begin 2029 uitbreiden met een nieuwe wijk. Dat meldt Dorpsbelang. Ten oosten van het bestaande dorp moeten enkele tientallen huizen verrijzen. Het is een mijlpaal, omdat Rutten al zo'n twintig jaar niet meer is uitgebreid. Het betreffende perceel ligt langs de Ruttenseweg. Het gaat om zo'n vijf hectare",
-  "link": "https://www.omroepflevoland.nl/nieuws/523780/dorpsbelang-rutten:-'uitbreiding-van-het-dorp-begint-in-2029'"
  },
  {
   "id": "bb3b91b2c6",
