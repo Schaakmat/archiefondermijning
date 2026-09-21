@@ -1,5 +1,28 @@
 [
  {
+  "id": "dab4884642",
+  "datum": "2026-09-21",
+  "tijd": "20:24",
+  "nieuw": true,
+  "titel": "Cel- en taakstraf voor tegenstanders azc Engelen die vrouw mishandelden",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Milieucriminaliteit & afval",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "erf",
+   "grond"
+  ],
+  "samenvatting": "De politierechter in Den Bosch heeft twee mannen (41 en 43) uit Engelen veroordeeld voor het mishandelen van een vrouw. Ze waren boos omdat de vrouw een protest in Engelen tegen de komst van een azc zou hebben gesaboteerd. De 41-jarige kreeg een celstraf van 36 dagen, een voorwaardelijke celstraf van twee maanden en ee",
+  "link": "https://nos.nl/l/2631952"
+ },
+ {
   "id": "372e8b835a",
   "datum": "2026-09-21",
   "tijd": "19:20",
@@ -37,22 +60,32 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Milieucriminaliteit & afval"
   ],
   "tags": [
-   "afval",
-   "afvaldumping",
-   "explosie",
-   "jongeren",
-   "stal",
-   "woning"
+   "afvaldumping"
   ],
   "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Jongen door groep in elkaar geslagen in Bultpark Lelystad na aanspreken op scheldwoord • Afvaldumpingen en overlast domineren meldingen in Almere: 17.000 ga",
   "link": "https://www.omroepflevoland.nl/nieuws/524622/nieuwsoverzicht-2109-or-jongen-mishandeld-door-groep-*-afvaldumpingen-groot-probleem"
+ },
+ {
+  "id": "6d3a5c815a",
+  "datum": "2026-09-21",
+  "tijd": "17:42",
+  "nieuw": true,
+  "titel": "Jong kind valt uit bed in Efteling-vakantiepark en moet naar ziekenhuis",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "vakantiepark"
+  ],
+  "samenvatting": "Op vakantiepark Bosrijk in de Efteling is maandagavond een jong kindje gewond geraakt nadat het uit bed was gevallen. Het kind was na het ongeluk niet bij kennis, maar kwam in de ambulance wel weer bij. Het ongeluk gebeurde iets voor zeven uur 's avonds. De politie kwam met twee auto's naar het park in Kaatsheuvel toe ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028092/jong-kind-valt-uit-bed-in-efteling-vakantiepark-en-moet-naar-ziekenhuis"
  },
  {
   "id": "7228c55a0f",
@@ -214,6 +247,26 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6028060/man-gebroken-neus-geslagen-op-roze-maandag-daders-zochten-hele-tijd-ruzie"
  },
  {
+  "id": "0193f444b3",
+  "datum": "2026-09-21",
+  "tijd": "15:35",
+  "nieuw": true,
+  "titel": "Slachtoffers richten zich tot van corruptie verdachte ambtenaar",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie"
+  ],
+  "samenvatting": "Slachtoffers richten zich tot van corruptie verdachte ambtenaar Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVc0LVc5UHd2c0NlcGluN1dGcElXcThPRWpleFZBaXU4OXUwREJ2TmlHc1owRFoxTE9TN2pvSFhOUkpTNTFwZmNvZVVaM0tfd3JSWDdEa3doSDg1NjAtLUNsZ1RWWUpOVlFzby1BZWJrMDRMQVZrODFoUjhqRDdya2U2Y1pmdWpQczRaWHRScXhMdnBoSDVjU2F4cXFfSlZNUUcyQXBhN01XQUU1NzZIVDNJY285T0V6bG1Bb1JQTHZCSVU?oc=5"
+ },
+ {
   "id": "c6ccab1e91",
   "datum": "2026-09-21",
   "tijd": "15:27",
@@ -275,7 +328,7 @@
   "id": "5a51f43dd2",
   "datum": "2026-09-21",
   "tijd": "14:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man zakte met vloer en al in vuurzee na explosie drugslab: 'Dacht dat ik doodging'",
   "bron": "NU",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -296,7 +349,7 @@
   "id": "d47e311e81",
   "datum": "2026-09-21",
   "tijd": "14:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Student het land uit na Hitlergroet op TU/e: ‘Hij moet hulp zoeken’",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -315,7 +368,7 @@
   "id": "c0c6ce3fd4",
   "datum": "2026-09-21",
   "tijd": "14:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vader van Jairon (14) krijgt 23 jaar cel voor moord op zijn zoon",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -334,7 +387,7 @@
   "id": "9f0ad34696",
   "datum": "2026-09-21",
   "tijd": "14:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vader krijgt 23 jaar cel voor moord op zijn zoon Jairon (14) uit Tilburg",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -353,7 +406,7 @@
   "id": "2bd3c2f0be",
   "datum": "2026-09-21",
   "tijd": "14:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Slachtoffers richten zich tot van corruptie verdachte ambtenaar Jim B.: ‘Alles wat vertrouwd was, is verdwenen’",
   "bron": "Het Parool",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -373,7 +426,7 @@
   "id": "94aa76a9ce",
   "datum": "2026-09-21",
   "tijd": "14:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Slachtoffers van corruptie verdachte ambtenaar Jim B. verloren huis: ‘Jaar na aanslag overleed mijn kind, toen moest ik herstellen in smerige caravan’",
   "bron": "Het Parool",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -388,6 +441,25 @@
   ],
   "samenvatting": "Slachtoffers van corruptie verdachte ambtenaar Jim B. verloren huis: ‘Jaar na aanslag overleed mijn kind, toen moest ik herstellen in smerige caravan’ Het Parool",
   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNaW5hY3ltTmxUWXNSUV9SdHFLNDJzaDcwNDExUmExNnM5Y21YTFJSSjNNOEotRE95Rk40Y0g1SWUzSmUzbmplb2JMd0FHSmZUVHhCV0k5NWU5UUxlVW16NTBrd1NiQXVyVEE2b0Q0VHJab2U1OVRXTkVXVUpKM1ZuUmo2ZldmYUhEVGdKa3d4M2FGV2Ytb3BrTllROVZOWEtJNEZZTGV1ZVpUTndQd3VIdXpNYk9WbldBalU1aWNkNlRNYkNiRkNLTS0yRmcwd1g3SGFfdlM4WVY4OG5LN25teG5nVVgzektYbzVxT21IUWEtckhaY3Q5UWpYZlBoaE5YS0JiaU51MUhaUWVvQV93Ymx6Z05qUQ?oc=5"
+ },
+ {
+  "id": "cb366c3f1e",
+  "datum": "2026-09-21",
+  "tijd": "14:02",
+  "nieuw": false,
+  "titel": "Fietser overleden na ongeval, fiets twee kilometer verderop gevonden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "De fietser die maandagmiddag ernstig gewond raakte bij een botsing met een vrachtwagen in Huissen, is aan de verwondingen overleden. Dat meldt de politie.",
+  "link": "https://www.gld.nl/nieuws/8526931/fietser-overleden-na-ongeval-fiets-twee-kilometer-verderop-gevonden"
  },
  {
   "id": "bf05aed35b",
@@ -677,6 +749,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6028035/vader-jairon-14-schuldig-aan-moord-20-jaar-cel-geeist"
  },
  {
+  "id": "337627ee30",
+  "datum": "2026-09-21",
+  "tijd": "10:32",
+  "nieuw": false,
+  "titel": "COC Twente schrikt van daling homo-acceptatie onder jongeren: 'Werk aan winkel'",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Het is niet onverwacht, maar toch een flinke schok. De uitkomsten van het onderzoek van de Universiteit Utrecht en het Trimobosinstituur naar homo-acceptatie onder jongeren. Dat zegt Mark Lansing. secretaris van het COC Twente en de Achterhoek in een reactie.",
+  "link": "https://www.oost.nl/nieuws/3698050/coc-twente-schrikt-van-daling-homo-acceptatie-onder-jongeren-werk-aan-winkel"
+ },
+ {
   "id": "4f5a3c90d0",
   "datum": "2026-09-21",
   "tijd": "10:04",
@@ -753,28 +844,6 @@
   ],
   "samenvatting": "Een auto is maandagochtend over de kop gevlogen na een botsing met een vrachtwagen op de A58 bij Breda, richting Bergen op Zoom. De bestuurder raakte gewond en is met de ambulance naar het ziekenhuis gebracht. Na de botsing lag de weg bezaaid met onderdelen. Ook de vangrail in de middenberm van de snelweg raakte bescha",
   "link": "https://www.omroepbrabant.nl/nieuws/6028019/auto-over-de-kop-na-botsing-met-vrachtauto-op-de-a58-bestuurder-gewond"
- },
- {
-  "id": "b26ba2c60d",
-  "datum": "2026-09-21",
-  "tijd": "08:34",
-  "nieuw": false,
-  "titel": "Inbraak bij bouwloodsen treft tien carnavalsverenigingen in Best",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Drugsproductie & labs"
-  ],
-  "tags": [
-   "container",
-   "loods"
-  ],
-  "samenvatting": "Bij de bouwloodsen van carnavalsverenigingen in Best is ingebroken. In de nacht van zondag op maandag gingen dieven aan de haal met kabels, haspels en audioapparatuur uit de loodsen en zeecontainers op het bouwterrein. Op het terrein aan de Eindhovenseweg-Zuid bouwen tien verenigingen aan hun praalwagens voor carnaval.",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028017/inbraak-bij-bouwloodsen-treft-tien-carnavalsverenigingen-in-best"
  },
  {
   "id": "91010f831b",
@@ -872,27 +941,6 @@
   ],
   "samenvatting": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van maandag 21 september.",
   "link": "https://www.oost.nl/nieuws/3697739/112-nieuws-busje-vliegt-uit-bocht-bestuurder-meegenomen-door-politie"
- },
- {
-  "id": "962db8caef",
-  "datum": "2026-09-21",
-  "tijd": "03:28",
-  "nieuw": false,
-  "titel": "Tweede brand bij Amerikaanse garage in Ravenstein, opnieuw auto's getroffen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Autobranche & garages",
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "beveiliging",
-   "garage"
-  ],
-  "samenvatting": "Een grote Amerikaanse pick-up is zondagavond door brand verwoest op de parkeerplaats van een garage aan de Mgr. Zwijsenstraat in Ravenstein. Die garage is gespecialiseerd in Amerikaanse voertuigen. De vlammen sloegen over naar nog een tweede auto. Begin augustus was daar ook al brand. Het vuur werd rond tien uur 's avo",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027951/tweede-brand-bij-amerikaanse-garage-in-ravenstein-opnieuw-autos-getroffen"
  },
  {
   "id": "7ae0fd8385",
