@@ -1,12 +1,12 @@
 {
- "run": "21:38",
+ "run": "22:42",
  "datum": "2026-09-21",
- "nieuw": 14,
- "totaal": 3459,
+ "nieuw": 16,
+ "totaal": 3462,
  "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1058,
-  "geen dossier": 486
+  "niet-nederlands": 1106,
+  "geen dossier": 488
  },
  "bronnen": [
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -428,8 +428,8 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 127,
-   "status": "bij",
+   "items": 128,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 73,
-   "status": "5 nieuw",
+   "items": 74,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 133,
-   "status": "8 nieuw",
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 69,
-   "status": "bij",
+   "items": 70,
+   "status": "1 nieuw",
    "ok": true
   },
   {
