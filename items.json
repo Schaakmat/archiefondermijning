@@ -1,5 +1,24 @@
 [
  {
+  "id": "4f5a3c90d0",
+  "datum": "2026-09-21",
+  "tijd": "10:04",
+  "nieuw": true,
+  "titel": "Kogelgaten ontdekt bij autopoetsbedrijf in Rotterdam-Kralingen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand"
+  ],
+  "samenvatting": "Bij een autopoetsbedrijf in Rotterdam-Kralingen zijn kogelgaten ontdekt. Ook zijn bij het pand aan de Adamshofstraat hulzen gevonden. De politie doet onderzoek.",
+  "link": "https://www.rijnmond.nl/nieuws/2256714/kogelgaten-ontdekt-bij-autopoetsbedrijf-in-rotterdam-kralingen"
+ },
+ {
   "id": "13464ad017",
   "datum": "2026-09-21",
   "tijd": "09:23",
@@ -100,11 +119,11 @@
   "link": "https://www.oost.nl/nieuws/3695882/te-weinig-plek-voor-vrachtwagens-soms-parkeer-je-waar-het-niet-mag"
  },
  {
-  "id": "1a071c4675",
+  "id": "b30786a419",
   "datum": "2026-09-21",
   "tijd": "06:43",
   "nieuw": true,
-  "titel": "Grote brand bij paddenstoelenkwekerij in Overloon, rook trekt over A73",
+  "titel": "Grote brand bij paddenstoelenkwekerij in Overloon, asbest vrijgekomen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -121,8 +140,8 @@
    "loods",
    "stort"
   ],
-  "samenvatting": "Een loods van een paddenstoelenkwekerij aan de Merseloseweg in Overloon staat maandagochtend in brand. Meerdere korpsen van de brandweer zijn ter plaatse gekomen. Bij de brand komt veel rook vrij. Ook zit er asbest in het dak van de loods. De brand brak rond kwart over acht uit in het dak van een loods en werd ontdekt ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027954/grote-brand-bij-paddenstoelenkwekerij-in-overloon-rook-trekt-over-a73"
+  "samenvatting": "Een loods van een paddenstoelenkwekerij aan de Merseloseweg in Overloon staat sinds maandagochtend in brand. Meerdere korpsen van de brandweer zijn ter plaatse gekomen. Er is asbest in het dak van de loods vrijgekomen in de omgeving. De brand brak rond kwart over acht uit in het dak van de loods en werd ontdekt door pe",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027954/grote-brand-bij-paddenstoelenkwekerij-in-overloon-asbest-vrijgekomen"
  },
  {
   "id": "d9fd303fc3",
@@ -168,7 +187,7 @@
   "id": "04581cd08e",
   "datum": "2026-09-21",
   "tijd": "04:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "112 Nieuws: Busje vliegt uit bocht, bestuurder meegenomen door politie",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -187,7 +206,7 @@
   "id": "962db8caef",
   "datum": "2026-09-21",
   "tijd": "03:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tweede brand bij Amerikaanse garage in Ravenstein, opnieuw auto's getroffen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -208,7 +227,7 @@
   "id": "9632c14e20",
   "datum": "2026-09-20",
   "tijd": "23:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dode bij schietpartij in woonwijk in Roermond",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -484,27 +503,6 @@
   ],
   "samenvatting": "Evert de C. is in 2019 veroordeeld tot 20 jaar cel omdat hij de huurmoordenaar heeft geregeld om kasteelheer Stijn Staelens te vermoorden.",
   "link": "https://www.omroepzeeland.nl/nieuws/18796489/zeeuwse-tussenpersoon-kasteelmoord-vrijgelaten"
- },
- {
-  "id": "b2097fcbb3",
-  "datum": "2026-09-20",
-  "tijd": "07:41",
-  "nieuw": false,
-  "titel": "Wereldkampioen Herlings sluit seizoen in stijl af met zeges in Australië",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bv",
-   "stal"
-  ],
-  "samenvatting": "Motocrosser Jeffrey Herlings uit Oploo heeft het MXGP-seizoen in stijl afgesloten. Hij kwam tijdens de afsluiteinde grand prix in het Australische Darwin in beide manches op zijn Honda als eerste over de finish. Voor Herlings was zijn zege in Australië de achtste GP-zege op rij, zijn dertiende van dit seizoen en de 125",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027918/wereldkampioen-herlings-sluit-seizoen-in-stijl-af-met-zeges-in-australie"
  },
  {
   "id": "9eef567d77",
