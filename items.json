@@ -1,5 +1,24 @@
 [
  {
+  "id": "cbc8dcd7b9",
+  "datum": "2026-09-21",
+  "tijd": "03:28",
+  "nieuw": true,
+  "titel": "Brand verwoest opnieuw pick-up bij Amerikaanse garage in Ravenstein",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages"
+  ],
+  "tags": [
+   "garage"
+  ],
+  "samenvatting": "Een grote Amerikaanse pick-up is zondagavond door brand verwoest de parkeerplaats van een garage aan de Mgr. Zwijsenstraat in Ravenstein. Die garage is gespecialiseerd in Amerikaanse voertuigen. Begin augustus gebeurde dit ook al. Het vuur werd rond tien uur 's avonds ontdekt. De brandweer was snel aanwezig, maar kon n",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027951/brand-verwoest-opnieuw-pick-up-bij-amerikaanse-garage-in-ravenstein"
+ },
+ {
   "id": "9632c14e20",
   "datum": "2026-09-20",
   "tijd": "23:08",
@@ -615,26 +634,6 @@
   ],
   "samenvatting": "Bij een woning in de wijk Punter 20 in Lelystad is zaterdagnacht brand uitgebroken. Niemand raakte gewond, wel raakte de woning zwaar beschadigd. Omliggende panden werden uit voorzorg ontruimd. De oorzaak van de brand uitbrak is nog niet duidelijk. De brand werd rond half drie 's nachts gemeld, waarna de brandweer met ",
   "link": "https://www.omroepflevoland.nl/nieuws/524390/politie-ontruimt-woningen-en-zoekt-getuigen-na-brand-in-punter-20"
- },
- {
-  "id": "072a3846e3",
-  "datum": "2026-09-19",
-  "tijd": "15:27",
-  "nieuw": false,
-  "titel": "Lelystad - Woningen ontruimd en getuigen gezocht na brand in Punter 20",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "pand",
-   "woning"
-  ],
-  "samenvatting": "Bij een woning in de wijk Punter 20 in Lelystad is brand uitgebroken in de nacht van vrijdag op zaterdag. Niemand raakte gewond, wel raakte de woning zwaar beschadigd. Omliggende panden werden uit voorzorg ontruimd. De oorzaak van de brand is nog niet duidelijk. De brand werd rond 02.20 uur gemeld, waarna de brandweer ",
-  "link": "https://www.omroepflevoland.nl/nieuws/524390/woningen-ontruimd-en-getuigen-gezocht-na-brand-in-punter-20"
  },
  {
   "id": "4ae409a046",
@@ -21414,6 +21413,25 @@
   ],
   "samenvatting": "Politie ontdekt werkend drugslab in Bergen op Zoom: twee mannen (30 en 32) aangehouden De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWYwU3JsRWdFNmdYVXB6eVBaMXA5RzN6eGVlUXJKWXJXaTRWdEd5SnMyMjdBbldPdlMxQlE5MW52THAzQVZ6QlFMZm9yUTMxYmd5cEt1c1pQTUtuT01CenZDTkRmODBJQ1I4VG9ibUlCNUtoMFhzQ0FqamJoQlFHZl8zTnB3UlB5UFV4T3Z2OW5KUFBFWG52TXIwaUNWSFcxd3BoTzZDR3AtU3h3ZVJLaldOUQ?oc=5"
+ },
+ {
+  "id": "8c85156014",
+  "datum": "2026-08-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie ontdekt werkend drugslab in Bergen op Zoom: twee mannen (30 en 32) aangehouden",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie ontdekt werkend drugslab in Bergen op Zoom: twee mannen (30 en 32) aangehouden Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdkZzSzJSY2M1V0ItZmRDZ1BBRUNOZl9fVTdRU1lWZU1qT2FkVl9sRFZ0UkdjR3Z4UGxNT3FmMkQyX3Zwem9fbUYtNktFU05tbF82emRvVlRsMEVZUmpicGt4cWF0d1d5UTFNeDVoTEFNNVpfekJ2WHhSMTZ0NWR6ZWVEcHdnVDR6MHpHZ0liU05XVTZoSDY2QWw5SFJrTzk0LWFjUkJFU3JfT1dEQ2I4ZmFYdHhRTHZxei04?oc=5"
  },
  {
   "id": "3d2f126c9f",
