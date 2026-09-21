@@ -1,5 +1,24 @@
 [
  {
+  "id": "bf05aed35b",
+  "datum": "2026-09-21",
+  "tijd": "14:01",
+  "nieuw": true,
+  "titel": "Toezichthouder bezorgd over ongebreideld AI-gebruik inlichtingendiensten",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "toezichthouder"
+  ],
+  "samenvatting": "Inlichtingendiensten AIVD en MIVD gebruiken in toenemende mate AI en andere algoritmes, maar er zijn te weinig waarborgen om de risico's in te dammen. Dat schrijft de toezichthouder op de inlichtingendiensten, de CTIVD. De inlichtingendiensten gebruiken zowel kunstmatige intelligentie als geautomatiseerde data-analyse ",
+  "link": "https://nos.nl/l/2631905"
+ },
+ {
   "id": "99f02f8f16",
   "datum": "2026-09-21",
   "tijd": "13:17",
@@ -17,6 +36,69 @@
   ],
   "samenvatting": "De politie vermoedt dat de brand in de nacht van vrijdag op zaterdag bij een woning in de wijk Punter in Lelystad is aangestoken. Omstanders hoorden een harde knal voordat de brand uitbrak. Er raakte niemand gewond. De uitslaande brand werd om 02.20 uur gemeld, waarna de brandweer met drie bluswagens en een hoogwerker ",
   "link": "https://www.omroepflevoland.nl/nieuws/524600/politie-vermoedt-brandstichting-bij-woning-in-lelystad-omstanders-hoorden-luide-knal"
+ },
+ {
+  "id": "458cf2ac66",
+  "datum": "2026-09-21",
+  "tijd": "12:18",
+  "nieuw": true,
+  "titel": "Verzet tegen verdwenen rolstoelplek groeit",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "De politieke druk op het Gelderse college om toch iets te doen aan het verdwijnen van een rolstoelplek in bussen in de regio Arnhem-Nijmegen neemt toe. Zowel vanuit de gemeente Arnhem als Statenfracties klinken ontevreden geluiden over de houding van provinciebestuurder Klaas Ruitenberg die er niets aan wil veranderen.",
+  "link": "https://www.gld.nl/nieuws/8526730/verzet-tegen-verdwenen-rolstoelplek-groeit"
+ },
+ {
+  "id": "0baf5d5dee",
+  "datum": "2026-09-21",
+  "tijd": "12:15",
+  "nieuw": true,
+  "titel": "Verdachte explosie Schammenkamp houdt vol: 'Wist niet wat in garagebox gebeurde'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Autobranche & garages",
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie",
+   "garage"
+  ],
+  "samenvatting": "Jalal O. (37), verdacht van het runnen van een drugslab, blijft erbij: hij wist niet dat er op Schammenkamp 66 dingen gebeurden die het daglicht niet konden verdragen. De Rotterdammer zegt dat maandagochtend, op de eerste dag van het proces over de explosie die op 29 januari 2024 aan drie mensen het leven kostte. Een v",
+  "link": "https://www.rijnmond.nl/nieuws/2256740/verdachte-explosie-schammenkamp-houdt-vol-wist-niet-wat-in-garagebox-gebeurde"
+ },
+ {
+  "id": "b35f3e5abb",
+  "datum": "2026-09-21",
+  "tijd": "11:43",
+  "nieuw": true,
+  "titel": "Schmidt Zeevis komt na overname voor het eerst in niet-Rotterdamse handen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "horeca",
+   "toezichthouder"
+  ],
+  "samenvatting": "Horecagroothandel HANOS wil Schmidt Zeevis in Rotterdam overnemen. Beide eigenaren hebben aan de toezichthouder, de Autoriteit Consument en Markt (ACM), toestemming voor de overname gevraagd. Binnen een paar weken neemt de ACM een besluit.",
+  "link": "https://www.rijnmond.nl/nieuws/2256689/schmidt-zeevis-komt-na-overname-voor-het-eerst-in-niet-rotterdamse-handen"
  },
  {
   "id": "9502503281",
@@ -188,7 +270,7 @@
   "id": "91010f831b",
   "datum": "2026-09-21",
   "tijd": "06:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Honderden extra truckparkings nodig: 'Het probleem wordt alleen maar erger'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -207,7 +289,7 @@
   "id": "20793cb2f9",
   "datum": "2026-09-21",
   "tijd": "06:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Te weinig plek voor vrachtwagens: 'Soms parkeer je waar het niet mag'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -226,7 +308,7 @@
   "id": "d9fd303fc3",
   "datum": "2026-09-21",
   "tijd": "04:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aanhouding voor babbeltruc in Capelle | Opnieuw explosie bij woning in Crooswijk",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -247,7 +329,7 @@
   "id": "11e3afa6a8",
   "datum": "2026-09-21",
   "tijd": "04:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overtredingen in Schiedamse horeca | Aanhouding voor babbeltruc in Capelle",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -266,7 +348,7 @@
   "id": "04581cd08e",
   "datum": "2026-09-21",
   "tijd": "04:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "112 Nieuws: Busje vliegt uit bocht, bestuurder meegenomen door politie",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -622,25 +704,6 @@
   "link": "https://www.rijnmond.nl/nieuws/2256247/drie-aanhoudingen-na-beroving-met-mogelijk-vuurwapen"
  },
  {
-  "id": "cc4287e2ac",
-  "datum": "2026-09-20",
-  "tijd": "07:06",
-  "nieuw": false,
-  "titel": "Ook deze bestuurders dachten meteen aan iets anders na hun aanrijding",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Een flinke klap, een hoop brokstukken en vervolgens… een opmerkelijke actie. De bestuurder die zaterdagnacht in Goirle tegen een lantaarnpaal knalde, nam voordat hij vluchtte nog snel zijn kenteken mee. Hij is zeker niet de eerste automobilist die na een crash iets opvallends doet: deze bestuurders maakten het na hun b",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027919/ook-deze-bestuurders-dachten-meteen-aan-iets-anders-na-hun-aanrijding"
- },
- {
   "id": "f1d2fe2faa",
   "datum": "2026-09-20",
   "tijd": "06:00",
@@ -852,25 +915,6 @@
   ],
   "samenvatting": "Venezolaanse vrouw en partner aangehouden in onderzoek naar mensensmokkel Suriname Herald",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbENpSUN3U1pNRmc4SW1mZjVPMEo0QVhvZG5HYVRhY0YyZC1lank1blFfWDdLU2tncVowWFQ4cFI1dkJ6YzJqUGFQclJ1QVF5emFTRHN5LS0zMWJiazJQN2JfVjh1eU9KbnkyYmR5eDAtZktBLVpRZnVkcElfeUtSTFNfSXRSRGxzRG95Z3MxZ1dsd3d1RFVncjRGRjhRRzFhMUtzQVhhMkJfT20ybjg4Rl9jbF9lRmFnUkZr?oc=5"
- },
- {
-  "id": "7faaef1d8b",
-  "datum": "2026-09-19",
-  "tijd": "16:27",
-  "nieuw": false,
-  "titel": "19/9 in Nieuwsuur: VS en Denemarken sluiten 'Groenland-deal' • Wint AfD opnieuw? • Nabestaanden prankcall-drama doen verhaal",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "VS en Denemarken sluiten 'Groenland-deal' De VS, Denemarken en Groenland zeggen een akkoord te hebben bereikt over de veiligheid van Groenland. Daarmee lijkt er na eerdere dreigementen van president Trump om het eiland in het Noordpoolgebied desnoods met geweld in te nemen een diplomatieke oplossing gevonden, waarbij G",
-  "link": "https://nos.nl/l/2631650"
  },
  {
   "id": "91c1e94cc1",
@@ -36296,6 +36340,25 @@
   ],
   "samenvatting": "Het eerste Bibob Expertise Team van Nederland is een feit debilt.nl",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2VndlIwOFlnaFV0XzV5Z0stb1V4OTBLbGRCNWo5Z1J3UFZZQlp4MFExenFPVm1jUGg0QnpkNE5VOFJVamtmdG80RV9RUGV1a01ZSUtvdXh6a01DcjV6RkZNb1dhNC12WHhTdWJIYnk5WHFwNXJYeDg5enVWWXJxdC1qNWxhSkdFTDMyUE1FeTA5UWxjeHRsQmJfUQ?oc=5"
+ },
+ {
+  "id": "3a33796fe2",
+  "datum": "2026-03-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Samenwerking gemeenten tegen ondermijning van start",
+  "bron": "Omroep Zout",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Samenwerking gemeenten tegen ondermijning van start Omroep Zout",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWHI0R0x6WDZIWUE2b1pHQWJXQm8zUFk3V0xIUFZpN3ZFYm5VRHNHSUQ4SExrVi15R0xpcVFhNnl1V2ltS0xVYTI0YV9naXU0SDVwSWNtSU5pNk5mN3BCRlB0ZjdWYXlBeVZRczRPODROemRSVlVYaG1rWWJkUWEwZ01kb2F1RlBlNU52Q2FCYw?oc=5"
  },
  {
   "id": "6ea242a94d",
