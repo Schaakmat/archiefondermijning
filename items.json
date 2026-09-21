@@ -42,6 +42,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/524671/lelystedeling-(18)-en-vier-andere-verdachten-gepakt-door-rotterdamse-politie-na-vuurwapenmelding"
  },
  {
+  "id": "9a8dc556cf",
+  "datum": "2026-09-21",
+  "tijd": "20:58",
+  "nieuw": true,
+  "titel": "Arrestatieteam valt woning binnen in Etten-Leur, straten tijdlang afgezet",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Een arrestatieteam is maandagavond een woning binnengevallen in Etten-Leur. Verschillende straten in de wijk werden afgezet met linten en voorbijgangers kregen te horen dat ze er niet in mochten. Volgens omstanders was de politie al om zeven uur 's avonds aanwezig. Er zou een ruzie zijn geweest. Twee uur later, rond kw",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028097/arrestatieteam-valt-woning-binnen-in-etten-leur-straten-tijdlang-afgezet"
+ },
+ {
   "id": "dab4884642",
   "datum": "2026-09-21",
   "tijd": "20:24",
@@ -280,7 +299,7 @@
   "id": "1eff3d26fb",
   "datum": "2026-09-21",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ook Jalal O. zegt héél graag duidelijkheid te willen over ontploft drugslab: ‘Ik weet van niets’",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
