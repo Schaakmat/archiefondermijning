@@ -1,5 +1,28 @@
 [
  {
+  "id": "ede825ee5f",
+  "datum": "2026-09-21",
+  "tijd": "22:34",
+  "nieuw": true,
+  "titel": "Aantal inbraken bij brandweerkazernes neemt snel toe, dit jaar al 85 keer raak",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging",
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "beveiliging",
+   "juwelier",
+   "stal"
+  ],
+  "samenvatting": "In ruim een maand tijd is er 25 keer ingebroken bij brandweerkazernes in heel het land. Dat blijkt uit nieuwe cijfers die de politie vanavond deelde in het televisieprogramma Opsporing Verzocht . Halverwege augustus waren er 60 inbraken gepleegd in brandweerkazernes. Inmiddels staat de teller op 85. Ter vergelijking: i",
+  "link": "https://nos.nl/l/2631969"
+ },
+ {
   "id": "1a9d118dc5",
   "datum": "2026-09-21",
   "tijd": "21:31",
@@ -10,11 +33,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Cocaine, haven & logistiek",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "haven",
    "wapen"
   ],
   "samenvatting": "Een man van 18 uit Lelystad is maandagmiddag door agenten in Rotterdam aangehouden na een vuurwapenmelding. De politie pakte hem samen met vier andere verdachten op nadat in de Verboomstraat in Rotterdam was gezien dat zij mogelijk een vuurwapen bij zich droegen. Na de melding gingen agenten op zoek naar de verdachten.",
@@ -278,7 +299,7 @@
   "id": "6fa4c93e47",
   "datum": "2026-09-21",
   "tijd": "15:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Meisje (16) overlijdt na aanrijding, bestuurder rijdt door: jaar cel geëist",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -297,7 +318,7 @@
   "id": "2f9eec4783",
   "datum": "2026-09-21",
   "tijd": "15:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man gebroken neus geslagen op Roze Maandag, daders zochten hele tijd ruzie",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -316,7 +337,7 @@
   "id": "0193f444b3",
   "datum": "2026-09-21",
   "tijd": "15:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Slachtoffers richten zich tot van corruptie verdachte ambtenaar",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -52428,6 +52449,29 @@
   ],
   "samenvatting": "OM niet in staat zorgfraude voldoende te bestrijden: 'Jaarlijks wordt er voor 10 miljard gefraudeerd' Pointer",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjd3a013elZXZkhLTUtUR3ZWdTNKelJPbDJSa2VfaG05QTdNU1l6UmRVMDY1M0RUUkFXcmR2Q2k0bDhGdmhXTW9pT1lVLXlCSDJQd2VrLWlHeDhqdi1uQWlvLWg2cnhZM0dPb3JEd2wwbmh1djh6emQ2RHUwN2htQ1hweERNUmk5cjZKUC1NUFU1eXI1QWlLekxuVHB2cldLWmZQU1FEbTkwTlhGczNiX1E5Nlhsd1N6MlBzRVpQV0dzc1Et?oc=5"
+ },
+ {
+  "id": "eabbbc9972",
+  "datum": "2024-08-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Grondstoffenreus Glencore krijgt opnieuw een miljoenenboete voor corruptie",
+  "bron": "nos.nl",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "corruptie",
+   "grond",
+   "grondstoffen"
+  ],
+  "samenvatting": "Grondstoffenreus Glencore krijgt opnieuw een miljoenenboete voor corruptie nos.nl",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0NSSW5mSFVsZ0FDZUhyUUlBQVJweEljeFR1dmQwMnl0WllGWlpsRERscVpGRGFTRUQ1ZUxuUW9qc0tLX1dEQVBUdFp0VVNrQmlrRnIzczZlaFFxa2hadldHMFdwMEREc2dZYmlPeHFWN1NPbmNPNW1iOS1iSmc5bUJXckdjOG41akxmdk1tWW11T0VsVG94UGZnd2hiZkt3YllFZjV5aW4?oc=5"
  },
  {
   "id": "07b1f449d4",
