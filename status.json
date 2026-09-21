@@ -1,12 +1,12 @@
 {
- "run": "16:42",
+ "run": "17:40",
  "datum": "2026-09-21",
- "nieuw": 18,
- "totaal": 3443,
- "verwijderd": 11,
+ "nieuw": 19,
+ "totaal": 3449,
+ "verwijderd": 13,
  "geweigerd": {
   "niet-nederlands": 1064,
-  "geen dossier": 487
+  "geen dossier": 483
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 179,
-   "status": "2 nieuw",
+   "items": 180,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 216,
-   "status": "bij",
+   "items": 217,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -284,7 +284,7 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 55,
+   "items": 56,
    "status": "1 nieuw",
    "ok": true
   },
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 133,
-   "status": "10 nieuw",
+   "status": "9 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 130,
-   "status": "bij",
+   "items": 131,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 180,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 59,
-   "status": "1 nieuw",
+   "items": 60,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 100,
-   "status": "bij",
+   "items": 101,
+   "status": "1 nieuw",
    "ok": true
   },
   {

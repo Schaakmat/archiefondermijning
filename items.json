@@ -1,5 +1,81 @@
 [
  {
+  "id": "372e8b835a",
+  "datum": "2026-09-21",
+  "tijd": "19:20",
+  "nieuw": true,
+  "titel": "Minister: geen garantie snelle oplossing voor onveiligheid asielkinderen noodopvang",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "container",
+   "geweld",
+   "jongeren",
+   "organisatie",
+   "woning"
+  ],
+  "samenvatting": "Minister Van den Brink van Asiel zegt alles op alles te willen zetten om alle kinderen in de asielopvang op een veilige plek te krijgen. Hij kan alleen niet garanderen dat dit binnen zes maanden lukt, zoals de Onderzoeksraad voor de Veiligheid (OVV) wel dringend noodzakelijk vindt. De minister zegt afhankelijk te zijn ",
+  "link": "https://nos.nl/l/2631945"
+ },
+ {
+  "id": "6c69f019bc",
+  "datum": "2026-09-21",
+  "tijd": "18:45",
+  "nieuw": true,
+  "titel": "Flevoland - Nieuwsoverzicht 21/09 | Jongen mishandeld door groep • Afvaldumpingen groot probleem",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "afval",
+   "afvaldumping",
+   "explosie",
+   "jongeren",
+   "stal",
+   "woning"
+  ],
+  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Jongen door groep in elkaar geslagen in Bultpark Lelystad na aanspreken op scheldwoord • Afvaldumpingen en overlast domineren meldingen in Almere: 17.000 ga",
+  "link": "https://www.omroepflevoland.nl/nieuws/524622/nieuwsoverzicht-2109-or-jongen-mishandeld-door-groep-*-afvaldumpingen-groot-probleem"
+ },
+ {
+  "id": "7228c55a0f",
+  "datum": "2026-09-21",
+  "tijd": "17:13",
+  "nieuw": true,
+  "titel": "Vijf aanhoudingen na melding vuurwapen, politie lost waarschuwingsschot",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "De politie heeft maandagmiddag vijf mensen aangehouden na een melding van een vuurwapen in een woning aan de Verboomstraat in Rotterdam-Charlois. Dat gebeurde op verschillende plekken. Bij één van de aanhoudingen werd een waarschuwingsschot gelost.",
+  "link": "https://www.rijnmond.nl/nieuws/2256817/vijf-aanhoudingen-na-melding-vuurwapen-politie-lost-waarschuwingsschot"
+ },
+ {
   "id": "5fbf137e55",
   "datum": "2026-09-21",
   "tijd": "17:10",
@@ -19,11 +95,51 @@
   "link": "https://www.omroepflevoland.nl/nieuws/524635/politie-stopt-met-eigen-'religieuze-bijeenkomsten'-vorig-jaar-hield-politie-nog-een-iftar-in-almere"
  },
  {
-  "id": "9da1577116",
+  "id": "30f6690326",
+  "datum": "2026-09-21",
+  "tijd": "16:34",
+  "nieuw": true,
+  "titel": "Verscherp het beheer en identificeer risico's op witwassen in de vastgoedsector.",
+  "bron": "Vietnam.vn",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "vastgoed",
+   "witwassen"
+  ],
+  "samenvatting": "Verscherp het beheer en identificeer risico's op witwassen in de vastgoedsector. Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYkRVaG5uUy0xVXlGMkYya1ZWMXV3eFEtdllmclcxY2xiNkFfSnJnVjNHU3VVZEw3ckZJVnJsREJEQi14ZUJQUWdNanhHT3d4VzJYSkdEQ0w4S2JoTGhoSHk4WjhVeUxEcWNWNjlRWlZla0tWWWdxdUIwMkZhRVIxenhMYktXU0hNb0VqR3pKQ2l3VjFlZ1oycmhn?oc=5"
+ },
+ {
+  "id": "7cd6e46438",
+  "datum": "2026-09-21",
+  "tijd": "16:31",
+  "nieuw": true,
+  "titel": "Jalal O. volhardt in ontkenning: ontploft drugslab in Rotterdam-Charlois was niet van hem",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Jalal O. volhardt in ontkenning: ontploft drugslab in Rotterdam-Charlois was niet van hem de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY2pkZGFHT2NwUHZGajBUUzA3NzcwWnFIN3hCN194d0c0UEFNTjJnbE9MbEVwX0J5a0MtejVGN3F5ekF3OGNNcTBJeDJIdS1MSmVSNkpFTEwxRjdvX1JVTTV2Tm1hd0xUazRackI4d1hDcVEtaVZtRjh3Q2RqaGt1ZWxDMGhuRXRNaWhkUFI2bUMxRGVVR0ptbDFHWWZxYXdnaWFDVUszRWlEVjg0OURlSkx4aVJ2cWlaSjA0V1dOazltWmFVcEs3Z1gtTmdRTlU?oc=5"
+ },
+ {
+  "id": "324de1735d",
   "datum": "2026-09-21",
   "tijd": "16:30",
   "nieuw": true,
-  "titel": "Hardrijders opgelet, Lowie heeft een eigen flitspaal in de achtertuin",
+  "titel": "Lowie is hardrijders spuugzat en bouwt zijn eigen flitspaal",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -38,7 +154,7 @@
    "stal"
   ],
   "samenvatting": "Drie doodgereden katten, een afgereden buitenspiegel en een aan flarden gereden bestelbusje van de buurman. Lowie uit Heense Molen heeft het helemaal gehad met het voorbijrazende verkeer langs zijn dijkhuis. Hij plaatste daarom een zelfgebouwde flitskast in zijn achtertuin. \"Ik ga niet wachten tot er ook nog eens doden",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028057/hardrijders-opgelet-lowie-heeft-een-eigen-flitspaal-in-de-achtertuin"
+  "link": "https://www.omroepbrabant.nl/nieuws/6028057/lowie-is-hardrijders-spuugzat-en-bouwt-zijn-eigen-flitspaal"
  },
  {
   "id": "1eff3d26fb",
@@ -96,6 +212,26 @@
   ],
   "samenvatting": "Roze Maandag liep voor een man afgelopen juli niet goed af in Tilburg. In de uitloop van het feest werd het slachtoffer 's nachts vanuit het niets aangevallen door twee mannen. Een gebroken neus en meerdere kneuzingen waren het resultaat. De politie brengt de daders nu nog onherkenbaar in beeld. In Bureau Brabant toont",
   "link": "https://www.omroepbrabant.nl/nieuws/6028060/man-gebroken-neus-geslagen-op-roze-maandag-daders-zochten-hele-tijd-ruzie"
+ },
+ {
+  "id": "c6ccab1e91",
+  "datum": "2026-09-21",
+  "tijd": "15:27",
+  "nieuw": true,
+  "titel": "Slachtoffers richten zich tot van corruptie verdachte ambtenaar",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie"
+  ],
+  "samenvatting": "Slachtoffers richten zich tot van corruptie verdachte ambtenaar Drimble",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzdscU8teDdCeTByVnVPSnl5VjlZbnR2S0ptSGxDN3d0TDBGdktGN3NILVV3bmxZVkJlUFZtcllaS2tCSW5oUjJDcFpzZVNfMEE4Rms0NmJINy01MlF3Y2puZ1VsVmtSdUwtcmVWYzBhYjN1SDl5WWFkLUF0U3g3Xy1mS2didlNEYkk4aTJXUG1ySUp4VnI4M1NGM25weFZZbnRLYkU0cE9JTXdsNjNpM2RObTZSTW5adU1RekszVXAzNjltYlE?oc=5"
  },
  {
   "id": "28e0099f2a",
@@ -205,14 +341,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Drugsproductie & labs",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "ketamine",
-   "moord",
-   "school"
+   "moord"
   ],
   "samenvatting": "Rennlhij M. (47), de vader van de 14-jarige Jairon uit Tilburg, is maandag veroordeeld tot 23 jaar cel voor de moord op zijn zoon. De straf is hoger dan de twintig jaar die de aanklager eerder op de dag had geëist. Na de uitspraak in het hof van assisen in Antwerpen werd M. meteen aangehouden De vader is niet de enige ",
   "link": "https://www.omroepbrabant.nl/nieuws/6028068/vader-krijgt-23-jaar-cel-voor-moord-op-zijn-zoon-jairon-14-uit-tilburg"
@@ -261,7 +393,7 @@
   "id": "bf05aed35b",
   "datum": "2026-09-21",
   "tijd": "14:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Toezichthouder bezorgd over ongebreideld AI-gebruik inlichtingendiensten",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -280,7 +412,7 @@
   "id": "333f4455f7",
   "datum": "2026-09-21",
   "tijd": "13:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Slachtoffers richten zich tot van corruptie verdachte ambtenaar",
   "bron": "Ditjes en Datjes",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -300,7 +432,7 @@
   "id": "b8e7ccd72c",
   "datum": "2026-09-21",
   "tijd": "13:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Eindhovenaar (21) gepakt met meer dan 300 lachgasflessen in bestelbus",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -319,7 +451,7 @@
   "id": "4d6319e95a",
   "datum": "2026-09-21",
   "tijd": "13:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Slachtoffers richten zich tot van corruptie verdachte ambtenaar",
   "bron": "zeelandnet.nl",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -339,7 +471,7 @@
   "id": "c106291d3a",
   "datum": "2026-09-21",
   "tijd": "13:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Slachtoffers richten zich tot van corruptie verdachte ambtenaar",
   "bron": "dagelijksestandaard.nl",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -1101,25 +1233,6 @@
   ],
   "samenvatting": "In ‘Follow the Money interviewt’ spreken journalisten Annette van Soest en Harm Ede Botje met sleutelfiguren uit verschillende FTM-dossiers. Van toezichthouders en wetenschappers tot politici en juristen. Of het nu gaat om fraude en witwassen, de toekomst van ons landbouwbeleid of onze rechtsstaat: Follow the Money int",
   "link": "https://www.ftm.nl/artikelen/ftm-interviewt-yvo-amar"
- },
- {
-  "id": "688162d4ac",
-  "datum": "2026-09-20",
-  "tijd": "05:36",
-  "nieuw": false,
-  "titel": "Grote brand verwoest bowlingcentrum in Leeuwarden, brand mogelijk aangestoken",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "asbest"
-  ],
-  "samenvatting": "In Leeuwarden is een bowlingcentrum compleet verwoest door een brand. Er vielen geen gewonden. De brandweer heeft het gebouw gecontroleerd laten uitbranden. Het is niet bekend hoe de brand in het bowlingcentrum aan het Kalverdijkje is ontstaan. De politie doet onderzoek. De brand brak rond 03.45 uur uit. Er waren op da",
-  "link": "https://nos.nl/l/2631714"
  },
  {
   "id": "08dd1923a5",
@@ -22131,6 +22244,25 @@
   ],
   "samenvatting": "Politie ontdekt werkend drugslab in Bergen op Zoom: twee mannen (30 en 32) aangehouden Brabants Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdkZzSzJSY2M1V0ItZmRDZ1BBRUNOZl9fVTdRU1lWZU1qT2FkVl9sRFZ0UkdjR3Z4UGxNT3FmMkQyX3Zwem9fbUYtNktFU05tbF82emRvVlRsMEVZUmpicGt4cWF0d1d5UTFNeDVoTEFNNVpfekJ2WHhSMTZ0NWR6ZWVEcHdnVDR6MHpHZ0liU05XVTZoSDY2QWw5SFJrTzk0LWFjUkJFU3JfT1dEQ2I4ZmFYdHhRTHZxei04?oc=5"
+ },
+ {
+  "id": "bf60aafd15",
+  "datum": "2026-08-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie ontdekt werkend drugslab in Bergen op Zoom: twee mannen (30 en 32) aangehouden",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie ontdekt werkend drugslab in Bergen op Zoom: twee mannen (30 en 32) aangehouden De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaUxwUE1TeE9Zb2gwN3BsWC1CaGxRemQ4RVljUGRFaTlhOUdKNEJqdVFRVWVpcmdWU3k1ZVlkTlBiZWZBVFE2eHktQS1kbmlSOXFRMHRtRkZEU3F0aGFsdU1qcGJSVW0zZEtXUFFrOVBWcTF6Q1BrYnJDVEVRenRjVFJYWEhrRDVLV2hFYjFRNVR0RC1ZLXgwT3QzTEhuMUQ0aWxma2dSZ1RyRnp2QnhJQjRFUTJRTzVvdENqTjh2dkFNWlM5ZWZvRA?oc=5"
  },
  {
   "id": "3d2f126c9f",
