@@ -1,5 +1,65 @@
 [
  {
+  "id": "91010f831b",
+  "datum": "2026-09-21",
+  "tijd": "06:54",
+  "nieuw": true,
+  "titel": "Honderden extra truckparkings nodig: 'Het probleem wordt alleen maar erger'",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Er zijn te weinig parkeerplaatsen voor vrachtwagens in Overijssel. Vooral langs de A1 en A28 levert dat problemen op. De belangrijkste parkeer- en verzorgingsplaatsen staan er regelmatig vol, met name 's avonds en 's nachts. Dat blijkt uit onderzoek van Logistics Overijssel in opdracht van de provincie.",
+  "link": "https://www.oost.nl/nieuws/3695882/honderden-extra-truckparkings-nodig-het-probleem-wordt-alleen-maar-erger"
+ },
+ {
+  "id": "f0c52ab81b",
+  "datum": "2026-09-21",
+  "tijd": "06:43",
+  "nieuw": true,
+  "titel": "Loods van champignonkwekerij in brand in Overloon, rook trekt over A73",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "loods"
+  ],
+  "samenvatting": "Een loods van een champignonkwekerij staat maandagochtend in brand aan de Merseloseweg in Overloon. De brandweer is met veel materieel op de plek en heeft opgeschaald naar grote brand. De brand brak rond kwart over acht uit. Er is door de brandweer opgeschaald. Op het terrein van de kwekerij staan twee loodsen. De bran",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027954/loods-van-champignonkwekerij-in-brand-in-overloon-rook-trekt-over-a73"
+ },
+ {
+  "id": "d9fd303fc3",
+  "datum": "2026-09-21",
+  "tijd": "04:46",
+  "nieuw": true,
+  "titel": "Aanhouding voor babbeltruc in Capelle | Opnieuw explosie bij woning in Crooswijk",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van maandag 21 september.",
+  "link": "https://www.rijnmond.nl/nieuws/2256625/aanhouding-voor-babbeltruc-in-capelle-opnieuw-explosie-bij-woning-in-crooswijk"
+ },
+ {
   "id": "04581cd08e",
   "datum": "2026-09-21",
   "tijd": "04:41",
@@ -78,6 +138,37 @@
   ],
   "samenvatting": "Inwoners van Almere hebben vorig jaar massaal melding gemaakt van problemen in hun leefomgeving. Uit een analyse van ruim 65.000 meldingen bij de gemeente blijkt dat afvaldumpingen veruit de grootste bron van overlast zijn. In totaal gingen er meer dan 17.500 meldingen over illegaal gestort afval in de stad. Daarmee he",
   "link": "https://www.omroepflevoland.nl/nieuws/522113/afvaldumpingen-en-overlast-domineren-meldingen-in-almere:-17.000-afvaldumpingen"
+ },
+ {
+  "id": "fb5a713d0b",
+  "datum": "2026-09-20",
+  "tijd": "20:22",
+  "nieuw": true,
+  "titel": "Almere - Afvaldumpingen en overlast domineren meldingen in Almere: 17.000 gaan over afvaldumpingen",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval",
+   "Ondernemers & weerbaarheid",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "afval",
+   "afvaldumping",
+   "container",
+   "grond",
+   "jongeren",
+   "ondernemers"
+  ],
+  "samenvatting": "Inwoners van Almere hebben vorig jaar massaal melding gemaakt van problemen in hun leefomgeving. Uit een analyse van ruim 65.000 meldingen bij de gemeente blijkt dat afvaldumpingen veruit de grootste bron van overlast zijn. In totaal gingen er meer dan 17.500 meldingen over illegaal gestort afval in de stad. Daarmee he",
+  "link": "https://www.omroepflevoland.nl/nieuws/522113/afvaldumpingen-en-overlast-domineren-meldingen-in-almere:-17.000-gaan-over-afvaldumpingen"
  },
  {
   "id": "051e6f673c",
@@ -202,10 +293,33 @@
   "link": "https://nos.nl/l/2631760"
  },
  {
+  "id": "bb581f239e",
+  "datum": "2026-09-20",
+  "tijd": "13:54",
+  "nieuw": false,
+  "titel": "Verdachte (24) opgepakt na steekpartij bij verblijf voor arbeidsmigranten",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Criminele samenwerkingsverbanden",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "arbeidsmigranten",
+   "leider",
+   "wapen"
+  ],
+  "samenvatting": "Een 25-jarige man is neergestoken bij een verblijf voor arbeidsmigranten aan de Basilius van Bruggelaan in Velp. Hij raakte daarbij gewond aan zijn gezicht en been en is naar het ziekenhuis gebracht. De politie hield in de nacht van zaterdag op zondag een 24-jarige man aan als verdachte van de steekpartij. Beide mannen",
+  "link": "https://www.omroepbrabant.nl/nieuws/6027934/verdachte-24-opgepakt-na-steekpartij-bij-verblijf-voor-arbeidsmigranten"
+ },
+ {
   "id": "454e7e0fa6",
   "datum": "2026-09-20",
   "tijd": "10:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie onderzoekt rol bestuurders bij blokkade A12 door XR",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -693,25 +807,6 @@
   ],
   "samenvatting": "Het Openbaar Ministerie eist 48 maanden cel, waarvan zes maanden voorwaardelijk tegen de 45-jarige P.B. uit Zeewolde, vanwege verkrachting van zijn 14-jarige buurmeisje en het bezit van kinderporno. De man ontkent dat er seksueel contact is geweest, maar erkent dat hij het meisje in zijn woning heeft verborgen voor haa",
   "link": "https://www.omroepflevoland.nl/nieuws/524373/zeewoldenaar-(45)-hoort-48-maanden-cel-eisen-voor-verkrachting-14-jarig-buurmeisje"
- },
- {
-  "id": "4a72c672d3",
-  "datum": "2026-09-19",
-  "tijd": "13:28",
-  "nieuw": false,
-  "titel": "Dodelijk ongeval pal voor ziekenhuis in Zwolle",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Bij een verkeersongeval in Zwolle is gisteren een 58-jarige vrouw uit die plaats om het leven gekomen, meldt de politie. Het ongeluk gebeurde pal voor het Isala-ziekenhuis. Het slachtoffer liep over een voetgangersoversteekplaats toen ze werd aangereden door een auto. Die werd bestuurd door een 83-jarige vrouw uit de g",
-  "link": "https://nos.nl/l/2631627"
  },
  {
   "id": "365413495a",
