@@ -1,5 +1,90 @@
 [
  {
+  "id": "99f02f8f16",
+  "datum": "2026-09-21",
+  "tijd": "13:17",
+  "nieuw": true,
+  "titel": "Lelystad - Politie vermoedt brandstichting bij woning in Lelystad, omstanders hoorden luide knal",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De politie vermoedt dat de brand in de nacht van vrijdag op zaterdag bij een woning in de wijk Punter in Lelystad is aangestoken. Omstanders hoorden een harde knal voordat de brand uitbrak. Er raakte niemand gewond. De uitslaande brand werd om 02.20 uur gemeld, waarna de brandweer met drie bluswagens en een hoogwerker ",
+  "link": "https://www.omroepflevoland.nl/nieuws/524600/politie-vermoedt-brandstichting-bij-woning-in-lelystad-omstanders-hoorden-luide-knal"
+ },
+ {
+  "id": "9502503281",
+  "datum": "2026-09-21",
+  "tijd": "11:20",
+  "nieuw": true,
+  "titel": "Loods vol gas in Best nadat dieven inbreken",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "loods"
+  ],
+  "samenvatting": "Een loods aan de Eindhovenseweg-Zuid in Best staat maandag vol gas. Dieven braken zondagnacht in en sloopten een gasmeter, waardoor het gas vrijkwam. Maandagnacht sloegen inbrekers ook toe bij andere loodsen in dezelfde straat. Onduidelijk is nog of er iets is buitgemaakt bij de inbraak in de loods met het gaslek. De n",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028037/loods-vol-gas-in-best-nadat-dieven-inbreken"
+ },
+ {
+  "id": "95ad3b0bed",
+  "datum": "2026-09-21",
+  "tijd": "11:15",
+  "nieuw": true,
+  "titel": "Politie gaat stoppen met organiseren van publieke vieringen met religieus karakter",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "burgemeester",
+   "grond",
+   "wetsvoorstel"
+  ],
+  "samenvatting": "De politie gaat per 1 januari stoppen met het organiseren van vieringen met een religieus karakter, voor en met mensen van buiten de politie. Dat staat in nieuwe, interne afspraken van de politie. Welke vieringen daar precies onder vallen, is niet duidelijk. Intern blijft het toegestaan om bijeenkomsten met een religie",
+  "link": "https://nos.nl/l/2631885"
+ },
+ {
+  "id": "96a856fbb7",
+  "datum": "2026-09-21",
+  "tijd": "11:05",
+  "nieuw": true,
+  "titel": "Vader Jairon (14) schuldig aan moord, 20 jaar cel geëist",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "ketamine",
+   "moord",
+   "school"
+  ],
+  "samenvatting": "Twintig jaar cel. Dat eist de aanklager tegen de vader van Jairon (14) uit Tilburg. Rennlhij M. (47) werd vrijdag door het hof van assisen in Antwerpen schuldig bevonden aan moord, omdat hij zijn ernstig zieke zoon geen medische hulp gaf. Vier andere bewoners van het huis zijn ook schuldig bevonden, tegen hen is drie j",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028035/vader-jairon-14-schuldig-aan-moord-20-jaar-cel-geeist"
+ },
+ {
   "id": "4f5a3c90d0",
   "datum": "2026-09-21",
   "tijd": "10:04",
@@ -36,6 +121,25 @@
   ],
   "samenvatting": "Oud-FC Twente-verdediger Douglas Franco Teixeira (38) zit achter de tralies. Hij wordt verdacht van huiselijk geweld. De onderzoeksrechter verlengde zijn voorarrest afgelopen vrijdag. Vorige week deed de politie onderzoek in het Enschedese appartementencomplex waar Douglas woont.",
   "link": "https://www.oost.nl/nieuws/3697796/oud-fc-twentespeler-douglas-in-de-cel-verdacht-van-huiselijk-geweld"
+ },
+ {
+  "id": "e098723c69",
+  "datum": "2026-09-21",
+  "tijd": "09:23",
+  "nieuw": true,
+  "titel": "Douglas, die landskampioen werd met FC Twente, zit vast: verdacht van huiselijk geweld",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Oud-FC Twente-verdediger Douglas Franco Teixeira (38) zit achter de tralies. Hij wordt verdacht van huiselijk geweld. De onderzoeksrechter verlengde zijn voorarrest afgelopen vrijdag. Vorige week deed de politie onderzoek in het Enschedese appartementencomplex waar Douglas woont.",
+  "link": "https://www.oost.nl/nieuws/3697796/douglas-die-landskampioen-werd-met-fc-twente-zit-vast-verdacht-van-huiselijk-geweld"
  },
  {
   "id": "30d6a22386",
@@ -119,31 +223,6 @@
   "link": "https://www.oost.nl/nieuws/3695882/te-weinig-plek-voor-vrachtwagens-soms-parkeer-je-waar-het-niet-mag"
  },
  {
-  "id": "b30786a419",
-  "datum": "2026-09-21",
-  "tijd": "06:43",
-  "nieuw": true,
-  "titel": "Grote brand bij paddenstoelenkwekerij in Overloon, asbest vrijgekomen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
-   "Buitengebied & recreatie",
-   "Drugsproductie & labs",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "arbeidsmigranten",
-   "asbest",
-   "loods",
-   "stort"
-  ],
-  "samenvatting": "Een loods van een paddenstoelenkwekerij aan de Merseloseweg in Overloon staat sinds maandagochtend in brand. Meerdere korpsen van de brandweer zijn ter plaatse gekomen. Er is asbest in het dak van de loods vrijgekomen in de omgeving. De brand brak rond kwart over acht uit in het dak van de loods en werd ontdekt door pe",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027954/grote-brand-bij-paddenstoelenkwekerij-in-overloon-asbest-vrijgekomen"
- },
- {
   "id": "d9fd303fc3",
   "datum": "2026-09-21",
   "tijd": "04:46",
@@ -187,7 +266,7 @@
   "id": "04581cd08e",
   "datum": "2026-09-21",
   "tijd": "04:41",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "112 Nieuws: Busje vliegt uit bocht, bestuurder meegenomen door politie",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -222,6 +301,25 @@
   ],
   "samenvatting": "Een grote Amerikaanse pick-up is zondagavond door brand verwoest op de parkeerplaats van een garage aan de Mgr. Zwijsenstraat in Ravenstein. Die garage is gespecialiseerd in Amerikaanse voertuigen. De vlammen sloegen over naar nog een tweede auto. Begin augustus was daar ook al brand. Het vuur werd rond tien uur 's avo",
   "link": "https://www.omroepbrabant.nl/nieuws/6027951/tweede-brand-bij-amerikaanse-garage-in-ravenstein-opnieuw-autos-getroffen"
+ },
+ {
+  "id": "7ae0fd8385",
+  "datum": "2026-09-21",
+  "tijd": "01:20",
+  "nieuw": false,
+  "titel": "Pak zorgfraude nú aan: verlaag direct de belastingdruk op de werkende middenklasse",
+  "bron": "Petities.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Pak zorgfraude nú aan: verlaag direct de belastingdruk op de werkende middenklasse Petities.nl",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbnEwV1VuTVRPVnp4VXZ5WE5SUVJRMW9YWkhWUWFIS0NqOG1UeEg1TjJLWlVHMmdydERXNHRpZkdwOXBJSFlNRmRlMmRWODM3MGwzVER3NS1MNzUzNHc3Y2FWYVBBSGZvYXJGeWotRUY2ellqTVRsbDVvc3VudDl3QjRhVUVXSUMtTVFRRTYxM0RmYzBTVlNlWVdRX29lZGl0Ukk0NTl0b1FPNDFlUkV1Wk9ZUFY1WXk2WkVJeThNVQ?oc=5"
  },
  {
   "id": "9632c14e20",
@@ -45087,6 +45185,29 @@
   ],
   "samenvatting": "Bosschenaar krijgt jaren cel voor drugsdelict en witwassen De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRzdIS3FnUlNobld1M0FJOWFRb04tVEVqc0hDOW5JUTN0dW9xNXJaZEtwODFwR2dfTXp0TF9LSXJnd3ZUUE9LZ2Ridm5xeWNFRF8tQUFVVmhYQnpvSjQ2UE1ZMVdzSF9rMTJtYUk0ZHNpT1ZjOFRWOHVDSFUzWlk3NVpTSmpfMTNMMnlnNF9UZU95TUQtbnBJNERFcU95eURxcTJiMkRnb1NhQl9TeHZkLWVjaXpEemVWQkxqV2c5SUNrM1IxZ2gwSG5zRGZCNXBoTWloSGhzY3IxbTFpQzdYYVFrb2s4cnE4SnJpVXNmT0RhaDZfNmYwXzRXcl90cVk?oc=5"
+ },
+ {
+  "id": "89a9f0cb03",
+  "datum": "2025-09-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Beslisnota bij Kamerbrief over aanpak ondermijnende criminaliteit, goed bestuur en integriteit in de Caribische landen van het Koninkrijk - rijksoverheid.nl",
+  "bron": "Rijksoverheid",
+  "verzameld_via": "Rijksoverheid",
+  "soort": "Kamerbrief",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "integriteit",
+   "kamerbrief",
+   "ondermijnend",
+   "ondermijnende criminaliteit"
+  ],
+  "samenvatting": "Beslisnota bij Kamerbrief over aanpak ondermijnende criminaliteit, goed bestuur en integriteit in de Caribische landen van het Koninkrijk rijksoverheid.nl",
+  "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQV0NCU09GVmRSUFpERkNXQkdkZUNiVHhrUUdCREItSUp5ZE02aVllaUlCbk0wYW9mOUpoSzVEdVVyUTdYX0pJY1dTWTBBT2pVLXAxTXAwckNSQWFMV19rbUZRMTZfMVdfTV9HbmUyakhxc0pLM2J6MVlYaUFrUUdEQUdOdVlkT3V5YXJnN2hHTnN6dEtUX0IyajlLd1NpeVBycUgxUGZ3V2tFdzdNOTh2akhLSk40aGp6MkZFUXlyeVEzMkFscXdtT3VSd0VmdjNiV2xyeDJfd0RtRFVucnJvdHVrMmh4bGQ5NVRoRFVGVHgzaUFmR0ZXZmJBTWZJYXBXdUZXMUtyVlM4V21Oa1Q2NmRFYzMxdw?oc=5"
  },
  {
   "id": "140db6bc78",
