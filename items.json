@@ -1,5 +1,67 @@
 [
  {
+  "id": "13464ad017",
+  "datum": "2026-09-21",
+  "tijd": "09:23",
+  "nieuw": true,
+  "titel": "Oud-FC Twentespeler Douglas in de cel, verdacht van huiselijk geweld",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Oud-FC Twente-verdediger Douglas Franco Teixeira (38) zit achter de tralies. Hij wordt verdacht van huiselijk geweld. De onderzoeksrechter verlengde zijn voorarrest afgelopen vrijdag. Vorige week deed de politie onderzoek in het Enschedese appartementencomplex waar Douglas woont.",
+  "link": "https://www.oost.nl/nieuws/3697796/oud-fc-twentespeler-douglas-in-de-cel-verdacht-van-huiselijk-geweld"
+ },
+ {
+  "id": "30d6a22386",
+  "datum": "2026-09-21",
+  "tijd": "08:44",
+  "nieuw": true,
+  "titel": "Auto over de kop na botsing met vrachtauto op de A58, bestuurder gewond",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "vrachtwagen"
+  ],
+  "samenvatting": "Een auto is maandagochtend over de kop gevlogen na een botsing met een vrachtwagen op de A58 bij Breda, richting Bergen op Zoom. De bestuurder raakte gewond en is met de ambulance naar het ziekenhuis gebracht. Na de botsing lag de weg bezaaid met onderdelen. Ook de vangrail in de middenberm van de snelweg raakte bescha",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028019/auto-over-de-kop-na-botsing-met-vrachtauto-op-de-a58-bestuurder-gewond"
+ },
+ {
+  "id": "b26ba2c60d",
+  "datum": "2026-09-21",
+  "tijd": "08:34",
+  "nieuw": true,
+  "titel": "Inbraak bij bouwloodsen treft tien carnavalsverenigingen in Best",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "container",
+   "loods"
+  ],
+  "samenvatting": "Bij de bouwloodsen van carnavalsverenigingen in Best is ingebroken. In de nacht van zondag op maandag gingen dieven aan de haal met kabels, haspels en audioapparatuur uit de loodsen en zeecontainers op het bouwterrein. Op het terrein aan de Eindhovenseweg-Zuid bouwen tien verenigingen aan hun praalwagens voor carnaval.",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028017/inbraak-bij-bouwloodsen-treft-tien-carnavalsverenigingen-in-best"
+ },
+ {
   "id": "91010f831b",
   "datum": "2026-09-21",
   "tijd": "06:54",
@@ -59,7 +121,7 @@
    "loods",
    "stort"
   ],
-  "samenvatting": "Een loods van een paddenstoelenkwekerij aan de Merseloseweg in Overloon staat maandagochtend in brand. Meerdere korpsen van de brandweer zijn ter plaatse gekomen. Bij de brand komt veel rook vrij. Ook zit er asbest in het dak van de loods. De brand brak rond kwart over acht uit in het dak van een loods. \"We hebben te m",
+  "samenvatting": "Een loods van een paddenstoelenkwekerij aan de Merseloseweg in Overloon staat maandagochtend in brand. Meerdere korpsen van de brandweer zijn ter plaatse gekomen. Bij de brand komt veel rook vrij. Ook zit er asbest in het dak van de loods. De brand brak rond kwart over acht uit in het dak van een loods en werd ontdekt ",
   "link": "https://www.omroepbrabant.nl/nieuws/6027954/grote-brand-bij-paddenstoelenkwekerij-in-overloon-rook-trekt-over-a73"
  },
  {
@@ -165,7 +227,7 @@
   "id": "e9ec4f6d58",
   "datum": "2026-09-20",
   "tijd": "20:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Afvaldumpingen en overlast domineren meldingen in Almere: 17.000 afvaldumpingen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -186,7 +248,7 @@
   "id": "fb5a713d0b",
   "datum": "2026-09-20",
   "tijd": "20:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Afvaldumpingen en overlast domineren meldingen in Almere: 17.000 gaan over afvaldumpingen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -207,7 +269,7 @@
   "id": "051e6f673c",
   "datum": "2026-09-20",
   "tijd": "17:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "20/9 in Nieuwsuur: Duitse deelstaatverkiezingen • Studeercrisis? • VN kiest nieuwe leider",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -618,25 +680,6 @@
   "link": "https://www.gld.nl/nieuws/8526115/motorrijder-onderuit-bestuurder-aangehouden"
  },
  {
-  "id": "07ce324b49",
-  "datum": "2026-09-20",
-  "tijd": "03:30",
-  "nieuw": false,
-  "titel": "Automobilist gaat ervandoor na crash en haalt kentekenplaten auto snel weg",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Een automobilist is er zaterdagnacht vandoor gegaan nadat deze met de auto gecrasht was tegen een lantaarnpaal naast de Turnhoutsebaan in Goirle. Dit gebeurde bij de rotonde met de Tijvoortsebaan. Voorbijgangers ontdekten de lege auto rond twee uur 's nachts. De bestuurder had, voordat deze ervandoor ging, de kentekenp",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027908/automobilist-gaat-ervandoor-na-crash-en-haalt-kentekenplaten-auto-snel-weg"
- },
- {
   "id": "2088ee576f",
   "datum": "2026-09-19",
   "tijd": "20:47",
@@ -732,25 +775,6 @@
   ],
   "samenvatting": "VS en Denemarken sluiten 'Groenland-deal' De VS, Denemarken en Groenland zeggen een akkoord te hebben bereikt over de veiligheid van Groenland. Daarmee lijkt er na eerdere dreigementen van president Trump om het eiland in het Noordpoolgebied desnoods met geweld in te nemen een diplomatieke oplossing gevonden, waarbij G",
   "link": "https://nos.nl/l/2631650"
- },
- {
-  "id": "667cfe6b04",
-  "datum": "2026-09-19",
-  "tijd": "15:52",
-  "nieuw": false,
-  "titel": "Jongen raakt gewond na val van rijdende trein bij Uitgeest",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "Een jongen is vannacht gewond geraakt nadat hij tussen Uitgeest en Krommenie van een rijdende trein was gevallen. Volgens de politie had hij zich aan de buitenkant van de trein vastgeklampt. Het incident gebeurde rond 01.20 uur. Vrienden van de jongen in de trein zagen hem na vertrek in Uitgeest aan een treindeur hange",
-  "link": "https://nos.nl/l/2631643"
  },
  {
   "id": "91c1e94cc1",
@@ -51739,6 +51763,25 @@
   ],
   "samenvatting": "Mislukte aanslag met handgranaat in Spijkenisse: explosie veroorzaakt schade Hart van Nederland",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmFQX0VGWnJOXzUzb2MzazF1WWtMOGJvV1FxeG1qWDV3RXMzNWtycHk1eTJfNlJuamlXNGJQVnVCLXl1cUVZV0JXTjdPV0swWkJTLWtvMS1BTnhWMlpaV1FLTGYtb0V1ak9sZGNCNWQwcVl2ck55ZGpabHBtTVp6QTFwSzF4cC1yZ0FWaHpNS1R2Ukp1aDVOYWpYWVYzRzRvTmhiMjVJNllMbHF2WU9WcUFranpFRGUyQTg2MFZfT0Z2dw?oc=5"
+ },
+ {
+  "id": "b1a5b03275",
+  "datum": "2024-07-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Mislukte aanslag met handgranaat in Spijkenisse zorgt voor flinke schade",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Mislukte aanslag met handgranaat in Spijkenisse zorgt voor flinke schade Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0tRY1dwdEZhN2dKVE1RMDlkZFRGMkN0WkFOTU03UXRXSEt2Y1NRdV9tU3dhMkxQRklEU1cxMVZ3TjlBZ2JQcGVCbnFzdWpsTXVuVkpISlRNbTE4dmx5WVFGVHJuTjBVVmxNaERQOW53djVCQVBLckhJSWJuN0xETmZXWVk5aGVHNmlWbTRoRlhTZ1RjOVIxaGNzUjNPZw?oc=5"
  },
  {
   "id": "2f2a03b0ca",
