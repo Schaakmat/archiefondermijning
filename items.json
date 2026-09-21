@@ -38,6 +38,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/524600/politie-vermoedt-brandstichting-bij-woning-in-lelystad-omstanders-hoorden-luide-knal"
  },
  {
+  "id": "e72f2798c0",
+  "datum": "2026-09-21",
+  "tijd": "13:08",
+  "nieuw": true,
+  "titel": "Twee aanhoudingen om uitbuiting en mensensmokkel bij Indiase restaurantketens, ook in Den Haag",
+  "bron": "ad.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Twee aanhoudingen om uitbuiting en mensensmokkel bij Indiase restaurantketens, ook in Den Haag ad.nl",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVTlFUVd2V0Z5a3lWbGVZY2tyRnh2a2VaV012M3FoSTVfQ2hqMFRkZEJWNWpYZjFlZVNaWFNzRkNoT3BmNFJ3WVdpa1lrcnNmT3hTSDd5c3R4SWQzcUNFR0RzVHFlNmN3OWR2VVN6dDhkc2lMa2EwNXZOSjR2YXM1Zi1TWE13eHNrUGhvSXp4R00wRjVGdk8zTWllSE82UnFQZTJRQnc5Y3M4RTlLVEJmYUJRN0FYWmJJRllhZ3ZiQXNwenRWOE9Zbld3?oc=5"
+ },
+ {
   "id": "458cf2ac66",
   "datum": "2026-09-21",
   "tijd": "12:18",
@@ -138,6 +157,7 @@
   "tags": [
    "burgemeester",
    "grond",
+   "kamerbrief",
    "wetsvoorstel"
   ],
   "samenvatting": "De politie gaat per 1 januari stoppen met het organiseren van vieringen met een religieus karakter, voor en met mensen van buiten de politie. Dat staat in nieuwe, interne afspraken van de politie. Welke vieringen daar precies onder vallen, is niet duidelijk. Intern blijft het toegestaan om bijeenkomsten met een religie",
@@ -170,7 +190,7 @@
   "id": "4f5a3c90d0",
   "datum": "2026-09-21",
   "tijd": "10:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kogelgaten ontdekt bij autopoetsbedrijf in Rotterdam-Kralingen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -189,7 +209,7 @@
   "id": "13464ad017",
   "datum": "2026-09-21",
   "tijd": "09:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oud-FC Twentespeler Douglas in de cel, verdacht van huiselijk geweld",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -208,7 +228,7 @@
   "id": "e098723c69",
   "datum": "2026-09-21",
   "tijd": "09:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Douglas, die landskampioen werd met FC Twente, zit vast: verdacht van huiselijk geweld",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -227,7 +247,7 @@
   "id": "30d6a22386",
   "datum": "2026-09-21",
   "tijd": "08:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto over de kop na botsing met vrachtauto op de A58, bestuurder gewond",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -248,7 +268,7 @@
   "id": "b26ba2c60d",
   "datum": "2026-09-21",
   "tijd": "08:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inbraak bij bouwloodsen treft tien carnavalsverenigingen in Best",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
