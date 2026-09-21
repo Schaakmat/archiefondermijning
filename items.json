@@ -1,5 +1,24 @@
 [
  {
+  "id": "04581cd08e",
+  "datum": "2026-09-21",
+  "tijd": "04:41",
+  "nieuw": true,
+  "titel": "112 Nieuws: Busje vliegt uit bocht, bestuurder meegenomen door politie",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "In dit bericht houden we je op de hoogte van het laatste 112-nieuws in Overijssel. Je vindt hier een overzicht van onder meer ongelukken, branden en misdrijven van maandag 21 september.",
+  "link": "https://www.oost.nl/nieuws/3697739/112-nieuws-busje-vliegt-uit-bocht-bestuurder-meegenomen-door-politie"
+ },
+ {
   "id": "cbc8dcd7b9",
   "datum": "2026-09-21",
   "tijd": "03:28",
@@ -15,7 +34,7 @@
   "tags": [
    "garage"
   ],
-  "samenvatting": "Een grote Amerikaanse pick-up is zondagavond door brand verwoest de parkeerplaats van een garage aan de Mgr. Zwijsenstraat in Ravenstein. Die garage is gespecialiseerd in Amerikaanse voertuigen. Begin augustus gebeurde dit ook al. Het vuur werd rond tien uur 's avonds ontdekt. De brandweer was snel aanwezig, maar kon n",
+  "samenvatting": "Een grote Amerikaanse pick-up is zondagavond door brand verwoest op de parkeerplaats van een garage aan de Mgr. Zwijsenstraat in Ravenstein. Die garage is gespecialiseerd in Amerikaanse voertuigen. De vlammen sloegen over naar nog een tweede auto. Begin augustus was daar ook al brand. Het vuur werd rond tien uur 's avo",
   "link": "https://www.omroepbrabant.nl/nieuws/6027951/brand-verwoest-opnieuw-pick-up-bij-amerikaanse-garage-in-ravenstein"
  },
  {
@@ -203,7 +222,7 @@
   "id": "bd94cb6a91",
   "datum": "2026-09-20",
   "tijd": "10:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Iedereen in boerderij Jan G. moest dood, vermoedelijke schutters geïdentificeerd'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
