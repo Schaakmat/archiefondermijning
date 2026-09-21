@@ -1,5 +1,26 @@
 [
  {
+  "id": "1a9d118dc5",
+  "datum": "2026-09-21",
+  "tijd": "21:31",
+  "nieuw": true,
+  "titel": "Lelystad - Lelystedeling (18) en vier andere verdachten gepakt door Rotterdamse politie na vuurwapenmelding",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "haven",
+   "wapen"
+  ],
+  "samenvatting": "Een man van 18 uit Lelystad is maandagmiddag door agenten in Rotterdam aangehouden na een vuurwapenmelding. De politie pakte hem samen met vier andere verdachten op nadat in de Verboomstraat in Rotterdam was gezien dat zij mogelijk een vuurwapen bij zich droegen. Na de melding gingen agenten op zoek naar de verdachten.",
+  "link": "https://www.omroepflevoland.nl/nieuws/524671/lelystedeling-(18)-en-vier-andere-verdachten-gepakt-door-rotterdamse-politie-na-vuurwapenmelding"
+ },
+ {
   "id": "dab4884642",
   "datum": "2026-09-21",
   "tijd": "20:24",
@@ -48,6 +69,51 @@
   ],
   "samenvatting": "Minister Van den Brink van Asiel zegt alles op alles te willen zetten om alle kinderen in de asielopvang op een veilige plek te krijgen. Hij kan alleen niet garanderen dat dit binnen zes maanden lukt, zoals de Onderzoeksraad voor de Veiligheid (OVV) wel dringend noodzakelijk vindt. De minister zegt afhankelijk te zijn ",
   "link": "https://nos.nl/l/2631945"
+ },
+ {
+  "id": "32a8dcb545",
+  "datum": "2026-09-21",
+  "tijd": "19:05",
+  "nieuw": true,
+  "titel": "Hans Smolders koninklijk onderscheiden bij afscheid gemeenteraad Tilburg",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Geweld, liquidaties & bedreiging",
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "burgemeester",
+   "gemeenteraad",
+   "moord",
+   "zilver"
+  ],
+  "samenvatting": "Hans Smolders is maandagavond benoemd tot Lid in de Orde van Oranje-Nassau. Smolders kreeg de koninklijke onderscheiding bij zijn afscheid als raadslid in Tilburg. Smolders kreeg, behalve een lintje, ook de Zilveren Erepenning van de gemeente Tilburg, uit handen van burgemeester Fleur Gräper. Smolders kreeg landelijke ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028093/hans-smolders-koninklijk-onderscheiden-bij-afscheid-gemeenteraad-tilburg"
+ },
+ {
+  "id": "dc4d071ff2",
+  "datum": "2026-09-21",
+  "tijd": "18:57",
+  "nieuw": true,
+  "titel": "Man zakte met vloer en al in vuurzee na explosie drugslab: ‘Dacht dat ik doodging’",
+  "bron": "nu.CW",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie"
+  ],
+  "samenvatting": "Man zakte met vloer en al in vuurzee na explosie drugslab: ‘Dacht dat ik doodging’ nu.CW",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObGxxVExWQ254LTltOVhaa2dSbHVuVEpYT013ZnhRMU5xUDJVNzZPbElhenlhX255U1h0cEs1NTJLTVJjNjllRVNsTFBCbTlhbHRNd2dlNV8yT05DckxIb1NHZWpjZTE5THhuTnh5SzItRVliNGphQ3FJcVotdWhHSXdBYVVLNzNWUU0wY0RqUkpmU2JheUcwSks4Y0lZSi11bmVYQ25KcWo?oc=5"
  },
  {
   "id": "6c69f019bc",
@@ -270,7 +336,7 @@
   "id": "c6ccab1e91",
   "datum": "2026-09-21",
   "tijd": "15:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Slachtoffers richten zich tot van corruptie verdachte ambtenaar",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -290,7 +356,7 @@
   "id": "28e0099f2a",
   "datum": "2026-09-21",
   "tijd": "15:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jongeren voelen minder ruimte om openlijk homo te zijn, COC waarschuwt gemeenten",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -309,7 +375,7 @@
   "id": "f06feb48ff",
   "datum": "2026-09-21",
   "tijd": "15:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rechtbank tikt gemeente Maashorst op de vingers om vergunning voor azc",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -823,27 +889,6 @@
   ],
   "samenvatting": "Oud-FC Twente-verdediger Douglas Franco Teixeira (38) zit achter de tralies. Hij wordt verdacht van huiselijk geweld. De onderzoeksrechter verlengde zijn voorarrest afgelopen vrijdag. Vorige week deed de politie onderzoek in het Enschedese appartementencomplex waar Douglas woont.",
   "link": "https://www.oost.nl/nieuws/3697796/douglas-die-landskampioen-werd-met-fc-twente-zit-vast-verdacht-van-huiselijk-geweld"
- },
- {
-  "id": "30d6a22386",
-  "datum": "2026-09-21",
-  "tijd": "08:44",
-  "nieuw": false,
-  "titel": "Auto over de kop na botsing met vrachtauto op de A58, bestuurder gewond",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder",
-   "vrachtwagen"
-  ],
-  "samenvatting": "Een auto is maandagochtend over de kop gevlogen na een botsing met een vrachtwagen op de A58 bij Breda, richting Bergen op Zoom. De bestuurder raakte gewond en is met de ambulance naar het ziekenhuis gebracht. Na de botsing lag de weg bezaaid met onderdelen. Ook de vangrail in de middenberm van de snelweg raakte bescha",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028019/auto-over-de-kop-na-botsing-met-vrachtauto-op-de-a58-bestuurder-gewond"
  },
  {
   "id": "91010f831b",
@@ -51887,6 +51932,26 @@
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUl1SW1hNlJaU1ZnQTFnbEY0TFdfbktwcDMzS3FUSG5keXdZVFYtRktRSzZoNk5VbHNLMTdzOFliUHhzZXlEOXZxNXE4T0VCZHpaMUdVa0xHa2RQQ3UwaE16TDV0ZVFwRGdFT3BkRDgwd0JwZEdndUwtNnoyeWZ6dUZNdTEyZlRpNDBsT284d0JkV0xfSTFEQTZwRDM?oc=5"
  },
  {
+  "id": "aa5c1b4d25",
+  "datum": "2024-09-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Nederlandse jongen (15) opgepakt in haven Antwerpen, douane vindt voor miljoenen aan coke",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "douane",
+   "haven"
+  ],
+  "samenvatting": "Nederlandse jongen (15) opgepakt in haven Antwerpen, douane vindt voor miljoenen aan coke AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmxNUWRkWkZ5enZ6YmY3Y1pnUE1GbFdTdEwtTTJGRjI5VGJBOXZKTlVYTjVJQVpZTjVzSV82WTdGY3Myb1lvWmdPYVRqRkRCQlF1ajFxeVlPVHJUcWRSbktvTG5tYnRsS2V3VEI2LW5YU01sLW5STW1Fc1d3amR3NVR5RkxXTDhXY013aVdZSUNaZFFEaVN6ajhDTnR0OG85cERPT2pueG1yTHR2Q2JnTTdqWG54SFVkQ3JVQ1JiX1hSS3M?oc=5"
+ },
+ {
   "id": "3d825ff4c1",
   "datum": "2024-09-12",
   "tijd": "07:00",
@@ -57893,6 +57958,27 @@
   ],
   "samenvatting": "Uithaler uit Barendrecht opgepakt in container op de Maasvlakte Barendrechts Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1JKYU5JanFpRHYwNkhWZ0ZNM1FDd21LcVE4dVJuczdTRTI2VzJTSHlQeU0xZTNiZVdlNW9EdXRtbi1KX2FoZERjcVc3OFVsX0hFUmF0OUZxNVEzR0JCZmRFbnRuU0tILVFKRXJWZkNtOVpXSUprV3poaFRJaDRpSHB2RWJLV0taU1VKc1lWaVBBd0I4dEk5R0I5OElCZzNmR1pv?oc=5"
+ },
+ {
+  "id": "77eaccee86",
+  "datum": "2023-04-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Studenten Albeda College nemen deel aan preventieve actie ondermijning in het buitengebied",
+  "bron": "Gouwe IJssel Nieuws",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "buitengebied",
+   "ondermijning"
+  ],
+  "samenvatting": "Studenten Albeda College nemen deel aan preventieve actie ondermijning in het buitengebied Gouwe IJssel Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaWk3TG1BT2g4TGk1TE9aTjZzOExFdHRtbloyR3ZfSGswTWNOY2RJMVczd0lsZE4yMGtQVVJGaTQtV2s2c1pLOWIxWUZic1NKTnM0NUpkel84MFJVSEtLQkY3cC1JMnpYS2ZQT1R2Qk1mTFhpY2JvWWM0T01zbl9uSFc4Z3duV2VadEJZTDZzTmp6dEU0am56SmR5ZnBfN3duMEVGWEV5cWhJbEhRSmh3ZWpHd2k2ZTZ1cFZEejktcFMwNVNONjBKUlhkNA?oc=5"
  },
  {
   "id": "6d5dfe1873",
