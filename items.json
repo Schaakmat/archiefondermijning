@@ -19,23 +19,25 @@
   "link": "https://www.oost.nl/nieuws/3697739/112-nieuws-busje-vliegt-uit-bocht-bestuurder-meegenomen-door-politie"
  },
  {
-  "id": "cbc8dcd7b9",
+  "id": "962db8caef",
   "datum": "2026-09-21",
   "tijd": "03:28",
   "nieuw": true,
-  "titel": "Brand verwoest opnieuw pick-up bij Amerikaanse garage in Ravenstein",
+  "titel": "Tweede brand bij Amerikaanse garage in Ravenstein, opnieuw auto's getroffen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages"
+   "Autobranche & garages",
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
+   "beveiliging",
    "garage"
   ],
   "samenvatting": "Een grote Amerikaanse pick-up is zondagavond door brand verwoest op de parkeerplaats van een garage aan de Mgr. Zwijsenstraat in Ravenstein. Die garage is gespecialiseerd in Amerikaanse voertuigen. De vlammen sloegen over naar nog een tweede auto. Begin augustus was daar ook al brand. Het vuur werd rond tien uur 's avo",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027951/brand-verwoest-opnieuw-pick-up-bij-amerikaanse-garage-in-ravenstein"
+  "link": "https://www.omroepbrabant.nl/nieuws/6027951/tweede-brand-bij-amerikaanse-garage-in-ravenstein-opnieuw-autos-getroffen"
  },
  {
   "id": "9632c14e20",
@@ -279,11 +281,11 @@
   "link": "https://www.omroepzeeland.nl/nieuws/18796489/zeeuwse-tussenpersoon-kasteelmoord-vrijgelaten"
  },
  {
-  "id": "54a9d2152a",
+  "id": "b2097fcbb3",
   "datum": "2026-09-20",
   "tijd": "07:41",
   "nieuw": false,
-  "titel": "Jubileumzege voor Jeffrey Herlings in Australië, sluit seizoen in stijl af",
+  "titel": "Wereldkampioen Herlings sluit seizoen in stijl af met zeges in Australië",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -297,7 +299,7 @@
    "stal"
   ],
   "samenvatting": "Motocrosser Jeffrey Herlings uit Oploo heeft het MXGP-seizoen in stijl afgesloten. Hij kwam tijdens de afsluiteinde grand prix in het Australische Darwin in beide manches op zijn Honda als eerste over de finish. Voor Herlings was zijn zege in Australië de achtste GP-zege op rij, zijn dertiende van dit seizoen en de 125",
-  "link": "https://www.omroepbrabant.nl/nieuws/6027918/jubileumzege-voor-jeffrey-herlings-in-australie-sluit-seizoen-in-stijl-af"
+  "link": "https://www.omroepbrabant.nl/nieuws/6027918/wereldkampioen-herlings-sluit-seizoen-in-stijl-af-met-zeges-in-australie"
  },
  {
   "id": "9eef567d77",
@@ -1062,6 +1064,25 @@
   ],
   "samenvatting": "De Opsporingsdienst van de Nederlandse Arbeidsinspectie heeft vandaag twee eigenaren van een aantal Indiase restaurants aangehouden op verdenking van mensensmokkel en uitbuiting. Europol, dat bij de actie betrokken was, spreekt van ruim zeventig slachtoffers. De eigenaren hebben acht restaurants die onderdeel zijn van ",
   "link": "https://nos.nl/l/2631581"
+ },
+ {
+  "id": "8f427a3beb",
+  "datum": "2026-09-18",
+  "tijd": "21:34",
+  "nieuw": false,
+  "titel": "Aanhoudingen voor uitbuiting, mensensmokkel bij restaurant in Den Haag",
+  "bron": "Dagblad070",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Aanhoudingen voor uitbuiting, mensensmokkel bij restaurant in Den Haag Dagblad070",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWZKNEFjZll2TzlTTlA3LWJ6SmJHYzQ4RmhWbHBCTTBRM2t5X3lMWm1BbXFtTlM4elRNY0tHcG1SZ2RtTVBpQXl2cTNDY21PMGhMSm04aC1HUzl5dWtHRld0Tk5UTVRpWHVCSjZNekY1Y2xoZUg5aENrMGhCbEZQYlY1RFNPSWNRZWhUV3d3ZTNhX0stNERtM3dVZEJmdmJxaHBGdlBoM1VLN2JYUFR1RGxWSnc?oc=5"
  },
  {
   "id": "1dbb59a552",

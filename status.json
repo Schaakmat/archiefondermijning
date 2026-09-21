@@ -1,12 +1,12 @@
 {
- "run": "05:39",
+ "run": "06:49",
  "datum": "2026-09-21",
  "nieuw": 11,
- "totaal": 3405,
+ "totaal": 3406,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1055,
-  "geen dossier": 495
+  "niet-nederlands": 1063,
+  "geen dossier": 451
  },
  "bronnen": [
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 199,
-   "status": "bij",
+   "items": 200,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -537,8 +537,8 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 82,
-   "status": "1 nieuw",
-   "ok": true
+   "status": "fout 404",
+   "ok": false
   },
   {
    "naam": "Omroep Flevoland",
