@@ -1,5 +1,51 @@
 [
  {
+  "id": "2f89ecfc92",
+  "datum": "2026-09-22",
+  "tijd": "17:40",
+  "nieuw": true,
+  "titel": "Podcast De Dag: Als je opgroeit in de noodopvang",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "geweld",
+   "jeugd"
+  ],
+  "samenvatting": "Hiyabel en Nihal zijn ervaringsdeskundigen: ze wonen al jaren in noodopvanglocaties op verschillende plekken in het land. En soms is dat niet fijn. Egbert Ulijn van het Jeugdjournaal zocht ze op en vertelt in de podcast hoe deze twee meiden er het beste van maken en niet willen klagen, maar ook hoe zij - als hij wat do",
+  "link": "https://nos.nl/l/2632063"
+ },
+ {
+  "id": "9e0ea0325f",
+  "datum": "2026-09-22",
+  "tijd": "17:13",
+  "nieuw": true,
+  "titel": "AIVD en NCTV waarschuwen voor normalisering extreemrechtse denkbeelden",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "geweld",
+   "grond",
+   "leider",
+   "nctv"
+  ],
+  "samenvatting": "Rechts-extremisten zijn online, via de politiek, de media en bij demonstraties bezig hun ideeën te normaliseren. Daarbij doen zij aan \"façadepolitiek\": door een zachtere versie van die denkbeelden te presenteren, worden die voor grotere groepen acceptabeler gemaakt. Dat schrijven de inlichtingendienst AIVD en de coördi",
+  "link": "https://nos.nl/l/2632060"
+ },
+ {
   "id": "553a3ee7b0",
   "datum": "2026-09-22",
   "tijd": "16:28",
@@ -29,15 +75,62 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Trustkantoren & rechtspersonen"
   ],
   "tags": [
-   "bestuurder",
-   "stal"
+   "bestuurder"
   ],
   "samenvatting": "Opnieuw is er een ernstig ongeluk gebeurd op de beruchte kruising van de Karel Doormanweg met de Zuidwesterringweg bij Tollebeek. Dinsdagmiddag ging het rond 14.40 uur mis toen de bestuurders van een bestelbus en een taxibus tegen elkaar botsten. Volgens de politie zijn er in ieder geval twee mensen gewond geraakt. Ond",
   "link": "https://www.omroepflevoland.nl/nieuws/524747/bestelbus-en-taxibus-met-kinderen-erin-botsen-op-beruchte-kruising-bij-tollebeek-meerdere-gewonden"
+ },
+ {
+  "id": "f50c8cc584",
+  "datum": "2026-09-22",
+  "tijd": "15:15",
+  "nieuw": true,
+  "titel": "Nep of niet, Lowie mag zijn zelfgebouwde flitspaal voorlopig laten staan",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf",
+   "stal"
+  ],
+  "samenvatting": "Lowie uit Heense Molen mag zijn zelfgebouwde flitskast voorlopig laten staan. Zowel de provincie als de politie zien op dit moment geen reden om in te grijpen. Lowie plaatste de ‘flitspaal’ in zijn achtertuin omdat hij naar eigen zeggen helemaal klaar is met het hardrijdende verkeer langs zijn dijkhuis. Volgens hem rij",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028217/nep-of-niet-lowie-mag-zijn-zelfgebouwde-flitspaal-voorlopig-laten-staan"
+ },
+ {
+  "id": "bd7fe2e9ca",
+  "datum": "2026-09-22",
+  "tijd": "14:58",
+  "nieuw": true,
+  "titel": "Overlast door jongeren in Uden verplaatst naar park: gemeente grijpt in",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Horeca, winkels & dienstverlening",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval",
+   "Ondernemers & weerbaarheid",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "grond",
+   "horeca",
+   "jongeren",
+   "ondernemers",
+   "vastgoed"
+  ],
+  "samenvatting": "De gemeente Maashorst neemt maatregelen om het Bevrijdingspark in Uden veiliger te maken. Zo komt er onder andere tijdelijk cameratoezicht. Dit doet de gemeente, omdat er sinds juni bijna 140 meldingen bij de politie en de gemeente zijn binnengekomen van mensen die zich onveilig voelen in het park. \"Het vandalisme lijk",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028218/overlast-door-jongeren-in-uden-verplaatst-naar-park-gemeente-grijpt-in"
  },
  {
   "id": "866e2655fe",
@@ -57,6 +150,49 @@
   ],
   "samenvatting": "Staatsbosbeheer neemt meer tijd voor een definitief besluit over de toekomst van zijn zeven buitencentra. De overheidsorganisatie kondigde in juli aan de bezoekerscentra per 1 januari 2027 te willen sluiten, maar heeft nu toch besloten ze langer open te houden. Onder meer het centrum in Lelystad bij de Oostvaardersplas",
   "link": "https://www.omroepflevoland.nl/nieuws/524742/sluiting-bezoekerscentra-staatsbosbeheer-uitgesteld-ook-gebouw-lelystad-blijft-voorlopig-open"
+ },
+ {
+  "id": "484496610b",
+  "datum": "2026-09-22",
+  "tijd": "14:36",
+  "nieuw": true,
+  "titel": "Cocaïnepers met bendelogo gevonden in Amsterdamse huurwoning, rechter staat huisuitzetting toe - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "bende",
+   "cocaïne",
+   "huurwoning",
+   "woning"
+  ],
+  "samenvatting": "Cocaïnepers met bendelogo gevonden in Amsterdamse huurwoning, rechter staat huisuitzetting toe Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2o5QmNMQ1NzVERiRWVLanU5bEVXUTVTazVDcW5xXzhHekExaXpIX3BrTTZ2Y25jNnFWOHBkdWllSkQ1dkdpc205WHczM2dtWHhCaE94UVh2MHdDdTNYb2w1QkZFaE5rM01WY1FHZHRUVVdkS0dyRWN2ZkZNMVNzM2t3V3JBSmoybUZyam5yeWFGWWRIa0JlNzVqQ0FSYmcycWUzZkV5Snd0RWJFSWltVGc2SUxlblJZQkx4NVFVUjMzVkp4RHcwUnZWLXRia1ZG?oc=5"
+ },
+ {
+  "id": "b9b02fcd82",
+  "datum": "2026-09-22",
+  "tijd": "14:17",
+  "nieuw": true,
+  "titel": "Neder-Betuwe bereidt zich voor op nieuwe anti-azc-demonstratie",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk"
+  ],
+  "samenvatting": "Een anti-azc-demonstratie bij het gemeentehuis in Opheusden liep vorige week donderdag volledig uit de hand. Er werd zwaar vuurwerk afgestoken, ruiten van het gemeentehuis werden vernield en bij de ingang van de raadzaal werd een rookbom afgestoken. Veertien demonstranten werden opgepakt na charges van de Mobiele Eenhe",
+  "link": "https://www.gld.nl/nieuws/8527123/neder-betuwe-bereidt-zich-voor-op-nieuwe-anti-azc-demonstratie"
  },
  {
   "id": "695c30d4e3",
@@ -346,7 +482,7 @@
   "id": "01548a2399",
   "datum": "2026-09-22",
   "tijd": "11:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Brand bij rechtbank Zwolle tijdens hoger beroep oud-Jumbo-topman Frits van Eerd",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -365,7 +501,7 @@
   "id": "2f1f2d9ea6",
   "datum": "2026-09-22",
   "tijd": "11:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Frits van Eerd wil naam zuiveren: 'Dossier onvolledig en bewijs klopt niet'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -384,7 +520,7 @@
   "id": "0fbfbd38cd",
   "datum": "2026-09-22",
   "tijd": "11:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Openbaar Ministerie eist 7 jaar cel voor drugslab en explosie Rotterdam-Charlois",
   "bron": "de Volkskrant",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -405,7 +541,7 @@
   "id": "de9797eb4c",
   "datum": "2026-09-22",
   "tijd": "11:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist 7 jaar cel tegen Jalal O. vanwege dodelijke explosie in drugslab Schammenkamp",
   "bron": "de Volkskrant",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -426,7 +562,7 @@
   "id": "1ab63819c2",
   "datum": "2026-09-22",
   "tijd": "10:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "7 jaar cel geëist tegen Jalal O. voor fatale explosie Schammenkamp: 'Drugslab in woonwijk is levensgevaarlijke keuze'",
   "bron": "Rijnmond",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -447,7 +583,7 @@
   "id": "a83c1547ef",
   "datum": "2026-09-22",
   "tijd": "10:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "7 jaar cel geëist tegen Jalal O. voor fatale explosie Schammenkamp: 'Drugslab in woonwijk is levensgevaarlijke keuze'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -522,6 +658,27 @@
   ],
   "samenvatting": "De politie is dinsdagmiddag met meerdere agenten met kogelwerende vesten aanwezig in de Deurningerstraat en Raiffeisenstraat in Enschede. Aanleiding was een melding van een conflict waarbij een vuurwapen zou zijn gezien. Een wapen is uiteindelijk niet gevonden.",
   "link": "https://www.oost.nl/nieuws/3698497/dsi-valt-pand-in-enschede-binnen-na-melding-over-vuurwapen-maar-vindt-niets"
+ },
+ {
+  "id": "492ded44f8",
+  "datum": "2026-09-22",
+  "tijd": "10:24",
+  "nieuw": false,
+  "titel": "Politie valt pand in Enschede binnen na melding over vuurwapen, maar vindt niets",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "pand",
+   "wapen"
+  ],
+  "samenvatting": "De politie is dinsdagmiddag met meerdere agenten met kogelwerende vesten aanwezig in de Deurningerstraat en Raiffeisenstraat in Enschede. Aanleiding was een melding van een conflict waarbij een vuurwapen zou zijn gezien. Een wapen is uiteindelijk niet gevonden.",
+  "link": "https://www.oost.nl/nieuws/3698497/politie-valt-pand-in-enschede-binnen-na-melding-over-vuurwapen-maar-vindt-niets"
  },
  {
   "id": "ea0d16f46e",
@@ -1395,6 +1552,25 @@
   "link": "https://www.gld.nl/nieuws/8526931/fietser-overleden-na-ongeval-fiets-twee-kilometer-verderop-gevonden"
  },
  {
+  "id": "1283272f60",
+  "datum": "2026-09-21",
+  "tijd": "14:02",
+  "nieuw": false,
+  "titel": "Fietser overleden na ongeval, fiets 2 kilometer verderop gevonden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "De fietser die maandagmiddag ernstig gewond raakte bij een botsing met een vrachtwagen in Huissen, is aan zijn of haar verwondingen overleden. Dat meldt de politie.",
+  "link": "https://www.gld.nl/nieuws/8526931/fietser-overleden-na-ongeval-fiets-2-kilometer-verderop-gevonden"
+ },
+ {
   "id": "bf05aed35b",
   "datum": "2026-09-21",
   "tijd": "14:01",
@@ -1634,29 +1810,6 @@
   ],
   "samenvatting": "Horecagroothandel HANOS wil Schmidt Zeevis in Rotterdam overnemen. Beide eigenaren hebben aan de toezichthouder, de Autoriteit Consument en Markt (ACM), toestemming voor de overname gevraagd. Binnen een paar weken neemt de ACM een besluit.",
   "link": "https://www.rijnmond.nl/nieuws/2256689/schmidt-zeevis-komt-na-overname-voor-het-eerst-in-niet-rotterdamse-handen"
- },
- {
-  "id": "96a856fbb7",
-  "datum": "2026-09-21",
-  "tijd": "11:05",
-  "nieuw": false,
-  "titel": "Vader Jairon (14) schuldig aan moord, 20 jaar cel geëist",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Drugsproductie & labs",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "ketamine",
-   "moord",
-   "school"
-  ],
-  "samenvatting": "Twintig jaar cel. Dat eist de aanklager tegen de vader van Jairon (14) uit Tilburg. Rennlhij M. (47) werd vrijdag door het hof van assisen in Antwerpen schuldig bevonden aan moord, omdat hij zijn ernstig zieke zoon geen medische hulp gaf. Vier andere bewoners van het huis zijn ook schuldig bevonden, tegen hen is drie j",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028035/vader-jairon-14-schuldig-aan-moord-20-jaar-cel-geeist"
  },
  {
   "id": "337627ee30",
