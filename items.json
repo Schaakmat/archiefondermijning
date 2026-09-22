@@ -11,19 +11,57 @@
   "regio": "Landelijk",
   "dossiers": [
    "Autobranche & garages",
-   "Cocaine, haven & logistiek",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "garage"
+  ],
+  "samenvatting": "Het Openbaar Ministerie heeft zeven jaar cel geëist tegen hoofdverdachte Jalal O. voor de verwoestende explosie in januari 2024 in een garagebox aan de Schammenkamp in Rotterdam. Daarbij kwamen drie mensen om het leven en werden huizen vernietigd. O. was huurder van de garagebox. Het OM verdenkt de 37-jarige Rotterdamm",
+  "link": "https://nos.nl/l/2632020"
+ },
+ {
+  "id": "2f1f2d9ea6",
+  "datum": "2026-09-22",
+  "tijd": "11:23",
+  "nieuw": true,
+  "titel": "Frits van Eerd wil naam zuiveren: 'Dossier onvolledig en bewijs klopt niet'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "contant geld",
+   "omkoping",
+   "witwassen"
+  ],
+  "samenvatting": "Frits van Eerd is dinsdag met gestrekt been begonnen aan het hoger beroep in zijn omkopings- en witwaszaak. In het gerechtsgebouw in Zwolle veegden zijn advocaten de vloer aan met het vonnis van de rechtbank dat de oud-Jumbo-topman vorig jaar twee jaar cel opleverde. Eerste conclusies: het vonnis is ondeugdelijk, het d",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028198/frits-van-eerd-wil-naam-zuiveren-dossier-onvolledig-en-bewijs-klopt-niet"
+ },
+ {
+  "id": "0fbfbd38cd",
+  "datum": "2026-09-22",
+  "tijd": "11:19",
+  "nieuw": true,
+  "titel": "Openbaar Ministerie eist 7 jaar cel voor drugslab en explosie Rotterdam-Charlois",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
    "Drugsproductie & labs",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "cocaïne",
    "drugslab",
-   "explosie",
-   "garage",
-   "vaten"
+   "explosie"
   ],
-  "samenvatting": "Het Openbaar Ministerie heeft zeven jaar cel geëist tegen hoofdverdachte Jalal O. voor de verwoestende explosie in januari 2024 in een garagebox aan de Schammenkamp in Rotterdam. Daarbij kwamen drie mensen om het leven en werden huizen vernietigd. O. was huurder van de garagebox. Het OM verdenkt de 37-jarige Rotterdamm",
-  "link": "https://nos.nl/l/2632020"
+  "samenvatting": "Openbaar Ministerie eist 7 jaar cel voor drugslab en explosie Rotterdam-Charlois de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb200S25HYzV1a1poaVRFbm5laG53ZTZSMTRoUUVzQnRfZG51Tl9QdVF4UHlfNzNnQlFobzcyQmxpY2JKTlc3NGFCcXdjWmZlSEo3cFdfaFl6ajZiTktMa0k3czZSWkpkREptaGVDblhNVXU3dFVvNUllR2Y3OFJHdENTdV93UFd3WU5jTk9MaTlIb2ZTVGMxMnhYVmxWWVdoWlZ1RGV0clhjZFg0aXJkRVV6ekRQUW5JMkdFNmtuSkZhU0UzUlE?oc=5"
  },
  {
   "id": "a83c1547ef",
@@ -45,6 +83,25 @@
   ],
   "samenvatting": "Als het aan het Openbaar Ministerie ligt gaat Jalal O. zeven jaar de cel in voor de explosie aan de Schammenkamp in januari 2024. Door de ontploffing kwamen drie mannen om het leven.",
   "link": "https://www.rijnmond.nl/nieuws/2257169/7-jaar-cel-geeist-tegen-jalal-o-voor-fatale-explosie-schammenkamp-drugslab-in-woonwijk-is-levensgevaarlijke-keuze"
+ },
+ {
+  "id": "dbb0e3243a",
+  "datum": "2026-09-22",
+  "tijd": "10:24",
+  "nieuw": true,
+  "titel": "Zwaarbewapende agenten in Enschede vanwege conflict met vuurwapen",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De politie is met meerdere agenten met kogelwerende vesten aanwezig in de Deurningerstraat en Raiffeisenstraat in Enschede. Daar is een persoon met een vuurwapen gespot.",
+  "link": "https://www.oost.nl/nieuws/3698497/zwaarbewapende-agenten-in-enschede-vanwege-conflict-met-vuurwapen"
  },
  {
   "id": "ea0d16f46e",
@@ -108,25 +165,25 @@
   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbU5hSlI4NXRobDJPOXNuZXd1ajhFVm1oM0V4ZTlkd1pIalowM2g2dVdfamhLMmVyTlJjREVPWEoyZ2N4ZWdDWEtoS1RnVTdFQmlpYW1jYWtBeDgzbVlGd0pMNzRNLXBTWDBoR1Y2Q0h1V1JtRm5Xb01LeDBqTFhRUDc2NnMyRHlBMTdTbDVHcXBtNEpBVWIzaEstMDlFbG5RazQ5TUJwclRHNlRyUEluWUQ2TFpZbjh2QW9nQkJRMjVITWdoU1hSdkFFWkM5WE5jT3prLV9TWGV5dF9pcHc?oc=5"
  },
  {
-  "id": "611f013cdb",
+  "id": "de3206e78d",
   "datum": "2026-09-22",
-  "tijd": "09:32",
+  "tijd": "09:44",
   "nieuw": true,
-  "titel": "Gaslek in centrum Eindhoven: gebied afgezet bij station en TU/e",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
+  "titel": "OM eist 7 jaar cel voor drugslab en explosie Schammenkamp",
+  "bron": "Welingelichte Kringen",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
   "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
+  "regio": "Landelijk",
   "dossiers": [
-   "Trustkantoren & rechtspersonen",
-   "Vastgoed & huisvesting"
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "kamer van koophandel",
-   "pand"
+   "drugslab",
+   "explosie"
   ],
-  "samenvatting": "In het centrum van Eindhoven is dinsdagochtend een flink gebied afgezet vanwege een lekkende gasleiding. De afgezette zone reikt van het Centraal Station tot aan de TU/e. Wanneer de problemen zijn verholpen kan netbeheerder Enexis rond twaalf uur nog niet inschatten. Volgens Enexis is de situatie onder controle. Het le",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028184/gaslek-in-centrum-eindhoven-gebied-afgezet-bij-station-en-tue"
+  "samenvatting": "OM eist 7 jaar cel voor drugslab en explosie Schammenkamp Welingelichte Kringen",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc2doQ2JjTlhFUERtQlVBZEVvamlpc2dvZDlUOTZUTThWelMyZzMzOEJ5QmlqTHBGU1NfYlNLVDV4dGZKTE93bUEtY1hTWnVkSEF3OE9CTFUzaXB0S1l5Y2hDRjNDblRDZTJfeXRBVExTbHJuZUwwXzF2S3IyWnlWVUE4MUoyLVFuNUluTzluRk05T2V1RDAtaV91X3lfaU41a0R0Y2lQZHY?oc=5"
  },
  {
   "id": "96b2fff0fd",
@@ -335,7 +392,7 @@
   "id": "39e9dc516b",
   "datum": "2026-09-22",
   "tijd": "04:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flinke toename diefstal specialistisch brandweergereedschap | Opsporing Verzocht zoekt zwartrijder die conducteur mishandelde",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -354,7 +411,7 @@
   "id": "766f9b801b",
   "datum": "2026-09-22",
   "tijd": "04:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Juwelier leeft nog elke dag met gevolgen van 'domme keuze' van Zakaria",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -373,7 +430,7 @@
   "id": "7462b1990c",
   "datum": "2026-09-22",
   "tijd": "00:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grote brand bij afvalverwerker in Gelderse Dinxperlo onder controle",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -392,7 +449,7 @@
   "id": "ede825ee5f",
   "datum": "2026-09-21",
   "tijd": "22:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aantal inbraken bij brandweerkazernes neemt snel toe, dit jaar al 85 keer raak",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -415,7 +472,7 @@
   "id": "1a9d118dc5",
   "datum": "2026-09-21",
   "tijd": "21:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Lelystedeling (18) en vier andere verdachten gepakt door Rotterdamse politie na vuurwapenmelding",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
