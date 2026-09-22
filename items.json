@@ -1,5 +1,47 @@
 [
  {
+  "id": "1506cce529",
+  "datum": "2026-09-22",
+  "tijd": "19:54",
+  "nieuw": true,
+  "titel": "Emmeloord - Gemeente Noordoostpolder wil zelf snelbouwwoningen voor Oekraïners laten bouwen",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "woning"
+  ],
+  "samenvatting": "In het nieuwste deel van de Emmeloordse wijk Emmelhage moeten ruim dertig snelbouwwoningen komen voor Oekraïense ontheemden en sociale huurders. Dat blijkt uit een plan van de gemeente Noordoostpolder, die de huizen op eigen kosten wil neerzetten. Voor de bouw is 8,2 miljoen euro nodig. De gemeenteraad moet nog wel akk",
+  "link": "https://www.omroepflevoland.nl/nieuws/524734/gemeente-noordoostpolder-wil-zelf-snelbouwwoningen-voor-oekrainers-laten-bouwen"
+ },
+ {
+  "id": "79c3acb438",
+  "datum": "2026-09-22",
+  "tijd": "19:47",
+  "nieuw": true,
+  "titel": "22/9 in Nieuwsuur: Trump over hoge dieselprijzen • Uitvaart Alfredo Goeloe • Hybride oorlogsvoering",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "erf",
+   "grond"
+  ],
+  "samenvatting": "Trump over hoge dieselprijzen De Amerikaanse president Donald Trump zei gisteren op zijn kanaal Truth Social dat Rusland de controle is verloren over zijn eigen diesel- en olie-industrie door Oekraïense aanvallen. Hij roept op om deze \"belachelijke oorlog\" te stoppen. Vanavond spraken Trump en de Oekraïense president V",
+  "link": "https://nos.nl/l/2632091"
+ },
+ {
   "id": "3fa303f4db",
   "datum": "2026-09-22",
   "tijd": "18:45",
@@ -10,22 +52,32 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Trustkantoren & rechtspersonen",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Vastgoed & huisvesting"
   ],
   "tags": [
-   "bestuurder",
-   "bv",
-   "explosie",
-   "jongeren",
-   "organisatie",
    "pand"
   ],
   "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Bange buurbewoners over drugspand Punter Lelystad; 'Daar stopten vaak auto's voor de deur' • Bestelbus en taxibus met kinderen erin botsen op beruchte kruis",
   "link": "https://www.omroepflevoland.nl/nieuws/524706/nieuwsoverzicht-2209-or-angst-in-de-wijk-over-drugspand-*-opnieuw-ernstig-ongeluk-op-berucht-kruispunt"
+ },
+ {
+  "id": "a140dceba6",
+  "datum": "2026-09-22",
+  "tijd": "18:30",
+  "nieuw": true,
+  "titel": "Bezorgde moeder sloeg alarm: justitie eist drie jaar cel tegen Ghayid A.",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "Als het aan justitie ligt, gaat de 26-jarige Ghayid A. uit Veldhoven drie jaar de cel in. Volgens het Openbaar Ministerie lapte hij het lachgasverbod aan zijn laars en zette hij zijn handel onverminderd voort. De officier van justitie wond er dinsdag in de rechtbank in Den Bosch geen doekjes om: \"Hij is een grote spele",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028243/bezorgde-moeder-sloeg-alarm-justitie-eist-drie-jaar-cel-tegen-ghayid-a"
  },
  {
   "id": "e0e273747d",
@@ -45,6 +97,72 @@
   ],
   "samenvatting": "De rechter heeft opnieuw een streep gezet door het terugsturen van asielzoekers naar Italië. Na een vergelijkbare uitspraak van de rechtbank in Den Haag begin deze maand , oordeelt nu ook de vreemdelingenkamer in Utrecht hetzelfde over drie afzonderlijke zaken. Volgens de rechtbank riskeren asielzoekers in Italië nog a",
   "link": "https://nos.nl/l/2632074"
+ },
+ {
+  "id": "14beea49e5",
+  "datum": "2026-09-22",
+  "tijd": "18:10",
+  "nieuw": true,
+  "titel": "Utrecht wil dat Rijk leiding neemt bij aanpak zorgfraude",
+  "bron": "RTV Utrecht",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Utrecht wil dat Rijk leiding neemt bij aanpak zorgfraude RTV Utrecht",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHI4ZjRZc05wRHpEbW5ackJHY1Z1V1o4SGVCMDBFOGdvcmYxUHBENTRrYVpYNmZpMzBCOUdkb24xbWtzT1g5azV2dDFUS1dkMWMtOEdEakNRSlU5TjY3X0VzNzFNN05zSThiYkxGVW16T3NRV1I2MjRnWWVVTThjT3NqMWpaelVEX18xMUZoamgwQ241V1BnM2IyajQxdw?oc=5"
+ },
+ {
+  "id": "5375aaf6ab",
+  "datum": "2026-09-22",
+  "tijd": "18:06",
+  "nieuw": true,
+  "titel": "BBB-leider Morsink keert na de verkiezingen niet terug in de Provinciale Staten",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "leider"
+  ],
+  "samenvatting": "Tjalle Morsink houdt het voor gezien in de provinciale politiek. Na de Provinciale Statenverkiezingen van maart volgend jaar keert de huidige fractievoorzitter van de BoerBurgerBeweging (BBB) niet terug. Waarom Morsink niet doorgaat, wil hij niet zeggen. \"Dat houd ik liever voor mijzelf.\"",
+  "link": "https://www.oost.nl/nieuws/3698196/bbb-leider-morsink-keert-na-de-verkiezingen-niet-terug-in-de-provinciale-staten"
+ },
+ {
+  "id": "cf8efacd0d",
+  "datum": "2026-09-22",
+  "tijd": "18:00",
+  "nieuw": true,
+  "titel": "Slotstuk in langstlopend proces tegen Klaas Otto: 5,5 jaar cel geëist",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "autoverhuur",
+   "bedreiging",
+   "geweld",
+   "granaat",
+   "handgranaat",
+   "motorclub"
+  ],
+  "samenvatting": "Voor het gerechtshof in Den Haag is dinsdag 5,5 jaar cel geëist tegen Klaas Otto (58) uit Bergen op Zoom, voor witwassen en gewelddadige afpersing. Het was het slotstuk van het langst lopende proces tegen hem. Lichtpuntje voor Otto is dat justitie een deel van de aanklacht liet vallen, maar de aanklagers vroegen nog we",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028110/slotstuk-in-langstlopend-proces-tegen-klaas-otto-55-jaar-cel-geeist"
  },
  {
   "id": "16578aad83",
@@ -72,6 +190,25 @@
   "link": "https://nos.nl/l/2632064"
  },
  {
+  "id": "45f66dcec5",
+  "datum": "2026-09-22",
+  "tijd": "17:41",
+  "nieuw": true,
+  "titel": "Jong kind zwaargewond bij ongeluk met auto op bedrijventerrein in Veen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "bedrijventerrein"
+  ],
+  "samenvatting": "Een jong kind is dinsdagmiddag zwaargewond geraakt bij een ongeluk bij een bedrijf aan de Groeneweg in Veen. Het kind werd op het bedrijventerrein aangereden door een auto. Meerdere ambulances, de politie en een traumahelikopter kwamen naar de plek van het ongeluk. Het kind is behandeld door ambulancemedewerkers en het",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028247/jong-kind-zwaargewond-bij-ongeluk-met-auto-op-bedrijventerrein-in-veen"
+ },
+ {
   "id": "2f89ecfc92",
   "datum": "2026-09-22",
   "tijd": "17:40",
@@ -93,6 +230,25 @@
   "link": "https://nos.nl/l/2632063"
  },
  {
+  "id": "c18ea07e64",
+  "datum": "2026-09-22",
+  "tijd": "17:33",
+  "nieuw": true,
+  "titel": "Waarom 'maar' 7 jaar cel geëist tegen verdachte explosie Schammenkamp met drie doden?",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "De eis tegen verdachte Jalal O. van de explosie aan de Schammenkamp in Rotterdam-Zuidwijk werd vandaag uitgesproken: 7 jaar celstraf. Drie mannen kwamen om het leven en een enorme ravage ontstond in de straat. De grote vraag: is die eis niet te mild? Rijnmond-rechtbankverslaggever Paul Verspeek legt uit waar de eis op ",
+  "link": "https://www.rijnmond.nl/nieuws/2257431/waarom-maar-7-jaar-cel-geeist-tegen-verdachte-explosie-schammenkamp-met-drie-doden"
+ },
+ {
   "id": "9e0ea0325f",
   "datum": "2026-09-22",
   "tijd": "17:13",
@@ -110,6 +266,25 @@
   ],
   "samenvatting": "Rechts-extremisten zijn online, via de politiek, de media en bij demonstraties bezig hun ideeën te normaliseren. Daarbij doen zij aan \"façadepolitiek\": door een zachtere versie van die denkbeelden te presenteren, worden die voor grotere groepen acceptabeler gemaakt. Dat schrijven de inlichtingendienst AIVD en de coördi",
   "link": "https://nos.nl/l/2632060"
+ },
+ {
+  "id": "3c831027cb",
+  "datum": "2026-09-22",
+  "tijd": "17:07",
+  "nieuw": true,
+  "titel": "Verhuurster van drugslab in Bree blijft in de cel",
+  "bron": "vrt.be",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Verhuurster van drugslab in Bree blijft in de cel vrt.be",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRWRMbEktSVlWUHk5cFduelRiakw0VlJhdlNqNXRwV2taOVdYS0ZnRnJpY2szdm0xN3ZCeWwxd1o5eUhVdm9zd2NNbU9qTDlLNmtBYWl1M1hTSHhWOURhbDhKeVB1MTRwY1R5V2tJOUwwVzVfa2RMUk0zNnoyRlJTVXVkWURocU5wRlMyd2ZVZzRFZGQy?oc=5"
  },
  {
   "id": "7f53eaebbb",
@@ -310,10 +485,51 @@
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONEJJNU5UMk9NMDAwZmVucUt2dUJMbW9HYmFsbnE1NEozV0kzZ2JqNHZ3VWxGWDc0OGZHVlU2ZWFfNGZaNEMxbEREN0FDWk54c1IySGxuVVNuV0xQcmFlcFpKMXJlY2x4aUtGZUZXeDFCbkVxRHRrNnRMeXl0V2VZek9XU3dnWENYRHN3dXFHc0Iyb2RpQkZ2RVlXTmxLRjEyNVo1MWppVHZiTHh1ZUVTYUI1bF9BeFBTbWVqNi0xX3ZpMWtK?oc=5"
  },
  {
+  "id": "3275c8da5b",
+  "datum": "2026-09-22",
+  "tijd": "15:28",
+  "nieuw": true,
+  "titel": "OM eist 12 jaar cel tegen Amsterdamse ambtenaar voor corruptie",
+  "bron": "noordhollandsdagblad.nl",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie"
+  ],
+  "samenvatting": "OM eist 12 jaar cel tegen Amsterdamse ambtenaar voor corruptie noordhollandsdagblad.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYm0tYmt2emFod0JVUTdYWEdZNmMyb3RKT3FlYU9CV3VQc3RNOHNVYzFvcExmQnRHZEdzSnk4aTRicHJ5d1AtQURpWV92a0lmQ1ZHbzNTUUMtMkRISFhob1NyaWlpZHBOUzhVUkthclUxYkpaN1NLdndoUXJSeS1UTEZQTlBoWVdhbk5SNUY3VnBLLTlVNk93V3daMXBacVRjOUtULVRpT3lYcmtNZXQ0aExsUDRMaHEzV3UzbW5pcXk0QQ?oc=5"
+ },
+ {
+  "id": "4e86254b37",
+  "datum": "2026-09-22",
+  "tijd": "15:18",
+  "nieuw": true,
+  "titel": "7 jaar cel geëist voor fatale explosie Schammenkamp: 'Drugslab in woonwijk is levensgevaarlijke keuze'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie"
+  ],
+  "samenvatting": "7 jaar cel geëist voor fatale explosie Schammenkamp: 'Drugslab in woonwijk is levensgevaarlijke keuze' Rijnmond",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNFRZUlVZbXhqMUtMUTFfTWJNMTJTVktPb3ZtcGxTcDNaTkhRdy1xcGtDOXQxd25mODdhYVZzMDI3Q1JiM3IyZ3RWTFJVTTdyQnI0OUZmTjYxcWsyZzRKbnFYNjhFTUJMcXM3N2V5Q3I4WGxrOXdRWHQ3RkFuRGVSbFRzNlhFV2pOR3pfbzJBdEdYd3N5UTB1S2VmdHo5Ym9vbFhwU0xCSXRNMkdHQUs1cnpKSm9ib05OTlVSODA3Mjd3V2pRZDNnTTVaMk9iR25KbjdQYw?oc=5"
+ },
+ {
   "id": "f50c8cc584",
   "datum": "2026-09-22",
   "tijd": "15:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nep of niet, Lowie mag zijn zelfgebouwde flitspaal voorlopig laten staan",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -333,7 +549,7 @@
   "id": "bd7fe2e9ca",
   "datum": "2026-09-22",
   "tijd": "14:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overlast door jongeren in Uden verplaatst naar park: gemeente grijpt in",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -352,7 +568,7 @@
   "id": "866e2655fe",
   "datum": "2026-09-22",
   "tijd": "14:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Sluiting bezoekerscentra Staatsbosbeheer uitgesteld, ook gebouw Lelystad blijft voorlopig open",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -371,7 +587,7 @@
   "id": "484496610b",
   "datum": "2026-09-22",
   "tijd": "14:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Cocaïnepers met bendelogo gevonden in Amsterdamse huurwoning, rechter staat huisuitzetting toe - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -395,7 +611,7 @@
   "id": "b9b02fcd82",
   "datum": "2026-09-22",
   "tijd": "14:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Neder-Betuwe bereidt zich voor op nieuwe anti-azc-demonstratie",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -414,7 +630,7 @@
   "id": "695c30d4e3",
   "datum": "2026-09-22",
   "tijd": "14:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist 12 jaar cel tegen Amsterdamse ambtenaar voor corruptie",
   "bron": "De Gooi- en Eemlander",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -434,7 +650,7 @@
   "id": "31788be981",
   "datum": "2026-09-22",
   "tijd": "14:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rechtbank Zwolle ontruimd vanwege brand in parkeergarage",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -1084,33 +1300,6 @@
   "link": "https://nos.nl/l/2631992"
  },
  {
-  "id": "0507d69c62",
-  "datum": "2026-09-22",
-  "tijd": "08:22",
-  "nieuw": false,
-  "titel": "Kraggenburg - Oudste brug van Noordoostpolder moest broodnodig vernieuwd worden, maar dat kost nog eens 4 tot 8 ton extra",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Drugsproductie & labs",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "asbest",
-   "burgemeester",
-   "gemeenteraad",
-   "grond",
-   "grondstoffen",
-   "stal"
-  ],
-  "samenvatting": "De renovatie van de 85 jaar oude Kadoelerbrug in Noordoostpolder gaat nog eens vier tot acht ton extra kosten. Dat heeft het college van burgemeester en wethouders aan de gemeenteraad laten weten. De vernieuwing zou al zo'n acht miljoen euro worden, maar daar komt nog eens vijf tot tien procent bij. Later dit jaar krij",
-  "link": "https://www.omroepflevoland.nl/nieuws/524656/oudste-brug-van-noordoostpolder-moest-broodnodig-vernieuwd-worden-maar-dat-kost-nog-eens-4-tot-8-ton-extra"
- },
- {
   "id": "cf59e4f7b2",
   "datum": "2026-09-22",
   "tijd": "08:17",
@@ -1322,29 +1511,6 @@
   ],
   "samenvatting": "Op het terrein van een afvalverwerker in het Gelderse Dinxperlo heeft een afvalberg in brand gestaan. De veiligheidsregio meldt dat het vuur inmiddels onder controle is, de brandweer is naar verwachting nog enkele uren bezig met nablussen. De afvalberg bestaat uit hout en snoeiafval. Volgens de brandweer woedde de bran",
   "link": "https://nos.nl/l/2631979"
- },
- {
-  "id": "ede825ee5f",
-  "datum": "2026-09-21",
-  "tijd": "22:34",
-  "nieuw": false,
-  "titel": "Aantal inbraken bij brandweerkazernes neemt snel toe, dit jaar al 85 keer raak",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Geweld, liquidaties & bedreiging",
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "beveiliging",
-   "juwelier",
-   "stal"
-  ],
-  "samenvatting": "In ruim een maand tijd is er 25 keer ingebroken bij brandweerkazernes in heel het land. Dat blijkt uit nieuwe cijfers die de politie vanavond deelde in het televisieprogramma Opsporing Verzocht . Halverwege augustus waren er 60 inbraken gepleegd in brandweerkazernes. Inmiddels staat de teller op 85. Ter vergelijking: i",
-  "link": "https://nos.nl/l/2631969"
  },
  {
   "id": "1a9d118dc5",
@@ -1565,25 +1731,6 @@
   ],
   "samenvatting": "Tegen een 29-jarige man uit Voorthuizen is maandag voor de rechtbank in Arnhem een jaar gevangenisstraf geëist, waarvan 3 maanden voorwaardelijk. De man wordt ervan verdacht met zijn auto een dodelijk verkeersongeval in Kootwijkerbroek op 8 juni 2024 te hebben veroorzaakt. Daarbij kwam een 16-jarige fietser om het leve",
   "link": "https://www.gld.nl/nieuws/8526898/meisje-16-overlijdt-na-aanrijding-bestuurder-rijdt-door-jaar-cel-geeist"
- },
- {
-  "id": "2f9eec4783",
-  "datum": "2026-09-21",
-  "tijd": "15:40",
-  "nieuw": false,
-  "titel": "Man gebroken neus geslagen op Roze Maandag, daders zochten hele tijd ruzie",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "grond"
-  ],
-  "samenvatting": "Roze Maandag liep voor een man afgelopen juli niet goed af in Tilburg. In de uitloop van het feest werd het slachtoffer 's nachts vanuit het niets aangevallen door twee mannen. Een gebroken neus en meerdere kneuzingen waren het resultaat. De politie brengt de daders nu nog onherkenbaar in beeld. In Bureau Brabant toont",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028060/man-gebroken-neus-geslagen-op-roze-maandag-daders-zochten-hele-tijd-ruzie"
  },
  {
   "id": "0193f444b3",
@@ -4657,6 +4804,25 @@
   ],
   "samenvatting": "Politie onderzoekt stoffen bij loods in Lambertschaag: mogelijk drugslab wordt onderzocht OnsWestfriesland",
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcTlRSWQ0NFVQTnZhaDdTV0t4QVB0ZDduajNlWFFySjhjSl9rX2Z4aWF2U1RmY1FnUWZkYTdLNV9EOUJBdl9pY09FeXczMElTd05QNkZrdmdlRUVWSTVZX0ZsS1YzMVZmMUpuNEZVREN1X1hLWWZjVHIzY21keUdBbHVNUmU2dWhJclkyenVDNnNnTmJqWjMtelBsX2hUajJrcHdEX1FSa0pUVWNJY09raGNQRlZXazQ5Y3dLUjNMSHc0X0VrX2o4LVFFLUlDa25fZTRrcFhJQTA?oc=5"
+ },
+ {
+  "id": "56902c60b3",
+  "datum": "2026-09-17",
+  "tijd": "16:02",
+  "nieuw": false,
+  "titel": "Mogelijk drugslab op plek van grote brand Lambertschaag, omgeving ontruimd",
+  "bron": "Streekomroep West-Friesland",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Mogelijk drugslab op plek van grote brand Lambertschaag, omgeving ontruimd Streekomroep West-Friesland",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUUx5VHJwNmhDYTZpVndzYkJOR1NJTDRMN2VucnlVUkJaRFBwNGVPSUJKWUN5b05PaVhCY0ptVWEwY2F6cHZJdlp0Sm9UTERZa3pYc202cUZyWlBieGc4Qlh0ZV80a0NUdDd6TnA4N1FXVjZyT0tDUWVISHB2Qmxyem5OSnhBcVZnNjlTOTNjc2VsWVh4cUJuRThaNVZfV3YtUF9wX05MZFZlekpMT0xybTBmN2dqZw?oc=5"
  },
  {
   "id": "a04422230a",
@@ -43036,6 +43202,28 @@
   ],
   "samenvatting": "Onderaannemer Albert Heijn verdacht van witwassen: vier aanhoudingen in Antwerpen, ook huiszoekingen in Limburg HBVL",
   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYVMtbzJEQWhYQWpfeDdCRmI0Ni04YVJXeHc0YmdXbU9RY0dyVWgtV0hDWlpOcVhQTDBjTk02djlKazJZcWJHSWRvX2l2UGxuVjhScHo4a0YyYjlCcmxwUFFOMDJqY2RlclM2VjhuUS0tSkxBbFhsTHlmNEMwbXVsamI2dUJETWJjdGpyQ0JwdGhWRktVa2ZObDRjTk1EejBHUXoyNjM3UjNHSm5RMjMxbHMwUXBiMDZ3bzk0MXdZZXlyb2Q0cDFQTE9fOGIxOXZLX1h3bl9wM19kRjZnRFZRcUdMRUJPX3NqRDA5ckY2REZQZw?oc=5"
+ },
+ {
+  "id": "3a4a534354",
+  "datum": "2025-12-10",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Namen en adressen liggen op straat door illegale afvaldumping bij papiercontainers: ‘Laten het liggen’",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "afvaldumping",
+   "container"
+  ],
+  "samenvatting": "Namen en adressen liggen op straat door illegale afvaldumping bij papiercontainers: ‘Laten het liggen’ AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNDdhdmFIU0R2bDBuaVFqMnlBNENUeHJaMUpIYVVsVnBILWE3VmJmdEN1b1ZKbjAzZzVQSDBzWE1uTnZGSDdXOFg5ajY2a3ZLZXpxdm1hZ003TWVTRFNJU1FldXM3azBZbE5GeG11VHNmMG8wSzJPM3hUQzRQR3Vxc3RTSHJuUlRWb2g1bEZlcnRvZEVKTFJIdjcxTU02S2NNQzVRbERZeEJ1dGRDT0JYYkprNzRnNFd4M19WVnhGaTVvQ3pIVWd4dnpNOGFya011WHY2YndNX1E0ZjhNcmlj?oc=5"
  },
  {
   "id": "9768c94134",
