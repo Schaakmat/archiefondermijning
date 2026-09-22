@@ -1,5 +1,29 @@
 [
  {
+  "id": "db37f4d103",
+  "datum": "2026-09-22",
+  "tijd": "23:01",
+  "nieuw": true,
+  "titel": "Drugsexperts geven uitleg over groot drugslab in Bree: “Crystal meth is volledig voor export”",
+  "bron": "HBVL",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bv",
+   "crystal meth",
+   "drugslab",
+   "stal"
+  ],
+  "samenvatting": "Drugsexperts geven uitleg over groot drugslab in Bree: “Crystal meth is volledig voor export” HBVL",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbl9CUW0wT2VHMjBCTnpoclN4RURweXBqZzNFZzV3Y0lCenNTSU5jX0dkT0N3ZkxncXVIRFdXNHRrRlJnNEhZcWxVcXpPR2tieHItYnRpX2dobGVkQnhpVnJla3dTaGZLQnRWMHNrLV9zb0w1MzlsTVZfR3VZdVI3VUduOFZ6akdDbTJBNzl3ZmJuUGZtRG1IaXVPYmlRU3hYQmJOMGc2NDBMMUpQd09Hbm1pWUVGX3JkYWpkZVBXYjhUSWJ6M0FwT0JCQUtrRmF0YW8wVFkwTTFtdEg4?oc=5"
+ },
+ {
   "id": "ea9eab2155",
   "datum": "2026-09-22",
   "tijd": "22:31",
@@ -314,7 +338,7 @@
   "id": "45f66dcec5",
   "datum": "2026-09-22",
   "tijd": "17:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jong kind zwaargewond bij ongeluk met auto op bedrijventerrein in Veen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -333,7 +357,7 @@
   "id": "2f89ecfc92",
   "datum": "2026-09-22",
   "tijd": "17:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Podcast De Dag: Als je opgroeit in de noodopvang",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
