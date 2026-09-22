@@ -1,5 +1,94 @@
 [
  {
+  "id": "96b2fff0fd",
+  "datum": "2026-09-22",
+  "tijd": "08:28",
+  "nieuw": true,
+  "titel": "Student TU Eindhoven is land uit na uitbrengen Hitlergroet in collegezaal",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bedreiging",
+   "beveiliging"
+  ],
+  "samenvatting": "De student die vorige week in een volle collegezaal van de Technische Universiteit Eindhoven de Hitlergroet bracht, is vrijwillig uit Nederland vertrokken. Hij wordt niet strafrechtelijk vervolgd, laat het Openbaar Ministerie weten. Volgens een woordvoerder van het OM gaat het om een \"kwetsbare verdachte\". Na overleg m",
+  "link": "https://nos.nl/l/2631992"
+ },
+ {
+  "id": "0507d69c62",
+  "datum": "2026-09-22",
+  "tijd": "08:22",
+  "nieuw": true,
+  "titel": "Kraggenburg - Oudste brug van Noordoostpolder moest broodnodig vernieuwd worden, maar dat kost nog eens 4 tot 8 ton extra",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "asbest",
+   "burgemeester",
+   "gemeenteraad",
+   "grond",
+   "grondstoffen",
+   "stal"
+  ],
+  "samenvatting": "De renovatie van de 85 jaar oude Kadoelerbrug in Noordoostpolder gaat nog eens vier tot acht ton extra kosten. Dat heeft het college van burgemeester en wethouders aan de gemeenteraad laten weten. De vernieuwing zou al zo'n acht miljoen euro worden, maar daar komt nog eens vijf tot tien procent bij. Later dit jaar krij",
+  "link": "https://www.omroepflevoland.nl/nieuws/524656/oudste-brug-van-noordoostpolder-moest-broodnodig-vernieuwd-worden-maar-dat-kost-nog-eens-4-tot-8-ton-extra"
+ },
+ {
+  "id": "cf59e4f7b2",
+  "datum": "2026-09-22",
+  "tijd": "08:17",
+  "nieuw": true,
+  "titel": "Auto crasht bij McDonald's na achtervolging met 250 km per uur",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Een auto is afgelopen nacht na een politieachtervolging gecrasht bij een McDonald's-restaurant bij het Brabantse Udenhout. De auto vloog in brand en de drie inzittenden sloegen daarna op de vlucht. Dat bevestigt de politie na berichtgeving van Omroep Brabant . De drie reden in een Volkswagen Golf. De achtervolging bego",
+  "link": "https://nos.nl/l/2631991"
+ },
+ {
+  "id": "2aa7d5ef5f",
+  "datum": "2026-09-22",
+  "tijd": "08:02",
+  "nieuw": true,
+  "titel": "Pimp je profiel en 'krabbel' elkaar: Hyves maakt na 13 jaar een comeback",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren",
+   "netwerk",
+   "stal"
+  ],
+  "samenvatting": "Hyves, ooit de grootste en populairste socialenetwerksite van Nederland, keert na 13 jaar terug. Mediahuis Nederland, krantenuitgever van onder meer NRC en De Telegraaf, brengt de voor velen nostalgische vriendenwebsite terug. Elkaar 'krabbelen', een dansende banaan sturen en je profiel pimpen: veel van de vertrouwde f",
+  "link": "https://nos.nl/l/2631990"
+ },
+ {
   "id": "dd072ece4f",
   "datum": "2026-09-22",
   "tijd": "07:33",
@@ -10,12 +99,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "geweld",
-   "wapen"
+   "geweld"
   ],
   "samenvatting": "De 23-jarige ex-militair Benjamin B. uit Zeewolde hangt de maximale werkstraf van 240 uur boven het hoofd plus een voorwaardelijke celstraf van drie maanden. Zo hoorde hij maandag tegen zich eisen voor de militaire rechtbank in Arnhem. B. wordt onder andere verdacht van mishandelingen en openlijk geweld in Zeewolde, wa",
   "link": "https://www.omroepflevoland.nl/nieuws/524657/rode-draad-van-verdovende-middelen-en-agressie-bij-inmiddels-ontslagen-militair-om-eist-maximale-werkstraf"
@@ -53,8 +140,7 @@
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "pand",
-   "woning"
+   "pand"
   ],
   "samenvatting": "Voordat het gemeentehuis van Zeewolde gerenoveerd kan worden, moeten eerst de oorspronkelijke bewoners het pand verlaten. De verbouwing start volgend jaar, maar ruim vóór die tijd moeten de vleermuizen zijn vertrokken. Dit om te voorkomen dat de beschermde diersoort wordt ingesloten. Daarom worden deze week maatregelen",
   "link": "https://www.omroepflevoland.nl/nieuws/524653/vleermuizen-moeten-gemeentehuis-verlaten-voor-renovatie-nieuwe-woonruimte-hangt-klaar"
@@ -290,7 +376,7 @@
   "id": "32a8dcb545",
   "datum": "2026-09-21",
   "tijd": "19:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hans Smolders koninklijk onderscheiden bij afscheid gemeenteraad Tilburg",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -314,7 +400,7 @@
   "id": "dc4d071ff2",
   "datum": "2026-09-21",
   "tijd": "18:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man zakte met vloer en al in vuurzee na explosie drugslab: ‘Dacht dat ik doodging’",
   "bron": "nu.CW",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -335,7 +421,7 @@
   "id": "6c69f019bc",
   "datum": "2026-09-21",
   "tijd": "18:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Nieuwsoverzicht 21/09 | Jongen mishandeld door groep • Afvaldumpingen groot probleem",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -354,7 +440,7 @@
   "id": "6d3a5c815a",
   "datum": "2026-09-21",
   "tijd": "17:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jong kind valt uit bed in Efteling-vakantiepark en moet naar ziekenhuis",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -373,7 +459,7 @@
   "id": "7228c55a0f",
   "datum": "2026-09-21",
   "tijd": "17:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vijf aanhoudingen na melding vuurwapen, politie lost waarschuwingsschot",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1241,25 +1327,6 @@
   ],
   "samenvatting": "Pak zorgfraude nú aan: verlaag direct de belastingdruk op de werkende middenklasse Petities.nl",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbnEwV1VuTVRPVnp4VXZ5WE5SUVJRMW9YWkhWUWFIS0NqOG1UeEg1TjJLWlVHMmdydERXNHRpZkdwOXBJSFlNRmRlMmRWODM3MGwzVER3NS1MNzUzNHc3Y2FWYVBBSGZvYXJGeWotRUY2ellqTVRsbDVvc3VudDl3QjRhVUVXSUMtTVFRRTYxM0RmYzBTVlNlWVdRX29lZGl0Ukk0NTl0b1FPNDFlUkV1Wk9ZUFY1WXk2WkVJeThNVQ?oc=5"
- },
- {
-  "id": "9632c14e20",
-  "datum": "2026-09-20",
-  "tijd": "23:08",
-  "nieuw": false,
-  "titel": "Dode bij schietpartij in woonwijk in Roermond",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "beveiliging"
-  ],
-  "samenvatting": "Bij een schietpartij in een woonwijk in Roermond is gisteravond een man om het leven gekomen. De schietpartij was iets voor 22.00 uur op de Terbaansweg. Meerdere buurtbewoners hadden 112 gebeld omdat ze een aantal schoten hadden gehoord. Er werd onder meer een traumahelikopter opgeroepen voor het slachtoffer, en hij we",
-  "link": "https://nos.nl/l/2631850"
  },
  {
   "id": "e9ec4f6d58",
