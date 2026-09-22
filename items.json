@@ -1,5 +1,50 @@
 [
  {
+  "id": "e0faa3896c",
+  "datum": "2026-09-22",
+  "tijd": "06:00",
+  "nieuw": true,
+  "titel": "Hack onthult wie de schatrijke gokbazen zijn achter schimmige Curaçaose casinosites",
+  "bron": "Follow the Money",
+  "verzameld_via": "Follow the Money",
+  "soort": "Onderzoek",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "toezichthouder",
+   "vergunning"
+  ],
+  "samenvatting": "Door een hack bij de Curaçaose kansspelautoriteit liggen de namen van honderden eigenaren van schimmige goksites op straat. Sommige gokbazen, onder wie een Nederlander, verdienden daarmee naar eigen zeggen honderden miljoenen. De Curaçaose toezichthouder verleent bovendien vergunningen aan bedrijven die niet open zijn ",
+  "link": "https://www.ftm.nl/artikelen/hack-onthult-wie-de-schatrijke-gokbazen-zijn-achter-schimmige-curacaose-casinosites"
+ },
+ {
+  "id": "766f9b801b",
+  "datum": "2026-09-22",
+  "tijd": "04:30",
+  "nieuw": true,
+  "titel": "Juwelier leeft nog elke dag met gevolgen van 'domme keuze' van Zakaria",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "diamant",
+   "erf",
+   "goud",
+   "juwelier",
+   "sieraden"
+  ],
+  "samenvatting": "Twee ramkraken in een jaar tijd. Het overkwam juwelier Mustafa Alzuhariy (43) uit Breda. Hij is nog aan het bijkomen van de kraak die eind augustus op zijn zaak werd gepleegd, maar maandag stond de verdachte van de ramkraak van september vorig jaar voor de rechter. De 21-jarige Zakaria Y. gaf in de rechtbank van Breda ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028069/juwelier-leeft-nog-elke-dag-met-gevolgen-van-domme-keuze-van-zakaria"
+ },
+ {
   "id": "7462b1990c",
   "datum": "2026-09-22",
   "tijd": "00:18",
@@ -805,26 +850,6 @@
   ],
   "samenvatting": "Horecagroothandel HANOS wil Schmidt Zeevis in Rotterdam overnemen. Beide eigenaren hebben aan de toezichthouder, de Autoriteit Consument en Markt (ACM), toestemming voor de overname gevraagd. Binnen een paar weken neemt de ACM een besluit.",
   "link": "https://www.rijnmond.nl/nieuws/2256689/schmidt-zeevis-komt-na-overname-voor-het-eerst-in-niet-rotterdamse-handen"
- },
- {
-  "id": "9502503281",
-  "datum": "2026-09-21",
-  "tijd": "11:20",
-  "nieuw": false,
-  "titel": "Loods vol gas in Best nadat dieven inbreken",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Drugsproductie & labs"
-  ],
-  "tags": [
-   "loods"
-  ],
-  "samenvatting": "Een loods aan de Eindhovenseweg-Zuid in Best staat maandag vol gas. Dieven braken zondagnacht in en sloopten een gasmeter, waardoor het gas vrijkwam. Maandagnacht sloegen inbrekers ook toe bij andere loodsen in dezelfde straat. Onduidelijk is nog of er iets is buitgemaakt bij de inbraak in de loods met het gaslek. De n",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028037/loods-vol-gas-in-best-nadat-dieven-inbreken"
  },
  {
   "id": "95ad3b0bed",
@@ -51753,6 +51778,27 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "4bc9f853b3",
+  "datum": "2024-10-09",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Opnieuw misstanden bij vakantiepark in Opmeer: drugs en uitgebuite arbeidsmigranten",
+  "bron": "Streekomroep West-Friesland",
+  "verzameld_via": "Nieuws — Buitengebied & recreatie",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "arbeidsmigranten",
+   "vakantiepark"
+  ],
+  "samenvatting": "Opnieuw misstanden bij vakantiepark in Opmeer: drugs en uitgebuite arbeidsmigranten Streekomroep West-Friesland",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDU1REhyTXpLMmJ0Q25NdEZzTmpobmNmZGUtNTRTckdSYk5CYVpsbi1aSmNvRVF4cmF2bkY5RlZMcm1xS0wtQnY1YmxUemVqV2lMZHVrb3NXSEdyRUR6LVZNUHdMUU43SzVuYWZWelhKOVYwX3JnWjhYOE9rc0RGV2xZaksybkhsVGxxQnNESEtDWEFsVzMtdUJpaVg5S3Mtd2Z6cE5zUTFoZ2NvS1h4RFBwOTZKeVU4U05IUnFkQ1hpdw?oc=5"
  },
  {
   "id": "b2bb787d88",
