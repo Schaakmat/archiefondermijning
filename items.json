@@ -1,5 +1,52 @@
 [
  {
+  "id": "8bea29012b",
+  "datum": "2026-09-22",
+  "tijd": "11:45",
+  "nieuw": true,
+  "titel": "OM eist 7 jaar cel tegen Jalal O. voor dodelijke ontploffing Schammenkamp",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Autobranche & garages",
+   "Cocaine, haven & logistiek",
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "cocaïne",
+   "drugslab",
+   "explosie",
+   "garage",
+   "vaten"
+  ],
+  "samenvatting": "Het Openbaar Ministerie heeft zeven jaar cel geëist tegen hoofdverdachte Jalal O. voor de verwoestende explosie in januari 2024 in een garagebox aan de Schammenkamp in Rotterdam. Daarbij kwamen drie mensen om het leven en werden huizen vernietigd. O. was huurder van de garagebox. Het OM verdenkt de 37-jarige Rotterdamm",
+  "link": "https://nos.nl/l/2632020"
+ },
+ {
+  "id": "a83c1547ef",
+  "datum": "2026-09-22",
+  "tijd": "10:31",
+  "nieuw": true,
+  "titel": "7 jaar cel geëist tegen Jalal O. voor fatale explosie Schammenkamp: 'Drugslab in woonwijk is levensgevaarlijke keuze'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie"
+  ],
+  "samenvatting": "Als het aan het Openbaar Ministerie ligt gaat Jalal O. zeven jaar de cel in voor de explosie aan de Schammenkamp in januari 2024. Door de ontploffing kwamen drie mannen om het leven.",
+  "link": "https://www.rijnmond.nl/nieuws/2257169/7-jaar-cel-geeist-tegen-jalal-o-voor-fatale-explosie-schammenkamp-drugslab-in-woonwijk-is-levensgevaarlijke-keuze"
+ },
+ {
   "id": "ea0d16f46e",
   "datum": "2026-09-22",
   "tijd": "10:02",
@@ -21,23 +68,65 @@
   "link": "https://nos.nl/l/2632006"
  },
  {
-  "id": "bb30fecabc",
+  "id": "ba8fce2e70",
+  "datum": "2026-09-22",
+  "tijd": "09:57",
+  "nieuw": true,
+  "titel": "OM eist 7 jaar cel voor drugslab en explosie Schammenkamp",
+  "bron": "Haarlems Dagblad",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie"
+  ],
+  "samenvatting": "OM eist 7 jaar cel voor drugslab en explosie Schammenkamp Haarlems Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVY4LWgzY3lEdUl0YzNqNk9rSXNVekc5dFNPNkFHajRfQnZ0NWFNdTU1aC1SdDJPTkFFY1R5MndydTlrZUVEdVBFWnhPT0QzQXJLY0RfeFhkUEJTZlRkTm9wMHplQjhsTERheGtDTl8waTdIbUJDelpLaHNqR1N6M3dfS1VHM1Z0ekVwMWJ0OWUxa0tZbUZlZ0h4aVZkVHJXVDhkeUFTeHVKSFRBT1Rpd1g2Ykw?oc=5"
+ },
+ {
+  "id": "6dba2bf38d",
+  "datum": "2026-09-22",
+  "tijd": "09:47",
+  "nieuw": true,
+  "titel": "OM eist zeven jaar celstraf tegen Jalal O. voor drugslab en ontploffing Schammenkamp Rotterdam",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "OM eist zeven jaar celstraf tegen Jalal O. voor drugslab en ontploffing Schammenkamp Rotterdam De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbU5hSlI4NXRobDJPOXNuZXd1ajhFVm1oM0V4ZTlkd1pIalowM2g2dVdfamhLMmVyTlJjREVPWEoyZ2N4ZWdDWEtoS1RnVTdFQmlpYW1jYWtBeDgzbVlGd0pMNzRNLXBTWDBoR1Y2Q0h1V1JtRm5Xb01LeDBqTFhRUDc2NnMyRHlBMTdTbDVHcXBtNEpBVWIzaEstMDlFbG5RazQ5TUJwclRHNlRyUEluWUQ2TFpZbjh2QW9nQkJRMjVITWdoU1hSdkFFWkM5WE5jT3prLV9TWGV5dF9pcHc?oc=5"
+ },
+ {
+  "id": "611f013cdb",
   "datum": "2026-09-22",
   "tijd": "09:32",
   "nieuw": true,
-  "titel": "Groot gaslek in Eindhoven: gedeelte tussen station en TU/e afgezet",
+  "titel": "Gaslek in centrum Eindhoven: gebied afgezet bij station en TU/e",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Ondernemers & weerbaarheid"
+   "Trustkantoren & rechtspersonen",
+   "Vastgoed & huisvesting"
   ],
   "tags": [
-   "kvk"
+   "kamer van koophandel",
+   "pand"
   ],
-  "samenvatting": "In het centrum van Eindhoven is een flink gebied afgezet door een gaslek. Het gaat om een stuk tussen het Centraal Station en de TU/e. De hulpdiensten hebben een flink gebied afgezet ter hoogte van het KvK-gebouw. Voetgangers die van het station de TU/e campus willen betreden moeten omlopen. Waar het lek precies zit is",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028184/groot-gaslek-in-eindhoven-gedeelte-tussen-station-en-tue-afgezet"
+  "samenvatting": "In het centrum van Eindhoven is dinsdagochtend een flink gebied afgezet vanwege een lekkende gasleiding. De afgezette zone reikt van het Centraal Station tot aan de TU/e. Wanneer de problemen zijn verholpen kan netbeheerder Enexis rond twaalf uur nog niet inschatten. Volgens Enexis is de situatie onder controle. Het le",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028184/gaslek-in-centrum-eindhoven-gebied-afgezet-bij-station-en-tue"
  },
  {
   "id": "96b2fff0fd",
@@ -326,7 +415,7 @@
   "id": "1a9d118dc5",
   "datum": "2026-09-21",
   "tijd": "21:31",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Lelystad - Lelystedeling (18) en vier andere verdachten gepakt door Rotterdamse politie na vuurwapenmelding",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -944,6 +1033,27 @@
   ],
   "samenvatting": "De politie heeft in het onderzoek naar de brand in een woning in de wijk Punter in Lelystad een grote hoeveelheid drugs gevonden. In de nacht van vrijdag op zaterdag ontstond in de woning brand na een explosie. De brandweer heeft de bewoner uit het huis gehaald. Meerdere huizen in de omgeving werden ontruimd. De brand ",
   "link": "https://www.omroepflevoland.nl/nieuws/524600/politie-vindt-grote-hoeveelheid-drugs-in-woning-punter-lelystad-waar-na-explosie-brand-uitbrak"
+ },
+ {
+  "id": "c5d8db9062",
+  "datum": "2026-09-21",
+  "tijd": "13:17",
+  "nieuw": false,
+  "titel": "Lelystad - Politie vindt grote hoeveelheid drugs in woning Punter Lelystad na explosie en brand",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "De politie heeft in het onderzoek naar de brand in een woning in de wijk Punter in Lelystad een grote hoeveelheid drugs gevonden. In de nacht van vrijdag op zaterdag ontstond in de woning brand na een explosie. De brandweer heeft de bewoner uit het huis gehaald. Meerdere huizen in de omgeving werden ontruimd. De brand ",
+  "link": "https://www.omroepflevoland.nl/nieuws/524600/politie-vindt-grote-hoeveelheid-drugs-in-woning-punter-lelystad-na-explosie-en-brand"
  },
  {
   "id": "e72f2798c0",
