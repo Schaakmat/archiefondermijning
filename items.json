@@ -42,6 +42,25 @@
   "link": "https://nos.nl/l/2632091"
  },
  {
+  "id": "4d7f3dd9d9",
+  "datum": "2026-09-22",
+  "tijd": "19:09",
+  "nieuw": true,
+  "titel": "Politiehond krijgt inbreker te pakken, tas vol koper en werktuig gevonden",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand"
+  ],
+  "samenvatting": "Een inbreker is dinsdagmiddag op heterdaad betrapt in een leegstaand pand in Spijkenisse. Hij werd gebeten door een politiehond en kon daarna worden aangehouden.",
+  "link": "https://www.rijnmond.nl/nieuws/2257444/politiehond-krijgt-inbreker-te-pakken-tas-vol-koper-en-werktuig-gevonden"
+ },
+ {
   "id": "3fa303f4db",
   "datum": "2026-09-22",
   "tijd": "18:45",
@@ -61,11 +80,32 @@
   "link": "https://www.omroepflevoland.nl/nieuws/524706/nieuwsoverzicht-2209-or-angst-in-de-wijk-over-drugspand-*-opnieuw-ernstig-ongeluk-op-berucht-kruispunt"
  },
  {
-  "id": "a140dceba6",
+  "id": "6007099bc3",
+  "datum": "2026-09-22",
+  "tijd": "18:35",
+  "nieuw": true,
+  "titel": "87-jarige vrouw thuis mishandeld, verkracht en beroofd: OM eist 13 jaar cel en tbs",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "geweld",
+   "woning"
+  ],
+  "samenvatting": "Het Openbaar Ministerie eist dertien jaar cel en tbs met dwangverpleging tegen een 26-jarige Pool, die wordt verdacht van een reeks zeden- en geweldsdelicten. Volgens het OM randde hij twee vrouwen aan en drong hij een woning in Ede binnen, waar hij een 87-jarige vrouw verkrachtte, zwaar mishandelde en voor dood achter",
+  "link": "https://www.gld.nl/nieuws/8527115/87-jarige-vrouw-thuis-mishandeld-verkracht-en-beroofd-om-eist-13-jaar-cel-en-tbs"
+ },
+ {
+  "id": "29a358a490",
   "datum": "2026-09-22",
   "tijd": "18:30",
   "nieuw": true,
-  "titel": "Bezorgde moeder sloeg alarm: justitie eist drie jaar cel tegen Ghayid A.",
+  "titel": "Jaren cel geëist tegen lachgashandelaar Ghayid, bezorgde moeder sloeg alarm",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -77,7 +117,7 @@
    "organisatie"
   ],
   "samenvatting": "Als het aan justitie ligt, gaat de 26-jarige Ghayid A. uit Veldhoven drie jaar de cel in. Volgens het Openbaar Ministerie lapte hij het lachgasverbod aan zijn laars en zette hij zijn handel onverminderd voort. De officier van justitie wond er dinsdag in de rechtbank in Den Bosch geen doekjes om: \"Hij is een grote spele",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028243/bezorgde-moeder-sloeg-alarm-justitie-eist-drie-jaar-cel-tegen-ghayid-a"
+  "link": "https://www.omroepbrabant.nl/nieuws/6028243/jaren-cel-geeist-tegen-lachgashandelaar-ghayid-bezorgde-moeder-sloeg-alarm"
  },
  {
   "id": "e0e273747d",
@@ -97,6 +137,25 @@
   ],
   "samenvatting": "De rechter heeft opnieuw een streep gezet door het terugsturen van asielzoekers naar Italië. Na een vergelijkbare uitspraak van de rechtbank in Den Haag begin deze maand , oordeelt nu ook de vreemdelingenkamer in Utrecht hetzelfde over drie afzonderlijke zaken. Volgens de rechtbank riskeren asielzoekers in Italië nog a",
   "link": "https://nos.nl/l/2632074"
+ },
+ {
+  "id": "e81169200e",
+  "datum": "2026-09-22",
+  "tijd": "18:12",
+  "nieuw": true,
+  "titel": "Utrecht wil dat Rijk leiding neemt bij aanpak zorgfraude",
+  "bron": "RTV Utrecht",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Utrecht wil dat Rijk leiding neemt bij aanpak zorgfraude RTV Utrecht",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSmo2YVpFSjFJZGIxM1U0TXVqU2M2clo0WU93OVprUHVIaFV0SjdQazlDWFV2VG9CYmpkc19oSDlmaEFLWFdsQzg2VTg5ZmgzVGdfRk5GOUh1M3c0Z19KRmdUd0JfMUYzdTdPemdubkVlRmJTdjBMTGY0MUQ5aVJKOUJZZF9jYTNPc2t3T0dEUVV2N3lHT3huZUJWdXVTaVVNdEJv?oc=5"
  },
  {
   "id": "14beea49e5",
@@ -147,19 +206,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages",
-   "Criminele samenwerkingsverbanden",
    "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk",
    "Witwassen & geldstromen"
   ],
   "tags": [
-   "autoverhuur",
-   "bedreiging",
    "geweld",
-   "granaat",
-   "handgranaat",
-   "motorclub"
+   "witwassen"
   ],
   "samenvatting": "Voor het gerechtshof in Den Haag is dinsdag 5,5 jaar cel geëist tegen Klaas Otto (58) uit Bergen op Zoom, voor witwassen en gewelddadige afpersing. Het was het slotstuk van het langst lopende proces tegen hem. Lichtpuntje voor Otto is dat justitie een deel van de aanklacht liet vallen, maar de aanklagers vroegen nog we",
   "link": "https://www.omroepbrabant.nl/nieuws/6028110/slotstuk-in-langstlopend-proces-tegen-klaas-otto-55-jaar-cel-geeist"
@@ -306,6 +358,25 @@
   "link": "https://www.gld.nl/nieuws/8527326/googelen-op-moord-veteraan-102-overleden-en-statement-familie-saunders-op-22-september"
  },
  {
+  "id": "048b0d820e",
+  "datum": "2026-09-22",
+  "tijd": "17:03",
+  "nieuw": true,
+  "titel": "Statement familie Saunders, 102-jarige veteraan overleden en celstraf voor femicide op 22 september",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "De 54-jarige Mark I. uit Beuningen is dinsdag veroordeeld tot twintig jaar gevangenisstraf voor de moord op zijn vrouw Nelleke. De rechtbank gelooft niet dat hij uit paniek handelde. Dit zijn de belangrijkste verhalen van dinsdag 22 september.",
+  "link": "https://www.gld.nl/nieuws/8527326/statement-familie-saunders-102-jarige-veteraan-overleden-en-celstraf-voor-femicide-op-22-september"
+ },
+ {
   "id": "66cc3cb31c",
   "datum": "2026-09-22",
   "tijd": "16:44",
@@ -367,7 +438,7 @@
   "id": "553a3ee7b0",
   "datum": "2026-09-22",
   "tijd": "16:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Fietser zwaargewond bij botsing met auto, trauma-arts biedt extra hulp",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -383,10 +454,29 @@
   "link": "https://www.omroepflevoland.nl/nieuws/524754/fietser-zwaargewond-bij-botsing-met-auto-trauma-arts-biedt-extra-hulp"
  },
  {
+  "id": "0eee10cea1",
+  "datum": "2026-09-22",
+  "tijd": "16:17",
+  "nieuw": false,
+  "titel": "Van nepdeclaraties tot onbevoegd personeel: Rotterdam eist actie tegen zorgfraude",
+  "bron": "rijnmond.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Van nepdeclaraties tot onbevoegd personeel: Rotterdam eist actie tegen zorgfraude rijnmond.nl",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0pNazBPQWYyV1VQU2t6Ty04UDJBNXAwWVJ2TlhhUlVIRk8xX1BHa2pqb243MHhzc01tejRBQVA0c09pQjk1czVBUkJMWFVlRzlBNzdUellWYUFsekluX0VDbE9aVUdFY3hveXl5dGdxY0FIVWZESnNOQUJabGx0US11d1hiUS00RjhyUGxXdmVRb0ZQRnRXX3R4RmhBZl8wOHVDQjlnN1FmTXdUc3d3bVNQVjJPZjVyMDJB?oc=5"
+ },
+ {
   "id": "b73d0969c7",
   "datum": "2026-09-22",
   "tijd": "16:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rotterdam, Den Haag en Utrecht: effectieve bestrijding zorgfraude onmogelijk zonder het Rijk",
   "bron": "De Ster Online",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -405,7 +495,7 @@
   "id": "297b6ea4fb",
   "datum": "2026-09-22",
   "tijd": "15:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "12 jaar cel geëist tegen ambtenaar voor corruptie en link met zwaar geweld",
   "bron": "NOS",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -427,7 +517,7 @@
   "id": "79704ac0e8",
   "datum": "2026-09-22",
   "tijd": "15:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Van nepdeclaraties tot onbevoegd personeel: Rotterdam eist actie tegen zorgfraude",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -447,7 +537,7 @@
   "id": "c2768efb00",
   "datum": "2026-09-22",
   "tijd": "15:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tollebeek - Bestelbus en taxibus met kinderen erin botsen op beruchte kruising bij Tollebeek, meerdere gewonden",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -466,7 +556,7 @@
   "id": "5675d62d05",
   "datum": "2026-09-22",
   "tijd": "15:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Eis: twaalf jaar cel tegen Amsterdamse ambtenaar Jim B. om corruptie en medeplichtigheid aan explosies",
   "bron": "Crimesite",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -488,7 +578,7 @@
   "id": "3275c8da5b",
   "datum": "2026-09-22",
   "tijd": "15:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist 12 jaar cel tegen Amsterdamse ambtenaar voor corruptie",
   "bron": "noordhollandsdagblad.nl",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -508,7 +598,7 @@
   "id": "4e86254b37",
   "datum": "2026-09-22",
   "tijd": "15:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "7 jaar cel geëist voor fatale explosie Schammenkamp: 'Drugslab in woonwijk is levensgevaarlijke keuze'",
   "bron": "Rijnmond",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -788,6 +878,26 @@
   ],
   "samenvatting": "OM eist 12 jaar cel tegen Amsterdamse ambtenaar voor corruptie ZeelandNet, startpagina van Zeeland",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0RIQnlQajBLWXpSM1RRekJjTHlWd1NKTnk3ZUY2eWh4VUZITGoyNUZIV3BhcUt1M2V2OHVZdnhWeU5UOVEzNVRmZndBbm1FNG5BWmRnVHZjM1hlcVplZ1ZDNzJHOTl1c2M3LW1ERUhGZWJSdWItTWhaM3E4bm5hQlF2SzFqem41d0FFSmtTYkZYYUZQVHlMT1lTbw?oc=5"
+ },
+ {
+  "id": "6c3c668c6e",
+  "datum": "2026-09-22",
+  "tijd": "13:29",
+  "nieuw": false,
+  "titel": "OM eist 12 jaar cel tegen Amsterdamse ambtenaar voor corruptie",
+  "bron": "Welingelichte Kringen",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie"
+  ],
+  "samenvatting": "OM eist 12 jaar cel tegen Amsterdamse ambtenaar voor corruptie Welingelichte Kringen",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2N2QksyX21XNzlaeTNxbUo2eFZBOTZMMVpmeVNCdXNwNEtnbkNYWS16NHd0S2RGdmdDTFplSUVQWGJRcFVhc3JIcHRZSGZNcHRrLUJqZ0NjOERlbnREVEtYN2Rqdl9KRnZ1ZEJrc0tzZnJpZUdMR1pFRXJFaXc5MDRfa1BTdHZmWGIxaVdiaEVKT3hTdDJqSGQyM01sUC1hX3JGS1MxZWJEaURlQ3pv?oc=5"
  },
  {
   "id": "5e79b84b2f",
