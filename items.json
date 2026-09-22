@@ -1,5 +1,33 @@
 [
  {
+  "id": "3fa303f4db",
+  "datum": "2026-09-22",
+  "tijd": "18:45",
+  "nieuw": true,
+  "titel": "Flevoland - Nieuwsoverzicht 22/09 | Angst in de wijk over drugspand • Opnieuw ernstig ongeluk op berucht kruispunt",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas",
+   "Trustkantoren & rechtspersonen",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bestuurder",
+   "bv",
+   "explosie",
+   "jongeren",
+   "organisatie",
+   "pand"
+  ],
+  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Bange buurbewoners over drugspand Punter Lelystad; 'Daar stopten vaak auto's voor de deur' • Bestelbus en taxibus met kinderen erin botsen op beruchte kruis",
+  "link": "https://www.omroepflevoland.nl/nieuws/524706/nieuwsoverzicht-2209-or-angst-in-de-wijk-over-drugspand-*-opnieuw-ernstig-ongeluk-op-berucht-kruispunt"
+ },
+ {
   "id": "e0e273747d",
   "datum": "2026-09-22",
   "tijd": "18:29",
@@ -29,16 +57,13 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Corruptie & integriteit",
    "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Vastgoed & huisvesting"
   ],
   "tags": [
    "ambtenaar",
    "corruptie",
-   "explosie",
    "gemeenteambtenaar",
    "geweld",
    "makelaar"
@@ -85,6 +110,83 @@
   ],
   "samenvatting": "Rechts-extremisten zijn online, via de politiek, de media en bij demonstraties bezig hun ideeën te normaliseren. Daarbij doen zij aan \"façadepolitiek\": door een zachtere versie van die denkbeelden te presenteren, worden die voor grotere groepen acceptabeler gemaakt. Dat schrijven de inlichtingendienst AIVD en de coördi",
   "link": "https://nos.nl/l/2632060"
+ },
+ {
+  "id": "7f53eaebbb",
+  "datum": "2026-09-22",
+  "tijd": "17:03",
+  "nieuw": true,
+  "titel": "Googelen op 'moord', veteraan (102) overleden en statement familie Saunders op 22 september",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "De 54-jarige Mark I. uit Beuningen is dinsdag veroordeeld tot twintig jaar gevangenisstraf voor de moord op zijn vrouw Nelleke. De rechtbank gelooft niet dat hij uit paniek handelde. Dit zijn de belangrijkste verhalen van dinsdag 22 september.",
+  "link": "https://www.gld.nl/nieuws/8527326/googelen-op-moord-veteraan-102-overleden-en-statement-familie-saunders-op-22-september"
+ },
+ {
+  "id": "66cc3cb31c",
+  "datum": "2026-09-22",
+  "tijd": "16:44",
+  "nieuw": true,
+  "titel": "Villa ExpertCare breekt belofte: 25 kinderen mogelijk geen zorg",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jeugd"
+  ],
+  "samenvatting": "Voor 25 kinderen die zorg krijgen in zorgvilla's van Villa ExpertCare is nog geen vervangende zorg gevonden. De kans bestaat dat dit voor het einde van het jaar ook niet gebeurt. Het zorgbedrijf had eerder beloofd de zorg voort te zetten tot er voor ieder kind een oplossing was gevonden, maar komt die belofte nu niet n",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028242/villa-expertcare-breekt-belofte-25-kinderen-mogelijk-geen-zorg"
+ },
+ {
+  "id": "6fb82229b8",
+  "datum": "2026-09-22",
+  "tijd": "16:38",
+  "nieuw": true,
+  "titel": "Verdachte opgepakt voor betrokkenheid bij moord op Schiedammer (50) in Frankrijk",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "moord"
+  ],
+  "samenvatting": "Een 44-jarige man is aangehouden op verdenking van betrokkenheid bij de moord op de 50-jarige Schiedammer die begin april in Frankrijk werd doodgeschoten, dat meldt de Franse krant Le Parisien. De Nederlandse politie kan dit niet bevestigen. De Franse krant meldt daarbij dat, enkele uren na de schietpartij, tien kilome",
+  "link": "https://www.rijnmond.nl/nieuws/2257386/verdachte-opgepakt-voor-betrokkenheid-bij-moord-op-schiedammer-50-in-frankrijk"
+ },
+ {
+  "id": "f01bef0f34",
+  "datum": "2026-09-22",
+  "tijd": "16:30",
+  "nieuw": true,
+  "titel": "Justitie weet zeker dat Jalal O. liegt over ontploft drugslab: ‘Dit moet hij geroken hebben’",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Justitie weet zeker dat Jalal O. liegt over ontploft drugslab: ‘Dit moet hij geroken hebben’ AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQmswcDFzZ3NURmpha2dBZlVCajROOENYcTJfWkdiUjNxTkVNQU5mVXFMdEdVUEd3M3ZrR0VpdGdKUXhWQ1ZoemNNWngzV1ZFdzlIbnpXLTJfU2Q5a0hucUZZSGEwZGlMVi1aR21nQ2UwdGJmZTBITk1hcVZlcV9rUkJaWWl6cmpHODBkYjJXSUNfQVM1VVpVLWJoZlpETGZfeWdIQ2tEbFRURGdtMlhvaVBUZlZhTU5SeHBjYl9fSFNKZVQy?oc=5"
  },
  {
   "id": "553a3ee7b0",
@@ -351,7 +453,7 @@
   "id": "28e2141e3f",
   "datum": "2026-09-22",
   "tijd": "13:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist 7 jaar cel voor explosie drugslab Schammenkamp Rotterdam",
   "bron": "Blik op nieuws",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -372,7 +474,7 @@
   "id": "93facbe8c0",
   "datum": "2026-09-22",
   "tijd": "13:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Waterschap Zuiderzeeland verwacht ruim 9 ton extra kosten voor slibverwerking",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -395,7 +497,7 @@
   "id": "b3f960f4d3",
   "datum": "2026-09-22",
   "tijd": "13:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Is Frits van Eerd (ex-Jumbo) onschuldig aan witwassen, omkoping en valsheid in geschrifte?",
   "bron": "Financieel Management",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -416,7 +518,7 @@
   "id": "cbd2d2e374",
   "datum": "2026-09-22",
   "tijd": "13:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "PVV'er Boon wilde collega-Kamerleden thuis opzoeken na klachten AI-beelden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -673,6 +775,29 @@
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVHFLSW9vd01uYmg3eU5UMGQ0SVJUYUp2OTg2Zl9FX0lQb2hHYnF4SFdVc0NrdUVIdVRCQ0hyeEhGQ1ZWTVEzWDFhUlF6OVFPVUpCRTdCSFBPcmtuZ2tsaDRwNVNkQnptVjZRMGJnWWVKTzd1azc2NFlMajY5VFR0SWlDLVpCdGdSZm5OMFNTZGVxVE5ZcG1vTnAzcEhRelFRejdKX2drRm5jelRkd1ZDSllRWHJGX3pFU0lETkZmRWx2MzFsSWtrUGVBNA?oc=5"
  },
  {
+  "id": "2da557ccbd",
+  "datum": "2026-09-22",
+  "tijd": "10:40",
+  "nieuw": false,
+  "titel": "OM eist 7 jaar cel tegen Jalal O. (37) voor dodelijke explosie en drugslab Schammenkamp",
+  "bron": "Moordplekken.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie",
+   "moord"
+  ],
+  "samenvatting": "OM eist 7 jaar cel tegen Jalal O. (37) voor dodelijke explosie en drugslab Schammenkamp Moordplekken.nl",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcTFjdDhwYUJ4ZWVvaGF2TW9scXVhRHpiMHFDTm5UMHZWSU85akN4N2pWN0x0MG40TmZkaG50NjFxX2RiZmlSbjZ0c19BbEtGdXdCWWVKa1E5dnJHNmtSZFdIc2dfY09iRHJZcFFVOWZzME9iYURuMHZIRnRaU19sWndmaXdKR25CSC1hSE1xM0JoQmhYU2Z4VEdGcVB2eHVqdnVBM0RsX2FST3FhYU5lWg?oc=5"
+ },
+ {
   "id": "1ab63819c2",
   "datum": "2026-09-22",
   "tijd": "10:33",
@@ -835,6 +960,26 @@
   ],
   "samenvatting": "Privacywaakhond Autoriteit Persoonsgegevens (AP) waarschuwt dat foto's en video's die gemaakt worden met camerabrillen niet zomaar openbaar gemaakt mogen worden. Omdat mensen die op deze beelden voorkomen recht hebben op bescherming van hun privacy, is het niet toegestaan om deze beelden zomaar te gebruiken, delen of p",
   "link": "https://nos.nl/l/2632006"
+ },
+ {
+  "id": "9c12ab21a2",
+  "datum": "2026-09-22",
+  "tijd": "09:58",
+  "nieuw": false,
+  "titel": "Aanhoudingen in onderzoek naar uitkeringsfraude bij UWV",
+  "bron": "UWV",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "uitkeringsfraude"
+  ],
+  "samenvatting": "Aanhoudingen in onderzoek naar uitkeringsfraude bij UWV UWV",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFVzSnZOU0hSMHRhRW1pbmFOY1ZUcmFFX2htRjNFcnJSTXJFOUliR2xkS1lkLXRjM3lxOEFLWXV5ZktSUWw5U2RITnRYZjh3MGtwcG5icUF3WGszTC1UYVJELVdZaXV5LTFQVXRybTJvdUVUbENGcjB6d3JXUHRtVmlfZVZfa1ZtTlpobQ?oc=5"
  },
  {
   "id": "ba8fce2e70",
