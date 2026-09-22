@@ -21,6 +21,25 @@
   "link": "https://nos.nl/l/2632006"
  },
  {
+  "id": "bb30fecabc",
+  "datum": "2026-09-22",
+  "tijd": "09:32",
+  "nieuw": true,
+  "titel": "Groot gaslek in Eindhoven: gedeelte tussen station en TU/e afgezet",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "kvk"
+  ],
+  "samenvatting": "In het centrum van Eindhoven is een flink gebied afgezet door een gaslek. Het gaat om een stuk tussen het Centraal Station en de TU/e. De hulpdiensten hebben een flink gebied afgezet ter hoogte van het KvK-gebouw. Voetgangers die van het station de TU/e campus willen betreden moeten omlopen. Waar het lek precies zit is",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028184/groot-gaslek-in-eindhoven-gedeelte-tussen-station-en-tue-afgezet"
+ },
+ {
   "id": "96b2fff0fd",
   "datum": "2026-09-22",
   "tijd": "08:28",
@@ -307,7 +326,7 @@
   "id": "1a9d118dc5",
   "datum": "2026-09-21",
   "tijd": "21:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Lelystedeling (18) en vier andere verdachten gepakt door Rotterdamse politie na vuurwapenmelding",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -326,7 +345,7 @@
   "id": "9a8dc556cf",
   "datum": "2026-09-21",
   "tijd": "20:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Arrestatieteam valt woning binnen in Etten-Leur, straten tijdlang afgezet",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -494,25 +513,6 @@
   ],
   "samenvatting": "De politie heeft maandagmiddag vijf mensen aangehouden na een melding van een vuurwapen in een woning aan de Verboomstraat in Rotterdam-Charlois. Dat gebeurde op verschillende plekken. Bij één van de aanhoudingen werd een waarschuwingsschot gelost.",
   "link": "https://www.rijnmond.nl/nieuws/2256817/vijf-aanhoudingen-na-melding-vuurwapen-politie-lost-waarschuwingsschot"
- },
- {
-  "id": "5fbf137e55",
-  "datum": "2026-09-21",
-  "tijd": "17:10",
-  "nieuw": false,
-  "titel": "Almere - Politie stopt met eigen 'religieuze bijeenkomsten', vorig jaar hield politie nog een iftar in Almere",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Beleid, wetgeving & toezicht"
-  ],
-  "tags": [
-   "kamerbrief"
-  ],
-  "samenvatting": "De politie stopt volgend jaar met het organiseren van publieke religieuze bijeenkomsten, zoals voor de ramadan. De aanpassing van de gedragscode voor agenten geldt vanaf 1 januari 2027. Dat bevestigt de politie na berichtgeving door De Telegraaf. Ook in Almere is een dergelijke bijeenkomst gehouden. De krant schreef ov",
-  "link": "https://www.omroepflevoland.nl/nieuws/524635/politie-stopt-met-eigen-'religieuze-bijeenkomsten'-vorig-jaar-hield-politie-nog-een-iftar-in-almere"
  },
  {
   "id": "30f6690326",
@@ -1026,26 +1026,6 @@
   ],
   "samenvatting": "Horecagroothandel HANOS wil Schmidt Zeevis in Rotterdam overnemen. Beide eigenaren hebben aan de toezichthouder, de Autoriteit Consument en Markt (ACM), toestemming voor de overname gevraagd. Binnen een paar weken neemt de ACM een besluit.",
   "link": "https://www.rijnmond.nl/nieuws/2256689/schmidt-zeevis-komt-na-overname-voor-het-eerst-in-niet-rotterdamse-handen"
- },
- {
-  "id": "9502503281",
-  "datum": "2026-09-21",
-  "tijd": "11:20",
-  "nieuw": false,
-  "titel": "Loods vol gas in Best nadat dieven inbreken",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Drugsproductie & labs"
-  ],
-  "tags": [
-   "loods"
-  ],
-  "samenvatting": "Een loods aan de Eindhovenseweg-Zuid in Best staat maandag vol gas. Dieven braken zondagnacht in en sloopten een gasmeter, waardoor het gas vrijkwam. Maandagnacht sloegen inbrekers ook toe bij andere loodsen in dezelfde straat. Onduidelijk is nog of er iets is buitgemaakt bij de inbraak in de loods met het gaslek. De n",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028037/loods-vol-gas-in-best-nadat-dieven-inbreken"
  },
  {
   "id": "95ad3b0bed",
