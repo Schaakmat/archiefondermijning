@@ -1,5 +1,52 @@
 [
  {
+  "id": "e0e273747d",
+  "datum": "2026-09-22",
+  "tijd": "18:29",
+  "nieuw": true,
+  "titel": "Rechtbank zet opnieuw streep door terugsturen asielzoekers naar Italië",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "De rechter heeft opnieuw een streep gezet door het terugsturen van asielzoekers naar Italië. Na een vergelijkbare uitspraak van de rechtbank in Den Haag begin deze maand , oordeelt nu ook de vreemdelingenkamer in Utrecht hetzelfde over drie afzonderlijke zaken. Volgens de rechtbank riskeren asielzoekers in Italië nog a",
+  "link": "https://nos.nl/l/2632074"
+ },
+ {
+  "id": "16578aad83",
+  "datum": "2026-09-22",
+  "tijd": "17:51",
+  "nieuw": true,
+  "titel": "12 jaar cel geëist tegen ambtenaar voor corruptie en link met zwaar geweld",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Corruptie & integriteit",
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie",
+   "explosie",
+   "gemeenteambtenaar",
+   "geweld",
+   "makelaar"
+  ],
+  "samenvatting": "Een Amsterdamse gemeenteambtenaar wordt verdacht van corruptie, computervredebreuk en medeplichtigheid aan ernstige geweldsincidenten. Het Openbaar Ministerie eist twaalf jaar cel tegen de 48-jarige. Ook eist justitie tien jaar cel tegen twee 'informatiemakelaars' aan wie de verdachte informatie zou hebben doorgespeeld",
+  "link": "https://nos.nl/l/2632064"
+ },
+ {
   "id": "2f89ecfc92",
   "datum": "2026-09-22",
   "tijd": "17:40",
@@ -31,15 +78,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval"
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
-   "geweld",
-   "grond",
-   "leider",
    "nctv"
   ],
   "samenvatting": "Rechts-extremisten zijn online, via de politiek, de media en bij demonstraties bezig hun ideeën te normaliseren. Daarbij doen zij aan \"façadepolitiek\": door een zachtere versie van die denkbeelden te presenteren, worden die voor grotere groepen acceptabeler gemaakt. Dat schrijven de inlichtingendienst AIVD en de coördi",
@@ -65,6 +106,67 @@
   "link": "https://www.omroepflevoland.nl/nieuws/524754/fietser-zwaargewond-bij-botsing-met-auto-trauma-arts-biedt-extra-hulp"
  },
  {
+  "id": "b73d0969c7",
+  "datum": "2026-09-22",
+  "tijd": "16:15",
+  "nieuw": true,
+  "titel": "Rotterdam, Den Haag en Utrecht: effectieve bestrijding zorgfraude onmogelijk zonder het Rijk",
+  "bron": "De Ster Online",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Rotterdam, Den Haag en Utrecht: effectieve bestrijding zorgfraude onmogelijk zonder het Rijk De Ster Online",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzZJWFAweEFvYVMyZkdLWXA4R0dmSm9WVFRudVdZWVBMWkZ4eDZnWko2UE93d2FCRy1yVW80MTNZQnR5V2kzajQ4MjdaejdiMFFHZlJPV2ZJenFuQ2gyX2daa1J1YVROZE0zelB6SWUzcm1qaTltZmJsOFBxbDkzTm1vLXhiQWxNWUlQcG9BYjRVUlFLYXNNSUdCODBEdlItVlZtYzZYZkNQT0dUSTl2WnpMV2tCeXBJQkNv?oc=5"
+ },
+ {
+  "id": "297b6ea4fb",
+  "datum": "2026-09-22",
+  "tijd": "15:51",
+  "nieuw": true,
+  "titel": "12 jaar cel geëist tegen ambtenaar voor corruptie en link met zwaar geweld",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie",
+   "geweld"
+  ],
+  "samenvatting": "12 jaar cel geëist tegen ambtenaar voor corruptie en link met zwaar geweld NOS",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3ViWl9oTlVBUXR3SVVRZi11QTI2a044Rk9NeHlhb3dXNHlEOG9TRzItNnBXY25xQnNEUE1oT3NCMktxS1lTZkFOTmpmeDNwdWV4UWZlRVF5dkZWLWYyT3hOYVo1TnN4SXgtYUxVeHBVWmNPYzJfc29SdUp2NXA3emlZQ0NKczdZLVQ5MmEwTXM4VEphQTRRWFV6bFJOX1JQZHpSX3pDQS0?oc=5"
+ },
+ {
+  "id": "79704ac0e8",
+  "datum": "2026-09-22",
+  "tijd": "15:51",
+  "nieuw": true,
+  "titel": "Van nepdeclaraties tot onbevoegd personeel: Rotterdam eist actie tegen zorgfraude",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgaanbieder",
+   "zorgfraude"
+  ],
+  "samenvatting": "Criminelen gebruiken de zorg steeds vaker als geldmachine. In Rotterdam gaat naar schatting 2 tot 5 procent van de zorguitgaven verloren aan fraude. Het gaat om veel geld dat niet naar hulpbehoevende mensen gaat. De zorgwethouder vraagt de Tweede Kamer om strengere landelijke regels voor zorgaanbieders en een betere be",
+  "link": "https://www.rijnmond.nl/nieuws/2257425/van-nepdeclaraties-tot-onbevoegd-personeel-rotterdam-eist-actie-tegen-zorgfraude"
+ },
+ {
   "id": "c2768efb00",
   "datum": "2026-09-22",
   "tijd": "15:42",
@@ -82,6 +184,28 @@
   ],
   "samenvatting": "Opnieuw is er een ernstig ongeluk gebeurd op de beruchte kruising van de Karel Doormanweg met de Zuidwesterringweg bij Tollebeek. Dinsdagmiddag ging het rond 14.40 uur mis toen de bestuurders van een bestelbus en een taxibus tegen elkaar botsten. Volgens de politie zijn er in ieder geval twee mensen gewond geraakt. Ond",
   "link": "https://www.omroepflevoland.nl/nieuws/524747/bestelbus-en-taxibus-met-kinderen-erin-botsen-op-beruchte-kruising-bij-tollebeek-meerdere-gewonden"
+ },
+ {
+  "id": "5675d62d05",
+  "datum": "2026-09-22",
+  "tijd": "15:41",
+  "nieuw": true,
+  "titel": "Eis: twaalf jaar cel tegen Amsterdamse ambtenaar Jim B. om corruptie en medeplichtigheid aan explosies",
+  "bron": "Crimesite",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie",
+   "explosie"
+  ],
+  "samenvatting": "Eis: twaalf jaar cel tegen Amsterdamse ambtenaar Jim B. om corruptie en medeplichtigheid aan explosies Crimesite",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONEJJNU5UMk9NMDAwZmVucUt2dUJMbW9HYmFsbnE1NEozV0kzZ2JqNHZ3VWxGWDc0OGZHVlU2ZWFfNGZaNEMxbEREN0FDWk54c1IySGxuVVNuV0xQcmFlcFpKMXJlY2x4aUtGZUZXeDFCbkVxRHRrNnRMeXl0V2VZek9XU3dnWENYRHN3dXFHc0Iyb2RpQkZ2RVlXTmxLRjEyNVo1MWppVHZiTHh1ZUVTYUI1bF9BeFBTbWVqNi0xX3ZpMWtK?oc=5"
  },
  {
   "id": "f50c8cc584",
@@ -114,20 +238,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Horeca, winkels & dienstverlening",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Ondernemers & weerbaarheid",
-   "Vastgoed & huisvesting"
+   "Jeugd & jonge aanwas"
   ],
   "tags": [
-   "burgemeester",
-   "grond",
-   "horeca",
-   "jongeren",
-   "ondernemers",
-   "vastgoed"
+   "jongeren"
   ],
   "samenvatting": "De gemeente Maashorst neemt maatregelen om het Bevrijdingspark in Uden veiliger te maken. Zo komt er onder andere tijdelijk cameratoezicht. Dit doet de gemeente, omdat er sinds juni bijna 140 meldingen bij de politie en de gemeente zijn binnengekomen van mensen die zich onveilig voelen in het park. \"Het vandalisme lijk",
   "link": "https://www.omroepbrabant.nl/nieuws/6028218/overlast-door-jongeren-in-uden-verplaatst-naar-park-gemeente-grijpt-in"
@@ -321,7 +435,7 @@
   "id": "2d874f125c",
   "datum": "2026-09-22",
   "tijd": "13:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist 12 jaar cel tegen Amsterdamse ambtenaar voor corruptie",
   "bron": "ditjesendatjes.nl",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -341,7 +455,7 @@
   "id": "cdae7dcf1a",
   "datum": "2026-09-22",
   "tijd": "13:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist 12 jaar cel tegen Amsterdamse ambtenaar voor corruptie",
   "bron": "ZeelandNet, startpagina van Zeeland",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -361,7 +475,7 @@
   "id": "5e79b84b2f",
   "datum": "2026-09-22",
   "tijd": "13:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist 12 jaar cel tegen Amsterdamse ambtenaar voor corruptie",
   "bron": "StadIndex",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -381,7 +495,7 @@
   "id": "816e40a68b",
   "datum": "2026-09-22",
   "tijd": "12:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist zeven jaar cel voor drugslab en fatale explosie",
   "bron": "112 Nederland",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -402,7 +516,7 @@
   "id": "ba11204afc",
   "datum": "2026-09-22",
   "tijd": "12:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee restauranteigenaren verdacht van arbeidsuitbuiting, ook vestiging in Hilversum",
   "bron": "NH Gooi",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -421,7 +535,7 @@
   "id": "8bea29012b",
   "datum": "2026-09-22",
   "tijd": "11:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist 7 jaar cel tegen Jalal O. voor dodelijke ontploffing Schammenkamp",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -442,7 +556,7 @@
   "id": "1360f6d456",
   "datum": "2026-09-22",
   "tijd": "11:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hyves maakt comeback: hoe zag jouw profiel er jaren geleden uit?",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -463,7 +577,7 @@
   "id": "2fb91fc894",
   "datum": "2026-09-22",
   "tijd": "11:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Brand in parkeergarage rechtbank Zwolle: gebouw ontruimd",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -618,6 +732,27 @@
   ],
   "samenvatting": "Als het aan het Openbaar Ministerie ligt gaat Jalal O. zeven jaar de gevangenis in voor de explosie aan de Schammenkamp in januari 2024. Door de ontploffing kwamen drie mannen om het leven.",
   "link": "https://www.rijnmond.nl/nieuws/2257169/7-jaar-cel-geeist-tegen-jalal-o-voor-fatale-explosie-schammenkamp"
+ },
+ {
+  "id": "31f297c95c",
+  "datum": "2026-09-22",
+  "tijd": "10:31",
+  "nieuw": false,
+  "titel": "7 jaar cel geëist voor fatale explosie Schammenkamp: 'Drugslab in woonwijk is levensgevaarlijke keuze'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie"
+  ],
+  "samenvatting": "Als het aan het Openbaar Ministerie ligt gaat Jalal O. zeven jaar de gevangenis in voor de explosie aan de Schammenkamp in januari 2024. Door de ontploffing kwamen drie mannen om het leven.",
+  "link": "https://www.rijnmond.nl/nieuws/2257169/7-jaar-cel-geeist-voor-fatale-explosie-schammenkamp-drugslab-in-woonwijk-is-levensgevaarlijke-keuze"
  },
  {
   "id": "dbb0e3243a",
@@ -1105,56 +1240,6 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6028097/arrestatieteam-valt-woning-binnen-in-etten-leur-straten-tijdlang-afgezet"
  },
  {
-  "id": "dab4884642",
-  "datum": "2026-09-21",
-  "tijd": "20:24",
-  "nieuw": false,
-  "titel": "Cel- en taakstraf voor tegenstanders azc Engelen die vrouw mishandelden",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder",
-   "erf",
-   "grond"
-  ],
-  "samenvatting": "De politierechter in Den Bosch heeft twee mannen (41 en 43) uit Engelen veroordeeld voor het mishandelen van een vrouw. Ze waren boos omdat de vrouw een protest in Engelen tegen de komst van een azc zou hebben gesaboteerd. De 41-jarige kreeg een celstraf van 36 dagen, een voorwaardelijke celstraf van twee maanden en ee",
-  "link": "https://nos.nl/l/2631952"
- },
- {
-  "id": "372e8b835a",
-  "datum": "2026-09-21",
-  "tijd": "19:20",
-  "nieuw": false,
-  "titel": "Minister: geen garantie snelle oplossing voor onveiligheid asielkinderen noodopvang",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "container",
-   "geweld",
-   "jongeren",
-   "organisatie",
-   "woning"
-  ],
-  "samenvatting": "Minister Van den Brink van Asiel zegt alles op alles te willen zetten om alle kinderen in de asielopvang op een veilige plek te krijgen. Hij kan alleen niet garanderen dat dit binnen zes maanden lukt, zoals de Onderzoeksraad voor de Veiligheid (OVV) wel dringend noodzakelijk vindt. De minister zegt afhankelijk te zijn ",
-  "link": "https://nos.nl/l/2631945"
- },
- {
   "id": "32a8dcb545",
   "datum": "2026-09-21",
   "tijd": "19:05",
@@ -1608,25 +1693,6 @@
   ],
   "samenvatting": "Slachtoffers richten zich tot van corruptie verdachte ambtenaar Ditjes en Datjes",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjFaMFMyNElUSUlCQ3ZaQmlCV3piU0pfRG16LV9aS0d3RVF6N3hodWZ6X3VRQnZqT3E3bl9ER3VRSWF4N29yaGlxOVBBRnNlQllZeklFZThqblA5SDUwYVJIRU5SbzBvZzdOaUlfd2E3WGZ1d180cGxIcWVEQVoyMlRMRjBqWEtXa3pWMmxxaTJjeWtSNUdvUQ?oc=5"
- },
- {
-  "id": "b8e7ccd72c",
-  "datum": "2026-09-21",
-  "tijd": "13:49",
-  "nieuw": false,
-  "titel": "Eindhovenaar (21) gepakt met meer dan 300 lachgasflessen in bestelbus",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Een 21-jarige man uit Eindhoven is maandag opgepakt bij de grens met België, hij reed rond met een enorme hoeveelheid lachgas in zijn auto. Toen de marechaussee de bestelbus van de man controleerde, vonden ze maar liefst 324 lachgasflessen. De man passeerde vanuit België de grens en reed over de A2 bij Eijsden, in Limb",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028059/eindhovenaar-21-gepakt-met-meer-dan-300-lachgasflessen-in-bestelbus"
  },
  {
   "id": "4d6319e95a",
