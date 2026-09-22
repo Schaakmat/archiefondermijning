@@ -1,12 +1,12 @@
 {
- "run": "21:39",
+ "run": "22:37",
  "datum": "2026-09-22",
- "nieuw": 15,
- "totaal": 3540,
+ "nieuw": 17,
+ "totaal": 3542,
  "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 1069,
-  "geen dossier": 480
+  "niet-nederlands": 1062,
+  "geen dossier": 483
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 195,
-   "status": "bij",
+   "items": 196,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 203,
-   "status": "bij",
+   "items": 204,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
