@@ -1,5 +1,65 @@
 [
  {
+  "id": "dd072ece4f",
+  "datum": "2026-09-22",
+  "tijd": "07:33",
+  "nieuw": true,
+  "titel": "Zeewolde - Rode draad van verdovende middelen en agressie bij inmiddels ontslagen militair, OM eist maximale werkstraf",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "geweld",
+   "wapen"
+  ],
+  "samenvatting": "De 23-jarige ex-militair Benjamin B. uit Zeewolde hangt de maximale werkstraf van 240 uur boven het hoofd plus een voorwaardelijke celstraf van drie maanden. Zo hoorde hij maandag tegen zich eisen voor de militaire rechtbank in Arnhem. B. wordt onder andere verdacht van mishandelingen en openlijk geweld in Zeewolde, wa",
+  "link": "https://www.omroepflevoland.nl/nieuws/524657/rode-draad-van-verdovende-middelen-en-agressie-bij-inmiddels-ontslagen-militair-om-eist-maximale-werkstraf"
+ },
+ {
+  "id": "a8fa98f6fd",
+  "datum": "2026-09-22",
+  "tijd": "06:54",
+  "nieuw": true,
+  "titel": "Wekdienst 22/9: Ontmoeting Trump en Zelensky • Start handelsverbod illegale nederzettingen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "Goedemorgen! Bij de Verenigde Naties in New York ontmoeten president Trump en zijn Oekraïense collega Zelensky elkaar. En het handelsverbod voor goederen uit illegale nederzettingen in door Israël bezette gebieden gaat in. Eerst het weer: in het zuiden begint de dag mogelijk mistig, maar die mist lost snel op. Daarna v",
+  "link": "https://nos.nl/l/2631986"
+ },
+ {
+  "id": "92447f018f",
+  "datum": "2026-09-22",
+  "tijd": "06:44",
+  "nieuw": true,
+  "titel": "Zeewolde - Vleermuizen moeten gemeentehuis verlaten voor renovatie, nieuwe woonruimte hangt klaar",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "Voordat het gemeentehuis van Zeewolde gerenoveerd kan worden, moeten eerst de oorspronkelijke bewoners het pand verlaten. De verbouwing start volgend jaar, maar ruim vóór die tijd moeten de vleermuizen zijn vertrokken. Dit om te voorkomen dat de beschermde diersoort wordt ingesloten. Daarom worden deze week maatregelen",
+  "link": "https://www.omroepflevoland.nl/nieuws/524653/vleermuizen-moeten-gemeentehuis-verlaten-voor-renovatie-nieuwe-woonruimte-hangt-klaar"
+ },
+ {
   "id": "e0faa3896c",
   "datum": "2026-09-22",
   "tijd": "06:00",
@@ -21,6 +81,63 @@
   "link": "https://www.ftm.nl/artikelen/hack-onthult-wie-de-schatrijke-gokbazen-zijn-achter-schimmige-curacaose-casinosites"
  },
  {
+  "id": "c01b6eddbd",
+  "datum": "2026-09-22",
+  "tijd": "04:50",
+  "nieuw": true,
+  "titel": "Auto crasht bij McDonald's Udenhout na politieachtervolging, 2 aanhoudingen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een snelle Volkswagen Golf is maandagnacht rond vier uur gecrasht in de McDrive van de McDonald’s langs de N65 bij Udenhout. Dit gebeurde na een achtervolging door de politie. Volgens de achtervolgende agenten liep de snelheid op tot zo'n 250 kilometer per uur. Vanwege de hoge snelheid hielden de agenten enige afstand ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028107/auto-crasht-bij-mcdonalds-udenhout-na-politieachtervolging-2-aanhoudingen"
+ },
+ {
+  "id": "07ca4cf6a8",
+  "datum": "2026-09-22",
+  "tijd": "04:49",
+  "nieuw": true,
+  "titel": "Flinke toename diefstal specialistisch brandweergereedschap",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Er is een forse, landelijke toename van het aantal diefstallen van specialistisch brandweergereedschap. De teller staat dit jaar al op 85. In 2024 ging het om 17 inbraken en in 2025 waren dat er 18. Dat meldde het tv-programma Opsporing Verzocht maandagavond.",
+  "link": "https://www.rijnmond.nl/nieuws/2257140/flinke-toename-diefstal-specialistisch-brandweergereedschap"
+ },
+ {
+  "id": "39e9dc516b",
+  "datum": "2026-09-22",
+  "tijd": "04:41",
+  "nieuw": true,
+  "titel": "Flinke toename diefstal specialistisch brandweergereedschap | Opsporing Verzocht zoekt zwartrijder die conducteur mishandelde",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van dinsdag 22 september.",
+  "link": "https://www.rijnmond.nl/nieuws/2257131/flinke-toename-diefstal-specialistisch-brandweergereedschap-opsporing-verzocht-zoekt-zwartrijder-die-conducteur-mishandelde"
+ },
+ {
   "id": "766f9b801b",
   "datum": "2026-09-22",
   "tijd": "04:30",
@@ -31,15 +148,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Goudhandel & edelmetalen"
   ],
   "tags": [
-   "diamant",
-   "erf",
-   "goud",
-   "juwelier",
-   "sieraden"
+   "juwelier"
   ],
   "samenvatting": "Twee ramkraken in een jaar tijd. Het overkwam juwelier Mustafa Alzuhariy (43) uit Breda. Hij is nog aan het bijkomen van de kraak die eind augustus op zijn zaak werd gepleegd, maar maandag stond de verdachte van de ramkraak van september vorig jaar voor de rechter. De 21-jarige Zakaria Y. gaf in de rechtbank van Breda ",
   "link": "https://www.omroepbrabant.nl/nieuws/6028069/juwelier-leeft-nog-elke-dag-met-gevolgen-van-domme-keuze-van-zakaria"
@@ -282,7 +394,7 @@
   "id": "5fbf137e55",
   "datum": "2026-09-21",
   "tijd": "17:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Politie stopt met eigen 'religieuze bijeenkomsten', vorig jaar hield politie nog een iftar in Almere",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -301,7 +413,7 @@
   "id": "30f6690326",
   "datum": "2026-09-21",
   "tijd": "16:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verscherp het beheer en identificeer risico's op witwassen in de vastgoedsector.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -322,7 +434,7 @@
   "id": "7cd6e46438",
   "datum": "2026-09-21",
   "tijd": "16:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jalal O. volhardt in ontkenning: ontploft drugslab in Rotterdam-Charlois was niet van hem",
   "bron": "de Volkskrant",
   "verzameld_via": "Nieuws — Drugsproductie & labs",

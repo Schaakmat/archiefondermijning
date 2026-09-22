@@ -1,12 +1,12 @@
 {
- "run": "04:40",
+ "run": "05:36",
  "datum": "2026-09-22",
- "nieuw": 16,
- "totaal": 3467,
- "verwijderd": 14,
+ "nieuw": 19,
+ "totaal": 3473,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1051,
-  "geen dossier": 480
+  "niet-nederlands": 1059,
+  "geen dossier": 475
  },
  "bronnen": [
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -303,7 +303,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 20,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 74,
-   "status": "6 nieuw",
+   "items": 75,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -474,7 +474,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 8,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -491,7 +491,7 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 133,
+   "items": 134,
    "status": "7 nieuw",
    "ok": true
   },
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 131,
-   "status": "bij",
+   "items": 133,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 61,
-   "status": "1 nieuw",
+   "items": 63,
+   "status": "3 nieuw",
    "ok": true
   },
   {
