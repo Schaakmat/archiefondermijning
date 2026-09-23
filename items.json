@@ -19,23 +19,121 @@
   "link": "https://nos.nl/l/2632156"
  },
  {
-  "id": "0f752675cf",
+  "id": "10463e840f",
   "datum": "2026-09-23",
-  "tijd": "10:15",
+  "tijd": "11:38",
   "nieuw": true,
-  "titel": "Johan Vlemmix wil met nieuwe versie van Hyves-hit opnieuw scoren",
+  "titel": "FIOD doet invallen op Woenselse Markt in Eindhoven, meerdere aanhoudingen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "douane"
+  ],
+  "samenvatting": "De FIOD en Douane zijn woensdagmiddag op meerdere locaties op en rond de Woenselse Markt in Eindhoven binnengevallen. Daarbij zijn ook aanhoudingen verricht. Op de Woenselse Markt zoeken speurhonden van de FIOD in een telefoonzaak. Zodra de opsporingsdiensten de pers zagen, werden de ramen van de zaak afgeplakt met tap",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028384/fiod-doet-invallen-op-woenselse-markt-in-eindhoven-meerdere-aanhoudingen"
+ },
+ {
+  "id": "bfd352c70c",
+  "datum": "2026-09-23",
+  "tijd": "11:30",
+  "nieuw": true,
+  "titel": "Explosief aangetroffen op bankje tussen twee flats in de Wildemanbuurt, 18-jarige Amsterdammer aangehouden - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "explosief aangetroffen"
+  ],
+  "samenvatting": "Explosief aangetroffen op bankje tussen twee flats in de Wildemanbuurt, 18-jarige Amsterdammer aangehouden Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbGIxekY2bFZwRW1FMmhBVzR6ZVE4UkxrMXZ0Q3d3YWFjQVRLdmY2UDgxRXpNUFo2T3I5T2NxUUxYc2JOcmxNelZTM2dQZzZZOXRwNW9oQ0MtTVB1bFAxOFhXOG1RYWhCWklNVk11SzhVNDRDM01IUm5CVFpCdE5aa1JCMWpYbS0xZnRVVmdKbThNUzlsbURnRGZ3Q05PQlctVFdOQzRMMmpYVE8xYVVDdzg3SFJ1WFNFVVdYc0JTbGNUSjRoQXNFTzJNWnppakVWaDNPZk1zTkpQeHh2UlZoQg?oc=5"
+ },
+ {
+  "id": "2ecabc3e9b",
+  "datum": "2026-09-23",
+  "tijd": "11:00",
+  "nieuw": true,
+  "titel": "Den Haag pleit voor landelijke aanpak van zorgfraude",
+  "bron": "070online",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Den Haag pleit voor landelijke aanpak van zorgfraude 070online",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHYwazFsWnVBamU5MnZaNFFfRFI0TGZmN1d2ejQ5SHZZWkhfZVctRUZ0dkEtWGh1MlZTWUhoY2hsVnpBVTNINElhWFREOGZaXzhaWk1uZ2ZOZlJxZHlBUEEwRkozWmMtUHd5dzlBUVdDYWxlekV2TmE3c2htYkx0d00zaGNSQWdscUN3a2t3?oc=5"
+ },
+ {
+  "id": "614805f46f",
+  "datum": "2026-09-23",
+  "tijd": "10:52",
+  "nieuw": true,
+  "titel": "Politie start onderzoek naar bekladde auto's",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "De politie is in Oud-Beijerland een onderzoek gestart naar de bekladding van meerdere auto's met verf aan de Boomgaard. Vijf auto-eigenaren hebben inmiddels aangifte gedaan en volgens een woordvoerder van de politie staan er nog meerdere gepland.",
+  "link": "https://www.rijnmond.nl/nieuws/2257811/politie-start-onderzoek-naar-bekladde-autos"
+ },
+ {
+  "id": "2651462ad6",
+  "datum": "2026-09-23",
+  "tijd": "10:15",
+  "nieuw": true,
+  "titel": "Johan Vlemmix haalt 'Hyves is Hyves'-hit opnieuw van stal",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
    "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "netwerk"
+   "netwerk",
+   "stal"
   ],
   "samenvatting": "Hyves is terug en dan kan één man natuurlijk niet ontbreken: Johan Vlemmix. De entertainer uit Hoeven was er in 2008 al als de kippen bij, toen hij met zijn gelegenheidsformatie Van Ellende meeliftte op het succes van de online vriendenclub. Hyves is Hyves werd een megahit. En dus duikt Vlemmix binnenkort opnieuw de st",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028360/johan-vlemmix-wil-met-nieuwe-versie-van-hyves-hit-opnieuw-scoren"
+  "link": "https://www.omroepbrabant.nl/nieuws/6028360/johan-vlemmix-haalt-hyves-is-hyves-hit-opnieuw-van-stal"
+ },
+ {
+  "id": "d26938fb8b",
+  "datum": "2026-09-23",
+  "tijd": "10:12",
+  "nieuw": true,
+  "titel": "Burgemeester grijpt in: 14 relschoppers krijgen gebiedsverbod in Opheusden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Veertien mensen die vorige week werden aangehouden na de ongeregeldheden rond een protest tegen asielopvang in Opheusden, hebben voor donderdagavond een gebiedsontzegging gekregen. Burgemeester Jan Kottelenberg wil daarmee voorkomen dat de situatie opnieuw uit de hand loopt.",
+  "link": "https://www.gld.nl/nieuws/8527477/burgemeester-grijpt-in-14-relschoppers-krijgen-gebiedsverbod-in-opheusden"
  },
  {
   "id": "95c5c47d48",
@@ -153,6 +251,25 @@
   "link": "https://www.rijnmond.nl/nieuws/2257788/17-jarige-verdachte-aangehouden-voor-onderzoek-overvallen-op-juwelier"
  },
  {
+  "id": "31e32801b9",
+  "datum": "2026-09-23",
+  "tijd": "08:40",
+  "nieuw": true,
+  "titel": "Verdachte (17) opgepakt voor overval op juwelier: reed op fatbike winkel binnen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "juwelier"
+  ],
+  "samenvatting": "De politie heeft een 17-jarige jongen uit Hoogvliet aangehouden in het onderzoek naar twee overvallen op een juwelier aan de Voorstraat in Dordrecht. De rol van de 17-jarige jongen bij een van de twee overvallen wordt onderzocht. Het is nog onduidelijk of de twee overvallen met elkaar te maken hebben.",
+  "link": "https://www.rijnmond.nl/nieuws/2257788/verdachte-17-opgepakt-voor-overval-op-juwelier-reed-op-fatbike-winkel-binnen"
+ },
+ {
   "id": "08d0bcea17",
   "datum": "2026-09-23",
   "tijd": "08:38",
@@ -175,7 +292,7 @@
   "id": "dbceb3120b",
   "datum": "2026-09-23",
   "tijd": "08:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nieuwe doorzoekingen in onderzoek naar ondergang cryptoplatform Knaken",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -196,7 +313,7 @@
   "id": "15ebcc98f3",
   "datum": "2026-09-23",
   "tijd": "07:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Goede zorg vraagt om een harde aanpak van zorgfraude'",
   "bron": "Zoetermeers Dagblad",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -215,7 +332,7 @@
   "id": "06882ef22c",
   "datum": "2026-09-23",
   "tijd": "07:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Goede zorg vraagt om een harde aanpak van zorgfraude'",
   "bron": "Voorburgs Dagblad",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -234,7 +351,7 @@
   "id": "b5db82c4c2",
   "datum": "2026-09-23",
   "tijd": "07:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gemeenten willen eindelijk aan tafel bij bestrijding van zorgfraude",
   "bron": "Gemeente.nu",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -253,7 +370,7 @@
   "id": "203dd52099",
   "datum": "2026-09-23",
   "tijd": "06:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Peuter die zwaargewond raakte bij ongeluk in Veen is niet in levensgevaar",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -272,7 +389,7 @@
   "id": "e0b6261f92",
   "datum": "2026-09-23",
   "tijd": "06:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zwaargewonde peuter niet in levensgevaar na ongeluk op bedrijventerrein",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -291,7 +408,7 @@
   "id": "feb132a5ff",
   "datum": "2026-09-23",
   "tijd": "05:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - Volgend jaar mogelijk weer een autocross in Emmeloord, wethouder zoekt mee naar een geschikt terrein",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -1145,26 +1262,6 @@
   ],
   "samenvatting": "7 jaar cel geëist voor fatale explosie Schammenkamp: 'Drugslab in woonwijk is levensgevaarlijke keuze' Rijnmond",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNFRZUlVZbXhqMUtMUTFfTWJNMTJTVktPb3ZtcGxTcDNaTkhRdy1xcGtDOXQxd25mODdhYVZzMDI3Q1JiM3IyZ3RWTFJVTTdyQnI0OUZmTjYxcWsyZzRKbnFYNjhFTUJMcXM3N2V5Q3I4WGxrOXdRWHQ3RkFuRGVSbFRzNlhFV2pOR3pfbzJBdEdYd3N5UTB1S2VmdHo5Ym9vbFhwU0xCSXRNMkdHQUs1cnpKSm9ib05OTlVSODA3Mjd3V2pRZDNnTTVaMk9iR25KbjdQYw?oc=5"
- },
- {
-  "id": "f50c8cc584",
-  "datum": "2026-09-22",
-  "tijd": "15:15",
-  "nieuw": false,
-  "titel": "Nep of niet, Lowie mag zijn zelfgebouwde flitspaal voorlopig laten staan",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "erf",
-   "stal"
-  ],
-  "samenvatting": "Lowie uit Heense Molen mag zijn zelfgebouwde flitskast voorlopig laten staan. Zowel de provincie als de politie zien op dit moment geen reden om in te grijpen. Lowie plaatste de ‘flitspaal’ in zijn achtertuin omdat hij naar eigen zeggen helemaal klaar is met het hardrijdende verkeer langs zijn dijkhuis. Volgens hem rij",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028217/nep-of-niet-lowie-mag-zijn-zelfgebouwde-flitspaal-voorlopig-laten-staan"
  },
  {
   "id": "bd7fe2e9ca",
