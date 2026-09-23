@@ -1,5 +1,34 @@
 [
  {
+  "id": "0fa1705d97",
+  "datum": "2026-09-23",
+  "tijd": "18:45",
+  "nieuw": true,
+  "titel": "Flevoland - Nieuwsoverzicht 23/09 | Celstraffen geëist voor dodelijke straatrace • Bol bouwt bij vliegveld",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Cocaine, haven & logistiek",
+   "Corruptie & integriteit",
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "ambtenaar",
+   "arbeidsmigranten",
+   "explosie",
+   "geweld",
+   "haven",
+   "pand"
+  ],
+  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • De 'beste drifter' die dodelijk ongeval veroorzaakte bij straatrace moet volgens OM 8 maanden cel in • Opmerkelijke zijsprong van webgigant: Bol gaat nu nie",
+  "link": "https://www.omroepflevoland.nl/nieuws/524865/nieuwsoverzicht-2309-or-celstraffen-geeist-voor-dodelijke-straatrace-*-bol-bouwt-bij-vliegveld"
+ },
+ {
   "id": "5da4e9c6bb",
   "datum": "2026-09-23",
   "tijd": "18:16",
@@ -51,6 +80,25 @@
   ],
   "samenvatting": "Tegen een man uit Schiedam die in 2024 bij een straatrace in Lelystad een dodelijk ongeluk veroorzaakte, is woensdag acht maanden onvoorwaardelijke celstraf geëist. Ook vindt justitie dat de 32-jarige man twee jaar rijontzegging moet krijgen, waarvan één jaar voorwaardelijk. Een 36-jarige man uit Rotterdam die de straa",
   "link": "https://www.omroepflevoland.nl/nieuws/524857/de-'beste-drifter'-die-dodelijk-ongeval-veroorzaakte-bij-illegale-straatrace-moet-volgens-om-8-maanden-de-cel-in"
+ },
+ {
+  "id": "418618fb29",
+  "datum": "2026-09-23",
+  "tijd": "17:11",
+  "nieuw": true,
+  "titel": "Aalten onderzoekt mogelijke verontreiniging terrein na brand bij afvalverwerker",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval"
+  ],
+  "samenvatting": "De gemeente Aalten onderzoekt of het terrein van de voormalige afvalverwerker Complexie in Dinxperlo is verontreinigd door bluswater dat tijdens de grote brand van maandag werd gebruikt. Bij de bestrijding werd ongeveer 150.000 liter water uit het Blauwe Meer gebruikt, waarin PFAS zit. Ook stonden op het terrein versch",
+  "link": "https://www.gld.nl/nieuws/8527722/aalten-onderzoekt-mogelijke-verontreiniging-terrein-na-brand-bij-afvalverwerker"
  },
  {
   "id": "7b43373e0c",
@@ -283,7 +331,7 @@
   "id": "fd31d57b67",
   "datum": "2026-09-23",
   "tijd": "13:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Menzis: ‘Iedereen zou door het detectiepoortje van de Bibob moeten’",
   "bron": "Zorgvisie",
   "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
@@ -302,7 +350,7 @@
   "id": "dd7118bc8a",
   "datum": "2026-09-23",
   "tijd": "13:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (36) berooft vrouw in Roosendaal en belt daarna zelf de politie",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -321,7 +369,7 @@
   "id": "4472322260",
   "datum": "2026-09-23",
   "tijd": "12:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte van dodelijke aanrijding tijdens schoolkamp reed 130 waar hij 80 mocht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -340,7 +388,7 @@
   "id": "10463e840f",
   "datum": "2026-09-23",
   "tijd": "11:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "FIOD doet invallen op Woenselse Markt in Eindhoven, meerdere aanhoudingen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -359,7 +407,7 @@
   "id": "a07d52cc17",
   "datum": "2026-09-23",
   "tijd": "11:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Meerdere aanhoudingen bij invallen door FIOD en Douane in Eindhoven",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -378,7 +426,7 @@
   "id": "44509a8ada",
   "datum": "2026-09-23",
   "tijd": "11:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "42-jarige Antwerpenaar riskeert 5 jaar cel voor dumpen van drugsafval in Turnhouts Vennengebied",
   "bron": "rtv.be",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -399,7 +447,7 @@
   "id": "bfd352c70c",
   "datum": "2026-09-23",
   "tijd": "11:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explosief aangetroffen op bankje tussen twee flats in de Wildemanbuurt, 18-jarige Amsterdammer aangehouden - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
