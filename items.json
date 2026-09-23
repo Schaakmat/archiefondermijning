@@ -1,5 +1,45 @@
 [
  {
+  "id": "920dac7342",
+  "datum": "2026-09-23",
+  "tijd": "08:40",
+  "nieuw": true,
+  "titel": "17-jarige verdachte aangehouden voor onderzoek overvallen op juwelier",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "juwelier"
+  ],
+  "samenvatting": "De politie heeft een 17-jarige jongen uit Hoogvliet aangehouden voor het onderzoek naar twee overvallen op een juwelier aan de Voorstraat in Dordrecht. De rol van de 17-jarige jongen bij een van de twee overvallen wordt onderzocht. Het is nog onduidelijk of de twee overvallen met elkaar te maken hebben.",
+  "link": "https://www.rijnmond.nl/nieuws/2257788/17-jarige-verdachte-aangehouden-voor-onderzoek-overvallen-op-juwelier"
+ },
+ {
+  "id": "dbceb3120b",
+  "datum": "2026-09-23",
+  "tijd": "08:00",
+  "nieuw": true,
+  "titel": "Nieuwe doorzoekingen in onderzoek naar ondergang cryptoplatform Knaken",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "crypto",
+   "woning"
+  ],
+  "samenvatting": "Justitie heeft nieuwe doorzoekingen gedaan in het onderzoek naar de mogelijke fraude bij cryptoplatform Knaken. De doorzoekingen zijn geweest in twee woningen in Rotterdam. Tijdens het onderzoek zijn geen aanhoudingen gedaan.",
+  "link": "https://www.rijnmond.nl/nieuws/2257792/nieuwe-doorzoekingen-in-onderzoek-naar-ondergang-cryptoplatform-knaken"
+ },
+ {
   "id": "15ebcc98f3",
   "datum": "2026-09-23",
   "tijd": "07:09",
@@ -19,6 +59,25 @@
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQczN0Ml91VVFwXy1mYXFMbV9MMzEyWmxrZ0ZJQXp4MUEtUDRnWVZpTWJvbDNiMkhfVmN1R0lGYUhtaHkya2p4R2YzU3ltbUxKRHRVeEVDMVRXdnhGbFJTT3o4YmVNV2FzR3NpY1Y4Um94ekIzU1dwSFpyOURHLUhYMXB5cjhyTjA5Yk4zN1VjN2N4amRZVVNIdlhZQzZSNUh4NTBkTUVIZ0c?oc=5"
  },
  {
+  "id": "06882ef22c",
+  "datum": "2026-09-23",
+  "tijd": "07:06",
+  "nieuw": true,
+  "titel": "'Goede zorg vraagt om een harde aanpak van zorgfraude'",
+  "bron": "Voorburgs Dagblad",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "'Goede zorg vraagt om een harde aanpak van zorgfraude' Voorburgs Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkpjV3FUZ1NJVm5XalFQeXJHUWRtSkttUDhWRlVnQ2trVmRhMW1Vekw1MHFCUUJJWmxqZFVLMWFqd3RfcnJwTjRvME1yUDdQYWJqYVVya1YyZXFSMmpRTDRYVlNmQ0FWdUdoMHU2VXFvZTZweFBTNmVhSjVOMW94dWx4dC1SQTlKLUhrU1BCMTRITHRycFRnVmVDcThuMHQzbkljVWx3?oc=5"
+ },
+ {
   "id": "203dd52099",
   "datum": "2026-09-23",
   "tijd": "06:57",
@@ -36,6 +95,25 @@
   ],
   "samenvatting": "De peuter die dinsdagmiddag zwaargewond raakte bij een ongeluk op een bedrijventerrein in Veen, verkeert niet in levensgevaar. Dat zegt de politie woensdagochtend. Het kind ligt nog in het ziekenhuis. De politie wil de precieze leeftijd van de peuter niet delen, ook zegt ze niet of het gaat om een jongen of een meisje.",
   "link": "https://www.omroepbrabant.nl/nieuws/6028262/peuter-die-zwaargewond-raakte-bij-ongeluk-in-veen-is-niet-in-levensgevaar"
+ },
+ {
+  "id": "e0b6261f92",
+  "datum": "2026-09-23",
+  "tijd": "06:57",
+  "nieuw": true,
+  "titel": "Zwaargewonde peuter niet in levensgevaar na ongeluk op bedrijventerrein",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "bedrijventerrein"
+  ],
+  "samenvatting": "De peuter die dinsdagmiddag zwaargewond raakte bij een ongeluk op een bedrijventerrein in Veen, verkeert niet in levensgevaar. Dat zegt de politie woensdagochtend. Het kind ligt nog in het ziekenhuis. De politie wil de precieze leeftijd van de peuter niet delen, ook zegt ze niet of het gaat om een jongen of een meisje.",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028262/zwaargewonde-peuter-niet-in-levensgevaar-na-ongeluk-op-bedrijventerrein"
  },
  {
   "id": "feb132a5ff",
@@ -282,7 +360,7 @@
   "id": "66f6130025",
   "datum": "2026-09-22",
   "tijd": "19:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wees niet onverschillig ten aanzien van mensenhandel.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -301,7 +379,7 @@
   "id": "1506cce529",
   "datum": "2026-09-22",
   "tijd": "19:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - Gemeente Noordoostpolder wil zelf snelbouwwoningen voor Oekraïners laten bouwen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -322,7 +400,7 @@
   "id": "79c3acb438",
   "datum": "2026-09-22",
   "tijd": "19:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "22/9 in Nieuwsuur: Trump over hoge dieselprijzen • Uitvaart Alfredo Goeloe • Hybride oorlogsvoering",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -1683,26 +1761,6 @@
   ],
   "samenvatting": "OM eist 7 jaar cel voor drugslab en explosie Schammenkamp hartvannederland.nl",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONm1wY1dsYjJac19XeGdHbS15U2VVRHgzQ2l1MmxRQjZwcFc1cXZXZkhRQkdSRFJYRXBlMHlLamoyZFRmc0RRZkhjODdNeWJYQW9ZaVVUdFNvT2Q2djQ3U2VBZUpVcU01MUdvNGhBWUdEVHVFdnVfemJWMjRGdm56Q09OQlhNSTdIRV9EVTZOLXZSbldjTnhMd2xXR0ZtQUZNQ3lCV1d4eHFQTkJ2YmhB?oc=5"
- },
- {
-  "id": "96b2fff0fd",
-  "datum": "2026-09-22",
-  "tijd": "08:28",
-  "nieuw": false,
-  "titel": "Student TU Eindhoven is land uit na uitbrengen Hitlergroet in collegezaal",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "bedreiging",
-   "beveiliging"
-  ],
-  "samenvatting": "De student die vorige week in een volle collegezaal van de Technische Universiteit Eindhoven de Hitlergroet bracht, is vrijwillig uit Nederland vertrokken. Hij wordt niet strafrechtelijk vervolgd, laat het Openbaar Ministerie weten. Volgens een woordvoerder van het OM gaat het om een \"kwetsbare verdachte\". Na overleg m",
-  "link": "https://nos.nl/l/2631992"
  },
  {
   "id": "2aa7d5ef5f",
@@ -60503,6 +60561,25 @@
    "Beleid, wetgeving & toezicht",
    "Milieucriminaliteit & afval"
   ]
+ },
+ {
+  "id": "5551ffd98e",
+  "datum": "2023-01-23",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Najim el A. (26) krijgt 9 jaar voor voorbereiden liquidatie en bezit wapenarsenaal",
+  "bron": "Het Parool",
+  "verzameld_via": "Nieuws — Geweld, liquidaties & bedreiging",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "Najim el A. (26) krijgt 9 jaar voor voorbereiden liquidatie en bezit wapenarsenaal Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORzNmS3NYbENWMUk2YmY4d3NDVGN5V2pLME5sYVRQblFCa3FVM196eVJUNUhiSkFvblZTSjgyOG9jbnY3LVc2OUMxdUUxX1piYkVGaVh5UkVzUml6bmF0M2x5TEZqY0t2RXhtLWdzS3JQTDNrZXRrRkVHY0xHTXpidGY1NWxCY0F2bUJ4bkxMRk1XTXROMm9CZTRZQnkzbzRtcGNJU0NQN0g2cEpCUXJVTXJmR2x5Zm1tUXBiSGlR?oc=5"
  },
  {
   "id": "66208cb7b5",
