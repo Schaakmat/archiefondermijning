@@ -1,12 +1,12 @@
 {
- "run": "14:43",
+ "run": "15:40",
  "datum": "2026-09-23",
- "nieuw": 9,
- "totaal": 3582,
- "verwijderd": 10,
+ "nieuw": 12,
+ "totaal": 3586,
+ "verwijderd": 8,
  "geweigerd": {
-  "niet-nederlands": 1073,
-  "geen dossier": 463
+  "niet-nederlands": 1004,
+  "geen dossier": 467
  },
  "bronnen": [
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -78,7 +78,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -284,8 +284,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 68,
-   "status": "bij",
+   "items": 69,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -429,8 +429,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 128,
-   "status": "bij",
-   "ok": true
+   "status": "0 records",
+   "ok": false
   },
   {
    "naam": "Rechtspraak — strafzaken",
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 140,
-   "status": "3 nieuw",
+   "items": 142,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 36,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 97,
-   "status": "bij",
+   "items": 98,
+   "status": "1 nieuw",
    "ok": true
   },
   {
