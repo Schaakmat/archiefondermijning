@@ -1,12 +1,12 @@
 {
- "run": "13:48",
+ "run": "14:43",
  "datum": "2026-09-23",
- "nieuw": 13,
- "totaal": 3583,
+ "nieuw": 9,
+ "totaal": 3582,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1048,
-  "geen dossier": 468
+  "niet-nederlands": 1073,
+  "geen dossier": 463
  },
  "bronnen": [
   {
@@ -78,7 +78,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -159,7 +159,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 50,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 141,
-   "status": "4 nieuw",
+   "items": 140,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 35,
-   "status": "bij",
+   "items": 36,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 70,
-   "status": "3 nieuw",
+   "items": 69,
+   "status": "bij",
    "ok": true
   },
   {

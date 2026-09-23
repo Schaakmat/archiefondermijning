@@ -11,20 +11,14 @@
   "regio": "Flevoland",
   "dossiers": [
    "Corruptie & integriteit",
-   "Crypto & digitaal geld",
-   "Geweld, liquidaties & bedreiging",
-   "Goudhandel & edelmetalen",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk",
-   "Witwassen & geldstromen"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
    "ambtenaar",
-   "bedreiging",
-   "contant geld",
    "corrupte ambtenaar",
    "corruptie",
-   "crypto"
+   "gemeenteambtenaar",
+   "geweld"
   ],
   "samenvatting": "Het wordt voor justitie 'een hele uitdaging' om de lekkende Almeerse gemeenteambtenaar Jim B. veroordeeld te krijgen voor geweldsincidenten. Dat voorspelde advocaat Mark Teurlings woensdag in de rechtbank Amsterdam. Justitie eiste dinsdag twaalf jaar cel tegen de Almeerder voor corruptie, computervredebreuk en medeplic",
   "link": "https://www.omroepflevoland.nl/nieuws/524864/corrupte-ambtenaar-volgens-advocaat-niet-schuldig-aan-geweldsincidenten-'ook-geen-bewijs-voor-betalingen-door-criminelen'"
@@ -52,6 +46,28 @@
   ],
   "samenvatting": "Bij de woning aan De Punter in Lelystad waar afgelopen weekend een explosie plaatsvond, is op last van burgemeester Baltus cameratoezicht ingesteld. Het pand werd eerder al gesloten. De politie vond tijdens onderzoek na de brand een grote hoeveelheid drugs in emmers in de woning. Om welke drugs het gaat, is niet bekend",
   "link": "https://www.omroepflevoland.nl/nieuws/524860/zes-weken-cameratoezicht-rond-drugspand-lelystad-na-explosie"
+ },
+ {
+  "id": "0cd8482b96",
+  "datum": "2026-09-23",
+  "tijd": "14:05",
+  "nieuw": true,
+  "titel": "Hennepkwekerij met ruim 300 planten ontruimd en gesloten in Graauw",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "pand"
+  ],
+  "samenvatting": "Het pand zal voor drie maanden dichtblijven.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18804454/hennepkwekerij-met-ruim-300-planten-ontruimd-en-gesloten-in-graauw"
  },
  {
   "id": "2ada537fd5",
@@ -173,7 +189,7 @@
   "id": "bfd352c70c",
   "datum": "2026-09-23",
   "tijd": "11:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explosief aangetroffen op bankje tussen twee flats in de Wildemanbuurt, 18-jarige Amsterdammer aangehouden - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -193,7 +209,7 @@
   "id": "1277ae55b8",
   "datum": "2026-09-23",
   "tijd": "11:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (40) verdacht van seksueel misbruik kwetsbaar meisje (17): 'U had haar leeftijd moeten checken'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -212,7 +228,7 @@
   "id": "2ecabc3e9b",
   "datum": "2026-09-23",
   "tijd": "11:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Den Haag pleit voor landelijke aanpak van zorgfraude",
   "bron": "070online",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -231,7 +247,7 @@
   "id": "614805f46f",
   "datum": "2026-09-23",
   "tijd": "10:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie start onderzoek naar bekladde auto's",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -250,7 +266,7 @@
   "id": "2651462ad6",
   "datum": "2026-09-23",
   "tijd": "10:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Johan Vlemmix haalt 'Hyves is Hyves'-hit opnieuw van stal",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -911,27 +927,6 @@
   ],
   "samenvatting": "Wees niet onverschillig ten aanzien van mensenhandel. Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tcjlqWjQteEFoc2JUdHBBckpkTGhfYTBHNGgtbjRnWi12QW0yS3liZG14YUdtX2lXblY4UlVpaDJwOFgzMEJJTEtKVV81NWxOU19mOVN6c1JiYkFXWEFhNjFkSi1jWkRUdTVxVmlNTE1xNTVhbnc?oc=5"
- },
- {
-  "id": "1506cce529",
-  "datum": "2026-09-22",
-  "tijd": "19:54",
-  "nieuw": false,
-  "titel": "Emmeloord - Gemeente Noordoostpolder wil zelf snelbouwwoningen voor Oekraïners laten bouwen",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "gemeenteraad",
-   "woning"
-  ],
-  "samenvatting": "In het nieuwste deel van de Emmeloordse wijk Emmelhage moeten ruim dertig snelbouwwoningen komen voor Oekraïense ontheemden en sociale huurders. Dat blijkt uit een plan van de gemeente Noordoostpolder, die de huizen op eigen kosten wil neerzetten. Voor de bouw is 8,2 miljoen euro nodig. De gemeenteraad moet nog wel akk",
-  "link": "https://www.omroepflevoland.nl/nieuws/524734/gemeente-noordoostpolder-wil-zelf-snelbouwwoningen-voor-oekrainers-laten-bouwen"
  },
  {
   "id": "79c3acb438",
@@ -2337,25 +2332,6 @@
   ],
   "samenvatting": "Ransomware – software die bestanden gijzelt en pas weer vrijgeeft als er losgeld is betaald – kost de overheid en het bedrijfsleven nu al vele miljoenen. Met AI kunnen cybercriminelen nog grondiger te werk gaan. Maar dankzij AI kunnen we onszelf ook beter beschermen. Hoe? Dat legt afpersingshoogleraar Anja Shortland ui",
   "link": "https://www.ftm.nl/artikelen/ai-en-ransomware-nieuw-boek-anja-shortland"
- },
- {
-  "id": "3d08d38066",
-  "datum": "2026-09-22",
-  "tijd": "04:50",
-  "nieuw": false,
-  "titel": "250 kilometer per uur op de N65, auto crasht bij McDonald's en vat vlam",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Een snelle Volkswagen Golf is maandagnacht rond vier uur gecrasht in de McDrive van de McDonald’s langs de N65 bij Udenhout. Dit gebeurde na een achtervolging door de politie. Volgens de achtervolgende agenten liep de snelheid op tot zo'n 250 kilometer per uur. Er zijn drie mensen opgepakt Vanwege de hoge snelheid hiel",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028107/250-kilometer-per-uur-op-de-n65-auto-crasht-bij-mcdonalds-en-vat-vlam"
  },
  {
   "id": "07ca4cf6a8",
