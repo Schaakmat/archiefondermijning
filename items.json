@@ -10,30 +10,83 @@
   "soort": "Wetgeving",
   "regio": "Flevoland",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Milieucriminaliteit & afval",
-   "Ondernemers & weerbaarheid",
-   "Trustkantoren & rechtspersonen"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "bedrijventerrein",
-   "bestuurder",
-   "burgemeester",
-   "gemeenteraad",
-   "grond",
    "organisatie"
   ],
   "samenvatting": "Wethouder Toon van Steen van Noordoostpolder gaat bekijken of er in Emmeloord een plek te vinden is waar volgend jaar een autocross gehouden kan worden. Ook gaat hij in gesprek met de organisatie achter de autocross. Dat heeft hij maandag toegezegd tijdens een commissievergadering in het gemeentehuis. De Politieke Unie",
   "link": "https://www.omroepflevoland.nl/nieuws/524723/volgend-jaar-mogelijk-weer-een-autocross-in-emmeloord-wethouder-zoekt-mee-naar-een-geschikt-terrein"
  },
  {
-  "id": "930501e064",
+  "id": "8ba3df0387",
+  "datum": "2026-09-23",
+  "tijd": "05:24",
+  "nieuw": true,
+  "titel": "Man blijft vastzitten na spuiten verf in gezicht agent",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Corruptie & integriteit",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "ambtenaar",
+   "bedreiging",
+   "erf"
+  ],
+  "samenvatting": "De 39-jarige man uit Schiedam die vorige week verf in het gezicht van een agent spoot, blijft voorlopig vastzitten. Op verdenking van mishandeling en bedreiging van een ambtenaar in functie en vernieling van een gebouw heeft de rechtbank in Den Haag dat besloten.",
+  "link": "https://www.rijnmond.nl/nieuws/2257766/man-blijft-vastzitten-na-spuiten-verf-in-gezicht-agent"
+ },
+ {
+  "id": "1102322e6d",
+  "datum": "2026-09-23",
+  "tijd": "05:15",
+  "nieuw": true,
+  "titel": "Hoger beroep over drugslab in Nijkerk van start",
+  "bron": "stadnijkerk.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Hoger beroep over drugslab in Nijkerk van start stadnijkerk.nl",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR2VJalF4bE41dFAyRnBXU1R0bGc4aEo2M3F1ZU1Kd2xkcTYxaVhfUml1a3lTUmZIV0VGaVZZTWUzSUg0LWhPR2ZtdHdheG5YQzNrTXpLQ25NV1JheHNjR0ZfOVdETTBuQmtvblFGb3IxeU11V1JpRlZqNG01cFQ1d1pFNnpUMUNtejFicVJnZzFmY3pkOUt5c0k5cy04UHhQ?oc=5"
+ },
+ {
+  "id": "5bb32c5776",
+  "datum": "2026-09-23",
+  "tijd": "04:51",
+  "nieuw": true,
+  "titel": "Politie valt bedrijfspand binnen, zestien pallets in beslag genomen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "pand",
+   "wapen"
+  ],
+  "samenvatting": "De politie heeft in Vlaardingen een inval gedaan in een bedrijfspand aan de Energieweg. In de nacht van dinsdag op woensdag forceerde zwaarbewapende agenten de deur en werd het pand doorzocht.",
+  "link": "https://www.rijnmond.nl/nieuws/2257757/politie-valt-bedrijfspand-binnen-zestien-pallets-in-beslag-genomen"
+ },
+ {
+  "id": "3d1994b4a5",
   "datum": "2026-09-23",
   "tijd": "03:34",
   "nieuw": true,
-  "titel": "Auto volledig uitgebrand, bestuurder had auto geleend",
+  "titel": "Auto uitgebrand, bestuurder had auto geleend",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -44,8 +97,8 @@
   "tags": [
    "bestuurder"
   ],
-  "samenvatting": "Aan de Eindhovenseweg in Valkenswaard is een auto dinsdagnacht volledig uitgebrand. Het vuur was moeilijk te blussen vanwege een kapotte benzinetank. De bestuurder had het voertuig van iemand geleend. De chauffeur gaf aan dat hij thuis een marterachtig dier bij de auto had gezien. Toen hij even later richting Eindhoven",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028255/auto-volledig-uitgebrand-bestuurder-had-auto-geleend"
+  "samenvatting": "Een auto is dinsdagnacht uitgebrand aan de Eindhovenseweg in Valkenswaard. Het vuur was moeilijk te blussen vanwege een kapotte benzinetank. De bestuurder had het voertuig van iemand geleend. De chauffeur gaf aan dat hij thuis een marter bij de auto had gezien. Toen hij even later richting Eindhoven reed, kwam er rook ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028255/auto-uitgebrand-bestuurder-had-auto-geleend"
  },
  {
   "id": "e06e4c176f",
@@ -297,7 +350,7 @@
   "tags": [
    "grond"
   ],
-  "samenvatting": "De rechter heeft opnieuw een streep gezet door het terugsturen van asielzoekers naar Italië. Na een vergelijkbare uitspraak van de rechtbank in Den Haag begin deze maand , oordeelt nu ook de vreemdelingenkamer in Utrecht hetzelfde over drie afzonderlijke zaken. Volgens de rechtbank riskeren asielzoekers in Italië nog a",
+  "samenvatting": "De rechter heeft opnieuw een streep gezet door het terugsturen van asielzoekers naar Italië. Na een vergelijkbare uitspraak begin deze maand , oordeelt nu ook de vreemdelingenkamer in Utrecht hetzelfde over drie afzonderlijke zaken. Volgens de rechtbank riskeren asielzoekers in Italië nog altijd op straat te belanden z",
   "link": "https://nos.nl/l/2632074"
  },
  {
@@ -323,7 +376,7 @@
   "id": "14beea49e5",
   "datum": "2026-09-22",
   "tijd": "18:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Utrecht wil dat Rijk leiding neemt bij aanpak zorgfraude",
   "bron": "RTV Utrecht",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -342,7 +395,7 @@
   "id": "5375aaf6ab",
   "datum": "2026-09-22",
   "tijd": "18:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "BBB-leider Morsink keert na de verkiezingen niet terug in de Provinciale Staten",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -52836,6 +52889,29 @@
   ],
   "samenvatting": "Gemeente Rotterdam komt met actieplan tegen zorgfraude NOS",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSm5DR3lSY3dFR2JlSTVUMHlIV3dVVWRNZFcwN3pPWUo3NHlFMHNpZGY5MXJDT1g2aU10SWdyd21Mdi1HdHFaaGhsMHJZUWMzUkhOZlFQZDRXdVJDakRWczNNTjZvbTdSdmYwdEc2cHBybi0wdjIzaU1wb1lEbE5SdlRyamgxYU13NGNCZld3?oc=5"
+ },
+ {
+  "id": "64bf508dc0",
+  "datum": "2024-11-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Controle op vakantiepark in Overberg: politie stuit op vuurwapens, drugs en illegale bewoning",
+  "bron": "rijnpost.nl",
+  "verzameld_via": "Nieuws — Buitengebied & recreatie",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vakantiepark",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Controle op vakantiepark in Overberg: politie stuit op vuurwapens, drugs en illegale bewoning rijnpost.nl",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUEh1SDdfd2hwSUtKcTNrX1U5U1lhblJGV1lZNjdHZWhvSGpUd1dwekdmSzhDV1hjRTdZOGpXVXd0djNVUHVTV3YtazNRWk1waDRmQkZNWWt5UzlvWkZNRk1zaks0YVo1NzhMcWxiVjRyT291NTlGZ2Rpbkk5ZVdxMk9sRW9sVEhmWUYtWnViOGpHcWY1ZDJQbDJQOUFnYUt4V2QtcmJoVGZuWUVXZmoyaE0zUnhwS3RnbFE?oc=5"
  },
  {
   "id": "6da4672353",

@@ -1,12 +1,12 @@
 {
- "run": "04:37",
+ "run": "05:39",
  "datum": "2026-09-23",
- "nieuw": 17,
- "totaal": 3548,
- "verwijderd": 15,
+ "nieuw": 18,
+ "totaal": 3552,
+ "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1075,
-  "geen dossier": 457
+  "niet-nederlands": 1055,
+  "geen dossier": 467
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 197,
-   "status": "bij",
+   "items": 198,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -302,8 +302,8 @@
    "url": "news.google.com/rss/search?q=%22ondermijning%20buitengebied%22%20OR%20va",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 20,
-   "status": "bij",
+   "items": 21,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -474,7 +474,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 9,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 140,
-   "status": "bij",
+   "items": 142,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 94,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -546,7 +546,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 70,
-   "status": "4 nieuw",
+   "status": "3 nieuw",
    "ok": true
   },
   {
