@@ -19,6 +19,27 @@
   "link": "https://www.omroepflevoland.nl/nieuws/524723/volgend-jaar-mogelijk-weer-een-autocross-in-emmeloord-wethouder-zoekt-mee-naar-een-geschikt-terrein"
  },
  {
+  "id": "e9db081025",
+  "datum": "2026-09-23",
+  "tijd": "05:58",
+  "nieuw": true,
+  "titel": "Gijs geeft oude zonnepanelen nieuw leven: 99 procent wordt gerecycled",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "stal"
+  ],
+  "samenvatting": "Op zijn negentiende begon Gijs ten Brinke aan een onderzoek naar het recyclen van zonnepanelen. Vijf jaar later staat hij aan het hoofd van Solar2Cycle. Met zijn bedrijf werkt hij in Rijssen aan een nieuwe installatie waarmee afgedankte zonnepanelen opnieuw grondstof moeten worden.",
+  "link": "https://www.oost.nl/nieuws/3695805/gijs-geeft-oude-zonnepanelen-nieuw-leven-99-procent-wordt-gerecycled"
+ },
+ {
   "id": "8ba3df0387",
   "datum": "2026-09-23",
   "tijd": "05:24",
@@ -82,11 +103,11 @@
   "link": "https://www.rijnmond.nl/nieuws/2257757/politie-valt-bedrijfspand-binnen-zestien-pallets-in-beslag-genomen"
  },
  {
-  "id": "3d1994b4a5",
+  "id": "5dd3e79fdf",
   "datum": "2026-09-23",
   "tijd": "03:34",
   "nieuw": true,
-  "titel": "Auto uitgebrand, bestuurder had auto geleend",
+  "titel": "Auto uitgebrand, bestuurder had wagen geleend",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -97,8 +118,8 @@
   "tags": [
    "bestuurder"
   ],
-  "samenvatting": "Een auto is dinsdagnacht uitgebrand aan de Eindhovenseweg in Valkenswaard. Het vuur was moeilijk te blussen vanwege een kapotte benzinetank. De bestuurder had het voertuig van iemand geleend. De chauffeur gaf aan dat hij thuis een marter bij de auto had gezien. Toen hij even later richting Eindhoven reed, kwam er rook ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028255/auto-uitgebrand-bestuurder-had-auto-geleend"
+  "samenvatting": "Een auto is dinsdagnacht uitgebrand aan de Eindhovenseweg in Valkenswaard. Het vuur was moeilijk te blussen vanwege een kapotte benzinetank. De bestuurder had de auto van iemand geleend. De chauffeur gaf aan dat hij thuis een marter bij de auto had gezien. Toen hij even later richting Eindhoven reed, kwam er rook onder",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028255/auto-uitgebrand-bestuurder-had-wagen-geleend"
  },
  {
   "id": "e06e4c176f",
@@ -298,7 +319,7 @@
   "id": "6007099bc3",
   "datum": "2026-09-22",
   "tijd": "18:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "87-jarige vrouw thuis mishandeld, verkracht en beroofd: OM eist 13 jaar cel en tbs",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -319,7 +340,7 @@
   "id": "29a358a490",
   "datum": "2026-09-22",
   "tijd": "18:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jaren cel geëist tegen lachgashandelaar Ghayid, bezorgde moeder sloeg alarm",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -338,7 +359,7 @@
   "id": "e0e273747d",
   "datum": "2026-09-22",
   "tijd": "18:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rechtbank zet opnieuw streep door terugsturen asielzoekers naar Italië",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -357,7 +378,7 @@
   "id": "e81169200e",
   "datum": "2026-09-22",
   "tijd": "18:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Utrecht wil dat Rijk leiding neemt bij aanpak zorgfraude",
   "bron": "RTV Utrecht",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
