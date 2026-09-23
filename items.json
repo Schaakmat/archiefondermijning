@@ -208,6 +208,27 @@
   "link": "https://www.gld.nl/nieuws/8527716/paard-op-drift-restaurant-stopt-en-brand-bij-de-buren-op-woensdag-23-september"
  },
  {
+  "id": "48829a31f1",
+  "datum": "2026-09-23",
+  "tijd": "16:47",
+  "nieuw": true,
+  "titel": "Restaurant stopt, paard op drift en geen vuurwerk in de Achterhoek op 23 september",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vastgoed",
+   "vuurwerk"
+  ],
+  "samenvatting": "Vastgoedondernemer Hennie van der Most heeft via de rechter de geplande veiling van zijn landgoed in Gorssel niet weten tegen te houden. En de voetganger die dinsdag verongelukte in Doornspijk is een 89-jarige vrouw. Dit zijn de belangrijkste verhalen van woensdag 23 september.",
+  "link": "https://www.gld.nl/nieuws/8527716/restaurant-stopt-paard-op-drift-en-geen-vuurwerk-in-de-achterhoek-op-23-september"
+ },
+ {
   "id": "7b43373e0c",
   "datum": "2026-09-23",
   "tijd": "15:56",
@@ -318,7 +339,7 @@
   "id": "bc9322fc91",
   "datum": "2026-09-23",
   "tijd": "15:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Advocaat pleit voor vrijspraak na eis van 12 jaar tegen corrupte ambtenaar Jim B.",
   "bron": "De Telegraaf",
   "verzameld_via": "Nieuws — Corruptie & integriteit",
@@ -337,7 +358,7 @@
   "id": "d8e388ec4b",
   "datum": "2026-09-23",
   "tijd": "14:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hennie van der Most krijgt niet meer tijd: landgoed in Gorssel wordt geveild",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
