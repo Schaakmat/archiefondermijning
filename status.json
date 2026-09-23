@@ -1,12 +1,12 @@
 {
- "run": "18:45",
+ "run": "19:37",
  "datum": "2026-09-23",
- "nieuw": 16,
- "totaal": 3600,
- "verwijderd": 14,
+ "nieuw": 18,
+ "totaal": 3602,
+ "verwijderd": 16,
  "geweigerd": {
-  "niet-nederlands": 1042,
-  "geen dossier": 467
+  "niet-nederlands": 1055,
+  "geen dossier": 460
  },
  "bronnen": [
   {
@@ -78,7 +78,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 80,
-   "status": "6 nieuw",
+   "items": 79,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 191,
-   "status": "bij",
+   "items": 193,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 99,
-   "status": "bij",
+   "items": 100,
+   "status": "1 nieuw",
    "ok": true
   },
   {
