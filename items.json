@@ -1,5 +1,74 @@
 [
  {
+  "id": "feb132a5ff",
+  "datum": "2026-09-23",
+  "tijd": "05:58",
+  "nieuw": true,
+  "titel": "Emmeloord - Volgend jaar mogelijk weer een autocross in Emmeloord, wethouder zoekt mee naar een geschikt terrein",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Wetgeving",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval",
+   "Ondernemers & weerbaarheid",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bedrijventerrein",
+   "bestuurder",
+   "burgemeester",
+   "gemeenteraad",
+   "grond",
+   "organisatie"
+  ],
+  "samenvatting": "Wethouder Toon van Steen van Noordoostpolder gaat bekijken of er in Emmeloord een plek te vinden is waar volgend jaar een autocross gehouden kan worden. Ook gaat hij in gesprek met de organisatie achter de autocross. Dat heeft hij maandag toegezegd tijdens een commissievergadering in het gemeentehuis. De Politieke Unie",
+  "link": "https://www.omroepflevoland.nl/nieuws/524723/volgend-jaar-mogelijk-weer-een-autocross-in-emmeloord-wethouder-zoekt-mee-naar-een-geschikt-terrein"
+ },
+ {
+  "id": "930501e064",
+  "datum": "2026-09-23",
+  "tijd": "03:34",
+  "nieuw": true,
+  "titel": "Auto volledig uitgebrand, bestuurder had auto geleend",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Aan de Eindhovenseweg in Valkenswaard is een auto dinsdagnacht volledig uitgebrand. Het vuur was moeilijk te blussen vanwege een kapotte benzinetank. De bestuurder had het voertuig van iemand geleend. De chauffeur gaf aan dat hij thuis een marterachtig dier bij de auto had gezien. Toen hij even later richting Eindhoven",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028255/auto-volledig-uitgebrand-bestuurder-had-auto-geleend"
+ },
+ {
+  "id": "e06e4c176f",
+  "datum": "2026-09-23",
+  "tijd": "03:04",
+  "nieuw": true,
+  "titel": "Justitie dacht drugsbende Gods Delivery te breken, maar handel ging gewoon door",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende",
+   "kopstuk",
+   "organisatie"
+  ],
+  "samenvatting": "Vlak voor kerst werden de kopstukken en handlangers van de Almelose drugsbende ‘Gods Delivery’ veroordeeld. Politie en justitie hoopten daarmee de organisatie voorgoed te hebben opgerold. Niets bleek minder waar: anderen namen het stokje over, denkt justitie. Onder wie een eerder veroordeelde loopjongen.",
+  "link": "https://www.oost.nl/nieuws/3698608/justitie-dacht-drugsbende-gods-delivery-te-breken-maar-handel-ging-gewoon-door"
+ },
+ {
   "id": "db37f4d103",
   "datum": "2026-09-22",
   "tijd": "23:01",
@@ -292,7 +361,7 @@
   "id": "cf8efacd0d",
   "datum": "2026-09-22",
   "tijd": "18:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Slotstuk in langstlopend proces tegen Klaas Otto: 5,5 jaar cel geëist",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1542,25 +1611,6 @@
   "link": "https://nos.nl/l/2631992"
  },
  {
-  "id": "cf59e4f7b2",
-  "datum": "2026-09-22",
-  "tijd": "08:17",
-  "nieuw": false,
-  "titel": "Auto crasht bij McDonald's na achtervolging met 250 km per uur",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "stal"
-  ],
-  "samenvatting": "Een auto is afgelopen nacht na een politieachtervolging gecrasht bij een McDonald's-restaurant bij het Brabantse Udenhout. De auto vloog in brand en de drie inzittenden sloegen daarna op de vlucht. Dat bevestigt de politie na berichtgeving van Omroep Brabant . De drie reden in een Volkswagen Golf. De achtervolging bego",
-  "link": "https://nos.nl/l/2631991"
- },
- {
   "id": "2aa7d5ef5f",
   "datum": "2026-09-22",
   "tijd": "08:02",
@@ -1639,6 +1689,25 @@
   ],
   "samenvatting": "Door een hack bij de Curaçaose kansspelautoriteit liggen de namen van honderden eigenaren van schimmige goksites op straat. Sommige gokbazen, onder wie een Nederlander, verdienden daarmee naar eigen zeggen honderden miljoenen. De Curaçaose toezichthouder verleent bovendien vergunningen aan bedrijven die niet open zijn ",
   "link": "https://www.ftm.nl/artikelen/hack-onthult-wie-de-schatrijke-gokbazen-zijn-achter-schimmige-curacaose-casinosites"
+ },
+ {
+  "id": "64c7234af7",
+  "datum": "2026-09-22",
+  "tijd": "06:00",
+  "nieuw": false,
+  "titel": "Houd je vast, want AI gaat zorgen voor een tsunami van digitale afpersingen",
+  "bron": "Follow the Money",
+  "verzameld_via": "Follow the Money",
+  "soort": "Onderzoek",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "Ransomware – software die bestanden gijzelt en pas weer vrijgeeft als er losgeld is betaald – kost de overheid en het bedrijfsleven nu al vele miljoenen. Met AI kunnen cybercriminelen nog grondiger te werk gaan. Maar dankzij AI kunnen we onszelf ook beter beschermen. Hoe? Dat legt afpersingshoogleraar Anja Shortland ui",
+  "link": "https://www.ftm.nl/artikelen/ai-en-ransomware-nieuw-boek-anja-shortland"
  },
  {
   "id": "3d08d38066",
@@ -1753,30 +1822,6 @@
   ],
   "samenvatting": "Een arrestatieteam is maandagavond een woning binnengevallen in Etten-Leur. Verschillende straten in de wijk werden afgezet met linten en voorbijgangers kregen te horen dat ze er niet in mochten. Volgens omstanders was de politie al om zeven uur 's avonds aanwezig. Er zou een ruzie zijn geweest. Twee uur later, rond kw",
   "link": "https://www.omroepbrabant.nl/nieuws/6028097/arrestatieteam-valt-woning-binnen-in-etten-leur-straten-tijdlang-afgezet"
- },
- {
-  "id": "32a8dcb545",
-  "datum": "2026-09-21",
-  "tijd": "19:05",
-  "nieuw": false,
-  "titel": "Hans Smolders koninklijk onderscheiden bij afscheid gemeenteraad Tilburg",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Geweld, liquidaties & bedreiging",
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "burgemeester",
-   "gemeenteraad",
-   "moord",
-   "zilver"
-  ],
-  "samenvatting": "Hans Smolders is maandagavond benoemd tot Lid in de Orde van Oranje-Nassau. Smolders kreeg de koninklijke onderscheiding bij zijn afscheid als raadslid in Tilburg. Smolders kreeg, behalve een lintje, ook de Zilveren Erepenning van de gemeente Tilburg, uit handen van burgemeester Fleur Gräper. Smolders kreeg landelijke ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028093/hans-smolders-koninklijk-onderscheiden-bij-afscheid-gemeenteraad-tilburg"
  },
  {
   "id": "dc4d071ff2",
