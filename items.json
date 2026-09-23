@@ -1,5 +1,51 @@
 [
  {
+  "id": "ecd6122cc4",
+  "datum": "2026-09-23",
+  "tijd": "20:33",
+  "nieuw": true,
+  "titel": "Almere - Almere trekt aan de rem bij plannen voor extra opvangplekken Oekraïners: 'Steken laten vallen'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "grond",
+   "pand",
+   "vergunning"
+  ],
+  "samenvatting": "De gemeente Almere zet voorlopig een streep door de procedure voor twee mogelijke opvanglocaties voor Oekraïense vluchtelingen. Vergunningsaanvragen die vorige week zijn ingediend, noemt de gemeente nu 'voorbarig'. Een definitief besluit over de uitbreiding van het aantal opvangplekken is namelijk nog helemaal niet gen",
+  "link": "https://www.omroepflevoland.nl/nieuws/524888/almere-trekt-aan-de-rem-bij-plannen-voor-extra-opvangplekken-oekrainers:-'steken-laten-vallen'"
+ },
+ {
+  "id": "d7184496ef",
+  "datum": "2026-09-23",
+  "tijd": "20:26",
+  "nieuw": true,
+  "titel": "Veiligheidsmaatregelen in Opheusden, gemeente bang voor nieuwe rellen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "grond",
+   "vuurwerk"
+  ],
+  "samenvatting": "De gemeente Neder-Betuwe heeft voor morgen maatregelen aangekondigd om nieuwe ongeregeldheden in Opheusden te voorkomen. Afgelopen donderdag liep een protest tegen de mogelijke komst van een asielzoekerscentrum uit op rellen. Veertien mensen werden aangehouden. Voor de hele bebouwde kom van Opheusden geldt vanaf morgen",
+  "link": "https://nos.nl/l/2632222"
+ },
+ {
   "id": "0fa1705d97",
   "datum": "2026-09-23",
   "tijd": "18:45",
@@ -312,7 +358,7 @@
   "id": "2ada537fd5",
   "datum": "2026-09-23",
   "tijd": "14:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Onderzoek naar fataal auto-ongeluk vrouw op Aruba, familie betwijfelt toedracht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
