@@ -1,5 +1,43 @@
 [
  {
+  "id": "55d2c47cf1",
+  "datum": "2026-09-23",
+  "tijd": "09:06",
+  "nieuw": true,
+  "titel": "Greylisting dreigt voor Suriname door gebrekkige handhaving tegen witwassen",
+  "bron": "Suriname Herald",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Greylisting dreigt voor Suriname door gebrekkige handhaving tegen witwassen Suriname Herald",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZU1Tb3V6bWtEU29oT0VIYWFUcC1pbU9URERhT254OUx5WXdGeHVfUnl6bGxhYURhY0RDVGtPcDBjVVNfODViV3h0bXB3Zkhack0xMkxaaHJJN0d2OFo5WXR1WDBsNkVfNUFkNlI0RUxGengzTElrR3hTYkpfdlY5bEE1LUNLeWpxTGhaSkV3RVEydk5rMjZIUW41UXBESWtDZlBlVHBZeVB6a1hOYTEyRE5JZ2xnTEVuX1ZJeW9R?oc=5"
+ },
+ {
+  "id": "ada356fc0c",
+  "datum": "2026-09-23",
+  "tijd": "09:06",
+  "nieuw": true,
+  "titel": "Man (21) zonder rijbewijs veroorzaakt ongeluk en wordt verdacht van rijden onder invloed",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Bestuurder (21) onder invloed en zonder rijbewijs botst op geparkeerde auto",
+  "link": "https://www.omroepzeeland.nl/nieuws/18804163/man-21-zonder-rijbewijs-veroorzaakt-ongeluk-en-wordt-verdacht-van-rijden-onder-invloed"
+ },
+ {
   "id": "920dac7342",
   "datum": "2026-09-23",
   "tijd": "08:40",
@@ -76,6 +114,25 @@
   ],
   "samenvatting": "'Goede zorg vraagt om een harde aanpak van zorgfraude' Voorburgs Dagblad",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkpjV3FUZ1NJVm5XalFQeXJHUWRtSkttUDhWRlVnQ2trVmRhMW1Vekw1MHFCUUJJWmxqZFVLMWFqd3RfcnJwTjRvME1yUDdQYWJqYVVya1YyZXFSMmpRTDRYVlNmQ0FWdUdoMHU2VXFvZTZweFBTNmVhSjVOMW94dWx4dC1SQTlKLUhrU1BCMTRITHRycFRnVmVDcThuMHQzbkljVWx3?oc=5"
+ },
+ {
+  "id": "b5db82c4c2",
+  "datum": "2026-09-23",
+  "tijd": "07:06",
+  "nieuw": true,
+  "titel": "Gemeenten willen eindelijk aan tafel bij bestrijding van zorgfraude",
+  "bron": "Gemeente.nu",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Gemeenten willen eindelijk aan tafel bij bestrijding van zorgfraude Gemeente.nu",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWldienFxMGd0ZHhxdFoyQzhPWDRIUVBBOG5OYmtOTlRxdjZ1UzBZQTFXNnJkT1RrbjROT21Fa1dmV0pjZEtKODMydEFzYk5IX1ZsQWpsaEtyalNDUnM4OWUwUHFSTldVcFlrelpRaVB5R2Zsa0dhS1k1VzYyNkd5NER0aU5iQXF0dzZucGNOTWluRzJLN1lCUkJoZUJIMXBJT1E?oc=5"
  },
  {
   "id": "203dd52099",
@@ -246,7 +303,7 @@
   "id": "5dd3e79fdf",
   "datum": "2026-09-23",
   "tijd": "03:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto uitgebrand, bestuurder had wagen geleend",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -265,7 +322,7 @@
   "id": "e06e4c176f",
   "datum": "2026-09-23",
   "tijd": "03:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Justitie dacht drugsbende Gods Delivery te breken, maar handel ging gewoon door",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -286,7 +343,7 @@
   "id": "db37f4d103",
   "datum": "2026-09-22",
   "tijd": "23:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugsexperts geven uitleg over groot drugslab in Bree: “Crystal meth is volledig voor export”",
   "bron": "HBVL",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -310,7 +367,7 @@
   "id": "ea9eab2155",
   "datum": "2026-09-22",
   "tijd": "22:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Woede en verdriet bij uitvaart overleden arrestant: 'Was een heel gezellige man'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -338,7 +395,7 @@
   "id": "760b6ac474",
   "datum": "2026-09-22",
   "tijd": "22:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugsexperts geven uitleg over groot drugslab in Bree: “Crystal meth is volledig voor export”",
   "bron": "Nieuwsblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1974,30 +2031,6 @@
   ],
   "samenvatting": "Een arrestatieteam is maandagavond een woning binnengevallen in Etten-Leur. Verschillende straten in de wijk werden afgezet met linten en voorbijgangers kregen te horen dat ze er niet in mochten. Volgens omstanders was de politie al om zeven uur 's avonds aanwezig. Er zou een ruzie zijn geweest. Twee uur later, rond kw",
   "link": "https://www.omroepbrabant.nl/nieuws/6028097/arrestatieteam-valt-woning-binnen-in-etten-leur-straten-tijdlang-afgezet"
- },
- {
-  "id": "32a8dcb545",
-  "datum": "2026-09-21",
-  "tijd": "19:05",
-  "nieuw": false,
-  "titel": "Hans Smolders koninklijk onderscheiden bij afscheid gemeenteraad Tilburg",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Geweld, liquidaties & bedreiging",
-   "Goudhandel & edelmetalen"
-  ],
-  "tags": [
-   "burgemeester",
-   "gemeenteraad",
-   "moord",
-   "zilver"
-  ],
-  "samenvatting": "Hans Smolders is maandagavond benoemd tot Lid in de Orde van Oranje-Nassau. Smolders kreeg de koninklijke onderscheiding bij zijn afscheid als raadslid in Tilburg. Smolders kreeg, behalve een lintje, ook de Zilveren Erepenning van de gemeente Tilburg, uit handen van burgemeester Fleur Gräper. Smolders kreeg landelijke ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028093/hans-smolders-koninklijk-onderscheiden-bij-afscheid-gemeenteraad-tilburg"
  },
  {
   "id": "dc4d071ff2",
@@ -64307,6 +64340,25 @@
   ],
   "samenvatting": "Motorclub Caloh Wagoh verboden en ontbonden door rechtbank NU",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONUdtS2F2VmZIWV9yMFJRMHpnNjM4VlVyamc5QUlNTDEtUHVkMXl3NVluYTFLSGd1WGg1VzFhckdRY2VGTFppMzc4aTkyTDhSN3pqaGpwbU9CN0lCakdNeWNFWjJwZjMyWXRQcFBvc0ZRWFAtcl9INWl2b0NIRURGZlNyR1M5eDdlelBFRGMteFBOZ3kxVTRsalE1ZkZHQW1hSlE?oc=5"
+ },
+ {
+  "id": "f4732463e2",
+  "datum": "2021-04-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Komen en gaan van nieuwe motorclubs, overzicht lastiger voor politie",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "motorclub"
+  ],
+  "samenvatting": "Komen en gaan van nieuwe motorclubs, overzicht lastiger voor politie NOS",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEtMNzRBM2hUbWFfSVMxYTRoTE9feVRSMUliYVNSQmRsSEN5aS13VHNaYXhpWVBSSzNYX3VsY1lWbGhxOVEyY280a24yTWFwMXBqSE1mTG1LdGxfM2N5ajVDSEplSlBSTjBqUkxHWG5BSzBleDhrMU1YWGxFV3I4SGRKV2JSTzF6SzFzSUdYRjBIMU1zRjFjYUZTekkzTXc?oc=5"
  },
  {
   "id": "b8e7d22e0c",
