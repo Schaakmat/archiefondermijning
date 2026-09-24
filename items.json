@@ -1,5 +1,28 @@
 [
  {
+  "id": "d061e7d1cc",
+  "datum": "2026-09-24",
+  "tijd": "10:34",
+  "nieuw": true,
+  "titel": "Man uit Etten-Leur meldt zich nadat arrestatieteam zijn huis binnenvalt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "De man naar wie maandagavond werd gezocht door een arrestatieteam in Etten-Leur, heeft zich woensdag gemeld bij de politie. Dat meldt de politie donderdag. De politie viel maandagavond de woning van de man aan de Cellostraat binnen na een gevecht in de straat. Bij dat gevecht zou volgens de politie mogelijk een wapen z",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028547/man-uit-etten-leur-meldt-zich-nadat-arrestatieteam-zijn-huis-binnenvalt"
+ },
+ {
   "id": "0d0fe252ec",
   "datum": "2026-09-24",
   "tijd": "10:33",
@@ -29,6 +52,25 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "gemeenteraad"
+  ],
+  "samenvatting": "De gemeente Helmond en de provincie gaan ruim 60 miljoen euro uitgeven om eigenaar te worden van de Automotive Campus in Helmond. Het is een flinke uitgave voor Helmond, maar de gemeenteraad ging woensdagavond akkoord. Op de campus zitten bedrijven, onderzoekers en opleidingen bij elkaar met het doel om te innoveren op",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028533/tientallen-miljoenen-voor-aankoop-automotive-campus-verborgen-parel"
+ },
+ {
+  "id": "6dc610bb94",
+  "datum": "2026-09-24",
+  "tijd": "10:10",
+  "nieuw": true,
+  "titel": "Gemeente en provincie trekken portemonnee voor Automotive Campus",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
    "Bibob & bestuurlijke aanpak",
    "Milieucriminaliteit & afval",
    "Trustkantoren & rechtspersonen"
@@ -38,8 +80,8 @@
    "gemeenteraad",
    "grond"
   ],
-  "samenvatting": "De gemeente Helmond en de provincie gaan ruim 60 miljoen euro uitgeven om eigenaar te worden van de Automotive Campus in Helmond. Het is een flinke uitgave voor Helmond, maar de gemeenteraad ging woensdagavond akkoord. Op de campus zitten bedrijven, onderzoekers en opleidingen bij elkaar met het doel om te innoveren op",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028533/tientallen-miljoenen-voor-aankoop-automotive-campus-verborgen-parel"
+  "samenvatting": "De gemeente Helmond en de provincie gaan ruim 60 miljoen euro uitgeven om volledig eigenaar te worden van de Automotive Campus in Helmond. Het is een flinke uitgave voor Helmond, maar de gemeenteraad ging woensdagavond akkoord. Op de campus zitten bedrijven, onderzoekers en opleidingen bij elkaar met het doel om te inn",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028533/gemeente-en-provincie-trekken-portemonnee-voor-automotive-campus"
  },
  {
   "id": "53d7a1ff4f",
@@ -59,6 +101,25 @@
   ],
   "samenvatting": "De Radboud Universiteit gaat de Groot-Nederlandse Studenten Vereniging (GNSV) niet meer toelaten tijdens de introductiemarkt. Dat laat een woordvoerder van de universiteit weten op vragen van Omroep Gelderland. Aanleiding is een analyse van NCTV en AIVD, waarin de GNSV als rechts-extremistisch is aangemerkt.",
   "link": "https://www.gld.nl/nieuws/8527860/radboud-universiteit-gaat-gnsv-weren-van-introductiemarkt-na-rapport-over-extreemrechts"
+ },
+ {
+  "id": "ed67dce12e",
+  "datum": "2026-09-24",
+  "tijd": "10:07",
+  "nieuw": true,
+  "titel": "Radboud trekt grens: GNSV niet meer welkom bij introductie na rapport over rechts-extremisme",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "nctv"
+  ],
+  "samenvatting": "De Radboud Universiteit gaat de Groot-Nederlandse Studenten Vereniging (GNSV) niet meer toelaten tijdens de introductiemarkt. Dat laat een woordvoerder van de universiteit weten op vragen van Omroep Gelderland. Aanleiding is een analyse van NCTV en AIVD, waarin de GNSV als rechts-extremistisch is aangemerkt.",
+  "link": "https://www.gld.nl/nieuws/8527860/radboud-trekt-grens-gnsv-niet-meer-welkom-bij-introductie-na-rapport-over-rechts-extremisme"
  },
  {
   "id": "b33d74849f",
@@ -128,7 +189,7 @@
   "datum": "2026-09-24",
   "tijd": "07:00",
   "nieuw": true,
-  "titel": "Ongeveer 70 mensen bestempeld als gevaar voor nationale veiligheid",
+  "titel": "IND: ongeveer 70 mensen bestempeld als gevaar voor nationale veiligheid",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
@@ -185,25 +246,6 @@
   ],
   "samenvatting": "De gedeeltelijke afsluiting van de westelijke Suurhoffbrug bij de Europoort kost de transportsector minimaal 600.000 euro per dag. Die schatting wordt gedaan door Transport en Logistiek Nederland (TLN) en Deltalinqs, de ondernemersvereniging van bedrijven in de Rotterdamse haven.",
   "link": "https://www.rijnmond.nl/nieuws/2258381/miljoenenstrop-voor-transportsector-door-problemen-met-suurhoffbrug"
- },
- {
-  "id": "900a6d3c00",
-  "datum": "2026-09-24",
-  "tijd": "04:45",
-  "nieuw": true,
-  "titel": "120(!) keer per dag wordt op deze kruising door rood gereden: OM grijpt in",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "vrachtwagen"
-  ],
-  "samenvatting": "120 keer per dag wordt op de kruising van de Halsterseweg en de Randweg Noord in Halsteren door rood gereden, blijkt uit verkeerstellingen. Reden voor het Openbaar Ministerie om in te grijpen. Vanaf donderdag moeten twee flitspalen de situatie voor met name fietsers op de gevaarlijke kruising veiliger maken. De flitspa",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028415/120-keer-per-dag-wordt-op-deze-kruising-door-rood-gereden-om-grijpt-in"
  },
  {
   "id": "e15beb7e22",
@@ -270,7 +312,7 @@
   "id": "d4951fe067",
   "datum": "2026-09-24",
   "tijd": "03:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hulpdiensten rukken massaal uit voor ernstig ongeval A4, snelweg dicht",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -289,7 +331,7 @@
   "id": "65fb03af29",
   "datum": "2026-09-24",
   "tijd": "03:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Automobilist botst achterop vrachtwagen op vluchtstrook, man (74) overleden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -308,7 +350,7 @@
   "id": "f59b979c51",
   "datum": "2026-09-24",
   "tijd": "00:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Negen op de tien Nederlanders willen hardere aanpak van zorgfraude in de langdurige zorg",
   "bron": "Menzis",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -327,7 +369,7 @@
   "id": "ecd6122cc4",
   "datum": "2026-09-23",
   "tijd": "20:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Almere trekt aan de rem bij plannen voor extra opvangplekken Oekraïners: 'Steken laten vallen'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -350,7 +392,7 @@
   "id": "d7184496ef",
   "datum": "2026-09-23",
   "tijd": "20:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Veiligheidsmaatregelen in Opheusden, gemeente bang voor nieuwe rellen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -988,27 +1030,6 @@
   ],
   "samenvatting": "De politie is in Oud-Beijerland een onderzoek gestart naar de bekladding van meerdere auto's met verf aan de Boomgaard. Vijf auto-eigenaren hebben inmiddels aangifte gedaan en volgens een woordvoerder van de politie staan er nog meerdere gepland.",
   "link": "https://www.rijnmond.nl/nieuws/2257811/politie-start-onderzoek-naar-bekladde-autos"
- },
- {
-  "id": "2651462ad6",
-  "datum": "2026-09-23",
-  "tijd": "10:15",
-  "nieuw": false,
-  "titel": "Johan Vlemmix haalt 'Hyves is Hyves'-hit opnieuw van stal",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "netwerk",
-   "stal"
-  ],
-  "samenvatting": "Hyves is terug en dan kan één man natuurlijk niet ontbreken: Johan Vlemmix. De entertainer uit Hoeven was er in 2008 al als de kippen bij, toen hij met zijn gelegenheidsformatie Van Ellende meeliftte op het succes van de online vriendenclub. Hyves is Hyves werd een megahit. En dus duikt Vlemmix binnenkort opnieuw de st",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028360/johan-vlemmix-haalt-hyves-is-hyves-hit-opnieuw-van-stal"
  },
  {
   "id": "d26938fb8b",
