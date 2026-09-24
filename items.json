@@ -1,5 +1,67 @@
 [
  {
+  "id": "0c86e4b66c",
+  "datum": "2026-09-24",
+  "tijd": "21:52",
+  "nieuw": true,
+  "titel": "Honderden Delftse studenten protesteren met fietstocht tegen onveiligheid op straat",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "In Delft hebben vanavond enkele honderden studenten met een fietsoptocht geprotesteerd tegen de onveiligheid op straat. Het protest volgt op enkele geruchtmakende zaken in de afgelopen maanden, waarbij vrouwen in de omgeving van het natuurgebied Delftse Hout werden mishandeld en aangerand. Enkele studentenorganisaties ",
+  "link": "https://nos.nl/l/2632369"
+ },
+ {
+  "id": "09a1afabff",
+  "datum": "2026-09-24",
+  "tijd": "20:23",
+  "nieuw": true,
+  "titel": "Man vindt vaten bij oud drugslab, krijgt klachten als er damp vrijkomt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "drugslab",
+   "pand",
+   "vaten"
+  ],
+  "samenvatting": "Een man heeft donderdagavond meerdere vaten gevonden in een schuur op het terrein van een voormalig drugslab aan de Broekdijk in Hulten. Toen een van de vaten omviel, kwam er damp vrij. De man kreeg daarop klachten en schakelde de hulpdiensten in. De hulpdiensten kwamen met meerdere eenheden naar het terrein. De brandw",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028611/man-vindt-vaten-bij-oud-drugslab-krijgt-klachten-als-er-damp-vrijkomt"
+ },
+ {
+  "id": "fb6beb520a",
+  "datum": "2026-09-24",
+  "tijd": "20:03",
+  "nieuw": true,
+  "titel": "Mensenhandel is terug van nooit weggeweest",
+  "bron": "hpdetijd.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Mensenhandel is terug van nooit weggeweest hpdetijd.nl",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0tPaElaYllkdzFhZlRTN3NJbG1hcm42SmR0ekRoM2xST3pzT2NYWTU5YVhFMVFqTUQyakVBclRaX3hnSWpBaUJ1Y2NGLW0xaU1GeTFqMGE3a1NURXJzV2JPY2FGT0NyZ0pTOFRQYl9wNk9sZjYzbXozRmxHUnhSRlcyMU1BdFRnR2FYVjVn?oc=5"
+ },
+ {
   "id": "c268c240f1",
   "datum": "2026-09-24",
   "tijd": "18:45",
@@ -68,6 +130,45 @@
   "link": "https://www.oost.nl/nieuws/3699466/man-steelt-1000-liter-brandstof-met-omgebouwde-bus-in-blokzijl"
  },
  {
+  "id": "9e33034114",
+  "datum": "2026-09-24",
+  "tijd": "16:48",
+  "nieuw": true,
+  "titel": "Berover kust gestolen kettingen na straatroof op 72-jarige man",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "goud",
+   "zilver"
+  ],
+  "samenvatting": "Een 72-jarige man is in het Wijkpark Oude Westen in Rotterdam beroofd van zijn gouden en zilveren ketting. De politie zoekt een man die na de beroving met de kettingen wordt gefilmd op de West-Kruiskade.",
+  "link": "https://www.rijnmond.nl/nieuws/2258575/berover-kust-gestolen-kettingen-na-straatroof-op-72-jarige-man"
+ },
+ {
+  "id": "447093363b",
+  "datum": "2026-09-24",
+  "tijd": "16:48",
+  "nieuw": true,
+  "titel": "Hulpdiensten druk met verwarde vrouw",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De brandweer en politie zijn donderdagmiddag uitgerukt omdat een verwarde vrouw voor een gevaarlijke situatie zorgde in Wageningen. De hulpdiensten zijn haar woning binnengegaan en hebben haar meegenomen.",
+  "link": "https://www.gld.nl/nieuws/8528083/hulpdiensten-druk-met-verwarde-vrouw"
+ },
+ {
   "id": "c4c5143b35",
   "datum": "2026-09-24",
   "tijd": "16:26",
@@ -127,6 +228,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6028575/113-borden-op-merwedebrug-mogen-er-niet-komen-gemeente-moet-verder-zoeken"
  },
  {
+  "id": "b767ab78dd",
+  "datum": "2026-09-24",
+  "tijd": "15:03",
+  "nieuw": true,
+  "titel": "Juridische strijd om McDonald's: 'Wat is het verschil met een afhaalrestaurant?'",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "vergunning"
+  ],
+  "samenvatting": "De vraag die vandaag centraal stond in de rechtbank in Arnhem is: trekt een grote gele M met drive-through veel bezoekers? De gemeenten Rheden en Zutphen denken van wel en willen daarom geen nieuwe McDonalds in hun gemeente. Projectontwikkelaar Reggestede ziet dat anders en wil dat de gemeenten een vergunning verlenen ",
+  "link": "https://www.gld.nl/nieuws/8527799/juridische-strijd-om-mcdonalds-wat-is-het-verschil-met-een-afhaalrestaurant"
+ },
+ {
   "id": "f881090a48",
   "datum": "2026-09-24",
   "tijd": "14:53",
@@ -158,11 +278,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Buitengebied & recreatie"
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
-   "erf",
    "toezichthouder"
   ],
   "samenvatting": "Squishy dumplings zijn niet gevaarlijk voor de gezondheid. De Nederlandse Voedsel- en Warenautoriteit (NVWA) deed onderzoek naar het razend populaire speelgoed en vond geen gezondheidsrisico's. Afgelopen zomer haalden sommige winkels de kneedbare dumplings uit de handel nadat uit onderzoek was gebleken dat er mogelijk ",
@@ -253,7 +371,7 @@
   "id": "781773e4dd",
   "datum": "2026-09-24",
   "tijd": "13:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Haveneconoom woedend over problemen Suurhoffbrug: 'Slecht voor imago Rotterdam'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -272,7 +390,7 @@
   "id": "d061e7d1cc",
   "datum": "2026-09-24",
   "tijd": "10:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man uit Etten-Leur meldt zich nadat arrestatieteam zijn huis binnenvalt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -293,7 +411,7 @@
   "id": "0d0fe252ec",
   "datum": "2026-09-24",
   "tijd": "10:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Uit frustratie richt Almeerder eigen landelijke partij RESOLUUT op: 'Dan maar zelf'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -312,7 +430,7 @@
   "id": "40a841a978",
   "datum": "2026-09-24",
   "tijd": "10:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tientallen miljoenen voor aankoop Automotive Campus: 'Verborgen parel'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -331,7 +449,7 @@
   "id": "6dc610bb94",
   "datum": "2026-09-24",
   "tijd": "10:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gemeente en provincie trekken portemonnee voor Automotive Campus",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -350,7 +468,7 @@
   "id": "53d7a1ff4f",
   "datum": "2026-09-24",
   "tijd": "10:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Radboud Universiteit gaat GNSV weren van introductiemarkt na rapport over extreemrechts",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -369,7 +487,7 @@
   "id": "ed67dce12e",
   "datum": "2026-09-24",
   "tijd": "10:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Radboud trekt grens: GNSV niet meer welkom bij introductie na rapport over rechts-extremisme",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -388,7 +506,7 @@
   "id": "b33d74849f",
   "datum": "2026-09-24",
   "tijd": "09:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tv-recensie | Witwassen en opkopen, in Spaanstalige landen heeft de Hollander grote invloed - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
   "bron": "Nieuws — Witwassen & geldstromen",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -411,7 +529,7 @@
   "id": "7fba51746d",
   "datum": "2026-09-24",
   "tijd": "09:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Agenten fouilleren leerlingen op middelbare school na mogelijke dreiging",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -430,7 +548,7 @@
   "id": "101d014304",
   "datum": "2026-09-24",
   "tijd": "08:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Uitgebrande woning in Lelystad bewaakt door politieagenten, forensisch onderzoek naar oorzaak",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -451,7 +569,7 @@
   "id": "017da28942",
   "datum": "2026-09-24",
   "tijd": "07:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "IND: ongeveer 70 mensen bestempeld als gevaar voor nationale veiligheid",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -474,7 +592,7 @@
   "id": "1f1909a329",
   "datum": "2026-09-24",
   "tijd": "06:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "RIEC: verdachte zorgtransacties mogelijk slechts topje van de ijsberg",
   "bron": "Nationale Zorggids",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -672,35 +790,6 @@
   ],
   "samenvatting": "Wie tijdens de jaarwisseling in Twenterand een vuurpijl afsteekt, hoeft niet bang te zijn voor handhaving. Burgemeester Gerrit Jan Gorter liet gisteravond in de gemeenteraad weten dat er geen controle komt op het vuurwerkverbod. “Wij gaan alleen optreden bij excessen.”",
   "link": "https://www.oost.nl/nieuws/3698934/twenterand-handhaaft-vuurwerkverbod-alleen-bij-excessen"
- },
- {
-  "id": "0fa1705d97",
-  "datum": "2026-09-23",
-  "tijd": "18:45",
-  "nieuw": false,
-  "titel": "Flevoland - Nieuwsoverzicht 23/09 | Celstraffen geëist voor dodelijke straatrace • Bol bouwt bij vliegveld",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
-   "Cocaine, haven & logistiek",
-   "Corruptie & integriteit",
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "ambtenaar",
-   "arbeidsmigranten",
-   "explosie",
-   "geweld",
-   "haven",
-   "pand"
-  ],
-  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • De 'beste drifter' die dodelijk ongeval veroorzaakte bij straatrace moet volgens OM 8 maanden cel in • Opmerkelijke zijsprong van webgigant: Bol gaat nu nie",
-  "link": "https://www.omroepflevoland.nl/nieuws/524865/nieuwsoverzicht-2309-or-celstraffen-geeist-voor-dodelijke-straatrace-*-bol-bouwt-bij-vliegveld"
  },
  {
   "id": "af5b405974",
@@ -986,6 +1075,25 @@
   ],
   "samenvatting": "Het pand zal voor drie maanden dichtblijven.",
   "link": "https://www.omroepzeeland.nl/nieuws/18804454/hennepkwekerij-met-ruim-300-planten-ontruimd-en-gesloten-in-graauw"
+ },
+ {
+  "id": "7087db30c3",
+  "datum": "2026-09-23",
+  "tijd": "13:35",
+  "nieuw": false,
+  "titel": "Twee invallen bij Utrechts restaurant Krishna Vilas vanwege mensenhandelonderzoek, restaurant vanavond wél open",
+  "bron": "De Utrechtse Internet Courant",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Twee invallen bij Utrechts restaurant Krishna Vilas vanwege mensenhandelonderzoek, restaurant vanavond wél open De Utrechtse Internet Courant",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObzhYMktzSVdKOVBqRk9fT3BkeER0akl1bks0YVM0djFpSlBJYnpnUlJjWnBIckI5bFlIY1o3b09ZQ3FVSy1CT0pKQzkxR3M1R19uTWROdjE2MGNVbXNlZVoza01RR090LUhHNm1vNlJPM2h0VXNkTmRRNGtCc0xzNWhwbFFzeHlpOGlkLVQ4ZG55OFJHdUNiNXpRRFhvTUlSUm0zZ0l0cU5vdVRCdDVLSm9USmMyMFl6OTdPWVQ3MkwyLVlfenhTVTlVUDZBWlAtdGlRTVQ3dHNuZDlveWhxbHZEdlktOFNVWHc?oc=5"
  },
  {
   "id": "fd31d57b67",
@@ -16120,6 +16228,25 @@
   ],
   "samenvatting": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen de Stentor",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV1Q5bjhaYnpaNWxpeS1uYXhMVjQyeTdZZzhUOVRMX19idDZ2Tk1rd29SZjRjVWszODB6ajhVNnNmRU5hcFQzSFUtNnpIcHhDX2dpcHJfTktXNmJodFpZdTllY2lGcldMa00zZFU1eGN2aFpkVXhBNGs3YUxEMV83UlVRaDVOZmhHbzVMWG92Z1g2YXJ0MVo3cFpGcHoxbUxuT0ZKdGJ5V0JuX1dWWEdGRWxjVC1rcUFyYzkzMGJ2bnlmcTA?oc=5"
+ },
+ {
+  "id": "891e2476c8",
+  "datum": "2026-09-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXc5OE5wT0Z4aDdWVFBUMUNmcFh1ZXJjVml6eHJ3RDR1ZThmcHc2OVRnR0dhbU9rek1kRzFDSkZfSXVRNU5ULS1aU0psa2VKODNTSG16Z1N6eDhfN1pQdUdlY3FvTWtlaWRlYnhGeU4xTThTellTLW1pWEIxQlFrZWVhdkRSdW1hOW80dnhkcnp3RVltV2F0LW1JSGNkaEFPU3FOVnJvX1pzUWh5SzRzMXdDYTUzVTZBTF9TZWozUjRfVUtrQkVV?oc=5"
  },
  {
   "id": "b730f89de1",
@@ -55348,6 +55475,27 @@
   "tags": [],
   "samenvatting": "Coördinator tegen discriminatie dringt aan op onderzoek naar racisme bij aanpak criminaliteit Follow the Money",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVZ2LVpUcTBCX3ZVc1ZnWkhESmpsYk5JbFNhNjhBUkxieWdqLVdwang1TS1NblNudHpvWEJZNVkySkMwZC1oajZteFctNnJRQy1UZnlabXU4ZVRfVUJzRUUxckpuQVplTUh1bTQ3SEVOWTFWY1ZOSldCMTc0cnEzUnRSMVRrODNSRXQ1cTdQRktkS19VT2ZGNnBNenBlbS1YVXVoenlIQ2lnYWdReDVLblBtUnoyRW5EeEI2Y1g1S1BpUmo2?oc=5"
+ },
+ {
+  "id": "3fae9b41ad",
+  "datum": "2024-09-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politiecontrole tegen ondermijning leidt tot aanhoudingen bij horecazaken",
+  "bron": "nu.CW",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "horeca",
+   "ondermijning"
+  ],
+  "samenvatting": "Politiecontrole tegen ondermijning leidt tot aanhoudingen bij horecazaken nu.CW",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2ZlbU1KXzAyWkxNcUs1eVBwaWJqbUtqVVRSemc3XzJQTDBudFpYTjhHOWpQS1RyWVZsQTVqbXh6b2xYSXlHRjR3Ymc1QjJpSmVXcE1CS201dTEtczZ0b1NSN0lCakVwT00wVEZCenhjY3ZmcWVKYlU2Y01WLXdxczd1R1VWQlptZmFCT1pyWDBZX1B2S1ZSWHpWbDJQUnJl?oc=5"
  },
  {
   "id": "45497dd4d2",
