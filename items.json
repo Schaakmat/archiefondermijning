@@ -1,5 +1,66 @@
 [
  {
+  "id": "35a34a3556",
+  "datum": "2026-09-24",
+  "tijd": "04:02",
+  "nieuw": true,
+  "titel": "Opnieuw brandstichting in Breda: huurscooters gaan in vlammen op",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container"
+  ],
+  "samenvatting": "Opnieuw zijn er in Breda in korte tijd meerdere branden uitgebroken, deze keer gebeurde dat in de wijk Boeimeer. Onder meer een bouwcontainer en twee huurscooters stonden in de nacht van woensdag op donderdag in brand. De eerste melding kwam iets na kwart over twee vanaf de Baronielaan. Daar stond een bouwcontainer met",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028423/opnieuw-brandstichting-in-breda-huurscooters-gaan-in-vlammen-op"
+ },
+ {
+  "id": "f4122f858d",
+  "datum": "2026-09-24",
+  "tijd": "04:00",
+  "nieuw": true,
+  "titel": "Voortbestaan Enschedese coffeeshop wankel: rechter beslist over horecavergunning",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "burgemeester",
+   "coffeeshop",
+   "horeca",
+   "vergunning"
+  ],
+  "samenvatting": "Na zo'n veertig jaar dreigt het doek te vallen voor coffeeshop The Black Sea in Enschede. De burgemeester trok de horecavergunning in na aanwijzingen dat de vergunning zou zijn gebruikt voor criminele activiteiten. De coffeeshopeigenaar vecht dat besluit aan bij de Raad van State.",
+  "link": "https://www.oost.nl/nieuws/3699049/voortbestaan-enschedese-coffeeshop-wankel-rechter-beslist-over-horecavergunning"
+ },
+ {
+  "id": "63d8782954",
+  "datum": "2026-09-24",
+  "tijd": "03:47",
+  "nieuw": true,
+  "titel": "Ernstig ongeval op A4, snelweg dicht bij Steenbergen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Op de A4 van Rotterdam naar Bergen op Zoom is bij Steenbergen een ernstig ongeluk gebeurd. De snelweg is dicht tussen Dinteloord en Steenbergen. Het is niet bekend wat er precies is gebeurd maar het lijkt erop dat een automobilist achterop een vrachtwagen is gereden. De politie heeft de plaats van het ongeval afgezet m",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028422/ernstig-ongeval-op-a4-snelweg-dicht-bij-steenbergen"
+ },
+ {
   "id": "f59b979c51",
   "datum": "2026-09-24",
   "tijd": "00:12",
@@ -291,7 +352,7 @@
   "id": "1571756c10",
   "datum": "2026-09-23",
   "tijd": "15:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bomaanslag op verzoek van onbekende opdrachtgever: jong tweetal veroordeeld",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -310,7 +371,7 @@
   "id": "bd0aa4215a",
   "datum": "2026-09-23",
   "tijd": "15:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Corrupte ambtenaar volgens advocaat niet schuldig aan geweldsincidenten, 'ook geen bewijs voor betalingen door criminelen'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -334,7 +395,7 @@
   "id": "6785ac4142",
   "datum": "2026-09-23",
   "tijd": "15:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zes aanhoudingen voor groepsverkrachting tiener (18): 'Alsof zij een voorwerp was waar iedereen gebruik van kon maken'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1707,25 +1768,6 @@
   ],
   "samenvatting": "De 54-jarige Mark I. uit Beuningen is dinsdag veroordeeld tot twintig jaar gevangenisstraf voor de moord op zijn vrouw Nelleke. De rechtbank gelooft niet dat hij uit paniek handelde. Dit zijn de belangrijkste verhalen van dinsdag 22 september.",
   "link": "https://www.gld.nl/nieuws/8527326/statement-familie-saunders-102-jarige-veteraan-overleden-en-celstraf-voor-femicide-op-22-september"
- },
- {
-  "id": "66cc3cb31c",
-  "datum": "2026-09-22",
-  "tijd": "16:44",
-  "nieuw": false,
-  "titel": "Villa ExpertCare breekt belofte: 25 kinderen mogelijk geen zorg",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jeugd"
-  ],
-  "samenvatting": "Voor 25 kinderen die zorg krijgen in zorgvilla's van Villa ExpertCare is nog geen vervangende zorg gevonden. De kans bestaat dat dit voor het einde van het jaar ook niet gebeurt. Het zorgbedrijf had eerder beloofd de zorg voort te zetten tot er voor ieder kind een oplossing was gevonden, maar komt die belofte nu niet n",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028242/villa-expertcare-breekt-belofte-25-kinderen-mogelijk-geen-zorg"
  },
  {
   "id": "6fb82229b8",

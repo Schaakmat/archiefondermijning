@@ -1,12 +1,12 @@
 {
- "run": "03:42",
+ "run": "04:41",
  "datum": "2026-09-24",
  "nieuw": 16,
- "totaal": 3609,
+ "totaal": 3611,
  "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1045,
-  "geen dossier": 463
+  "niet-nederlands": 1059,
+  "geen dossier": 485
  },
  "bronnen": [
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 143,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 142,
-   "status": "5 nieuw",
+   "items": 143,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 100,
-   "status": "bij",
+   "items": 101,
+   "status": "1 nieuw",
    "ok": true
   },
   {
