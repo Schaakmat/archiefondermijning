@@ -1,5 +1,26 @@
 [
  {
+  "id": "6929ef6015",
+  "datum": "2026-09-24",
+  "tijd": "08:10",
+  "nieuw": true,
+  "titel": "Lelystad - Woning in Lelystad deels uitgebrand na explosie, geen gewonden",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "Een explosie heeft in de nacht van woensdag op donderdag een flinke woningbrand veroorzaakt aan de Breehorn in Lelystad. De achterkant van de woning raakte daarbij zwaar beschadigd. De hulpdiensten kregen rond 00.55 uur een melding van een explosie. Kort daarna brak brand uit in de woning. De vlammen sloegen aan de ach",
+  "link": "https://www.omroepflevoland.nl/nieuws/524951/woning-in-lelystad-deels-uitgebrand-na-explosie-geen-gewonden"
+ },
+ {
   "id": "017da28942",
   "datum": "2026-09-24",
   "tijd": "07:00",
@@ -23,6 +44,46 @@
   "link": "https://nos.nl/l/2632255"
  },
  {
+  "id": "1f1909a329",
+  "datum": "2026-09-24",
+  "tijd": "06:17",
+  "nieuw": true,
+  "titel": "RIEC: verdachte zorgtransacties mogelijk slechts topje van de ijsberg",
+  "bron": "Nationale Zorggids",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "riec"
+  ],
+  "samenvatting": "RIEC: verdachte zorgtransacties mogelijk slechts topje van de ijsberg Nationale Zorggids",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzZtRHNtZFlrTXlmdXQzRzVvWFlWWDd3c2NBY0R2TnJscW1rX1FsRDJmSlF0SkdVVzdoeHhsNG55LUQ2MXlmYmswSXFYUVk2LXZNNXgyaktJZGlSdVJiWXpNYnhUMjRqTjFUdHp5WG1jZmd6dDFObEZaZFlaeTlWNEdIQWgybkpHNzMxa3FTdjVkUjdQVGFHai1vY1JkUEpoZmptMXpkVE9iN2RoZjZVWE1oR0g5OXFRaVE?oc=5"
+ },
+ {
+  "id": "08c9eb3db3",
+  "datum": "2026-09-24",
+  "tijd": "06:09",
+  "nieuw": true,
+  "titel": "'Miljoenenstrop voor transportsector door problemen met Suurhoffbrug'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "haven",
+   "ondernemers"
+  ],
+  "samenvatting": "De gedeeltelijke afsluiting van de westelijke Suurhoffbrug bij de Europoort kost de transportsector minimaal 600.000 euro per dag. Die schatting wordt gedaan door Transport en Logistiek Nederland (TLN) en Deltalinqs, de ondernemersvereniging van bedrijven in de Rotterdamse haven.",
+  "link": "https://www.rijnmond.nl/nieuws/2258381/miljoenenstrop-voor-transportsector-door-problemen-met-suurhoffbrug"
+ },
+ {
   "id": "900a6d3c00",
   "datum": "2026-09-24",
   "tijd": "04:45",
@@ -42,11 +103,11 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6028415/120-keer-per-dag-wordt-op-deze-kruising-door-rood-gereden-om-grijpt-in"
  },
  {
-  "id": "35a34a3556",
+  "id": "e15beb7e22",
   "datum": "2026-09-24",
   "tijd": "04:02",
   "nieuw": true,
-  "titel": "Opnieuw brandstichting in Breda: huurscooters gaan in vlammen op",
+  "titel": "Huurscooters en bouwcontainer in brand gestoken in Breda",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -58,7 +119,7 @@
    "container"
   ],
   "samenvatting": "Opnieuw zijn er in Breda in korte tijd meerdere branden uitgebroken, deze keer gebeurde dat in de wijk Boeimeer. Onder meer een bouwcontainer en twee huurscooters werden in de nacht van woensdag op donderdag in brand gestoken. De eerste melding kwam iets na kwart over twee vanaf de Baronielaan. Daar stond een bouwconta",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028423/opnieuw-brandstichting-in-breda-huurscooters-gaan-in-vlammen-op"
+  "link": "https://www.omroepbrabant.nl/nieuws/6028423/huurscooters-en-bouwcontainer-in-brand-gestoken-in-breda"
  },
  {
   "id": "f4122f858d",
@@ -120,6 +181,25 @@
   ],
   "samenvatting": "Op de A4 van Rotterdam naar Bergen op Zoom is in de nacht van woensdag op donderdag bij Steenbergen een ernstig ongeluk gebeurd. De snelweg is dicht tussen Dinteloord en Steenbergen. Het is niet bekend wat er precies is gebeurd maar het lijkt erop dat een automobilist achterop een vrachtwagen is gereden. De politie hee",
   "link": "https://www.omroepbrabant.nl/nieuws/6028422/hulpdiensten-rukken-massaal-uit-voor-ernstig-ongeval-a4-snelweg-dicht"
+ },
+ {
+  "id": "24a433ef1c",
+  "datum": "2026-09-24",
+  "tijd": "03:47",
+  "nieuw": true,
+  "titel": "Dode bij ernstig ongeval op A4 bij Steenbergen, snelweg dicht",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Op de A4 van Rotterdam naar Bergen op Zoom is in de nacht van woensdag op donderdag bij Steenbergen een ernstig ongeluk gebeurd waarbij een dode is gevallen. De snelweg is dicht tussen Dinteloord en Steenbergen. Rijkswaterstaat verwacht dat het onderzoek om 09.00 uur is afgerond. Het is niet bekend wat er precies is ge",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028422/dode-bij-ernstig-ongeval-op-a4-bij-steenbergen-snelweg-dicht"
  },
  {
   "id": "f59b979c51",
@@ -371,7 +451,7 @@
   "id": "48829a31f1",
   "datum": "2026-09-23",
   "tijd": "16:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Restaurant stopt, paard op drift en geen vuurwerk in de Achterhoek op 23 september",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -62700,6 +62780,27 @@
   ],
   "samenvatting": "Burgemeester Hengelo sluit pand aan Slachthuisweg waar mogelijk illegaal gegokt wordt 1Twente",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFBEaktmZUpJNnNROTgtMWZRSXJXa3U1MGFSZGcxOWlKV3V1bTM3c1lNZEJvZHg3UVJ5N1Z1MUtRWl9EN0k5NUxRVHhyZUd5VU9aWU9jel9qQi0tNDdWNTBsZlFRZklnb2VOTXpNck02bFdGZXN1WnhLbkNFdFpMaTdhSkFFR3lrRUpUOHRuTi13MTM0Nmw0Z0hkR0p1LTlIZndULXBWcTl6V1NXWVFMNWVtSndkNVRldlVzTkp1UHI4dw?oc=5"
+ },
+ {
+  "id": "decf10592b",
+  "datum": "2022-08-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Wat wél de drugssmokkel in de Antwerpse haven kan verstoren: slimme neuzen en digitaal beveiligde containers",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container",
+   "drugssmokkel",
+   "haven"
+  ],
+  "samenvatting": "Wat wél de drugssmokkel in de Antwerpse haven kan verstoren: slimme neuzen en digitaal beveiligde containers HLN",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYkFlWE5rc0RrUU9LX2ZOZDh2V3hEMFA4eTNNTzBfRTFxNjdKTk5xTzRMWmVRdXE1cDM2R0RoTFgzVTR5NE1sWnUwTnJ2MWpfS2dPbkNmMFJlLTJsV3RNVWpBTWdNdkNFalNWMlh3Z3ZLQUhTdEJQa0xRUUhURTBqMWJCWmZ6LVBud3BTVUFacjQzZ1FyaUtWYXljcXRlSEpLV2hWaTI1eXQ5cUFuTzFUYXFlbm1PUUR4RDhiYzdBOUg5YVBvbFpoZmE5T1lqYnB1bWhPUjdBS25aX2JpWWM2Xw?oc=5"
  },
  {
   "id": "5cd1d34647",
