@@ -1,12 +1,12 @@
 {
- "run": "00:45",
+ "run": "01:45",
  "datum": "2026-09-24",
- "nieuw": 15,
+ "nieuw": 14,
  "totaal": 3606,
  "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1057,
-  "geen dossier": 466
+  "niet-nederlands": 1048,
+  "geen dossier": 461
  },
  "bronnen": [
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -249,7 +249,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 90,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
