@@ -118,7 +118,7 @@
   "tags": [
    "container"
   ],
-  "samenvatting": "Opnieuw zijn er in Breda in korte tijd meerdere branden uitgebroken, deze keer gebeurde dat in de wijk Boeimeer. Onder meer een bouwcontainer en twee huurscooters werden in de nacht van woensdag op donderdag in brand gestoken. De eerste melding kwam iets na kwart over twee vanaf de Baronielaan. Daar stond een bouwconta",
+  "samenvatting": "Opnieuw zijn er in Breda in korte tijd meerdere branden uitgebroken. Deze keer gebeurde dat in de wijk Boeimeer. Onder meer een bouwcontainer en twee huurscooters werden in de nacht van woensdag op donderdag in brand gestoken. De eerste melding kwam iets na kwart over twee vanaf de Baronielaan. Daar stond een bouwconta",
   "link": "https://www.omroepbrabant.nl/nieuws/6028423/huurscooters-en-bouwcontainer-in-brand-gestoken-in-breda"
  },
  {
@@ -183,11 +183,11 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6028422/hulpdiensten-rukken-massaal-uit-voor-ernstig-ongeval-a4-snelweg-dicht"
  },
  {
-  "id": "24a433ef1c",
+  "id": "65fb03af29",
   "datum": "2026-09-24",
   "tijd": "03:47",
   "nieuw": true,
-  "titel": "Dode bij ernstig ongeval op A4 bij Steenbergen, snelweg dicht",
+  "titel": "Automobilist botst achterop vrachtwagen op vluchtstrook, man (74) overleden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -198,8 +198,8 @@
   "tags": [
    "vrachtwagen"
   ],
-  "samenvatting": "Op de A4 van Rotterdam naar Bergen op Zoom is in de nacht van woensdag op donderdag bij Steenbergen een ernstig ongeluk gebeurd waarbij een dode is gevallen. De snelweg is dicht tussen Dinteloord en Steenbergen. Rijkswaterstaat verwacht dat het onderzoek om 09.00 uur is afgerond. Het is niet bekend wat er precies is ge",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028422/dode-bij-ernstig-ongeval-op-a4-bij-steenbergen-snelweg-dicht"
+  "samenvatting": "Een 74-jarige man is in de nacht van woensdag op donderdag om het leven gekomen bij een ongeval op de A4 van Rotterdam naar Bergen op Zoom bij Steenbergen. Een 71-jarige vrouw zat bij de man in de auto en is met spoed naar het ziekenhuis gebracht. De slachtoffers komen uit de gemeente Borsele (provincie Zeeland). Volge",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028422/automobilist-botst-achterop-vrachtwagen-op-vluchtstrook-man-74-overleden"
  },
  {
   "id": "f59b979c51",
@@ -374,7 +374,7 @@
   "id": "af5b405974",
   "datum": "2026-09-23",
   "tijd": "17:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Volop wapens en munitie in huis, werkplaats in de schuur: ‘Kwalijk dat er ook kleine kinderen woonden’",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -394,7 +394,7 @@
   "id": "418618fb29",
   "datum": "2026-09-23",
   "tijd": "17:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aalten onderzoekt mogelijke verontreiniging terrein na brand bij afvalverwerker",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -413,7 +413,7 @@
   "id": "7da372b707",
   "datum": "2026-09-23",
   "tijd": "17:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "900.000 liter rioolwater afgevoerd na brand bij afvalverwerker",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -432,7 +432,7 @@
   "id": "fda0f38b99",
   "datum": "2026-09-23",
   "tijd": "16:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Paard op drift, restaurant stopt en brand bij de buren op woensdag 23 september",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -1673,25 +1673,6 @@
   ],
   "samenvatting": "Het Openbaar Ministerie eist dertien jaar cel en tbs met dwangverpleging tegen een 26-jarige Pool, die wordt verdacht van een reeks zeden- en geweldsdelicten. Volgens het OM randde hij twee vrouwen aan en drong hij een woning in Ede binnen, waar hij een 87-jarige vrouw verkrachtte, zwaar mishandelde en voor dood achter",
   "link": "https://www.gld.nl/nieuws/8527115/87-jarige-vrouw-thuis-mishandeld-verkracht-en-beroofd-om-eist-13-jaar-cel-en-tbs"
- },
- {
-  "id": "e0e273747d",
-  "datum": "2026-09-22",
-  "tijd": "18:29",
-  "nieuw": false,
-  "titel": "Rechtbank zet opnieuw streep door terugsturen asielzoekers naar Italië",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "grond"
-  ],
-  "samenvatting": "De rechter heeft opnieuw een streep gezet door het terugsturen van asielzoekers naar Italië. Na een vergelijkbare uitspraak begin deze maand , oordeelt nu ook de vreemdelingenkamer in Utrecht hetzelfde over drie afzonderlijke zaken. Volgens de rechtbank riskeren asielzoekers in Italië nog altijd op straat te belanden z",
-  "link": "https://nos.nl/l/2632074"
  },
  {
   "id": "e81169200e",
