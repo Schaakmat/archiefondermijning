@@ -1,12 +1,12 @@
 {
- "run": "07:44",
+ "run": "08:43",
  "datum": "2026-09-24",
  "nieuw": 17,
  "totaal": 3619,
- "verwijderd": 18,
+ "verwijderd": 17,
  "geweigerd": {
-  "niet-nederlands": 1063,
-  "geen dossier": 476
+  "niet-nederlands": 1054,
+  "geen dossier": 461
  },
  "bronnen": [
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 79,
-   "status": "5 nieuw",
+   "items": 78,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 74,
-   "status": "5 nieuw",
+   "items": 75,
+   "status": "6 nieuw",
    "ok": true
   },
   {

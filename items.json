@@ -1,5 +1,28 @@
 [
  {
+  "id": "0d0fe252ec",
+  "datum": "2026-09-24",
+  "tijd": "10:33",
+  "nieuw": true,
+  "titel": "Almere - Uit frustratie richt Almeerder eigen landelijke partij RESOLUUT op: 'Dan maar zelf'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "jongeren",
+   "kapper"
+  ],
+  "samenvatting": "De 28-jarige Vince Torsij uit Almere heeft met RESOLUUT een nieuwe landelijke politieke partij opgericht. De partij staat sinds april officieel geregistreerd bij de Kiesraad en heeft een centrumrechtse signatuur. Torsij heeft geen politieke achtergrond, hij is junior salesmanager van beroep. De Almeerder zegt door zijn",
+  "link": "https://www.omroepflevoland.nl/nieuws/524920/uit-frustratie-richt-almeerder-eigen-landelijke-partij-resoluut-op:-'dan-maar-zelf'"
+ },
+ {
   "id": "6929ef6015",
   "datum": "2026-09-24",
   "tijd": "08:10",
@@ -198,7 +221,7 @@
   "tags": [
    "vrachtwagen"
   ],
-  "samenvatting": "Een 74-jarige man is in de nacht van woensdag op donderdag om het leven gekomen bij een ongeval op de A4 van Rotterdam naar Bergen op Zoom bij Steenbergen. Een 71-jarige vrouw zat bij de man in de auto en is met spoed naar het ziekenhuis gebracht. De slachtoffers komen uit de gemeente Borsele (provincie Zeeland). Volge",
+  "samenvatting": "Een 74-jarige man is in de nacht van woensdag op donderdag om het leven gekomen bij een ongeval op de A4 van Rotterdam naar Bergen op Zoom, ter hoogte van Steenbergen. Een 71-jarige vrouw, die bij hem in de auto zat, is met spoed naar het ziekenhuis gebracht. De slachtoffers komen uit Borsele in Zeeland. Volgens de pol",
   "link": "https://www.omroepbrabant.nl/nieuws/6028422/automobilist-botst-achterop-vrachtwagen-op-vluchtstrook-man-74-overleden"
  },
  {
@@ -349,7 +372,7 @@
   "id": "65f174fd41",
   "datum": "2026-09-23",
   "tijd": "18:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - De 'beste drifter' die dodelijk ongeval veroorzaakte bij illegale straatrace moet volgens OM 8 maanden de cel in",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -1593,27 +1616,6 @@
   ],
   "samenvatting": "Wees niet onverschillig ten aanzien van mensenhandel. Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tcjlqWjQteEFoc2JUdHBBckpkTGhfYTBHNGgtbjRnWi12QW0yS3liZG14YUdtX2lXblY4UlVpaDJwOFgzMEJJTEtKVV81NWxOU19mOVN6c1JiYkFXWEFhNjFkSi1jWkRUdTVxVmlNTE1xNTVhbnc?oc=5"
- },
- {
-  "id": "79c3acb438",
-  "datum": "2026-09-22",
-  "tijd": "19:47",
-  "nieuw": false,
-  "titel": "22/9 in Nieuwsuur: Trump over hoge dieselprijzen • Uitvaart Alfredo Goeloe • Hybride oorlogsvoering",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "erf",
-   "grond"
-  ],
-  "samenvatting": "Trump over hoge dieselprijzen De Amerikaanse president Donald Trump zei gisteren op zijn kanaal Truth Social dat Rusland de controle is verloren over zijn eigen diesel- en olie-industrie door Oekraïense aanvallen. Hij roept op om deze \"belachelijke oorlog\" te stoppen. Vanavond spraken Trump en de Oekraïense president V",
-  "link": "https://nos.nl/l/2632091"
  },
  {
   "id": "4d7f3dd9d9",
