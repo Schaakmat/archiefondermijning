@@ -1,5 +1,47 @@
 [
  {
+  "id": "017da28942",
+  "datum": "2026-09-24",
+  "tijd": "07:00",
+  "nieuw": true,
+  "titel": "Ongeveer 70 mensen bestempeld als gevaar voor nationale veiligheid",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bedreiging",
+   "nctv",
+   "stal"
+  ],
+  "samenvatting": "De Immigratie- en Naturalisatiedienst (IND) heeft afgelopen tien jaar zo'n zeventig mensen bestempeld als gevaar voor de nationale veiligheid. Dat maakt de dienst bekend na vragen van Nieuwsuur . Het gaat vooral om personen die zijn veroordeeld voor een terroristisch misdrijf in Nederland, maar ook over Syriëgangers en",
+  "link": "https://nos.nl/l/2632255"
+ },
+ {
+  "id": "900a6d3c00",
+  "datum": "2026-09-24",
+  "tijd": "04:45",
+  "nieuw": true,
+  "titel": "120(!) keer per dag wordt op deze kruising door rood gereden: OM grijpt in",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "120 keer per dag wordt op de kruising van de Halsterseweg en de Randweg Noord in Halsteren door rood gereden, blijkt uit verkeerstellingen. Reden voor het Openbaar Ministerie om in te grijpen. Vanaf donderdag moeten twee flitspalen de situatie voor met name fietsers op de gevaarlijke kruising veiliger maken. De flitspa",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028415/120-keer-per-dag-wordt-op-deze-kruising-door-rood-gereden-om-grijpt-in"
+ },
+ {
   "id": "35a34a3556",
   "datum": "2026-09-24",
   "tijd": "04:02",
@@ -15,7 +57,7 @@
   "tags": [
    "container"
   ],
-  "samenvatting": "Opnieuw zijn er in Breda in korte tijd meerdere branden uitgebroken, deze keer gebeurde dat in de wijk Boeimeer. Onder meer een bouwcontainer en twee huurscooters stonden in de nacht van woensdag op donderdag in brand. De eerste melding kwam iets na kwart over twee vanaf de Baronielaan. Daar stond een bouwcontainer met",
+  "samenvatting": "Opnieuw zijn er in Breda in korte tijd meerdere branden uitgebroken, deze keer gebeurde dat in de wijk Boeimeer. Onder meer een bouwcontainer en twee huurscooters werden in de nacht van woensdag op donderdag in brand gestoken. De eerste melding kwam iets na kwart over twee vanaf de Baronielaan. Daar stond een bouwconta",
   "link": "https://www.omroepbrabant.nl/nieuws/6028423/opnieuw-brandstichting-in-breda-huurscooters-gaan-in-vlammen-op"
  },
  {
@@ -59,6 +101,25 @@
   ],
   "samenvatting": "Op de A4 van Rotterdam naar Bergen op Zoom is bij Steenbergen een ernstig ongeluk gebeurd. De snelweg is dicht tussen Dinteloord en Steenbergen. Het is niet bekend wat er precies is gebeurd maar het lijkt erop dat een automobilist achterop een vrachtwagen is gereden. De politie heeft de plaats van het ongeval afgezet m",
   "link": "https://www.omroepbrabant.nl/nieuws/6028422/ernstig-ongeval-op-a4-snelweg-dicht-bij-steenbergen"
+ },
+ {
+  "id": "d4951fe067",
+  "datum": "2026-09-24",
+  "tijd": "03:47",
+  "nieuw": true,
+  "titel": "Hulpdiensten rukken massaal uit voor ernstig ongeval A4, snelweg dicht",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Op de A4 van Rotterdam naar Bergen op Zoom is in de nacht van woensdag op donderdag bij Steenbergen een ernstig ongeluk gebeurd. De snelweg is dicht tussen Dinteloord en Steenbergen. Het is niet bekend wat er precies is gebeurd maar het lijkt erop dat een automobilist achterop een vrachtwagen is gereden. De politie hee",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028422/hulpdiensten-rukken-massaal-uit-voor-ernstig-ongeval-a4-snelweg-dicht"
  },
  {
   "id": "f59b979c51",
@@ -331,7 +392,7 @@
   "id": "7b43373e0c",
   "datum": "2026-09-23",
   "tijd": "15:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachten ontkennen cokehandel, OM ziet miljoenenbusiness in Deventer",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -46955,6 +47016,25 @@
   ],
   "samenvatting": "Mestfraude, afvalzwendel en ook drugsdumping? 'Afvalmaffia' rond Peet W. in beeld voor drugs op Baarlese akkers BN DeStem",
   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcHVaM25OSWVtUGp3SWt4b2psZEFlQy1MOC1FQU5iY1lrRlAxWWNfeS1HTXNTNmgzOUlHTVRlWG9UU1VKcGV6VzVpWlNUbllPaG9LYmFqVkhUSF82dnRMZE1lUkd5N1NkVVNteXJZNXlDYTA3alRkVnpwOW55bExPWXZrUS05UmhNcVNEekZfeFpjTGdGNmxxM3ZVdUFodWs2SnFyUUNkOEdfTHFFWGt6aUR5ckZhMi00YzNLQlpoWHpfVDZhUzh6ejNnSWY4YThBSThRM00xYzVnU2hoWDdEdGs5SmFpV2p5SkE?oc=5"
+ },
+ {
+  "id": "08e7a22399",
+  "datum": "2025-11-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "De keerzijde van een Bibob-onderzoek: ‘Dit leidt tot schade die niet had mogen gebeuren’",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "De keerzijde van een Bibob-onderzoek: ‘Dit leidt tot schade die niet had mogen gebeuren’ de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0hWVDZjOXhUZkw1QW1oZmZWRTVwUklrVm9jVk1DVjN4S29nd2xDWTRpX1lpa3lrNmFQWWtXTDJtNjc1NjdpUlJXNkFVT3pteFA5cXBFXzNFeHlwT3UxeTE2UWtHVTdKT1dXZHMxSFhiTjRxWVN2TC1RMHdocHZ3TzlzSHBONnRCd2dlODA3NENFNms2UTVkTGV3S1JieGpMUk1KaHlYYXRuWFZFQ1hadlJUWWJYNHZkdkVzUHRlODg3dlhnd0lpN0lB?oc=5"
  },
  {
   "id": "a94f82c449",
