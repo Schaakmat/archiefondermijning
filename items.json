@@ -10,17 +10,32 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Horeca, winkels & dienstverlening",
-   "Jeugd & jonge aanwas",
    "Milieucriminaliteit & afval"
   ],
   "tags": [
-   "grond",
-   "jongeren",
-   "kapper"
+   "grond"
   ],
   "samenvatting": "De 28-jarige Vince Torsij uit Almere heeft met RESOLUUT een nieuwe landelijke politieke partij opgericht. De partij staat sinds april officieel geregistreerd bij de Kiesraad en heeft een centrumrechtse signatuur. Torsij heeft geen politieke achtergrond, hij is junior salesmanager van beroep. De Almeerder zegt door zijn",
   "link": "https://www.omroepflevoland.nl/nieuws/524920/uit-frustratie-richt-almeerder-eigen-landelijke-partij-resoluut-op:-'dan-maar-zelf'"
+ },
+ {
+  "id": "7fba51746d",
+  "datum": "2026-09-24",
+  "tijd": "09:27",
+  "nieuw": true,
+  "titel": "Agenten fouilleren leerlingen op middelbare school na mogelijke dreiging",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school"
+  ],
+  "samenvatting": "Voor de deur van een middelbare school in Vlaardingen-Holy stonden donderdagochtend agenten met kogelwerende vesten. Ook werden leerlingen bij binnenkomst gefouilleerd. Volgens de politie was er sprake van dreiging.",
+  "link": "https://www.rijnmond.nl/nieuws/2258447/agenten-fouilleren-leerlingen-op-middelbare-school-na-mogelijke-dreiging"
  },
  {
   "id": "6929ef6015",
@@ -344,7 +359,7 @@
   "id": "5da4e9c6bb",
   "datum": "2026-09-23",
   "tijd": "18:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Opmerkelijke zijsprong van webgigant: Bol gaat nu niet bouwen bij Flevokust, maar naast het vliegveld",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
