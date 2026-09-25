@@ -298,7 +298,7 @@
   "id": "e14dd46f52",
   "datum": "2026-09-25",
   "tijd": "13:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeewolde - Ineke Schaddelee voorgedragen als vierde en onafhankelijke wethouder van Zeewolde",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -327,7 +327,7 @@
   "id": "6c5a7b3caa",
   "datum": "2026-09-25",
   "tijd": "13:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie dankt inwoners Overasselt: 'Kost tijd om dit te verwerken'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -346,7 +346,7 @@
   "id": "7b2419ef67",
   "datum": "2026-09-25",
   "tijd": "13:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie stopt zoektocht in Overasselt: 'Kunnen geen garantie geven'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -365,7 +365,7 @@
   "id": "91019f7449",
   "datum": "2026-09-25",
   "tijd": "13:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Evenementen Vliegveld Twenthe op losse schroeven? Rechter zet streep door vergunning",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -384,7 +384,7 @@
   "id": "2034e936d8",
   "datum": "2026-09-25",
   "tijd": "13:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gruwelijke doodslag in Apeldoorn: OM eist 10 jaar celstraf en tbs met dwang tegen verdachte - Openbaar Ministerie",
   "bron": "Openbaar Ministerie",
   "verzameld_via": "Openbaar Ministerie",
@@ -401,7 +401,7 @@
   "id": "076c4a3388",
   "datum": "2026-09-25",
   "tijd": "13:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Politiemedewerker van eenheid Midden-Nederland aangehouden en geschorst",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -420,7 +420,7 @@
   "id": "de44af65bd",
   "datum": "2026-09-25",
   "tijd": "13:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drietal aangehouden voor mishandeling en filmen van toetakelen 14-jarige jongen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -439,7 +439,7 @@
   "id": "5e97796900",
   "datum": "2026-09-25",
   "tijd": "12:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Heemskerk maakt een grotere vuist tegen mensenhandel, ook aandacht voor criminele uitbuiting van jongeren",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -460,7 +460,7 @@
   "id": "ed0b8c58d2",
   "datum": "2026-09-25",
   "tijd": "11:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man veroordeeld voor meerdere gevallen van oplichting en witwassen tot celstraf van 40 maanden",
   "bron": "De Rechtspraak",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -479,7 +479,7 @@
   "id": "672d0efdf0",
   "datum": "2026-09-25",
   "tijd": "11:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Huis Breehorn dat deels uitbrandde na een aanslag, is door burgemeester tot verboden gebied verklaard",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -1360,27 +1360,6 @@
   ],
   "samenvatting": "De vraag die vandaag centraal stond in de rechtbank in Arnhem is: trekt een grote gele M met drive-through veel bezoekers? De gemeenten Rheden en Zutphen denken van wel en willen daarom geen nieuwe McDonalds in hun gemeente. Projectontwikkelaar Reggestede ziet dat anders en wil dat de gemeenten een vergunning verlenen ",
   "link": "https://www.gld.nl/nieuws/8527799/juridische-strijd-om-mcdonalds-wat-is-het-verschil-met-een-afhaalrestaurant"
- },
- {
-  "id": "f881090a48",
-  "datum": "2026-09-24",
-  "tijd": "14:53",
-  "nieuw": false,
-  "titel": "24/9 in Nieuwsuur: Moeilijkheden bij inreisverbod • Van Weel onder vuur • Super El Niño",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Zorgfraude & sociale zekerheid"
-  ],
-  "tags": [
-   "organisatie",
-   "wmo"
-  ],
-  "samenvatting": "Moeilijkheden bij inreisverbod De Immigratie- en Naturalisatiedienst (IND) heeft afgelopen tien jaar zo'n zeventig mensen bestempeld als gevaar voor de nationale veiligheid. Dat maakt de dienst bekend na vragen van Nieuwsuur . Bij deze mensen kan het Nederlanderschap worden afgenomen, daarna volgt een inreisverbod. Dat",
-  "link": "https://nos.nl/l/2632312"
  },
  {
   "id": "529fce1f3c",
@@ -28720,6 +28699,29 @@
   ],
   "samenvatting": "Drugslab op beruchte camping in Schijf, eigenaar blijft voorlopig vastzitten De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWG5ycHItNkV6V0ozTl82TnV4ZmY4WXRvMWZDYnVrT2c1a3BYSkVEY0F5dUpPZFNaeTQ2NDExVl9lMkdLZWtYZWJ1VGVuS1pGSEFvN1lreC1GY05icmxMQU5fLXNTVWpCb1RmdEdIZG02c3JfOFE4WDVOU2VCU05wdVk4REhMQnh0N0hiQV9NSnIwbWVadWgyM2FBbXU3eDNKOWpuN3hMa1JDb2ticWVzZ3h6aXB0UTd1ZFJZdzlB?oc=5"
+ },
+ {
+  "id": "e79c0817b8",
+  "datum": "2026-08-07",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Rechter duidelijk over toepassing wet Bibob: vooralsnog alleen in Wmo en Jeugdzorg",
+  "bron": "Zorgvisie",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Jeugd & jonge aanwas",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "bibob",
+   "jeugd",
+   "wmo"
+  ],
+  "samenvatting": "Rechter duidelijk over toepassing wet Bibob: vooralsnog alleen in Wmo en Jeugdzorg Zorgvisie",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWpab2xualhqc1BtRDJUT3ZtZVpUaFJYdi1IcWlSZGMyX3liRHQxQy00VWIyc0c2OU50SEgydkFHT0Z5eVFORzA4WWRXVmNmeUFiTy1LY3NjalEyd3B3bjc0eEFQYng1U2xjYlc3MXhwZjJvN2hzSnZYOU9aUm0ycU95Z2REY1hlUUltdVJlOUlUZUdnRFdhVkdaa0hzd1ExSUpJLWNmV2REQ2s?oc=5"
  },
  {
   "id": "6cefd4e5e0",
@@ -58489,6 +58491,25 @@
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelFSTEo0cVNlaXlDYzlfUkRXVXpIaGZEMk8wdkdyeXRhM3dzNXVnYVlMYTRSMGhRUVJwNWhiOFhCNG5mVzF1dTlRd1RBdzg1cVZnS2xyTXo4ZDlXYmh4VzNYWFIyQ0lzSm5ZY2x2UmpsYW1zcnlCcUZiVkVzT2YtTGZNdDFUSm52NGQ5cXJ0ZDVNMUd4ZlBQR3hqck1GUHhjRlJCTDJLVFdmZmNKWFVlTnptYjNHcTg?oc=5"
  },
  {
+  "id": "9d4cce8086",
+  "datum": "2024-03-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Milieucriminaliteit: Raad keurt strengere sancties en uitgebreide lijst van strafbare feiten goed",
+  "bron": "consilium.europa.eu",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "milieucriminaliteit"
+  ],
+  "samenvatting": "Milieucriminaliteit: Raad keurt strengere sancties en uitgebreide lijst van strafbare feiten goed consilium.europa.eu",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMVBFTmtSN2s1alRQZ3A4SXJjRjk0aDI5X01vbGZNb1g0T0tsN2dhNkFTMzZqNmNZR0hvZGxuWjJ3OGpqcXJ2UHVIRl9ZSjBCaFpQSlVIYzNidGlYSUdYRF9FTXhWdzB5RWRZRnBhQW1rVEpVWkQ0M294bllTRXNweHNVM1lKcjFWQkcxa0tlT3BISWRlbmNVLVVJdmdLMHROaF9DNlhycFFsQ1pGcEMtSnA2RktyS3ZCWG5kZ1NxMkJtRjlTLVpmZFMyZGNpTDN1U1piOXFSQ19GOG01cG9PRWlSZlBWemNPYkJYYzBGbldKR2hrWE1MdGNn?oc=5"
+ },
+ {
   "id": "c0d2fd588e",
   "datum": "2024-03-21",
   "tijd": "18:54",
@@ -68583,6 +68604,26 @@
   ],
   "samenvatting": "Tot 33 maanden cel geëist voor listige kunstgrepen en witwassen Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzVVc0E5SmVqRXRZZUE2UjVmYzhNZXN5S0hBOVJCSXFDN2YxV2VsLS1xLWtDR2RSanNMY19QdWFqOXFSaEhCOXN4aGpYa2RZaDNYRHVMRFNJRldGVXk0ekc3dWxYN3BuVjhuZE4wTkVCYkJXT0ZtUTFsODZPWHFIRnQ3ZEl5UW1nZEZ6bHRBckFpTzRUS2d3Z0ZzMk1PZXctanZxb1ZyMWFfTVE?oc=5"
+ },
+ {
+  "id": "35a4c81530",
+  "datum": "2020-06-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "De strijd tegen de ondermijnende criminaliteit is topprioriteit - Rijksoverheid.nl",
+  "bron": "Rijksoverheid",
+  "verzameld_via": "Rijksoverheid",
+  "soort": "Kamerbrief",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijnend",
+   "ondermijnende criminaliteit"
+  ],
+  "samenvatting": "De strijd tegen de ondermijnende criminaliteit is topprioriteit Rijksoverheid.nl",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVAwcGNPLW4yME5zLVZXX2R2Zmk5UTBzM255Z2hXRTBXLWJsc1Rsbkx2SUpQMUQyZ3ZSOWpzUkI1elVSTDlTTnczNXNtZkNLX0c3eG5RM3JEUlpFT085cnBZdnFpR0lZdkZyOFRXSHdGYkpoWVYtX2o0LXRfTllXSDF1Y2NHM091dndBNlBRbGFYZ1Y2RlNwaUFWMG9GMmszYTN5RnEzMEFSbVdzU3hqRDZtamYxcFNxNDdHQzBB?oc=5"
  },
  {
   "id": "89348e7340",

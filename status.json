@@ -1,12 +1,12 @@
 {
- "run": "19:30",
+ "run": "22:38",
  "datum": "2026-09-25",
- "nieuw": 25,
- "totaal": 3703,
- "verwijderd": 14,
+ "nieuw": 15,
+ "totaal": 3705,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1041,
-  "geen dossier": 482
+  "niet-nederlands": 1035,
+  "geen dossier": 483
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 212,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 167,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 53,
-   "status": "bij",
+   "items": 54,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 212,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -320,7 +320,7 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 146,
+   "items": 147,
    "status": "1 nieuw",
    "ok": true
   },
@@ -393,7 +393,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 57,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -410,8 +410,8 @@
    "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 38,
-   "status": "bij",
+   "items": 39,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -429,7 +429,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 130,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 83,
-   "status": "5 nieuw",
+   "items": 82,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 152,
-   "status": "6 nieuw",
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 168,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 204,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 106,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
