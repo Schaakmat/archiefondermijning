@@ -1,12 +1,12 @@
 {
- "run": "15:29",
+ "run": "19:30",
  "datum": "2026-09-25",
- "nieuw": 30,
- "totaal": 3692,
- "verwijderd": 10,
+ "nieuw": 25,
+ "totaal": 3703,
+ "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1028,
-  "geen dossier": 476
+  "niet-nederlands": 1041,
+  "geen dossier": 482
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 210,
-   "status": "1 nieuw",
+   "items": 212,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 166,
-   "status": "bij",
+   "items": 167,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 223,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 211,
-   "status": "2 nieuw",
+   "items": 212,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 63,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 145,
-   "status": "bij",
+   "items": 146,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 56,
-   "status": "bij",
+   "items": 57,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -428,7 +428,7 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 129,
+   "items": 130,
    "status": "1 nieuw",
    "ok": true
   },
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 83,
-   "status": "7 nieuw",
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 152,
-   "status": "7 nieuw",
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 166,
-   "status": "3 nieuw",
+   "items": 168,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 203,
-   "status": "2 nieuw",
+   "items": 204,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -536,7 +536,7 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 105,
+   "items": 106,
    "status": "1 nieuw",
    "ok": true
   },
@@ -546,7 +546,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 77,
-   "status": "4 nieuw",
+   "status": "3 nieuw",
    "ok": true
   },
   {
