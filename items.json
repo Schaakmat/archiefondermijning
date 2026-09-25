@@ -1,5 +1,113 @@
 [
  {
+  "id": "aca1286798",
+  "datum": "2026-09-25",
+  "tijd": "07:07",
+  "nieuw": true,
+  "titel": "Flevoland - Overheid wil graag dat mensen hun vuurwerk inleveren, maar dat kan in Flevoland maar op twee plekken",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "container",
+   "explosie",
+   "gemeenteraad",
+   "grond",
+   "vuurwerk"
+  ],
+  "samenvatting": "Wie van de vorige jaarwisseling nog vuurwerk overheeft, heeft daar dit jaar weinig aan: een landelijk verbod betekent dat het afsteken ervan niet is toegestaan. Mensen kunnen hun vuurwerk veilig inleveren bij verschillende inleverpunten in het land, maar in Flevoland kan dat alleen in Lelystad en Almere. Het Rijk heeft",
+  "link": "https://www.omroepflevoland.nl/nieuws/525051/overheid-wil-graag-dat-mensen-hun-vuurwerk-inleveren-maar-dat-kan-in-flevoland-maar-op-twee-plekken"
+ },
+ {
+  "id": "7b7da598d2",
+  "datum": "2026-09-25",
+  "tijd": "04:40",
+  "nieuw": true,
+  "titel": "Man treft vaten aan op terrein van ontmanteld drugslab in Hulten",
+  "bron": "112Brabant",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "vaten"
+  ],
+  "samenvatting": "Man treft vaten aan op terrein van ontmanteld drugslab in Hulten 112Brabant",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYkJOLVc2MVVxODRlY1p5V211WTVBaThZMm9QQWtvOW9rWTdfM0VXbUtVUk9fdmdoM01SMV9CWGFIRXhvVFAxNV9ZYjk4THRSaFFZVk9Remt4M0tFVkxzU2ZOeFh6WVJYdVFJSVVlM1puenJfZ2dKUjFXZGVfVHNMVFBZWTFuNGlqUC1FNFFDMzl0NWZ3R1VvOHBGYjZOZ28?oc=5"
+ },
+ {
+  "id": "0c5b353ae8",
+  "datum": "2026-09-25",
+  "tijd": "04:30",
+  "nieuw": true,
+  "titel": "Drie jaar cel en tbs voor Tilburger die vrouw mishandelde en haar ex belde",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld",
+   "integriteit"
+  ],
+  "samenvatting": "De 32-jarige Kader B. uit Tilburg heeft donderdag drie jaar cel gekregen voor het mishandelen van een man een vrouw. Ook krijgt B. van de rechtbank in Breda tbs opgelegd, omdat de kans dat B. opnieuw de mist in zal gaan groot is. Waren het bizarre verkrachtingen of alleen maar spel? Die vraag stond centraal in de zaak ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028603/drie-jaar-cel-en-tbs-voor-tilburger-die-vrouw-mishandelde-en-haar-ex-belde"
+ },
+ {
+  "id": "ac4a2029ee",
+  "datum": "2026-09-25",
+  "tijd": "04:27",
+  "nieuw": true,
+  "titel": "Merwedebrug is drie dagen dicht, vooral vrijdag veel hinder verwacht",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "stal",
+   "vrachtwagen"
+  ],
+  "samenvatting": "De Merwedebrug op de A27 is de komende drie dagen in beide richtingen dicht. De brug wordt voorzien van een nieuwe laag asfalt. De weg is dicht tussen Werkendam en Gorinchem. Rijkswaterstaat verwacht dat de afsluiting vooral vrijdagmiddag voor veel overlast zorgt. Het advies: vertrek op tijd. De afsluiting zorgt voor e",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028618/merwedebrug-is-drie-dagen-dicht-vooral-vrijdag-veel-hinder-verwacht"
+ },
+ {
+  "id": "e7b28ea141",
+  "datum": "2026-09-25",
+  "tijd": "04:06",
+  "nieuw": true,
+  "titel": "Man zwaar mishandeld",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Op de Swarttouwhaven in Barendrecht is donderdagavond een man zwaargewond geraakt tijdens een mishandeling. Het slachtoffer is vermoedelijk minderjarig, maar de politiewoordvoerder kan dit niet bevestigen",
+  "link": "https://www.rijnmond.nl/nieuws/2258707/man-zwaar-mishandeld"
+ },
+ {
   "id": "d090849214",
   "datum": "2026-09-24",
   "tijd": "23:18",
@@ -137,6 +245,25 @@
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0tPaElaYllkdzFhZlRTN3NJbG1hcm42SmR0ekRoM2xST3pzT2NYWTU5YVhFMVFqTUQyakVBclRaX3hnSWpBaUJ1Y2NGLW0xaU1GeTFqMGE3a1NURXJzV2JPY2FGT0NyZ0pTOFRQYl9wNk9sZjYzbXozRmxHUnhSRlcyMU1BdFRnR2FYVjVn?oc=5"
  },
  {
+  "id": "1afdfec585",
+  "datum": "2026-09-24",
+  "tijd": "19:30",
+  "nieuw": true,
+  "titel": "Gemist? Eigenaar pannenkoekenrestaurant Buurse wist van grote hennepkwekerij & katten besmeurd in Hengelo",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Gemist? Eigenaar pannenkoekenrestaurant Buurse wist van grote hennepkwekerij & katten besmeurd in Hengelo de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMWtSRlEtUVhrZk5LR2d4NTlSYVlsX2pubTVGbFYxbmRxc1BEdEtUWThxV0FlTVlTS2U2RTFqcDBJaUttdlJUemQydlVhbjlObFJkNllHdU5ITUM1M0g0RW8xQ2wzTmhIbHhnbTJwMEFwUno2S0NER1V3bFZNbWNSOGpDRGJJTGc4cE1YTm1CMkFWVWJ5cUk1U0NsQ2JmS1lBTnMzZmhVSmFwQkhaSVdJcHBPeWZqUXlENVVpaXNWbUNJTWxPWnd4TURlSWlNRUdJOEpRTjg4U3c2cDBaVGN0aUwxQQ?oc=5"
+ },
+ {
   "id": "8bf1a093df",
   "datum": "2026-09-24",
   "tijd": "19:14",
@@ -154,6 +281,25 @@
   ],
   "samenvatting": "De politie heeft donderdagavond ingegrepen bij een protest tegen een mogelijk asielzoekerscentrum (azc) in Kesteren. Daarbij zijn meerdere personen aangehouden nadat vuurwerk was afgestoken. Een handvol demonstranten werd in busjes afgevoerd.",
   "link": "https://www.gld.nl/nieuws/8528106/politie-grijpt-in-bij-anti-azc-protest-in-kesteren-meerdere-aanhoudingen"
+ },
+ {
+  "id": "a417d3e699",
+  "datum": "2026-09-24",
+  "tijd": "19:14",
+  "nieuw": true,
+  "titel": "Politie grijpt in bij anti-azc-protest in Kesteren, zeven aanhoudingen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk"
+  ],
+  "samenvatting": "De politie heeft donderdagavond ingegrepen bij een protest tegen een mogelijk asielzoekerscentrum (azc) in Kesteren. Daarbij zijn zeven personen aangehouden nadat vuurwerk was afgestoken. Een handvol demonstranten werd in busjes afgevoerd.",
+  "link": "https://www.gld.nl/nieuws/8528106/politie-grijpt-in-bij-anti-azc-protest-in-kesteren-zeven-aanhoudingen"
  },
  {
   "id": "c268c240f1",
@@ -208,7 +354,7 @@
   "id": "21ca3e885b",
   "datum": "2026-09-24",
   "tijd": "16:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man steelt 1.000 liter brandstof met omgebouwde bus in Blokzijl",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -227,7 +373,7 @@
   "id": "9e33034114",
   "datum": "2026-09-24",
   "tijd": "16:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Berover kust gestolen kettingen na straatroof op 72-jarige man",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -247,7 +393,7 @@
   "id": "447093363b",
   "datum": "2026-09-24",
   "tijd": "16:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hulpdiensten druk met verwarde vrouw",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -266,7 +412,7 @@
   "id": "d9e98a3825",
   "datum": "2026-09-24",
   "tijd": "16:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "72-jarige man beroofd van kettingen, dader kust de buit op het zebrapad",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -286,7 +432,7 @@
   "id": "c4c5143b35",
   "datum": "2026-09-24",
   "tijd": "16:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rotterdammer met hockeystick op hoofd geslagen na ruzie met wildplasser",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -305,7 +451,7 @@
   "id": "4e1962286f",
   "datum": "2026-09-24",
   "tijd": "16:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man met hockeystick op hoofd geslagen na ruzie met wildplasser, politie op zoek naar de dader",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -324,7 +470,7 @@
   "id": "3f762395f5",
   "datum": "2026-09-24",
   "tijd": "15:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tunnels steeds vaker in storing door 'te hoge' vrachtwagens, vertraging kan daardoor flink oplopen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -340,10 +486,29 @@
   "link": "https://www.rijnmond.nl/nieuws/2258538/tunnels-steeds-vaker-in-storing-door-te-hoge-vrachtwagens-vertraging-kan-daardoor-flink-oplopen"
  },
  {
+  "id": "37bc6279fa",
+  "datum": "2026-09-24",
+  "tijd": "15:55",
+  "nieuw": false,
+  "titel": "Wilco baalt van files door 'gevoelige' hoogtemelders in tunnels: 'Nu past het ineens niet meer'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Door de vele afsluitingen van bruggen in onze regio wijken vrachtwagens steeds vaker uit naar routes met tunnels. Een toenemend aantal hoogtemeldingen zorgt echter voor flinke vertragingen op de weg. Sensoren denken dat vrachtwagens te hoog zijn, waardoor een tunnel tijdelijk sluit. Tot frustratie van de chauffeurs.",
+  "link": "https://www.rijnmond.nl/nieuws/2258538/wilco-baalt-van-files-door-gevoelige-hoogtemelders-in-tunnels-nu-past-het-ineens-niet-meer"
+ },
+ {
   "id": "e145b76dab",
   "datum": "2026-09-24",
   "tijd": "15:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "113-borden op Merwedebrug mogen er niet komen, gemeente moet verder zoeken",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -364,7 +529,7 @@
   "id": "b767ab78dd",
   "datum": "2026-09-24",
   "tijd": "15:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Juridische strijd om McDonald's: 'Wat is het verschil met een afhaalrestaurant?'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -760,25 +925,6 @@
   ],
   "samenvatting": "De gedeeltelijke afsluiting van de westelijke Suurhoffbrug bij de Europoort kost de transportsector minimaal 600.000 euro per dag. Die schatting wordt gedaan door Transport en Logistiek Nederland (TLN) en Deltalinqs, de ondernemersvereniging van bedrijven in de Rotterdamse haven.",
   "link": "https://www.rijnmond.nl/nieuws/2258381/miljoenenstrop-voor-transportsector-door-problemen-met-suurhoffbrug"
- },
- {
-  "id": "e15beb7e22",
-  "datum": "2026-09-24",
-  "tijd": "04:02",
-  "nieuw": false,
-  "titel": "Huurscooters en bouwcontainer in brand gestoken in Breda",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "container"
-  ],
-  "samenvatting": "Opnieuw zijn er in Breda in korte tijd meerdere branden uitgebroken. Deze keer gebeurde dat in de wijk Boeimeer. Onder meer een bouwcontainer en twee huurscooters werden in de nacht van woensdag op donderdag in brand gestoken. De eerste melding kwam iets na kwart over twee vanaf de Baronielaan. Daar stond een bouwconta",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028423/huurscooters-en-bouwcontainer-in-brand-gestoken-in-breda"
  },
  {
   "id": "f4122f858d",
