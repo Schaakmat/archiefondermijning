@@ -1,5 +1,24 @@
 [
  {
+  "id": "a13f44a7e6",
+  "datum": "2026-09-26",
+  "tijd": "17:34",
+  "nieuw": true,
+  "titel": "Gemeente heeft 'illegale' waterberging, omwonenden vrezen wateroverlast",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "Jacco Honders woont naast het afvoerputje van Lienden op de kruising Brinkstraat Groenestraat. Het laagste kruispunt van het Betuwse dorp heeft al jaren te kampen met wateroverlast. Bij piekbuien staat het regelmatig blank. Vocht in de grond vreet inmiddels zo erg aan zijn huis dat Jacco welgeteld zes pvc-vloeren heeft",
+  "link": "https://www.gld.nl/nieuws/8528226/gemeente-heeft-illegale-waterberging-omwonenden-vrezen-wateroverlast"
+ },
+ {
   "id": "db638bfcd2",
   "datum": "2026-09-26",
   "tijd": "17:05",
@@ -17,6 +36,25 @@
   ],
   "samenvatting": "\"Handen af van het ICC\", sprak premier Rob Jetten donderdag tijdens de Algemene Vergadering van de Verenigde Naties in New York. De Amerikaanse ambassadeur in Nederland, Joe Popolo, schrijft op X dat de Verenigde Staten daartoe best bereid zijn \"zolang het hof zijn handen afhoudt van de VS\". In zijn toespraak noemde Je",
   "link": "https://nos.nl/l/2632633"
+ },
+ {
+  "id": "b274066cf5",
+  "datum": "2026-09-26",
+  "tijd": "17:02",
+  "nieuw": true,
+  "titel": "Bekende drugsdealer lijkt niets bij zich te hebben, tot agenten hem fouilleren",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "buitengebied"
+  ],
+  "samenvatting": "Tijdens een ronde door Zwolle komen wijkagenten een bekende tegen: een drugsdealer. In eerste instantie lijkt er weinig aan de hand, maar tijdens de fouillering komt er alsnog iets tevoorschijn. Ook in Hardenberg, Enschede en het buitengebied krijgt de politie te maken met opvallende situaties.",
+  "link": "https://www.oost.nl/nieuws/3697166/bekende-drugsdealer-lijkt-niets-bij-zich-te-hebben-tot-agenten-hem-fouilleren"
  },
  {
   "id": "b92f8178ba",
@@ -262,7 +300,7 @@
   "id": "56288380f1",
   "datum": "2026-09-25",
   "tijd": "18:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Rini was een icoon': Sint Willebrord mist wielerheld Wagtmans",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -433,29 +471,6 @@
   ],
   "samenvatting": "Grote controle op ondermijnende criminaliteit levert aanhouding en drugs op DTV Nieuws",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjJwbE1DQk5RbHV5UWNxb0hPRGRaa2lHQTdSN0JDNXZ4RHRmbXIzSF9DQnpyOW42Z0V5NW1iUkxDZWpuS1NaUlRZTnhZcEtMajNRR0h3SUdmUE9fTlZBbFFidUtlZTEtX3F5OG5pRF8yV0x5UF9NbEFELXZDWDE3OFJGNkIxR01EUFVIYmhTRFlyOS1ULVd0YlI3d1FFRzZCTmpZckloM2p6S0VFOXVkRQ?oc=5"
- },
- {
-  "id": "d308c9fe5e",
-  "datum": "2026-09-25",
-  "tijd": "14:35",
-  "nieuw": false,
-  "titel": "Opmerkelijk: politie toont herkenbare foto van minderjarige verdachte",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jongeren",
-   "organisatie",
-   "stal"
-  ],
-  "samenvatting": "De politie heeft een herkenbare foto verspreid van een jongen van vermoedelijk tussen de 13 en 15 jaar. Hij wordt ervan verdacht dat hij met een babbeltruc een hoogbejaarde man in Eindhoven heeft bestolen. De politie deelde de foto vrijdagmorgen. Dat een minderjarige verdachte zo in beeld komt, is uitzonderlijk. Het Op",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028715/opmerkelijk-politie-toont-herkenbare-foto-van-minderjarige-verdachte"
  },
  {
   "id": "196228d1ab",
