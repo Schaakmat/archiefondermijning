@@ -1,5 +1,24 @@
 [
  {
+  "id": "db638bfcd2",
+  "datum": "2026-09-26",
+  "tijd": "17:05",
+  "nieuw": true,
+  "titel": "Amerikaanse ambassadeur reageert fel op Jetten: 'ICC moet handen afhouden van VS'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "\"Handen af van het ICC\", sprak premier Rob Jetten donderdag tijdens de Algemene Vergadering van de Verenigde Naties in New York. De Amerikaanse ambassadeur in Nederland, Joe Popolo, schrijft op X dat de Verenigde Staten daartoe best bereid zijn \"zolang het hof zijn handen afhoudt van de VS\". In zijn toespraak noemde Je",
+  "link": "https://nos.nl/l/2632633"
+ },
+ {
   "id": "b92f8178ba",
   "datum": "2026-09-26",
   "tijd": "13:56",
@@ -11,11 +30,9 @@
   "regio": "Landelijk",
   "dossiers": [
    "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "mest",
    "moord",
    "wapen"
   ],
@@ -23,11 +40,11 @@
   "link": "https://nos.nl/l/2632599"
  },
  {
-  "id": "e6868d5285",
+  "id": "338bf8aa09",
   "datum": "2026-09-26",
   "tijd": "12:26",
   "nieuw": true,
-  "titel": "Man valt van dak oude stal in Boxtel, slachtoffer met spoed naar ziekenhuis",
+  "titel": "Man valt van dak in Boxtel en belandt in put: zwaargewond naar ziekenhuis",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -39,7 +56,7 @@
    "stal"
   ],
   "samenvatting": "Een man is zaterdagmiddag zwaargewond geraakt bij een val van een dak van een oude stal aan de Bakhuisdreef in Boxtel. Hij belandde in een put, laten meerdere getuigen weten. Vanwege de ernst van de situatie kwamen meerdere ambulances en brandweerwagens naar Boxtel. Het slachtoffer werd gestabiliseerd en is vervolgens ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028765/man-valt-van-dak-oude-stal-in-boxtel-slachtoffer-met-spoed-naar-ziekenhuis"
+  "link": "https://www.omroepbrabant.nl/nieuws/6028765/man-valt-van-dak-in-boxtel-en-belandt-in-put-zwaargewond-naar-ziekenhuis"
  },
  {
   "id": "1c6827a59a",
@@ -73,15 +90,11 @@
   "regio": "Noord-Brabant",
   "dossiers": [
    "Geweld, liquidaties & bedreiging",
-   "Trustkantoren & rechtspersonen",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Trustkantoren & rechtspersonen"
   ],
   "tags": [
    "bedreiging",
-   "bestuurder",
-   "wapen",
-   "woning"
+   "bestuurder"
   ],
   "samenvatting": "Een agent heeft vrijdagnacht in Someren gericht op een auto geschoten die in volle vaart op hem inreed. De bestuurder was op de vlucht voor de politie. Er zijn twee mannen aangehouden, waaronder de bestuurder. De politie kreeg vrijdag laat op de avond een melding van een bedreiging aan de Uranusstraat in Asten, daarbij",
   "link": "https://www.omroepbrabant.nl/nieuws/6028755/agent-opent-vuur-in-woonwijk-someren-auto-reed-in-volle-vaart-op-hem-in"
@@ -270,7 +283,7 @@
   "id": "430acc0b42",
   "datum": "2026-09-25",
   "tijd": "18:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (24) uit Hoorn aangehouden voor betrokkenheid bij productie van en handel in drugs na aantreffen vermoedelijk drugslab in loods Lambertschaag",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -291,7 +304,7 @@
   "id": "011e0f21db",
   "datum": "2026-09-25",
   "tijd": "17:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Richtlijn voor strafvordering jeugdigen rijden onder invloed van alcohol of drugs (2026R004) - Openbaar Ministerie",
   "bron": "Openbaar Ministerie",
   "verzameld_via": "Openbaar Ministerie",
@@ -310,7 +323,7 @@
   "id": "b1ca37c12d",
   "datum": "2026-09-25",
   "tijd": "17:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Broers en zussen strijden na bijna tien jaar nog over erfenis: 'Ik ben aan het lijntje gehouden'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -329,7 +342,7 @@
   "id": "969e64ce40",
   "datum": "2026-09-25",
   "tijd": "17:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vliegveld Twenthe na uitspraak rechter: 'Evenementen kunnen gewoon doorgaan'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -348,7 +361,7 @@
   "id": "02f6a6df2d",
   "datum": "2026-09-25",
   "tijd": "16:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Trein botst met 130 kilometer per uur op auto in Udenhout, twee gewonden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -367,7 +380,7 @@
   "id": "c29b200e55",
   "datum": "2026-09-25",
   "tijd": "15:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Schietpartij op druk terras in Amsterdam-Noord, slachtoffer overleden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -386,7 +399,7 @@
   "id": "d43591b6f5",
   "datum": "2026-09-25",
   "tijd": "15:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man die hond uitlaat vindt explosieven in plastic tasje in Eindhovens park",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -402,29 +415,10 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6028727/man-die-hond-uitlaat-vindt-explosieven-in-plastic-tasje-in-eindhovens-park"
  },
  {
-  "id": "1f6c49d16a",
-  "datum": "2026-09-25",
-  "tijd": "15:43",
-  "nieuw": true,
-  "titel": "Heftruck kantelt bij bedrijf in Raamsdonksveer, bestuurder raakt bekneld",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Een heftruckbestuurder is vrijdagmiddag bekneld geraakt bij een ernstig bedrijfsongeluk in Raamsdonksveer. De heftruck kantelde door een nog onbekende oorzaak. Het ongeluk gebeurde bij een bedrijf aan de Keizersveer. De brandweer en meerdere ambulances rukten uit. De brandweer kwam om de bestuurder te bevrijden. De bes",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028725/heftruck-kantelt-bij-bedrijf-in-raamsdonksveer-bestuurder-raakt-bekneld"
- },
- {
   "id": "2779b56639",
   "datum": "2026-09-25",
   "tijd": "15:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grote controle op ondermijnende criminaliteit levert aanhouding en drugs op",
   "bron": "DTV Nieuws",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -444,7 +438,7 @@
   "id": "d308c9fe5e",
   "datum": "2026-09-25",
   "tijd": "14:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Opmerkelijk: politie toont herkenbare foto van minderjarige verdachte",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -483,25 +477,6 @@
   "link": "https://nos.nl/l/2632476"
  },
  {
-  "id": "a68c2b7ac6",
-  "datum": "2026-09-25",
-  "tijd": "14:11",
-  "nieuw": false,
-  "titel": "Vrachtwagen rijdt overstekende fietser aan, traumaheli naar Schijndel",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "vrachtwagen"
-  ],
-  "samenvatting": "Een fietser is vrijdagmiddag zwaargewond geraakt bij een ongeluk met een vrachtwagen op de Eerdsebaan in Schijndel. De vrachtwagen raakte de fietser toen die de weg overstak. De hulpdiensten rukten massaal uit. Ook een traumahelikopter kwam naar de plek van het ongeluk om te helpen. Het slachtoffer is naar het ziekenhu",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028708/vrachtwagen-rijdt-overstekende-fietser-aan-traumaheli-naar-schijndel"
- },
- {
   "id": "b7e2653de3",
   "datum": "2026-09-25",
   "tijd": "14:07",
@@ -519,35 +494,6 @@
   ],
   "samenvatting": "Een voorheen onbekende hackergroep claimt te hebben ingebroken bij boodschappenbezorger Flink. De hackers benaderen momenteel medewerkers en klanten met een ultimatum: als ze niet betalen, worden hun gegevens gepubliceerd. Het gaat om een bedrag van circa 10 tot 15 euro aan cryptovaluta per persoon, blijkt uit communic",
   "link": "https://nos.nl/l/2632473"
- },
- {
-  "id": "e14dd46f52",
-  "datum": "2026-09-25",
-  "tijd": "13:56",
-  "nieuw": false,
-  "titel": "Zeewolde - Ineke Schaddelee voorgedragen als vierde en onafhankelijke wethouder van Zeewolde",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Goudhandel & edelmetalen",
-   "Milieucriminaliteit & afval",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "afval",
-   "bestuurder",
-   "burgemeester",
-   "erf",
-   "gemeenteraad",
-   "goud"
-  ],
-  "samenvatting": "Ineke Schaddelee is voorgedragen als nieuwe wethouder van Zeewolde. De 43-jarige Schaddelee uit Gouda moet de vierde wethouder worden. In tegenstelling tot de andere wethouders, wordt zij partijloos. Voor de vierde wethouderspost werd gezocht naar een verbindende en daadkrachtige bestuurder die het coalitieakkoord onde",
-  "link": "https://www.omroepflevoland.nl/nieuws/525159/ineke-schaddelee-voorgedragen-als-vierde-en-onafhankelijke-wethouder-van-zeewolde"
  },
  {
   "id": "6c5a7b3caa",
@@ -1238,25 +1184,6 @@
   ],
   "samenvatting": "Premier Jetten in speech voor VN: ‘Ondermijning Internationaal Strafhof raakt ons allemaal’ de Volkskrant",
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRUxRX19iZmRacnFDRVFlb3BLOUF3T0g5alFzRlluZzNRQWhCRUpfak9uRUY0U3JJOWw2djI2TGlWaV95WGZJVWUxaU1hWk4wc1k3aWkzbm9mSFdVSlJfYl9zYTRaSWJ2OFJFcWFNTUtVbXM0TWx3LXRzSmlRS2l4YlBVb29KZnphbU0wdVFHd24xRHVXTHQwVjgzUkFNY1dxd21jdTdYc2VFRXlHRVdURXI0MVdkbDQybFYtWVd6Z2g4bWtnUmdEQlM0NVVSWUhh?oc=5"
- },
- {
-  "id": "0c86e4b66c",
-  "datum": "2026-09-24",
-  "tijd": "21:52",
-  "nieuw": false,
-  "titel": "Honderden Delftse studenten protesteren met fietstocht tegen onveiligheid op straat",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "In Delft hebben vanavond enkele honderden studenten met een fietsoptocht geprotesteerd tegen de onveiligheid op straat. Het protest volgt op enkele geruchtmakende zaken in de afgelopen maanden, waarbij vrouwen in de omgeving van het natuurgebied Delftse Hout werden mishandeld en aangerand. Enkele studentenorganisaties ",
-  "link": "https://nos.nl/l/2632369"
  },
  {
   "id": "04a6b0e069",
