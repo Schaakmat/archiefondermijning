@@ -1,5 +1,92 @@
 [
  {
+  "id": "b92f8178ba",
+  "datum": "2026-09-26",
+  "tijd": "13:56",
+  "nieuw": true,
+  "titel": "Nieuwe beelden na dodelijke schietpartij Amsterdam, verdachte tierde minutenlang",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "mest",
+   "moord",
+   "wapen"
+  ],
+  "samenvatting": "Op nieuwe beelden van kort na de moord op een vol terras gistermiddag op het NDSM-terrein in Amsterdam-Noord, is te zien hoe de verdachte vermoedelijk het vlak daarvoor gebruikte vuurwapen in het water gooit. Ook is te horen hoe de man schreeuwt richting het terras. Voordat de man begint met schreeuwen, maakt hij zijn ",
+  "link": "https://nos.nl/l/2632599"
+ },
+ {
+  "id": "e6868d5285",
+  "datum": "2026-09-26",
+  "tijd": "12:26",
+  "nieuw": true,
+  "titel": "Man valt van dak oude stal in Boxtel, slachtoffer met spoed naar ziekenhuis",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Een man is zaterdagmiddag zwaargewond geraakt bij een val van een dak van een oude stal aan de Bakhuisdreef in Boxtel. Hij belandde in een put, laten meerdere getuigen weten. Vanwege de ernst van de situatie kwamen meerdere ambulances en brandweerwagens naar Boxtel. Het slachtoffer werd gestabiliseerd en is vervolgens ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028765/man-valt-van-dak-oude-stal-in-boxtel-slachtoffer-met-spoed-naar-ziekenhuis"
+ },
+ {
+  "id": "1c6827a59a",
+  "datum": "2026-09-26",
+  "tijd": "11:24",
+  "nieuw": true,
+  "titel": "Krakers bezetten pand in binnenstad Dordrecht",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "Aan de Singel in Dordrecht is zaterdag een leegstaande woning gekraakt. De politie heeft begin van de middag zes mensen opgepakt die het pand in waren gegaan. Er zijn nu geen krakers meer binnen, meldt de politie. Buiten protesteren nog een aantal actievoerders.",
+  "link": "https://www.rijnmond.nl/nieuws/2259040/krakers-bezetten-pand-in-binnenstad-dordrecht"
+ },
+ {
+  "id": "b7ce48adae",
+  "datum": "2026-09-26",
+  "tijd": "09:52",
+  "nieuw": true,
+  "titel": "Agent opent vuur in woonwijk Someren, auto reed in volle vaart op hem in",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Trustkantoren & rechtspersonen",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "bestuurder",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Een agent heeft vrijdagnacht in Someren gericht op een auto geschoten die in volle vaart op hem inreed. De bestuurder was op de vlucht voor de politie. Er zijn twee mannen aangehouden, waaronder de bestuurder. De politie kreeg vrijdag laat op de avond een melding van een bedreiging aan de Uranusstraat in Asten, daarbij",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028755/agent-opent-vuur-in-woonwijk-someren-auto-reed-in-volle-vaart-op-hem-in"
+ },
+ {
   "id": "f58d825eb6",
   "datum": "2026-09-26",
   "tijd": "09:00",
@@ -40,8 +127,46 @@
    "moord",
    "wapen"
   ],
-  "samenvatting": "\"Mijn vrouw en ik zaten in het restaurant te eten en ineens hoorden we twee harde knallen\", zegt een getuige van de moord op een terras in Amsterdam-Noord gistermiddag. \"Mensen kwamen het gebouw in rennen en toen hoorden we dat het schoten waren geweest.\" Veel terrasbezoekers waren gisteren getuige van de schietpartij ",
+  "samenvatting": "\"Mijn vrouw en ik zaten in het restaurant te eten en ineens hoorden we twee harde knallen\", zegt een getuige van de moord op een terras in Amsterdam-Noord gistermiddag tegen AT5 . \"Mensen kwamen het gebouw in rennen en toen hoorden we dat het schoten waren geweest.\" Veel terrasbezoekers waren gisteren getuige van de sc",
   "link": "https://nos.nl/l/2632561"
+ },
+ {
+  "id": "2fa7602848",
+  "datum": "2026-09-26",
+  "tijd": "07:06",
+  "nieuw": true,
+  "titel": "Man in been gestoken na vechtpartij in Oss, twee vrouwen aangehouden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Aan de Johannes Poststraat in Oss is zaterdagochtend een 31-jarige man in zijn been gestoken en met een soort knuppel geslagen. Hij is naar een ziekenhuis gebracht. Twee vrouwen zijn aangehouden. Zij zijn bekenden van het slachtoffer. Toen de politie rond acht uur aankwam bij de Johannes Poststraat was daar sprake van ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028748/man-in-been-gestoken-na-vechtpartij-in-oss-twee-vrouwen-aangehouden"
+ },
+ {
+  "id": "9df2bc0ff5",
+  "datum": "2026-09-26",
+  "tijd": "07:00",
+  "nieuw": true,
+  "titel": "Scholieren mishandeld, vernederd en gefilmd tegen betaling: ‘Om elkaar terug te pakken’",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Leerlingen van verschillende middelbare scholen in Zwijndrecht gaan tegen betaling met elkaar op de vuist en verspreiden filmpjes daarvan op internet. Ook worden verschillende tieners in filmpjes mishandeld en vernederd. Dat blijkt uit gesprekken die RTV Dordrecht heeft gehad met verschillende jongeren. Aanleiding zijn",
+  "link": "https://www.rijnmond.nl/nieuws/2259027/scholieren-mishandeld-vernederd-en-gefilmd-tegen-betaling-om-elkaar-terug-te-pakken"
  },
  {
   "id": "da766a7402",
@@ -73,14 +198,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "bedreiging",
-   "wapen",
-   "woning"
+   "wapen"
   ],
   "samenvatting": "De politie heeft bij een aanhouding in Someren vrijdagnacht waarschuwingsschoten gelost. In de Ter Hofstadlaan zou iemand met een vuurwapen gedreigd hebben. De politie zette flink wat agenten in waaronder een zwaar bewapend arrestatieteam van de Dienst Speciale Interventies (DSI). Wat er precies is gebeurd en wat de aa",
   "link": "https://www.omroepbrabant.nl/nieuws/6028743/politie-lost-waarschuwingsschoten-midden-in-woonwijk-om-dreiging-met-wapen"
@@ -346,7 +467,7 @@
   "id": "196228d1ab",
   "datum": "2026-09-25",
   "tijd": "14:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jan Roos en Dennis Schouten voor rechter om online vernedering van twee vrouwen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -365,7 +486,7 @@
   "id": "a68c2b7ac6",
   "datum": "2026-09-25",
   "tijd": "14:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrachtwagen rijdt overstekende fietser aan, traumaheli naar Schijndel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -384,7 +505,7 @@
   "id": "b7e2653de3",
   "datum": "2026-09-25",
   "tijd": "14:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hackers persen klanten boodschappendienst Flink af: betalen of data gepubliceerd",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -403,7 +524,7 @@
   "id": "e14dd46f52",
   "datum": "2026-09-25",
   "tijd": "13:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeewolde - Ineke Schaddelee voorgedragen als vierde en onafhankelijke wethouder van Zeewolde",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -432,7 +553,7 @@
   "id": "6c5a7b3caa",
   "datum": "2026-09-25",
   "tijd": "13:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie dankt inwoners Overasselt: 'Kost tijd om dit te verwerken'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -686,6 +807,25 @@
   ],
   "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van vrijdag 25 september.",
   "link": "https://www.rijnmond.nl/nieuws/2258832/bedrijfspand-gesloten-na-vondst-drugslab-man-rijdt-in-op-politiewagen-agent-gewond"
+ },
+ {
+  "id": "c5d623270c",
+  "datum": "2026-09-25",
+  "tijd": "11:07",
+  "nieuw": false,
+  "titel": "Bestelbus ramt hekwerk van bedrijfspand na botsing | Man rijdt in op politiewagen, agent gewond",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand"
+  ],
+  "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van vrijdag 25 september.",
+  "link": "https://www.rijnmond.nl/nieuws/2258832/bestelbus-ramt-hekwerk-van-bedrijfspand-na-botsing-man-rijdt-in-op-politiewagen-agent-gewond"
  },
  {
   "id": "0c77598c33",
@@ -37037,6 +37177,25 @@
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEdLTTNRZE9TM0xUQ1hDWUYyeGtJbzRPRE1ocEpHSjZubmVoa2N6eFYwUGJnNFNpa2FtcHhURnZLRzc5WjBXc2ZSNDBVYXVCLUo3Rk8yYjFwNWlrUE1tc3Q3RXdVUk0yTlplanlaeDlEbnJrOHZNVGZ5bHpZVzVHT3lEcUR4S3d3OWsyNHJvRGpGOFdZREg0WWdIWHBwcW9fQ1NoRjNYWUFEQUMtY2s2Z0JjQjc3OU9zVUJFV25CWDlmVWFk?oc=5"
  },
  {
+  "id": "63b0f1e8e3",
+  "datum": "2026-05-21",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Negen op de tien Nederlanders willen hardere aanpak van zorgfraude in de langdurige zorg",
+  "bron": "Menzis",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Negen op de tien Nederlanders willen hardere aanpak van zorgfraude in de langdurige zorg Menzis",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmU1NUhrVGtjUVVqaUc5eG9DSG5yMGJfMEJZT2Q0S2hndFZ6MTd2TjdXVVF3dW54THNENDJLQ1hRSElEWjZZcV9UaEVLd0FxMWRXaERDUl9DWFpkMWk1YU9nN1dMUGdNU2FNSUp1TDNvUEU2RlFFR0lRekY4Z1VIemNXZUlhMWI1X3dSUGo2M3pDbG15RGVLb0xnNm1mOE41VnFzdldwQ2w4TUNVb2VfZG41dw?oc=5"
+ },
+ {
   "id": "d8a4bdb84b",
   "datum": "2026-05-20",
   "tijd": "07:00",
@@ -38692,6 +38851,27 @@
   ],
   "samenvatting": "Politie arresteert in Haarlem Spanjaarden en Colombianen voor handel in nepcocaïne. Geld, cocaïne en cafeïne gevonden in vakantiewoning Berkhout Noordhollands Dagblad",
   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNT1ctZzhYal9UU21sUnZLV0praEhQZzBuY0pIS2ZvbzMzbGVDbWxfMU53dTByN05oQjN0cE5Tbmg2X1k5YWhKakotNGp2T2U0MzNPX1Y2Z1d0R1k2em9YS1VUYXU2M2hxN2s1blF6bU1UbWQ0Qi1MYkZLalR5a2lhQnkzZkc4cjFsOTBQLTRUMVEyWmxXRDlxaDRBbm01WTRtR19pdkRkN1hyV2l1ODFETkVmMUVoZjBIYzN0elB2MkNMUUJVN1BDMDFIVW83R2IxMUVmWDJ5eVhIWFpKYjJKeHpWSl8yUzdOODV5YndXX0xGU0UzUlhvaVhzTjVya1hPX21PQ3J0Y1JVSGdyU1JoNUFJZWFLQjJlX201UFd2cTFaZ2FKNzdNRjVlb3NIZw?oc=5"
+ },
+ {
+  "id": "e9a028c25f",
+  "datum": "2026-04-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie deelt beelden van man die explosief plaatst bij coffeeshop Haarlemmerstraat - AT5",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "coffeeshop",
+   "explosie"
+  ],
+  "samenvatting": "Politie deelt beelden van man die explosief plaatst bij coffeeshop Haarlemmerstraat AT5",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObElTamtCdWswWExfRUUtbnhFX3R6bjJjOGpoMlU4TmRwMmd3VWgzVDYxMG1fRkJiYjRMOVJkM1RuTkkzNURYYTIzd2hhdi1iTTA2Z3hHTVE4Y0RsS05GUnc2S2RTYTJ0aFNoay11TWRVa0haT3QtM1ROeTdNOWhEMHVQekExMUVKZzhtZk5ENXVIQ3VxTC1QLUhaNmk3V01vN1RMeE5TTWhYY19BajZjbnpFRFM1dmVBelhB?oc=5"
  },
  {
   "id": "6b1dc41389",
