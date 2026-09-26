@@ -1,5 +1,81 @@
 [
  {
+  "id": "eeb36cdd1a",
+  "datum": "2026-09-27",
+  "tijd": "00:39",
+  "nieuw": true,
+  "titel": "Meerdere gewonden door steekvlam op buurtfeest in De Wilp",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Bij een buurtfeest in het Groningse dorp De Wilp zijn meerdere mensen gewond geraakt door een steekvlam. Volgens journalisten ter plaatse had iemand een brandbare vloeistof, mogelijk ethanol, op een vuurkorf gegooid. Daarop ontstond een steekvlam. Het Dagblad van het Noorden meldt dat acht mensen brandwonden hebben opg",
+  "link": "https://nos.nl/l/2632681"
+ },
+ {
+  "id": "fd52fd6a83",
+  "datum": "2026-09-27",
+  "tijd": "00:13",
+  "nieuw": true,
+  "titel": "Twee gewonden bij steekpartij Eindhoven, verdachten op A58 opgepakt",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Bij een steekpartij in een woonwijk in Eindhoven zijn twee mensen gewond geraakt. Mogelijk is er bij het incident aan de Remichweg ook geschoten. Getuigen melden volgens Omroep Brabant dat ze harde knallen hebben gehoord en dat er mogelijk een wapen tegen het hoofd van een persoon is gezet. De melding over een mogelijk",
+  "link": "https://nos.nl/l/2632680"
+ },
+ {
+  "id": "1401438a60",
+  "datum": "2026-09-26",
+  "tijd": "19:53",
+  "nieuw": true,
+  "titel": "Steekpartij in Eindhoven, mogelijk ook geschoten: verdachten aangehouden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Bij een steekpartij aan de Remichweg in Eindhoven zijn zaterdagavond twee mensen gewond geraakt. Beide slachtoffers zijn neergestoken en naar het ziekenhuis gebracht. Mogelijk is er ook geschoten. Getuigen zeggen harde knallen te hebben gehoord en zagen volgens de politie mogelijk een wapen tegen het hoofd van een pers",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028782/steekpartij-in-eindhoven-mogelijk-ook-geschoten-verdachten-aangehouden"
+ },
+ {
+  "id": "c25742ad1c",
+  "datum": "2026-09-26",
+  "tijd": "18:39",
+  "nieuw": true,
+  "titel": "Grote politie-inzet na ruzie in Oisterwijk, één gewonde, vijf arrestaties",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De politie is zaterdagavond met vijftien eenheden uitgerukt naar een ruzie aan de Nicolaas van Eschstraat in Oisterwijk. Er waren meerdere personen en voertuigen betrokken zijn. Vijf mensen zijn aangehouden. Twee auto's waren eerst tegen elkaar gebotst. Vervolgens werd een autoraam kapotgeslagen en ontstond er een ruzi",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028781/grote-politie-inzet-na-ruzie-in-oisterwijk-een-gewonde-vijf-arrestaties"
+ },
+ {
   "id": "a13f44a7e6",
   "datum": "2026-09-26",
   "tijd": "17:34",
@@ -76,6 +152,25 @@
   ],
   "samenvatting": "Op nieuwe beelden van kort na de moord op een vol terras gistermiddag op het NDSM-terrein in Amsterdam-Noord, is te zien hoe de verdachte vermoedelijk het vlak daarvoor gebruikte vuurwapen in het water gooit. Ook is te horen hoe de man schreeuwt richting het terras. Voordat de man begint met schreeuwen, maakt hij zijn ",
   "link": "https://nos.nl/l/2632599"
+ },
+ {
+  "id": "b40492405c",
+  "datum": "2026-09-26",
+  "tijd": "13:55",
+  "nieuw": true,
+  "titel": "Mogelijk schadelijke rook bij accubrand: politie zet omgeving af",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Een stalen bak met accu’s op een oplegger heeft zaterdagmiddag vlam gevat aan de Harderwijkerweg in Ermelo. De politie zette de omgeving ruim af vanwege mogelijk zeer schadelijke rook, meldt een 112-verslaggever ter plaatse.",
+  "link": "https://www.gld.nl/nieuws/8528645/mogelijk-schadelijke-rook-bij-accubrand-politie-zet-omgeving-af"
  },
  {
   "id": "338bf8aa09",
@@ -261,7 +356,7 @@
   "id": "1dde692d63",
   "datum": "2026-09-26",
   "tijd": "04:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hoe specialisten bij Menzis elke dag druk zijn met peperduur onderzoek naar zorgfraude",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -280,7 +375,7 @@
   "id": "4081ee594e",
   "datum": "2026-09-25",
   "tijd": "20:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeewolde - T. (21) misbruikt vijfjarig halfzusje: 'Ik kreeg een impuls en gaf eraan toe'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -869,25 +964,6 @@
   "link": "https://www.rijnmond.nl/nieuws/2258805/man-rijdt-in-op-politiewagen-agent-raakt-gewond"
  },
  {
-  "id": "4e6b72915e",
-  "datum": "2026-09-25",
-  "tijd": "09:11",
-  "nieuw": false,
-  "titel": "Merwedebrug drie dagen dicht, vanmiddag veel hinder verwacht",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "vrachtwagen"
-  ],
-  "samenvatting": "De Merwedebrug op de A27 is sinds gisteravond dicht voor drie dagen. De verwachting is dat dit vooral vanmiddag tot veel overlast leidt. De brug tussen Gorinchem en Werkendam krijgt een nieuw wegdek. De huidige asfaltweg wordt verwijderd en vervangen door een dunnere asfaltlaag. Op die manier wordt het gewicht van de b",
-  "link": "https://nos.nl/l/2632437"
- },
- {
   "id": "1df0a89d1c",
   "datum": "2026-09-25",
   "tijd": "09:06",
@@ -943,27 +1019,6 @@
   ],
   "samenvatting": "Achter de vangrail langs de A32 bij Tuk is vanochtend een beschadigde auto gevonden. De politie en Rijkswaterstaat kwamen met spoed naar de plek tussen Witte Paarden en Steenwijk. De bestuurder van de auto was echter spoorloos.",
   "link": "https://www.oost.nl/nieuws/3699834/beschadigde-auto-gevonden-achter-vangrail-a32-bestuurder-spoorloos"
- },
- {
-  "id": "8d5ecd5c20",
-  "datum": "2026-09-25",
-  "tijd": "08:44",
-  "nieuw": false,
-  "titel": "Bijna helft Nederlanders ervaart sociale overlast, vooral door hangjongeren",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "burgemeester",
-   "jongeren"
-  ],
-  "samenvatting": "Bijna de helft van de Nederlanders ervaart sociale overlast in de eigen buurt. Vooral hangjongeren veroorzaken hinder, meldt het CBS op basis van de tweejaarlijkse Veiligheidsmonitor . Vorig jaar ervoer 46 procent van de mensen ouder dan 15 jaar overlast in de eigen buurt, tegen 42 procent vier jaar eerder. Onder socia",
-  "link": "https://nos.nl/l/2632434"
  },
  {
   "id": "6dfa5b3a51",
@@ -1219,6 +1274,26 @@
   ],
   "samenvatting": "Man treft vaten aan op terrein van ontmanteld drugslab in Hulten BN DeStem",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUZiWU9xX21HcFFLMk9rQ1RodDJ2X3QxQXl3MlVsUzdfemZoc3A3SFJtYm40MDAwSnM4Q0dQRFB4UEF4b3ZuUm5sZ0ZVeXVSY0YzQzFNbWI2cC1MWjhYbVpPWGNuNFdYS19MVE5PSzJrMWZjQmp0a1RwUkJOV2RCWmdtUHp0UEpxY0Q5VEhQakdnRlhESWM3TEhvR250X1QwRmQ2aVVRSmhGbXJ3Tlg2OW5pdlg?oc=5"
+ },
+ {
+  "id": "72c8cd65df",
+  "datum": "2026-09-24",
+  "tijd": "20:48",
+  "nieuw": false,
+  "titel": "Man treft vaten aan op terrein van ontmanteld drugslab in Hulten",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "vaten"
+  ],
+  "samenvatting": "Man treft vaten aan op terrein van ontmanteld drugslab in Hulten BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDlWMEZHWEtEbkFTOTdjbUZ5elVTaXRfcHF2MmhBZ3o2cUtfR3k0ZF94T2dfUktVU3pSek1saHZQMm4tMnlvdWg0UUR3YWVHVVFsc0VGeXNVZlRBUUVNaER4d1NLTVVIeEtQYW9xMy0xOWtsckRWNngwSGhxRHVhZVdNMGZiZm41QjdNb3pGNEFpUnhRVkNRbTRuaVhneEM5WXBWY3hJR19VVkpSc1hOdlJ4MA?oc=5"
  },
  {
   "id": "ebee64a828",
@@ -71045,6 +71120,25 @@
   ],
   "samenvatting": "Celstraffen voor mensenhandel in Baarn De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeDhEWTQyTEVOeUVYQ0d1UUdFS21nb0RTSHpLT2N3b2p6WTA1d1hjQ3d0R3hIUlBieF9qeUZ6a1JqUWgzRGF3WXU4cDVLeGs5dGk4Qk5pNkpYREU1WnBudzhlb2wtTW5lc3FqLXlfcUp4aFhSUnBxQXg4b2ZBUG1nVW1vUzlfd1B0YUlSM1I3a0NpRkV3XzB1aWZjMWVTNzAwOFVUOTdDQUZaa2dfYm5uRFZhSEdUd2hiZFpFandDblhZZ1FYMzBObVdUV0tLVW1Fd3lOSldKbE5ub0Z0UndQU1czMVgwVjhfbFE?oc=5"
+ },
+ {
+  "id": "8dd3bd3a85",
+  "datum": "2018-12-19",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Miljoenen voor strijd tegen criminele ondermijning",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Vastgoed & huisvesting",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Miljoenen voor strijd tegen criminele ondermijning AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWFFLbHhfQjhUMHpka3NSYVRXR3BBUlFlQS1oc1dpSHlGWTRvZzk0RFF6UTFGMy00S2ZZdWdxSG5GNDNpVDJXbzdpazFFYjd3aWNFaDVZNk10VjNsVE51N2JzaUJMd09NeER6SGx5VktpcUVsZGtZR3IzZGM5RmMwdzBwUlhIc0g1NFItVFJBVHZTZzQ?oc=5"
  },
  {
   "id": "b80e22339d",

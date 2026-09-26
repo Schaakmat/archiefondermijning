@@ -1,12 +1,12 @@
 {
- "run": "20:03",
+ "run": "23:02",
  "datum": "2026-09-26",
- "nieuw": 15,
- "totaal": 3725,
- "verwijderd": 14,
+ "nieuw": 18,
+ "totaal": 3730,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1049,
-  "geen dossier": 493
+  "niet-nederlands": 1042,
+  "geen dossier": 496
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 212,
-   "status": "bij",
+   "items": 213,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -78,7 +78,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -122,8 +122,8 @@
    "url": "news.google.com/rss/search?q=vastgoedfraude%20OR%20%22ondermijning%20vas",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 20,
-   "status": "bij",
+   "items": 21,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 153,
-   "status": "4 nieuw",
+   "items": 155,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -509,7 +509,7 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 205,
+   "items": 206,
    "status": "1 nieuw",
    "ok": true
   },
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 107,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
