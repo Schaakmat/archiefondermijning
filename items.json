@@ -1,5 +1,110 @@
 [
  {
+  "id": "f58d825eb6",
+  "datum": "2026-09-26",
+  "tijd": "09:00",
+  "nieuw": true,
+  "titel": "Almere - Belangstelling uit Taiwan voor Almeerse hightech-campus",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "leider"
+  ],
+  "samenvatting": "Verschillende Taiwanese bedrijven uit de halfgeleidersindustrie hebben belangstelling om zich te vestigen op de hightech-campus in Almere. Dat meldt de Flevolandse gedeputeerde Toon van Dijk in het programma Over Flevoland Gesproken. Van Dijk was deze maand met een delegatie in Taiwan om contacten te leggen voor de cam",
+  "link": "https://www.omroepflevoland.nl/nieuws/525153/belangstelling-uit-taiwan-voor-almeerse-hightech-campus"
+ },
+ {
+  "id": "010c327827",
+  "datum": "2026-09-26",
+  "tijd": "08:00",
+  "nieuw": true,
+  "titel": "Ooggetuigen over schietpartij op vol terras Amsterdam: 'Het gebeurde allemaal zo snel'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "erf",
+   "geweld",
+   "moord",
+   "wapen"
+  ],
+  "samenvatting": "\"Mijn vrouw en ik zaten in het restaurant te eten en ineens hoorden we twee harde knallen\", zegt een getuige van de moord op een terras in Amsterdam-Noord gistermiddag. \"Mensen kwamen het gebouw in rennen en toen hoorden we dat het schoten waren geweest.\" Veel terrasbezoekers waren gisteren getuige van de schietpartij ",
+  "link": "https://nos.nl/l/2632561"
+ },
+ {
+  "id": "da766a7402",
+  "datum": "2026-09-26",
+  "tijd": "06:00",
+  "nieuw": true,
+  "titel": "Verdachte 's avonds laat in huis opgepakt door arrestatieteam",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "In Poortugaal is vrijdagavond een verdachte opgepakt in een woning aan de Kerkachterweg.",
+  "link": "https://www.rijnmond.nl/nieuws/2259022/verdachte-s-avonds-laat-in-huis-opgepakt-door-arrestatieteam"
+ },
+ {
+  "id": "773556f3cc",
+  "datum": "2026-09-26",
+  "tijd": "04:10",
+  "nieuw": true,
+  "titel": "Politie lost waarschuwingsschoten midden in woonwijk om dreiging met wapen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "De politie heeft bij een aanhouding in Someren vrijdagnacht waarschuwingsschoten gelost. In de Ter Hofstadlaan zou iemand met een vuurwapen gedreigd hebben. De politie zette flink wat agenten in waaronder een zwaar bewapend arrestatieteam van de Dienst Speciale Interventies (DSI). Wat er precies is gebeurd en wat de aa",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028743/politie-lost-waarschuwingsschoten-midden-in-woonwijk-om-dreiging-met-wapen"
+ },
+ {
+  "id": "1dde692d63",
+  "datum": "2026-09-26",
+  "tijd": "04:00",
+  "nieuw": true,
+  "titel": "Hoe specialisten bij Menzis elke dag druk zijn met peperduur onderzoek naar zorgfraude",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Hoe specialisten bij Menzis elke dag druk zijn met peperduur onderzoek naar zorgfraude AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLWJod2VHQWE1cDBSZFdIUGJ3elNycE9fOFI0dmxZV0JxM1k3eUlmaUtVelBLdTJjQWYwM3VkbEd2d3hQaTdWT1FGcWtZM1l6S0Nka1J5cFgxYUV1MlJBaENvV2phektYUDFYRGx1QXdPbFZXVlp2dlNwYW9yVFJ1UXZOUFRSdUVUWnF2SEhlTmZ3TUxFWkdIelZZY1V5NFA1U1g4TjlmOUhFbTVSYVVpNExmNjlWaml3R3A3Vm1JM0hNZw?oc=5"
+ },
+ {
   "id": "4081ee594e",
   "datum": "2026-09-25",
   "tijd": "20:30",
@@ -298,7 +403,7 @@
   "id": "e14dd46f52",
   "datum": "2026-09-25",
   "tijd": "13:56",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Zeewolde - Ineke Schaddelee voorgedragen als vierde en onafhankelijke wethouder van Zeewolde",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -327,7 +432,7 @@
   "id": "6c5a7b3caa",
   "datum": "2026-09-25",
   "tijd": "13:39",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Politie dankt inwoners Overasselt: 'Kost tijd om dit te verwerken'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -2542,6 +2647,25 @@
   ],
   "samenvatting": "Drugslab zat zo goed verborgen dat politie het eerst niet ontdekte, nu moeten twee mannen elk 72.000 euro betalen Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMzdZaDM5WWJ6eWxPdVZabTRMZFZ6YVczaFpCb1pVdTRUcUtEMU9NalVpTmdnZWxIbUEyVFlsN3A0SGYwTjNHaFFjdE1PZlpiaHpreFdXYUVKNzJma1FfT0ZxXzc2SHlfU3dWWXFmQkcwaUZkc2lmbVRwRVR3VnNsMGYzbG10OTJhVF82b2NrMy1nTExsdnUyWFZMWFFYaW50RHZ6Uzk0eEc5Q2JlVEFURlFIWUFpOXI2OGZyUWkycE52QkZHTm81aUtCREtMcUpod0tPYTY2bVpHaXVoVWJMaFdvOC1Sd09KR2JCS0QtSQ?oc=5"
+ },
+ {
+  "id": "4ddfc7305b",
+  "datum": "2026-09-23",
+  "tijd": "08:38",
+  "nieuw": false,
+  "titel": "Drugslab zat zo goed verborgen dat politie het eerst niet ontdekte, nu moeten twee mannen elk 72.000 euro betalen",
+  "bron": "bndestem.nl",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab zat zo goed verborgen dat politie het eerst niet ontdekte, nu moeten twee mannen elk 72.000 euro betalen bndestem.nl",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcEpmaEJRTXNGOXI3azdDOURFTlJYU3VOdE80ZXNfLXpPZEsyc2U2SnBkb1IzcmQ2MDFjc2RWWkRsUkRjOE5TMDVRQ1NmYVZnbW5CWnd4NEt1LWJCWHNCRkJBcmEzMWRjUXRKSDRfODFXUHh0dmxqTEdFVTdwR2d3WXd1RkI3WGFSaUNlLVRwT2VHNTlDVUh3ZmJUN1ZqZUlkWTk1RUEydEg4MnBxbHVSTmV3UUdma2REd1RHZDJIWkpjQ3BOSkNWRUJBUGJucklqMlRnR3ZCNGVZejFlbm9aR1dmMmZrQzh6TWc?oc=5"
  },
  {
   "id": "dbceb3120b",
@@ -31293,6 +31417,26 @@
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaktDOVd6YkhUeE5raEhOdDk0RnBFWG5za2dyUld1ZWdaUHEwNXltSUJRYWhWbmJ0cWJnWmNRLXk1UUo1cTFqemxaaGVLUXVUZ2NMS3RMdUM1TFdEd2JHQk1LVWdkNEdvU1VHSW1sN04yUV9QQnVrQ2xwbDRiYVUyckljYXZudlNKZnRGd1FJZWlLR09wRUh3WjhLMEEzNFJqSDF3ajNpZTNnV1hrSmdnNVdn?oc=5"
  },
  {
+  "id": "8e28b2ecf8",
+  "datum": "2026-07-15",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vermeende kopstukken van drugsnetwerk Maastricht blijven in de cel",
+  "bron": "De Limburger",
+  "verzameld_via": "Nieuws — Buitengebied & recreatie",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "kopstuk",
+   "netwerk"
+  ],
+  "samenvatting": "Vermeende kopstukken van drugsnetwerk Maastricht blijven in de cel De Limburger",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMjFQOHJURERQc0Q4XzRMc0Z5OWoyYmZpeWRmY0dQMEZJYU9XNkZpV0YtYmY1MjE2TDZ1ZGNVYUtweWl5cUZNSmU4eEtVdHZJdEZqY285VGdSNVJNVzY1MUdzYWNaY1QwUmpJQkdBTU9TMTU2NmdqcWZsRDlBNE9HT3Y5ZEFUWE8zZGF2Wm9ZemdFOVV1aEQ4Rm5mbHVEOWwxT25STDM2dmp2Zkc1LTVsQWJjdFVqTWlDRExmelFNZE96aXRqQjE1d3dKaU5fSzg?oc=5"
+ },
+ {
   "id": "31007220a9",
   "datum": "2026-07-14",
   "tijd": "07:51",
@@ -33078,6 +33222,25 @@
   ],
   "samenvatting": "Vader en zoon aangehouden voor witwassen en drugshandel in Spanje en Nederland dagbladutrecht.nl",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0NndGVDMzJidTRYOU9iV19jc00wUVphZ0tqd2VmR2MxSUlpQ2o4Vy1JbFhLMXZsV2VSUTVJSlU0c0h3U0h2STVRdl9JOU9sV3Q1QjVpdkNxREhLNXgxVGhSajhfTk5JZ1lWY0c5WDNBSU9xZl8wNVU3VjdUZnhLNUtDcVFxSTZ0NzJ3bDhORG9kNXBHVmlHUGxqUU15M0NDeVU4TDlGcTd1dWszWTBMOUdkdGVVSE9lYUx0WQ?oc=5"
+ },
+ {
+  "id": "44213ace08",
+  "datum": "2026-06-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Negen op de tien Nederlanders willen hardere aanpak van zorgfraude in de langdurige zorg",
+  "bron": "Menzis",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Negen op de tien Nederlanders willen hardere aanpak van zorgfraude in de langdurige zorg Menzis",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGd1M3JOZ2QwTnBpbkZjTWJFV2F6Sk9ZSW1YZEdRV2Y2NG5JMXl2dzFEWlhmQl8wSU1JeEpJc1JCa1BScjUya0w5WFE1RnZTcGlMMzJYRzNTekFRMWo3YzBNNHBiNWdVRXI0VFFOMXJRRFB3U3dBSThyZnVxcm03TllIeEN6QURjaXhCOXhoOWU2Vk1LWkVvVWY0cXk1aEZ1cGdZX04wbUFCdDBMNzZzRk5yVkc5Zw?oc=5"
  },
  {
   "id": "922be937f9",
@@ -55661,6 +55824,25 @@
   ]
  },
  {
+  "id": "1d76b2d42a",
+  "datum": "2024-12-03",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Ermelo, Putten en Harderwijk strijden samen tegen ondermijning",
+  "bron": "Ermelo van NU!",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Ermelo, Putten en Harderwijk strijden samen tegen ondermijning Ermelo van NU!",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcFBpODFUbXU0dlg5RTZuWDVWVS1kc0ZwdkMtM3l3QzhsSTNqLXVONFVOU1dNUXZ6ODdpZFR3U2lrNE9Zb1dJOWhxdFk5T1NlNS1KMU41a280YmNQN2VvaFJTc05zSVVPMFV6STNtQzVKYUhXT0xYY0psVkItOWRzV3pjTm9kb2RpYXQ1dTlqb0s4b05VNTh1eHJXVV9ZcU0?oc=5"
+ },
+ {
   "id": "dc68b9a164",
   "datum": "2024-11-28",
   "tijd": "08:00",
@@ -63645,6 +63827,25 @@
   ],
   "samenvatting": "Celstraffen, taakstraffen en geldboetes voor grootschalige mestfraude De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWHZBSWpFOVJjTGcwd3BvMHNyQ1U5OUNqaTNzdnhjQ0RYeV9ZMVU3Z21yN21RQnBHZ3NOdExUOUtYdDVvQ0M3OEhFN3gyc1RIdVRqS2NqTXlycktwcXVqVmVRaWxWZjhfbm9tMnFjeWZwZGpGRWdwSGxYZ1BSbW1LakpDeGZzVTBJcmhLbGVGWEs0Unc2aHh6dVRpanVxMTRzY2dnVlJENlB1aWx5VWJmdXlRMHU3MkhzM2VEYjAwSFdSMWxfLVA2Vi1kTGlwb19neENjdGItRlFVb19KdnNBSDVsOXdub3hLRENjLVhWeVF6YXlYWFN5eXBlbl9NbzFadVJFMzAzdjNzSVNm?oc=5"
+ },
+ {
+  "id": "f9267ec37e",
+  "datum": "2022-12-17",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Vakantiepark De Perelaer wil ’rotte appels’ met hulp Opmeer kwijt. ’Last van negatieve berichten over criminelen’",
+  "bron": "Noordhollands Dagblad",
+  "verzameld_via": "Nieuws — Buitengebied & recreatie",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "vakantiepark"
+  ],
+  "samenvatting": "Vakantiepark De Perelaer wil ’rotte appels’ met hulp Opmeer kwijt. ’Last van negatieve berichten over criminelen’ Noordhollands Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbHFLbmQxTkd0MndEUHVwcjFFU1c5RlJ3cGFaOEJ6cktUbGJzb0k3cExfSjgyZnNBWEl5Y21IUXVaS3NRV2tFak1ZY2tnNS1kV3JYM1RidGhKVDhvSmVFREZLWVo4Wlp2Tm52TG5fVWJRYVVyREd3eXlwZm9nemMxNXZXTjlnU01XZnpaVENMYjVLYV9jTkc4eEhKd1BEYW53RG9qXzhCRU1RUXVKWFlNOG5fZFNubGxYWkV0bFdabmdWQnFBX2RIT2hiamVFWWVTM3BjWGRXVW1zTHE2d2gzQjZmTzFmdE1CbkpxdnY0dDhXV0NjREFNNWd2VmtGQThidFdZbzJuWmVkMUlz?oc=5"
  },
  {
   "id": "405144646d",
