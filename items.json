@@ -1,5 +1,26 @@
 [
  {
+  "id": "ca55a1e550",
+  "datum": "2026-09-27",
+  "tijd": "22:55",
+  "nieuw": true,
+  "titel": "Problemen bij ziekenhuizen met Citrix, patiënten kunnen dossier niet inzien",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "beveiliging",
+   "organisatie"
+  ],
+  "samenvatting": "Verschillende Nederlandse ziekenhuizen hebben dit weekend last van computerproblemen met Citrix waardoor patiënten hun gegevens niet kunnen inzien. Het Nationaal Cyber Security Centrum meldt dat er kwetsbaarheden zaten in het Citrix-programma Netscaler, die inmiddels verholpen zijn. Z-Cert, het expertisecentrum voor cy",
+  "link": "https://nos.nl/l/2632818"
+ },
+ {
   "id": "37b273adf1",
   "datum": "2026-09-27",
   "tijd": "17:25",
@@ -11,14 +32,11 @@
   "regio": "Landelijk",
   "dossiers": [
    "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Wapens, explosieven & vuurwerk"
+   "Jeugd & jonge aanwas"
   ],
   "tags": [
-   "jeugd",
    "jongeren",
-   "organisatie",
-   "wapen"
+   "organisatie"
   ],
   "samenvatting": "In Amsterdam waren vanmiddag enkele duizenden mensen bij het Nationaal Vredesprotest, dat georganiseerd werd door De Nieuwe Vredesbeweging, FNV Young & United en de Landelijke Studentenvakbond (LSVb). Ook Extinction Rebellion en de jongerenorganisaties van Pro, de SP en de Partij voor de Dieren hadden zich aangesloten ",
   "link": "https://nos.nl/l/2632764"
@@ -173,7 +191,7 @@
   "id": "3222ed8f4c",
   "datum": "2026-09-27",
   "tijd": "06:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Veel eerder dan gepland: de Merwedebrug is alweer open na werkzaamheden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -192,7 +210,7 @@
   "id": "c8f376db41",
   "datum": "2026-09-27",
   "tijd": "05:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gemeente en politie treffen bij horecacontrole illegale werknemers, uitkeringsfraude en te jonge bezorger",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -211,29 +229,10 @@
   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV0dlNWZSR3RkbUh2QWdCaExvUS1US0VTeElvMF9BSTB6b04tSXU5dVloZ19scmZYdTlJVWZVclQ5UmZOdk9fQ0RoLURQNkF3bTU2RjAySVVsQ1NrZWNiaUNEby1kTFRuaVRmYVFGRG9Na0VEcUctUDF6ak1PZ0ZORXJST1JBdzZETEJqY1poZHF1dUFfbk9fRTNISHRxakxQYmRwTlpsUnV1NFZQb25lNGROc0FWaVhjcnkzTjJraUJBd2l0SlpJWGxKUS1uSHp6Y1QzdkktaTFoRHV4aWFRX0swUTRpUQ?oc=5"
  },
  {
-  "id": "e9c4493681",
-  "datum": "2026-09-27",
-  "tijd": "04:37",
-  "nieuw": true,
-  "titel": "Audi RS6 vliegt over rotonde de bosjes in, bestuurder spoorloos",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Een Audi RS6 is zaterdagavond zwaar beschadigd geraakt bij een ongeluk op de Bevrijdingsweg in Sprang-Capelle. De auto schoot van de weg, werd over een rotonde gelanceerd en eindigde in de bosjes. De bestuurder zou er na het ongeluk vandoor zijn gegaan. De auto reed om 23.50 uur vanuit Kaatsheuvel richting de Midden-Br",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028789/audi-rs6-vliegt-over-rotonde-de-bosjes-in-bestuurder-spoorloos"
- },
- {
   "id": "fbde909059",
   "datum": "2026-09-27",
   "tijd": "01:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Merwedebrug weer open na werkzaamheden, sneller dan verwacht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -252,7 +251,7 @@
   "id": "eeb36cdd1a",
   "datum": "2026-09-27",
   "tijd": "00:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Meerdere gewonden door steekvlam op buurtfeest in De Wilp",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -273,7 +272,7 @@
   "id": "fd52fd6a83",
   "datum": "2026-09-27",
   "tijd": "00:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee gewonden bij steekpartij Eindhoven, verdachten op A58 opgepakt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -482,25 +481,6 @@
   ],
   "samenvatting": "Een agent heeft vrijdagnacht in Someren gericht op een auto geschoten die in volle vaart op hem inreed. De bestuurder was op de vlucht voor de politie. Er zijn twee mannen aangehouden, waaronder de bestuurder. De politie kreeg vrijdag laat op de avond een melding van een bedreiging aan de Uranusstraat in Asten, daarbij",
   "link": "https://www.omroepbrabant.nl/nieuws/6028755/agent-opent-vuur-in-woonwijk-someren-auto-reed-in-volle-vaart-op-hem-in"
- },
- {
-  "id": "f58d825eb6",
-  "datum": "2026-09-26",
-  "tijd": "09:00",
-  "nieuw": false,
-  "titel": "Almere - Belangstelling uit Taiwan voor Almeerse hightech-campus",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "leider"
-  ],
-  "samenvatting": "Verschillende Taiwanese bedrijven uit de halfgeleidersindustrie hebben belangstelling om zich te vestigen op de hightech-campus in Almere. Dat meldt de Flevolandse gedeputeerde Toon van Dijk in het programma Over Flevoland Gesproken. Van Dijk was deze maand met een delegatie in Taiwan om contacten te leggen voor de cam",
-  "link": "https://www.omroepflevoland.nl/nieuws/525153/belangstelling-uit-taiwan-voor-almeerse-hightech-campus"
  },
  {
   "id": "010c327827",
