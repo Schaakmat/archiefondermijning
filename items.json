@@ -1,5 +1,97 @@
 [
  {
+  "id": "aa61033def",
+  "datum": "2026-09-27",
+  "tijd": "13:16",
+  "nieuw": true,
+  "titel": "Urk - Man uit Urk (58) die beticht wordt van aanranding stapt in aanloop naar uitspraak op als fractievoorzitter",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "grond",
+   "jongeren",
+   "leider"
+  ],
+  "samenvatting": "De 58-jarige Urker die terechtstaat voor aanranding van een jongen van 18 heeft zich in aanloop naar de gerechtelijke uitspraak teruggetrokken uit de lokale politiek. De man was fractievoorzitter van een eenmansfractie in de Urker gemeenteraad. Hij geeft die zetel nu op, laat het bestuur van zijn partij weten. \"Wij res",
+  "link": "https://www.omroepflevoland.nl/nieuws/525355/man-uit-urk-(58)-die-beticht-wordt-van-aanranding-stapt-in-aanloop-naar-uitspraak-op-als-fractievoorzitter"
+ },
+ {
+  "id": "15b105685a",
+  "datum": "2026-09-27",
+  "tijd": "12:50",
+  "nieuw": true,
+  "titel": "Rotterdammer (43) opgepakt voor btw-fraude, witwassen en deelname criminele organisatie",
+  "bron": "Crimesite",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "criminele organisatie",
+   "organisatie",
+   "witwassen"
+  ],
+  "samenvatting": "Rotterdammer (43) opgepakt voor btw-fraude, witwassen en deelname criminele organisatie Crimesite",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDZmR2N5XzdtYjhIZ3ZNUy16c0R5MURtNTRHZGJMZjlNOGRSYzFRQ0JwRE1tT0RrYjBGR0tDdjBhdU93YmtqR0VsNGF6UmczdlBvcG5ZeXV3MXN1bUl6VEstSi1rS0Rud1JCcGtFUkdHTkR5VHlJQVV6SENwSWtUSm5JRnZibmwwYjRDM3NwaExNZ0NMOFRMMTJTTlpSWW1Ib0t6c1ZPVWFlRTZLYnpJ?oc=5"
+ },
+ {
+  "id": "59ee556ef2",
+  "datum": "2026-09-27",
+  "tijd": "10:37",
+  "nieuw": true,
+  "titel": "Fietsendieven slaan slag bij appartementencomplex, politie deelt foto",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages",
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "garage",
+   "geweld",
+   "stal"
+  ],
+  "samenvatting": "De politie zoekt twee mannen die twee elektrische fietsen hebben gestolen uit de fietsenstalling van een appartementencomplex aan de Max Euwestraat in Helmond. Dat gebeurde in de nacht van 14 op 15 april. De politie heeft beelden van de twee verdachten vrijgegeven. Vlak na drie uur klom een van de mannen over de muur v",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028805/fietsendieven-slaan-slag-bij-appartementencomplex-politie-deelt-foto"
+ },
+ {
+  "id": "37fe8508e3",
+  "datum": "2026-09-27",
+  "tijd": "09:53",
+  "nieuw": true,
+  "titel": "Groep rijdt auto van de weg en steekt man (18) en jongen (14) neer",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedreiging",
+   "geweld",
+   "wapen"
+  ],
+  "samenvatting": "Een 18-jarige man en een 14-jarige jongen uit Eindhoven zijn zaterdagavond aan de Remichweg in Eindhoven aangevallen door een grote groep mensen. Die kwamen in meerdere auto's op hen af. De twee liepen steekwonden op en werden naar het ziekenhuis gebracht. Vijf mannen zijn opgepakt. Dat maakte de politie zondagochtend ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028799/groep-rijdt-auto-van-de-weg-en-steekt-man-18-en-jongen-14-neer"
+ },
+ {
   "id": "1ac5319851",
   "datum": "2026-09-27",
   "tijd": "09:00",
@@ -22,6 +114,27 @@
   ],
   "samenvatting": "\"Ik ben hier nog niet klaar.\" Dat zegt Mieke Baltus over haar besluit om zich beschikbaar te stellen voor een tweede termijn als burgemeester van Lelystad. Baltus kwam in 2021 naar de provinciehoofdstad en voelt zich daar op haar plek: \"Ik heb echt vrij snel het gevoel gehad: ik ben hier als een vis in het water en dat",
   "link": "https://www.omroepflevoland.nl/nieuws/525149/ook-na-roerige-tijd-geen-twijfels-over-toekomst-bij-burgemeester:-'nog-niet-klaar'"
+ },
+ {
+  "id": "ec14f87d02",
+  "datum": "2026-09-27",
+  "tijd": "08:36",
+  "nieuw": true,
+  "titel": "Wapens ontdekt na verkeersruzie in Oisterwijk, 5 mannen en 2 vrouwen vast",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "geweld",
+   "wapen"
+  ],
+  "samenvatting": "Bij een vechtpartij na een botsing op de Nicolaas van Eschstraat in Oisterwijk zijn slagwapens gevonden. Zeven mensen zijn aangehouden. De vechtpartij gebeurde zaterdagavond, dat maakte de politie zondagochtend bekend. Waarover de ruzie precies ging, weet de politie nog niet. Zeven verdachten Het gaat om vijf mannen en",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028794/wapens-ontdekt-na-verkeersruzie-in-oisterwijk-5-mannen-en-2-vrouwen-vast"
  },
  {
   "id": "3222ed8f4c",
@@ -80,7 +193,7 @@
   "tags": [
    "bestuurder"
   ],
-  "samenvatting": "Een Audi RS6 is zaterdagavond zwaar beschadigd geraakt bij een ongeluk op de Bevrijdingsweg in Sprang-Capelle. De auto schoot van de weg, werd over een rotonde gelanceerd en eindigde in de bosjes. De bestuurder zou er na het ongeluk vandoor zijn gegaan. De auto reed rond 23.50 uur vanuit Kaatsheuvel richting de Midden-",
+  "samenvatting": "Een Audi RS6 is zaterdagavond zwaar beschadigd geraakt bij een ongeluk op de Bevrijdingsweg in Sprang-Capelle. De auto schoot van de weg, werd over een rotonde gelanceerd en eindigde in de bosjes. De bestuurder zou er na het ongeluk vandoor zijn gegaan. De auto reed om 23.50 uur vanuit Kaatsheuvel richting de Midden-Br",
   "link": "https://www.omroepbrabant.nl/nieuws/6028789/audi-rs6-vliegt-over-rotonde-de-bosjes-in-bestuurder-spoorloos"
  },
  {
@@ -194,7 +307,7 @@
   "tags": [
    "wapen"
   ],
-  "samenvatting": "Iemand is zaterdagavond gewond geraakt bij een ruzie aan de Nicolaas van Eschstraat in Oisterwijk. De ruzie begon na een botsing tussen twee auto's en liep flink uit de hand. De politie rukte uit met vijftien politieauto's en hield vijf mensen aan. Na de botsing sloeg iemand een autoraam kapot. Daarna kregen meerdere m",
+  "samenvatting": "Iemand is zaterdagavond gewond geraakt bij een ruzie aan de Nicolaas van Eschstraat in Oisterwijk. De ruzie begon na een botsing tussen twee auto's en liep flink uit de hand. De politie rukte uit met vijftien politieauto's en hield vijf mensen aan. Update: zondagochtend werd bekendgemaakt dat er zeven mensen zijn aange",
   "link": "https://www.omroepbrabant.nl/nieuws/6028781/vijf-mensen-opgepakt-na-ruzie-om-botsing-in-oisterwijk-een-gewonde"
  },
  {
@@ -258,7 +371,7 @@
   "id": "42bca42ac6",
   "datum": "2026-09-26",
   "tijd": "14:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Buren zien nepagent uit woning komen en zetten achtervolging in",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -277,7 +390,7 @@
   "id": "b92f8178ba",
   "datum": "2026-09-26",
   "tijd": "13:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nieuwe beelden na dodelijke schietpartij Amsterdam, verdachte tierde minutenlang",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -298,7 +411,7 @@
   "id": "b40492405c",
   "datum": "2026-09-26",
   "tijd": "13:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mogelijk schadelijke rook bij accubrand: politie zet omgeving af",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -312,25 +425,6 @@
   ],
   "samenvatting": "Een stalen bak met accu’s op een oplegger heeft zaterdagmiddag vlam gevat aan de Harderwijkerweg in Ermelo. De politie zette de omgeving ruim af vanwege mogelijk zeer schadelijke rook, meldt een 112-verslaggever ter plaatse.",
   "link": "https://www.gld.nl/nieuws/8528645/mogelijk-schadelijke-rook-bij-accubrand-politie-zet-omgeving-af"
- },
- {
-  "id": "338bf8aa09",
-  "datum": "2026-09-26",
-  "tijd": "12:26",
-  "nieuw": true,
-  "titel": "Man valt van dak in Boxtel en belandt in put: zwaargewond naar ziekenhuis",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "stal"
-  ],
-  "samenvatting": "Een man is zaterdagmiddag zwaargewond geraakt bij een val van een dak van een oude stal aan de Bakhuisdreef in Boxtel. Hij belandde in een put, laten meerdere getuigen weten. Vanwege de ernst van de situatie kwamen meerdere ambulances en brandweerwagens naar Boxtel. Het slachtoffer werd gestabiliseerd en is vervolgens ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028765/man-valt-van-dak-in-boxtel-en-belandt-in-put-zwaargewond-naar-ziekenhuis"
  },
  {
   "id": "1c6827a59a",
@@ -36906,6 +37000,25 @@
   ],
   "samenvatting": "Ondermijning tast 'op sluipende en vaak onzichtbare wijze' fundamenten van onze samenleving aan Welingelichte Kringen",
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUm90aUxjTDI1RG5jdEttWC14LVlOVUlfTFpQR0FQUFlkUUhiWV81VktUQUZEZTE4eHJoQmxoa0kzWXlTdUZycThGVklDOTZ0NWo2bGVCcU1JS1NjOXNHMDA1dldLNUQxVnZOLUVJT2V6OHZuRlRxR1Nic2hLemh2ZTk5VFFPRTZ0Wm9YY0hEaFRfc0Zoc0g1dUw1RDVmQ1hSQ1hvb2p5czUxSjFxZDdwNC1UcVJoaTNUb2VUclpJR0pXS1FIZ1RlRzdiUHNPbndweUstRVk4STI?oc=5"
+ },
+ {
+  "id": "285ad5a2ba",
+  "datum": "2026-05-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Negen op de tien Nederlanders willen hardere aanpak van zorgfraude in de langdurige zorg",
+  "bron": "Menzis",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Negen op de tien Nederlanders willen hardere aanpak van zorgfraude in de langdurige zorg Menzis",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcDlMVlB2ZXlFcDRlVnRpYkxfd1FiZFhIMm5zZ1FfSV9ZM1FaaVVkLTJOTDNYYkg2Y3JiV2c4OWxzR21rVjZqV2E2QlBQUkFuSmktNnFwdUU3d3NXand1Z05xNGhhU2txU0xFSnV3UnBKNEhLekJDeEpsUjAyejlBVWhSQVRsSjdGT1hZYTY0dnc0ZW12RjFhZlFGM05tU3A1em54R0VNd0dsME9zMDFTZzM3YjByaGxvS1JFZQ?oc=5"
  },
  {
   "id": "5cb5313f74",
