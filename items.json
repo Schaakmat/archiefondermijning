@@ -1,5 +1,89 @@
 [
  {
+  "id": "1ac5319851",
+  "datum": "2026-09-27",
+  "tijd": "09:00",
+  "nieuw": true,
+  "titel": "Lelystad - Ook na roerige tijd geen twijfels over toekomst bij burgemeester: 'Nog niet klaar'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Corruptie & integriteit",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "burgemeester",
+   "gemeenteraad",
+   "integriteit",
+   "organisatie"
+  ],
+  "samenvatting": "\"Ik ben hier nog niet klaar.\" Dat zegt Mieke Baltus over haar besluit om zich beschikbaar te stellen voor een tweede termijn als burgemeester van Lelystad. Baltus kwam in 2021 naar de provinciehoofdstad en voelt zich daar op haar plek: \"Ik heb echt vrij snel het gevoel gehad: ik ben hier als een vis in het water en dat",
+  "link": "https://www.omroepflevoland.nl/nieuws/525149/ook-na-roerige-tijd-geen-twijfels-over-toekomst-bij-burgemeester:-'nog-niet-klaar'"
+ },
+ {
+  "id": "3222ed8f4c",
+  "datum": "2026-09-27",
+  "tijd": "06:59",
+  "nieuw": true,
+  "titel": "Veel eerder dan gepland: de Merwedebrug is alweer open na werkzaamheden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "De Merwedebrug bij Sleeuwijk is sinds zaterdagavond laat weer open voor verkeer. Dat is eerder dan gepland: de afsluiting zou eerst tot maandagochtend duren. Volgens Rijkswaterstaat verliepen de werkzaamheden voorspoedig, waardoor de brug eerder open kon. Tijdens de werkzaamheden is de bestaande asfaltlaag vervangen do",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028792/veel-eerder-dan-gepland-de-merwedebrug-is-alweer-open-na-werkzaamheden"
+ },
+ {
+  "id": "c8f376db41",
+  "datum": "2026-09-27",
+  "tijd": "05:00",
+  "nieuw": true,
+  "titel": "Gemeente en politie treffen bij horecacontrole illegale werknemers, uitkeringsfraude en te jonge bezorger",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "horeca",
+   "uitkering",
+   "uitkeringsfraude"
+  ],
+  "samenvatting": "Gemeente en politie treffen bij horecacontrole illegale werknemers, uitkeringsfraude en te jonge bezorger AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV0dlNWZSR3RkbUh2QWdCaExvUS1US0VTeElvMF9BSTB6b04tSXU5dVloZ19scmZYdTlJVWZVclQ5UmZOdk9fQ0RoLURQNkF3bTU2RjAySVVsQ1NrZWNiaUNEby1kTFRuaVRmYVFGRG9Na0VEcUctUDF6ak1PZ0ZORXJST1JBdzZETEJqY1poZHF1dUFfbk9fRTNISHRxakxQYmRwTlpsUnV1NFZQb25lNGROc0FWaVhjcnkzTjJraUJBd2l0SlpJWGxKUS1uSHp6Y1QzdkktaTFoRHV4aWFRX0swUTRpUQ?oc=5"
+ },
+ {
+  "id": "e9c4493681",
+  "datum": "2026-09-27",
+  "tijd": "04:37",
+  "nieuw": true,
+  "titel": "Audi RS6 vliegt over rotonde de bosjes in, bestuurder spoorloos",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een Audi RS6 is zaterdagavond zwaar beschadigd geraakt bij een ongeluk op de Bevrijdingsweg in Sprang-Capelle. De auto schoot van de weg, werd over een rotonde gelanceerd en eindigde in de bosjes. De bestuurder zou er na het ongeluk vandoor zijn gegaan. De auto reed rond 23.50 uur vanuit Kaatsheuvel richting de Midden-",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028789/audi-rs6-vliegt-over-rotonde-de-bosjes-in-bestuurder-spoorloos"
+ },
+ {
   "id": "fbde909059",
   "datum": "2026-09-27",
   "tijd": "01:05",
@@ -15,7 +99,7 @@
   "tags": [
    "vrachtwagen"
   ],
-  "samenvatting": "De Merwedebrug in de A27 bij Gorinchem is weer open. De brug was sinds donderdagavond dicht vanwege werkzaamheden en zou tot maandagochtend 5 uur afgesloten zijn. Maar het werk was sneller klaar van verwacht, meldde Rijkswaterstaat zaterdagavond laat. De brug tussen Gorinchem en Werkendam heeft een nieuwe, dunnere asfa",
+  "samenvatting": "De Merwedebrug in de A27 bij Gorinchem is weer open. De brug was sinds donderdagavond dicht vanwege werkzaamheden en zou tot maandagochtend 5 uur afgesloten zijn. Maar het werk was sneller klaar dan verwacht, meldde Rijkswaterstaat zaterdagavond laat. De brug tussen Gorinchem en Werkendam heeft een nieuwe, dunnere asfa",
   "link": "https://nos.nl/l/2632682"
  },
  {
@@ -76,11 +160,11 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6028782/steekpartij-in-eindhoven-mogelijk-ook-geschoten-verdachten-aangehouden"
  },
  {
-  "id": "c25742ad1c",
+  "id": "2709a5be7e",
   "datum": "2026-09-26",
-  "tijd": "18:39",
+  "tijd": "19:53",
   "nieuw": true,
-  "titel": "Grote politie-inzet na ruzie in Oisterwijk, één gewonde, vijf arrestaties",
+  "titel": "Twee gewonden bij steekpartij in Eindhoven, vijf verdachten opgepakt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -91,8 +175,27 @@
   "tags": [
    "wapen"
   ],
-  "samenvatting": "De politie is zaterdagavond met vijftien eenheden uitgerukt naar een ruzie aan de Nicolaas van Eschstraat in Oisterwijk. Er waren meerdere personen en voertuigen betrokken zijn. Vijf mensen zijn aangehouden. Twee auto's waren eerst tegen elkaar gebotst. Vervolgens werd een autoraam kapotgeslagen en ontstond er een ruzi",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028781/grote-politie-inzet-na-ruzie-in-oisterwijk-een-gewonde-vijf-arrestaties"
+  "samenvatting": "Twee mensen zijn gewond geraakt bij een steekpartij aan de Remichweg in Eindhoven. Beide slachtoffers zijn neergestoken en naar het ziekenhuis gebracht. Dat gebeurde zaterdagavond. Mogelijk is er ook geschoten: getuigen vertelden de politie dat ze harde knallen hoorden. Ook zou een wapen tegen iemands hoofd zijn gezet.",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028782/twee-gewonden-bij-steekpartij-in-eindhoven-vijf-verdachten-opgepakt"
+ },
+ {
+  "id": "ff45fefd82",
+  "datum": "2026-09-26",
+  "tijd": "18:39",
+  "nieuw": true,
+  "titel": "Vijf mensen opgepakt na ruzie om botsing in Oisterwijk, één gewonde",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Iemand is zaterdagavond gewond geraakt bij een ruzie aan de Nicolaas van Eschstraat in Oisterwijk. De ruzie begon na een botsing tussen twee auto's en liep flink uit de hand. De politie rukte uit met vijftien politieauto's en hield vijf mensen aan. Na de botsing sloeg iemand een autoraam kapot. Daarna kregen meerdere m",
+  "link": "https://www.omroepbrabant.nl/nieuws/6028781/vijf-mensen-opgepakt-na-ruzie-om-botsing-in-oisterwijk-een-gewonde"
  },
  {
   "id": "a13f44a7e6",
@@ -150,6 +253,25 @@
   ],
   "samenvatting": "Tijdens een ronde door Zwolle komen wijkagenten een bekende tegen: een drugsdealer. In eerste instantie lijkt er weinig aan de hand, maar tijdens de fouillering komt er alsnog iets tevoorschijn. Ook in Hardenberg, Enschede en het buitengebied krijgt de politie te maken met opvallende situaties.",
   "link": "https://www.oost.nl/nieuws/3697166/bekende-drugsdealer-lijkt-niets-bij-zich-te-hebben-tot-agenten-hem-fouilleren"
+ },
+ {
+  "id": "42bca42ac6",
+  "datum": "2026-09-26",
+  "tijd": "14:36",
+  "nieuw": true,
+  "titel": "Buren zien nepagent uit woning komen en zetten achtervolging in",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Een minderjarige man uit Den Haag is aangehouden op verdenking van telefonische helpdeskfraude. Hij deed zich voor als iemand van de politie en stond voor de deur om zaken op te halen. Buurtbewoners hebben de man achtervolgd, omdat ze een vermoeden hadden dat er iets niet klopte.",
+  "link": "https://www.gld.nl/nieuws/8528647/buren-zien-nepagent-uit-woning-komen-en-zetten-achtervolging-in"
  },
  {
   "id": "b92f8178ba",
@@ -214,7 +336,7 @@
   "id": "1c6827a59a",
   "datum": "2026-09-26",
   "tijd": "11:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Krakers bezetten pand in binnenstad Dordrecht",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -234,7 +356,7 @@
   "id": "b7ce48adae",
   "datum": "2026-09-26",
   "tijd": "09:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Agent opent vuur in woonwijk Someren, auto reed in volle vaart op hem in",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -255,7 +377,7 @@
   "id": "f58d825eb6",
   "datum": "2026-09-26",
   "tijd": "09:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Belangstelling uit Taiwan voor Almeerse hightech-campus",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -274,7 +396,7 @@
   "id": "010c327827",
   "datum": "2026-09-26",
   "tijd": "08:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ooggetuigen over schietpartij op vol terras Amsterdam: 'Het gebeurde allemaal zo snel'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -294,25 +416,6 @@
   ],
   "samenvatting": "\"Mijn vrouw en ik zaten in het restaurant te eten en ineens hoorden we twee harde knallen\", zegt een getuige van de moord op een terras in Amsterdam-Noord gistermiddag tegen AT5 . \"Mensen kwamen het gebouw in rennen en toen hoorden we dat het schoten waren geweest.\" Veel terrasbezoekers waren gisteren getuige van de sc",
   "link": "https://nos.nl/l/2632561"
- },
- {
-  "id": "2fa7602848",
-  "datum": "2026-09-26",
-  "tijd": "07:06",
-  "nieuw": false,
-  "titel": "Man in been gestoken na vechtpartij in Oss, twee vrouwen aangehouden",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Aan de Johannes Poststraat in Oss is zaterdagochtend een 31-jarige man in zijn been gestoken en met een soort knuppel geslagen. Hij is naar een ziekenhuis gebracht. Twee vrouwen zijn aangehouden. Zij zijn bekenden van het slachtoffer. Toen de politie rond acht uur aankwam bij de Johannes Poststraat was daar sprake van ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028748/man-in-been-gestoken-na-vechtpartij-in-oss-twee-vrouwen-aangehouden"
  },
  {
   "id": "9df2bc0ff5",
@@ -411,27 +514,6 @@
   "link": "https://www.omroepflevoland.nl/nieuws/525208/t.-(21)-misbruikt-vijfjarig-halfzusje:-'ik-kreeg-een-impuls-en-gaf-eraan-toe'"
  },
  {
-  "id": "56288380f1",
-  "datum": "2026-09-25",
-  "tijd": "18:30",
-  "nieuw": false,
-  "titel": "'Rini was een icoon': Sint Willebrord mist wielerheld Wagtmans",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Horeca, winkels & dienstverlening",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "sportclub",
-   "supermarkt"
-  ],
-  "samenvatting": "In Sint Willebrord gonst vrijdag de naam van Rini Wagtmans op straat, in de supermarkt en bij de sportclub. Sportliefhebber of niet, iedereen in het dorp is het erover eens. \"Rini was een icoon en zoveel meer dan een wielrenner uit de Tour de France\", zoals dorpsbewoner André Wijnings gezamenlijke gevoel verwoord. Wijn",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028728/rini-was-een-icoon-sint-willebrord-mist-wielerheld-wagtmans"
- },
- {
   "id": "430acc0b42",
   "datum": "2026-09-25",
   "tijd": "18:20",
@@ -508,25 +590,6 @@
   ],
   "samenvatting": "Evenementen op Vliegveld Twenthe kunnen volgens directeur Marten Foppen gewoon doorgaan. De rechter zette vandaag een streep door de vergunning voor de evenementenlocatie. Volgens de rechter zijn de gevolgen voor stikstof en verkeer niet goed onderbouwd.",
   "link": "https://www.oost.nl/nieuws/3700022/vliegveld-twenthe-na-uitspraak-rechter-evenementen-kunnen-gewoon-doorgaan"
- },
- {
-  "id": "02f6a6df2d",
-  "datum": "2026-09-25",
-  "tijd": "16:03",
-  "nieuw": false,
-  "titel": "Trein botst met 130 kilometer per uur op auto in Udenhout, twee gewonden",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Twee mensen zijn gewond geraakt doordat een trein een auto raakte op de spoorwegovergang aan de Kreitenmolenstraat in Udenhout. Dat gebeurde vrijdagmiddag rond half vijf. De trein reed ongeveer 130 kilometer per uur en botste tegen de voorkant van de auto. Volgens omstanders reed de bestuurder door terwijl de spoorbome",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028731/trein-botst-met-130-kilometer-per-uur-op-auto-in-udenhout-twee-gewonden"
  },
  {
   "id": "c29b200e55",
@@ -697,25 +760,6 @@
   "tags": [],
   "samenvatting": "Gruwelijke doodslag in Apeldoorn: OM eist 10 jaar celstraf en tbs met dwang tegen verdachte Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFhGT1VyWHJKYTd1SXcwWndRUExDLU50OE9LemFRRmpDSmVUZzNFdTdkWThCNWFzUDRrczdodWx0YWpmcktjT05WOFVZU01ybERjb0JkU1dSUl94SzdpLXRXOERtb3BoQUpiQmNVSXNJaE8yS0hsT0xnSmhyakhrT1JfeEs4djYzU2p2UUxRSVhIWGJIczFacGFwbjA3V1NmdjRlNndwYmNDQ0dFT252TFhoS0lWYm9Od1AxNEUtZkZmazFRTmxCQ19BcmJZQW8?oc=5"
- },
- {
-  "id": "076c4a3388",
-  "datum": "2026-09-25",
-  "tijd": "13:24",
-  "nieuw": false,
-  "titel": "Flevoland - Politiemedewerker van eenheid Midden-Nederland aangehouden en geschorst",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Corruptie & integriteit"
-  ],
-  "tags": [
-   "integriteit"
-  ],
-  "samenvatting": "Een politiemedewerker van de eenheid Midden-Nederland is aangehouden. De politie meldt niet waarvoor hij is aangehouden. De aanhouding was maandag al, maar pas vrijdag bekendgemaakt. De medewerker zit nog vast en is geschorst. Vanwege het onderzoeksbelang kan de politie op dit moment niets delen over de verdenking. Ook",
-  "link": "https://www.omroepflevoland.nl/nieuws/525158/politiemedewerker-van-eenheid-midden-nederland-aangehouden-en-geschorst"
  },
  {
   "id": "de44af65bd",
@@ -28977,6 +29021,28 @@
   ],
   "samenvatting": "De Koreaanse crypto-wasmethode achter $6,4 miljard: waarom de politie moeite heeft het te stoppen BeInCrypto",
   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLTY1RXRxZHN2bEx1QXlFUU5XaHZvVld0VkF3Z3FGWWl6LV8tMXY1ZFNuZVhXU2l4ZEFlRHhNOE8xYUdHbko2VWNVYVk2V1NoTE0xODc5dDZlWm4yNy11ekJMbXJERTNNbGFqRHBrazdveUJqdmNYYWtZREg3X0pHUWVn?oc=5"
+ },
+ {
+  "id": "6a0558fd34",
+  "datum": "2026-08-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Controle pakketbezorger leidt naar spookbedrijven, valse vergunningen en uitkeringsfraude [+foto’s]",
+  "bron": "transport-online.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "uitkering",
+   "uitkeringsfraude",
+   "vergunning"
+  ],
+  "samenvatting": "Controle pakketbezorger leidt naar spookbedrijven, valse vergunningen en uitkeringsfraude [+foto’s] transport-online.nl",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNFRUbGc5ZS1HV1FOX3c4YWZmelZfdFZSZmI0VlhHYlA0SWNlc0dta2ZKSFZsSkxvTmhwTmZpc3hxeFVKenVrZ2p2M052a1l5MGZKSDE3N19xckFxS1dhMkhTa3V0UTJEUmNtZ090Y2VvcGs4Nm5hS19XdW5pT0dkdUN3UWZQVGRyNHd1ckpHbFYtb2RZSk5KNVB2bU95UTJCV1FyamVmaF9WSU5VVVVBdXdSUVlVQUdmTXNDbjQ2Vm9BcDlqZnJZ?oc=5"
  },
  {
   "id": "2d9972c4f9",

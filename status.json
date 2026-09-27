@@ -1,12 +1,12 @@
 {
- "run": "01:37",
+ "run": "08:22",
  "datum": "2026-09-27",
- "nieuw": 15,
- "totaal": 3732,
- "verwijderd": 13,
+ "nieuw": 17,
+ "totaal": 3735,
+ "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1033,
-  "geen dossier": 499
+  "niet-nederlands": 1050,
+  "geen dossier": 507
  },
  "bronnen": [
   {
@@ -105,7 +105,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 70,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 149,
-   "status": "bij",
+   "items": 151,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 206,
-   "status": "bij",
+   "items": 207,
+   "status": "1 nieuw",
    "ok": true
   },
   {
