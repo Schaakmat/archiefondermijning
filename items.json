@@ -1,5 +1,24 @@
 [
  {
+  "id": "fbde909059",
+  "datum": "2026-09-27",
+  "tijd": "01:05",
+  "nieuw": true,
+  "titel": "Merwedebrug weer open na werkzaamheden, sneller dan verwacht",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "De Merwedebrug in de A27 bij Gorinchem is weer open. De brug was sinds donderdagavond dicht vanwege werkzaamheden en zou tot maandagochtend 5 uur afgesloten zijn. Maar het werk was sneller klaar van verwacht, meldde Rijkswaterstaat zaterdagavond laat. De brug tussen Gorinchem en Werkendam heeft een nieuwe, dunnere asfa",
+  "link": "https://nos.nl/l/2632682"
+ },
+ {
   "id": "eeb36cdd1a",
   "datum": "2026-09-27",
   "tijd": "00:39",
@@ -280,7 +299,7 @@
   "id": "2fa7602848",
   "datum": "2026-09-26",
   "tijd": "07:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man in been gestoken na vechtpartij in Oss, twee vrouwen aangehouden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -299,7 +318,7 @@
   "id": "9df2bc0ff5",
   "datum": "2026-09-26",
   "tijd": "07:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Scholieren mishandeld, vernederd en gefilmd tegen betaling: ‘Om elkaar terug te pakken’",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -318,7 +337,7 @@
   "id": "da766a7402",
   "datum": "2026-09-26",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte 's avonds laat in huis opgepakt door arrestatieteam",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -337,7 +356,7 @@
   "id": "773556f3cc",
   "datum": "2026-09-26",
   "tijd": "04:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie lost waarschuwingsschoten midden in woonwijk om dreiging met wapen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -28939,6 +28958,25 @@
   ],
   "samenvatting": "Geen doodstraf, wel drie jaar cel voor Nederlander met wietplantage op Bali cannabisindustrie.nl",
   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HTGhiMXo4b3hxeVJ0cG1QRVlXaEo1SldKYnI2Tkx5Smh2eVdEaUFCdXZISkQyX0JKV1ZzUGtqZnpYLXowYlFqMnBKemlhVmdMZDdWTzJ4YkNnNG9NUW5JMk1rbVVNd0d0TmxmUWtB?oc=5"
+ },
+ {
+  "id": "385e50b029",
+  "datum": "2026-08-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "De Koreaanse crypto-wasmethode achter $6,4 miljard: waarom de politie moeite heeft het te stoppen",
+  "bron": "BeInCrypto",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "crypto"
+  ],
+  "samenvatting": "De Koreaanse crypto-wasmethode achter $6,4 miljard: waarom de politie moeite heeft het te stoppen BeInCrypto",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLTY1RXRxZHN2bEx1QXlFUU5XaHZvVld0VkF3Z3FGWWl6LV8tMXY1ZFNuZVhXU2l4ZEFlRHhNOE8xYUdHbko2VWNVYVk2V1NoTE0xODc5dDZlWm4yNy11ekJMbXJERTNNbGFqRHBrazdveUJqdmNYYWtZREg3X0pHUWVn?oc=5"
  },
  {
   "id": "2d9972c4f9",
