@@ -1,5 +1,50 @@
 [
  {
+  "id": "37b273adf1",
+  "datum": "2026-09-27",
+  "tijd": "17:25",
+  "nieuw": true,
+  "titel": "Paar duizend demonstranten bij protest 'Stop de oorlogskoorts'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "jeugd",
+   "jongeren",
+   "organisatie",
+   "wapen"
+  ],
+  "samenvatting": "In Amsterdam waren vanmiddag enkele duizenden mensen bij het Nationaal Vredesprotest, dat georganiseerd werd door De Nieuwe Vredesbeweging, FNV Young & United en de Landelijke Studentenvakbond (LSVb). Ook Extinction Rebellion en de jongerenorganisaties van Pro, de SP en de Partij voor de Dieren hadden zich aangesloten ",
+  "link": "https://nos.nl/l/2632764"
+ },
+ {
+  "id": "3f6dbcf979",
+  "datum": "2026-09-27",
+  "tijd": "14:34",
+  "nieuw": true,
+  "titel": "Hoe het grensoverschrijdende politieteam drugs, wapens en mensensmokkel langs de oostgrens aanpakt",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "mensensmokkel",
+   "wapen"
+  ],
+  "samenvatting": "Hoe het grensoverschrijdende politieteam drugs, wapens en mensensmokkel langs de oostgrens aanpakt AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRDBFYl9hX1gycl9UcHZLenBZUlZaLVNNMXJUWWlTVEFIbG1NSkozZGh3aHdXRDNGdVBBYmtSR1c3LXd0ZFhCajRtb3V3azVpUm1LWkVXN25Ic2liSVY1WHJaUE5hVndrcVJmTHpNWEZSMHhWUlVwdEFpQTVHT3hsRFplNklieURTZEtTOHlFRDFSd3dwLWRRZTJrajZwMTU3N1VtOWw4Z0VHNEpTakdMSEFmQWZoaklFeC1VTmNURmVTOHFqVXBhSlBORndtaE0?oc=5"
+ },
+ {
   "id": "aa61033def",
   "datum": "2026-09-27",
   "tijd": "13:16",
@@ -10,16 +55,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "gemeenteraad",
-   "grond",
-   "jongeren",
-   "leider"
+   "gemeenteraad"
   ],
   "samenvatting": "De 58-jarige Urker die terechtstaat voor aanranding van een jongen van 18 heeft zich in aanloop naar de gerechtelijke uitspraak teruggetrokken uit de lokale politiek. De man was fractievoorzitter van een eenmansfractie in de Urker gemeenteraad. Hij geeft die zetel nu op, laat het bestuur van zijn partij weten. \"Wij res",
   "link": "https://www.omroepflevoland.nl/nieuws/525355/man-uit-urk-(58)-die-beticht-wordt-van-aanranding-stapt-in-aanloop-naar-uitspraak-op-als-fractievoorzitter"
@@ -57,13 +96,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages",
-   "Buitengebied & recreatie",
-   "Geweld, liquidaties & bedreiging"
+   "Buitengebied & recreatie"
   ],
   "tags": [
-   "garage",
-   "geweld",
    "stal"
   ],
   "samenvatting": "De politie zoekt twee mannen die twee elektrische fietsen hebben gestolen uit de fietsenstalling van een appartementencomplex aan de Max Euwestraat in Helmond. Dat gebeurde in de nacht van 14 op 15 april. De politie heeft beelden van de twee verdachten vrijgegeven. Vlak na drie uur klom een van de mannen over de muur v",
@@ -126,11 +161,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "geweld",
    "wapen"
   ],
   "samenvatting": "Bij een vechtpartij na een botsing op de Nicolaas van Eschstraat in Oisterwijk zijn slagwapens gevonden. Zeven mensen zijn aangehouden. De vechtpartij gebeurde zaterdagavond, dat maakte de politie zondagochtend bekend. Waarover de ruzie precies ging, weet de politie nog niet. Zeven verdachten Het gaat om vijf mannen en",
@@ -226,9 +259,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
+   "Bibob & bestuurlijke aanpak",
    "Vastgoed & huisvesting"
   ],
   "tags": [
+   "burgemeester",
    "woning"
   ],
   "samenvatting": "Bij een buurtfeest in het Groningse dorp De Wilp zijn meerdere mensen gewond geraakt door een steekvlam. Volgens journalisten ter plaatse had iemand een brandbare vloeistof, mogelijk ethanol, op een vuurkorf gegooid. Daarop ontstond een steekvlam. Het Dagblad van het Noorden meldt dat acht mensen brandwonden hebben opg",
@@ -257,7 +292,7 @@
   "id": "1401438a60",
   "datum": "2026-09-26",
   "tijd": "19:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Steekpartij in Eindhoven, mogelijk ook geschoten: verdachten aangehouden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -276,7 +311,7 @@
   "id": "2709a5be7e",
   "datum": "2026-09-26",
   "tijd": "19:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee gewonden bij steekpartij in Eindhoven, vijf verdachten opgepakt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -292,29 +327,10 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6028782/twee-gewonden-bij-steekpartij-in-eindhoven-vijf-verdachten-opgepakt"
  },
  {
-  "id": "ff45fefd82",
-  "datum": "2026-09-26",
-  "tijd": "18:39",
-  "nieuw": true,
-  "titel": "Vijf mensen opgepakt na ruzie om botsing in Oisterwijk, één gewonde",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "wapen"
-  ],
-  "samenvatting": "Iemand is zaterdagavond gewond geraakt bij een ruzie aan de Nicolaas van Eschstraat in Oisterwijk. De ruzie begon na een botsing tussen twee auto's en liep flink uit de hand. De politie rukte uit met vijftien politieauto's en hield vijf mensen aan. Update: zondagochtend werd bekendgemaakt dat er zeven mensen zijn aange",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028781/vijf-mensen-opgepakt-na-ruzie-om-botsing-in-oisterwijk-een-gewonde"
- },
- {
   "id": "a13f44a7e6",
   "datum": "2026-09-26",
   "tijd": "17:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gemeente heeft 'illegale' waterberging, omwonenden vrezen wateroverlast",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -333,7 +349,7 @@
   "id": "db638bfcd2",
   "datum": "2026-09-26",
   "tijd": "17:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Amerikaanse ambassadeur reageert fel op Jetten: 'ICC moet handen afhouden van VS'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -352,7 +368,7 @@
   "id": "b274066cf5",
   "datum": "2026-09-26",
   "tijd": "17:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bekende drugsdealer lijkt niets bij zich te hebben, tot agenten hem fouilleren",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -588,26 +604,6 @@
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLWJod2VHQWE1cDBSZFdIUGJ3elNycE9fOFI0dmxZV0JxM1k3eUlmaUtVelBLdTJjQWYwM3VkbEd2d3hQaTdWT1FGcWtZM1l6S0Nka1J5cFgxYUV1MlJBaENvV2phektYUDFYRGx1QXdPbFZXVlp2dlNwYW9yVFJ1UXZOUFRSdUVUWnF2SEhlTmZ3TUxFWkdIelZZY1V5NFA1U1g4TjlmOUhFbTVSYVVpNExmNjlWaml3R3A3Vm1JM0hNZw?oc=5"
  },
  {
-  "id": "4081ee594e",
-  "datum": "2026-09-25",
-  "tijd": "20:30",
-  "nieuw": false,
-  "titel": "Zeewolde - T. (21) misbruikt vijfjarig halfzusje: 'Ik kreeg een impuls en gaf eraan toe'",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jeugd",
-   "school"
-  ],
-  "samenvatting": "Een gezin dat uit elkaar is gevallen, een vijfjarig meisje dat door haar eigen halfbroer is misbruikt in Zeewolde en een 21-jarige jongen die zegt dat hij \"een impuls\" kreeg en daar niet tegenin ging. Dat was vrijdag het beeld tijdens de strafzaak tegen T.G. uit Veenendaal. De officier van justitie eiste een straf, waa",
-  "link": "https://www.omroepflevoland.nl/nieuws/525208/t.-(21)-misbruikt-vijfjarig-halfzusje:-'ik-kreeg-een-impuls-en-gaf-eraan-toe'"
- },
- {
   "id": "430acc0b42",
   "datum": "2026-09-25",
   "tijd": "18:20",
@@ -742,25 +738,6 @@
   ],
   "samenvatting": "Grote controle op ondermijnende criminaliteit levert aanhouding en drugs op DTV Nieuws",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjJwbE1DQk5RbHV5UWNxb0hPRGRaa2lHQTdSN0JDNXZ4RHRmbXIzSF9DQnpyOW42Z0V5NW1iUkxDZWpuS1NaUlRZTnhZcEtMajNRR0h3SUdmUE9fTlZBbFFidUtlZTEtX3F5OG5pRF8yV0x5UF9NbEFELXZDWDE3OFJGNkIxR01EUFVIYmhTRFlyOS1ULVd0YlI3d1FFRzZCTmpZckloM2p6S0VFOXVkRQ?oc=5"
- },
- {
-  "id": "196228d1ab",
-  "datum": "2026-09-25",
-  "tijd": "14:21",
-  "nieuw": false,
-  "titel": "Jan Roos en Dennis Schouten voor rechter om online vernedering van twee vrouwen",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Het Openbaar Ministerie gaat Jan Roos en Dennis Schouten vervolgen voor het vernederen en seksistisch beledigen van twee vrouwen. De presentatoren van het Youtubeprogramma RoddelPraat moeten op 13 oktober voor de rechter in Groningen verschijnen. Dat bevestigt het OM Noord-Nederland na berichtgeving van het AD . Roos e",
-  "link": "https://nos.nl/l/2632476"
  },
  {
   "id": "b7e2653de3",
@@ -57337,6 +57314,25 @@
   ]
  },
  {
+  "id": "4d51398ae8",
+  "datum": "2024-09-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Mannen uit Brabant riskeren jaren cel voor wapenhandel, pistolen gebruikt bij moordaanslagen",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapenhandel"
+  ],
+  "samenvatting": "Mannen uit Brabant riskeren jaren cel voor wapenhandel, pistolen gebruikt bij moordaanslagen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOWJZUk94c3lHNWFxSVJZVjZsUnpKY252ZkRRQ2g4NWpqM3BXSHpDUzF3UHJXOXhhamU3VHJsWXI5WjNyMDNHdVpuOTk4cnJlRUhHdVNRU3FTeUVHaDB3czM5N1R0ajNtQy1wVkZTNW8xUG93R0lERmNXc1dGYnQ0VkxqekU0SEFNMWQ4Q0Y4SjAyZ1U3ZmtwZG9ockp2STdienRjenEtSUdiLXdLRVJNSzJfNUJybkpFb2JCV1J0UEUydXZ2bkpMdVNn?oc=5"
+ },
+ {
   "id": "d7bb80f0f7",
   "datum": "2024-09-09",
   "tijd": "07:00",
@@ -59941,6 +59937,28 @@
   ],
   "samenvatting": "Opmerkelijke conclusies over liquidaties: criminelen vaker vermoord door ‘vrienden’ dan vijand De Limburger",
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUkdEWTZRWGpvOHVpWkFtZXhKekp5TkJRVTB5TWhpLWFoZHc3LWxpLUEtQjc4UWNmY1lrdEFXUG02N1hUSWNRUnNCd1VjV3l1M0c4YWZDWWdvbEp1b2lnTjlqY2UxS1NMNWpKODVJUGJxTENFRk5Ybk4tczdKVkVCamgzTkNLOGdDZXl5MWJsMTJvWjZ6Qk5iejRPWk1DVkR6eEw0VnpWUHdZNGFYNnpUNmpWTUgwOFBrUWtRdHRwTWxCRVk5OGZVWTh6cVJ6cDlTbGJUTlNWOFE?oc=5"
+ },
+ {
+  "id": "4cf62cdf6b",
+  "datum": "2024-02-01",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Opinie | Leveranties F-35-onderdelen aan Israël strijdig met het Wapenhandelsverdrag - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Wapens, explosieven & vuurwerk",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "grond",
+   "wapen",
+   "wapenhandel"
+  ],
+  "samenvatting": "Opinie | Leveranties F-35-onderdelen aan Israël strijdig met het Wapenhandelsverdrag NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0loa2V6NWhRV2RrOUwyLUl2NUhOYTZid0VMZEpFMl9SNVp4ODlxQjh0OFZFYXVvZ0pnZUdzWGpzempqWmpSSmpRVHZxZDdoYjNPdGZTekV5aV9SZVZ1YXI2NkxQaGhXTWc1ZHZJcFJuTTF5V0pIbndfMENiek1ESkFEaUZKQVdiVzJyUzFjT2FtM0VIVWswWk0xOWVJVmhiZkRxclgyUGhJUnhFZ01KTW5SN2xrQ1NMMHl1LXd3?oc=5"
  },
  {
   "id": "fc951af054",
