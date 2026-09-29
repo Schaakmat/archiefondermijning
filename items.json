@@ -299,7 +299,7 @@
   "id": "f40c62a669",
   "datum": "2026-09-28",
   "tijd": "14:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gestolen gereedschap brandweer teruggevonden, twee Edenaren opgepakt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -318,7 +318,7 @@
   "id": "b4a09780dd",
   "datum": "2026-09-28",
   "tijd": "14:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ombudsman in brandbrief: Sinti, Roma en reizigers nog altijd gediscrimineerd",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -341,7 +341,7 @@
   "id": "6a714600a6",
   "datum": "2026-09-28",
   "tijd": "14:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "83-jarige fietser overleden na ongeluk met vrachtwagen in Schijndel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -360,7 +360,7 @@
   "id": "471e9d0b8f",
   "datum": "2026-09-28",
   "tijd": "13:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Referendum over betaald parkeren kost minimaal half miljoen, gemeenteraad stemt donderdag",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -379,7 +379,7 @@
   "id": "5a3704edc5",
   "datum": "2026-09-28",
   "tijd": "13:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overweg dicht en buurtbus weg, deze golfkar schiet te hulp: 'Geweldig'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -398,7 +398,7 @@
   "id": "27fb4a45f8",
   "datum": "2026-09-28",
   "tijd": "13:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Werkzaamheden aan natte-voeten-tunnel onder Larserdreef in Lelystad begonnen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -419,7 +419,7 @@
   "id": "3f09d9754b",
   "datum": "2026-09-28",
   "tijd": "13:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jeugdgevangenissen steeds verder onder druk, inspecties manen kabinet tot actie",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -439,7 +439,7 @@
   "id": "d5e499ac87",
   "datum": "2026-09-28",
   "tijd": "12:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie mannen in Eindhoven aangehouden in onderzoek naar drugs en witwassen",
   "bron": "Eindhovens Dagblad",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -458,7 +458,7 @@
   "id": "956fc123fa",
   "datum": "2026-09-28",
   "tijd": "12:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Douane onderschept cocaïne in haven Rotterdam",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -479,7 +479,7 @@
   "id": "97ddb44e7d",
   "datum": "2026-09-28",
   "tijd": "12:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto raakt van snelweg en belandt in water",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -498,7 +498,7 @@
   "id": "cb35b59148",
   "datum": "2026-09-28",
   "tijd": "12:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "FIOD pakt Eindhovenaren op voor drugshandel en witwassen",
   "bron": "Crimesite",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -517,7 +517,7 @@
   "id": "1bb0f37bc2",
   "datum": "2026-09-28",
   "tijd": "12:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ruim 200 boetes bij controle van bezorgers, fatbikes en e-steps in Rotterdam",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -942,25 +942,6 @@
   ],
   "samenvatting": "Verschillende Nederlandse ziekenhuizen hebben dit weekend last van computerproblemen met Citrix waardoor patiënten hun gegevens niet kunnen inzien. Het Nationaal Cyber Security Centrum meldt dat er kwetsbaarheden zaten in het Citrix-programma Netscaler, die inmiddels verholpen zijn. Z-Cert, het expertisecentrum voor cy",
   "link": "https://nos.nl/l/2632818"
- },
- {
-  "id": "1a6d04beca",
-  "datum": "2026-09-27",
-  "tijd": "20:02",
-  "nieuw": false,
-  "titel": "Voorbijgangers vinden gecrashte auto op zandpad, bestuurder zat er nog in",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Voorbijgangers hebben zondagavond op een zandpad in Goirle een auto gevonden die frontaal tegen een boom was gebotst. De bestuurder zat er nog in en is naar het ziekenhuis gebracht. Wanneer het ongeluk is gebeurd, en dus hoe lang de man op hulp heeft moeten wachten, is niet duidelijk. De passanten vonden de auto aan he",
-  "link": "https://www.omroepbrabant.nl/nieuws/6028829/voorbijgangers-vinden-gecrashte-auto-op-zandpad-bestuurder-zat-er-nog-in"
  },
  {
   "id": "37b273adf1",
@@ -18636,6 +18617,25 @@
   ],
   "samenvatting": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXc5OE5wT0Z4aDdWVFBUMUNmcFh1ZXJjVml6eHJ3RDR1ZThmcHc2OVRnR0dhbU9rek1kRzFDSkZfSXVRNU5ULS1aU0psa2VKODNTSG16Z1N6eDhfN1pQdUdlY3FvTWtlaWRlYnhGeU4xTThTellTLW1pWEIxQlFrZWVhdkRSdW1hOW80dnhkcnp3RVltV2F0LW1JSGNkaEFPU3FOVnJvX1pzUWh5SzRzMXdDYTUzVTZBTF9TZWozUjRfVUtrQkVV?oc=5"
+ },
+ {
+  "id": "1ba775696a",
+  "datum": "2026-09-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Achtervolging leidt agenten naar hennepkwekerij en mogelijk gestolen fietsen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjh3ZHlLWVhhRlFTXzZaUkRVbDl5OGh3bk5DbmJ3SkxNVFF4cWNjaU1DcTU2cnFvcllxZjhtZzVxdkJIMWxaM0pXQ0hnRGNaemUwRnduaWhxblFPQ0IwTUNST2FzblJBcWFkbTA1RG41bTBETUpqaVVTZ1BCTnVLOVpQMWhtbFNZZ3NmYlZ0OGFodXdNOEdkX3ZmRkpRRnN0UU9nMmZ6NHdQWTVXTHYyYnF5OUE3NjNwQmN6MQ?oc=5"
  },
  {
   "id": "b730f89de1",
@@ -74804,6 +74804,25 @@
   "dossiers": [
    "Milieucriminaliteit & afval"
   ]
+ },
+ {
+  "id": "b29e2839a6",
+  "datum": "2013-03-31",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "York M.: welke liquidatie uit 2007?; Kees van der Spek trekt ‘Oplichters in het buitenland’ - Misdaadjournalist – Hendrik Jan Korterink",
+  "bron": "Nieuws — Geweld, liquidaties & bedreiging",
+  "verzameld_via": "Nieuws — Geweld, liquidaties & bedreiging",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "York M.: welke liquidatie uit 2007?; Kees van der Spek trekt ‘Oplichters in het buitenland’ Misdaadjournalist – Hendrik Jan Korterink",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORlMxcl9JSVlpNUpCT0JCRURnMVo2OEo0aUpMZUVxZERzYWh1X3FPbzU2M1AtZjRqMm9ZLXJlbjN4a0NfLWxFeXA1ZUZVMUVwOUVSR2hYYml2aXF1eXZHbDdscmZod2U4UHVCMDNHeDgwaWhlRXZfTWVhOTlpWi1rRUYtSmRTVnUzYWlvb294V1dVaTBjM01xd1BMMWNYSUVjRUhnMEdvSllKOTNqcmFteg?oc=5"
  },
  {
   "id": "99a88c631a",
