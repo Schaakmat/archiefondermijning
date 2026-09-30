@@ -10,19 +10,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Crypto & digitaal geld",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk",
-   "Witwassen & geldstromen"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "beveiliging",
-   "crypto",
-   "jeugd",
-   "leider",
    "moord",
    "moordopdracht"
   ],
@@ -59,17 +49,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Goudhandel & edelmetalen",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Wapens, explosieven & vuurwerk"
+   "Goudhandel & edelmetalen"
   ],
   "tags": [
-   "grond",
-   "jeugd",
-   "juwelier",
-   "sieraden",
-   "wapen"
+   "juwelier"
   ],
   "samenvatting": "De 19-jarige I.R. uit het Gelderse Puiflijk moet volgens de officier van justitie 2,5 jaar cel krijgen, waarvan een halfjaar voorwaardelijk. Hij was volgens de aanklager betrokken bij de overval op City Juwelier in Almere op 29 november vorig jaar. R. bekent dat hij de overvaller is geweest die die zaterdag met het vuu",
   "link": "https://www.omroepflevoland.nl/nieuws/525652/de-overval-op-een-juwelier-duurde-24-seconden-en-mislukte-nu-dreigt-voor-19-jarige-gelderlander-25-jaar-cel"
@@ -296,6 +279,25 @@
   "link": "https://nos.nl/l/2633024"
  },
  {
+  "id": "5eb06e927a",
+  "datum": "2026-09-29",
+  "tijd": "16:53",
+  "nieuw": true,
+  "titel": "Peter Gillis vecht veiling van zijn vakantieparken aan met turbospoedappèl",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "vakantiepark"
+  ],
+  "samenvatting": "Peter Gillis (64) legt zich niet neer bij de uitspraak van de rechter dat de veiling van zijn vakantieparken door mag gaan. Zijn advocaat laat dinsdagavond aan Omroep Brabant weten dat Gillis in hoger beroep is gegaan met een zogeheten turbospoedappèl. Daarmee wordt een zaak heel snel behandeld als dat nodig is. De zit",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029127/peter-gillis-vecht-veiling-van-zijn-vakantieparken-aan-met-turbospoedappel"
+ },
+ {
   "id": "0c0b872cdb",
   "datum": "2026-09-29",
   "tijd": "16:53",
@@ -313,26 +315,6 @@
   ],
   "samenvatting": "De diefstal van een camper maandag in Best is hard aangekomen bij de eigenaar. De wagen werd rond middernacht weggehaald van een oprit aan de Dauwheuvel. De eigenaar is volgens zijn zoon helemaal van slag. \"Omdat nog geen drie weken geleden zijn vrouw overleden is met wie hij mooie reizen maakte met deze camper.\" Zijn ",
   "link": "https://www.omroepbrabant.nl/nieuws/6029128/vader-nog-geen-drie-weken-na-overlijden-vrouw-bestolen-van-hun-camper"
- },
- {
-  "id": "5eb06e927a",
-  "datum": "2026-09-29",
-  "tijd": "16:53",
-  "nieuw": true,
-  "titel": "Peter Gillis vecht veiling van zijn vakantieparken aan met turbospoedappèl",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "camping",
-   "vakantiepark"
-  ],
-  "samenvatting": "Peter Gillis (64) legt zich niet neer bij de uitspraak van de rechter dat de veiling van zijn vakantieparken door mag gaan. Zijn advocaat laat dinsdagavond aan Omroep Brabant weten dat Gillis in hoger beroep is gegaan met een zogeheten turbospoedappèl. Daarmee wordt een zaak heel snel behandeld als dat nodig is. De zit",
-  "link": "https://www.omroepbrabant.nl/nieuws/6029127/peter-gillis-vecht-veiling-van-zijn-vakantieparken-aan-met-turbospoedappel"
  },
  {
   "id": "60fc8eecfe",
@@ -357,7 +339,7 @@
   "id": "e7a1582614",
   "datum": "2026-09-29",
   "tijd": "16:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bomvol stroomnet: in deze vijf gemeenten is geen ruimte voor nieuwe huizen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -376,7 +358,7 @@
   "id": "60ac7fcb1b",
   "datum": "2026-09-29",
   "tijd": "16:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "De Vietnamese centrale bank corrigeert onjuiste informatie over de bestrijding van witwassen.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -395,7 +377,7 @@
   "id": "10527ceac0",
   "datum": "2026-09-29",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Schizofrene man hoeft niet naar de gevangenis voor neersteken caissière, maar krijgt wel tbs",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -414,7 +396,7 @@
   "id": "ef728244f1",
   "datum": "2026-09-29",
   "tijd": "15:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - OM: Almeerder die betrokken was bij beruchte drugslijn 'Milan' in Zwolle moet twee jaar de cel in",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -436,7 +418,7 @@
   "id": "c9a41b7268",
   "datum": "2026-09-29",
   "tijd": "15:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte ShinyHunters wilde mogelijk ook twee moorden laten plegen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -455,7 +437,7 @@
   "id": "f4689981cd",
   "datum": "2026-09-29",
   "tijd": "15:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verduidelijking van de regelgeving inzake toezicht op het witwassen van geld in de banksector.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -474,7 +456,7 @@
   "id": "ff3f123b29",
   "datum": "2026-09-29",
   "tijd": "14:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Automobilist klapt op auto voor zich, stapt uit en steekt bestuurder neer",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -493,7 +475,7 @@
   "id": "4d259767f6",
   "datum": "2026-09-29",
   "tijd": "14:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tienduizenden euro’s aan cash in big shopper op slaapkamer, moeder van drie uit Heerlen verdacht van witwassen: ‘Ik heb niets gezien’",
   "bron": "De Limburger",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -512,7 +494,7 @@
   "id": "64b0cdc5b2",
   "datum": "2026-09-29",
   "tijd": "14:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ggz-medewerker bijna doodgeslagen door patiënt, tbs met dwang opgelegd",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -531,7 +513,7 @@
   "id": "2e68e1c01d",
   "datum": "2026-09-29",
   "tijd": "14:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Trucker voor de rechter om dood Angelo (14) uit Almelo: 'Heb hem niet gezien'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -550,7 +532,7 @@
   "id": "7e0e1ad4f3",
   "datum": "2026-09-29",
   "tijd": "14:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Trucker staat terecht na dood AJ (14) uit Almelo en breekt: ‘Het spijt mij enorm’",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -569,7 +551,7 @@
   "id": "ed9c6a3ba6",
   "datum": "2026-09-29",
   "tijd": "14:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Steekincident in Enschede: politie plukt verdachte meteen van de straat",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -588,7 +570,7 @@
   "id": "bf319743d6",
   "datum": "2026-09-29",
   "tijd": "14:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Eerste Kamer stemt in met Wet arbeidsuitbuiting: 5 HR-punten die jouw organisatie moet regelen",
   "bron": "pwnet.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -607,7 +589,7 @@
   "id": "0c94f06fc9",
   "datum": "2026-09-29",
   "tijd": "14:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - 'Dit kabinet afschieten': Almeerder krijgt voorwaardelijke celstraf voor Facebookbericht",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -627,7 +609,7 @@
   "id": "ce414ceff7",
   "datum": "2026-09-29",
   "tijd": "13:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Amsterdamse ShinyHunters-verdachte Pepijn van der S. (24) ook verdacht van geven twee moordopdrachten in buitenland - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -40851,6 +40833,25 @@
   ],
   "samenvatting": "OM eist 7 maanden cel tegen vader Jos Leijdekkers voor witwassen Nieuws.nl",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUm1oc0dCSG02Q0JNSzNMUGtKZGtmZEZzWXgxLVExdm1MTDJoOF9LTFhkaE1aVHoxUXBRYW1lbURnRFlaeUlFeUlLVC1oeWZpaWZSa2ZLSVB6VHQ2dTNPUGVPd3E0djJmT2NTUnBNUkd4dlQ4T1JLNS1xcUQwT1lOc3IwNzVQajBfeTBBTkRfTEVjOWVFMWc?oc=5"
+ },
+ {
+  "id": "68473f0e1b",
+  "datum": "2026-05-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Negen op de tien Nederlanders willen hardere aanpak van zorgfraude in de langdurige zorg",
+  "bron": "Menzis",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Negen op de tien Nederlanders willen hardere aanpak van zorgfraude in de langdurige zorg Menzis",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWXo2aHlNbXJXbGt4cmFheDJsVUlSdEJhZFk0ckh2YnU1UUhjYktKVGR6QVZUT0RxYThEOXBNSk11Y2xXbldJQXVjaVg1RUNNNi03aVJGazdPSjFyS3ZDcld6VHdRcTRGQTJuOFBYVzBOVnlCU2JhNVdETl9LeWZQX1dkMTYtdlhUOGMw?oc=5"
  },
  {
   "id": "cb620f9624",
