@@ -260,7 +260,7 @@
   "id": "cf31ce2609",
   "datum": "2026-10-01",
   "tijd": "15:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inval in Dedemsvaart gelinkt aan groot Duits onderzoek naar Hells Angels",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -32136,6 +32136,26 @@
   ]
  },
  {
+  "id": "3c3a2ba734",
+  "datum": "2026-08-17",
+  "tijd": "12:32",
+  "nieuw": false,
+  "titel": "Handhaving treft tientallen lachgastanks aan bij afvaldumping in Stiphout",
+  "bron": "Ditishelmond.nl",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "afvaldumping"
+  ],
+  "samenvatting": "Handhaving treft tientallen lachgastanks aan bij afvaldumping in Stiphout Ditishelmond.nl",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjd5YmJLNWxmcWd1SWdyeUdrb0V6WU5FcWpmS2ZnT081b0tSY3JNWFF0cmp1ZERHMlR0bEdXd3d1SFBuTjhIWm9GV056YV9xejdvd3djWGpCN3Z2ZmpVa2h6azN0elNNUnJjZVo0ZzFNV0p6VFRXV2VFQlpuTkJIYktjZjZpZ3JpWlFQUEdxdzdFb1B5b2dVX0dWMUtTQ00?oc=5"
+ },
+ {
   "id": "bb290ef960",
   "datum": "2026-08-17",
   "tijd": "07:00",
@@ -57227,6 +57247,25 @@
   ],
   "samenvatting": "Amsterdamse ambtenaar aangehouden voor corruptie en medeplichtigheid aan explosies AT5",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWJ4OE1MNzdHVkgtUGZFM1N1YW5yM2J3T19WaUE3UEtVZVI3bks4WXJlUVh5YmVfcWRYVGNyNGhGZVk5N0lCekxndFN0UmlzRDRoWUJXV1RVbU5Pb2twRDNPSHI4OXdHMVF3ZGJac1JQMHJGUXBydkxNT3BpZEtoT3JQYXNPbDh2QTZDNmR5TmJjLU5OQ0FrTXlvUGpsenRyTy0xSUt4WXg1ZUFlNlZvZTZQa0NrczQ0Tmc?oc=5"
+ },
+ {
+  "id": "4b473cfa42",
+  "datum": "2025-05-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Amsterdamse ambtenaar opgepakt, verdacht van opzoeken adressen voor criminelen",
+  "bron": "NH Nieuws",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar"
+  ],
+  "samenvatting": "Amsterdamse ambtenaar opgepakt, verdacht van opzoeken adressen voor criminelen NH Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLS1EaEFobnIyQW5vUGY0TkxuQ3RtYXMwTDVmQ3h2eGw0aE5oZk8xWW1vaVNieERacDU5UFBoOUhqTDJhNk03UUd6T2RzVjYydVNLOU9sbnpxcFJOcjVRdHBUaW5QWDl5QlNhS001SkwtR21EX0NueVNNUUFMb0diajFGM3lRQWhKNDJkWlhuVE5DN0xLaHRfNFF4NGs2Q0MxNnoxdXJjeUZlUmV3MnlIaDFIbHVhUQ?oc=5"
  },
  {
   "id": "46d7bc6f61",
