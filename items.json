@@ -1,5 +1,107 @@
 [
  {
+  "id": "8761011d9f",
+  "datum": "2026-10-02",
+  "tijd": "19:29",
+  "nieuw": true,
+  "titel": "Bloempotten vliegen door seniorencomplex: verhuurder eist ontruiming",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Ze schreeuwt, gooit met meubels en bloempotten en kneep zelfs een agent in zijn kruis. Een 59-jarige huurder van een seniorencomplex in Diepenveen maakt het wel erg bont. Woonstichting De Marken eist in een kort geding dat ze haar woning verlaat. De rechter staat voor een duivels dilemma.",
+  "link": "https://www.oost.nl/nieuws/3702164/bloempotten-vliegen-door-seniorencomplex-verhuurder-eist-ontruiming"
+ },
+ {
+  "id": "7b3156fcde",
+  "datum": "2026-10-02",
+  "tijd": "19:09",
+  "nieuw": true,
+  "titel": "Rechtbank geeft burgemeester Schouten op het laatste moment gelijk: omstreden rapper niet welkom in Rotterdamse club",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "De Rotterdamse club Villa Thalia probeerde vrijdagavond de tijdelijke sluiting op last van burgemeester Schouten terug te draaien, maar de rechtbank Rotterdam stelt hen niet in het gelijk. Aanleiding om voor de rechter te verschijnen was het geplande optreden van rapper JoeyAK deze avond. Volgens de burgemeester is de ",
+  "link": "https://www.rijnmond.nl/nieuws/2262180/rechtbank-geeft-burgemeester-schouten-op-het-laatste-moment-gelijk-omstreden-rapper-niet-welkom-in-rotterdamse-club"
+ },
+ {
+  "id": "ad7def0597",
+  "datum": "2026-10-02",
+  "tijd": "18:49",
+  "nieuw": true,
+  "titel": "Bedrijven massaal gehackt, consument maakt het weinig uit: 'We zijn datalekmoe'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Crypto & digitaal geld",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "crypto",
+   "cryptovaluta",
+   "geweld",
+   "organisatie"
+  ],
+  "samenvatting": "De boodschap van de cybercriminelen die vorige week thuisbezorgdienst Flink hackten was helder: er moet worden betaald, anders worden alle buitgemaakte klantgegevens gepubliceerd op het dark web. Hoewel de hackers hoopten hiermee meer dan twee ton op te halen, maakte niemand de geëiste 10 tot 15 euro in cryptogeld over",
+  "link": "https://nos.nl/l/2633445"
+ },
+ {
+  "id": "e102e7f224",
+  "datum": "2026-10-02",
+  "tijd": "18:33",
+  "nieuw": true,
+  "titel": "Rotterdam sluit tijdelijk club Villa Thalia wegens dreiging tegen rapper JoeyAK",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "burgemeester",
+   "doodgeschoten"
+  ],
+  "samenvatting": "De Rotterdamse club Villa Thalia moet de komende 24 uur dicht. Dat heeft de burgemeester van Rotterdam, Carola Schouten, vandaag bepaald. De sluiting heeft te maken met een dreiging richting rapper JoeyAK, ook wel bekend als frontman van de rapformatie Zone6 uit de Amsterdamse wijk Holendrecht. Hij zou vanavond om 23.0",
+  "link": "https://nos.nl/l/2633438"
+ },
+ {
+  "id": "5c36a503cf",
+  "datum": "2026-10-02",
+  "tijd": "18:15",
+  "nieuw": true,
+  "titel": "Dodelijke ongelukken, grote files rond Arnhem en gedumpte post in Groesbeek op 2 oktober",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Twee mensen komen vrijdag om het leven bij verkeersongelukken in Doetinchem en Zelhem en rond Arnhem ontstaat grote verkeerschaos na een ongeluk op de A12. Ook gaat in Overasselt een eerder gesloten woning weer open en blijft de Gelderse coalitie bij elkaar. Dit zijn de belangrijkste verhalen van 2 oktober.",
+  "link": "https://www.gld.nl/nieuws/8531081/dodelijke-ongelukken-grote-files-rond-arnhem-en-gedumpte-post-in-groesbeek-op-2-oktober"
+ },
+ {
   "id": "8defef947c",
   "datum": "2026-10-02",
   "tijd": "17:45",
@@ -24,6 +126,86 @@
   ],
   "samenvatting": "Goedenavond. Elke doordeweekse avond informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Anderhalf uur extra reistijd door omleiding, gemeente NOP boos om wegafsluiting A6 én N50 • Batavia uit het water gehaald en centimeter voor centimeter op de wal gereden",
   "link": "https://www.omroepflevoland.nl/nieuws/526010/nieuwsoverzicht-0210-or-flink-omrijden-door-wegafsluitingen-*-batavia-aan-land-gebracht"
+ },
+ {
+  "id": "671c5ec672",
+  "datum": "2026-10-02",
+  "tijd": "17:15",
+  "nieuw": true,
+  "titel": "Een klap met levenslange gevolgen en Brabantse wijn: dit gebeurde vandaag",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "vergunning"
+  ],
+  "samenvatting": "De gemeente Land van Cuijk waarschuwt inwoners voor opdringerige isolatieverkopers en Jeroen S. uit Den Bosch moet een jaar de cel in voor het neerslaan van een man tijdens de Nacht van Brabant. Dit zijn de verhalen die je vrijdag gelezen moet hebben. De gemeente Land van Cuijk waarschuwt inwoners voor opdringerige iso",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029566/een-klap-met-levenslange-gevolgen-en-brabantse-wijn-dit-gebeurde-vandaag"
+ },
+ {
+  "id": "64d13b0d41",
+  "datum": "2026-10-02",
+  "tijd": "17:00",
+  "nieuw": true,
+  "titel": "Let op: snelweg A59 komende weekenden dicht",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "leider"
+  ],
+  "samenvatting": "De snelweg A59 is de komende drie weekenden dicht. Er wordt aan de weg gewerkt tussen de knooppunten Hooipolder en Empel, bij Den Bosch. Weggebruikers krijgen te maken met omleidingen en een extra reistijd van ongeveer 25 minuten. Waar en wanneer is de A59 dicht? Weekend 1: vrijdag 25 september 21.00 uur tot maandag 28",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029547/let-op-snelweg-a59-komende-weekenden-dicht"
+ },
+ {
+  "id": "968237d07a",
+  "datum": "2026-10-02",
+  "tijd": "16:58",
+  "nieuw": true,
+  "titel": "Arrestatieteams vallen binnen in Tilburg en Eindhoven, twee aanhoudingen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Bij twee vrijwel gelijktijdige politie-invallen in Tilburg en Eindhoven zijn vrijdagmiddag twee mannen aangehouden. Het zou gaan om een lopend drugsonderzoek. In beide gevallen ramde een arrestatieteam de voordeur eruit. De politie wil nog niets kwijt over een mogelijk verband. Zwaarbewapend en -bepakt parkeerde het ar",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029572/arrestatieteams-vallen-binnen-in-tilburg-en-eindhoven-twee-aanhoudingen"
+ },
+ {
+  "id": "a7786af8e7",
+  "datum": "2026-10-02",
+  "tijd": "16:00",
+  "nieuw": true,
+  "titel": "2/10 in Nieuwsuur: Dieseltekort • Russische dreigementen aan adres EU • Koloniaal verleden koningshuis",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "grond",
+   "wapen"
+  ],
+  "samenvatting": "Dieseltekort De prijzen aan de pomp zijn historisch hoog. Voor zowel diesel als benzine betaal je vandaag ruim 2,70 euro. De dieselprijs dreigt nog verder op te lopen omdat de Amerikaanse president Donald Trump dreigt minder Amerikaanse diesel te exporteren om in eigen land automobilisten, boeren en de vrachtsector teg",
+  "link": "https://nos.nl/l/2633418"
  },
  {
   "id": "598fedb0b1",
@@ -119,7 +301,7 @@
    "grond",
    "vrachtwagen"
   ],
-  "samenvatting": "Een vrachtwagen is vrijdagmiddag gekanteld op de A58 bij knooppunt Sint-Annabosch bij Bavel. De combinatie vervoerde batterijen, maar die zouden geen gevaar voor de omgeving opleveren. De chauffeur is gewond geraakt en naar het ziekenhuis gebracht. De vrachtwagen ging rond vier op zijn kant op de verbindingsweg van de ",
+  "samenvatting": "Een vrachtwagen is vrijdagmiddag gekanteld op de A58 bij knooppunt Sint-Annabosch bij Bavel. De combinatie vervoerde batterijen, maar die leverden geen gevaar op voor de omgeving. De chauffeur raakte gewond en is naar het ziekenhuis gebracht. De verbindingsweg naar de A27 is tot in loop van nacht dicht. De vrachtwagen ",
   "link": "https://www.omroepbrabant.nl/nieuws/6029557/vrachtwagen-met-batterijen-gekanteld-afrit-van-a58-naar-a27-nog-uren-dicht"
  },
  {
@@ -209,13 +391,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Cocaine, haven & logistiek",
    "Milieucriminaliteit & afval"
   ],
   "tags": [
-   "container",
-   "grond",
-   "stort"
+   "grond"
   ],
   "samenvatting": "Een deel van het Schiedamse park De Plantage wordt afgegraven, nadat deze week zeker vijf honden waren doodgegaan die in het park waren uitgelaten. Dat doet de gemeente uit voorzorg, op verzoek van de politie. Het gaat om de grond van het rozenperk, een deel van het park dat enkele tientallen meters lang en breed is. H",
   "link": "https://nos.nl/l/2633405"
@@ -243,7 +422,7 @@
   "id": "81a9b2c378",
   "datum": "2026-10-02",
   "tijd": "13:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "D66 ontwijkt vragen over speech Jetten en ondermijning van samenleving | Schenk (FVD)",
   "bron": "Forum voor Democratie",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -262,7 +441,7 @@
   "id": "6772c8c75a",
   "datum": "2026-10-02",
   "tijd": "13:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "D66 ontwijkt vragen over speech Jetten en ondermijning van samenleving | Schenk (FVD)",
   "bron": "Forum voor Democratie",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -281,7 +460,7 @@
   "id": "7ae8ee7c14",
   "datum": "2026-10-02",
   "tijd": "12:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Rechter oordeelt: minister mag bedrijfsgegevens van boeren openbaar maken",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -300,7 +479,7 @@
   "id": "37cdfa0e8f",
   "datum": "2026-10-02",
   "tijd": "12:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grenswachten strijden vastberaden tegen drugshandel en mensenhandel.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -319,7 +498,7 @@
   "id": "d70869e8b8",
   "datum": "2026-10-02",
   "tijd": "12:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Online conferentie ter uitvoering van het plan voor de coördinatie van de bouw van drugsvrije gemeenschappen, wijken en speciale zones; samenvatting van de activiteiten in het kader van de \"Actiemaand tegen mensenhandel\" in 2026.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -338,7 +517,7 @@
   "id": "5cc841b61e",
   "datum": "2026-10-02",
   "tijd": "11:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Lelystad hoopt op steun voor aangepast plan Waterfront, dat gedeeltelijk buitendijks wordt gebouwd",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -366,7 +545,7 @@
   "id": "a3acae22ab",
   "datum": "2026-10-02",
   "tijd": "11:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Broers ruziën al jaren over erfenis: 72-jarige moet na 45 jaar zijn huis uit",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -387,7 +566,7 @@
   "id": "d47ea44823",
   "datum": "2026-10-02",
   "tijd": "10:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tickets voor het 'kamp voor mensenhandel' verkopen razendsnel en leveren in slechts één week 200 miljard VND op.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -406,7 +585,7 @@
   "id": "d03bbacc7a",
   "datum": "2026-10-02",
   "tijd": "10:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie: in woning lag bijna 600 kilo zwaar vuurwerk",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -427,7 +606,7 @@
   "id": "a6111de7d4",
   "datum": "2026-10-02",
   "tijd": "10:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Noodopvang Oekraïners weg van Wisselweg, verhuist naar Almere Poort",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -453,7 +632,7 @@
   "id": "2c87080599",
   "datum": "2026-10-02",
   "tijd": "08:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lamp vergeten uit te doen? Verhuurders leggen arbeidsmigranten boete op",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -482,7 +661,7 @@
   "id": "17c54ff284",
   "datum": "2026-10-02",
   "tijd": "08:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Woning familielid Jan G. wordt weer geopend: 'Geen nieuwe feiten'",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -503,7 +682,7 @@
   "id": "4623608d0d",
   "datum": "2026-10-02",
   "tijd": "08:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man die meester Recep bij schoolmusical neerstak, heeft niet meegewerkt in Pieter Baan Centrum",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -522,7 +701,7 @@
   "id": "1b23ce902a",
   "datum": "2026-10-02",
   "tijd": "08:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man die meester Recep bij schoolmusical neerstak, beantwoordt geen enkele vraag",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -541,7 +720,7 @@
   "id": "b2f778e151",
   "datum": "2026-10-02",
   "tijd": "08:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vaten, dode vissen of verdachte lozingen? Dit kunnen signalen van milieucriminaliteit zijn",
   "bron": "LINQ Media",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -562,7 +741,7 @@
   "id": "b6e8d84280",
   "datum": "2026-10-02",
   "tijd": "07:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Bedrijfsgegevens Flevolandse boeren worden mogelijk openbaar na uitspraak rechter",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -581,7 +760,7 @@
   "id": "a0826c08c5",
   "datum": "2026-10-02",
   "tijd": "06:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Provincie moet voor 4 februari beslissen over vergunningen kippenboeren",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -602,7 +781,7 @@
   "id": "997be91c4a",
   "datum": "2026-10-02",
   "tijd": "05:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester sluit bedrijfspand na explosie",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -625,7 +804,7 @@
   "id": "76f9357f52",
   "datum": "2026-10-02",
   "tijd": "05:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester sluit autobedrijf na explosie | Fietser aangehouden na botsing met automobilist",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -646,7 +825,7 @@
   "id": "7add9018c7",
   "datum": "2026-10-02",
   "tijd": "05:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jongste broer die Lotte (14) om leven bracht, vindt nu zijn rust in de islam",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -665,7 +844,7 @@
   "id": "6ea1cfb9e2",
   "datum": "2026-10-02",
   "tijd": "04:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Honderden kilo's zwaar vuurwerk in woning in beslag genomen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -681,27 +860,6 @@
   ],
   "samenvatting": "In een woning in Hellevoetsluis heeft de politie donderdagavond zwaar vuurwerk aangetroffen. Een paar honderd kilo aan vuurwerk is in beslag genomen en het huis is volledig doorzocht door de politie.",
   "link": "https://www.rijnmond.nl/nieuws/2261953/honderden-kilos-zwaar-vuurwerk-in-woning-in-beslag-genomen"
- },
- {
-  "id": "f16cd8db92",
-  "datum": "2026-10-02",
-  "tijd": "03:58",
-  "nieuw": true,
-  "titel": "Rapport: oorzaak brand natuurgebied op grens met Limburg blijft onduidelijk",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "afval",
-   "burgemeester"
-  ],
-  "samenvatting": "De oorzaak van de brand die begin augustus uitbrak op de grens van Limburg, in natuurgebied Boschhuizerbergen, blijft onduidelijk. Dat staat in een rapport van de brandweer Limburg-Noord en het Landelijk team Natuurbrandonderzoek dat donderdag werd gepresenteerd. De brandweer zegt wel met zekerheid te kunnen stellen da",
-  "link": "https://www.omroepbrabant.nl/nieuws/6029467/rapport-oorzaak-brand-natuurgebied-op-grens-met-limburg-blijft-onduidelijk"
  },
  {
   "id": "bb482ee1cd",
@@ -1210,25 +1368,6 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6029423/ontploffing-met-cobra-bij-huis-in-den-bosch-man-29-vrijgesproken"
  },
  {
-  "id": "50f586b368",
-  "datum": "2026-10-01",
-  "tijd": "11:17",
-  "nieuw": false,
-  "titel": "Lelystad - Bewoners buitendijkse woonwijk willen betere bescherming tegen hoogwater",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "haven"
-  ],
-  "samenvatting": "Bewoners van de Lelystadse woonwijk Parkhaven willen dat de provincie, Rijkswaterstaat en het waterschap opnieuw kijken naar de veiligheid van de buitendijkse wijk. Zij verwijten de overheden dat die geen actie ondernemen, terwijl Parkhaven steeds vaker te maken heeft met wateroverlast. Een bewoonster van Parkhaven spr",
-  "link": "https://www.omroepflevoland.nl/nieuws/525851/bewoners-buitendijkse-woonwijk-willen-betere-bescherming-tegen-hoogwater"
- },
- {
   "id": "02eb2af207",
   "datum": "2026-10-01",
   "tijd": "09:40",
@@ -1544,25 +1683,6 @@
   ],
   "samenvatting": "De politie heeft dinsdag een 32-jarige man uit Rotterdam aangehouden. De man werkt in de haven en wordt ervan verdacht betrokken te zijn bij het uithalen van grote partijen drugs voor meerdere criminele organisaties. Wat zijn precieze rol was bij het uithalen, is niet bekend.",
   "link": "https://www.rijnmond.nl/nieuws/2261193/havenmedewerker-aangehouden-vanwege-uithalen-drugs"
- },
- {
-  "id": "72d35df3f1",
-  "datum": "2026-09-30",
-  "tijd": "17:00",
-  "nieuw": false,
-  "titel": "Rotterdam goedkoopste grote stad voor rijlessen: dit betaal je meestal per uur",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "stal"
-  ],
-  "samenvatting": "Wie zijn rijbewijs wil halen, moet daar flink wat geld voor neerleggen. In de afgelopen vijf jaar zijn de prijzen van rijlessen gemiddeld met 41 procent toegenomen, onder andere door hogere lonen, brandstofprijzen en een tekort aan instructeurs. Toch is er ook nog goed nieuws: Rotterdam is de goedkoopste grote stad voo",
-  "link": "https://www.rijnmond.nl/nieuws/2261008/rotterdam-goedkoopste-grote-stad-voor-rijlessen-dit-betaal-je-meestal-per-uur"
  },
  {
   "id": "3adf5c4f76",
@@ -2933,6 +3053,25 @@
   ],
   "samenvatting": "De politie heeft dinsdag een vermoedelijk drugsnetwerk rond een 42-jarige man uit Eindhoven opgerold. Arrestatieteams pakten hem samen met zijn 20-jarige zoon en nog zes andere verdachten in alle vroegte op. De Eindhovenaar kwam bij de politie in beeld toen die informatie binnenkreeg dat hij betrokken zou zijn bij de h",
   "link": "https://www.omroepbrabant.nl/nieuws/6029086/crimineel-netwerk-van-eindhovenaar-42-opgerold-ook-zoon-20-opgepakt"
+ },
+ {
+  "id": "6b74ded227",
+  "datum": "2026-09-29",
+  "tijd": "12:15",
+  "nieuw": false,
+  "titel": "Crimineel netwerk van Eindhovenaar (42) opgerold, ook zoon (20) opgepakt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "netwerk"
+  ],
+  "samenvatting": "Crimineel netwerk van Eindhovenaar (42) opgerold, ook zoon (20) opgepakt Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPejZmRlp1aFROQUNuTWp0cUd3YUE3T2NMTWgtbDlReThveGRRd3JSZE1PdDY4Q0ttdF8xQk04VlFfLWJCTGhrbXVwYWZ1aWgyM01iZGNCcEtjVkMxU2xHeTl1QWN0cWtHenJfOFJ0ei15WXlFQVNqd1QwUmhuZnRPVy1sS0ZmTFlHR0hkM3FrbW0yZF9aX3ZoVUVDUHVCN003cllncGxNcHNXeWlMSHhKdw?oc=5"
  },
  {
   "id": "5a62b4130b",
@@ -62013,6 +62152,25 @@
   ],
   "samenvatting": "Werkend drugslab opgerold: mannen uit Best, Eindhoven en Waalre opgepakt Omroep Brabant",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSm5zU3ZJZnl6eExFdE4xaS1wTFV1THlPb0pCUzJ1QnhPM3NEU3Y2cDRKd1pDeTdCT1JQT09VcnZsbld6THpLRkpfcE1sZ3dJRExFdFdzcVNfalhpeldCa0U1Qk1SU3R5YWJTNGM3SjVlWUtsWFBETTBNLW9xa25sQlJSOFZRc1RwNTRYb25BVkZWZU9ZMWxMWUx4cE16OTFUWk5RMXk3RnRyWjUxVU95UFpfQ3c?oc=5"
+ },
+ {
+  "id": "f6fb200808",
+  "datum": "2024-08-25",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Nederlander (68) overviel met handgranaat bank in grensdorp: trauma bij bankmedewerkers",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Nederlander (68) overviel met handgranaat bank in grensdorp: trauma bij bankmedewerkers BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY1U5aHJWUjItMkdiVm93ZnZqWEZXV2JDSHkwT3BlNnY3NGlkVS02WnlUUDRkSnJfM21zVVA3ZmxQU0lOcVhHSlFralROeU9TTFY2d0tOLUdPWjVyczdqZ3U4cTNSZWl2Q0ZvWFp3aUZubzdrQWlJRE5HMlUtcXp5LUNrNWxzU0d5bDBIRElsVGRENTZ2Zkc1SnRSS1p0anM5UFFlcWt3WElsQ2NVSHJOcGZTV3B1ZlV3anUwQmpOcmdMYUU2ZEVCYQ?oc=5"
  },
  {
   "id": "64f4c5e196",
