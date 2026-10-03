@@ -48,15 +48,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Crypto & digitaal geld",
-   "Geweld, liquidaties & bedreiging"
+   "Crypto & digitaal geld"
   ],
   "tags": [
-   "crypto",
-   "cryptovaluta",
-   "geweld",
-   "organisatie"
+   "crypto"
   ],
   "samenvatting": "De boodschap van de cybercriminelen die vorige week thuisbezorgdienst Flink hackten was helder: er moet worden betaald, anders worden alle buitgemaakte klantgegevens gepubliceerd op het dark web. Hoewel de hackers hoopten hiermee meer dan twee ton op te halen, maakte niemand de geëiste 10 tot 15 euro in cryptogeld over",
   "link": "https://nos.nl/l/2633445"
@@ -72,12 +67,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Geweld, liquidaties & bedreiging"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "burgemeester",
-   "doodgeschoten"
+   "burgemeester"
   ],
   "samenvatting": "De Rotterdamse club Villa Thalia moet de komende 24 uur dicht. Dat heeft de burgemeester van Rotterdam, Carola Schouten, vandaag bepaald. De sluiting heeft te maken met een dreiging richting rapper JoeyAK, ook wel bekend als frontman van de rapformatie Zone6 uit de Amsterdamse wijk Holendrecht. Hij zou vanavond om 23.0",
   "link": "https://nos.nl/l/2633438"
@@ -176,12 +169,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "wapen",
-   "woning"
+   "wapen"
   ],
   "samenvatting": "Bij twee vrijwel gelijktijdige politie-invallen in Tilburg en Eindhoven zijn vrijdagmiddag twee mannen aangehouden. Het zou gaan om een lopend drugsonderzoek. In beide gevallen ramde een arrestatieteam de voordeur eruit. De politie wil nog niets kwijt over een mogelijk verband. Zwaarbewapend en -bepakt parkeerde het ar",
   "link": "https://www.omroepbrabant.nl/nieuws/6029572/arrestatieteams-vallen-binnen-in-tilburg-en-eindhoven-twee-aanhoudingen"
@@ -268,7 +259,7 @@
   "id": "9b0f454267",
   "datum": "2026-10-02",
   "tijd": "14:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bac Ninh: Actief voorkomen en resoluut stoppen van mensenhandel.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -287,7 +278,7 @@
   "id": "37fe50b283",
   "datum": "2026-10-02",
   "tijd": "14:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrachtwagen met batterijen gekanteld: afrit van A58 naar A27 nog uren dicht",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -308,7 +299,7 @@
   "id": "25028bfab9",
   "datum": "2026-10-02",
   "tijd": "14:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Interne commissie politie: geweld ME-agenten tegen pro-Palestijnse demonstranten Westpoort in 2024 was disproportioneel - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -327,7 +318,7 @@
   "id": "c8e39a2912",
   "datum": "2026-10-02",
   "tijd": "14:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "De strijd tegen drugshandel en mensenhandel is een voortdurende strijd.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -346,7 +337,7 @@
   "id": "bf5fa5c878",
   "datum": "2026-10-02",
   "tijd": "14:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man uit Groningen (27) aangehouden voor drugs- en vuurwapenbezit - Politie.nl",
   "bron": "Politie",
   "verzameld_via": "Politie",
@@ -365,7 +356,7 @@
   "id": "e2a1cb4f4c",
   "datum": "2026-10-02",
   "tijd": "14:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - Twee mannen aangehouden voor steekpartij rond zomerfeest in Emmeloord",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -384,7 +375,7 @@
   "id": "b68db201c9",
   "datum": "2026-10-02",
   "tijd": "13:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Deel Schiedams park wordt afgegraven na dood van zeker 5 honden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -403,7 +394,7 @@
   "id": "2d392391ff",
   "datum": "2026-10-02",
   "tijd": "13:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw wil geld en zwaait met flink mes in supermarkt Jumbo in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
