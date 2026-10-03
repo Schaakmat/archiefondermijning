@@ -1,5 +1,63 @@
 [
  {
+  "id": "739daf77f1",
+  "datum": "2026-10-03",
+  "tijd": "15:12",
+  "nieuw": true,
+  "titel": "Man (34) doodgeschoten voor bar in Amsterdam, politie vermoedt gerichte actie",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "doodgeschoten"
+  ],
+  "samenvatting": "Bij een schietpartij in Amsterdam is een 34-jarige inwoner van de stad om het leven gekomen. De man werd rond 02.30 uur vannacht neergeschoten in de buurt van bar Sao Paulo, iets ten noordwesten van het Vondelpark. Hulpverleners hebben nog geprobeerd hem te reanimeren. De schutter is vlak na de daad weggerend in de ric",
+  "link": "https://nos.nl/l/2633519"
+ },
+ {
+  "id": "bc38a7137e",
+  "datum": "2026-10-03",
+  "tijd": "15:08",
+  "nieuw": true,
+  "titel": "50-Plus: zorgen over zorgfraude, ook in Schiedam",
+  "bron": "Schiedam24",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "50-Plus: zorgen over zorgfraude, ook in Schiedam Schiedam24",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMGdwZHZXM2ZlbkMwWUZSTER1S2p3WXRYT1dlc2tWRG9zaGJiWjBLMHpDbkJrc0ZuNWlyQUhFOXRENHBRdEc3MGhZQm5QRjBCcEZkTFN3RWpUNmFkdmxmTllFNURZbnROVGdxX1EwVVctZ3A4NmNKUFZuLUZSenJyQjFn?oc=5"
+ },
+ {
+  "id": "db070c0747",
+  "datum": "2026-10-03",
+  "tijd": "14:30",
+  "nieuw": true,
+  "titel": "Varkens maken muziek met hun snuit op een knorgel",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "buitengebied",
+   "erf"
+  ],
+  "samenvatting": "Kunstenares Pauline Wiersema ontwierp een orgel waarop varkens met hun snuit muziek kunnen maken: het knorgel. Zaterdagmiddag was het instrument te zien in het buitengebied van Heusden (gemeente Asten), onder de neuzen van veel bezoekers en van de varkens zelf. Achter het kleurrijke knorgel zit ook een donkere boodscha",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029596/varkens-maken-muziek-met-hun-snuit-op-een-knorgel"
+ },
+ {
   "id": "97f6c7a82e",
   "datum": "2026-10-03",
   "tijd": "13:58",
@@ -40,6 +98,27 @@
   "link": "https://nos.nl/l/2633505"
  },
  {
+  "id": "7dc3c8c06f",
+  "datum": "2026-10-03",
+  "tijd": "13:01",
+  "nieuw": true,
+  "titel": "Minder moorden, maar meer drugshandel, mensenhandel en cybercrime",
+  "bron": "Crimesite",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "mensenhandel",
+   "moord"
+  ],
+  "samenvatting": "Minder moorden, maar meer drugshandel, mensenhandel en cybercrime Crimesite",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQy1PZHZsWDhkY0M5LW84N0ZOaG1oeUlsa05rNFFDelBSSWxyYUNDellkZmNRdnVuWkk2UFRQZGt1WXk5dTA3Rjc1SWVZVy1UM2M3c2h4alJPbkxnVW9zTEd6SUdUTzRGcG9oM3dZeGh6LW9lREZDeVJqejg0NHBrb2cyeU9PUVBEdWl5S1E2d0tDVDQ?oc=5"
+ },
+ {
   "id": "6c2e275845",
   "datum": "2026-10-03",
   "tijd": "12:52",
@@ -71,14 +150,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "burgemeester",
-   "geweld",
-   "organisatie"
+   "burgemeester"
   ],
   "samenvatting": "Bijna een kwart miljoen euro. Dat heeft de gemeente Noordoostpolder aan externe advocaatkosten uitgegeven in een bijna zeven jaar durende juridische strijd met Omroep Flevoland over documenten rond het vertrek van oud-burgemeester Harald Bouman. Door meerdere rechterlijke uitspraken moesten steeds meer stukken openbaar",
   "link": "https://www.omroepflevoland.nl/nieuws/526046/kwart-miljoen-euro-aan-juridische-strijd-om-documenten-vertrek-burgemeester-bouman"
@@ -132,7 +207,7 @@
   "id": "b17f531ffb",
   "datum": "2026-10-03",
   "tijd": "09:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie weet wie overlastgevers in Maassluis zijn: 'Deel jonger dan 14'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -152,39 +227,54 @@
   "id": "cc40cde669",
   "datum": "2026-10-03",
   "tijd": "08:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tilburger (49) springt voor auto en bedreigt bestuurder met mes",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Trustkantoren & rechtspersonen",
-   "Wapens, explosieven & vuurwerk"
+   "Trustkantoren & rechtspersonen"
   ],
   "tags": [
-   "bestuurder",
-   "wapen"
+   "bestuurder"
   ],
   "samenvatting": "Een 49-jarige Tilburger is in de nacht van vrijdag op zaterdag aangehouden nadat hij een automobilist met een mes bedreigde. Daarna richtte hij het mes ook op agenten. Agenten zagen de man rond kwart over vijf 's nachts op de Laarstraat lopen. Ze spraken hem aan en vroegen hem op de stoep te gaan lopen. Mes door autora",
   "link": "https://www.omroepbrabant.nl/nieuws/6029589/tilburger-49-springt-voor-auto-en-bedreigt-bestuurder-met-mes"
  },
  {
+  "id": "0e4c955158",
+  "datum": "2026-10-03",
+  "tijd": "07:08",
+  "nieuw": false,
+  "titel": "Politie neemt 2500 blaastesten af: negen bestuurders onder invloed",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "De politie heeft vrijdagmiddag en -avond op meerdere locaties in de gemeente Ede gecontroleerd op rijden onder invloed. Daarbij werden negen bestuurders betrapt. Het merendeel had alcohol gedronken, terwijl een enkeling onder invloed van drugs achter het stuur zat.",
+  "link": "https://www.gld.nl/nieuws/8531128/politie-neemt-2500-blaastesten-af-negen-bestuurders-onder-invloed"
+ },
+ {
   "id": "329dd7ddc6",
   "datum": "2026-10-03",
   "tijd": "07:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Podcast De Dag: als je het verheerlijken van terreur bij wet bestrijdt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Criminele samenwerkingsverbanden"
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
-   "organisatie",
    "wetsvoorstel"
   ],
   "samenvatting": "Moet het zwaaien met bijvoorbeeld een IS- of Hamas-vlag bij demonstraties strafbaar worden? Of met een Prinsenvlag? Of het online steun betuigen aan terreuraanslagen? Minister Van Weel van Justitie en Veiligheid vindt van wel, en na jaren van discussie ligt er nu een wetsvoorstel over het strafbaar stellen van de verhe",
@@ -194,7 +284,7 @@
   "id": "fa180126c1",
   "datum": "2026-10-03",
   "tijd": "06:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Duizenden euro’s weg na geraffineerde truc met nepagent",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -213,7 +303,7 @@
   "id": "ed6cb4b621",
   "datum": "2026-10-03",
   "tijd": "05:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Heerlen gaat na horeca ook dakdekkers, schoonmakers en zorgbedrijven controleren op ondermijning",
   "bron": "De Limburger",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -234,7 +324,7 @@
   "id": "b67d48ec36",
   "datum": "2026-10-03",
   "tijd": "03:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto crasht tegen gevel in Breda: bestuurder weg, bijrijder naar ziekenhuis",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -253,7 +343,7 @@
   "id": "b312cd8c20",
   "datum": "2026-10-03",
   "tijd": "00:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Maatregelen om fraude en ondermijnende criminaliteit in zorg effectiever aan te pakken",
   "bron": "Vandaagenmorgen.nl",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -273,7 +363,7 @@
   "id": "8761011d9f",
   "datum": "2026-10-02",
   "tijd": "19:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bloempotten vliegen door seniorencomplex: verhuurder eist ontruiming",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -292,7 +382,7 @@
   "id": "7b3156fcde",
   "datum": "2026-10-02",
   "tijd": "19:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rechtbank geeft burgemeester Schouten op het laatste moment gelijk: omstreden rapper niet welkom in Rotterdamse club",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -311,7 +401,7 @@
   "id": "ad7def0597",
   "datum": "2026-10-02",
   "tijd": "18:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bedrijven massaal gehackt, consument maakt het weinig uit: 'We zijn datalekmoe'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -330,7 +420,7 @@
   "id": "e102e7f224",
   "datum": "2026-10-02",
   "tijd": "18:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rotterdam sluit tijdelijk club Villa Thalia wegens dreiging tegen rapper JoeyAK",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -349,7 +439,7 @@
   "id": "5c36a503cf",
   "datum": "2026-10-02",
   "tijd": "18:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dodelijke ongelukken, grote files rond Arnhem en gedumpte post in Groesbeek op 2 oktober",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -363,51 +453,6 @@
   ],
   "samenvatting": "Twee mensen komen vrijdag om het leven bij verkeersongelukken in Doetinchem en Zelhem en rond Arnhem ontstaat grote verkeerschaos na een ongeluk op de A12. Ook gaat in Overasselt een eerder gesloten woning weer open en blijft de Gelderse coalitie bij elkaar. Dit zijn de belangrijkste verhalen van 2 oktober.",
   "link": "https://www.gld.nl/nieuws/8531081/dodelijke-ongelukken-grote-files-rond-arnhem-en-gedumpte-post-in-groesbeek-op-2-oktober"
- },
- {
-  "id": "8defef947c",
-  "datum": "2026-10-02",
-  "tijd": "17:45",
-  "nieuw": false,
-  "titel": "Flevoland - Nieuwsoverzicht 02/10 | Flink omrijden door wegafsluitingen • Batavia aan land gebracht",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "erf",
-   "haven",
-   "organisatie",
-   "pand",
-   "stal"
-  ],
-  "samenvatting": "Goedenavond. Elke doordeweekse avond informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Anderhalf uur extra reistijd door omleiding, gemeente NOP boos om wegafsluiting A6 én N50 • Batavia uit het water gehaald en centimeter voor centimeter op de wal gereden",
-  "link": "https://www.omroepflevoland.nl/nieuws/526010/nieuwsoverzicht-0210-or-flink-omrijden-door-wegafsluitingen-*-batavia-aan-land-gebracht"
- },
- {
-  "id": "64d13b0d41",
-  "datum": "2026-10-02",
-  "tijd": "17:00",
-  "nieuw": false,
-  "titel": "Let op: snelweg A59 komende weekenden dicht",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "leider"
-  ],
-  "samenvatting": "De snelweg A59 is de komende drie weekenden dicht. Er wordt aan de weg gewerkt tussen de knooppunten Hooipolder en Empel, bij Den Bosch. Weggebruikers krijgen te maken met omleidingen en een extra reistijd van ongeveer 25 minuten. Waar en wanneer is de A59 dicht? Weekend 1: vrijdag 25 september 21.00 uur tot maandag 28",
-  "link": "https://www.omroepbrabant.nl/nieuws/6029547/let-op-snelweg-a59-komende-weekenden-dicht"
  },
  {
   "id": "968237d07a",
@@ -505,25 +550,6 @@
   ],
   "samenvatting": "Drie verdachten van zorgfraude blijven nog zeker twee weken vastzitten De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3M4YnlZUm5kOC1rQnREWW9zVzV5dVZlVFdVT3E4bmdxVEpVQXpJbmZ0QldoS1NUd3ZVSlFMd1l4ZW4xUlc4eElxYWlGcWt2dE9BU2xUcVBJallNcFhONGZzeUNZRE5VbG43Rk5ZbVV0QS1ibVctMGU4UHhaYW01bGU3a2hxSlVyaGpyV2RweGVNcXA3cWlocWpKbG85Sm8xdEVkT25NcU5tNFVMVTR6YndmNmlldw?oc=5"
- },
- {
-  "id": "4187fb024d",
-  "datum": "2026-10-02",
-  "tijd": "14:28",
-  "nieuw": false,
-  "titel": "Nagele - Zwaar verkeer mag toch over viaduct bij Nagele rijden: 'Nieuwe berekeningen wijzen uit dat het kan'",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "vrachtwagen"
-  ],
-  "samenvatting": "Vrachtwagenchauffeurs met een zware belading kunnen deze maand toch over de A6 bij Nagele blijven rijden. Dat meldt Rijkswaterstaat. De afgegeven gewichtsbeperking, die voor het viaduct in de snelweg werd aangekondigd, is niet nodig. Uit een herberekening blijkt dat de overgang stevig genoeg is voor zwaar vrachtverkeer",
-  "link": "https://www.omroepflevoland.nl/nieuws/526030/zwaar-verkeer-mag-toch-over-viaduct-bij-nagele-rijden:-'nieuwe-berekeningen-wijzen-uit-dat-het-kan'"
  },
  {
   "id": "9b0f454267",
@@ -1019,25 +1045,6 @@
   ],
   "samenvatting": "In een bedrijfsgebouw in Almere Buiten woedde donderdagavond een zeer grote brand. De vlammen sloegen uit een bedrijfsverzamelpand aan de Bolderweg, op industrieterrein De Vaart. De politie gaat uit van brandstichting. Niemand raakte gewond. Het gebouw waar de brand woedde bestaat uit vijf grote garageboxen op een rij.",
   "link": "https://www.omroepflevoland.nl/nieuws/525968/zeer-grote-brand-in-bedrijfsgebouw-bolderweg-almere-buiten-politie-vermoedt-brandstichting"
- },
- {
-  "id": "775bf8525a",
-  "datum": "2026-10-01",
-  "tijd": "21:17",
-  "nieuw": false,
-  "titel": "Per direct geen meta-brillen meer te koop bij Hans Anders",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "Hans Anders stopt per direct met de verkoop van camerabrillen van Meta. Dat bevestigt het bedrijf aan persbureau ANP na berichtgeving door het AD . De reden is de onrust die is ontstaan over de privacyrisico's van de brillen. Hans Anders wil de discussie over de slimme brillen afwachten, en besluit dan of en hoe de bri",
-  "link": "https://nos.nl/l/2633322"
  },
  {
   "id": "0bce0708de",
@@ -77449,6 +77456,27 @@
   ],
   "samenvatting": "Motorclubs wegpesten? Nu zit België met het probleem NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZFhhYlIxeEFubFVfY1lzd3FqS0tJZ25uWGhUcU9LTnhQVVNpakNLbU9valozSlVVOWdvd2JoLThXbWpWRXRVanAwcXRkQ2ZHREs2Wk15ZHI0SUYyU21tQ3JsREJfa080clJJSHFXVWlWejZnY0hKMFBYbVhZT1VheUd3VGJ6WVJQdHdEUlB4blBiTXFvUGNrVTJyM2Z5UQ?oc=5"
+ },
+ {
+  "id": "3e4af4193f",
+  "datum": "2018-02-26",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Motorclubs verkassen naar België - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Criminele samenwerkingsverbanden",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "motorclub"
+  ],
+  "samenvatting": "Motorclubs verkassen naar België NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmpNZE1sZ0gzWDFlVEd3WTVMZHpYQ2Fuamt2ZkdVMjhrajdCRlAwZlpZTkVLZFoycmpTTTU3ak5vd1ZJcEhPS1dLOG4ydktGS044NzZPOHJWMkxUaFptWHVSY08xSHg1cy1aMlpFd1diNmtpMEFUbi1xR1Zra3YyVkxSTzE?oc=5"
  },
  {
   "id": "3410784fbf",
