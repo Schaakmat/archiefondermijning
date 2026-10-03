@@ -1,5 +1,107 @@
 [
  {
+  "id": "cf8f463dc3",
+  "datum": "2026-10-03",
+  "tijd": "21:01",
+  "nieuw": true,
+  "titel": "Politie houdt man aan na dodelijke schietpartij bij bar Amsterdam",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De politie in Amsterdam heeft een 32-jarige man aangehouden na de dodelijke schietpartij in de buurt van het Vondelpark van vannacht . De man wordt verdacht van betrokkenheid bij het incident. Afgelopen nacht werd een 34-jarige Amsterdammer neergeschoten voor de deur van bar Sao Paulo. Hulpverleners hebben de man nog g",
+  "link": "https://nos.nl/l/2633560"
+ },
+ {
+  "id": "e28a2e54d8",
+  "datum": "2026-10-03",
+  "tijd": "19:45",
+  "nieuw": true,
+  "titel": "Zeewolde - Boerderij Zeewolde is al verkocht, maar dan komt iemand met een hoger bod",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "boerderij",
+   "erf",
+   "loods",
+   "stal",
+   "vastgoed",
+   "woning"
+  ],
+  "samenvatting": "Een verkoper van een agrarisch perceel met bedrijfswoning en twee loodsen aan de Bloesemlaan in Zeewolde moet zich houden aan de verkoopafspraak die hij eerder met een boerenfamilie maakte. Dat heeft de rechter bepaald. De verkoper wilde van de deal af, nadat zich een andere belangstellende had gemeld met een hoger bod",
+  "link": "https://www.omroepflevoland.nl/nieuws/526150/boerderij-zeewolde-is-al-verkocht-maar-dan-komt-iemand-met-een-hoger-bod"
+ },
+ {
+  "id": "2cb92979b2",
+  "datum": "2026-10-03",
+  "tijd": "19:03",
+  "nieuw": true,
+  "titel": "Supermarkt in Vlaardingen overvallen, verdachte vlucht zonder buit",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "supermarkt"
+  ],
+  "samenvatting": "Een supermarkt op het Veerplein in Vlaardingen-Centrum is zaterdagavond overvallen. De verdachte had een mes bij zich en is uiteindelijk zonder buit gevlucht. Er raakte niemand gewond.",
+  "link": "https://www.rijnmond.nl/nieuws/2262296/supermarkt-in-vlaardingen-overvallen-verdachte-vlucht-zonder-buit"
+ },
+ {
+  "id": "cb0dafe454",
+  "datum": "2026-10-03",
+  "tijd": "18:18",
+  "nieuw": true,
+  "titel": "Bestuurder gewond naar ziekenhuis nadat scootmobiel het water inrijdt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een bestuurder van een scootmobiel is zaterdagavond gewond geraakt nadat de scoormobiel in het water reed aan de Meerstraat in Heeswijk-Dinther. De bestuurder werd door de ambulance naar het ziekenhuis gebracht. Omstanders verleenden eerste hulp, tot medewerkers van de politie en de ambulance er waren. De bestuurder, h",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029610/bestuurder-gewond-naar-ziekenhuis-nadat-scootmobiel-het-water-inrijdt"
+ },
+ {
+  "id": "1a95afacb2",
+  "datum": "2026-10-03",
+  "tijd": "17:09",
+  "nieuw": true,
+  "titel": "Landelijk onderzoek naar donorconceptie: organisaties verwachten meer misstanden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "Er gaan waarschijnlijk meer misstanden rondom onder meer spermadonatie aan het licht komen. Dat verwachten DNA-databankbeheerder Fiom en belangenorganisatie voor zaaddonoren Priamos, nu er voor het eerst een groot landelijk onderzoek komt naar de geschiedenis van donorconceptie in Nederland. \"Het kán haast niet anders.",
+  "link": "https://www.gld.nl/nieuws/8530482/landelijk-onderzoek-naar-donorconceptie-organisaties-verwachten-meer-misstanden"
+ },
+ {
   "id": "739daf77f1",
   "datum": "2026-10-03",
   "tijd": "15:12",
@@ -122,7 +224,7 @@
   "id": "6c2e275845",
   "datum": "2026-10-03",
   "tijd": "12:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Almeerse (14) zoeft met 46 kilometer per uur op elektrische fiets naar school en stopt niet voor de politie",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -143,7 +245,7 @@
   "id": "1ec40502df",
   "datum": "2026-10-03",
   "tijd": "10:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Noordoostpolder - Kwart miljoen euro aan juridische strijd om documenten vertrek burgemeester Bouman",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -162,7 +264,7 @@
   "id": "b79015d5a9",
   "datum": "2026-10-03",
   "tijd": "10:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stroomnet Maashorst op slot: flinke tegenvaller voor woningbouw",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -181,7 +283,7 @@
   "id": "16db3853bf",
   "datum": "2026-10-03",
   "tijd": "10:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Noordoostpolder - Documenten onthullen crisis rond vertrek burgemeester Bouman: vertrouwensbreuk na botsingen en intimidaties",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -31876,6 +31978,25 @@
   ],
   "samenvatting": "Een zorgvilla sluiten binnen vier weken: de Inspectie Gezondheidszorg en Jeugd (IGJ) vindt het na meerdere kritische rapporten noodzakelijk. De eigenaar vond dat wel heel kort dag en stapte naar de rechter. Die voorkomt nu dat de bewoners al op korte termijn hun plek moeten verlaten.",
   "link": "https://www.oost.nl/nieuws/3685974/omstreden-zorgvilla-hoeft-voorlopig-nog-niet-dicht-na-ingreep-van-rechter"
+ },
+ {
+  "id": "751009f939",
+  "datum": "2026-08-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ondermijning: als criminaliteit jouw buurt binnendringt - Al het nieuws uit Barendrecht",
+  "bron": "Alfabrent",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Ondermijning: als criminaliteit jouw buurt binnendringt - Al het nieuws uit Barendrecht Alfabrent",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZldORF9YelNselRwY0xRWDl1d1lIWEM3VE9QWWY3SDFXVjdDZWJSdG1XUmtLVEpVN3RYYnE4VWRtNHl6YlFlS21RVnUtQ0tXTmdEajlyMmN6UVRveHFyZ0dSZThrb0xvTVFsdjRHQjNJSlYyNzMwMVEtODZlbFI2WHlHMU1uY0tSU2t5bDU2Y0R6SVFtcWFBZ2FnbG5rZzBDckVsVTJwZ05UZ0JtMmVMaDZB?oc=5"
  },
  {
   "id": "42f3a7315f",
