@@ -15,7 +15,7 @@
   "tags": [
    "woning"
   ],
-  "samenvatting": "De politie in Amsterdam heeft een 32-jarige man aangehouden na de dodelijke schietpartij in de buurt van het Vondelpark van vannacht . De man wordt verdacht van betrokkenheid bij het incident. Afgelopen nacht werd een 34-jarige Amsterdammer neergeschoten voor de deur van bar Sao Paulo. Hulpverleners hebben de man nog g",
+  "samenvatting": "De politie in Amsterdam heeft een 32-jarige man aangehouden na de dodelijke schietpartij vannacht in de buurt van het Vondelpark. De man wordt verdacht van betrokkenheid bij het incident. Afgelopen nacht werd een 34-jarige Amsterdammer neergeschoten voor de deur van bar Sao Paulo. Hulpverleners hebben de man nog geprob",
   "link": "https://nos.nl/l/2633560"
  },
  {
@@ -35,10 +35,7 @@
   ],
   "tags": [
    "boerderij",
-   "erf",
    "loods",
-   "stal",
-   "vastgoed",
    "woning"
   ],
   "samenvatting": "Een verkoper van een agrarisch perceel met bedrijfswoning en twee loodsen aan de Bloesemlaan in Zeewolde moet zich houden aan de verkoopafspraak die hij eerder met een boerenfamilie maakte. Dat heeft de rechter bepaald. De verkoper wilde van de deal af, nadat zich een andere belangstellende had gemeld met een hoger bod",
@@ -143,7 +140,7 @@
   "id": "db070c0747",
   "datum": "2026-10-03",
   "tijd": "14:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Varkens maken muziek met hun snuit op een knorgel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -163,7 +160,7 @@
   "id": "97f6c7a82e",
   "datum": "2026-10-03",
   "tijd": "13:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - 20-jarige vrouw uit Lelystad aangehouden voor drugshandel, halve kilo cocaïne gevonden",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -184,7 +181,7 @@
   "id": "9fbd340bda",
   "datum": "2026-10-03",
   "tijd": "13:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Omroep EO stopt na ruim 25 jaar met Het Familiediner",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -196,14 +193,14 @@
   "tags": [
    "vuurwerk"
   ],
-  "samenvatting": "Televisieprogramma Het Familiediner van de Evangelische Omroep stopt. Dat bevestigt de omroep. Vanochtend verscheen er een video op sociale media waarin presentator Bert van Leeuwen zegt dat er nog één seizoen komt en mensen zich daarvoor nog kunnen aanmelden. Het televisieprogramma probeert familieleden die al jaren r",
+  "samenvatting": "Televisieprogramma Het Familiediner van de EO stopt. Dat bevestigt de omroep. Vanochtend verscheen er een video op sociale media waarin presentator Bert van Leeuwen zegt dat er nog één seizoen komt en mensen zich daarvoor nog kunnen aanmelden. Het televisieprogramma probeert familieleden die al jaren ruzie hebben weer ",
   "link": "https://nos.nl/l/2633505"
  },
  {
   "id": "7dc3c8c06f",
   "datum": "2026-10-03",
   "tijd": "13:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Minder moorden, maar meer drugshandel, mensenhandel en cybercrime",
   "bron": "Crimesite",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -343,6 +340,25 @@
   ],
   "samenvatting": "Een 49-jarige Tilburger is in de nacht van vrijdag op zaterdag aangehouden nadat hij een automobilist met een mes bedreigde. Daarna richtte hij het mes ook op agenten. Agenten zagen de man rond kwart over vijf 's nachts op de Laarstraat lopen. Ze spraken hem aan en vroegen hem op de stoep te gaan lopen. Mes door autora",
   "link": "https://www.omroepbrabant.nl/nieuws/6029589/tilburger-49-springt-voor-auto-en-bedreigt-bestuurder-met-mes"
+ },
+ {
+  "id": "3014bd0cb9",
+  "datum": "2026-10-03",
+  "tijd": "07:50",
+  "nieuw": false,
+  "titel": "Supermarkt in Vlaardingen overvallen, verdachte vlucht zonder buit | Man op step gewond na botsing met auto",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "supermarkt"
+  ],
+  "samenvatting": "In dit blog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws uit de regio van zaterdag 3 oktober.",
+  "link": "https://www.rijnmond.nl/nieuws/2262261/supermarkt-in-vlaardingen-overvallen-verdachte-vlucht-zonder-buit-man-op-step-gewond-na-botsing-met-auto"
  },
  {
   "id": "0e4c955158",
