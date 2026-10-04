@@ -1,12 +1,12 @@
 {
- "run": "19:48",
+ "run": "23:22",
  "datum": "2026-10-04",
- "nieuw": 12,
- "totaal": 4028,
- "verwijderd": 10,
+ "nieuw": 16,
+ "totaal": 4033,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1054,
-  "geen dossier": 498
+  "niet-nederlands": 1042,
+  "geen dossier": 494
  },
  "bronnen": [
   {
@@ -78,7 +78,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -410,8 +410,8 @@
    "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 39,
-   "status": "bij",
+   "items": 40,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 211,
-   "status": "1 nieuw",
+   "items": 213,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 236,
-   "status": "bij",
+   "items": 238,
+   "status": "2 nieuw",
    "ok": true
   },
   {

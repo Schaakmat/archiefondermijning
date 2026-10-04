@@ -1,5 +1,62 @@
 [
  {
+  "id": "b5f36bdae3",
+  "datum": "2026-10-04",
+  "tijd": "19:37",
+  "nieuw": true,
+  "titel": "Politie vindt overleden persoon in woning in Dordrecht",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "In een woning aan de Pluvierstraat in Dordrecht is zondagavond een overleden persoon aangetroffen.",
+  "link": "https://www.rijnmond.nl/nieuws/2262635/politie-vindt-overleden-persoon-in-woning-in-dordrecht"
+ },
+ {
+  "id": "3d0793c8d9",
+  "datum": "2026-10-04",
+  "tijd": "19:37",
+  "nieuw": true,
+  "titel": "Groep jongeren raakt slaags met politie, agent zet taser in",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Jongeren in Apeldoorn zijn zondagavond slaags geraakt met politieagenten. Nadat er zaterdagavond al onenigheid was tussen een groep en de politie, ging het zondag opnieuw mis.",
+  "link": "https://www.gld.nl/nieuws/8532391/groep-jongeren-raakt-slaags-met-politie-agent-zet-taser-in"
+ },
+ {
+  "id": "e6a69d84a7",
+  "datum": "2026-10-04",
+  "tijd": "19:22",
+  "nieuw": true,
+  "titel": "Jongen mishandeld bij skatepark Sommelsdijk, familie zoekt camerabeelden",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "Een jongen is woensdagavond 30 september 2026 mishandeld bij het skatepark in Sommelsdijk. Volgens een oproep van zijn familie werd hij door meerdere jongens tegen de grond gewerkt, waarna hij werd geslagen en geschopt. De familie roept op om camerabeelden van het incident met de politie te delen.",
+  "link": "https://www.rijnmond.nl/nieuws/2262620/jongen-mishandeld-bij-skatepark-sommelsdijk-familie-zoekt-camerabeelden"
+ },
+ {
   "id": "accb3801eb",
   "datum": "2026-10-04",
   "tijd": "18:45",
@@ -63,6 +120,25 @@
   ],
   "samenvatting": "Wil je met jouw vereniging een vuurwerkshow houden tijdens Oud en Nieuw? Dan heb je in Flevoland weinig kans op een ontheffing. Hoewel er een uitzonderingsmogelijkheid is op het vuurwerkverbod, gaan de meeste gemeenten die niet geven. Dat blijkt uit een rondgang van Omroep Flevoland bij gemeenten. Sinds 1 augustus geld",
   "link": "https://www.omroepflevoland.nl/nieuws/525133/dan-maar-als-vereniging-vuurwerk-afsteken-dat-gaat-niet-lukken-in-flevoland"
+ },
+ {
+  "id": "52d48933fc",
+  "datum": "2026-10-04",
+  "tijd": "16:49",
+  "nieuw": true,
+  "titel": "Reanimatie na mishandeling, 100 kilo drugs en N325 gaat dicht op zondag 4 oktober",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Na een ernstig geweldsincident in de Nijmeegse Molenstraat zijn in de nacht van zaterdag op zondag twee verdachten aangehouden. Het slachtoffer, een 31-jarige man uit Kesteren, moest worden gereanimeerd en is daarna per ambulance naar het ziekenhuis gebracht. Dit zijn de belangrijkste verhalen van zondag 4 oktober.",
+  "link": "https://www.gld.nl/nieuws/8532363/reanimatie-na-mishandeling-100-kilo-drugs-en-n325-gaat-dicht-op-zondag-4-oktober"
  },
  {
   "id": "022c7ac221",
@@ -48071,6 +48147,27 @@
   ],
   "samenvatting": "Wetsvoorstel afpakken crimineel geld naar Raad van State Rijksoverheid.nl",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX251aE1vYjc2bnNncDM5TWZZR1FxelJkSW00Vk1zS1A3YnUtQ3MxaUowdzdwblFuZURKVnVha2dXR3lDekNDemlibWtCYkt0WU9hMGk1TGZBZFVOeGpWd0FSaHIyTkt4SWdjNV9iUDZzVlJRUnM2TTdUT2prLXg5OFNieEo3WDROUjdRYnZmc0NIWG41UzNiT05nZkFDVV92cjZxQ2RldllzRFNOaTJ5Yg?oc=5"
+ },
+ {
+  "id": "dadae12412",
+  "datum": "2026-03-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Wet transparantie en tegengaan ondermijning door maatschappelijke organisaties - Rijksoverheid.nl",
+  "bron": "Rijksoverheid",
+  "verzameld_via": "Rijksoverheid",
+  "soort": "Wetgeving",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "ondermijning",
+   "organisatie"
+  ],
+  "samenvatting": "Wet transparantie en tegengaan ondermijning door maatschappelijke organisaties Rijksoverheid.nl",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONlVac1VOZE9CeERBSVU2Q0xORV9KZlQ3S0ZFa0tOSmpPa2dCMjdKUzZvX0FBVGZmVk1oSXJpQVVmb0ZVUm5BbThPN3Jwb3NRdUZXZjRFeEtzQ3oxd2RGeEN4WUloU2pOVktBM092MGxNZDRUZFdzMEVCc0VSRVY1R2ln?oc=5"
  },
  {
   "id": "d56c190108",
