@@ -1,5 +1,29 @@
 [
  {
+  "id": "0408ad39c0",
+  "datum": "2026-10-04",
+  "tijd": "00:49",
+  "nieuw": true,
+  "titel": "Gevel winkelpand weggeblazen door explosie in Den Bosch, woningen ontruimd",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "pand",
+   "winkelpand",
+   "woning"
+  ],
+  "samenvatting": "Bij een explosie aan de Aartshertogenlaan in Den Bosch is in de nacht van zaterdag op zondag een deel van de gevel van een winkelpand weggeblazen. De straat is bezaaid met glasscherven. Bovenliggende appartementen zijn uit voorzorg ontruimd. De explosie werd rond twee uur 's nachts gemeld door omwonenden die harde knal",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029618/gevel-winkelpand-weggeblazen-door-explosie-in-den-bosch-woningen-ontruimd"
+ },
+ {
   "id": "cf8f463dc3",
   "datum": "2026-10-03",
   "tijd": "21:01",
@@ -121,7 +145,7 @@
   "id": "bc38a7137e",
   "datum": "2026-10-03",
   "tijd": "15:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "50-Plus: zorgen over zorgfraude, ook in Schiedam",
   "bron": "Schiedam24",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
