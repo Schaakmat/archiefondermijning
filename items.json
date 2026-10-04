@@ -1,10 +1,50 @@
 [
  {
-  "id": "8ad4da7def",
+  "id": "accb3801eb",
+  "datum": "2026-10-04",
+  "tijd": "18:45",
+  "nieuw": true,
+  "titel": "Lelystad - Westerdreef in Lelystad vanaf maandag drie maanden in onderhoud",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Automobilisten in Lelystad moeten rekening houden met hinder als gevolg van langdurige wegwerkzaamheden aan de Westerdreef. Deze dreef verbindt een aantal wijken in het westen van de stad. De gehele Westerdreef zal worden voorzien van een nieuwe laag asfalt, laat de gemeente weten. De werkzaamheden beginnen maandag en ",
+  "link": "https://www.omroepflevoland.nl/nieuws/526222/westerdreef-in-lelystad-vanaf-maandag-drie-maanden-in-onderhoud"
+ },
+ {
+  "id": "38d1a96f7f",
   "datum": "2026-10-04",
   "tijd": "17:15",
   "nieuw": true,
-  "titel": "Flevoland - Meeste gemeenten geven geen uitzondering op vuurwerkverbod",
+  "titel": "Doodshoofdvlinder en klappende eenden: dit mag je niet missen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "erf",
+   "wapen"
+  ],
+  "samenvatting": "Van een doodshoofdvlinder tot klappende eenden. Dit zijn de vijf verhalen die je deze week gelezen moet hebben. Boswachter Frans Kapteijns beantwoordt deze week vragen over bijzondere natuurverschijnselen in Brabant. Een lezer spotte een zeldzaam mandarijneendje in het Henri Dunantpark in Eindhoven - een exotisch uitzi",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029638/doodshoofdvlinder-en-klappende-eenden-dit-mag-je-niet-missen"
+ },
+ {
+  "id": "a5c4443fbf",
+  "datum": "2026-10-04",
+  "tijd": "17:15",
+  "nieuw": true,
+  "titel": "Flevoland - Dan maar als vereniging vuurwerk afsteken? Dat gaat niet lukken in Flevoland",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -22,7 +62,26 @@
    "vuurwerk"
   ],
   "samenvatting": "Wil je met jouw vereniging een vuurwerkshow houden tijdens Oud en Nieuw? Dan heb je in Flevoland weinig kans op een ontheffing. Hoewel er een uitzonderingsmogelijkheid is op het vuurwerkverbod, gaan de meeste gemeenten die niet geven. Dat blijkt uit een rondgang van Omroep Flevoland bij gemeenten. Sinds 1 augustus geld",
-  "link": "https://www.omroepflevoland.nl/nieuws/525133/meeste-gemeenten-geven-geen-uitzondering-op-vuurwerkverbod"
+  "link": "https://www.omroepflevoland.nl/nieuws/525133/dan-maar-als-vereniging-vuurwerk-afsteken-dat-gaat-niet-lukken-in-flevoland"
+ },
+ {
+  "id": "022c7ac221",
+  "datum": "2026-10-04",
+  "tijd": "15:06",
+  "nieuw": true,
+  "titel": "'Mister Container' geeft laatste waarschuwing bij afscheid: 'Rotterdamse haven is te afhankelijk van China'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "containerterminal"
+  ],
+  "samenvatting": "China heeft een té machtige positie in de Rotterdamse haven. Dat zegt haveneconoom Bart Kuipers bij zijn afscheid van de Erasmus Universiteit. “Veel van onze spullen komen uit China. Ook zijn de Rotterdamse containerterminals op dit moment voor ongeveer 60 procent in Chinese handen. Dat maakt ons kwetsbaar.\"",
+  "link": "https://www.rijnmond.nl/nieuws/2261829/mister-container-geeft-laatste-waarschuwing-bij-afscheid-rotterdamse-haven-is-te-afhankelijk-van-china"
  },
  {
   "id": "88d65c8f17",
@@ -57,9 +116,7 @@
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "explosie",
-   "vuurwerk",
-   "zwaar illegaal vuurwerk"
+   "explosie"
   ],
   "samenvatting": "Onder een bestelbusje in de 2e Franklinstraat in Eindhoven is zondagmiddag een explosief deels afgegaan. De politie heeft de straat, midden in een woonwijk, afgezet en de EOD is onderweg. Na de melding kwamen agenten en die troffen onder de bestelbus explosieven aan die nog niet, of deels, waren afgegaan. Volgens een p",
   "link": "https://www.omroepbrabant.nl/nieuws/6029636/straat-midden-in-eindhoven-afgezet-na-vondst-explosief-onder-bestelbusje"
@@ -184,7 +241,7 @@
   "id": "a0d98db29f",
   "datum": "2026-10-04",
   "tijd": "12:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - 16-jarige Almeerder opgepakt voor gewelddadige beroving in Haarlem",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -203,19 +260,17 @@
   "id": "919e11f35a",
   "datum": "2026-10-04",
   "tijd": "11:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overleden man Bergen op Zoom vermoedelijk door geweld om het leven gekomen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "geweld",
-   "woning"
+   "geweld"
   ],
   "samenvatting": "De overleden man die zondagochtend in een huis aan de Noordzijde Zoom in Bergen op Zoom is gevonden, is mogelijk door geweld om het leven gekomen. Dat laat de politie zondagmiddag weten. Een 38-jarige man uit Roosendaal is aangehouden als verdachte. Rond 08:30 's ochtends kreeg de politie een melding dat er een overled",
   "link": "https://www.omroepbrabant.nl/nieuws/6029629/overleden-man-bergen-op-zoom-vermoedelijk-door-geweld-om-het-leven-gekomen"
@@ -224,7 +279,7 @@
   "id": "966861e8bb",
   "datum": "2026-10-04",
   "tijd": "11:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gekantelde vrachtwagen dwars op A9 na botsing met auto, weg voorlopig dicht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -243,23 +298,17 @@
   "id": "05250a727b",
   "datum": "2026-10-04",
   "tijd": "10:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kapsalon Den Bosch opgeblazen, eigenaar Hassan in shock: 'Ik ruik benzine'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Horeca, winkels & dienstverlening",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "explosie",
-   "kapper",
-   "pand",
-   "vuurwerk",
-   "woning"
+   "explosie"
   ],
   "samenvatting": "Rond twee uur 's nachts blies een explosief de voorgevel van kapsalon Hassan in Den Bosch aan stukken. Buren brachten eigenaar Hassan op de hoogte, waarna hij binnen vijf minuten voor zijn zaak stond. Vanwege het politieonderzoek mocht hij niet naar binnen. \"Ik weet niet wat er nu gaat gebeuren. Ik heb geen ander inkom",
   "link": "https://www.omroepbrabant.nl/nieuws/6029625/kapsalon-den-bosch-opgeblazen-eigenaar-hassan-in-shock-ik-ruik-benzine"
@@ -268,7 +317,7 @@
   "id": "b9ae527e28",
   "datum": "2026-10-04",
   "tijd": "09:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Triest nieuws op Dierendag: dode hond in koffer gedumpt",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -287,7 +336,7 @@
   "id": "00f9e4d24e",
   "datum": "2026-10-04",
   "tijd": "09:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie vindt koffer met dode hond: 'Wist niet wat ik meemaakte'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -306,7 +355,7 @@
   "id": "fc6f1228e9",
   "datum": "2026-10-04",
   "tijd": "08:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (31) zwaar mishandeld in druk uitgaansgebied, twee verdachten opgepakt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -325,7 +374,7 @@
   "id": "623dd25f04",
   "datum": "2026-10-04",
   "tijd": "08:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee aanhoudingen na zware mishandeling in druk uitgaansgebied",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -341,35 +390,10 @@
   "link": "https://www.gld.nl/nieuws/8532119/twee-aanhoudingen-na-zware-mishandeling-in-druk-uitgaansgebied"
  },
  {
-  "id": "a32765b873",
-  "datum": "2026-10-04",
-  "tijd": "06:30",
-  "nieuw": true,
-  "titel": "Vroeger bracht deze vlinder onheil, nu bejubelen mensen 'm juist",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "afval",
-   "erf",
-   "mest",
-   "stal",
-   "wapen"
-  ],
-  "samenvatting": "Boswachter Frans Kapteijns deelt wekelijks zijn kennis van de natuur. Iedereen kan vragen insturen via stuifmail@omroepbrabant.nl. Dit keer besteedt Frans onder meer aandacht aan een mooi klein eendje, een prachtige vlieg die niet gevaarlijk is, een vlinder met een doodskop op de rug en een vreemd uitziende warrige pad",
-  "link": "https://www.omroepbrabant.nl/nieuws/6029505/vroeger-bracht-deze-vlinder-onheil-nu-bejubelen-mensen-m-juist"
- },
- {
   "id": "05fb43355a",
   "datum": "2026-10-04",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Podcast | ‘Niemand ontkomt aan de verslavende algoritmes van big tech’",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -390,7 +414,7 @@
   "id": "323a57a1ba",
   "datum": "2026-10-04",
   "tijd": "00:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explosie blaast gevel eruit van kapsalon in Den Bosch, huizen ontruimd",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -410,7 +434,7 @@
   "id": "cf8f463dc3",
   "datum": "2026-10-03",
   "tijd": "21:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie houdt man aan na dodelijke schietpartij bij bar Amsterdam",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -429,7 +453,7 @@
   "id": "e28a2e54d8",
   "datum": "2026-10-03",
   "tijd": "19:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeewolde - Boerderij Zeewolde is al verkocht, maar dan komt iemand met een hoger bod",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -452,7 +476,7 @@
   "id": "2cb92979b2",
   "datum": "2026-10-03",
   "tijd": "19:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Supermarkt in Vlaardingen overvallen, verdachte vlucht zonder buit",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -471,7 +495,7 @@
   "id": "cb0dafe454",
   "datum": "2026-10-03",
   "tijd": "18:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestuurder gewond naar ziekenhuis nadat scootmobiel het water inrijdt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -490,7 +514,7 @@
   "id": "1a95afacb2",
   "datum": "2026-10-03",
   "tijd": "17:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Landelijk onderzoek naar donorconceptie: organisaties verwachten meer misstanden",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
