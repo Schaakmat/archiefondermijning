@@ -1,27 +1,152 @@
 [
  {
-  "id": "0408ad39c0",
+  "id": "966861e8bb",
   "datum": "2026-10-04",
-  "tijd": "00:49",
+  "tijd": "11:16",
   "nieuw": true,
-  "titel": "Gevel winkelpand weggeblazen door explosie in Den Bosch, woningen ontruimd",
+  "titel": "Gekantelde vrachtwagen dwars op A9 na botsing met auto, weg voorlopig dicht",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "vrachtwagen"
+  ],
+  "samenvatting": "Door een botsing met een auto is vanochtend een vrachtwagen op de A9 bij Amstelveen omgeslagen en op zijn zijkant op de weg beland. Dit gebeurde rond 08.15 uur ter hoogte van de afslag naar Stadshart Amstelveen. Rijkswaterstaat meldt dat de A9 in beide richtingen is afgesloten, waarschijnlijk tot het einde van de midda",
+  "link": "https://nos.nl/l/2633598"
+ },
+ {
+  "id": "b9ae527e28",
+  "datum": "2026-10-04",
+  "tijd": "09:33",
+  "nieuw": true,
+  "titel": "Triest nieuws op Dierendag: dode hond in koffer gedumpt",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "In de Waalhaven in Rotterdam is een dode hond in een koffer gedumpt. Het bleek niet meer mogelijk om forensisch onderzoek te doen. \"Aankomende tijd zullen wij alert zijn op vergelijkbare signalen\", meldt de politie.",
+  "link": "https://www.rijnmond.nl/nieuws/2262601/triest-nieuws-op-dierendag-dode-hond-in-koffer-gedumpt"
+ },
+ {
+  "id": "fc6f1228e9",
+  "datum": "2026-10-04",
+  "tijd": "08:14",
+  "nieuw": true,
+  "titel": "Man (31) zwaar mishandeld in druk uitgaansgebied, twee verdachten opgepakt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Twee mannen zijn aangehouden na een ernstig geweldsincident in het centrum van Nijmegen in de nacht van zaterdag op zondag. Volgens de politie gaat het om een 26-jarige man uit Warnsveld en een 25-jarige man uit Brummen. Zij worden verdacht van zware mishandeling.",
+  "link": "https://www.gld.nl/nieuws/8532119/man-31-zwaar-mishandeld-in-druk-uitgaansgebied-twee-verdachten-opgepakt"
+ },
+ {
+  "id": "14814553d0",
+  "datum": "2026-10-04",
+  "tijd": "08:00",
+  "nieuw": true,
+  "titel": "Bolle Jos bleef jarenlang onder de radar: 'Een onbeschreven blad'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Horeca, winkels & dienstverlening",
-   "Vastgoed & huisvesting",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Crypto & digitaal geld",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "cocaïne",
+   "geweld",
+   "netwerk",
+   "sky ecc"
+  ],
+  "samenvatting": "Jos Leijdekkers uit Breda geldt als een van de meest gezochte criminelen van Nederland. Toch kende jarenlang bijna niemand zijn naam. Hoe kon hij uitgroeien tot een van de grootste spelers in de internationale drugswereld zonder eerder op te vallen? In de podcast Misdaad Uitgelegd - In de rechtbank bespreken presentato",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029281/bolle-jos-bleef-jarenlang-onder-de-radar-een-onbeschreven-blad"
+ },
+ {
+  "id": "a32765b873",
+  "datum": "2026-10-04",
+  "tijd": "06:30",
+  "nieuw": true,
+  "titel": "Vroeger bracht deze vlinder onheil, nu bejubelen mensen 'm juist",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Milieucriminaliteit & afval",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "explosie",
-   "pand",
-   "winkelpand",
-   "woning"
+   "afval",
+   "erf",
+   "mest",
+   "stal",
+   "wapen"
   ],
-  "samenvatting": "Bij een explosie aan de Aartshertogenlaan in Den Bosch is in de nacht van zaterdag op zondag een deel van de gevel van een winkelpand weggeblazen. De straat is bezaaid met glasscherven. Bovenliggende appartementen zijn uit voorzorg ontruimd. De explosie werd rond twee uur 's nachts gemeld door omwonenden die harde knal",
-  "link": "https://www.omroepbrabant.nl/nieuws/6029618/gevel-winkelpand-weggeblazen-door-explosie-in-den-bosch-woningen-ontruimd"
+  "samenvatting": "Boswachter Frans Kapteijns deelt wekelijks zijn kennis van de natuur. Iedereen kan vragen insturen via stuifmail@omroepbrabant.nl. Dit keer besteedt Frans onder meer aandacht aan een mooi klein eendje, een prachtige vlieg die niet gevaarlijk is, een vlinder met een doodskop op de rug en een vreemd uitziende warrige pad",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029505/vroeger-bracht-deze-vlinder-onheil-nu-bejubelen-mensen-m-juist"
+ },
+ {
+  "id": "05fb43355a",
+  "datum": "2026-10-04",
+  "tijd": "06:00",
+  "nieuw": true,
+  "titel": "Podcast | ‘Niemand ontkomt aan de verslavende algoritmes van big tech’",
+  "bron": "Follow the Money",
+  "verzameld_via": "Follow the Money",
+  "soort": "Onderzoek",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "toezichthouder",
+   "witwassen"
+  ],
+  "samenvatting": "In ‘Follow the Money interviewt’ spreken journalisten Annette van Soest en Harm Ede Botje met sleutelfiguren uit verschillende FTM-dossiers. Van toezichthouders en wetenschappers tot politici en juristen. Of het nu gaat om fraude en witwassen, onze rechtsstaat of de toekomst van ons landbouwbeleid: Follow the Money int",
+  "link": "https://www.ftm.nl/artikelen/ftm-interviewt-kim-van-sparrentak"
+ },
+ {
+  "id": "323a57a1ba",
+  "datum": "2026-10-04",
+  "tijd": "00:49",
+  "nieuw": true,
+  "titel": "Explosie blaast gevel eruit van kapsalon in Den Bosch, huizen ontruimd",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Bij een explosie aan de Aartshertogenlaan in Den Bosch is zaterdagnacht een deel van de gevel van kapsalon Hassan weggeblazen. De straat was na de ontploffing bezaaid met glasscherven. Bovenliggende appartementen werden uit voorzorg ontruimd. De explosie werd rond twee uur 's nachts gemeld door buurtbewoners die harde ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029618/explosie-blaast-gevel-eruit-van-kapsalon-in-den-bosch-huizen-ontruimd"
  },
  {
   "id": "cf8f463dc3",
@@ -145,7 +270,7 @@
   "id": "bc38a7137e",
   "datum": "2026-10-03",
   "tijd": "15:08",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "50-Plus: zorgen over zorgfraude, ook in Schiedam",
   "bron": "Schiedam24",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -32518,6 +32643,25 @@
   ],
   "samenvatting": "Verdachte schetst bizar beeld van drugslab in Someren-Heide: ‘Pleur het maar in een ketel’ Brabants Dagblad",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFI0Y2daNWdKQ0Q2MlpJZmd5RkJVcjFSbUlaMUlIUVJ0QTlLQnNqX1dUd1F0SGdDS1FUUVFoOHo4WUhSeWNWSXB6LXk4Ml9mLVc5R1pYOWNfSzgyTWljdXYwWHJXaFBvQW90X1RQRjFVcnNLVG85Q1Q4UDdxNExtaHUxcmxFMXlXbkFjTnZJS2hYSGZYaHgwN0VhUHpuc3hOR19WdTA3SWRwYlNxcFpLRFB2Z2hKdw?oc=5"
+ },
+ {
+  "id": "d9280f5b37",
+  "datum": "2026-08-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Verdachte schetst bizar beeld van drugslab in Someren-Heide: ‘Pleur het maar in een ketel’",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Verdachte schetst bizar beeld van drugslab in Someren-Heide: ‘Pleur het maar in een ketel’ De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa211bF9IOXhmQmNWS1Y3a3FoQlBjZ3lndjJVWDVfcm0yOW42ZlJIWGxxV0x6ZTdmSHdac1lqNXRrdlNPeWtNeTVuZnNYMTdEN1VQUGhTa0lYaUFzMmNUalhKWFQ4U3RrUUNUV1FlcnNuQ0ZkaTlZeHRoR0hVUk5Td1ZaNXRuQ1UtZUpqOXhpYXBFTGpKbHd3TEVhNEtYbzg3OVB1WjFsVUYyeEQya1U3THhlcU1qREx1dkJOWGpuRW5tUU00bXFpVndCbU1RQQ?oc=5"
  },
  {
   "id": "b659b37087",
