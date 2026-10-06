@@ -25,6 +25,89 @@
   "link": "https://www.omroepflevoland.nl/nieuws/526344/eerste-woningen-voor-studenten-op-nieuwe-campus-worden-vanaf-eind-2028-gebouwd"
  },
  {
+  "id": "694e94e8fd",
+  "datum": "2026-10-05",
+  "tijd": "20:20",
+  "nieuw": true,
+  "titel": "Woningoverval in Deurne: bewoner verzet zich en jaagt overvaller weg",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Een overvaller heeft maandagavond rond kwart voor tien geprobeerd om een overval te plegen in een huis aan de Stijn Streuvelslaan in Deurne. De bewoner verzette zich waarna de overvaller ervandoor ging. De overvaller probeerde bij het huis binnen te komen, maar de bewoner kwam vervolgens in actie. In de gang van het hu",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029800/woningoverval-in-deurne-bewoner-verzet-zich-en-jaagt-overvaller-weg"
+ },
+ {
+  "id": "beec869938",
+  "datum": "2026-10-05",
+  "tijd": "19:16",
+  "nieuw": true,
+  "titel": "Veel verdriet om overlijden Paul Kagie (71): ‘Hij was een van mijn matties’",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Drugsproductie & labs",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "burgemeester",
+   "gemeenteraad",
+   "vaten"
+  ],
+  "samenvatting": "De Bossche politiek reageert geschokt en verdrietig op het plotselinge overlijden van oud-wethouder en oud-raadslid Paul Kagie. Politieke collega’s noemen hem een bevlogen bestuurder, een verbinder en vooral een warme man. “Hij laat een enorme leegte achter”, zegt Judith Hendrix van De Bossche Groenen. Kagie werd 71 ja",
+  "link": "https://www.omroepbrabant.nl/nieuws/6029796/veel-verdriet-om-overlijden-paul-kagie-71-hij-was-een-van-mijn-matties"
+ },
+ {
+  "id": "b87924d488",
+  "datum": "2026-10-05",
+  "tijd": "18:53",
+  "nieuw": true,
+  "titel": "Opnieuw onrust in Apeldoorn: politie zoekt naar vuurwerk",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk"
+  ],
+  "samenvatting": "De politie heeft maandagavond met meerdere eenheden verschillende mensen gefouilleerd in het centrum van Apeldoorn. Agenten doorzoeken een gebied waar mogelijk vuurwerk ligt.",
+  "link": "https://www.gld.nl/nieuws/8532813/opnieuw-onrust-in-apeldoorn-politie-zoekt-naar-vuurwerk"
+ },
+ {
+  "id": "130d486781",
+  "datum": "2026-10-05",
+  "tijd": "18:49",
+  "nieuw": true,
+  "titel": "Rechter: schade stoffenwinkel kan aan oud-wethouder en haar man worden toegerekend",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand",
+   "stal"
+  ],
+  "samenvatting": "De huurster van de winkel in het pand van de oud-wethouder hoeft geen achterstallige huur te betalen.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18834277/rechter-schade-stoffenwinkel-kan-aan-oud-wethouder-en-haar-man-worden-toegerekend"
+ },
+ {
   "id": "201b03bfda",
   "datum": "2026-10-05",
   "tijd": "17:53",
@@ -38,7 +121,6 @@
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "notaris",
    "woning"
   ],
   "samenvatting": "De gemeente Moerdijk heeft fouten gemaakt bij de uitvoering van de Moerdijkregeling. Door een 'menselijke fout' werden bij zestien woningen koopsommen verkeerd berekend. Daarnaast zijn meerdere onderdelen van de regeling niet volgens de regels uitgevoerd. Dat blijkt uit een intern onderzoek dat de gemeente zelf naar bu",
@@ -55,19 +137,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Buitengebied & recreatie"
   ],
   "tags": [
-   "jeugd",
-   "organisatie",
-   "pand",
-   "stal",
-   "wapen",
-   "wapenhandel"
+   "stal"
   ],
   "samenvatting": "De rechtbank in Rotterdam heeft een man die jarenlang zijn ex stalkte, bij verstek veroordeeld tot een celstraf van veertien maanden. De man en vrouw hadden ruzie, die met name ging over de omgang met hun dochter en het ouderlijk gezag over haar, dat de man door een eerdere gerechtelijke uitspraak niet heeft. Om zijn z",
   "link": "https://nos.nl/l/2633781"
@@ -210,11 +283,29 @@
    "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "geweld",
-   "moord"
+   "geweld"
   ],
   "samenvatting": "\"Een zeer sympathieke man\", \"zeer betrokken\" en \"een heel sociale, vriendelijke man\". Zo omschrijven buren Rini, die zondagochtend in Bergen op Zoom vermoedelijk door geweld om het leven is gekomen. De buurt is erg geschrokken van zijn dood. Ria Zomer zag zondag veel onrust en politie in haar straat, de Noordzijde Zoom",
   "link": "https://www.omroepbrabant.nl/nieuws/6029752/buren-vol-ongeloof-na-dood-van-rini-iedereen-kende-hem"
+ },
+ {
+  "id": "51db8bb6d6",
+  "datum": "2026-10-05",
+  "tijd": "13:17",
+  "nieuw": true,
+  "titel": "Onrust in Apeldoorn • bestuurder aangehouden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Het actuele 112-nieuws uit Gelderland van deze dag bundelen we in een liveblog. Je leest en ziet hier een overzicht van ongelukken, branden, vermissingen en misdrijven in onze provincie.",
+  "link": "https://www.gld.nl/nieuws/8532399/onrust-in-apeldoorn-bestuurder-aangehouden"
  },
  {
   "id": "cea35633d4",
@@ -266,28 +357,57 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Milieucriminaliteit & afval",
-   "Zorgfraude & sociale zekerheid"
+   "Milieucriminaliteit & afval"
   ],
   "tags": [
-   "grond",
-   "haven",
-   "malafide uitzendbureau",
-   "organisatie",
-   "uitkering",
-   "uitzendbureau"
+   "grond"
   ],
   "samenvatting": "Mensen met een migratieachtergrond worden bij fraudeonderzoeken vaker en zwaarder beboet. Dat blijkt uit vertrouwelijke documenten en gesprekken met een tiental UWV-medewerkers, onder wie leidinggevenden, schrijven het AD en EenVandaag. Ze schetsen een beeld van discriminatie en racisme binnen de afdeling handhaving va",
   "link": "https://nos.nl/l/2633723"
  },
  {
+  "id": "a1f5f7b2fd",
+  "datum": "2026-10-05",
+  "tijd": "09:53",
+  "nieuw": true,
+  "titel": "Motorrijder overleden na botsing met vrachtwagen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Een motorrijder is maandagochtend overleden na een botsing met een vrachtwagen met oplegger in Rotterdam-Europoort. De vrachtwagenchauffeur is aangehouden.",
+  "link": "https://www.rijnmond.nl/nieuws/2263124/motorrijder-overleden-na-botsing-met-vrachtwagen"
+ },
+ {
+  "id": "c25dcf2a96",
+  "datum": "2026-10-05",
+  "tijd": "09:18",
+  "nieuw": false,
+  "titel": "Overval in Alexandrium: politie pakt al snel drie verdachten",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "juwelier"
+  ],
+  "samenvatting": "Een juwelier in winkelcentrum Alexandrium is maandagochtend overvallen. Of de overvallers ook iets hebben meegenomen is niet bekend. Wel zou er een vitrine zijn ingeslagen.",
+  "link": "https://www.rijnmond.nl/nieuws/2263070/overval-in-alexandrium-politie-pakt-al-snel-drie-verdachten"
+ },
+ {
   "id": "452b12c3de",
   "datum": "2026-10-05",
   "tijd": "09:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester sluit woning voor de derde keer na drugsvondst",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -308,7 +428,7 @@
   "id": "8514409ea7",
   "datum": "2026-10-05",
   "tijd": "09:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "EVA-team spoort 46 veroordeelden op met totaaltegoed van 64 jaar celstraf - Politie.nl",
   "bron": "Politie",
   "verzameld_via": "Politie",
@@ -325,7 +445,7 @@
   "id": "93b9962a91",
   "datum": "2026-10-05",
   "tijd": "07:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wekdienst 5/10: Uitreiking Michelinsterren • Eerste winnaar Nobelprijs bekendgemaakt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -346,7 +466,7 @@
   "id": "8698cac9fa",
   "datum": "2026-10-05",
   "tijd": "06:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Aardwarmteonderzoek in Almere: speciale trilwagen rijdt 's nachts door woonwijken",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -369,7 +489,7 @@
   "id": "ef876c4b19",
   "datum": "2026-10-05",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Minstens zestien Nederlandse bruggen kunnen ‘zonder waarschuwing’ instorten",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -388,7 +508,7 @@
   "id": "314452f192",
   "datum": "2026-10-05",
   "tijd": "03:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie auto's in vlammen • jongeren slaags met politie",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -407,7 +527,7 @@
   "id": "6df017bbcb",
   "datum": "2026-10-05",
   "tijd": "03:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Een kamp voor mensenhandel bracht in drie weekenddagen meer dan 105 miljard VND op.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -670,27 +790,6 @@
   "link": "https://nos.nl/l/2633609"
  },
  {
-  "id": "13fbf961dd",
-  "datum": "2026-10-04",
-  "tijd": "12:04",
-  "nieuw": false,
-  "titel": "Motorrijder (17) overleden voor ogen van zijn broer, reanimatie hielp niet",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "haven",
-   "jongeren"
-  ],
-  "samenvatting": "Een 17-jarige motorrijder is zondagmiddag overleden bij een ongeluk in Katwijk, bij Cuijk. De jongen botste op de Lange Oijen tegen een boom. Zijn broer probeerde hem nog te reanimeren, maar dat mocht niet meer baten. Het slachtoffer is een 17-jarige jongen uit de gemeente Bergen in Limburg. Dat laat de politie zondagm",
-  "link": "https://www.omroepbrabant.nl/nieuws/6029630/motorrijder-17-overleden-voor-ogen-van-zijn-broer-reanimatie-hielp-niet"
- },
- {
   "id": "2c9a849c61",
   "datum": "2026-10-04",
   "tijd": "12:03",
@@ -881,25 +980,6 @@
   ],
   "samenvatting": "In ‘Follow the Money interviewt’ spreken journalisten Annette van Soest en Harm Ede Botje met sleutelfiguren uit verschillende FTM-dossiers. Van toezichthouders en wetenschappers tot politici en juristen. Of het nu gaat om fraude en witwassen, onze rechtsstaat of de toekomst van ons landbouwbeleid: Follow the Money int",
   "link": "https://www.ftm.nl/artikelen/ftm-interviewt-kim-van-sparrentak"
- },
- {
-  "id": "cf8f463dc3",
-  "datum": "2026-10-03",
-  "tijd": "21:01",
-  "nieuw": false,
-  "titel": "Politie houdt man aan na dodelijke schietpartij bij bar Amsterdam",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "woning"
-  ],
-  "samenvatting": "De politie in Amsterdam heeft een 32-jarige man aangehouden na de dodelijke schietpartij vannacht in de buurt van het Vondelpark. De man wordt verdacht van betrokkenheid bij het incident. Afgelopen nacht werd een 34-jarige Amsterdammer neergeschoten voor de deur van bar Sao Paulo. Hulpverleners hebben de man nog geprob",
-  "link": "https://nos.nl/l/2633560"
  },
  {
   "id": "e28a2e54d8",
@@ -62114,6 +62194,25 @@
   ]
  },
  {
+  "id": "d7e99c86de",
+  "datum": "2024-11-22",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Officieel onderzoek naar Thales na omkoop- en corruptievermoedens",
+  "bron": "Techzine.nl",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "corruptie"
+  ],
+  "samenvatting": "Officieel onderzoek naar Thales na omkoop- en corruptievermoedens Techzine.nl",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM25YazFiZXJpelotOEZXRVJUY2wxcE83MzUyUXBvYU1JbkhaNHRETjNKOHROWlJDNm9LY0cxOXhqSzRGUTVUM2J1TVpyOG81YTBaQnlqWFJWUEl4Mjg4V2RnbEtEUUtNUlF1R28tdlIzM3NVM1NvdTNxSUlHVUoxWHNUZ0IwS2h1WFFIX0FEY0ZjSmVSU3JXcHRkNU55RGhyNGtCTzRHR1JzZGZ0b2NmdDhIWGp6NU9nQXFSc3owMA?oc=5"
+ },
+ {
   "id": "c262ecd39f",
   "datum": "2024-11-21",
   "tijd": "08:00",
@@ -64433,6 +64532,27 @@
   ],
   "samenvatting": "Uithalers in Trojaanse container en medewerkster havenbedrijf opgepakt: bijna twee ton cocaïne in beslag genomen De Standaard",
   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRktVMXgzSVYwS1pUWXlhcXF0eU9JcW5DeldYc0RJaWZuNTJENXNqMmREQlRTUWFXZVhRQmJPMnJVY2dGdHR1Y3JpTTlPbkxhSEZ5cVBqR1RWZmRjaWNnQXZHLVUyTTFVZ2kzM2Q2aVR3MWEyOUhFUTRwSXlWcWpCOFJBMVk0NWZ1Q2xtYzB0LVFwMVdaOWpJNWxYcEpLR2MxMEZBWGVJYW1tdTR2bEp5MlBYVEt5dXBQTGZ5S21MTmZMZjNxWHRXS2JBVXVYV1J6TFAwSzdscFBZbHJVNHpJWEVhZ2FHVWhiMjRNcTdsNmJWZw?oc=5"
+ },
+ {
+  "id": "c27ae5a9fe",
+  "datum": "2024-05-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Burgemeester van Zoeterwoude over scholen, ondermijning en ontmoetingsavonden",
+  "bron": "Sleutelstad",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester",
+   "ondermijning"
+  ],
+  "samenvatting": "Burgemeester van Zoeterwoude over scholen, ondermijning en ontmoetingsavonden Sleutelstad",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkV2bEVKVHZZd0syV1lmVm9kdmxHcTVJVlIzX1BhVTNSYXZ2ZUhKeFRwc0thVVNjczNVM28zMUlSUDlBRnRsVGpyVzc5Uml4ZmtVVjlmOE9LVk5KU1JFNXVGRm9oc3hkcW95eE01ZF84QTdkcm9tR2tCWHBlZmZkZ1VVbHFZeldDZ0todURuZ19RcVZjLU1uSzhicmJSWWV4RXNJaHZjSWJYSUtVdENZVw?oc=5"
  },
  {
   "id": "9c4c7cb8b7",
@@ -75994,6 +76114,46 @@
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHU1ZnU2VXFwbUN3RS1fWk55UjV6eTV1cE5mUHc2VWpiQTc4Z3RMYVplS1Y2Mkc2MUxHR3pjYjUzcWF5TlFiWDNVS1l2R1Z0RXJ4X19tRVhwdHp3cGNadW5Ib0dXZEVkS1VmUjNPMm9FN2R5RTQ5RGNXZWxqWUtSUjRUVUJiTkhWMWp4ZnBPZVRxSnBScUEyOW1lbUpBSUFnTnhGaEcwSUl6M2FPdHdKcVFzQlBrUEdac25SYQ?oc=5"
  },
  {
+  "id": "466c87da6d",
+  "datum": "2019-11-26",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Tot 42 maanden cel geëist voor handel in illegaal vuurwerk en witwassen - om.nl",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "vuurwerk",
+   "witwassen"
+  ],
+  "samenvatting": "Tot 42 maanden cel geëist voor handel in illegaal vuurwerk en witwassen om.nl",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkstQ05hTnZjUmFUQ0w0NjVyNUtoVklsMGFUMUxzR2RSREFpZHBnLU85MlphUFdzNjdQaWxHUElZOVZHSzA0OXltTVlqRWlrX0RHSUxxc0F5cmFGS0kyS0JDMzV1cC1DeUZyUHlQQmdXd1hhR2kyZlRUWjR0WWJpSl82VWI0T0pJM1VVRHJCS2VCYzFnUlQ2bF84Y19FYWVsaEFENEREdzJObjdwRkR2bXlWSDFhQQ?oc=5"
+ },
+ {
+  "id": "ec16953870",
+  "datum": "2019-11-25",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Gevangenisstraf geëist tegen eigenaar Haags wokrestaurant voor witwassen 1,5 miljoen euro - om.nl",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Gevangenisstraf geëist tegen eigenaar Haags wokrestaurant voor witwassen 1,5 miljoen euro om.nl",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVC1DV1owNkpLZVBXbTY1VWJPRDR5SVlFYVVrMGlkYVRfd3BlMjcyTnlvUHhIZ1BXTGVSelBSbkNLc3NYR0p6ODRjZFBvcTNGQllOWXpSdlZTZWRZS2JYNHV4ZU1Fc1FMQlJEM3RIQ0lqVnZiSDhmT3RzLVZkbFJrMmczYV9fT2RKdktLbEpTcENlMUN0WExsU213OFdvYlhEb1lmOFphTDdyN0UtU0U1bnhvOWhPRU15UTlnQVNJaUJaZjBxbGdQVkZiaXQ?oc=5"
+ },
+ {
   "id": "3758adfdeb",
   "datum": "2019-11-23",
   "tijd": "08:00",
@@ -78871,6 +79031,28 @@
   ],
   "samenvatting": "Tweetal langer vast op verdenking van witwassen door malafide autohandel Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0ZLa2plZjBjaWNmMTZqQ2c3aU1CMkFkd2cxMkpMY1NvaGQwUGd1M05LZnhuUi03ZjdodG1ibmVRX2o5WFdJUFB5MlRtZHREUEZQRWduaUlfamdYT19FX2F6eHY0RDlURnhuQU9lMnpNNGpMcmdCVmJDOXljbjc5T1pMNFdOX3Q1T0ptbW9ZUlJyTmFEb05KdFRIQ0NJUWNyNm11T0ZfNEJaOGlYY0w1YmNzeFl0d0E?oc=5"
+ },
+ {
+  "id": "a14c928078",
+  "datum": "2017-11-28",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Celstraffen geëist voor jarenlange hennepteelt en grootschalig witwassen - om.nl",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "hennep",
+   "hennepteelt",
+   "witwassen"
+  ],
+  "samenvatting": "Celstraffen geëist voor jarenlange hennepteelt en grootschalig witwassen om.nl",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0xhSGtCZTFHNFZST0hnbW5HSFBFU21TWTBEWGFhdEZEdHRYcEFhMzdJdVFiaFZESzM2OHRKSEU4WnlHUm5HbmllTm5kZGtDb1pQOER2WURBOGVPN1ZnUVRST0s1SmdOV0NFbkxsMHFyZldCWlh2dUItZUd0WWhpeTNaOGZKamtqWWFnYmFmRWVfa1g2YTVTTzloMXVCN2cycV9zaGtVclRqdkFyYXhFVng2Xy1aLW8?oc=5"
  },
  {
   "id": "4164848ee8",
