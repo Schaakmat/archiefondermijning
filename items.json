@@ -126,6 +126,25 @@
   "link": "https://www.rijnmond.nl/nieuws/2263874/gemeente-verwijdert-grond-op-nog-drie-plekken-in-onderzoek-overleden-honden"
  },
  {
+  "id": "1a26b3019c",
+  "datum": "2026-10-06",
+  "tijd": "17:21",
+  "nieuw": true,
+  "titel": "Buurtbewoners horen knal en zien DSI bij woning in Vaassen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De Dienst Speciale Interventies (DSI) heeft dinsdag een inval gedaan in een woning aan de Fazantstraat in Vaassen. Daarbij zou één persoon zijn aangehouden.",
+  "link": "https://www.gld.nl/nieuws/8533179/buurtbewoners-horen-knal-en-zien-dsi-bij-woning-in-vaassen"
+ },
+ {
   "id": "dfaed95ada",
   "datum": "2026-10-06",
   "tijd": "17:15",
@@ -183,19 +202,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Goudhandel & edelmetalen",
-   "Jeugd & jonge aanwas",
    "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
    "explosie",
-   "goud",
-   "huurwoning",
-   "jeugd",
-   "moord",
-   "vuurwerk"
+   "woning"
   ],
   "samenvatting": "De politie heeft dinsdag een 26-jarige man uit Helmond aangehouden voor betrokkenheid bij een aanslag op een huis in Eindhoven in 2020. Een jongen van zestien raakte toen ernstig gewond nadat bij zijn woning aan de Moreelselaan een zelfgemaakt explosief was gebruikt. Een andere verdachte werd in 2021 al veroordeeld voo",
   "link": "https://www.omroepbrabant.nl/nieuws/6029932/aanslag-waarbij-tiener-zwaar-verbrandde-na-jaren-tweede-verdachte-gepakt"
@@ -219,6 +231,25 @@
   ],
   "samenvatting": "Friet, hamburgers, pizza's, döners en frikandellen. Middelbare scholen en mbo-opleidingen in Den Bosch en Breda worden letterlijk omringd door ongezond eten. Dat blijkt uit de nieuwe zogenoemde Voedseldrukmonitor van het Amsterdam UMC. Scholieren en studenten hebben door de vele ongezonde opties in de buurt van hun sch",
   "link": "https://www.omroepbrabant.nl/nieuws/6029897/scholen-in-den-bosch-en-breda-steeds-vaker-omringd-door-ongezond-eten"
+ },
+ {
+  "id": "0c905b0e1b",
+  "datum": "2026-10-06",
+  "tijd": "16:20",
+  "nieuw": true,
+  "titel": "Weg bezaaid met sinaasappels na ongeluk in file",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Op de N15 is een vrachtwagen dinsdagavond achterop een file geklapt. Het voertuig botste op een andere vrachtwagen met een trailer vol sinaasappels. De trailer was daarna een stuk minder gevuld: veel fruit belandde op het wegdek. De weg werd daarna afgesloten, maar is inmiddels weer vrijgegeven.",
+  "link": "https://www.rijnmond.nl/nieuws/2263908/weg-bezaaid-met-sinaasappels-na-ongeluk-in-file"
  },
  {
   "id": "f4f5c79feb",
@@ -304,7 +335,7 @@
   "id": "32aefe88e1",
   "datum": "2026-10-06",
   "tijd": "14:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lachgashandelaar Ghayid moet 1,5 jaar zitten en 9 ton terugbetalen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -323,7 +354,7 @@
   "id": "10065b1fba",
   "datum": "2026-10-06",
   "tijd": "14:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - Meer toezicht en mogelijk extra maatregelen tegen overlast bij leegstaande snackbar in Emmeloord",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -345,7 +376,7 @@
   "id": "3813d4e200",
   "datum": "2026-10-06",
   "tijd": "13:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Actie met gratis ijs bij Almeerse winkel loopt uit de hand: 'We moeten bijna als bodyguards werken'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -367,7 +398,7 @@
   "id": "fa22a4e1e1",
   "datum": "2026-10-06",
   "tijd": "13:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wurgmoord op rolstoelgebonden Enschedeër: Almeloër gaat richting Duitse cel",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -388,7 +419,7 @@
   "id": "6ff66ebe61",
   "datum": "2026-10-06",
   "tijd": "12:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Sloot bij drugslab wordt helemaal leeggezogen: 1,6 miljoen liter water moet weg",
   "bron": "NH Nieuws",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -407,7 +438,7 @@
   "id": "cf7219d964",
   "datum": "2026-10-06",
   "tijd": "12:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tweede Tilburgse wijkagent opgepakt voor lekken van geheimen aan criminelen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -436,7 +467,7 @@
   "id": "c49792babb",
   "datum": "2026-10-06",
   "tijd": "11:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Sloot bij drugslab wordt helemaal leeggezogen: 1,6 miljoen liter water moet weg",
   "bron": "Headliner.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -455,7 +486,7 @@
   "id": "601e3d8993",
   "datum": "2026-10-06",
   "tijd": "11:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie aanhoudingen voor produceren synthetische drugs en mensenhandel na dood 17-jarige",
   "bron": "L1 Nieuws",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -476,7 +507,7 @@
   "id": "a2d5b966f2",
   "datum": "2026-10-06",
   "tijd": "11:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie aanhoudingen voor produceren synthetische drugs en mensenhandel na dood 17-jarige",
   "bron": "Headliner.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -497,7 +528,7 @@
   "id": "ee586c6237",
   "datum": "2026-10-06",
   "tijd": "11:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Afvaldumping blijft probleem bij parkeerplaats in Veghel: ‘We ruimen het niet direct op’",
   "bron": "kliknieuwsveghel.nl",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -516,7 +547,7 @@
   "id": "a3a248862d",
   "datum": "2026-10-06",
   "tijd": "10:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "intelligence specialist (liaison) - Kom bij de politie",
   "bron": "Politie",
   "verzameld_via": "Politie",
@@ -533,7 +564,7 @@
   "id": "1f53165cdc",
   "datum": "2026-10-06",
   "tijd": "10:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ondermijning aanpakken doen we samen - rijnpost.nl",
   "bron": "Al het nieuws uit Veenendaal",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -552,7 +583,7 @@
   "id": "1d417520e7",
   "datum": "2026-10-06",
   "tijd": "10:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Pak zorgfraude door malafide bureautjes aan",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -77821,6 +77852,25 @@
   ],
   "samenvatting": "Steenwijkerland strijdt verder tegen drugslaboratoria de Stentor",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDBRVEMtck1pYW1zZFZoeUlqSVFuNWRCcXdUbDV5MzVjakdKREV5MlAtNzBXZElyTjRMX0dSSU41YjFyenVtNS1lS2xfcWtENW9GbDAwRVNFWmR5NGNLM3VzVFprREw4RENMTllGempDMTBITHBrb1lhamdreGo5Rkt5VW9UOVNQRnAwaEY3S0ktNWtQMnNsdktLcXVsTDlZRFBKSmVROA?oc=5"
+ },
+ {
+  "id": "cfce7a0dbb",
+  "datum": "2019-07-29",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Huisjesmelker op vliegtuig naar Nederland gezet",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Vastgoed & huisvesting",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "huisjesmelker"
+  ],
+  "samenvatting": "Huisjesmelker op vliegtuig naar Nederland gezet De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa25VNHVvczcyM21aT1czRG9INlgtR1lRcTdqU09fYTBsZjVOYTlRTlNLTkp4XzRGaFdmUkhnT0hUNW43UEw2U0JlVDVDYkhwOC1VMjFRZDZ5STBBYkhLNmhfMTFEQW9FODg5NzFrRWIwSUFhV0ZTdlRGaE92SktRNFBFZ1NwaGZ3cFR5dU9tTnJMNTJYYW5ydjhQMWdnZw?oc=5"
  },
  {
   "id": "10b1dee45c",
