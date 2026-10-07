@@ -1,12 +1,12 @@
 {
- "run": "00:52",
+ "run": "07:24",
  "datum": "2026-10-07",
- "nieuw": 16,
- "totaal": 4116,
+ "nieuw": 22,
+ "totaal": 4125,
  "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1055,
-  "geen dossier": 493
+  "niet-nederlands": 1051,
+  "geen dossier": 485
  },
  "bronnen": [
   {
@@ -123,7 +123,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 22,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -266,8 +266,8 @@
    "url": "news.google.com/rss/search?q=liquidatie%20criminele%20milieu%20OR%20moor",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 65,
-   "status": "bij",
+   "items": 66,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 106,
-   "status": "3 nieuw",
+   "items": 107,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 192,
-   "status": "6 nieuw",
+   "items": 194,
+   "status": "8 nieuw",
    "ok": true
   },
   {
@@ -500,7 +500,7 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 226,
+   "items": 227,
    "status": "1 nieuw",
    "ok": true
   },
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 246,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 140,
-   "status": "bij",
+   "items": 141,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 100,
-   "status": "4 nieuw",
+   "items": 102,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -572,8 +572,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 42,
-   "status": "bij",
+   "items": 43,
+   "status": "1 nieuw",
    "ok": true
   }
  ]
