@@ -1,5 +1,26 @@
 [
  {
+  "id": "26fa5dfb9d",
+  "datum": "2026-10-08",
+  "tijd": "00:18",
+  "nieuw": true,
+  "titel": "Werkgeversorganisatie VNO-NCW roept politiek op tot samenwerking, met rechts én links",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "organisatie",
+   "uitkering"
+  ],
+  "samenvatting": "Werkgeversorganisatie VNO-NCW roept de politiek op om met elkaar samen te werken. \"Werk samen, ook met de oppositie\", zegt Coen van Oostrom, voorzitter van werkgeversorganisatie VNO-NCW, in Nieuwsuur . \"Laten we meerderheden zoeken.\" Op de vraag of de VVD ook met links moet samenwerken, zegt hij: \"De ene keer met links",
+  "link": "https://nos.nl/l/2634070"
+ },
+ {
   "id": "c9e9ebc2c8",
   "datum": "2026-10-07",
   "tijd": "21:21",
@@ -21,6 +42,25 @@
   ],
   "samenvatting": "Almeerder Frits Smelt heeft de Erepenning van de gemeente Almere ontvangen. Burgemeester Hein van der Loo reikte de onderscheiding woensdag aan hem uit vanwege zijn inzet voor de stad. Smelt is al jarenlang betrokken bij Jeugdland Stad. Dat is een avontuurlijke buitenspeelplek waar kinderen kunnen spelen, hutten bouwen",
   "link": "https://www.omroepflevoland.nl/nieuws/526620/erepenning-voor-almeerder-frits-smelt:-'zet-zich-al-tientallen-jaren-in-met-hart-en-ziel'"
+ },
+ {
+  "id": "da36426b90",
+  "datum": "2026-10-07",
+  "tijd": "20:48",
+  "nieuw": true,
+  "titel": "Vrouw uit Pijnacker veroordeeld voor witwassen van miljoenen in kader van onderzoek Bieslook",
+  "bron": "Head Topics",
+  "verzameld_via": "Nieuws — Vastgoed & huisvesting",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Vrouw uit Pijnacker veroordeeld voor witwassen van miljoenen in kader van onderzoek Bieslook Head Topics",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa0syaVh1UmtyTy1rRmFjU3VLc1pHejJrMk1TYXk2cW5NQzYzRlJ1S2hOaUt5LUZ0Yzh3SnpGREd0bUNyM3BhM3lINkVoV0NaQkpwN0djY1NWb0JSNVVwaW9LSEtyOUNUWXVtV0sxQzFhT1AwTy05NVg2Ti1uTGtRRWhBcU1IRmxqcTg0d1J5Z3AySXNz?oc=5"
  },
  {
   "id": "db1a87f752",
@@ -105,6 +145,25 @@
   "link": "https://www.oost.nl/nieuws/3704321/zwolle-krijgt-helderheid-over-aanpak-woningsplitsing-in-assendorp"
  },
  {
+  "id": "b736dbafc0",
+  "datum": "2026-10-07",
+  "tijd": "18:48",
+  "nieuw": true,
+  "titel": "Een maand leven van wild voedsel: ‘Ik heb de supermarkt absoluut niet gemist’",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "supermarkt"
+  ],
+  "samenvatting": "Een maand lang geen supermarkt en geen moestuin. Anna Luijten, Roos Konings en Valentijn Eschauzier deden mee aan The Wildbiome Project, een onderzoek van een Britse universiteit waarbij deelnemers alleen voedsel uit de natuur eten. In Wageningen kwamen ze aan het einde van de maand samen voor een laatste wilde maaltij",
+  "link": "https://www.gld.nl/nieuws/8533412/een-maand-leven-van-wild-voedsel-ik-heb-de-supermarkt-absoluut-niet-gemist"
+ },
+ {
   "id": "0961c51492",
   "datum": "2026-10-07",
   "tijd": "18:45",
@@ -134,21 +193,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging",
-   "Goudhandel & edelmetalen",
-   "Horeca, winkels & dienstverlening",
-   "Jeugd & jonge aanwas",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "burgemeester",
-   "explosie",
-   "haven",
-   "kapper",
-   "moord",
-   "school"
+   "explosie"
   ],
   "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Kotter en woonark botsen op Markermeer, meerdere lichtgewonden • Chinees restaurant Zeewolde na explosies nog langer dicht • TenneT grijpt terug naar gas om",
   "link": "https://www.omroepflevoland.nl/nieuws/526236/nieuwsoverzicht-0710-or-aanvaring-op-markermeer-*-sluiting-restaurant-verlengd"
@@ -324,7 +372,7 @@
   "id": "78e906571c",
   "datum": "2026-10-07",
   "tijd": "17:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeewolde - Chinees restaurant nog langer gesloten na drie explosies: 'We nemen geen enkel risico'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -333,7 +381,6 @@
   "dossiers": [
    "Bibob & bestuurlijke aanpak",
    "Horeca, winkels & dienstverlening",
-   "Ondernemers & weerbaarheid",
    "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
@@ -341,7 +388,6 @@
    "burgemeester",
    "explosie",
    "horeca",
-   "ondernemers",
    "pand"
   ],
   "samenvatting": "Chinees restaurant De Nieuwe Lotus in Zeewolde blijft nog twee weken langer gesloten. Burgemeester Bram Harmsma verlengt de sluiting vanwege de aanhoudende dreiging rond het restaurant. Ook het cameratoezicht in de omgeving wordt met vier weken verlengd. Het horecapand aan het Flevoplein is inmiddels bijna vier weken d",
@@ -351,7 +397,7 @@
   "id": "83f79ead1d",
   "datum": "2026-10-07",
   "tijd": "16:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grote politiecontroles in Gelderland: meerdere verdachten aangehouden",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -370,7 +416,7 @@
   "id": "352d20d22d",
   "datum": "2026-10-07",
   "tijd": "16:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Strafrechtelijk onderzoek loopt naar docent na grensoverschrijdend contact",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -389,7 +435,7 @@
   "id": "56429b5c36",
   "datum": "2026-10-07",
   "tijd": "16:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Evenementen Breda voorlopig gered van grote rekening: 'We juichen nog niet'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -415,7 +461,7 @@
   "id": "a55616c14c",
   "datum": "2026-10-07",
   "tijd": "16:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie omsingelt pand na mogelijke inbraak",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -434,14 +480,13 @@
   "id": "6a4670ca90",
   "datum": "2026-10-07",
   "tijd": "16:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grote hoeveelheid grondstoffen voor drugs gevonden bij bedrijf in Tilburg",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Drugsproductie & labs",
    "Milieucriminaliteit & afval",
    "Vastgoed & huisvesting"
@@ -449,7 +494,6 @@
   "tags": [
    "grond",
    "grondstoffen",
-   "loods",
    "pand"
   ],
   "samenvatting": "In een bedrijfspand aan de Siriusstraat in Tilburg zijn woensdagmiddag grondstoffen voor de productie van drugs gevonden. Volgens een woordvoerder van de politie gaat het om een grote hoeveelheid. Een 24-jarige man is aangehouden. Er zijn ongeveer tien pallets met dozen erop aangetroffen. Wat voor grondstoffen er preci",
@@ -459,7 +503,7 @@
   "id": "61811a6a92",
   "datum": "2026-10-07",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Azc in Albergen beschoten vanuit rijdende auto: 'Absoluut onacceptabel'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -478,7 +522,7 @@
   "id": "86498a977c",
   "datum": "2026-10-07",
   "tijd": "15:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Meerdere auto's in brand gestoken in parkeergarage Zoetermeer, getuigen gezocht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -499,7 +543,7 @@
   "id": "88573d79f4",
   "datum": "2026-10-07",
   "tijd": "15:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (38) langer vast na dood van 80-jarige man in Bergen op Zoom",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -520,7 +564,7 @@
   "id": "fd27d53f61",
   "datum": "2026-10-07",
   "tijd": "15:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Opvallende actie op de Loper tijdens de Week tegen Mensenhandel",
   "bron": "Vlaardingen24",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -539,7 +583,7 @@
   "id": "c435fdc047",
   "datum": "2026-10-07",
   "tijd": "15:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Eerste Brabantse bezorgstation van Amazon staat in Valkenswaard",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -562,7 +606,7 @@
   "id": "6a70ca03a1",
   "datum": "2026-10-07",
   "tijd": "15:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Schokland - Nieuwe hoogspanningslijn bedreigt uitzicht op Schokland: 'Onderzoek nog niet compleet'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -583,7 +627,7 @@
   "id": "bff35badbe",
   "datum": "2026-10-07",
   "tijd": "15:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vijfde verliesjaar op rij voor Vion, maar winst ligt volgens ceo in zicht",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -602,7 +646,7 @@
   "id": "516997e584",
   "datum": "2026-10-07",
   "tijd": "14:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Na acht jaar inzet komt spetterbad in Lelystad dichterbij",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -622,7 +666,7 @@
   "id": "740492adb1",
   "datum": "2026-10-07",
   "tijd": "13:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester en politie ontkrachten geruchten over ontruiming daklozenkamp Ritthem",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -643,7 +687,7 @@
   "id": "af7edd7927",
   "datum": "2026-10-07",
   "tijd": "13:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester en politie ontkrachten door SGP geschetst beeld over daklozenkamp Ritthem",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -664,7 +708,7 @@
   "id": "90a4dced60",
   "datum": "2026-10-07",
   "tijd": "13:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Veroorzaker dodelijk ongeval bij illegale straatrace Lelystad krijgt 240 uur taakstraf",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -685,7 +729,7 @@
   "id": "63cebd5a02",
   "datum": "2026-10-07",
   "tijd": "13:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nina na uitspraak in zaak dood van haar moeder (58): ‘Eindelijk erkenning’",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -704,7 +748,7 @@
   "id": "20adeb331a",
   "datum": "2026-10-07",
   "tijd": "13:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Doorzoekingen bij veebedrijven in Overijssel voor mogelijk illegale rundhandel",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -724,7 +768,7 @@
   "id": "b6821ccfc5",
   "datum": "2026-10-07",
   "tijd": "12:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Almeerse automobilist voor rechter na 'krankzinnig harde' rit: auto breekt doormidden na botsing",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -743,7 +787,7 @@
   "id": "26c7357c39",
   "datum": "2026-10-07",
   "tijd": "11:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Upcyclecentrum Almere Haven blijft langer dicht: heropening uitgesteld tot juni 2027",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -762,7 +806,7 @@
   "id": "bd595217bf",
   "datum": "2026-10-07",
   "tijd": "11:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grond van dezelfde leverancier op meer plekken weggehaald na dodelijke vergiftiging zes honden",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -781,7 +825,7 @@
   "id": "1483fb5050",
   "datum": "2026-10-07",
   "tijd": "11:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw (24) uit Dieren verdacht van wapenlevering voor liquidaties",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -802,7 +846,7 @@
   "id": "90d11ebd09",
   "datum": "2026-10-07",
   "tijd": "11:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist celstraffen voor cocaïnetransporten tegen drie taxichauffeurs - Openbaar Ministerie",
   "bron": "Openbaar Ministerie",
   "verzameld_via": "Openbaar Ministerie",
@@ -821,7 +865,7 @@
   "id": "a4f0cb0726",
   "datum": "2026-10-07",
   "tijd": "10:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explosie bij auto in Eindhoven: twee verdachten opgepakt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -840,7 +884,7 @@
   "id": "9d86f0c40f",
   "datum": "2026-10-07",
   "tijd": "10:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Justitie: ‘Kindsoldaten’ (18 en 19) ingevlogen vanuit Zweden om liquidaties te plegen in Amsterdam en Haarlem - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -1703,47 +1747,6 @@
   ],
   "samenvatting": "\"Ik moet nog de nodige stappen maken\", erkent de 39-jarige D. van der Z. in de rechtbank. Zijn tbs-behandeling, die hij kreeg opgelegd vanwege brandstichting bij zijn woning in Almere, wordt met twee jaar verlengd. Van 4 op 5 januari 2022 woedde er een grote brand in een appartementencomplex aan de Gezellenhof. Daarvoo",
   "link": "https://www.omroepflevoland.nl/nieuws/526357/tbs-van-brandstichter-appartementencomplex-almere-met-twee-jaar-verlengd"
- },
- {
-  "id": "5feddea43f",
-  "datum": "2026-10-06",
-  "tijd": "07:00",
-  "nieuw": false,
-  "titel": "Nog altijd minderjarigen in seksadvertenties, Kamer stemt over aanpak",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
-   "Beleid, wetgeving & toezicht"
-  ],
-  "tags": [
-   "mensenhandel",
-   "wetsvoorstel"
-  ],
-  "samenvatting": "Nog steeds staan er minderjarige jongens en meisjes op sekswebsites die vervolgens worden misbruikt. Ondanks dat de politie en het Openbaar Ministerie acht jaar geleden afspraken maakten met de grootste sekssites, is het probleem nooit echt aangepakt. De Tweede Kamer stemt vandaag over een aanvulling op een wetsvoorste",
-  "link": "https://nos.nl/l/2633820"
- },
- {
-  "id": "d723040f1c",
-  "datum": "2026-10-06",
-  "tijd": "06:55",
-  "nieuw": false,
-  "titel": "Wekdienst 6/10: Nobelprijs voor Natuurkunde bekendgemaakt • Rijksbegroting in Eerste Kamer",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "douane",
-   "haven"
-  ],
-  "samenvatting": "Goedemorgen! Vanmorgen wordt bekend wie dit jaar de Nobelprijs voor Natuurkunde in ontvangst mag nemen en de rijksbegroting wordt besproken in Eerste Kamer. Eerst het weer: Vanochtend is kans op mist, regionaal ook dichte mist. Later breekt de zon door, maar zijn er ook nog wolken. In het binnenland is lokaal kans op e",
-  "link": "https://nos.nl/l/2633819"
  },
  {
   "id": "4a300dc302",
