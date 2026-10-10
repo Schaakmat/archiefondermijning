@@ -21,11 +21,11 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6030474/dakloze-tessa-33-overdonderd-door-reacties-op-haar-verhaal-schatten"
  },
  {
-  "id": "4206eb477f",
+  "id": "77defed4ca",
   "datum": "2026-10-10",
   "tijd": "18:00",
   "nieuw": true,
-  "titel": "Superbrabants van Kristel Doreleijers wint Taalboekenprijs: 'Ben kei blij!'",
+  "titel": "Belangrijke nationale prijs voor boek over Brabants Dialect: 'Ben kei blij'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -39,7 +39,7 @@
    "jongeren"
   ],
   "samenvatting": "Kristel Doreleijers heeft zaterdag de Taalboekenprijs 2026 gewonnen met haar boek Superbrabants. Het boek van de taalwetenschapper uit Geldrop wordt gezien als het beste publieksboek over de Nederlandse taal. Haar boek gaat onder meer over het ‘hyperdialect’ van Brabantse jongeren. \"Het boek laat absoluut zien hoe bela",
-  "link": "https://www.omroepbrabant.nl/nieuws/6030497/superbrabants-van-kristel-doreleijers-wint-taalboekenprijs-ben-kei-blij"
+  "link": "https://www.omroepbrabant.nl/nieuws/6030497/belangrijke-nationale-prijs-voor-boek-over-brabants-dialect-ben-kei-blij"
  },
  {
   "id": "486dbcbe0d",
@@ -57,7 +57,7 @@
   "tags": [
    "woning"
   ],
-  "samenvatting": "Paniek, rillende mensen gewikkeld in folie en tientallen reddingsboten op het water. Wie niet beter weet, zou denken dat er zaterdag flink wat mis is in Cuijk. Gelukkig valt het mee. De Nationale Reddingsvloot oefende met veertig boten op de Kraaijendonkse Plassen om voorbereid te zijn op een mogelijke overstroming. \"I",
+  "samenvatting": "Paniek, rillende mensen gewikkeld in folie en tientallen reddingsboten op het water. Wie niet beter weet, zou denken dat er zaterdag flink wat mis was in Cuijk. Gelukkig viel het mee. De Nationale Reddingsvloot oefende met veertig boten op de Kraaijenbergse Plassen om voorbereid te zijn op een mogelijke overstroming. \"",
   "link": "https://www.omroepbrabant.nl/nieuws/6030495/zo-wordt-een-watersnoodramp-nagebootst-steeds-vaker-extreem-weer"
  },
  {
@@ -189,12 +189,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Gelderland",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "explosie",
-   "geweld",
    "wapen"
   ],
   "samenvatting": "Jan G. was een groot deel van de dag nadat tientallen gewapende mannen bij hem voor de poort staan en zijn beveiliger doodschieten, nog gewoon in Overasselt. Terwijl de politie massaal jacht maakt op de gewapende mannen is Jan gevlucht naar familie elders in het dorp. Omroep Gelderland sprak met meerdere bronnen in Ove",
@@ -211,15 +208,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "explosie",
-   "garage",
    "vuurwerk",
-   "woning",
    "zwaar illegaal vuurwerk"
   ],
   "samenvatting": "De politie heeft vrijdagavond een 19-jarige man uit Helmond opgepakt omdat hij verdacht wordt van handel in zwaar illegaal vuurwerk. Bij zijn aanhouding had hij zogenoemde mortiergranaten of 'shells' bij zich. De politie vermoedde dat de jongeman zich bezighield met de illegale handel in vuurwerk. Daarom werd een onder",
@@ -229,7 +221,7 @@
   "id": "3f4c7fa752",
   "datum": "2026-10-10",
   "tijd": "12:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Pridewalk Almere verstoord: inrijden op voorzitter, deelnemers bespuugd en uitgescholden",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -254,7 +246,7 @@
   "id": "1cf812d275",
   "datum": "2026-10-10",
   "tijd": "11:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Buurman en buurman in de clinch in de buurtapp. 'Ik had nooit mogen schrijven dat hij een vermeend pedofiel is'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -273,7 +265,7 @@
   "id": "f38b116943",
   "datum": "2026-10-10",
   "tijd": "10:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Flevolanders leveren 180 kilo aan vuurwerk in bij actie",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -292,7 +284,7 @@
   "id": "425bfe3e3c",
   "datum": "2026-10-10",
   "tijd": "10:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Storing bij KPN opgelost, universitaire ziekenhuizen weer bereikbaar",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -311,7 +303,7 @@
   "id": "283c1e537a",
   "datum": "2026-10-10",
   "tijd": "09:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Brugramp in Duitsland zet Nijmegen op scherp: extra controles",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -330,7 +322,7 @@
   "id": "3e4b939782",
   "datum": "2026-10-10",
   "tijd": "08:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Brandstichting bij het spoor, geen treinen tussen Rotterdam en Delft",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -351,7 +343,7 @@
   "id": "11ce2f1d93",
   "datum": "2026-10-10",
   "tijd": "07:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tientallen kogels afgevuurd in Overasselt: reconstructie van een nacht vol excessief geweld",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -373,7 +365,7 @@
   "id": "891fc8d157",
   "datum": "2026-10-10",
   "tijd": "06:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Een buit van honderd miljoen en spoorloze verdachten: dit was de Rotterdamse goudroof",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -392,7 +384,7 @@
   "id": "5aeb66d007",
   "datum": "2026-10-10",
   "tijd": "05:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Intensieve samenwerking bij grote controle aan de Duitse grens - Politie.nl",
   "bron": "Politie",
   "verzameld_via": "Politie",
@@ -1073,29 +1065,6 @@
   ],
   "samenvatting": "André Oude Weernink zwaait af als voorzitter van de Raad van Toezicht bij RTV Oost. De 64-jarige Almeloër trad in 2018 toe en werd een jaar later voorzitter. Na zijn laatste vergadering als voorzitter ontving hij een koninklijke onderscheiding.",
   "link": "https://www.oost.nl/nieuws/3704976/oude-weernink-geridderd-na-laatste-vergadering-als-toezichthouder-rtv-oost-oude"
- },
- {
-  "id": "61a11c9869",
-  "datum": "2026-10-09",
-  "tijd": "15:16",
-  "nieuw": false,
-  "titel": "Twintig asielzoekers sliepen in regen in Ter Apel: 'Door humane ondergrens gezakt'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "organisatie",
-   "stal",
-   "woning"
-  ],
-  "samenvatting": "In Ter Apel hebben afgelopen nacht twintig mensen die asiel willen aanvragen buiten op het gras in de regen geslapen. Dat is volgens de hulporganisaties Vluchtelingenwerk Nederland en het Rode Kruis een direct gevolg van het gebrek aan opvangplekken in Nederland. Volgens de hulporganisaties zakt Nederland door een \"hum",
-  "link": "https://nos.nl/l/2634289"
  },
  {
   "id": "1f1512d3a1",
@@ -2894,6 +2863,25 @@
   ],
   "samenvatting": "Bijna negen jaar lang wachtte Nina Mekes op duidelijkheid in de zaak van de gewelddadige dood van haar moeder Hennie de Laat. Woensdag kwam die er eindelijk. Werner de R. werd veroordeeld tot tien jaar cel voor doodslag. “Een soort van opluchting mag ik het wel noemen”, zegt Nina na afloop van de uitspraak. Helemaal te",
   "link": "https://www.omroepbrabant.nl/nieuws/6030055/nina-na-uitspraak-in-zaak-dood-van-haar-moeder-58-eindelijk-erkenning"
+ },
+ {
+  "id": "27722833e1",
+  "datum": "2026-10-07",
+  "tijd": "13:10",
+  "nieuw": false,
+  "titel": "‘Ondernemer uit Sliedrecht kocht woning in Dubai van drugsgeld’",
+  "bron": "Crimesite",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "‘Ondernemer uit Sliedrecht kocht woning in Dubai van drugsgeld’ Crimesite",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLXU3TjNuTTRkODRGeWhuMXM3elRId1pod3FlRVZPbXRocVloSGFheEFpb0ROUllxVWNDUkdnU3NQTE1CWEdsUFh0YkFrdDFxNk11eGlEZ0ZRMmRzNEtsVnM2WnlsRi1Nb0YzTU9VOHU2aWRCZ2JSLVlZQ2dUNGtCTGJiOTFYNldPamYwTWJDcFE?oc=5"
  },
  {
   "id": "20adeb331a",
