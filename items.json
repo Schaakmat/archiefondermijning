@@ -1,5 +1,137 @@
 [
  {
+  "id": "3e4b939782",
+  "datum": "2026-10-10",
+  "tijd": "08:02",
+  "nieuw": true,
+  "titel": "Brandstichting bij het spoor, geen treinen tussen Rotterdam en Delft",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "goud",
+   "haven"
+  ],
+  "samenvatting": "Bij een spoorbrug bij Rotterdam-Delfshaven is vannacht brand gesticht. Rond 02.30 uur ontstond een storing bij de spoorbrug. Een aannemer die op de storing afging, zag hij de deur van een technische ruimte was opengeslepen. Binnen lagen smeulende kabels. Volgens een woordvoerder van spoorbeheerder ProRail is daar brand",
+  "link": "https://nos.nl/l/2634388"
+ },
+ {
+  "id": "11ce2f1d93",
+  "datum": "2026-10-10",
+  "tijd": "07:00",
+  "nieuw": true,
+  "titel": "Tientallen kogels afgevuurd in Overasselt: reconstructie van een nacht vol excessief geweld",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Drugsproductie & labs",
+   "Geweld, liquidaties & bedreiging",
+   "Goudhandel & edelmetalen",
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "beveiliging",
+   "cocaïne",
+   "doodgeschoten",
+   "explosie",
+   "geweld",
+   "goud"
+  ],
+  "samenvatting": "Ruim veertig keer wordt er geschoten in de richting van de agenten die op 1 september als eerste ter plaatse zijn bij het huis van Jan G. in Overasselt. Kort daarvoor was een grote groep gewapende mannen door het dorp getrokken en een beveiliger doodgeschoten in zijn auto. Inmiddels zijn 42 verdachten opgepakt voor dez",
+  "link": "https://nos.nl/l/2634377"
+ },
+ {
+  "id": "891fc8d157",
+  "datum": "2026-10-10",
+  "tijd": "06:10",
+  "nieuw": true,
+  "titel": "Een buit van honderd miljoen en spoorloze verdachten: dit was de Rotterdamse goudroof",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "goud"
+  ],
+  "samenvatting": "Ruim duizend kilo aan goud verdwijnt uit een zwaar beveiligde kluis en pas een jaar later wordt het voor het eerst gemerkt. Het is het verhaal van de Rotterdamse goudroof uit 2018. Eind dit jaar wordt de spectaculaire roof inhoudelijk behandeld door de rechter en om het verhaal eens goed op een rij te zetten, dook Rijn",
+  "link": "https://www.rijnmond.nl/nieuws/2265191/een-buit-van-honderd-miljoen-en-spoorloze-verdachten-dit-was-de-rotterdamse-goudroof"
+ },
+ {
+  "id": "80c72d8f34",
+  "datum": "2026-10-10",
+  "tijd": "05:00",
+  "nieuw": true,
+  "titel": "Vluchten met zwaargewonde agent: een reconstructie van geweld in Overasselt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "explosie",
+   "geweld",
+   "wapen"
+  ],
+  "samenvatting": "Ruim veertig keer wordt er geschoten in de richting van de agenten die op 1 september als eerste ter plaatse zijn bij het huis van Jan G. in Overasselt. Kort daarvoor was een grote groep gewapende mannen door het dorp getrokken en een beveiliger doodgeschoten in zijn auto. Inmiddels zijn 42 verdachten opgepakt voor dez",
+  "link": "https://www.gld.nl/nieuws/8534586/vluchten-met-zwaargewonde-agent-een-reconstructie-van-geweld-in-overasselt"
+ },
+ {
+  "id": "3669762403",
+  "datum": "2026-10-10",
+  "tijd": "03:54",
+  "nieuw": true,
+  "titel": "Voetganger overlijdt na aanrijding op A58, wilde vermoedelijk oversteken",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Een voetganger is vrijdag rond middernacht om het leven gekomen bij een aanrijding op de A58 bij Tilburg. Vermoedelijk wilde het slachtoffer de snelweg oversteken. Een vrachtwagenchauffeur kon de voetganger niet meer ontwijken. Vanwege de ernst van de situatie werd naast de brandweer, de politie en een ambulance ook ee",
+  "link": "https://www.omroepbrabant.nl/nieuws/6030456/voetganger-overlijdt-na-aanrijding-op-a58-wilde-vermoedelijk-oversteken"
+ },
+ {
+  "id": "5a6cc1aad3",
+  "datum": "2026-10-10",
+  "tijd": "03:49",
+  "nieuw": true,
+  "titel": "Automobilist vast na achtervolging met snelheden tot 200 kilometer per uur",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een automobilist is vrijdagavond aangehouden na een politieachtervolging die begon in de omgeving van Den Bosch. De snelheden liepen hierbij op tot zo'n 200 kilometer per uur. De achtervolgde auto kwam uiteindelijk op de N65 bij Udenhout tot stilstand, nadat meerdere banden lek waren geraakt. De bestuurder gaf zich ech",
+  "link": "https://www.omroepbrabant.nl/nieuws/6030455/automobilist-vast-na-achtervolging-met-snelheden-tot-200-kilometer-per-uur"
+ },
+ {
   "id": "4650ca888e",
   "datum": "2026-10-10",
   "tijd": "00:01",
@@ -123,6 +255,27 @@
   "link": "https://www.oost.nl/nieuws/3704706/medewerker-gevangenis-almelo-in-opspraak-na-feestje-met-oud-motorclubleider-no-surrender"
  },
  {
+  "id": "4de68fa3aa",
+  "datum": "2026-10-09",
+  "tijd": "18:30",
+  "nieuw": true,
+  "titel": "Weggedraaide camera’s en Marktplaats-advertentie, wist vrouw echt niets van drugslab op haar erf?",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "erf"
+  ],
+  "samenvatting": "Weggedraaide camera’s en Marktplaats-advertentie, wist vrouw echt niets van drugslab op haar erf? AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZldpcXVFSGdFM3JyUDJpb1h6ek5QTGxHdVdTVTJkUjBTdTZVQVhoQU9PeDNMeW9IODVQMmxWMDZTVTVyMEtHR2JueHBwR0lXTU4waHpvM2diZTJCTS1SOUlvclJKUFV5X2ZsY2ZfdWtGaEczMTBVRXRRY2piOFVhQ3lOUk0wME43Rl9WMHBIM2tPVnN1RkdhZXlsUzBmM2pnZ282ZXFLWXp3TXQ3RUhlejNrYjBlMllGdG9EZnpfT2hjOEJQOUVfQnI1RkRUZUJUWkhJ?oc=5"
+ },
+ {
   "id": "e3c8f1bcd2",
   "datum": "2026-10-09",
   "tijd": "18:07",
@@ -168,7 +321,7 @@
   "id": "02bb6db9c7",
   "datum": "2026-10-09",
   "tijd": "17:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oorlogsverleden Willem Wilbrink in twijfel getrokken, Paasbergflat gesloten en bestuurder ernstig gewond na botsing op vrijdag 9 oktober",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -187,7 +340,7 @@
   "id": "860a4afaaf",
   "datum": "2026-10-09",
   "tijd": "17:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee Zwollenaren aangehouden voor gewelddadige woningoverval in Holten",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -210,7 +363,7 @@
   "id": "79e7ee7c2e",
   "datum": "2026-10-09",
   "tijd": "17:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Zorggroep Almere waarschuwt voor verdachte berichten over medicijnen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -229,7 +382,7 @@
   "id": "63c053e1b7",
   "datum": "2026-10-09",
   "tijd": "17:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Apeldoornse David (37) zette zijn deur open voor man met problemen, het kostte hem zijn leven",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -248,7 +401,7 @@
   "id": "c500368196",
   "datum": "2026-10-09",
   "tijd": "16:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie Belgen aangehouden voor vermoedelijke betrokkenheid bij geweld in Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -267,7 +420,7 @@
   "id": "c67d91619d",
   "datum": "2026-10-09",
   "tijd": "16:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mogelijk drugsafval gevonden bij verlaten trailer",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -289,7 +442,7 @@
   "id": "afd0f2e3fc",
   "datum": "2026-10-09",
   "tijd": "16:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vaten met vermoedelijk drugsafval gevonden in bos bij woonwagenkamp Nijmegen",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -311,7 +464,7 @@
   "id": "cbc9909a54",
   "datum": "2026-10-09",
   "tijd": "16:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vaten met vermoedelijk drugsafval gevonden in bos bij woonwagenkamp Nijmegen",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -974,25 +1127,6 @@
   ],
   "samenvatting": "Bij een botsing tussen een bestelbus en een personenauto in Lelystad is vrijdagochtend één persoon gewond geraakt. De bestuurder van de auto raakte bekneld en moest door de brandweer worden bevrijd. Het ongeluk gebeurde rond 07.00 uur op de kruising van de Gordiaandreef en de Middendreef. De brandweer moest een deur ui",
   "link": "https://www.omroepflevoland.nl/nieuws/526795/bestuurder-bekneld-na-botsing-tussen-bestelbus-en-auto-in-lelystad"
- },
- {
-  "id": "e22dccf7f0",
-  "datum": "2026-10-09",
-  "tijd": "08:33",
-  "nieuw": false,
-  "titel": "Lelystad - Hospicezorg in Lelystad uitgebreid: nieuwe naam Polderluwte",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "Zorgorganisatie Coloriet heeft donderdag de nieuwe naam van het voormalige Hospice 't Hofje onthuld: Polderluwte. Daarnaast is er een gespecialiseerd team dat zorgverleners in heel Flevoland ondersteunt bij de zorg voor mensen die niet meer beter worden. Daarmee is de hospicezorg in Lelystad uitgebreid. De uitbreiding ",
-  "link": "https://www.omroepflevoland.nl/nieuws/526794/hospicezorg-in-lelystad-uitgebreid:-nieuwe-naam-polderluwte"
  },
  {
   "id": "d55742a771",
@@ -8129,6 +8263,25 @@
   ],
   "samenvatting": "De nachtmerrie van het slachtoffer worden van mensenhandel. Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05RTJhRW1HWGxxN2hyYVFjel9vQjl2eWtXWkVRcnpQdnlOWjRybjRidVZMNW5SYzF5ZGg1UzNpYzNvSE14WjZ6dEFGbmFwOS1aQkFEYnJ0Y0w1d2dpSFpvZ1lycXVPYXdGVTJtend0LW9wWkJj?oc=5"
+ },
+ {
+  "id": "7aad6419d6",
+  "datum": "2026-09-29",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drie mannen in Eindhoven aangehouden in onderzoek naar drugs en witwassen van crimineel geld",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Drie mannen in Eindhoven aangehouden in onderzoek naar drugs en witwassen van crimineel geld AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaWlzMlRwOEE1SHFzX2JUcVRjdXlrV0l1NFA4TkxzeTVWNXk1bjEtb1FqQ25RWFNjQl82OEppTVgxeFJxUXoxSWJhMkw4LW5wbC1uTVpZYThQTzd2eUY3YUh2OTdWWkRnWmdISnpPdFYzamdHSFJVSjMzUGpFcVpjOC1reFUyU2dMc3FzMkNnSEd2ODBVQVNSWUYtQjdON1ZkbVAyYVZKdTRCZ244Z1pwN3AwSE5RcnJqeDRjY0plZjRIZGRoZEY1OGdB?oc=5"
  },
  {
   "id": "bbb8163207",
