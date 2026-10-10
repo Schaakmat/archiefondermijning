@@ -1,5 +1,24 @@
 [
  {
+  "id": "4650ca888e",
+  "datum": "2026-10-10",
+  "tijd": "00:01",
+  "nieuw": true,
+  "titel": "Vraagtekens bij strafafspraken met verdachten drugslab Bolsward. ’U tekent misschien wel voor meer dan waar is’",
+  "bron": "Leeuwarder Courant",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Vraagtekens bij strafafspraken met verdachten drugslab Bolsward. ’U tekent misschien wel voor meer dan waar is’ Leeuwarder Courant",
+  "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONzBqTlF2dGJ0VGFWZngzNnJPOVd4V0QtYmg0WTJ0QWpEX3FzeEZFN0t0Z2c1NDVBSnU4U3JrbGtMWmtoWU9oc3ZtVGZhbkkyeU03RmcwTnRxWWs1YUtlRFNpRmluZ3FQNXlnRUgybTJBU3VISVNlMHlLN05NQWIwQTZnRWdDNUZpd25iNUxJSUhaZElLeThubE1kTWZGcWZ0RXZsZ21MRDZrOW9weklQbm96REl5V1EweXF5WmhGU3Jqdlc5eWd0ZGtxcDd2bmo3WkRKeHdPenVlUWs2ZllvNFl6el9QSDhLRjhYNWFaZlNVbUplbGFNZUpQOFAxd3BlRTFkeA?oc=5"
+ },
+ {
   "id": "083ab3f230",
   "datum": "2026-10-09",
   "tijd": "20:15",
@@ -10,20 +29,15 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Criminele samenwerkingsverbanden",
-   "Drugsproductie & labs",
    "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
    "criminele organisatie",
-   "explosie",
-   "geweld",
-   "loods",
    "moord",
-   "organisatie"
+   "organisatie",
+   "wapen"
   ],
   "samenvatting": "In Gent zijn drie mannen aangehouden die vermoedelijk betrokken waren bij de schietpartij in Overasselt begin vorige maand. Dat meldt de politie. De verdachten zijn 23, 25 en 28 jaar oud. Ze worden verdacht van moord, doodslag, vuurwapenbezit en lidmaatschap van een criminele organisatie. De politie zegt niet wat hun r",
   "link": "https://nos.nl/l/2634327"
@@ -46,6 +60,28 @@
   ],
   "samenvatting": "Jerrycans met chemische stoffen afgevoerd bij drugslab in Ommen: vijf verdachten zitten nog vast de Stentor",
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWEhaOVhXaGEyWE02bVlqalBTdDJxQl9FRkFjX3hyOW1Xb1dZUWxrWmxBeGtIVXJPTGtjV29aZWQ5S211dm9ka2FJcVhhODFGSjIyQXFkcFF2RVhuM2FxbjJIZEhKbVBYNFkweWcyM1Fwc2QxVEFuYXFVSzhnWlcwRHdrdUxwMjZBQ0kwSG5LZGkxb1dHblpmOFdYX0pPdUxqQm1xdmt1Vy15ZDZZN2NLX203TW9KSFRDaHh0enF6d0VYSHlmYTlCZkV6Y3gxckVIS3c?oc=5"
+ },
+ {
+  "id": "07050d3d1d",
+  "datum": "2026-10-09",
+  "tijd": "19:53",
+  "nieuw": true,
+  "titel": "Jerrycans, blauwe vaten en zwaarbewapende agenten: drugslab in Ommen wordt nog steeds leeggehaald",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "vaten",
+   "wapen"
+  ],
+  "samenvatting": "Jerrycans, blauwe vaten en zwaarbewapende agenten: drugslab in Ommen wordt nog steeds leeggehaald de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbFBZcTBibGVoR2dxU1pDa3NBWXF5QUx3ajRydzRuM01aN2dXTmp0ZFJWNGpGZjdvTUdXNnZIc2sxdzRoZTg0akRpMkZ0VUxuZ1p5bnYxQndfdGJjQUpCVG1SRE5ZQXpoWE83Vjk2cGhkSGpIazA4LVRpbHFtWm9panFTQUd5SXVwcjdKakpmek44emNnQVQzR3dUbldMbGhFbWhCNEtPbEJKVHRyV2RLeHpmclRpWlB0czFSX0gzU1lHZGw4Sy1fYU9mRENYcjctU0E?oc=5"
  },
  {
   "id": "6980fe30a8",
@@ -139,12 +175,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Gelderland",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
    "Trustkantoren & rechtspersonen"
   ],
   "tags": [
-   "bestuurder",
-   "geweld"
+   "bestuurder"
   ],
   "samenvatting": "Het verhaal over het oorlogsverleden van de 99-jarige Willem Wilbrink uit Arnhem rammelt. Dat concludeert het Historisch Nieuwsblad in een artikel. Ook het Dachau Comité twijfelt aan zijn verhaal. De Paasbergflat in Arnhem wordt gesloten vanwege veiligheidsproblemen. Het zou er dusdanig onveilig zijn dat snel maatregel",
   "link": "https://www.gld.nl/nieuws/8534565/oorlogsverleden-willem-wilbrink-in-twijfel-getrokken-paasbergflat-gesloten-en-bestuurder-ernstig-gewond-na-botsing-op-vrijdag-9-oktober"
@@ -274,10 +308,54 @@
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWHZSR19ra040bzNRMGNJeVRkc0daTnY5S2VxbmlscjJJUEllb1VJMUFZMDZ0ZXNOWlBVT2FLRG5lb3lvMzdvZzhXTUZULTJhMmVjdnpSR01adkFmQXVtaFZ6Y24tSnF0dGVoVi1zWkJ3WHB2eFd0SGh5UXd1Rlc4VVlvencwZk4yckt0SjdWOHdrV3RSUzZmVG5RYmRYZ2JzSlo1RmFzSElBQmhnclp3T0pkenpFMnFSYnBPZzlnRlhCbkc2Qi1UVldNX3NJTjQ?oc=5"
  },
  {
+  "id": "cbc9909a54",
+  "datum": "2026-10-09",
+  "tijd": "16:12",
+  "nieuw": true,
+  "titel": "Vaten met vermoedelijk drugsafval gevonden in bos bij woonwagenkamp Nijmegen",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval",
+   "vaten"
+  ],
+  "samenvatting": "Vaten met vermoedelijk drugsafval gevonden in bos bij woonwagenkamp Nijmegen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSHNWeUFaaUd3TkptVDhtVXM3MjNLcnhjZjlMYm9aQTk2UXVBSmpfc3ZnaTYzdTJiQkNNY1AyVzRNRl9oTmJxWkhpM1dEQ3d2UmswRVpSU29xTUppMGZMOUg5OGZtX3ZjelZFQjR2Y0J3cXlrSFYtMU9aSFVNdHJwNkhBX1daQ3QtNTVwQ0hRWlZ3VVVCLVZTTGhsa3VVQmdkNGlGQXpJOEx3UmJfOXV2SjZ2Yw?oc=5"
+ },
+ {
+  "id": "10971758f4",
+  "datum": "2026-10-09",
+  "tijd": "16:12",
+  "nieuw": false,
+  "titel": "Vaten met vermoedelijk drugsafval gevonden in bos bij woonwagenkamp Nijmegen",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval",
+   "vaten"
+  ],
+  "samenvatting": "Vaten met vermoedelijk drugsafval gevonden in bos bij woonwagenkamp Nijmegen de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOW02M0YwT1JaZ2hsWHMybDJYUF8wN2d2d1dyemZZSlZYTW9UakgtOXlRMWRaclJPcVIyckNpaUQtbVNOMEZCLThFSWVaemJ1OTVFLS1WOEZkM0Z3NG5vTHY2ZU1Uendpc0ZhUmxTekNkOVBfaFM2NFk5dnl5NDU1dGZKWVA3TTFFN0dwbnZTaUIwQ3BmcGpVbS10a2RhR3RPNzFsN1ZpSjVYeUhScVpSdllxYTlvdXp6aUh0Rg?oc=5"
+ },
+ {
   "id": "3ed21a5f93",
   "datum": "2026-10-09",
   "tijd": "16:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mannen achter grote hennepplantage bij pannenkoekenboerderij Buurse veroordeeld",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -299,7 +377,7 @@
   "id": "ee90800c5b",
   "datum": "2026-10-09",
   "tijd": "16:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "‘Amsterdammers’ veroordeeld voor grote wietplantage bij pannenkoekenrestaurant Buurse",
   "bron": "Tubantia",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -315,10 +393,29 @@
   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPUE1DUmwwUWdTT1h0RGttQXNMSWo4ZTVDSGt5MVk1S1VTYmd1MWV3bVhOMk1NeXBBcU9QWjJubk5CVTRwY0dMdzZ4bVY2Vlg4d1EwUVl1bUJXTzRpLXhBamIyY2VuQlNTeEM2NE16WTZtOE5hN3R2eWozbUE2R2dwS1AyRUR4WG5EQjQxR2ZSVVA3SWVKMlBHUXE1U0VkVUVOdGVRZEVxZzJDaG1sSFNPN1VCZUR5N0VvWDZDZmdGZkJocllycW1ncTRiMzNMSmJNU0VEdVZjTGNFRUxMMGgwQlE1RlZzV2FmNEp2dzB3SjVvaWxMRFR5NzdKMTFzNlFpa0VfbUFFUGhfQnpQaVlHUDlaNEU5QU1ZUUxRUUJmRkM?oc=5"
  },
  {
+  "id": "c11f42a70c",
+  "datum": "2026-10-09",
+  "tijd": "16:07",
+  "nieuw": false,
+  "titel": "‘Amsterdammers’ veroordeeld voor grote wietplantage bij pannenkoekenrestaurant Buurse",
+  "bron": "Tubantia",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "‘Amsterdammers’ veroordeeld voor grote wietplantage bij pannenkoekenrestaurant Buurse Tubantia",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWdkdy1fVE0zUUZFN19qZm9qOTROM0l6UVlNMEhiM01TOGpwZ1F1MzdUdmQ0NVZyNUh1cGxwb1hYbzBXV1JraTRQeExxcWRTNzNCQ19mY3lCOEtyaExxX2RqaFdBa1ZaZ1ROcEtKOXc0bWhQNGZvcW0xWHBwZnAtbl9USGg5S2VKYTZyWG1wOUY0bThpNHBDb3BCM2ZzaE14QVl6OEd4ZGFCMzRGc0tERWU2S0VKaWdMSW1SQ3k5OWRsSWc2OGpBaw?oc=5"
+ },
+ {
   "id": "067f366acd",
   "datum": "2026-10-09",
   "tijd": "16:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist 56 maanden cel tegen ’leider’ drugslab Bolsward & Batavus en Koga overgenomen door investeerder uit Singapore",
   "bron": "Leeuwarder Courant",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -339,7 +436,7 @@
   "id": "9378c0efa4",
   "datum": "2026-10-09",
   "tijd": "15:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vanuit touringcar betrapt: 200 boetes bij grote telefooncontrole op de weg",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -358,7 +455,7 @@
   "id": "e762a38086",
   "datum": "2026-10-09",
   "tijd": "15:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Weggebruikers moeten dit weekend rekening houden met werkzaamheden",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -377,7 +474,7 @@
   "id": "193f145860",
   "datum": "2026-10-09",
   "tijd": "15:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Weggebruikers moeten ook dit weekend rekening houden met werkzaamheden",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -396,7 +493,7 @@
   "id": "e8f1e4caaa",
   "datum": "2026-10-09",
   "tijd": "15:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oude Weernink stopt als toezichthouder van RTV Oost",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -415,7 +512,7 @@
   "id": "61a11c9869",
   "datum": "2026-10-09",
   "tijd": "15:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twintig asielzoekers sliepen in regen in Ter Apel: 'Door humane ondergrens gezakt'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -438,7 +535,7 @@
   "id": "1f1512d3a1",
   "datum": "2026-10-09",
   "tijd": "14:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachten van runnen drugslab in Midden-Beemster voor de rechter -",
   "bron": "Groot-waterland.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -457,7 +554,7 @@
   "id": "3345140f41",
   "datum": "2026-10-09",
   "tijd": "14:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie en brandweer onderzoeken mogelijke dumping van drugsafval",
   "bron": "GelreNieuws",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -478,7 +575,7 @@
   "id": "a5ef3798c5",
   "datum": "2026-10-09",
   "tijd": "14:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Arrestaties van mogelijke uithalers na verdachte situatie bij koelcontainer",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -980,6 +1077,27 @@
   ],
   "samenvatting": "Rijswijkse gemeenteraad duikt in wereld van ondermijning en woonfraude Rijswijks Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnUxNzNiMWs4anBsQm1aXzlHTE55QUZ2VzlhUGNwdkU5M2VYanJuT3VTbFRFb01BTzQ5cV8xQm5hdXBJRHQ4MzQwdVgyR3FVc1FNLXAtY0pWakxudjhyak5MNTE4ZmlRdlZta3FNNWREbkFYQTd0b1piOHFiYkJJNFRaaFpEdWJ4TjdGY1VJbkhDTUx1TXVxcjdlZzBldzJ3RlM4Qldoa3k?oc=5"
+ },
+ {
+  "id": "6e61e46e2e",
+  "datum": "2026-10-09",
+  "tijd": "06:42",
+  "nieuw": false,
+  "titel": "Rijswijkse gemeenteraad duikt in wereld van ondermijning en woonfraude",
+  "bron": "Rijswijks Dagblad",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "ondermijning"
+  ],
+  "samenvatting": "Rijswijkse gemeenteraad duikt in wereld van ondermijning en woonfraude Rijswijks Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTVYdXJEcnY4cXRrT3dpVHVCZ3ZRXzZQcXV5cnFoVHpiOXBKUTZDeURIYWtyN0xGclVUNk0yS2dpN1NQcklCUG1VallwazZGemZLVkg5Q2FiV3RLWEpQRFJ5WHJXMTgtNkZkcndFQkJheHVadGVBekFjREg1XzNmaXVDd25aUHcwaDJsS1pMUlBTWWVVWENDRzBIamhsX05PVGZKVE5Bc1k?oc=5"
  },
  {
   "id": "0f9e5ed5e5",
@@ -15593,6 +15711,25 @@
   ],
   "samenvatting": "Vier Nederlanders aangehouden na vondst van groot drugslaboratorium in het Belgische Bree Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0xUbVVBbXRMV1oxVkFwS0FlNkJpUjBNZ1cwbnp2NVNmTWF4dHpDWW9DTjk2bXlBU0lSM0g0eXhYVTFHdThRS00ya3hER05vM0RSVmJVLVgzZDRoRDZseU1NU21fZGlhV1oyZVZBOGd4UWFMeGhiQnl4dk1KWHhMY1FEa2NMSE90dkx1TVBOTm1pQUYtSkZrcnJqb0pSOGhhWmlUakhJT0NzQ0xwaHJjNTVpQVNjSi1IajhJSjZwalh6V2c4c0Q0?oc=5"
+ },
+ {
+  "id": "0c97cc8e95",
+  "datum": "2026-09-18",
+  "tijd": "20:16",
+  "nieuw": false,
+  "titel": "Aanhoudingen voor uitbuiting, mensensmokkel bij restaurantketens",
+  "bron": "Dagblad010",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Aanhoudingen voor uitbuiting, mensensmokkel bij restaurantketens Dagblad010",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGJCUHJsVzB5MmtWc09tb2pJU01EdS1YSWp2TDlqQmpabFN5WFZtVm5DbkppcXZOakR4dkRhV2MzbzJqWnpYQkJING51M2pzNzFzTDZJTVg1RTJEX3JwTkxIcWQ1M3lBZHc1OGVQWGc2dWZlQ1VZaW9Jal9ic0RkVE9GVzNfWkNRa2Fpc2U1cHpSX25VYzhYUkFqYw?oc=5"
  },
  {
   "id": "f16ad384a5",
@@ -75436,6 +75573,25 @@
   ],
   "samenvatting": "Ex-medewerker schakelde recherchebureau in om witwaspraktijken op park aan te kaarten De Telegraaf",
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUFBZ1lpY1VhVVE2TXZ4Rnh6R1VNNndmWHBER2MtUThWS1F6NzdCWFREUWdDQ2VKOXlpSUhxZThuUU45QlBoY0M2MVUwTkhUdTZJUXhqel9nWlVjV3FmN3JlZ3IxMjQ0TlJKUVVrakh5bURISVRLQ0JPRnFPVDJMVWpjZ2hSUzlrUnVMSFE4b2ZjSC13THZBUWpCeWs0THkxbVBWVlhYb2pRMWFGd2tWNWRzamZwTnJZeER5RkNXUThLUjRyMDZ4LTdJSkU3TDhF?oc=5"
+ },
+ {
+  "id": "8c1ed0c03e",
+  "datum": "2022-06-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ex-medewerker schakelde recherchebureau in om witwaspraktijken op park aan te kaarten",
+  "bron": "De Limburger",
+  "verzameld_via": "Nieuws — Buitengebied & recreatie",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwaspraktijken"
+  ],
+  "samenvatting": "Ex-medewerker schakelde recherchebureau in om witwaspraktijken op park aan te kaarten De Limburger",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORTMwRWl2U0lYN2RlNWQzNlMxTGVFZ0xtN3ZHTHVFczJjNnVSRU05endPRzBLNVl2YkZ0RUdRNF9hWFk0V1BzSHFJYl9IbksxdUtmNEpReVlybVR4UmwwbS1GZFJndVJlX0p1OGVUXzUyc1RlOTRfOW1rZ1pCRHZhWXNucEVJd1ViRTlfdDBoOHpPM2c2M3RqUng2aS1Kak56UmFscVRxTEM3RUZOSDVxajBTOUN0WEZPN0piaDNkUTBhbm93Z3FiRWI2TjZLR0tk?oc=5"
  },
  {
   "id": "59cb3fe61a",
