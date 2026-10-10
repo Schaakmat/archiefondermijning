@@ -1,5 +1,87 @@
 [
  {
+  "id": "3f4c7fa752",
+  "datum": "2026-10-10",
+  "tijd": "12:42",
+  "nieuw": true,
+  "titel": "Almere - Pridewalk Almere verstoord: inrijden op voorzitter, deelnemers bespuugd en uitgescholden",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bedreiging",
+   "bestuurder",
+   "burgemeester",
+   "organisatie"
+  ],
+  "samenvatting": "Een automobilist is vrijdagmiddag ingereden op de voorzitter van de Pridewalk in Almere. Ook zijn deelnemers tijdens de wandeling bespuugd en uitgescholden. Het is voor het eerst in de geschiedenis van de Almeerse Pridewalk dat er fysieke bedreigingen zijn geweest, zegt organisatielid Claire Slingerland. Zo'n 100 mense",
+  "link": "https://www.omroepflevoland.nl/nieuws/526972/pridewalk-almere-verstoord:-inrijden-op-voorzitter-deelnemers-bespuugd-en-uitgescholden"
+ },
+ {
+  "id": "1cf812d275",
+  "datum": "2026-10-10",
+  "tijd": "11:42",
+  "nieuw": true,
+  "titel": "Almere - Buurman en buurman in de clinch in de buurtapp. 'Ik had nooit mogen schrijven dat hij een vermeend pedofiel is'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "\"Ik zit hier niet uit luxe. Dit moet stoppen.\" Dat was het eerste wat een Almeerder zei, toen de rechter hem vroeg hoe het met hem ging. Hij had een zaak aangespannen, omdat zijn buurman op 4 augustus in een buurtapp - met daarin zo’n driehonderd buurtbewoners - had geschreven: \"hij is een vermeend pedofiel.\" \"Het is e",
+  "link": "https://www.omroepflevoland.nl/nieuws/526963/buurman-en-buurman-in-de-clinch-in-de-buurtapp.-'ik-had-nooit-mogen-schrijven-dat-hij-een-vermeend-pedofiel-is'"
+ },
+ {
+  "id": "f38b116943",
+  "datum": "2026-10-10",
+  "tijd": "10:20",
+  "nieuw": true,
+  "titel": "Flevoland - Flevolanders leveren 180 kilo aan vuurwerk in bij actie",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk"
+  ],
+  "samenvatting": "Bij de landelijke vuurwerkinleveractie is in Flevoland 180 kilo vuurwerk ingezameld. Dat blijkt uit cijfers van het ministerie van Justitie en Veiligheid. Landelijk leverde de actie ruim 7650 kilo op. Wie dat wilde, kon afgelopen maand op 35 plekken in het land gratis en anoniem vuurwerk inleveren. Het kopen, bezitten ",
+  "link": "https://www.omroepflevoland.nl/nieuws/526860/flevolanders-leveren-180-kilo-aan-vuurwerk-in-bij-actie"
+ },
+ {
+  "id": "425bfe3e3c",
+  "datum": "2026-10-10",
+  "tijd": "10:06",
+  "nieuw": true,
+  "titel": "Storing bij KPN opgelost, universitaire ziekenhuizen weer bereikbaar",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "netwerk"
+  ],
+  "samenvatting": "Door een storing bij telecomprovider KPN was een deel van de zakelijke klanten urenlang slecht bereikbaar via de vaste telefoon. Dat gold ook voor een groot aantal universitaire ziekenhuizen, zoals in Utrecht, Maastricht, Nijmegen, Rotterdam en Groningen. Rond 14.00 uur meldde KPN dat de storing die vannacht ontstond, ",
+  "link": "https://nos.nl/l/2634396"
+ },
+ {
   "id": "3e4b939782",
   "datum": "2026-10-10",
   "tijd": "08:02",
@@ -17,7 +99,7 @@
    "goud",
    "haven"
   ],
-  "samenvatting": "Bij een spoorbrug bij Rotterdam-Delfshaven is vannacht brand gesticht. Rond 02.30 uur ontstond een storing bij de spoorbrug. Een aannemer die op de storing afging, zag hij de deur van een technische ruimte was opengeslepen. Binnen lagen smeulende kabels. Volgens een woordvoerder van spoorbeheerder ProRail is daar brand",
+  "samenvatting": "Bij een spoorbrug bij Rotterdam-Delfshaven is vannacht brand gesticht. Dat heeft grote gevolgen voor het treinverkeer; dat ligt in ieder geval de rest van de dag stil tussen de stations Rotterdam Centraal en Delft Campus. Rond 02.30 uur ontstond een storing bij de spoorbrug. Een aannemer die op de storing afging, zag d",
   "link": "https://nos.nl/l/2634388"
  },
  {
@@ -31,22 +113,13 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Drugsproductie & labs",
    "Geweld, liquidaties & bedreiging",
-   "Goudhandel & edelmetalen",
-   "Milieucriminaliteit & afval",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "beveiliging",
-   "cocaïne",
    "doodgeschoten",
-   "explosie",
    "geweld",
-   "goud"
+   "wapen"
   ],
   "samenvatting": "Ruim veertig keer wordt er geschoten in de richting van de agenten die op 1 september als eerste ter plaatse zijn bij het huis van Jan G. in Overasselt. Kort daarvoor was een grote groep gewapende mannen door het dorp getrokken en een beveiliger doodgeschoten in zijn auto. Inmiddels zijn 42 verdachten opgepakt voor dez",
   "link": "https://nos.nl/l/2634377"
@@ -86,12 +159,30 @@
   ],
   "tags": [
    "doodgeschoten",
-   "explosie",
    "geweld",
    "wapen"
   ],
   "samenvatting": "Ruim veertig keer wordt er geschoten in de richting van de agenten die op 1 september als eerste ter plaatse zijn bij het huis van Jan G. in Overasselt. Kort daarvoor was een grote groep gewapende mannen door het dorp getrokken en een beveiliger doodgeschoten in zijn auto. Inmiddels zijn 42 verdachten opgepakt voor dez",
   "link": "https://www.gld.nl/nieuws/8534586/vluchten-met-zwaargewonde-agent-een-reconstructie-van-geweld-in-overasselt"
+ },
+ {
+  "id": "e598c4103c",
+  "datum": "2026-10-10",
+  "tijd": "04:01",
+  "nieuw": true,
+  "titel": "Zorgondernemer met strafblad gaat 'gewoon' door met opvang kwetsbare cliënten",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk"
+  ],
+  "samenvatting": "Hij is veroordeeld voor zijn rol in een piramidespel, zat in de cel voor illegale vuurwerkhandel, lag onder vuur bij het ministerie van Justitie en zorgverzekeraar Menzis spreekt ronduit van fraude. Hoe kan het dan dat een 49-jarige zorgondernemer 'gewoon' kan doorgaan met zijn omstreden zorgbureau?",
+  "link": "https://www.oost.nl/nieuws/3682708/zorgondernemer-met-strafblad-gaat-gewoon-door-met-opvang-kwetsbare-clienten"
  },
  {
   "id": "3669762403",
@@ -216,10 +307,32 @@
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbFBZcTBibGVoR2dxU1pDa3NBWXF5QUx3ajRydzRuM01aN2dXTmp0ZFJWNGpGZjdvTUdXNnZIc2sxdzRoZTg0akRpMkZ0VUxuZ1p5bnYxQndfdGJjQUpCVG1SRE5ZQXpoWE83Vjk2cGhkSGpIazA4LVRpbHFtWm9panFTQUd5SXVwcjdKakpmek44emNnQVQzR3dUbldMbGhFbWhCNEtPbEJKVHRyV2RLeHpmclRpWlB0czFSX0gzU1lHZGw4Sy1fYU9mRENYcjctU0E?oc=5"
  },
  {
+  "id": "6a6265d5d3",
+  "datum": "2026-10-09",
+  "tijd": "19:53",
+  "nieuw": true,
+  "titel": "Jerrycans, blauwe vaten en zwaarbewapende agenten: drugslab in Ommen wordt nog steeds leeggehaald",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "vaten",
+   "wapen"
+  ],
+  "samenvatting": "Jerrycans, blauwe vaten en zwaarbewapende agenten: drugslab in Ommen wordt nog steeds leeggehaald AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZEdsSUFzbHNPVDJTSDdHQ3J6TzFSb0doSU5LOFNvVjkzRkxwSWxPSl9nTjNfM1J0b3Z4Rnp6V2VmejF6MmRVSjhIYVVQbHl5NU9STl9oaU9uX2I5MkVUeXNHdkVQWWItUVVQeWNwQ1ZNbUlUX20tMFU5N2g1eDFjRkVfYlBIamc5LWlfc0lOMXZLX0FFNHl5RDBRcHpPSGpxR1NjZWhwc293OUdiMXpCQy1ORkFxTUg4VHdlMmlyTVJEOUo2Sm52eA?oc=5"
+ },
+ {
   "id": "6980fe30a8",
   "datum": "2026-10-09",
   "tijd": "19:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tiener zwaargewond na aanrijding met auto in Oss, bestuurder aangehouden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -238,7 +351,7 @@
   "id": "5f104b1243",
   "datum": "2026-10-09",
   "tijd": "19:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Medewerker gevangenis Almelo in opspraak na feestje met oud-motorclubleider No Surrender",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -258,7 +371,7 @@
   "id": "4de68fa3aa",
   "datum": "2026-10-09",
   "tijd": "18:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Weggedraaide camera’s en Marktplaats-advertentie, wist vrouw echt niets van drugslab op haar erf?",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -279,7 +392,7 @@
   "id": "e3c8f1bcd2",
   "datum": "2026-10-09",
   "tijd": "18:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bijna 500 reizigers zeven uur gestrand in trein bij grens, GoVolta woest op NS",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -295,10 +408,29 @@
   "link": "https://www.oost.nl/nieuws/3705115/bijna-500-reizigers-zeven-uur-gestrand-in-trein-bij-grens-govolta-woest-op-ns"
  },
  {
+  "id": "087922f0ef",
+  "datum": "2026-10-09",
+  "tijd": "18:07",
+  "nieuw": false,
+  "titel": "Honderden reizigers zeven uur gestrand in trein bij grens, GoVolta woest op NS",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "toezichthouder"
+  ],
+  "samenvatting": "Bijna 500 reizigers van een GoVolta-trein naar Berlijn moesten gisteren zeven uur lang wachten. De oorzaak was een gestrande NS-trein bij Bad Bentheim, waardoor de trein van GoVolta niet verder kon rijden. GoVolta is woedend op de NS en vraagt de toezichthouder om in te grijpen.",
+  "link": "https://www.oost.nl/nieuws/3705115/honderden-reizigers-zeven-uur-gestrand-in-trein-bij-grens-govolta-woest-op-ns"
+ },
+ {
   "id": "882a3679e0",
   "datum": "2026-10-09",
   "tijd": "17:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dronten - Dronten eerste gemeente in Flevoland die femicide expliciet opneemt in beleid",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -662,6 +794,25 @@
   "link": "https://www.oost.nl/nieuws/3704976/oude-weernink-stopt-als-toezichthouder-van-rtv-oost"
  },
  {
+  "id": "8e881c4b8e",
+  "datum": "2026-10-09",
+  "tijd": "15:33",
+  "nieuw": false,
+  "titel": "Oude Weernink geridderd na laatste vergadering als toezichthouder RTV Oost Oude",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "toezichthouder"
+  ],
+  "samenvatting": "André Oude Weernink zwaait af als voorzitter van de Raad van Toezicht bij RTV Oost. De 64-jarige Almeloër trad in 2018 toe en werd een jaar later voorzitter. Na zijn laatste vergadering als voorzitter ontving hij een koninklijke onderscheiding.",
+  "link": "https://www.oost.nl/nieuws/3704976/oude-weernink-geridderd-na-laatste-vergadering-als-toezichthouder-rtv-oost-oude"
+ },
+ {
   "id": "61a11c9869",
   "datum": "2026-10-09",
   "tijd": "15:16",
@@ -769,25 +920,6 @@
   ],
   "samenvatting": "De veelbesproken gebedsgenezer Tom de Wal organiseert met zijn religieuze organisatie Frontrunners Ministries allerlei diensten in een voormalig partycentrum in Dussen. Dit doet hij al jaren, maar telkens komt weer dezelfde vraag om de hoek kijken: mag wat hij doet nou wel of niet in het partycentrum met horecabestemmi",
   "link": "https://www.omroepbrabant.nl/nieuws/6030407/gebedsgenezer-tom-de-wal-vecht-ingetrokken-vergunning-aan-in-de-rechtszaal"
- },
- {
-  "id": "a8aa538657",
-  "datum": "2026-10-09",
-  "tijd": "14:05",
-  "nieuw": false,
-  "titel": "Weer iemand vast in stationslift Oisterwijk: Lo komt pas na twee uur vrij",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "stal"
-  ],
-  "samenvatting": "Lo Snelders (62) zat donderdagavond ruim twee uur vast in de lift op het station in Oisterwijk. Hij was na zijn werk bij Brasserie Ome Jan op weg naar huis. Een monteur kreeg de deuren niet open, dus moest de brandweer hem met speciaal gereedschap bevrijden. Het begon als een normale donderdagavond. Na zijn werk fietst",
-  "link": "https://www.omroepbrabant.nl/nieuws/6030403/weer-iemand-vast-in-stationslift-oisterwijk-lo-komt-pas-na-twee-uur-vrij"
  },
  {
   "id": "ffc56e43aa",
@@ -1108,25 +1240,6 @@
   ],
   "samenvatting": "Groningse cultuursector gaat ’gluurbril’ verbieden: ’Ondermijning van het vertrouwen’ DVHN",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORF9qU0tQdE0wQjg2UlpsU0FmV3BVX05iUGFBeUJsbU5MTFRhemdNRmh2MzV1YUc0NGVxUzRlSVZKSjcwZTdDNVJVOEtoaW52ZmJoRXZDdnFlVWF4eVNvVTlPVFdxMS14b0xkWjRETER6c2JtTGRHd2FPenhPbzVubDYtQ2JtUllfV0Y0S25XNXR2NnBkSDF0U0h6d0dTLXNibloyWkI0MkpIZExzSTRqQmJtUm9SU2JYVW5RVk1aSFo?oc=5"
- },
- {
-  "id": "9f07ed0353",
-  "datum": "2026-10-09",
-  "tijd": "08:33",
-  "nieuw": false,
-  "titel": "Lelystad - Bestuurder bekneld na botsing tussen bestelbus en auto in Lelystad",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Bij een botsing tussen een bestelbus en een personenauto in Lelystad is vrijdagochtend één persoon gewond geraakt. De bestuurder van de auto raakte bekneld en moest door de brandweer worden bevrijd. Het ongeluk gebeurde rond 07.00 uur op de kruising van de Gordiaandreef en de Middendreef. De brandweer moest een deur ui",
-  "link": "https://www.omroepflevoland.nl/nieuws/526795/bestuurder-bekneld-na-botsing-tussen-bestelbus-en-auto-in-lelystad"
  },
  {
   "id": "d55742a771",
@@ -37997,6 +38110,27 @@
   ],
   "samenvatting": "Jongen (9) vindt handgranaat bij buitenschoolse opvang in Vught Hart van Nederland",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3hhWUVuMGxtVkhhZnprNDVDMjU4R2FkUlpOWGVxZUpkUFl0ZVpHV0pEbU4tdHg4bk9Qak5kemh1SUdDZmVvQ0dTWHdCQzhTWi1RNlhScXdpWWpRd1NBcDBIM1BLQWVEMGhnRUZTRlJSQ29vQVI2WS04YzJsVG1nQjVFNFBRRTZ1c3NzcElPWUNnb2dGNmVMVHBCSHkwamFVLWdsODM2amVfN0pPLXNV?oc=5"
+ },
+ {
+  "id": "c03147d4b1",
+  "datum": "2026-08-17",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Advies wetsvoorstel ter voorkoming en bestrijding witwassen en financiering terrorisme",
+  "bron": "Raad van State",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "wetsvoorstel",
+   "witwassen"
+  ],
+  "samenvatting": "Advies wetsvoorstel ter voorkoming en bestrijding witwassen en financiering terrorisme Raad van State",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWRWMlFfQ2c2OEdoRjA5U2dHaEVBSUdSOVhpRzBoVzNvaW5ZSFJzREhCS3BlUVFBQy1EdHZHZDJOOFpLbkVsSDNxaWw5QWYzVXppZzloM2g2WHpNdlQ3R0VOMGpXcmhweVNuSlZ3Nm1sNDNrZGFhYjhxdmJlZWsyMUtBSlB5SGJNSUNDUng0VkFUS1hNc2dB?oc=5"
  },
  {
   "id": "8061240eef",
@@ -84845,5 +84979,24 @@
   ],
   "samenvatting": "Kabinet bindt strijd aan met vastgoedfraude Het Parool",
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmRHT0NoamVjWDR0TFU2MnhRTml3RF8zejNPT1RFdGxMazN4NUhGTEVCNjBGTEVELTRtWEw4RUhiOGRIQWs5dmFUTmZ2Qmt3ZXdnUnZwNi15UHg2Ni1mcm83WUIyQjhXd2VJdFRmaWI5dnNBMkN2SUxJQ2J2aERHWVhkNFg0NVk0SFE?oc=5"
+ },
+ {
+  "id": "a19c263834",
+  "datum": "2004-02-26",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Eindelijk zijn de Hells Angels verboden, en dat is niets minder dan een kleine revolutie",
+  "bron": "Vrij Nederland",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "hells angels"
+  ],
+  "samenvatting": "Eindelijk zijn de Hells Angels verboden, en dat is niets minder dan een kleine revolutie Vrij Nederland",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9obE1FdkF1VUt1Z3luYkQ2QkZ0OVJRbnFxdlFXdFpPTjVYSV9hWmZiWldvTHI1NHkyMllEX1hjWUZPYnhtSUdaYi1vSHUyTFFNOFpkbXVyUVU4RmU5bFpneExHU2l6eS11M1U1dnM1VTFmelRW?oc=5"
  }
 ]
