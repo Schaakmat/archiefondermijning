@@ -1,12 +1,12 @@
 {
- "run": "09:02",
+ "run": "15:51",
  "datum": "2026-10-11",
- "nieuw": 15,
- "totaal": 4306,
- "verwijderd": 9,
+ "nieuw": 19,
+ "totaal": 4312,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1052,
-  "geen dossier": 494
+  "niet-nederlands": 1057,
+  "geen dossier": 501
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 260,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -50,8 +50,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 69,
-   "status": "bij",
+   "items": 70,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 246,
-   "status": "bij",
+   "items": 247,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -284,8 +284,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 75,
-   "status": "bij",
+   "items": 76,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -455,8 +455,8 @@
    "url": "news.google.com/rss/search?q=RIEC+OR+LIEC+OR+%22Centrum+voor+Criminalite",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 41,
-   "status": "bij",
+   "items": 42,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 204,
-   "status": "4 nieuw",
+   "items": 202,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 162,
-   "status": "bij",
+   "items": 163,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 109,
-   "status": "5 nieuw",
+   "items": 111,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -572,8 +572,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 47,
-   "status": "bij",
+   "items": 48,
+   "status": "1 nieuw",
    "ok": true
   }
  ]
