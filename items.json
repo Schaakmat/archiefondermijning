@@ -1,5 +1,83 @@
 [
  {
+  "id": "9a397e2fb7",
+  "datum": "2026-10-11",
+  "tijd": "20:07",
+  "nieuw": true,
+  "titel": "Frontale botsing met oldtimer, een inzittende gewond naar ziekenhuis",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Twee automobilisten zijn frontaal op elkaar gebotst op de Millseweg in Beers. Het ongeluk gebeurde in een bocht. Een inzittende is gewond geraakt en met onbekend letsel naar het ziekenhuis gebracht. Een van de auto's is een oldtimer, een Opel Ascona uit 1988. Ook twee andere inzittenden zijn door ambulancepersoneel ond",
+  "link": "https://www.omroepbrabant.nl/nieuws/6030550/frontale-botsing-met-oldtimer-een-inzittende-gewond-naar-ziekenhuis"
+ },
+ {
+  "id": "7557a18a62",
+  "datum": "2026-10-11",
+  "tijd": "18:58",
+  "nieuw": true,
+  "titel": "Mogelijk explosief voor deur in Dongen: buurt schrikt van harde knal",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Voor een huis aan de Stuyvesantstraat in Dongen is zondagavond iets in brand gezet. Buurtbewoners hoorden vlak daarvoor een harde knal en belden de politie. Het lijkt erop dat er een explosief is gebruikt, maar de politie weet nog niet wat er zich heeft afgespeeld. Voor het huis ligt iets ondefinieerbaars dat is afgebr",
+  "link": "https://www.omroepbrabant.nl/nieuws/6030547/mogelijk-explosief-voor-deur-in-dongen-buurt-schrikt-van-harde-knal"
+ },
+ {
+  "id": "97fc1d5c6d",
+  "datum": "2026-10-11",
+  "tijd": "18:22",
+  "nieuw": true,
+  "titel": "Politie krijgt vuurwapenmeldingen: \"Twintig personen met wapens door de wijk\" - AT5",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Politie krijgt vuurwapenmeldingen: \"Twintig personen met wapens door de wijk\" AT5",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTladUNEVHpfbXZXbU9LTDltLVM1V0x1dTFrUU10NXk1NUhBR2JZWnZOcF81Nnl4c1dFYWM5cF8wTElyZklwMUhrVmlUakNxRTlxc0k2cVdOT0loaVMwWXZpQlhiUF9Rald0Qm9YNm1uLTdTZU45SHVXa1RyUEFzcTNhbXFuTFFLd0hpN0xRY3dFRHRPNHVkSjBFSV81M2N6QmQtYXdrYV94NUNkMGpR?oc=5"
+ },
+ {
+  "id": "d4963d586a",
+  "datum": "2026-10-11",
+  "tijd": "17:17",
+  "nieuw": true,
+  "titel": "Agent lekt politiegeheimen, Piet stopt overvaller: dit mag je niet missen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages",
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "boerderij",
+   "kentekens"
+  ],
+  "samenvatting": "Een wijkagent uit Veghel moest zich deze week verantwoorden bij de rechter omdat hij tips zou hebben doorgesluisd aan de onderwereld en Piet uit Deurne wist een overvaller uit huis te jagen. Dit zijn de verhalen van afgelopen week die je gelezen moet hebben. Hoofdagent Furkan U. uit Veghel is opgepakt voor het lekken v",
+  "link": "https://www.omroepbrabant.nl/nieuws/6030543/agent-lekt-politiegeheimen-piet-stopt-overvaller-dit-mag-je-niet-missen"
+ },
+ {
   "id": "aa07ead9c6",
   "datum": "2026-10-11",
   "tijd": "14:25",
@@ -32,14 +110,12 @@
   "regio": "Flevoland",
   "dossiers": [
    "Bibob & bestuurlijke aanpak",
-   "Criminele samenwerkingsverbanden",
    "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
    "bedreiging",
    "burgemeester",
-   "geweld",
-   "organisatie"
+   "geweld"
   ],
   "samenvatting": "\"Intimidatie, bedreiging en discriminatie accepteren we niet in onze stad.\" Dat laat de Almeerse loco-burgemeester Evert Jan Slootweg weten. Hij reageert op bedreigingen die deelnemers aan de Pride Walk vrijdag hebben ervaren. Volgens Slootweg wacht de gemeente verder onderzoek, door de politie, af. Inrijden op de voor",
   "link": "https://www.omroepflevoland.nl/nieuws/527095/gemeente:-'wij-accepteren-pridegeweld-niet-wachten-verder-onderzoek-af'"
@@ -149,25 +225,6 @@
   "link": "https://nos.nl/l/2634523"
  },
  {
-  "id": "bd34d494bd",
-  "datum": "2026-10-11",
-  "tijd": "04:47",
-  "nieuw": true,
-  "titel": "Geparkeerde auto's worden tegen huis en café geramd door gecrashte BMW",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Een gehuurde Duitse BMW M5 is rond halfzes zaterdagnacht gecrasht op de Bredaseweg in Tilburg. De bestuurder, die kwam uit de richting Tilburg Centrum, verloor door nog onbekende oorzaak de macht over het stuur. De BMW raakte twee geparkeerde auto's en een lantaarnpaal. De Duitse huurauto kwam vervolgens meters verdero",
-  "link": "https://www.omroepbrabant.nl/nieuws/6030504/geparkeerde-autos-worden-tegen-huis-en-cafe-geramd-door-gecrashte-bmw"
- },
- {
   "id": "6b9fa38a3f",
   "datum": "2026-10-10",
   "tijd": "20:38",
@@ -185,46 +242,6 @@
   ],
   "samenvatting": "Er rijden tot zeker 23.00 uur geen treinen tussen Rotterdam en Delft. Aanleiding is de brandstichting gisternacht bij een spoorbrug in Rotterdam-Delfshaven. ProRail sluit niet uit dat er sprake is van sabotage. Volgens de spoorbeheerder duurt het tot minstens zondagavond voordat de schade is gerepareerd. Mogelijk rijde",
   "link": "https://nos.nl/l/2634484"
- },
- {
-  "id": "0ebc11d808",
-  "datum": "2026-10-10",
-  "tijd": "18:30",
-  "nieuw": true,
-  "titel": "Dakloze Tessa (33) overdonderd door reacties op haar verhaal: 'Schatten!'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Horeca, winkels & dienstverlening",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "snackbar",
-   "woning"
-  ],
-  "samenvatting": "De 33-jarige Tessa Rompas is sinds negen weken dakloos en slaapt in een park in Eindhoven. Haar verhaal bij Omroep Brabant werd door duizenden mensen gezien en heel wat Brabanders boden hulp aan. Tessa is overdonderd door alle aandacht, maar ook dankbaar. \"Jullie zijn schatten!\" Tessa is stil van alle reacties op haar ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6030474/dakloze-tessa-33-overdonderd-door-reacties-op-haar-verhaal-schatten"
- },
- {
-  "id": "00924f53bc",
-  "datum": "2026-10-10",
-  "tijd": "17:30",
-  "nieuw": true,
-  "titel": "Zeewolde - Twintiger krijgt taakstraf voor misbruik van halfzusje, hoeft niet terug de cel in",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jeugd"
-  ],
-  "samenvatting": "De 21-jarige T.G. uit Veenendaal is vrijdag veroordeeld tot een taakstraf voor het misbruiken van zijn jonge halfzusje in Zeewolde. De rechter legde hem een celstraf van 420 dagen op, waarvan 418 dagen voorwaardelijk. De man had alleen al in voorarrest gezeten. Daarom blijft een taakstraf van 200 uur over. De rechter s",
-  "link": "https://www.omroepflevoland.nl/nieuws/526863/twintiger-krijgt-taakstraf-voor-misbruik-van-halfzusje-hoeft-niet-terug-de-cel-in"
  },
  {
   "id": "671eaa1101",
@@ -249,7 +266,7 @@
   "id": "149cb762dc",
   "datum": "2026-10-10",
   "tijd": "15:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Als man met jerrycans thuis komt slaat de buurt alarm",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -268,7 +285,7 @@
   "id": "32caa623ac",
   "datum": "2026-10-10",
   "tijd": "15:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Als man met jerrycans thuiskomt, slaat de buurt alarm",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -287,7 +304,7 @@
   "id": "f7662bf7bf",
   "datum": "2026-10-10",
   "tijd": "15:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "De acteur uit \"Het kamp voor mensenhandel\" deelde iets dat de harten van het publiek raakte.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -306,7 +323,7 @@
   "id": "eca47511d1",
   "datum": "2026-10-10",
   "tijd": "15:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Op deze oude scheepswerf komen nu woningen in pakhuisachtige gebouwen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -327,7 +344,7 @@
   "id": "dd638b0e83",
   "datum": "2026-10-10",
   "tijd": "15:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "De 'nachtdienst' komt lopend in Ommen aan en vertrekt op twee gestolen e-bikes",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -348,7 +365,7 @@
   "id": "b28076fa82",
   "datum": "2026-10-10",
   "tijd": "15:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zo vluchtte Jan G. weg, via de achterdeur, door het veld en met een taxi",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -367,7 +384,7 @@
   "id": "1a1f7b0f12",
   "datum": "2026-10-10",
   "tijd": "14:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Helmonder (19) opgepakt die zwaar vuurwerk onder z'n bed bewaarde",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -464,25 +481,6 @@
   ],
   "samenvatting": "Door een storing bij telecomprovider KPN was een deel van de zakelijke klanten urenlang slecht bereikbaar via de vaste telefoon. Dat gold ook voor een groot aantal universitaire ziekenhuizen, zoals in Utrecht, Maastricht, Nijmegen, Rotterdam en Groningen. Rond 14.00 uur meldde KPN dat de storing die vannacht ontstond, ",
   "link": "https://nos.nl/l/2634396"
- },
- {
-  "id": "283c1e537a",
-  "datum": "2026-10-10",
-  "tijd": "09:27",
-  "nieuw": false,
-  "titel": "Brugramp in Duitsland zet Nijmegen op scherp: extra controles",
-  "bron": "Omroep Gelderland",
-  "verzameld_via": "Omroep Gelderland",
-  "soort": "Nieuwsbericht",
-  "regio": "Gelderland",
-  "dossiers": [
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "stort"
-  ],
-  "samenvatting": "Nijmegen haalt de technische inspecties van verschillende bruggen naar voren. De gemeente neemt dat besluit naar aanleiding van een artikel van onderzoeksplatform Follow the Money over de veiligheid van bruggen met voorspanstaal. Bij dit type brugconstructie bestaan zorgen over de veiligheid, nadat in Duitsland eerder ",
-  "link": "https://www.gld.nl/nieuws/8534692/brugramp-in-duitsland-zet-nijmegen-op-scherp-extra-controles"
  },
  {
   "id": "3e4b939782",
@@ -77639,6 +77637,27 @@
   ],
   "samenvatting": "Mestfraude: onvermoeibare strijd van justitie tegen sector die niet wil deugen NU",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmxjLUZTZUlFR2FYd2ZIREU2bVpMUHZiVkloYzhZQkJ4ejQyZzdhX3pTRzh0RHplQ1dJZU9CNEtWTjUzM2JPeHA5TVl5cFJYOHJXdURRNUJ4d3F4bm9vSVdhUGRFQjBwc3gwOXp5R256QS1NLWpxS3pfb054LTZaU3lOaURnekhPN1JETUpEVUNsSi16cWxEREhmUlZqS1M4cURzZkFxMW55NWcwSmpkSGdEa1BxcU1NWnE4?oc=5"
+ },
+ {
+  "id": "737bf71a21",
+  "datum": "2021-09-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Van belwinkel tot sportschool: deze bedrijven houdt Zutphen extra in de gaten om criminelen op te sporen",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "belwinkel",
+   "school"
+  ],
+  "samenvatting": "Van belwinkel tot sportschool: deze bedrijven houdt Zutphen extra in de gaten om criminelen op te sporen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaS05YUg2TUs5a2JhZXNnTk1yTnFhN1c2R09uSWpuUkVOa3NpVGJKenhQR1BKU0tmajJtdGx4eU5QdVpWXzhQVXozMDQyUXYzSGJMNkR1WHRjamFobWYyTFdWb2M3NFRvTWI1Njd1WnlGbGoxbnFFMERkM21fZHUzenlqNU9zNmxsbGNONzBtR0w5Yk0ydVEwYzRWdDM0U0VGM3kyT1l2N0RBdF9WdDNmNDEwRWE3U1BGMWJrTEZTRzlfcHhEZ1dRVl9DX1A2bHJjSTE5OFNHTk1SdlpjMWNGclpCYw?oc=5"
  },
  {
   "id": "94802dae94",
