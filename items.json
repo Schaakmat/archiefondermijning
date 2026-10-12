@@ -1,5 +1,24 @@
 [
  {
+  "id": "54bbeda1e3",
+  "datum": "2026-10-12",
+  "tijd": "04:00",
+  "nieuw": true,
+  "titel": "Vier jaar cel voor vernietigende stadsbrand aangevochten: hoger beroep Koert H. van start",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Een vernietigende brand legde in maart vorig jaar een compleet blok woningen en winkels in de binnenstad van Arnhem in de as. De rechtbank veroordeelde Koert H. (59) voor het veroorzaken van de enorme vuurzee tot vier jaar cel. De verdachte en het Openbaar Ministerie (OM) gingen in hoger beroep, dat maandag bij het ger",
+  "link": "https://www.gld.nl/nieuws/8533841/vier-jaar-cel-voor-vernietigende-stadsbrand-aangevochten-hoger-beroep-koert-h-van-start"
+ },
+ {
   "id": "e3a9971ff7",
   "datum": "2026-10-12",
   "tijd": "01:32",
@@ -29,11 +48,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Wapens, explosieven & vuurwerk"
+   "Buitengebied & recreatie"
   ],
   "tags": [
-   "explosie",
    "stal"
   ],
   "samenvatting": "In Scheveningen is gisteravond uren onderzoek gedaan naar een aangespoelde bal waarvan gevreesd werd dat het een oude zeemijn was. Uiteindelijk bleek het een ongevaarlijke stalen bal te zijn. De metalen bal spoelde zondag rond 15.00 uur aan op het strand. Voorbijgangers waarschuwden de politie, die met meerdere eenhede",
@@ -264,7 +281,7 @@
   "id": "7c1957852c",
   "datum": "2026-10-11",
   "tijd": "07:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Erf met drugslab in Ommen lijkt vrijgegeven, maar niemand reageert op de roep: ‘Is hier iemand?’",
   "bron": "de Stentor",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -285,7 +302,7 @@
   "id": "c98631b3e9",
   "datum": "2026-10-11",
   "tijd": "06:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Langere remweg bij nieuw wegdek, waarom is dat eigenlijk?",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -304,7 +321,7 @@
   "id": "64b413b316",
   "datum": "2026-10-11",
   "tijd": "06:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wekdienst 11/10: Coming Out Day • Pro-Palestijnse protesten in Amsterdam",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -542,25 +559,6 @@
   "link": "https://www.omroepflevoland.nl/nieuws/526972/pridewalk-almere-verstoord:-inrijden-op-voorzitter-deelnemers-bespuugd-en-uitgescholden"
  },
  {
-  "id": "11275a5876",
-  "datum": "2026-10-10",
-  "tijd": "11:42",
-  "nieuw": false,
-  "titel": "Almere - Buurman en buurman in de clinch in de buurtapp: 'Ik had nooit mogen schrijven dat hij een vermeend pedofiel is'",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "\"Ik zit hier niet uit luxe. Dit moet stoppen.\" Dat was het eerste wat een Almeerder zei, toen de rechter hem vroeg hoe het met hem ging. Hij had een zaak aangespannen, omdat zijn buurman op 4 augustus in een buurtapp - met daarin zo’n driehonderd buurtbewoners - had geschreven: \"hij is een vermeend pedofiel.\" \"Het is e",
-  "link": "https://www.omroepflevoland.nl/nieuws/526963/buurman-en-buurman-in-de-clinch-in-de-buurtapp:-'ik-had-nooit-mogen-schrijven-dat-hij-een-vermeend-pedofiel-is'"
- },
- {
   "id": "f38b116943",
   "datum": "2026-10-10",
   "tijd": "10:20",
@@ -597,6 +595,25 @@
   ],
   "samenvatting": "Door een storing bij telecomprovider KPN was een deel van de zakelijke klanten urenlang slecht bereikbaar via de vaste telefoon. Dat gold ook voor een groot aantal universitaire ziekenhuizen, zoals in Utrecht, Maastricht, Nijmegen, Rotterdam en Groningen. Rond 14.00 uur meldde KPN dat de storing die vannacht ontstond, ",
   "link": "https://nos.nl/l/2634396"
+ },
+ {
+  "id": "283c1e537a",
+  "datum": "2026-10-10",
+  "tijd": "09:27",
+  "nieuw": false,
+  "titel": "Brugramp in Duitsland zet Nijmegen op scherp: extra controles",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "stort"
+  ],
+  "samenvatting": "Nijmegen haalt de technische inspecties van verschillende bruggen naar voren. De gemeente neemt dat besluit naar aanleiding van een artikel van onderzoeksplatform Follow the Money over de veiligheid van bruggen met voorspanstaal. Bij dit type brugconstructie bestaan zorgen over de veiligheid, nadat in Duitsland eerder ",
+  "link": "https://www.gld.nl/nieuws/8534692/brugramp-in-duitsland-zet-nijmegen-op-scherp-extra-controles"
  },
  {
   "id": "3e4b939782",
@@ -19561,6 +19578,25 @@
   ],
   "samenvatting": "Hij wordt verdacht van de handel in harddrugs. Bij de aanhouding troffen agenten een grote som geld bij hem aan.",
   "link": "https://www.omroepzeeland.nl/nieuws/18783385/politie-pakt-verdachte-22-op-in-vlissingen-na-vondst-harddrugs-en-contant-geld"
+ },
+ {
+  "id": "666443f878",
+  "datum": "2026-09-16",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij in kelder: man (67) uit Maarheeze krijgt taakstraf en moet verdiensten terugbetalen",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij in kelder: man (67) uit Maarheeze krijgt taakstraf en moet verdiensten terugbetalen De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQenNPS3JORUdzby1FUjc0blNMN2ltNmJCbWYxcFAwenAtTjBrUlhXZVlTLWFNSER4MXFyVVljb2swT21aRXAtdVRudnZ2UFRJcXJOMkd0aTU3LWpDUkI5cWJVVW93U1FqS3dJNlhZY1Y5aS14VEkzU2NDbkJESEZLU2Q4cUtCTUIwV3Q3S2tfQ1NSWmNDRkJHN3RDX290eWJWUGp4MV9yTTg5WmtoX0RrUDJaYnVXbDMyVU9iVTNqN3FwRXIxc1hKNkFUeGhkS3lXaG1veE4zSG42WGc?oc=5"
  },
  {
   "id": "09798932f7",
