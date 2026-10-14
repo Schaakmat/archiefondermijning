@@ -1,5 +1,30 @@
 [
  {
+  "id": "c3081dea84",
+  "datum": "2026-10-14",
+  "tijd": "03:09",
+  "nieuw": true,
+  "titel": "Cel en tbs voor serie misdrijven die eindigt met verkrachting 87-jarige vrouw",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "geweld",
+   "grond",
+   "stal",
+   "woning"
+  ],
+  "samenvatting": "Een man uit Ede moet acht jaar de gevangenis in voor een reeks misdrijven, waaronder poging tot doodslag en verkrachting van een 87-jarige vrouw. De rechter heeft de man van 27 ook tbs opgelegd. Het Openbaar Ministerie had dertien jaar en tbs geëist. De misdrijven speelden zich af tussen augustus en oktober vorig jaar.",
+  "link": "https://nos.nl/l/2634883"
+ },
+ {
   "id": "efb4e2aedc",
   "datum": "2026-10-13",
   "tijd": "21:17",
@@ -264,7 +289,7 @@
   "id": "a16bbbfae7",
   "datum": "2026-10-13",
   "tijd": "14:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester sluit twee woningen om illegale prostitutie, mogelijk uitbuiting",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -288,7 +313,7 @@
   "id": "68abd3e2fc",
   "datum": "2026-10-13",
   "tijd": "14:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man gaat niet voor sextortion, wel voor witwassen de cel in: ‘Enorm leed toegebracht’",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -304,10 +329,29 @@
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQVo4X3ZYZFBnSXo3MzZMOTdMLTJnbkpzNnBiLXdyNnpaU1JLcURVRTNaUlR5RDVJbzYzcmRqUE9kTjgtVTNsLXQwNGtFMW13ZFlfdzU4VENEcEk2UGxMYWxRdkI1VVpFREREamN0R280dnM4Q0VNVkxKemNZb2QtaFlkQmNxS0hiUUluNTVjXy1UMXdFeEYzYVFUYkF6aXRQbTBnY3cwQzNGRy1YVmExRjZvMV9BOTd3aW96WnlVTWZrb3pS?oc=5"
  },
  {
+  "id": "955bfe0119",
+  "datum": "2026-10-13",
+  "tijd": "14:52",
+  "nieuw": false,
+  "titel": "Man gaat niet voor sextortion, wel voor witwassen de cel in: ‘Enorm leed toegebracht’",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Man gaat niet voor sextortion, wel voor witwassen de cel in: ‘Enorm leed toegebracht’ AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWE53bktyUko2WW8tRlloWS02eFhzTkZxUjdsUnlhdEd6Sm9XRXZkRHVGYXZ0ZkFXM3RSaVZYaTVhQUM0akJaa3h6QkNxcjByWEdDMzRONWlYRl80a1J6aGRsNk9NUklZNHZHUzdkUHI2Wk1LM285Z0dnOVprMGdYUWNuTnByVGpfMS0wNGV6VTU2UHZRNTFTM2R1X2t0YUVmdEFrX2dzTEItM3lvM0c0VUJzWFZ0ZFE?oc=5"
+ },
+ {
   "id": "5b1e48a263",
   "datum": "2026-10-13",
   "tijd": "14:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Openbaar Ministerie verdenkt Luca T. van mensenhandel en mishandeling",
   "bron": "Shownieuws",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -997,27 +1041,6 @@
   ],
   "samenvatting": "Een 40-jarige man uit Diepenveen die honderden kilo's illegaal vuurwerk verhandelde, hoeft niet opnieuw de cel in. Hij is veroordeeld tot 141 dagen gevangenisstraf, precies de tijd die hij al in voorarrest heeft gezeten. De straf volgt na een deal met het Openbaar Ministerie.",
   "link": "https://www.oost.nl/nieuws/3706039/deal-met-justitie-voorkomt-terugkeer-naar-cel-voor-vuurwerkhandelaar-uit-diepenveen"
- },
- {
-  "id": "5b35718504",
-  "datum": "2026-10-12",
-  "tijd": "18:59",
-  "nieuw": false,
-  "titel": "Spoormedewerkers vertellen over suïcide: '1,5 uur op haar in staan praten'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "leider",
-   "school"
-  ],
-  "samenvatting": "Ga het gesprek aan: dat is de boodschap van een nieuwe campagne voor suïcidepreventie op het spoor. Jaarlijks komen in Nederland zo'n 200 mensen om door een aanrijding met een trein. Nog veel vaker zijn er pogingen tot zelfdoding. Machinisten, conducteurs en medewerkers van ProRail treden nu naar buiten met hun verhale",
-  "link": "https://nos.nl/l/2634723"
  },
  {
   "id": "ef0c8f1005",
@@ -2630,6 +2653,25 @@
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWdkdy1fVE0zUUZFN19qZm9qOTROM0l6UVlNMEhiM01TOGpwZ1F1MzdUdmQ0NVZyNUh1cGxwb1hYbzBXV1JraTRQeExxcWRTNzNCQ19mY3lCOEtyaExxX2RqaFdBa1ZaZ1ROcEtKOXc0bWhQNGZvcW0xWHBwZnAtbl9USGg5S2VKYTZyWG1wOUY0bThpNHBDb3BCM2ZzaE14QVl6OEd4ZGFCMzRGc0tERWU2S0VKaWdMSW1SQ3k5OWRsSWc2OGpBaw?oc=5"
  },
  {
+  "id": "2ca46025c5",
+  "datum": "2026-10-09",
+  "tijd": "16:07",
+  "nieuw": false,
+  "titel": "‘Amsterdammers’ veroordeeld voor grote wietplantage bij pannenkoekenrestaurant Buurse",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "‘Amsterdammers’ veroordeeld voor grote wietplantage bij pannenkoekenrestaurant Buurse AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWVVCWXkzcC1XeS1yNWY0RUZhWWVfaDV4cHJROVJEZ0RJdUNzbGdhTzFZdlBDdldESmlCR2hVVG1TUjA3eE14bjNmakNISWdWUjIzaDZZVE5Yb2FsdGJnU1FVcHZ3Zlg0NHliZUhKQmRhcGtBekRSY3BLWndRLUtrdUY2d056MW9WNVlvTFRzb1JCSU44blRiUGN0a2EzZ2xWR2RnMkZWQldram1Gbi1xcFd0d3NfRjJXeVliMVhOZHk?oc=5"
+ },
+ {
   "id": "067f366acd",
   "datum": "2026-10-09",
   "tijd": "16:03",
@@ -3682,6 +3724,25 @@
   ],
   "samenvatting": "Haagse Week tegen Mensenhandel: naar een stad zonder uitbuiting Rijswijks Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGsyNGlVWjNjSV9TZVZ5bEIydUxPcktndDgtUjkyZ3JBMmZaSENoamxiaVVDQUhDVnduc1NUeUZ1QTExUE81LXdtV09DRVZKV0dlcEROaGlPeWItelBYV0M3dFBnbmRaME5yTnlrZ1pxRDEyNXJ2aENSQ3VnS0tnNnR6eWM5dTY5bUNlOXNwTHowdWYyWnlIQUZPNTFTY3FOX29rWjhIRjhlU0JoUTdxTDdIcw?oc=5"
+ },
+ {
+  "id": "4e0f29d2f0",
+  "datum": "2026-10-08",
+  "tijd": "11:47",
+  "nieuw": false,
+  "titel": "Haagse Week tegen Mensenhandel: naar een stad zonder uitbuiting",
+  "bron": "Rijswijks Dagblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Haagse Week tegen Mensenhandel: naar een stad zonder uitbuiting Rijswijks Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkhfaTBDYlVCMlFKaVNHRjNZcG5ubGVpUFVZLXYzcXpUU2h2WGg5b0R0a2h5VmtnenBWZmFXVHZfTVNFLWNTWjQxT1pwTnZnamR6Rkt1c1N0ci1UbmF5YVpLRjJJX1VPS2o3d0VNMGhURUpmZWplODVqWUVXaERyN09HUGxWYllUYjBfWmJtZDlDTTExdXVWX3NRTmFSdG1PQ2RVTEdmV21rRDB6N2VDYlpiYw?oc=5"
  },
  {
   "id": "321a79cc8b",
@@ -39727,6 +39788,25 @@
   ],
   "samenvatting": "Explosie IJsselmuiden: alles wijst op drugslab, tweede ‘kale man met brandwonden’ opgepakt AD.nl",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2RRakxuWWJzMzRGRHZDMmprSWFWY3VpX3h5ZjluOWlPekhyTWJPRzZxbU1OR2lVM1hIOGhQU2lvTWJaRjFfbzd1T1ZjUV9zbEkxaVFYNmh4VWo0dFljWVJSTlJZNEhseF9MN1Q3VmFlUVZKd2k5cllISzR0eV82N2NKS0o4Y01CRmZMN0RKQkZIenJSZ2xHOC1Vdm1vbHAyMlBZQUxHS21jMDJOc1diQXJvVWh2d0RVR281UHVB?oc=5"
+ },
+ {
+  "id": "6da1869f75",
+  "datum": "2026-08-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Slachtoffer van mensenhandel werd in Elburg gedwongen tot seks met twaalf mannen",
+  "bron": "VRMG",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Slachtoffer van mensenhandel werd in Elburg gedwongen tot seks met twaalf mannen VRMG",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON3ItWXVPMTM4dG1ZNThqSjk4a1lnRWMwLU9fcTZGNjhrNlZiY2VPVVpqVEZ4UjBTMkxmWEtYa0RiTXFRXzZVREJOYlM3dDYtN0FCSVlnbV82elRhZ1pTdmNQZXVWVVJyMWZqLU5uQWJlVEgxZHdFcGJrT1lOS1dlUHJMbFEtZEtKNnVuTHdTNDBTT05D?oc=5"
  },
  {
   "id": "aaa9f8afb1",
