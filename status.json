@@ -1,12 +1,12 @@
 {
- "run": "05:06",
+ "run": "10:22",
  "datum": "2026-10-14",
- "nieuw": 14,
- "totaal": 4407,
+ "nieuw": 20,
+ "totaal": 4417,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 1069,
-  "geen dossier": 499
+  "niet-nederlands": 1077,
+  "geen dossier": 507
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 265,
-   "status": "bij",
+   "items": 266,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 185,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 266,
-   "status": "1 nieuw",
+   "items": 269,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 257,
-   "status": "2 nieuw",
+   "items": 258,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -284,8 +284,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 76,
-   "status": "bij",
+   "items": 77,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -338,8 +338,8 @@
    "url": "news.google.com/rss/search?q=motorclub%20verboden%20OR%20%22criminele%20",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 33,
-   "status": "bij",
+   "items": 34,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 78,
-   "status": "bij",
+   "items": 79,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 220,
-   "status": "5 nieuw",
+   "items": 219,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 90,
-   "status": "bij",
+   "items": 93,
+   "status": "3 nieuw",
    "ok": true
   },
   {
