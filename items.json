@@ -1,5 +1,28 @@
 [
  {
+  "id": "42f85e479b",
+  "datum": "2026-10-14",
+  "tijd": "23:51",
+  "nieuw": true,
+  "titel": "Onrustig in Amsterdamse wijk Floradorp, drie aanhoudingen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Cocaine, haven & logistiek",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "container",
+   "vuurwerk"
+  ],
+  "samenvatting": "In de Amsterdamse wijk Floradorp is het vanavond onrustig geweest. De mobiele eenheid werd ingezet nadat bewoners brand hadden gesticht en zich tegen hulpverleners hadden gekeerd. Drie mensen zijn aangehouden voor vernielingen, onder wie twee minderjarigen. De onrust zou het gevolg zijn van een brief van burgemeester H",
+  "link": "https://nos.nl/l/2635015"
+ },
+ {
   "id": "4511ff120f",
   "datum": "2026-10-14",
   "tijd": "19:19",
@@ -35,16 +58,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "cocaïne",
-   "school",
-   "stort",
-   "woning"
+   "cocaïne"
   ],
   "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Stakende buschauffeurs zorgen voor uitval en vertraging • Politie vindt 10 kilo cocaïne in portieren van auto in Emmeloord • Flevoland heeft nog geen antwoo",
   "link": "https://www.omroepflevoland.nl/nieuws/527466/nieuwsoverzicht-1410-or-'succesvolle-busstaking'-*-cocainevondst-in-auto-emmeloord"
@@ -88,6 +105,25 @@
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMTdILUpUb3JpYTY0OGhYM012eDlUaWZFc1BUeTc2bnRmV1c4alpXNk04YkZMTHpwOGJEcDVPNUh4N0xuRllTQWl6YURjcENWLVlkUHZmZGtWeXpPZmNIbTlyeFRPTVFFb19aOUhMclE3MEswTE9FRWNlZkdEOFFSLVVETG9iR3JwUHdsZDdFQXN2VGRLb3NCZk5R?oc=5"
  },
  {
+  "id": "a1367a992c",
+  "datum": "2026-10-14",
+  "tijd": "17:47",
+  "nieuw": true,
+  "titel": "Man (18) aangehouden voor diefstal, buurtbewoners halen verhaal bij ‘verkeerde verdachte’",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "De politie heeft een man aangehouden voor een fatbike-diefstal in ‘s-Gravendeel. De diefstal heeft de afgelopen tijd voor behoorlijk wat onrust gezorgd. Een groep inwoners wilde na de verdwijning van de fatbike verhaal gaan halen bij de verkeerde personen.",
+  "link": "https://www.rijnmond.nl/nieuws/2267814/man-18-aangehouden-voor-diefstal-buurtbewoners-halen-verhaal-bij-verkeerde-verdachte"
+ },
+ {
   "id": "084c85c664",
   "datum": "2026-10-14",
   "tijd": "17:44",
@@ -105,6 +141,25 @@
   ],
   "samenvatting": "De Raad van State heeft de gemeente Oude IJsselstreek in een tussenuitspraak grotendeels in het gelijkgesteld in een zaak over de bouw van woningen in Varsseveld. Een aantal inwoners was naar de hoogste algemene bestuursrechter gestapt omdat ze bezwaren hadden bij de plannen.",
   "link": "https://www.gld.nl/nieuws/8536206/bouwplannen-varsseveld-grotendeels-goedgekeurd"
+ },
+ {
+  "id": "a4dd75bf85",
+  "datum": "2026-10-14",
+  "tijd": "17:32",
+  "nieuw": true,
+  "titel": "‘Je hebt de liefste vrouw van ons afgenomen’: zoon spreekt vader toe na moord op moeder",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "“Je hebt de liefste en meest behulpzame vrouw die wij kenden van ons afgenomen.” Dat zei één van de zoons van Danny C. uit Nijmegen tegen hem in de rechtbank in Arnhem. Zijn vader moet van het Openbaar Ministerie vijftien jaar de gevangenis in voor het doden van zijn moeder.",
+  "link": "https://www.gld.nl/nieuws/8535768/je-hebt-de-liefste-vrouw-van-ons-afgenomen-zoon-spreekt-vader-toe-na-moord-op-moeder"
  },
  {
   "id": "ac0aa65406",
@@ -213,7 +268,7 @@
   "id": "3c9aaaa51a",
   "datum": "2026-10-14",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Opvallende link tussen Duitse wurgmoord en Almelose brandweerman met kinderporno",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -232,7 +287,7 @@
   "id": "4c66fb3ab1",
   "datum": "2026-10-14",
   "tijd": "15:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vete drillrapgroepen BVL en OSD oorzaak van meerdere explosies in Amsterdam Nieuw-West, ook grof geweld en gijzeling - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -251,7 +306,7 @@
   "id": "47f4055af8",
   "datum": "2026-10-14",
   "tijd": "15:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Acteurs in ‘verpakkingen’ vragen op De Loper aandacht voor mensenhandel - Twee",
   "bron": "Het nieuws uit Vlaardingen en Schiedam",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -270,7 +325,7 @@
   "id": "4a9a8af82a",
   "datum": "2026-10-14",
   "tijd": "15:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - 'Ik lag naar adem te happen, jij verdween', gewonde motorrijder oog in oog met Emmeloorder (35) die hem aanreed",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -291,7 +346,7 @@
   "id": "0c658afd5f",
   "datum": "2026-10-14",
   "tijd": "15:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee Utrechtse restaurants op last van burgemeester gesloten na onderzoek naar arbeidsuitbuiting",
   "bron": "De Utrechtse Internet Courant",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -312,7 +367,7 @@
   "id": "ad3368647c",
   "datum": "2026-10-14",
   "tijd": "15:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Agenten doen opvallende ontdekking in Lelystadse woning bij aanhouding voor heling",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -331,7 +386,7 @@
   "id": "3c72eea8e3",
   "datum": "2026-10-14",
   "tijd": "15:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mannen (45 en 49) uit Breda aangehouden voor mensensmokkel en witwassen",
   "bron": "Headliner.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -352,7 +407,7 @@
   "id": "fe16638e5a",
   "datum": "2026-10-14",
   "tijd": "15:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nog drie aanhoudingen voor dodelijk schietincident Vierdaagsefeesten Nijmegen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -371,7 +426,7 @@
   "id": "bab94fb9ce",
   "datum": "2026-10-14",
   "tijd": "14:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie houdt vijf verdachten aan in Breda: mogelijke beroving en vuurwapen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -390,7 +445,7 @@
   "id": "6742fc3f7b",
   "datum": "2026-10-14",
   "tijd": "14:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mannen (45 en 49) uit Breda aangehouden voor mensensmokkel en witwassen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -411,7 +466,7 @@
   "id": "85ab8b6afd",
   "datum": "2026-10-14",
   "tijd": "14:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - Tien kilo cocaïne gevonden in portieren van auto in Emmeloord",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -430,7 +485,7 @@
   "id": "5f351b0af6",
   "datum": "2026-10-14",
   "tijd": "14:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gemeente Zwijndrecht roept inwoners op alert te zijn op mensenhandel",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -449,7 +504,7 @@
   "id": "4422aeff60",
   "datum": "2026-10-14",
   "tijd": "14:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jarenlange celstraffen voor verhandelen van honderden kilo's coke in Deventer",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -470,7 +525,7 @@
   "id": "22f6dd85dd",
   "datum": "2026-10-14",
   "tijd": "14:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Koninklijke Marechaussee houdt drie mannen aan voor mensensmokkel en ondergronds bankieren",
   "bron": "www.marechaussee.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -493,7 +548,7 @@
   "id": "3cc3ef2485",
   "datum": "2026-10-14",
   "tijd": "13:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inbrekers beitelen gat in muur van juwelierszaak en maken voor 175 duizend euro aan sieraden buit",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -515,7 +570,7 @@
   "id": "876d4320b2",
   "datum": "2026-10-14",
   "tijd": "13:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie lost waarschuwingsschot, maar man heeft niets met beroving te maken",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -534,7 +589,7 @@
   "id": "d14d44ecf2",
   "datum": "2026-10-14",
   "tijd": "13:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Experts informeren inwoners in Vlaardingen over signalen van mensenhandel",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
