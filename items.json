@@ -10,14 +10,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Cocaine, haven & logistiek",
-   "Wapens, explosieven & vuurwerk"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "burgemeester",
-   "container",
-   "vuurwerk"
+   "burgemeester"
   ],
   "samenvatting": "In de Amsterdamse wijk Floradorp is het vanavond onrustig geweest. De mobiele eenheid werd ingezet nadat bewoners brand hadden gesticht en zich tegen hulpverleners hadden gekeerd. Drie mensen zijn aangehouden voor vernielingen, onder wie twee minderjarigen. De onrust zou het gevolg zijn van een brief van burgemeester H",
   "link": "https://nos.nl/l/2635015"
@@ -207,7 +203,7 @@
   "id": "5169774bbe",
   "datum": "2026-10-14",
   "tijd": "16:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Automobiliste gewond na botsing met vrachtwagen op N270 bij Deurne",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -226,7 +222,7 @@
   "id": "c8745296b3",
   "datum": "2026-10-14",
   "tijd": "16:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Staatssecretaris: Renaissanceschool Almere krijgt terecht geld van het Rijk",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -249,7 +245,7 @@
   "id": "c748a3c3b7",
   "datum": "2026-10-14",
   "tijd": "16:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie ruimt drugslab Heythuysen en zoekt naar getuigen",
   "bron": "L1 Nieuws",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
