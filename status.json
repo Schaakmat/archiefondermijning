@@ -1,12 +1,12 @@
 {
- "run": "06:00",
+ "run": "11:35",
  "datum": "2026-10-16",
- "nieuw": 21,
- "totaal": 4516,
- "verwijderd": 13,
+ "nieuw": 31,
+ "totaal": 4533,
+ "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1044,
-  "geen dossier": 491
+  "niet-nederlands": 1080,
+  "geen dossier": 476
  },
  "bronnen": [
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 278,
-   "status": "4 nieuw",
+   "items": 284,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -419,8 +419,8 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 79,
-   "status": "bij",
+   "items": 80,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -428,8 +428,8 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 142,
-   "status": "bij",
+   "items": 143,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 125,
-   "status": "9 nieuw",
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 223,
-   "status": "3 nieuw",
+   "items": 227,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 261,
-   "status": "1 nieuw",
+   "items": 263,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 282,
-   "status": "bij",
+   "items": 283,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 176,
-   "status": "bij",
+   "items": 177,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 110,
-   "status": "bij",
+   "items": 111,
+   "status": "1 nieuw",
    "ok": true
   },
   {
