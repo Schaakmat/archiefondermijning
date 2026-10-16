@@ -1,12 +1,12 @@
 {
- "run": "11:35",
+ "run": "16:48",
  "datum": "2026-10-16",
- "nieuw": 31,
- "totaal": 4533,
+ "nieuw": 29,
+ "totaal": 4548,
  "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 1080,
-  "geen dossier": 476
+  "niet-nederlands": 1066,
+  "geen dossier": 479
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 271,
-   "status": "bij",
+   "items": 272,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 279,
-   "status": "bij",
+   "items": 280,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 284,
-   "status": "6 nieuw",
+   "items": 286,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -284,8 +284,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 78,
-   "status": "bij",
+   "items": 80,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -374,8 +374,8 @@
    "url": "news.google.com/rss/search?q=%22weerbare%20ondernemers%22%20OR%20bedrijv",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 24,
-   "status": "bij",
+   "items": 25,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -420,7 +420,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 80,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -429,7 +429,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 143,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 125,
-   "status": "7 nieuw",
+   "items": 124,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 227,
-   "status": "7 nieuw",
+   "items": 228,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 263,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 283,
-   "status": "1 nieuw",
+   "items": 285,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -527,8 +527,8 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 47,
-   "status": "bij",
+   "items": 48,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -536,7 +536,7 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 177,
+   "items": 178,
    "status": "1 nieuw",
    "ok": true
   },
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 120,
-   "status": "4 nieuw",
+   "items": 122,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 95,
-   "status": "bij",
+   "items": 96,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 111,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -572,8 +572,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 48,
-   "status": "bij",
+   "items": 49,
+   "status": "1 nieuw",
    "ok": true
   }
  ]
