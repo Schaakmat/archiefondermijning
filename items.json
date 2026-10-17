@@ -1,5 +1,24 @@
 [
  {
+  "id": "02c6565e69",
+  "datum": "2026-10-17",
+  "tijd": "00:37",
+  "nieuw": true,
+  "titel": "Overleden vrouw gevonden in Beek en Donk, politie gaat uit van misdrijf",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "In een huis aan de Els in Beek en Donk vond de politie vrijdagnacht rond twee uur een overleden vrouw. De politie houdt sterk vermoeden met een misdrijf en heeft iemand aangehouden. Hoe de vrouw precies om het leven is gekomen en wie de aangehouden persoon is, is nog niet bekend. \"Over de exacte toedracht is nog veel o",
+  "link": "https://www.omroepbrabant.nl/nieuws/6031364/overleden-vrouw-gevonden-in-beek-en-donk-politie-gaat-uit-van-misdrijf"
+ },
+ {
   "id": "74485717c9",
   "datum": "2026-10-16",
   "tijd": "21:22",
@@ -271,7 +290,7 @@
   "id": "32b2ab8275",
   "datum": "2026-10-16",
   "tijd": "14:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Man ziekenhuis ingeslagen met ijzeren pijp, twee verdachten opgepakt",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -290,7 +309,7 @@
   "id": "cb4416af30",
   "datum": "2026-10-16",
   "tijd": "13:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Defensie: 'Maximaal aantal hectares nodig voor F-35's Lelystad Airport'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -317,7 +336,7 @@
   "id": "a8cc3ecca0",
   "datum": "2026-10-16",
   "tijd": "13:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jan G. blijft langer vastzitten in grote cocaïnezaak",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -37451,6 +37470,25 @@
   ],
   "samenvatting": "Politie praat over milieucriminaliteit op de markt in Egmond rodi.nl",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM0kzdGhDVHNFWGZaVkF0VWpJWmNmRVFBNVhvSkp1dXFha1Z1ZjhlWlN1WF9xckNtYWNPODJxZ0o5c1pwU0pCR3JHZF9hX0k1ckNUbnNndEZnMlItRk1qTzVZc0cwQ2RsYnlMY2VnTkk3YkEtVTh3SzVaV0VRVmZNZGtmenRTLUtrZ3p3QThUdWQzMGVlVzVJUFM0UW5MWXpVVVl3?oc=5"
+ },
+ {
+  "id": "e0fe813471",
+  "datum": "2026-08-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Blogreeks Wet Bibob – Deel 4: De inzet van de Wet Bibob bij subsidies",
+  "bron": "sociaalweb.nl",
+  "verzameld_via": "Nieuws — Bibob & bestuurlijke aanpak",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "bibob"
+  ],
+  "samenvatting": "Blogreeks Wet Bibob – Deel 4: De inzet van de Wet Bibob bij subsidies sociaalweb.nl",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2pBbHZMd2RwUnhQVElRUnI3QktIei1NbVhfenQ0bEZBYUlHOVB2d1JBWDV3Y3ZOSzJuUktBYXJUZkEtX2xISVRJbDNIZ0hGZzNTTW1YcnFOcGRMb194MGlsdUdLNEY5V2RnUzhtUXNoWVM0ZGhHTm1yaXB1M0dNd05JaVM3RG9NN3VFa3ZYcmd2T2F3NUpDZ1BOMUM?oc=5"
  },
  {
   "id": "dedcefe2d4",

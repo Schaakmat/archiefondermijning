@@ -1,12 +1,12 @@
 {
- "run": "23:03",
- "datum": "2026-10-16",
- "nieuw": 17,
- "totaal": 4556,
+ "run": "01:29",
+ "datum": "2026-10-17",
+ "nieuw": 15,
+ "totaal": 4558,
  "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1070,
-  "geen dossier": 477
+  "niet-nederlands": 1068,
+  "geen dossier": 473
  },
  "bronnen": [
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 283,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -158,8 +158,8 @@
    "url": "news.google.com/rss/search?q=Bibob%20OR%20%22bestuurlijke%20aanpak%20ond",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 54,
-   "status": "bij",
+   "items": 55,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 176,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 287,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 227,
-   "status": "5 nieuw",
+   "items": 228,
+   "status": "6 nieuw",
    "ok": true
   },
   {
