@@ -1,11 +1,11 @@
 {
- "run": "15:40",
+ "run": "18:40",
  "datum": "2026-10-17",
- "nieuw": 22,
- "totaal": 4578,
+ "nieuw": 14,
+ "totaal": 4579,
  "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1072,
+  "niet-nederlands": 1079,
   "geen dossier": 474
  },
  "bronnen": [
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 276,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 188,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 177,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 288,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -303,7 +303,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 28,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 125,
-   "status": "3 nieuw",
+   "items": 126,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 231,
-   "status": "8 nieuw",
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 180,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

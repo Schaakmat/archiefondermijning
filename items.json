@@ -1,5 +1,47 @@
 [
  {
+  "id": "79c8b9b991",
+  "datum": "2026-10-17",
+  "tijd": "19:07",
+  "nieuw": true,
+  "titel": "Politie houdt verdachte aan voor explosie bij kapperszaak in Vlaardingen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Horeca, winkels & dienstverlening",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "haven",
+   "kapper"
+  ],
+  "samenvatting": "De politie heeft een 27-jarige man uit Vlaardingen aangehouden op verdenking van betrokkenheid bij een explosie bij een kapperszaak. Ook deze week was het onrustig in Vlaardingen, maar de aangehouden man wordt verdacht van betrokkenheid bij een aanslag van ruim twee maanden geleden. Op 6 augustus raakten de ruiten van ",
+  "link": "https://nos.nl/l/2635384"
+ },
+ {
+  "id": "2fa42ff404",
+  "datum": "2026-10-17",
+  "tijd": "17:41",
+  "nieuw": true,
+  "titel": "17/10 in Nieuwsuur: Protesten in Frankrijk • CBL over incident bij Albert Heijn • Poolse buitenlandminister Sikorski",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "supermarkt"
+  ],
+  "samenvatting": "Protesten in Frankrijk In verschillende Franse steden zijn protesten tegen de stijgende kosten van het levensonderhoud op rellen uitgelopen. De politie in Parijs heeft traangas en een waterkanon ingezet. Na weken van scholierenprotesten zijn vandaag verschillende groepen de straat op gegaan in Frankrijk, zoals de geleh",
+  "link": "https://nos.nl/l/2635378"
+ },
+ {
   "id": "68dd9eef24",
   "datum": "2026-10-17",
   "tijd": "15:30",
@@ -10,12 +52,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Crypto & digitaal geld",
-   "Milieucriminaliteit & afval"
+   "Crypto & digitaal geld"
   ],
   "tags": [
-   "crypto",
-   "stort"
+   "crypto"
   ],
   "samenvatting": "Heel onschuldig begon het contact tussen Maartje Olislagers uit Berkel-Enschot en de Amerikaanse cryptohandelaar Mark in 2019. Maartje was net gescheiden en terughoudend in haar contact met mannen. Toch viel ze voor de mooie woorden en het geduld van Mark. Binnen een jaar was ze een droom en 25.000 euro lichter. Door h",
   "link": "https://www.omroepbrabant.nl/nieuws/6031382/charmante-mark-bleek-slinkse-datingfraudeur-maartje-verloor-25000-euro"
@@ -127,11 +167,11 @@
   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcWczc1pHTVlUSVZ5NFU5TEtvUS1GY0JUdWkzMU82eHpocC1GTkNIX2VPNENkRHl2U1dUN0h0TDlId3phejVXTXFNbUs3TjlIVndidlpmNXBNamE0ZVd6Ui12OURMdXo1ckJsOTFKSjVVLTQtdWhWRWlnWndrU19sVjBqTDJMbGhVYXQ1dnNKYVpnY01ycXdITTBKd1lpZnZiLXZLTHUxX2l0cUxwTndWTTNMT1AyNEZ2Yk9uanlkSHB5ZGJYVF9QUkFzZHVpX0gxSmJsUlBIVzlFU0VUZ2RrYy1aLWVGYUxsUVR2bHpCaHIyQWpidUhERmkwNFF2eW1laGdicER3?oc=5"
  },
  {
-  "id": "9b044a4a26",
+  "id": "93cf9929e3",
   "datum": "2026-10-17",
   "tijd": "10:24",
   "nieuw": true,
-  "titel": "Buren zagen vondst dode vrouw niet aankomen: 'Hoorden ze vaak schreeuwen'",
+  "titel": "Buren geschokt door gevonden dode vrouw: 'Hoorden ze vaak schreeuwen'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -143,7 +183,7 @@
    "vrachtwagen"
   ],
   "samenvatting": "Buurtbewoners zijn zaterdagochtend onder de indruk van de vondst van een dode vrouw (50) in een huis aan De Els in Beek en Donk. De 56-jarige bewoner van het huis is aangehouden. Buurman Rini hoorde de twee vaker ruziemaken, maar had nooit gedacht dat het zo mis zou kunnen gaan. \"Je verwacht het niet in zo'n dorp als B",
-  "link": "https://www.omroepbrabant.nl/nieuws/6031375/buren-zagen-vondst-dode-vrouw-niet-aankomen-hoorden-ze-vaak-schreeuwen"
+  "link": "https://www.omroepbrabant.nl/nieuws/6031375/buren-geschokt-door-gevonden-dode-vrouw-hoorden-ze-vaak-schreeuwen"
  },
  {
   "id": "0e492f818c",
@@ -250,7 +290,7 @@
   "id": "e4f30115b4",
   "datum": "2026-10-17",
   "tijd": "07:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Purmerender verdacht van witwassen vier ton. Ook Haarlemse vrouw aangehouden door marechaussee",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -269,7 +309,7 @@
   "id": "c8174af236",
   "datum": "2026-10-17",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw die jongeren liet uitbuiten in Franse gastgezinnen nu aan de slag in Nederlandse zorg",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -290,7 +330,7 @@
   "id": "817c958dd1",
   "datum": "2026-10-17",
   "tijd": "04:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Deurne dwarsboomt al ruim een jaar onderzoek naar illegale paardenrijhal",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -315,7 +355,7 @@
   "id": "08b4af3451",
   "datum": "2026-10-17",
   "tijd": "04:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dode vrouw in woning Beek en Donk, politie gaat uit van misdrijf",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -334,7 +374,7 @@
   "id": "d303f30fd7",
   "datum": "2026-10-17",
   "tijd": "04:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Omstreden navelstrengbloedbehandeling beboet door IGJ: blijft het daarbij?",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -355,7 +395,7 @@
   "id": "993a9b1000",
   "datum": "2026-10-17",
   "tijd": "03:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto op de kop • aanhouding na vondst stroomstootwapen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -374,7 +414,7 @@
   "id": "8d511c78ea",
   "datum": "2026-10-17",
   "tijd": "03:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw veroorzaakt ophef bij azc en valt van dak, getuigen vangen haar op",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -393,7 +433,7 @@
   "id": "02c6565e69",
   "datum": "2026-10-17",
   "tijd": "00:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overleden vrouw gevonden in Beek en Donk, politie gaat uit van misdrijf",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -412,7 +452,7 @@
   "id": "74485717c9",
   "datum": "2026-10-16",
   "tijd": "21:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Koppel bij wie ruim 200.000 euro werd gevonden, riskeert celstraf voor rol in ‘ondergronds bankieren’: “Er zat zelfs geld in de kleerkast van de kinderen”",
   "bron": "GVA",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -431,7 +471,7 @@
   "id": "c2c0733c14",
   "datum": "2026-10-16",
   "tijd": "19:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oekraïners spreken plan drugslab in opvang tegen: 'Zoutzuur voor ontvetten metaal'",
   "bron": "RTV Oost",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1260,25 +1300,6 @@
   ],
   "samenvatting": "Meer meldingen van arbeidsuitbuiting, daders komen zelden voor de rechter: ‘Kennelijk accepteren we dat migranten zo worden behandeld’ Het Parool",
   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSWhtaVZTdXA0VnJobFVXekFUR19XTFBUWHpiS1hqN1Jzb2VNdFRmSU9RN0Z6UE1JeENReW9YNWZOWk9rS2pacUtIYkdaNzJ2Mm8ySkZpaEgydUgxQVJPOXVTb0o3V2FwUjh0YUk4Z1JHdzQxdmItSndHaDJ3bkJSbnBnZkhCNS1CWkhSR0N1SlB2T0N5RjJ6aXJPODdXTm5YcXZKc21UczhYVUw4RDIxVjhidnNUakhlSFY4MzFiOG05bjJ0d19PWUxHWG9sUXZSTVpFVFhZNlFFd0lsQUxNc3huQzA3WHAtZTBsVlJzSFlnV3RRUXJIM3M5WEM3SzFtdHc?oc=5"
- },
- {
-  "id": "d4c832fa4e",
-  "datum": "2026-10-15",
-  "tijd": "22:11",
-  "nieuw": false,
-  "titel": "Biografie met 'kampleugens' Willem Wilbrink (99) uit de handel",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "De biografie van de 99-jarige Willem Wilbrink is uit de handel gehaald. Hij kwam vorige week in opspraak vanwege onwaarheden over zijn oorlogsverleden en zijn tijd in concentratiekamp Dachau. Na een publicatie van het Historisch Nieuwsblad bleek zijn verhaal zeer onwaarschijnlijk te zijn. Een woordvoerder van Bol.com m",
-  "link": "https://nos.nl/l/2635140"
  },
  {
   "id": "9924fedc1d",
