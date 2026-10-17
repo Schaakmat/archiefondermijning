@@ -10,17 +10,34 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Cocaine, haven & logistiek",
    "Horeca, winkels & dienstverlening",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
    "explosie",
-   "haven",
    "kapper"
   ],
   "samenvatting": "De politie heeft een 27-jarige man uit Vlaardingen aangehouden op verdenking van betrokkenheid bij een explosie bij een kapperszaak. Ook deze week was het onrustig in Vlaardingen, maar de aangehouden man wordt verdacht van betrokkenheid bij een aanslag van ruim twee maanden geleden. Op 6 augustus raakten de ruiten van ",
   "link": "https://nos.nl/l/2635384"
+ },
+ {
+  "id": "d307118930",
+  "datum": "2026-10-17",
+  "tijd": "18:00",
+  "nieuw": true,
+  "titel": "Vrouw neergestoken in park, politie zoekt specifieke getuigen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Een man die aan het graven is, een kind dat mogelijk een ruzie filmt en jongeren die op fatbikes rondrijden. Het lijken alledaagse taferelen in Park Presikhaaf in Arnhem, maar deze mensen kunnen belangrijke getuigen zijn van een steekincident waarbij een vrouw gewond raakte.",
+  "link": "https://www.gld.nl/nieuws/8536325/vrouw-neergestoken-in-park-politie-zoekt-specifieke-getuigen"
  },
  {
   "id": "2fa42ff404",
@@ -40,6 +57,27 @@
   ],
   "samenvatting": "Protesten in Frankrijk In verschillende Franse steden zijn protesten tegen de stijgende kosten van het levensonderhoud op rellen uitgelopen. De politie in Parijs heeft traangas en een waterkanon ingezet. Na weken van scholierenprotesten zijn vandaag verschillende groepen de straat op gegaan in Frankrijk, zoals de geleh",
   "link": "https://nos.nl/l/2635378"
+ },
+ {
+  "id": "9565ff8e54",
+  "datum": "2026-10-17",
+  "tijd": "16:14",
+  "nieuw": true,
+  "titel": "Politie arresteert 27-jarige man in onderzoek naar reeks aanslagen bij Vlaardingse kappers",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "kapper"
+  ],
+  "samenvatting": "De politie heeft vrijdag een 27-jarige man aangehouden. Hij zou betrokken zijn geweest bij de explosie bij een Vlaardingse kapperszaak van afgelopen augustus. Vlaardingen wordt al maanden geteisterd door aanslagen bij kappers.",
+  "link": "https://www.rijnmond.nl/nieuws/2268951/politie-arresteert-27-jarige-man-in-onderzoek-naar-reeks-aanslagen-bij-vlaardingse-kappers"
  },
  {
   "id": "68dd9eef24",
@@ -290,7 +328,7 @@
   "id": "e4f30115b4",
   "datum": "2026-10-17",
   "tijd": "07:05",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Purmerender verdacht van witwassen vier ton. Ook Haarlemse vrouw aangehouden door marechaussee",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -309,7 +347,7 @@
   "id": "c8174af236",
   "datum": "2026-10-17",
   "tijd": "06:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Vrouw die jongeren liet uitbuiten in Franse gastgezinnen nu aan de slag in Nederlandse zorg",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -330,7 +368,7 @@
   "id": "817c958dd1",
   "datum": "2026-10-17",
   "tijd": "04:15",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Deurne dwarsboomt al ruim een jaar onderzoek naar illegale paardenrijhal",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -2197,6 +2235,25 @@
   "link": "https://nos.nl/l/2635015"
  },
  {
+  "id": "4cc3c4179d",
+  "datum": "2026-10-14",
+  "tijd": "21:37",
+  "nieuw": false,
+  "titel": "Marechaussee arresteert twee mannen uit Breda in onderzoek naar mensensmokkel vanuit Syrië via Turkije",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Marechaussee arresteert twee mannen uit Breda in onderzoek naar mensensmokkel vanuit Syrië via Turkije Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQnlzb0RhTnJqbnBhRFh0M182TlNKYnowOS1Kcmo4Z2FSWHJHdjVlQW9EVm9KWDVTX1pteDlKUVM0Uzg2aWFlclgxS09pTUQ3eFhjUTA2TTI5SHktVW9CaTNmNTNPQ0pPZnBteElyczExWTk5dlJlY29FRFo2bm41b1ROWjVka0tYYWxUUWoxUlhiZ2FoZFhSbVFSRms4N1dBU1otcDFJRjRPNDVRZlo4eWxFdUJ1TTlWNUVzcWhnUTNlTVhCMnhXcE5YZWl3cHdyUVhRMVlJVDJMN0J6ZnRyRl9OOXJIYXRyTGpuZHhSN3BKcXFF?oc=5"
+ },
+ {
   "id": "f492c4390f",
   "datum": "2026-10-14",
   "tijd": "18:50",
@@ -2889,6 +2946,25 @@
   ],
   "samenvatting": "Realityster Luca T. verdacht van mensenhandel: moet voor rechter verschijnen Headliner.nl",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNelNUbmtUdUxGYi0xckdJZ1ZGcjJ5RjctNXRyWHNsdHNHZ0g4Y2ctWWNzeFljcEh6ZlVFdVZ6RjFwZFJkRi0wbU5nX1FTUlBMVWVySndCb1g4UDh5cnM3eDBIcjJrX3RLYnZqU0JXNVJpZkZBS19JYUpJYVRlYXVOV0IxdlM2ZDlXVFF6ZXFkZkEtcDNid2FCaXNJd25IcGxSX2ZUVTZaREd1VV9nM1lIcmhQSThRMnkzQmxyemRBQmpwbjF4R0owbQ?oc=5"
+ },
+ {
+  "id": "3426c09c93",
+  "datum": "2026-10-14",
+  "tijd": "08:30",
+  "nieuw": false,
+  "titel": "Realityster Luca T. verdacht van mensenhandel: moet voor rechter verschijnen",
+  "bron": "Ditjes en Datjes",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Realityster Luca T. verdacht van mensenhandel: moet voor rechter verschijnen Ditjes en Datjes",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zX1JpckFYdFdHV3g5MG5hQzJTaWpjcXlYRXZtWWJWeDV3RmxSYnk2YkVYZUZVbC1QODhXYkxXMjdCX3V2ZnBWazZ5MVc4Z1BpcFlJYWY3UDk4R0E4OVdnREZzdWk4QTduc19fcUV6dngya1FGbzNETE9xVQ?oc=5"
  },
  {
   "id": "9435343f10",
@@ -73688,6 +73764,25 @@
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFFkWnRaOHNpNzYtdEJ4dDZaTjNtcS1BZ2RUVnVxR3AzTDBua29Ydm56T19lTjFHeEl5YndZa3kwS0VKNWUyNnRpc1ZqOVIxbUFDVzZtM1MxMmZaVThLeXRiUGNycV94eXQwV1VDdFM2UUdUYXZmWC1HNmlCT1Q3OGc5R2d4TVdJeGg3X01Ob1Y?oc=5"
  },
  {
+  "id": "82bf70d59c",
+  "datum": "2024-06-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gevangenisstraffen voor verdachten van mensenhandel",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Gevangenisstraffen voor verdachten van mensenhandel De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTnMwR09UWXZCSVllVlI0dWNRX1RQNEoyNERvcnItUWoycHdPMHYwUl83dGszYWVUb0VBTjVlR0phVUEzNHEtX1dqb004cmFlS2Rnc21EWjBXcTRIb1I1cHVxcXJhc3JhNmJtQU40QW5kdnpoLXh6VUswVG91U001OWtkZHZBelFGd2dBTHB6LVh0UmQ0X1h1LW9kNWxuenp4LUZ3REtPcURyS1pDQ1ZsTnplZ2stV0E4TU5mV1lIc2Y3TjM5SjB1eUdqaDlOWml4aGpQOVg3VklMYXY5U05JV2FOWW9zQTVKQXotYzBFTQ?oc=5"
+ },
+ {
   "id": "5272c6a62a",
   "datum": "2024-06-26",
   "tijd": "07:00",
@@ -82801,6 +82896,25 @@
   ],
   "samenvatting": "Visafval vermengd met mest en illegaal geëxporteerd: boetes geëist omroepbrabant.nl",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ3VfRkZzRVZRV3JaQS1OSDF5Q0RKOWQ2VDhrSEFfSDRtaW1pb3RuQnZLcW1jZ2tkT1VXdmI1S1J1dUdmNEdONS1mNjg1TG1NOG5YWUNjZlZPWWtnSk5jZjdDWnlVNzZZT0NZUkJ2NExzMGRCVHM2d2x5QUZZcUprU29EOWV0S01SZF9kSk1qcVQxSm8wSDYxRDZnVDFGdVp5ek1udm5CSk1tSWhFT2c?oc=5"
+ },
+ {
+  "id": "a0ffeca6e5",
+  "datum": "2021-09-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Aanpak arbeidsuitbuiting door inspectie niet effectief",
+  "bron": "Algemene Rekenkamer",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "arbeidsuitbuiting"
+  ],
+  "samenvatting": "Aanpak arbeidsuitbuiting door inspectie niet effectief Algemene Rekenkamer",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcmVCbGNKX290aHN0NF9EWE04U2lQT1NNVmNPLXFDUmhqc2psdlZyNm5xZk9GZ3VtZUJLOFZtU2s0TE1TQXB4VHh3WVVsTHFxSjVyLXM0bmcxUDVmbUU5c0ZHVThqeUtxd0RfbnQzQ0YxLXkwQkpNZ1JRaUkyd1d2djFGclNSdWJVU3IzZjZOaE9hUXMwWHFnT3BoQ081OHpMRVZ4NzdMS3BIdw?oc=5"
  },
  {
   "id": "375ae1137b",
