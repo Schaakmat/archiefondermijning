@@ -1,11 +1,11 @@
 {
- "run": "17:31",
+ "run": "20:52",
  "datum": "2026-10-18",
- "nieuw": 11,
- "totaal": 4599,
- "verwijderd": 4,
+ "nieuw": 9,
+ "totaal": 4603,
+ "verwijderd": 5,
  "geweigerd": {
-  "niet-nederlands": 1072,
+  "niet-nederlands": 1068,
   "geen dossier": 493
  },
  "bronnen": [
@@ -105,7 +105,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 73,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -140,7 +140,7 @@
    "url": "news.google.com/rss/search?q=trustkantoor%20witwassen%20OR%20katvanger%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 34,
+   "items": 35,
    "status": "1 nieuw",
    "ok": true
   },
@@ -194,8 +194,8 @@
    "url": "news.google.com/rss/search?q=autohandel%20witwassen%20OR%20garagebedrijf",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 26,
-   "status": "bij",
+   "items": 27,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 294,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -411,7 +411,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 43,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 266,
-   "status": "bij",
+   "items": 267,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 291,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -536,7 +536,7 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 182,
+   "items": 183,
    "status": "1 nieuw",
    "ok": true
   },

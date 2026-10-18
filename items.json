@@ -1,5 +1,24 @@
 [
  {
+  "id": "4bf74bbf56",
+  "datum": "2026-10-18",
+  "tijd": "19:13",
+  "nieuw": true,
+  "titel": "Politie schiet persoon met vuurwapen neer, slachtoffer naar ziekenhuis",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Aan de Achterzeedijk in Barendrecht is zondagavond rond 19:30 uur een persoon neergeschoten door de politie. Waarom dat gebeurde, is niet bekend. Het slachtoffer is naar het ziekenhuis gebracht.",
+  "link": "https://www.rijnmond.nl/nieuws/2269328/politie-schiet-persoon-met-vuurwapen-neer-slachtoffer-naar-ziekenhuis"
+ },
+ {
   "id": "8d258b6d25",
   "datum": "2026-10-18",
   "tijd": "17:29",
@@ -97,6 +116,25 @@
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWTV3X01MVDZWSUdZc3RvdHRFb2NGRjlJdDVFanZnSkZza1ZBMVNVNmxhQVJpRUJGdzlRRmJTbzNqUEVwM1MyOS1NR2FpSDZRZ0hveEtiRmRwUVhGYVlXemlQNFhUdnM5UnhRMUxDbGV1N0hHUmhWcDNRZWFPdnlib2Job0RxUTR5bVdCVUJsYjBmX1duNDA2bmFTYzdpSDJ3SFF1c3M3VE5ZTC04R0VpU3M0clBWUGxQRHJHemRjN2Y2VkhTSzNBZlAxamRqZjJ5Z1ZUZg?oc=5"
  },
  {
+  "id": "364392e045",
+  "datum": "2026-10-18",
+  "tijd": "13:13",
+  "nieuw": true,
+  "titel": "Politie zet bus GAE-fans langs de weg bij Zwolle na vuurwerkincident",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk"
+  ],
+  "samenvatting": "De politie heeft een bus met supporters van Go Ahead Eagles langs de weg gezet net buiten Zwolle. Hierdoor was de N35 richting Heino korte tijd dicht. Aanleiding was een vuurwerkincident bij het PEC-stadion, waarbij een fan vuurwerk uit de bus gooide.",
+  "link": "https://www.oost.nl/nieuws/3707721/politie-zet-bus-gae-fans-langs-de-weg-bij-zwolle-na-vuurwerkincident"
+ },
+ {
   "id": "f66407d32c",
   "datum": "2026-10-18",
   "tijd": "12:56",
@@ -138,7 +176,7 @@
   "id": "ca209ed1e6",
   "datum": "2026-10-18",
   "tijd": "11:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dronten - Dronten wil nepagenten eerder aanpakken via plaatselijke verordening",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -157,7 +195,7 @@
   "id": "1698870a92",
   "datum": "2026-10-18",
   "tijd": "08:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oud-rechter strijdt tegen populisme en vooroordelen: ‘Lessen op school over de rechtsstaat zouden goed zijn’",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -176,7 +214,7 @@
   "id": "db042f0eb9",
   "datum": "2026-10-18",
   "tijd": "07:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hennepkwekerij met circa 400 planten aangetroffen in bedrijfspand in Alphen aan den Rijn",
   "bron": "www.nieuwsinalphen.nl",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -195,7 +233,7 @@
   "id": "d60e1e24f7",
   "datum": "2026-10-18",
   "tijd": "07:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hennepkwekerij met zo'n 400 planten ontdekt in bedrijfspand aan Nikkelweg",
   "bron": "Alphens.nl",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -55126,6 +55164,25 @@
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODFhTFp0SkNhZDlGcE5tY1NSWjdtWjBOQVJ6cjNpUHBjM3pnbTFISVZUcy1ySXhOQ0JMcjI4d01JQzhIUHdLOWRxdkwtVUs0UTFqa3ZkeUx6V056ektiUW5VdjFUNUJmaUFyaEhKWVhTUW1DbFo2N3Q4dDBpZHRURUViRl82NFJvdHpPbkJYT1l4ZF9ZZnFzb1huNjZzVU5L?oc=5"
  },
  {
+  "id": "29f295f29d",
+  "datum": "2026-04-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie neemt Audi en horloge van Oosterhouter in beslag in strijd tegen ondermijning",
+  "bron": "Oosterhout Nieuws",
+  "verzameld_via": "Nieuws — Autobranche & garages",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Politie neemt Audi en horloge van Oosterhouter in beslag in strijd tegen ondermijning Oosterhout Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVk5IemJmYXFySlZOY3dEZ25tOEdVR0FraHh5bVdtTjJ1bjIxWTBnb1pRZE9CdkJIWWVPZFhfSDhmdm8yNVlVWGwtMFZlOGNIb01fZ1hseFUycEd3ajVHTzhDYTBtZXZiYW82MDVwNzVyWDVRczFycF8yT2lHdHk0cmRxdW56VVBhY1dfVVQ0b2hIS1lWZ2w2b09CeEU5UVlzSWR0Sy1qUDlGdGxadnhtanNEbXN5WUt1LUJSYUxvYw?oc=5"
+ },
+ {
   "id": "dcc64522ef",
   "datum": "2026-04-17",
   "tijd": "07:00",
@@ -84940,6 +84997,25 @@
   ],
   "samenvatting": "Amsterdams trustkantoor krijgt hoge boete voor rol bij fraude in Mozambique Follow the Money - Platform voor onderzoeksjournalistiek",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcERjejl4bW5VekZQUWlBbV8xbmp2Z2xjQTNHSEpubm9XUU5IWE9UdGFnRS1Yc19qQlF4d2Q1aTdfVVluQTFsZG81NDA1cDk2a3lrUlNSTTBBZ1luZnd1bFhsWTdidXVoTnJ5b3hOUjhqeFFXMG8yVDl5Yi1sTW1QNEViUnNiaDQ?oc=5"
+ },
+ {
+  "id": "9db92be9d0",
+  "datum": "2020-12-16",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Trustkantoor TMF in hoger beroep tegen boete voor rol in Mozambikaans fraudeschandaal",
+  "bron": "Transparency International Nederland",
+  "verzameld_via": "Nieuws — Trustkantoren & rechtspersonen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "trustkantoor"
+  ],
+  "samenvatting": "Trustkantoor TMF in hoger beroep tegen boete voor rol in Mozambikaans fraudeschandaal Transparency International Nederland",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTJjQW10am9OMDdpb1Z3aGdfQUtWTFVYTWhROUxjWHB1MHplNUpTN1F3dE5vaWZVVmJEMGJGYkVVOVdQVnBNcVhwM2dNZml5WVA3NDU1YlNfZlV0RzZWdm5wRGs2cHVpeHFlaDduNVNBbm1LYUpkZ3dsT296NjdrUTN0YlR0ZC1ESEVfYmJnYTIzWU1qdjZjVDZtem5oOFkxNHJBWXBENUw2SlVDbldUQjlROS14bGNodldtNHlxMjhqS3NvbzVvaw?oc=5"
  },
  {
   "id": "30eb5d9df2",
