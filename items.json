@@ -1,5 +1,62 @@
 [
  {
+  "id": "8d258b6d25",
+  "datum": "2026-10-18",
+  "tijd": "17:29",
+  "nieuw": true,
+  "titel": "Alle mensen die onwel werden na bezoek aan Grolsch-fabriek weer thuis",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "Elf mensen die gisteren onwel werden na een rondleiding in de Grolsch-fabriek in Enschede, zijn na een controle door hulpverleners weer thuis. Een van hen verbleef een nacht in het ziekenhuis, zegt de bierbrouwer tegen de NOS. De bezoekers en twee medewerkers hadden bronwater gedronken dat wordt gebruikt om bier te bro",
+  "link": "https://nos.nl/l/2635501"
+ },
+ {
+  "id": "9de0358419",
+  "datum": "2026-10-18",
+  "tijd": "17:02",
+  "nieuw": true,
+  "titel": "Mensenhandel neemt toe: zaken zoals die van Krishna Vilas komen vaker voor",
+  "bron": "RTV Utrecht",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Mensenhandel neemt toe: zaken zoals die van Krishna Vilas komen vaker voor RTV Utrecht",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQREZaZFB3c2NNZVlSbmZlZjVYbGY5LWFJTUpDR0Y0dDlRZFRqYTVfam4xOGtYSElmUDN4X05fU0R1QjU1Tl9kdVk4MV9FY2pXQjBrSld6Z2tBb2dhVFNHbjJrdmxTV2pPaHNuUG5raHVyNUVFUUM1UlREcWxjTVVjSlpPVTN6V09pREk5bG1ZVUdTMGdiSFpjYmF2ZFBYNkZHUzl6R0pNS1h3di1nV0l3eHlQOXE?oc=5"
+ },
+ {
+  "id": "1391cc3772",
+  "datum": "2026-10-18",
+  "tijd": "16:01",
+  "nieuw": true,
+  "titel": "Vlees en eieren stelen, geldkist slopen, en nu is de boerderijwinkel dicht",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "boerderij"
+  ],
+  "samenvatting": "Zijn actie was de druppel die de emmer deed overlopen. De eigenaren van een boerderijwinkel aan de Schouwdijk in Vasse hebben de deur gesloten nadat een man daar eind augustus flink heeft huisgehouden. De politie deelt alle beelden van de man, in de hoop dat hij wordt herkend.",
+  "link": "https://www.oost.nl/nieuws/3704684/vlees-en-eieren-stelen-geldkist-slopen-en-nu-is-de-boerderijwinkel-dicht"
+ },
+ {
   "id": "a53a75cbf1",
   "datum": "2026-10-18",
   "tijd": "14:00",
@@ -209,6 +266,25 @@
   "tags": [],
   "samenvatting": "Wat is het verwijt van het OM aan ING Nederland Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOFBYbjREWF9XTUZsSHNHT1Y2aW5ja2JMdzRGb2o4RmFEZjJjVXJTUDBnUmZnc2k0eXR2dVhON1hERENsTFowZl9peU1UcnI0NEd5R29QVm85ZzF1c21wbFNXUjlxdmMwSGVHczJ6YlJqakRJMDNsbVpoWXNkM1ozVzQzVm9fZ2J4UGtkZmtGOUNHUXYyOEcxME5RdlBESUstZ21hR3J6Z0lFOWtfdERCc3ZpQU0?oc=5"
+ },
+ {
+  "id": "3a975742bb",
+  "datum": "2026-10-18",
+  "tijd": "04:49",
+  "nieuw": false,
+  "titel": "Baby naar ziekenhuis na ongeval, bestuurder aangehouden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een baby is in de nacht van zaterdag op zondag naar het ziekenhuis gebracht nadat een auto in de sloot belandde in Breedenbroek. De bestuurder is aangehouden, meldt een 112-verslaggever die ter plaatse is gegaan.",
+  "link": "https://www.gld.nl/nieuws/8537389/baby-naar-ziekenhuis-na-ongeval-bestuurder-aangehouden"
  },
  {
   "id": "100cb575a7",
@@ -81034,6 +81110,28 @@
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd2dPaFZjcWNtS1NkenEtdWhTTHJMd1E4VFVfQjBTTVFucUZ6alVmaGd1Mm9wWFZ3di1DOURBNnR2ZmpidUw2MG5OR1JLbjRndmlUU0hnY3NiSzA1MzhUYUp1TjBrTVF0VDlsX0RJVnJ0aVY5TnBkYUg0dWdRUWtQVF91ZnVhUS1DLU1oN3dYUGxmZktmTkUxanlucHVPVVpFNjk5MWtVR2F3dw?oc=5"
  },
  {
+  "id": "c9cc65157d",
+  "datum": "2022-09-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Veenendaler aangehouden voor het witwassen van tientallen miljoenen euro’s aan cryptovaluta",
+  "bron": "RTV Utrecht",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "cryptovaluta",
+   "witwassen"
+  ],
+  "samenvatting": "Veenendaler aangehouden voor het witwassen van tientallen miljoenen euro’s aan cryptovaluta RTV Utrecht",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZkVIbmtOQVRDYnJhcEZlcTFTN3B5Z0tQVldrUVZkdy04cERGSkhWV3pqdmhSSFhnVm9Ldzdud3pBUXRianZTRlp5V0ZsMWI4a2Fia2xPcHJQeVZSZ0N3ZWU3RC15NHAzbWdyd25Pc2l4TUIybkFpTEwzZ2N2VzlkLVpmSmxDcVRURUNoYV81YzVtNjBPZUpPd3BlbU1PR2pobDhXVmZuQWNDTHNKSURxcFo2eGgzeV9BTGxNX3pUY0ZGMWNmVUVXMEp1bw?oc=5"
+ },
+ {
   "id": "3bc2bb0108",
   "datum": "2022-09-08",
   "tijd": "07:00",
@@ -88368,6 +88466,27 @@
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEhFZlpHRjR1d3A5WkFValMzb1hBYnFCclNzcExMbFYzaUhuWDNvSFNxNTgwUlFKR0NNcmNfSkd3WTdObF9TTjN0N2J5eDBkYl9EZjNRTFFkZVZLdUx1by1FX0NEemhGcTNhT3ZsVS10X2hBNnNtb2RNRTJwUFVLaENPQjV6WkNkTFZJdUN1VExtbGx3ZXhYSkJCS1hlNTY5MDZCZQ?oc=5"
  },
  {
+  "id": "d2dcdf8c39",
+  "datum": "2018-10-08",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Stadsmariniers Rien en Rens pakken ondermijning aan op bedrijventerrein in Rotterdam - Rijksoverheid.nl",
+  "bron": "Rijksoverheid",
+  "verzameld_via": "Rijksoverheid",
+  "soort": "Kamerbrief",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "bedrijventerrein",
+   "ondermijning"
+  ],
+  "samenvatting": "Stadsmariniers Rien en Rens pakken ondermijning aan op bedrijventerrein in Rotterdam Rijksoverheid.nl",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xakttVm9LVkR2NVJxODNQZ1BMR1hERko0cUV6TVNrRV8zYW85WVBYZzE1QlpWdi1DNHE1ckxOZnFNMTNGQzlHLVBaSjhINXlOMUlGNk1wN0ZSbWlpMmVPWl9WZkhIYlRpbFYxX2JhN2ZoemVfUHZ4QkxOamU?oc=5"
+ },
+ {
   "id": "e149f73531",
   "datum": "2018-09-27",
   "tijd": "07:00",
@@ -90097,6 +90216,25 @@
   ],
   "samenvatting": "Verschillende huiszoekingen België en Nederland in onderzoek naar internationale wapenhandel Nieuwsblad",
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTDQySDIteUZqcDE2WlFDTUpwSmtwUjExaG9TbzBSZGloeXRaV0VGSTY4eTMwSXY3dFBXSnJoaktNQlM0cjJtYUdDSVJBaDJscWhhRWwxanlaMVNCMnR0UmRjckpabVI0UEh1N3QyODFaUmMzTVR5bWpLUUt5SUY1SWVZbFQ4bVpHOUZrblFBRHZtdk8xYk11Q2EtbHBQU1BDQ1p2MjQwaVRxYzBybm1ZWFdlWlRxMjRmSGhsNmxiNENHQkZpN3V6dzBINVpTcDNMczVJRW4zT04xUXM?oc=5"
+ },
+ {
+  "id": "5894d1be5a",
+  "datum": "2016-12-06",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Fraude op het spoor bij Nederlands trustkantoor – Nieuws",
+  "bron": "Transparency International Nederland",
+  "verzameld_via": "Nieuws — Trustkantoren & rechtspersonen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "trustkantoor"
+  ],
+  "samenvatting": "Fraude op het spoor bij Nederlands trustkantoor – Nieuws Transparency International Nederland",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qYmlINTZuODQtbHFVLVUwbHBXTXJNTWZoZVVfR1RDUmVyQXlGM0xqWWotSUpFdzdxbDdBaXFBWl9RSmJiZHJIZ3VFYnl3SXZVUVhLN1JrTlFDZUhNV2p1YkJ2aG83OHZFRmp5NFc4WWJ4UHA0WlBqNDA4Tml2cWs?oc=5"
  },
  {
   "id": "dbb3d211fe",
