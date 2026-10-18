@@ -1,12 +1,12 @@
 {
- "run": "04:37",
+ "run": "09:47",
  "datum": "2026-10-18",
- "nieuw": 16,
- "totaal": 4589,
+ "nieuw": 15,
+ "totaal": 4591,
  "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 1062,
-  "geen dossier": 462
+  "niet-nederlands": 1078,
+  "geen dossier": 487
  },
  "bronnen": [
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 188,
-   "status": "bij",
+   "items": 189,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -105,7 +105,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 72,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -140,8 +140,8 @@
    "url": "news.google.com/rss/search?q=trustkantoor%20witwassen%20OR%20katvanger%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 32,
-   "status": "bij",
+   "items": 33,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 292,
-   "status": "bij",
+   "items": 293,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -428,7 +428,7 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 144,
+   "items": 145,
    "status": "1 nieuw",
    "ok": true
   },
@@ -474,7 +474,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 14,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 231,
-   "status": "7 nieuw",
+   "items": 227,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 265,
-   "status": "bij",
+   "items": 266,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -572,8 +572,8 @@
    "url": "news.google.com/rss/search?q=burgemeester+ondermijning+OR+%22gemeente+on",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 49,
-   "status": "bij",
+   "items": 50,
+   "status": "1 nieuw",
    "ok": true
   }
  ]
