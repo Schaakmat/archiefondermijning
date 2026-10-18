@@ -286,7 +286,7 @@
   "id": "6f0f55429e",
   "datum": "2026-10-17",
   "tijd": "08:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wolf maakt zwijnen en herten op Veluwe alerter: 'Vroeger zat er weinig pit in'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -305,7 +305,7 @@
   "id": "6d625f9e3a",
   "datum": "2026-10-17",
   "tijd": "08:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dit gruwelijke vliegtuigongeluk kostte twaalf mensen het leven",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -328,7 +328,7 @@
   "id": "e4f30115b4",
   "datum": "2026-10-17",
   "tijd": "07:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Purmerender verdacht van witwassen vier ton. Ook Haarlemse vrouw aangehouden door marechaussee",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -347,7 +347,7 @@
   "id": "c8174af236",
   "datum": "2026-10-17",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw die jongeren liet uitbuiten in Franse gastgezinnen nu aan de slag in Nederlandse zorg",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -368,7 +368,7 @@
   "id": "817c958dd1",
   "datum": "2026-10-17",
   "tijd": "04:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Deurne dwarsboomt al ruim een jaar onderzoek naar illegale paardenrijhal",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -839,6 +839,25 @@
   ],
   "samenvatting": "Twee van de acht verdachten van de geweldsexplosie in het centrum van Arnhem blijven nog dertig dagen vastzitten. De andere zes zijn op vrije voeten. Dat heeft de raadkamer donderdag besloten. Volgens het Openbaar Ministerie was er sprake van een ordinaire matpartij, waarbij ook zou zijn gestoken met een machete en ges",
   "link": "https://www.gld.nl/nieuws/8536915/twee-verdachten-van-geweld-in-arnhem-blijven-langer-vastzitten"
+ },
+ {
+  "id": "251e7f2d10",
+  "datum": "2026-10-16",
+  "tijd": "12:30",
+  "nieuw": false,
+  "titel": "Wapens en nagemaakte merkspullen in beslag genomen in Blaricummermeent",
+  "bron": "De Gooi- en Eemlander",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Wapens en nagemaakte merkspullen in beslag genomen in Blaricummermeent De Gooi- en Eemlander",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVXJlazNGZkVSMnZyRzNwQ3B6bDZSNUtIc1hsMXhRclBDSlpSY3I4WlRhZmVwQ0ZBV0NxejhpX0I0aHlyNldpUE1iMUNuYVRKS1FkN0NBaUJwODhFTEd1Vk5GSTJLd2ZHSFdna2NXRkhKY29PTEFDZEVCWlRHdG5ZWU1lVzFOLWtONHJsN3E5UWF4UHhsT3BzcXB6UjI1N1dZbGhadVBIQ2JUR1pDSnQyMnVLX096ZTNXS3NFQVBKZWZvdGNtblhrNWdaVm84WTdISGFmdw?oc=5"
  },
  {
   "id": "ff765373e6",
