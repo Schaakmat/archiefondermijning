@@ -1,5 +1,45 @@
 [
  {
+  "id": "e8ed45b50b",
+  "datum": "2026-10-18",
+  "tijd": "06:00",
+  "nieuw": true,
+  "titel": "Podcast | Afpersings­prof: ‘Wat als er door een hack geen gaslevering meer is? Wat is dan je plan?’",
+  "bron": "Follow the Money",
+  "verzameld_via": "Follow the Money",
+  "soort": "Onderzoek",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "toezichthouder",
+   "witwassen"
+  ],
+  "samenvatting": "In ‘Follow the Money interviewt’ spreken journalisten Annette van Soest en Harm Ede Botje met sleutelfiguren uit verschillende FTM-dossiers. Van toezichthouders en wetenschappers tot politici en juristen. Of het nu gaat om fraude en witwassen, de toekomst van ons landbouwbeleid of onze rechtsstaat: Follow the Money int",
+  "link": "https://www.ftm.nl/artikelen/ftm-interviewt-anja-shortland"
+ },
+ {
+  "id": "38ce280936",
+  "datum": "2026-10-18",
+  "tijd": "03:55",
+  "nieuw": true,
+  "titel": "Ongeluk met twee auto's zorgt voor ravage op de A58 bij Tilburg",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een ongeluk met twee auto's heeft zaterdagnacht voor een ravage gezorgd op de A58 bij Tilburg. Het ongeluk gebeurde rond half vier. Na de klap belandde een van de auto's in een greppel langs de weg. Verspreid over de snelweg, in de richting Breda, lagen brokstukken en glas. In een van de auto's zaten vier mensen, in de",
+  "link": "https://www.omroepbrabant.nl/nieuws/6031393/ongeluk-met-twee-autos-zorgt-voor-ravage-op-de-a58-bij-tilburg"
+ },
+ {
   "id": "79c8b9b991",
   "datum": "2026-10-17",
   "tijd": "19:07",
@@ -407,27 +447,6 @@
   ],
   "samenvatting": "In het Brabantse Beek en Donk, bij Helmond, is om 02.00 uur een dode vrouw gevonden in een huis. De politie gaat ervan uit dat ze door een misdrijf om het leven is gekomen. Er is iemand aangehouden. Het is niet duidelijk hoe de vrouw is omgekomen en wie de aangehouden persoon is. Op beelden is te zien dat de ruiten van",
   "link": "https://nos.nl/l/2635296"
- },
- {
-  "id": "d303f30fd7",
-  "datum": "2026-10-17",
-  "tijd": "04:00",
-  "nieuw": false,
-  "titel": "Omstreden navelstrengbloedbehandeling beboet door IGJ: blijft het daarbij?",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jeugd",
-   "vergunning"
-  ],
-  "samenvatting": "Maar liefst 233 patiënten kreeg de Veldhovense anesthesist Jens Fischer over de vloer, van wie het merendeel kinderen. Zij kregen Slowaaks navelstrengbloed ingediend om autisme of hersenverlamming te bestrijden. Fischer werd ervoor vervolgd en kreeg een boete van ruim achtduizend euro, opgelegd door de Inspectie Gezond",
-  "link": "https://www.omroepbrabant.nl/nieuws/6030706/omstreden-navelstrengbloedbehandeling-beboet-door-igj-blijft-het-daarbij"
  },
  {
   "id": "993a9b1000",
@@ -71179,6 +71198,27 @@
   ]
  },
  {
+  "id": "c95a930455",
+  "datum": "2025-01-08",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Kazachstan sluit 36 illegale cryptobeurzen in strijd tegen witwassen en financiële criminaliteit",
+  "bron": "Newsbit",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "witwassen"
+  ],
+  "samenvatting": "Kazachstan sluit 36 illegale cryptobeurzen in strijd tegen witwassen en financiële criminaliteit Newsbit",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmUxcldreHZPRDdjc202QlFlTmdmT1gxdWhRVWFCcm9DM1h5SDEzZVNmeHFNcVlWUmdiTFBPOWNIVl8wbjVMemZ5SUNvb056MW1Ma0J6bU1MVDB0MzVQcmh2WWpQVnJUd0ZORkJaOFMyM2Q0Ti1nU2hiSlNwWGJkMXkyczV6Rkg1YnBFSXNTNlJjX0FBR0hRMWoxdm82Yl9iZXJrTGZtLVZrQkd3c2lTajB2LXNMcHc?oc=5"
+ },
+ {
   "id": "a13ce7dcc7",
   "datum": "2025-01-07",
   "tijd": "08:00",
@@ -72024,6 +72064,25 @@
   "dossiers": [
    "Beleid, wetgeving & toezicht"
   ]
+ },
+ {
+  "id": "b964914502",
+  "datum": "2024-11-08",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Man en vrouw verdacht van witwassen - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Man en vrouw verdacht van witwassen Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeFNTYmhmMzJwRW1CUTJfZ09HU3hlWnJjenFSWnIteGJPdXR3cW9JYzVmMUR5UFRJNHhvblduc09uUmF5aHdVMHo3YkoxOEhwTUlBWXkycmNKNmtld1VyWlFINm5HTkdxSnpMN1dOZndPTHdpMVZhdWstS1Q3V1Y0blFQYWJ2dw?oc=5"
  },
  {
   "id": "13ea59b231",
