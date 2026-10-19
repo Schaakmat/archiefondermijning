@@ -1,5 +1,58 @@
 [
  {
+  "id": "57d523def6",
+  "datum": "2026-10-20",
+  "tijd": "00:40",
+  "nieuw": true,
+  "titel": "Opnieuw onrustig in Amsterdamse Floradorp: stenen en glas naar politie gegooid",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "afval",
+   "burgemeester",
+   "container",
+   "erf",
+   "geweld",
+   "grond"
+  ],
+  "samenvatting": "In de wijk Floradorp in Amsterdam-Noord is het vanavond opnieuw onrustig geweest. Daarbij zijn twee mensen aangehouden. Aan het einde van de middag verzamelde zich een groep buurtbewoners rond de Sneeuwbalstraat. Er werd vuurwerk afgestoken en er werden kleine brandjes gesticht op de weg en in ondergrondse afvalcontain",
+  "link": "https://nos.nl/l/2635889"
+ },
+ {
+  "id": "57a4085d2c",
+  "datum": "2026-10-19",
+  "tijd": "22:25",
+  "nieuw": true,
+  "titel": "Zeewolde - Mogelijk via Snapchat gezocht naar daders voor overval op juwelier in Zeewolde",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Goudhandel & edelmetalen",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "haven",
+   "juwelier",
+   "wapen"
+  ],
+  "samenvatting": "De gewapende overval op een juwelier aan het Dalkruid in Zeewolde is mogelijk via Snapchat voorbereid. De politie heeft een anonieme tip gekregen dat via het sociale medium een oproep is gedaan om de overval te plegen. Vermoedelijk hebben de verdachten daarop gereageerd. Dat kwam maandagavond naar voren in het televisi",
+  "link": "https://www.omroepflevoland.nl/nieuws/528093/mogelijk-via-snapchat-gezocht-naar-daders-voor-overval-op-juwelier-in-zeewolde"
+ },
+ {
   "id": "5bbd212175",
   "datum": "2026-10-19",
   "tijd": "20:15",
@@ -58,11 +111,9 @@
   "regio": "Noord-Brabant",
   "dossiers": [
    "Buitengebied & recreatie",
-   "Goudhandel & edelmetalen",
-   "Milieucriminaliteit & afval"
+   "Goudhandel & edelmetalen"
   ],
   "tags": [
-   "grond",
    "juwelier",
    "stal"
   ],
@@ -160,13 +211,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Horeca, winkels & dienstverlening",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval"
+   "Horeca, winkels & dienstverlening"
   ],
   "tags": [
-   "grond",
-   "school",
    "snackbar"
   ],
   "samenvatting": "Koningsdag liep voor een man in april heel anders af dan hij had verwacht. In de avond werd hij bewusteloos geslagen door een andere man in de binnenstad. De politie laat nu beelden zien van de dader. In Bureau Brabant toont de politie maandag beelden van koningsnacht in Breda. Te zien is hoe een man rond vier uur 's n",
@@ -230,6 +277,27 @@
   ],
   "samenvatting": "De Tweede Wereldoorlog kent verhalen van roofkunst - hoe nazi's kunstobjecten roofden van Joodse families, en hoe nazaten die kunst nog altijd proberen terug te krijgen. Maar nu zijn er ook verhalen over 'overlevingskunst'. Kunst die door de Joodse eigenaren werd verkocht om te overleven. Om met het geld te kunnen vluc",
   "link": "https://nos.nl/l/2635841"
+ },
+ {
+  "id": "0c990c24e8",
+  "datum": "2026-10-19",
+  "tijd": "15:55",
+  "nieuw": true,
+  "titel": "Papendrechter (26) opgepakt voor ontvoering en gewelddadige woningoverval",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "geweld",
+   "woning"
+  ],
+  "samenvatting": "De politie heeft maandag een derde verdachte aangehouden voor een ontvoering en een gewelddadige woningoverval afgelopen zomer in Rotterdam. Het gaat om een 26-jarige man uit Papendrecht.",
+  "link": "https://www.rijnmond.nl/nieuws/2269903/papendrechter-26-opgepakt-voor-ontvoering-en-gewelddadige-woningoverval"
  },
  {
   "id": "4b104d582d",
@@ -372,7 +440,7 @@
   "id": "378aed1ca5",
   "datum": "2026-10-19",
   "tijd": "12:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rook uit woning door kortsluiting: brandweer rukt uit",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -391,7 +459,7 @@
   "id": "fda78dd3cd",
   "datum": "2026-10-19",
   "tijd": "12:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Stem op de dochter van mijn vriendin': Criminelen kapen je WhatsApp met nieuwe truc",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -412,7 +480,7 @@
   "id": "f73e3e7f6b",
   "datum": "2026-10-19",
   "tijd": "12:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrachtwagen kantelt op rotonde in Valkenswaard, lekke band mogelijk oorzaak",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -431,7 +499,7 @@
   "id": "ba1e56ffc0",
   "datum": "2026-10-19",
   "tijd": "11:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Weer beperkt ruimte op stroomnet in grote delen van Overijssel",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -450,7 +518,7 @@
   "id": "e179d734ae",
   "datum": "2026-10-19",
   "tijd": "09:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Helmonder (26) komt om het leven nadat auto te water raakt langs de A325",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -469,7 +537,7 @@
   "id": "eb47206ef8",
   "datum": "2026-10-19",
   "tijd": "08:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Agent vertrouwt mannen bij flat niet en betrapt inbrekers op heterdaad",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -488,7 +556,7 @@
   "id": "8e6e4d60ab",
   "datum": "2026-10-19",
   "tijd": "08:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugslab-verdachten uit Weert, Sittard en Venlo langer in Belgische cel",
   "bron": "De Limburger",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -507,7 +575,7 @@
   "id": "58590f0983",
   "datum": "2026-10-19",
   "tijd": "07:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Een paar honderd telefoontjes over drugsafval in Lieshout en Beek en Donk",
   "bron": "Eindhovens Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -528,7 +596,7 @@
   "id": "0831883477",
   "datum": "2026-10-19",
   "tijd": "06:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Urk - Uur van de waarheid nadert voor buitendijkse haven Urk, durft provincie het aan?",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -1161,25 +1229,6 @@
   ],
   "samenvatting": "Een man die aan het graven is, een kind dat mogelijk een ruzie filmt en jongeren die op fatbikes rondrijden. Het lijken alledaagse taferelen in Park Presikhaaf in Arnhem, maar deze mensen kunnen belangrijke getuigen zijn van een steekincident waarbij een vrouw gewond raakte.",
   "link": "https://www.gld.nl/nieuws/8536325/vrouw-neergestoken-in-park-politie-zoekt-specifieke-getuigen"
- },
- {
-  "id": "2fa42ff404",
-  "datum": "2026-10-17",
-  "tijd": "17:41",
-  "nieuw": false,
-  "titel": "17/10 in Nieuwsuur: Protesten in Frankrijk • CBL over incident bij Albert Heijn • Poolse buitenlandminister Sikorski",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Horeca, winkels & dienstverlening"
-  ],
-  "tags": [
-   "supermarkt"
-  ],
-  "samenvatting": "Protesten in Frankrijk In verschillende Franse steden zijn protesten tegen de stijgende kosten van het levensonderhoud op rellen uitgelopen. De politie in Parijs heeft traangas en een waterkanon ingezet. Na weken van scholierenprotesten zijn vandaag verschillende groepen de straat op gegaan in Frankrijk, zoals de geleh",
-  "link": "https://nos.nl/l/2635378"
  },
  {
   "id": "9565ff8e54",
@@ -13214,6 +13263,25 @@
   ],
   "samenvatting": "De politie heeft dinsdagavond in Tilburg een man van 22 opgepakt. Hij is verdacht van wapenbezit. Agenten kregen aan het begin van de avond een melding dat de man mogelijk een vuurwapen had. Het wapen lag uiteindelijk in een prullenbak, enkele straten van zijn huis vandaan. Na de melding gingen agenten kijken in en ron",
   "link": "https://www.omroepbrabant.nl/nieuws/6029144/man-22-opgepakt-in-tilburg-politie-vindt-vuurwapen-in-prullenbak"
+ },
+ {
+  "id": "2907568c00",
+  "datum": "2026-09-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hoogeveen weet niet hoeveel zorgfraude er is: ’Vertrouwen slaat soms om in naïviteit’",
+  "bron": "Hoogeveensche Courant",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Hoogeveen weet niet hoeveel zorgfraude er is: ’Vertrouwen slaat soms om in naïviteit’ Hoogeveensche Courant",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRnhDN3JhVEcxaFkydXlmWGxoWDF5R3BCN2RiWDdPUFg4dzNlRXUzR0MySE44NnQ0U1JOcm1lOGRPSDNJT2tWVUNWclRBcEZYYm5Zbi1KZVU0MG1XSmY2d3VVZnh3SWNsV241SWhqc2hvQ0pEZU5SWWxiNzlLdFVpNGRZRmFVRVNNYklGSEtqUm1jRlI4MTZHUlNwcDE0M1lxOV8tVTcwVEdVUjR4YlU5a09Ma2M5MV9rSFpDaWdHLVNKdkxuRVU1N0xfcWFFbzNnZFMzRmJyaEZLZw?oc=5"
  },
  {
   "id": "142c07076c",
@@ -71265,6 +71333,25 @@
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3hvclI2cC1lcEYyQkZSWlFnWjZrUjNBQ0JiYnFvRFY0NGxCdkl4bjNVbi1iZFkzT25iTE5OMGM2bnFuaUZoVFlOSmd3MDZCdS1NcU9XYXhiRDF6WjRqdkZMemFxbWZrQTdNYWJST0ZYbFB5Q2hJZnpvcjAyM1U4MTJhZllZbUhPWmRBWmotbnF6anRhdk8w?oc=5"
  },
  {
+  "id": "c437731838",
+  "datum": "2025-02-19",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Ondermijning in het strafschopgebied 🎙",
+  "bron": "De Orkaan",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Ondermijning in het strafschopgebied 🎙 De Orkaan",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55SkxsZG9fcGJPRnlGWEl2bFhyQW1oRjJ1Q1lvR2gyTkR1Q3JuUjFVS08yUkN1OWRPMjdWVkIwWlVZV3E1aUg4cFNqd3FtYWlZUUlmWEV3V0U5ZHlQYUNFbzhZMFkzLV9CWTRxUzNB?oc=5"
+ },
+ {
   "id": "fba9e1cfed",
   "datum": "2025-02-18",
   "tijd": "08:00",
@@ -87323,6 +87410,25 @@
   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ScERzeThlRHpKaGJfNW9vQXFkQTI0amdCM0tVa0YwQmtkY0w3YUtJQ2hzUlZ0SVNudEtFdDFwNWxMMGdXckM5aDh1ZVVqVGFnZ1ZqdDI1dG5DY3JiMWp4LUZqUUY2UExfWkRMd2dGWHA?oc=5"
  },
  {
+  "id": "b15d5bbd81",
+  "datum": "2020-02-07",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Alle hens aan dek in de Achterhoek: burgemeesters slaan handen ineen tegen criminelen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Alle hens aan dek in de Achterhoek: burgemeesters slaan handen ineen tegen criminelen Omroep Gelderland",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeHBybmpEcl9OZmVkZElHZGhBZEppbkNrSnZaRGlGNVFlY2NJSGNPMmtNZFYydVpITWptOXdDY3RIVkpzM3hoMWVmM0llVkFpSlNRd0Nsd21SYnhrX0pzN25QUEVJb01YcF9YRUZDT29sM0x1VlRwOXJjM0VYVkZQWFNjN0NvQy1RUUd3NHQ3RG5YUkdqa2pSMDhzU3RFRjA4VzBucnhGRENIU29zaTU1bFRIaWlqZ1dvSkE?oc=5"
+ },
+ {
   "id": "47f352a399",
   "datum": "2020-02-03",
   "tijd": "08:00",
@@ -88072,6 +88178,25 @@
   ],
   "samenvatting": "Van corruptie verdachte wethouders: ‘Altijd naar eer en geweten gehandeld’ Het Parool",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUZsTzRrb0l0b3NPbDVETGJjY2UtcVhRbEN0N3B3NkJXek9qTlZONDJyWFlBTXA4ZXdYa3prNVdxNWh5RnFNME5wenZLd3Izb21TODIybVdjRm1RVXhUaV9fN2FHWmwyUHZMNG4wMmRERFhjX0JZelliWDZPaTBsUW85VHUxeWlyMFY3ZkVUVHlXXzNXYzRrTnZBbExDVFVVaEdDYUVtaTM3SmdTa21XQ1pHVQ?oc=5"
+ },
+ {
+  "id": "17fb849ccf",
+  "datum": "2019-09-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gemeente pakt spyshops aan in strijd tegen ondermijning",
+  "bron": "Het Parool",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Gemeente pakt spyshops aan in strijd tegen ondermijning Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVl5eDVhOC1YMHAwU29hSnUtYkRHejR3VkxuUTJFdWZGMHQzc2FUSWRzV1hNVW5ISlpsTU5rR0J0eVllTlRiQ2ZwNXc3ckxjaWVqT2FrQk5lOFpLYTZEa3VySjM5dVFPNEpGbXNmanpqeVl6MFhBRDNidElSdFl1ejE3ZnBPR1JXeWtMLUtPUXE5UlNuTzJ4RUNZdVZYZw?oc=5"
  },
  {
   "id": "053e27ed41",
