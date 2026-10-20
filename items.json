@@ -1,10 +1,198 @@
 [
  {
+  "id": "daf73b867b",
+  "datum": "2026-10-20",
+  "tijd": "11:51",
+  "nieuw": true,
+  "titel": "20/10 in Nieuwsuur: Kindermishandeling in Nederlands opvanghuis in Spanje • Verstikkende branden in Indonesië",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jeugd",
+   "jongeren",
+   "organisatie"
+  ],
+  "samenvatting": "Twintig jaar lang extreme behandelmethoden in Spanje Nederlandse organisaties stuurden jarenlang jongeren met gedragsproblemen naar een Nederlands 'gezinshuis' in Spanje. Daar kregen ze te maken met extreme behandelmethodes. Experts spreken van \"structurele mishandeling en kindermarteling\". Grote jeugdhulpaanbieders, g",
+  "link": "https://nos.nl/l/2635934"
+ },
+ {
+  "id": "1a51451225",
+  "datum": "2026-10-20",
+  "tijd": "09:36",
+  "nieuw": true,
+  "titel": "'Alle poten onder zijn stoel vandaan gezaagd': ontslag directeur kost Rotterdams bedrijf ruim twee ton",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Na ruim achttien jaar trouwe dienst werd een financieel directeur door het Rotterdamse bedrijf Bilfinger Thermeq aan de kant gezet. Volgens de rechter werden daarbij \"alle poten al onder zijn stoel vandaan gezaagd\". Het ontslag was onterecht en de werkgever moet de man onder voorwaarden ruim 221.000 euro aan vergoeding",
+  "link": "https://www.rijnmond.nl/nieuws/2270312/alle-poten-onder-zijn-stoel-vandaan-gezaagd-ontslag-directeur-kost-rotterdams-bedrijf-ruim-twee-ton"
+ },
+ {
+  "id": "3e82656a47",
+  "datum": "2026-10-20",
+  "tijd": "09:29",
+  "nieuw": true,
+  "titel": "Overleden persoon aangetroffen in Deventer woning, politie doet onderzoek",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Hulpdiensten hebben vanmorgen een overleden persoon aangetroffen in een woning aan de Gerhard ter Borchstraat in Deventer.",
+  "link": "https://www.oost.nl/nieuws/3709667/overleden-persoon-aangetroffen-in-deventer-woning-politie-doet-onderzoek"
+ },
+ {
+  "id": "77c05662f1",
+  "datum": "2026-10-20",
+  "tijd": "08:56",
+  "nieuw": true,
+  "titel": "Mensenhandel blijft vaak buiten beeld, ook op Goeree-Overflakkee",
+  "bron": "Omroep Archipel",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Mensenhandel blijft vaak buiten beeld, ook op Goeree-Overflakkee Omroep Archipel",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2RTR2xFNlNrY3pPT1p0cVB3RTEyUWs1bHppd0JYWlF0WmQ4Q2NranVXeWJNRzJsZDllbXJpUXgxS1ZXbFdjSThyYU5IS2NrMC1lTUdobnlsUkRkZURudFJnRlJfX1hzcFY1emJBTG5PenNJRF96X3VjdUZaUUF2TVZ5WUFvRmpmQmR6QmU3VGkzUXhNam5LaG52TGtZYXRBUmZfMQ?oc=5"
+ },
+ {
+  "id": "90fb4a6de8",
+  "datum": "2026-10-20",
+  "tijd": "08:23",
+  "nieuw": true,
+  "titel": "Na uitzending van Bureau Rijnmond meldt 13-jarige zich bij politie na roof mobieltje",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Een 13-jarige jongen uit Rotterdam is aangehouden voor diefstal van een mobieltje. Samen met een andere jongen beroofde hij op vrijdag 8 mei een vrouw van haar telefoon. Vorige week werden beide jongens herkenbaar in beeld gebracht in Bureau Rijnmond, waarna een van de twee jongens zich meldde op het politiebureau.",
+  "link": "https://www.rijnmond.nl/nieuws/2270295/na-uitzending-van-bureau-rijnmond-meldt-13-jarige-zich-bij-politie-na-roof-mobieltje"
+ },
+ {
+  "id": "96fa265b30",
+  "datum": "2026-10-20",
+  "tijd": "07:08",
+  "nieuw": true,
+  "titel": "Vader en zoon voor rechter na miljoenenbrand in drugslab Middenbeemster",
+  "bron": "NH Nieuws",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Vader en zoon voor rechter na miljoenenbrand in drugslab Middenbeemster NH Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnNydjBrQmlLWFJVRGZLSTRzVlVvMUhpRVhWbE1FQUM0OGpIYlVoVEpveDdKVDMzd2UxZHRHNzhXdWZ6MFNYazY2LUg5SHFtOU94YWRkUDZ2SllxYTR1QUJuVlVnU3c3Z0x3c3QxU3FiZC1TSGxVRnI5Rk56RVZ3X3BDT2lEcWdfeVZYZ0FPNlo4SklzRkRXQ3Z6NGhrWS1YS2hHXzZfa0pDSjFQYXc?oc=5"
+ },
+ {
+  "id": "e6c498e392",
+  "datum": "2026-10-20",
+  "tijd": "07:04",
+  "nieuw": true,
+  "titel": "Lelystad - Defensie moet nog heel veel huiswerk doen voordat de F-35's komen",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval",
+   "Ondernemers & weerbaarheid",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "boerderij",
+   "grond",
+   "ondernemers",
+   "schiphol",
+   "stal",
+   "vastgoed"
+  ],
+  "samenvatting": "Het ministerie van Defensie erkent dat er nog veel moet worden uitgezocht en geregeld voordat er op Lelystad Airport F-35-gevechtsvliegtuigen kunnen worden gestationeerd. Dat betreft onder meer de uitkoop van getroffen bewoners en bedrijven, maar ook de vliegroutes van de straaljagers boven Flevoland. Dat blijkt uit de",
+  "link": "https://www.omroepflevoland.nl/nieuws/528080/defensie-moet-nog-heel-veel-huiswerk-doen-voordat-de-f-35's-komen"
+ },
+ {
+  "id": "e80cd6d4ae",
+  "datum": "2026-10-20",
+  "tijd": "06:15",
+  "nieuw": true,
+  "titel": "Ex-profvoetballer Helmond Sport en Willem II moet vijf jaar de cel in",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugsproductie",
+   "pand"
+  ],
+  "samenvatting": "Ex-profvoetballer Zarko G. (43), die onder meer voor Willem II, Helmond Sport en TOP Oss speelde, moet in België vijf jaar de cel in voor grootschalige drugsproductie. Daarnaast moet de Nederlander een half miljoen euro aan illegale opbrengsten terugbetalen aan de Belgische staat. Dat meldt De Telegraaf. G. is samen me",
+  "link": "https://www.omroepbrabant.nl/nieuws/6031593/ex-profvoetballer-helmond-sport-en-willem-ii-moet-vijf-jaar-de-cel-in"
+ },
+ {
   "id": "bede5e1ab5",
   "datum": "2026-10-20",
   "tijd": "06:11",
   "nieuw": true,
   "titel": "Urk - Urker bedrijven stap dichter bij eigen waterfabriek dankzij subsidie van 425.000 euro",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "erf",
+   "ondernemers"
+  ],
+  "samenvatting": "De plannen voor een eigen waterfabriek op Urk komen een stap dichterbij. Urker ondernemers hebben een subsidie van 425.000 euro gekregen om de plannen verder uit te werken. Uit een eerder onderzoek blijkt dat een eigen waterfabriek haalbaar is. Daarmee hopen de bedrijven een oplossing te vinden voor een dreigend watert",
+  "link": "https://www.omroepflevoland.nl/nieuws/528090/urker-bedrijven-stap-dichter-bij-eigen-waterfabriek-dankzij-subsidie-van-425.000-euro"
+ },
+ {
+  "id": "6cf2c9a48d",
+  "datum": "2026-10-20",
+  "tijd": "06:11",
+  "nieuw": true,
+  "titel": "Urk - Urker visindustrie snakt naar extra water dat niet geleverd wordt, oplossing ligt mogelijk direct achter de dijk",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -23,7 +211,26 @@
    "vergunning"
   ],
   "samenvatting": "De plannen voor een eigen waterfabriek op Urk komen een stap dichterbij. Urker ondernemers hebben een subsidie van 425.000 euro gekregen om de plannen verder uit te werken. Uit een eerder onderzoek blijkt dat een eigen waterfabriek haalbaar is. Daarmee hopen de bedrijven een oplossing te vinden voor een dreigend watert",
-  "link": "https://www.omroepflevoland.nl/nieuws/528090/urker-bedrijven-stap-dichter-bij-eigen-waterfabriek-dankzij-subsidie-van-425.000-euro"
+  "link": "https://www.omroepflevoland.nl/nieuws/528090/urker-visindustrie-snakt-naar-extra-water-dat-niet-geleverd-wordt-oplossing-ligt-mogelijk-direct-achter-de-dijk"
+ },
+ {
+  "id": "70ebbc2729",
+  "datum": "2026-10-20",
+  "tijd": "05:23",
+  "nieuw": true,
+  "titel": "Verdachte (23) ontkent groepsverkrachting ondanks DNA-spoor",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Een 23-jarige man uit Sliedrecht die wordt verdacht van betrokkenheid bij de groepsverkrachting van een kwetsbaar meisje (18), blijft voorlopig vastzitten. De man wordt door een DNA-spoor in verband gebracht met het seksueel geweld dat vorig jaar mei plaatsvond op twee parkeerplaatsen in Sliedrecht. Hij ontkent dat hij",
+  "link": "https://www.rijnmond.nl/nieuws/2269905/verdachte-23-ontkent-groepsverkrachting-ondanks-dna-spoor"
  },
  {
   "id": "57d523def6",
@@ -67,6 +274,29 @@
   ],
   "samenvatting": "De gewapende overval op een juwelier aan het Dalkruid in Zeewolde is mogelijk via Snapchat voorbereid. De politie heeft een anonieme tip gekregen dat via het sociale medium een oproep is gedaan om de overval te plegen. Vermoedelijk hebben de verdachten daarop gereageerd. Dat kwam maandagavond naar voren in het televisi",
   "link": "https://www.omroepflevoland.nl/nieuws/528093/mogelijk-via-snapchat-gezocht-naar-daders-voor-overval-op-juwelier-in-zeewolde"
+ },
+ {
+  "id": "5ab993f232",
+  "datum": "2026-10-19",
+  "tijd": "22:25",
+  "nieuw": true,
+  "titel": "Zeewolde - Mogelijk via Snapchat gezocht naar criminelen om overval op juwelier te plegen in Zeewolde",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Goudhandel & edelmetalen",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "haven",
+   "juwelier",
+   "wapen"
+  ],
+  "samenvatting": "De gewapende overval op een juwelier aan het Dalkruid in Zeewolde is mogelijk via Snapchat voorbereid. De politie heeft een anonieme tip gekregen dat via het sociale medium een oproep is gedaan om de overval te plegen. Vermoedelijk hebben de verdachten daarop gereageerd. Dat kwam maandagavond naar voren in het televisi",
+  "link": "https://www.omroepflevoland.nl/nieuws/528093/mogelijk-via-snapchat-gezocht-naar-criminelen-om-overval-op-juwelier-te-plegen-in-zeewolde"
  },
  {
   "id": "3fdee061fe",
@@ -114,7 +344,7 @@
    "pand",
    "school"
   ],
-  "samenvatting": "De Almeerse VVD wil weten wat er is gebeurd met de ruim 1,2 miljoen euro subsidie die Stichting Weekend Academie de afgelopen jaren van de gemeente heeft gekregen. De partij wil onder meer weten of Almere het subsidiegeld teruggaat vorderen en of de gemeente eerder had moeten ingrijpen. De Weekend Academie organiseerde",
+  "samenvatting": "De Almeerse VVD wil weten wat er is gebeurd met de ruim 1,2 miljoen euro subsidie die Stichting Weekend Academie de afgelopen jaren van de gemeente heeft gekregen. De partij wil onder meer weten of Almere het subsidiegeld terug gaat vorderen en of de gemeente eerder had moeten ingrijpen. De Weekend Academie organiseerd",
   "link": "https://www.omroepflevoland.nl/nieuws/528069/vvd-wil-weten-wat-er-is-gebeurd-met-12-miljoen-euro-subsidie-voor-weekend-academie-na-onderzoek-naar-mogelijke-fraude"
  },
  {
@@ -198,6 +428,29 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6031570/twee-mannen-gewond-bij-crash-tegen-boom-in-oisterwijk"
  },
  {
+  "id": "8ab31604b1",
+  "datum": "2026-10-19",
+  "tijd": "16:23",
+  "nieuw": true,
+  "titel": "Politie ontdekt wietkwekerij met 500 planten in bedrijfspand: niet de eerste op dit bedrijventerrein",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Ondernemers & weerbaarheid",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "bedrijventerrein",
+   "pand",
+   "wietkwekerij"
+  ],
+  "samenvatting": "Politie ontdekt wietkwekerij met 500 planten in bedrijfspand: niet de eerste op dit bedrijventerrein AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaTJZQmlVTGRCU0duUlB6Y3I0MHVRSTJiX3A2UWMyWHY3REFMVEcyU2VJbnVMNlVnX01MWHYtTkk2UndwR0NYYU9zenRXcTl0YzlaZ3ZETG5CSWQxeE9yaVN4M1ZHb0oxNmpQQTcwWjUzaWx5anFnOEJTalhiV25uRnV0VElyVUx3cmlVZ0YwWmFOaWZUUWdKaE1LeTl6M2xuWEVGMFVqZjMxWUtFcHp5ZEJORTJCT09DSmtpNmRGZnRzci14OHFuTnplQU1nakNFUnI0S0Z2YXh3U0d6WkNTZ3N3?oc=5"
+ },
+ {
   "id": "4bb87d770f",
   "datum": "2026-10-19",
   "tijd": "16:21",
@@ -276,11 +529,11 @@
   "link": "https://www.gld.nl/nieuws/8537931/na-ruim-twee-uur-houdt-dsi-man-met-onbegrepen-gedrag-aan-bij-oude-politieacademie"
  },
  {
-  "id": "ccbc97f071",
+  "id": "263ab3cfdf",
   "datum": "2026-10-19",
   "tijd": "16:08",
   "nieuw": true,
-  "titel": "Ongeluk met camper en twee auto's op de A58: nog urenlang problemen",
+  "titel": "Ongeluk met camper en twee auto's op de A58: urenlang problemen geweest",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -292,13 +545,13 @@
    "vrachtwagen"
   ],
   "samenvatting": "Een camper en twee auto's zijn maandagmiddag op elkaar gebotst op de A58 bij Oirschot. Door het ongeluk werd het verkeer richting Eindhoven via de vluchtstrook langs de plek van het ongeluk geleid. Volgens Rijkswaterstaat duurt de afhandeling nog tot tien uur 's avonds. Het ongeluk zorgde al snel voor een lange file. R",
-  "link": "https://www.omroepbrabant.nl/nieuws/6031566/ongeluk-met-camper-en-twee-autos-op-de-a58-nog-urenlang-problemen"
+  "link": "https://www.omroepbrabant.nl/nieuws/6031566/ongeluk-met-camper-en-twee-autos-op-de-a58-urenlang-problemen-geweest"
  },
  {
   "id": "9758b4c73c",
   "datum": "2026-10-19",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Met hun 'overlevingskunst' konden sommige Joden ontsnappen aan de Holocaust",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -436,6 +689,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/528029/almeerse-tiener-krijgt-klappen-op-fietspad-en-moet-geld-afstaan-aan-groep-bedreigers-met-vuurwapen"
  },
  {
+  "id": "31ef7b6ac3",
+  "datum": "2026-10-19",
+  "tijd": "13:19",
+  "nieuw": false,
+  "titel": "Politie zoekt vluchtende persoon na explosie in slachthuis Apeldoorn",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "De politie is op zoek naar getuigen van de explosie bij het slachthuis in Apeldoorn die plaatsvond in de nacht van zondag op maandag. Daarbij zoekt de politie in het bijzonder naar één persoon die te zien is op beelden van die nacht.",
+  "link": "https://www.gld.nl/nieuws/8537869/politie-zoekt-vluchtende-persoon-na-explosie-in-slachthuis-apeldoorn"
+ },
+ {
   "id": "0d443b6f51",
   "datum": "2026-10-19",
   "tijd": "12:57",
@@ -472,6 +744,25 @@
   ],
   "samenvatting": "Meerdere misstanden ontdekt bij controles op arbeidsuitbuiting Voorburgs Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFpQVmgtYTQxTlUwN0NQTHozZFRLeXdSTjhhcUZBYy1WUVpTVkppVjdITG1hb0I3RnBxcHQzRElzdE9FRjdqM3ktNlpmRXRVNkZ3YVp0ZW5hdEgxWW5fbElwc0xtN1F5N1BWNi11VXhPbEx1QUNJXzU0d3NuQ1ZaeFRXUmJ6UUFSZXBsQVlvOXhqQ2tJLVhaR21lWDZVQXNvRG8ycjNFdXFOZmRhVS1nRk41SQ?oc=5"
+ },
+ {
+  "id": "1c694ba9d8",
+  "datum": "2026-10-19",
+  "tijd": "12:56",
+  "nieuw": false,
+  "titel": "Meerdere misstanden ontdekt bij controles op arbeidsuitbuiting",
+  "bron": "Dagblad070",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "arbeidsuitbuiting"
+  ],
+  "samenvatting": "Meerdere misstanden ontdekt bij controles op arbeidsuitbuiting Dagblad070",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2hWRms4SUkzREV4dDRTdlBDeWxpb1BteTA1VDRtT181QjUtQ2lkYVlZZm5FbGxSZV9SR3pZbkg3aHJLeUIwQkx2V1dzeF9Vc0E2TVlDRG42cmRHYnA4ZmFZUERyZGZvREN2MEt3R19LZHpQMV9uZFNPTS1TRFJJaU13X0UwSVE5VjZPUFBreGZKbERVbGUyN3NfUkNielZCRXdSZXR6a0gyNlU?oc=5"
  },
  {
   "id": "378aed1ca5",
@@ -512,25 +803,6 @@
   ],
   "samenvatting": "Misschien heb je 'm zelf ook wel gehad: een WhatsApp-bericht van een bekende met het verzoek om op diens dochter te stemmen voor een gratis dansles. Het lijkt onschuldig, maar wie op de link klikt, loopt het risico de controle over zijn WhatsApp-account te verliezen. Het werkt zo: na een klik op de link kom je op een w",
   "link": "https://nos.nl/l/2635579"
- },
- {
-  "id": "f73e3e7f6b",
-  "datum": "2026-10-19",
-  "tijd": "12:03",
-  "nieuw": false,
-  "titel": "Vrachtwagen kantelt op rotonde in Valkenswaard, lekke band mogelijk oorzaak",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "vrachtwagen"
-  ],
-  "samenvatting": "Een vrachtwagen is maandagmiddag gekanteld op een rotonde op de N69 in Valkenswaard. De chauffeur bleef ongedeerd en kon via het dak uit het voertuig komen. Het ongeluk gebeurde bij de afslag Luikerweg. In het dak van de vrachtwagen zit een luik, waardoor de chauffeur zelf naar buiten kon komen. Voorbijgangers schoten ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6031529/vrachtwagen-kantelt-op-rotonde-in-valkenswaard-lekke-band-mogelijk-oorzaak"
  },
  {
   "id": "145f8a7f1b",
@@ -79623,6 +79895,25 @@
   ],
   "samenvatting": "OM eist 4,5 jaar cel voor witwassen en drugshandel Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGVyNnBpQzlPZHJLS2IyeXZkWXh1Ync4T0hqSzRxVjJHblo4amg4bkRjc2J1OGVqR1FqcGlWbGdjNkFZZ3ZvNk1ia3NOOUZ2RWxrWWRRWWJrX2RiV21XYTZ0V3UtUllVcVdiUjBtNzhJZWwyR3ZvS3h3c2xvV0gtQ3FudzBuOVRCVmJNWFBmOEpCWmdWaS1TcQ?oc=5"
+ },
+ {
+  "id": "2a47159d87",
+  "datum": "2023-06-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Partijen drugs van 1082 en 206 kilo onderschept in Rotterdamse haven - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Partijen drugs van 1082 en 206 kilo onderschept in Rotterdamse haven Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVdkS3RNeGpiWlhUVDhZd1d1TTJTV1RXZWFJUXhxWlBuNkxiYm44U1J1T3E2RmR1TG02X3NvQ2pOa1dZSGxwRzZ1eVg0OGZoZEJ4bkFPdlpSRHRHb0tjcTNYODFXUEJIVHdoUHpmWmNINWpVejUzMWtuaUh2NjJGcXl5XzVYeENmQnZ0bjlWLURpS3BkN3c?oc=5"
  },
  {
   "id": "c3811ed55f",
