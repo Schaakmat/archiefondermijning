@@ -1,5 +1,72 @@
 [
  {
+  "id": "9084195d79",
+  "datum": "2026-10-21",
+  "tijd": "00:18",
+  "nieuw": true,
+  "titel": "'Verdachte in zaak-Hajar opgepakt na mishandeling pleegvader'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld",
+   "vergunning"
+  ],
+  "samenvatting": "De man die is opgepakt voor de dood van de 29-jarige Hajar heeft dinsdagochtend geweld gebruikt tegen zijn pleegvader. Hart van Nederland meldt dat op basis van een buurtbewoner . Ook de NOS sprak een buurtbewoner die vertelde dat het gaat om de pleegvader van de verdachte. De politie heeft dit niet bevestigd, maar zeg",
+  "link": "https://nos.nl/l/2636027"
+ },
+ {
+  "id": "08c632fd79",
+  "datum": "2026-10-20",
+  "tijd": "21:32",
+  "nieuw": true,
+  "titel": "4 jaar cel geëist tegen man die aanslag wilde plegen op beoogd azc in Doetinchem",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Autobranche & garages",
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "garage",
+   "geweld",
+   "woning"
+  ],
+  "samenvatting": "Het Openbaar Ministerie (OM) heeft vier jaar celstraf geëist , waarvan één voorwaardelijk, tegen een man uit Doetinchem omdat hij van plan zou zijn geweest een aanslag te plegen op een beoogde opvang voor asielzoekers in die stad. De politie kwam vorig jaar in de nacht van 8 op 9 december af op een melding van vernieli",
+  "link": "https://nos.nl/l/2636012"
+ },
+ {
+  "id": "d4c054333f",
+  "datum": "2026-10-20",
+  "tijd": "19:24",
+  "nieuw": true,
+  "titel": "Tattooshop Grad Damen loopt schade op door brand: 'Effe in paniek'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand",
+   "school"
+  ],
+  "samenvatting": "In een bedrijfspand in Nieuwkuijk waar zondagavond brand uitbrak, zit ook de tattooshop van volkszanger Grad Damen. De brand woedde aan de achterkant van het gebouw, bij een sportschool die zwaar beschadigd raakte. De tattooshop van Damen liep vooral roetschade op. \"Het is gelukkig heel erg meegevallen\", vertelt hij op",
+  "link": "https://www.omroepbrabant.nl/nieuws/6031736/tattooshop-grad-damen-loopt-schade-op-door-brand-effe-in-paniek"
+ },
+ {
   "id": "5db1a10c92",
   "datum": "2026-10-20",
   "tijd": "19:22",
@@ -10,20 +77,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "burgemeester",
-   "geweld",
-   "grond",
-   "organisatie",
-   "stal",
-   "vergunning"
+   "burgemeester"
   ],
   "samenvatting": "De politie heeft een verdachte aangehouden in verband met de dood van de 29-jarige Hajar. Zij werd vorige week dood gevonden in Amsterdam, na bijna twee weken vermist te zijn geweest. De verdachte is vandaag aangehouden en zit in beperkingen, maakte de Amsterdamse driehoek van burgemeester, politie en justitie vanavond",
   "link": "https://nos.nl/l/2635998"
@@ -112,6 +169,25 @@
   "link": "https://www.gld.nl/nieuws/8538299/bijna-200-flessen-lachgas-ingenomen-tijdens-mobiele-controle-bestuurder-aangehouden"
  },
  {
+  "id": "4e7cad983b",
+  "datum": "2026-10-20",
+  "tijd": "17:42",
+  "nieuw": true,
+  "titel": "Eis tot vijf jaar cel cel voor 'amateuristisch' drugslab Volendamse vader en zoon",
+  "bron": "NH Nieuws",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Eis tot vijf jaar cel cel voor 'amateuristisch' drugslab Volendamse vader en zoon NH Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkgxMDM3aktZQ25icmpydWhvY1R0ckQtREt6UW5SUEhPNFk5RGhtR0t6M2Znc1pYQXdtYUpNcC15b2RRZkV4VlVlQTB5aS1qSHRUZTBxajlTWHlzTDJ5YmNVWFBzbFhVTmNWcDZfV2I5WEUtMk11YS1scHB1RjRISEh0c3dCU2F0ZklxbjZDUm01OWROOWtYME55S2xfZ0pocFFjNmYyc0hiZXFmSmdELWx0aFR4X2tH?oc=5"
+ },
+ {
   "id": "a2825d9069",
   "datum": "2026-10-20",
   "tijd": "17:03",
@@ -165,12 +241,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "explosie",
-   "leider"
+   "explosie"
   ],
   "samenvatting": "Het was even schrikken voor twee voorbijgangers dinsdagmiddag in Nuenen. In een boom zagen ze iets hangen wat sterk leek op een explosief. Ze belden de politie, die met spoed op de melding afkwam, maar het bleek loos alarm. De melding kwam rond een uur 's middags bij de politie binnen. Omdat niet duidelijk was om wat v",
   "link": "https://www.omroepbrabant.nl/nieuws/6031714/politie-rukt-uit-voor-explosief-in-boom-maar-het-blijkt-iets-heel-anders"
@@ -179,7 +253,7 @@
   "id": "3c7a8524fc",
   "datum": "2026-10-20",
   "tijd": "14:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Celstraffen geëist tegen broers uit Eelderwolde voor witwassen in autohandel",
   "bron": "RTV Drenthe",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -198,7 +272,7 @@
   "id": "1d2ba2ad9e",
   "datum": "2026-10-20",
   "tijd": "13:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Justitie: Kamal el M. (30) was ‘informatiemakelaar’ voor corrupte ambtenaren en criminelen, 6 jaar cel geëist - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -217,7 +291,7 @@
   "id": "f2f7352a90",
   "datum": "2026-10-20",
   "tijd": "13:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Loods in Dongen zes maanden dicht na vondst vapes en snus",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -242,7 +316,7 @@
   "id": "924c59dd16",
   "datum": "2026-10-20",
   "tijd": "13:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Arrestaties na vondst van honderd kilo cocaïne bij inval in Barendrecht",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -263,7 +337,7 @@
   "id": "b7c12d4b5f",
   "datum": "2026-10-20",
   "tijd": "12:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Doetinchemmer verdacht van voorbereiden aanslag met 'azc-bom': OM eist vier jaar cel",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -282,7 +356,7 @@
   "id": "c3a8bf0b09",
   "datum": "2026-10-20",
   "tijd": "12:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist zes jaar cel tegen informatiemakelaar die ambtenaar omkocht - Openbaar Ministerie",
   "bron": "Openbaar Ministerie",
   "verzameld_via": "Openbaar Ministerie",
@@ -303,7 +377,7 @@
   "id": "6c3351736e",
   "datum": "2026-10-20",
   "tijd": "12:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Miljoenenschade door brand in drugslab: Volendamse vader en zoon voor de rechter",
   "bron": "Rodi.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -322,7 +396,7 @@
   "id": "4826362e72",
   "datum": "2026-10-20",
   "tijd": "12:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester sluit woning na vondst van drugs en een wapen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -346,7 +420,7 @@
   "id": "2307c6caf1",
   "datum": "2026-10-20",
   "tijd": "11:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestuurder verliest macht over stuur en wordt aangehouden in Oisterwijk",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -365,22 +439,20 @@
   "id": "daf73b867b",
   "datum": "2026-10-20",
   "tijd": "11:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "20/10 in Nieuwsuur: Kindermishandeling in Nederlands opvanghuis Spanje • Verdachte aangehouden dood Hajar",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
    "Criminele samenwerkingsverbanden",
    "Jeugd & jonge aanwas"
   ],
   "tags": [
    "jeugd",
    "jongeren",
-   "organisatie",
-   "vergunning"
+   "organisatie"
   ],
   "samenvatting": "Twintig jaar lang extreme behandelmethoden in Spanje Nederlandse organisaties stuurden jarenlang jongeren met gedragsproblemen naar een Nederlands 'gezinshuis' in Spanje. Daar kregen ze te maken met extreme behandelmethodes. Experts spreken van \"structurele mishandeling en kindermarteling\". Grote jeugdhulpaanbieders, g",
   "link": "https://nos.nl/l/2635934"
@@ -1152,27 +1224,6 @@
   "link": "https://www.gld.nl/nieuws/8537857/rook-uit-woning-door-kortsluiting-brandweer-rukt-uit"
  },
  {
-  "id": "fda78dd3cd",
-  "datum": "2026-10-19",
-  "tijd": "12:44",
-  "nieuw": false,
-  "titel": "'Stem op de dochter van mijn vriendin': Criminelen kapen je WhatsApp met nieuwe truc",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "leider",
-   "school"
-  ],
-  "samenvatting": "Misschien heb je 'm zelf ook wel gehad: een WhatsApp-bericht van een bekende met het verzoek om op diens dochter te stemmen voor een gratis dansles. Het lijkt onschuldig, maar wie op de link klikt, loopt het risico de controle over zijn WhatsApp-account te verliezen. Het werkt zo: na een klik op de link kom je op een w",
-  "link": "https://nos.nl/l/2635579"
- },
- {
   "id": "145f8a7f1b",
   "datum": "2026-10-19",
   "tijd": "11:38",
@@ -1306,29 +1357,6 @@
   ],
   "samenvatting": "De komende twee weken is erop of eronder voor de buitendijkse haven bij Urk. De provinciale politiek moet definitief beslissen of het Flevolandse megaproject doorgaat, of dat de stekker er definitief uit gaat. Woensdag vergadert de commissie Economie, Mobiliteit en Samenleving achter gesloten deuren over het voorstel o",
   "link": "https://www.omroepflevoland.nl/nieuws/527602/honderden-banen-staan-op-het-spel-bij-urk:-provincie-beslist-over-extra-miljoenen-voor-haven"
- },
- {
-  "id": "6246b60414",
-  "datum": "2026-10-19",
-  "tijd": "06:30",
-  "nieuw": false,
-  "titel": "Wekdienst 19/10: Canadese provincie Alberta stemt over afsplitsing • Franse ministers bijeen na rellen",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "afval",
-   "geweld",
-   "jongeren"
-  ],
-  "samenvatting": "Goedemorgen! In de Canadese provincie Alberta wordt een referendum gehouden over een mogelijke afsplitsing en in Frankrijk komen de ministers in een crisisvergadering bijeen om te praten over de rellen van afgelopen weekend. Eerst het weer: vanochtend bewolking en in het zuiden mist. Later meer zon. Het wordt 13 tot 16",
-  "link": "https://nos.nl/l/2635548"
  },
  {
   "id": "6f05b12476",
@@ -4168,6 +4196,25 @@
   ],
   "samenvatting": "Mannen (45 en 49) uit Breda aangehouden voor mensensmokkel en witwassen Headliner.nl",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1JfSGRYRW8wdGwtWnRwOGxodzJPOUxIZktaSlZ5cEREa3J1OWxLRjhyejVrYU4xY0hHXzFhQjB6aWc0alRncVNaX01mc0RMT3F0emkzVHZqRHJDMUdYR2FnWklNc3BNeU4tMmdVWFZ6cHlUTXJaSkpMdDJtcEItTHpBbTllQzM0SjFpSG5xNWVYU080MDE2Z0xDel9Yb08wWE5iMmZXNjd2VEJqa2V1LTl4Nm93M2ExSHJ6QlVsYmt1V0hkUUtOdg?oc=5"
+ },
+ {
+  "id": "bda727aec3",
+  "datum": "2026-10-14",
+  "tijd": "14:53",
+  "nieuw": false,
+  "titel": "Marechaussee arresteert twee mannen uit Breda in onderzoek naar mensensmokkel vanuit Syrië via Turkije",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Marechaussee arresteert twee mannen uit Breda in onderzoek naar mensensmokkel vanuit Syrië via Turkije Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRW51RUR6RkkwSXVtSk1vOHp0VVRHVTN3VXV6aDRkbWRXdmh0SGk5VG9ZWjI4YnpqcnlwRThNelpxVV92ZnpwVzJYVmU2eXJVVFlNeDBFbTI3ZWlCZTBBbEtEMkYzR2hVOXotaWhuMHJfUlhPc3F4MTZCWFNOX2VVNzlVc1Jsc3BoRG04TGM1TnNMRFpyWUhmTWM5c3lVVklabVhfYU5McENvc3pDRDRrWlVjaEtRdEVieXFscWdxaWhjLU9LOGRBbnpHRElUT3lDc3c?oc=5"
  },
  {
   "id": "bab94fb9ce",
