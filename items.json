@@ -1,5 +1,69 @@
 [
  {
+  "id": "7023210584",
+  "datum": "2026-10-21",
+  "tijd": "22:54",
+  "nieuw": true,
+  "titel": "Nog altijd websites niet bereikbaar na lek, ook internationaal nog problemen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "beveiliging",
+   "geweld",
+   "organisatie",
+   "stal"
+  ],
+  "samenvatting": "Er zijn nog altijd websites onbereikbaar nadat die uit voorzorg offline zijn gehaald. Dat gebeurde na een lek in de programmeertaal PHP. Zo is de website overheid.nl nog niet bereikbaar, evenals de site van Meld Misdaad Anoniem. Ook de sites van 113 en Centrum Seksueel Geweld waren nog tot laat offline. Een woordvoerde",
+  "link": "https://nos.nl/l/2636149"
+ },
+ {
+  "id": "a145d49ffa",
+  "datum": "2026-10-21",
+  "tijd": "21:07",
+  "nieuw": true,
+  "titel": "Lelystad - Mogelijke winkeldief haalt nat pak in Markermeer, brandweer schiet te hulp",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "beveiliging"
+  ],
+  "samenvatting": "Meerdere hulpdiensten zijn woensdagavond uitgerukt nadat een persoon in het water van het Markermeer was beland. Dat gebeurde rond 20.00 uur bij Batavia Stad aan de Oostvaardersdijk in Lelystad. Volgens een 112-verslaggever ging het vermoedelijk om een winkeldief die in het water was beland nadat hij door beveiligingsp",
+  "link": "https://www.omroepflevoland.nl/nieuws/528320/mogelijke-winkeldief-haalt-nat-pak-in-markermeer-brandweer-schiet-te-hulp"
+ },
+ {
+  "id": "d4109ef3fe",
+  "datum": "2026-10-21",
+  "tijd": "20:53",
+  "nieuw": true,
+  "titel": "Emmeloord - Ouder echtpaar opgelicht door nepagent, politie deelt beelden",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Goudhandel & edelmetalen",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "contant geld",
+   "sieraden"
+  ],
+  "samenvatting": "Een ouder echtpaar uit Emmeloord is opgelicht door een nepagent. Kort daarna werd bij een pinautomaat aan de Scandinaviëlaan 500 euro gepind met de gestolen pinpas. Dat meldt de politie. Het incident vond halverwege september plaats. De vrouw werd gebeld door een nepagent, die aangaf dat er in de buurt was ingebroken d",
+  "link": "https://www.omroepflevoland.nl/nieuws/528272/ouder-echtpaar-opgelicht-door-nepagent-politie-deelt-beelden"
+ },
+ {
   "id": "223b58ca50",
   "datum": "2026-10-21",
   "tijd": "20:34",
@@ -12,19 +76,34 @@
   "dossiers": [
    "Bibob & bestuurlijke aanpak",
    "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk",
-   "Zorgfraude & sociale zekerheid"
+   "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
    "burgemeester",
-   "cobra 6",
-   "explosie",
-   "granaat",
-   "handgranaat",
-   "huurwoning"
+   "vuurwerk",
+   "woning"
   ],
   "samenvatting": "Burgemeesters grijpen te snel naar het middel van woningsluiting als bij een voordeur een vuurwerkbom is ontploft, vindt advocaat Diederik van Tellingen. Hij is naar de Raad van State gestapt namens een alleenstaande moeder uit Lelystad die in januari 2025 met haar toen driejarige zoontje een week op straat kwam te sta",
   "link": "https://www.omroepflevoland.nl/nieuws/528284/'lelystad-was-te-snel-met-sluiten-woningen-na-vuurwerkbom'"
+ },
+ {
+  "id": "0c8baa7713",
+  "datum": "2026-10-21",
+  "tijd": "19:49",
+  "nieuw": true,
+  "titel": "Politie alert bij duel NEC in Zagreb",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "De politie in Zagreb is alert in de aanloop naar het duel van NEC met Dinamo Zagreb. In het centrum van de Kroatische hoofdstad waren woensdag op diverse plaatsen politiebusjes te zien. Dit alles om een gewelddadige confrontatie tussen supporters van NEC en de harde kern van Dinamo te voorkomen.",
+  "link": "https://www.gld.nl/sport/8538685/politie-alert-bij-duel-nec-in-zagreb"
  },
  {
   "id": "9c10c5cbfd",
@@ -38,13 +117,11 @@
   "regio": "Flevoland",
   "dossiers": [
    "Drugsproductie & labs",
-   "Hennep & wietteelt",
-   "Vastgoed & huisvesting"
+   "Hennep & wietteelt"
   ],
   "tags": [
    "hennep",
-   "ketamine",
-   "woning"
+   "ketamine"
   ],
   "samenvatting": "Drie Chinese mannen zijn veroordeeld tot celstraffen voor hun betrokkenheid bij een omvangrijke handel in ketamine en hennep. Het drietal had in Almere en Lelystad een complete infrastructuur opgezet om drugs op te slaan en te verhandelen. Ketamine werd onder meer verstopt in zelfgemaakte bloemornamenten van gips. Zo w",
   "link": "https://www.omroepflevoland.nl/nieuws/528257/chinese-mannen-krijgen-celstraf-voor-grootschalige-handel-in-ketamine-en-hennep"
@@ -61,15 +138,11 @@
   "regio": "Landelijk",
   "dossiers": [
    "Arbeidsuitbuiting & mensenhandel",
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "camping",
    "douane",
-   "mensensmokkel",
-   "netwerk"
+   "mensensmokkel"
   ],
   "samenvatting": "De Nederlandse Douane gaat strenger controleren op de import van grote rubberboten die worden ingezet bij mensensmokkel over het Kanaal. Dat zegt de Douane na vragen van Nieuwsuur . De laatste weken komen rubberboten ineens vaker in Nederland aan met vrachtvliegtuigen vanuit Turkije. De Koninklijke Marechaussee ondersc",
   "link": "https://nos.nl/l/2636118"
@@ -95,6 +168,29 @@
   ],
   "samenvatting": "De FIOD heeft dinsdag een 45-jarige man en een 43-jarige vrouw uit Almere opgepakt op verdenking van witwassen en hypotheekfraude. Bij het witwassen zou het om miljoenen euro's gaan. Twee huizen in Almere zijn doorzocht en op de woning van de vrouw is beslag gelegd. Dat meldt de Fiscale Inlichtingen- en Opsporingsdiens",
   "link": "https://www.omroepflevoland.nl/nieuws/528269/huizen-doorzocht-in-almere:-verdachten-zouden-miljoenen-hebben-witgewassen"
+ },
+ {
+  "id": "eb6bfdab74",
+  "datum": "2026-10-21",
+  "tijd": "19:03",
+  "nieuw": true,
+  "titel": "Oude vrouw in haar huis overvallen, sieraden van lichaam gerukt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Goudhandel & edelmetalen",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "geweld",
+   "sieraden",
+   "woning"
+  ],
+  "samenvatting": "Een oude vrouw is woensdagavond overvallen in haar seniorenwoning aan de Houtwal in Veldhoven. Een man rukte met geweld de sieraden van haar lichaam en ging er daarna vandoor. Volgens de politie stond de man rond halfacht voor de deur van de vrouw. Toen ze opendeed, trok hij de sieraden van haar lichaam en rende hij we",
+  "link": "https://www.omroepbrabant.nl/nieuws/6031887/oude-vrouw-in-haar-huis-overvallen-sieraden-van-lichaam-gerukt"
  },
  {
   "id": "c1cf238c5d",
@@ -153,15 +249,12 @@
   "dossiers": [
    "Arbeidsuitbuiting & mensenhandel",
    "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
    "Jeugd & jonge aanwas"
   ],
   "tags": [
    "douane",
    "jeugd",
-   "jongeren",
-   "mensensmokkel",
-   "organisatie"
+   "mensensmokkel"
   ],
   "samenvatting": "Meer rubberboten voor mensensmokkel De laatste weken komen rubberboten ineens vaker in Nederland aan met vrachtvliegtuigen vanuit Turkije. Zulke grote rubberboten kunnen worden ingezet bij mensensmokkel over Het Kanaal. Vandaar dat de douane nu strengere controles wil gaan uitvoeren. De boten zijn volgens justitie afko",
   "link": "https://nos.nl/l/2636098"
@@ -240,11 +333,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Drugsproductie & labs"
+   "Buitengebied & recreatie"
   ],
   "tags": [
-   "loods",
    "stal"
   ],
   "samenvatting": "Een opvallende dief in Bergen op Zoom: een oudere man op een scootmobiel is er met meerdere tuinaccessoires vandoor gegaan. De verdachte staat duidelijk op beeld en krijgt nog twee weken de tijd om zichzelf bij de politie te melden. De politie deelt nu beelden van de diefstal die gebeurde op zondag 10 mei tussen drie e",
@@ -358,7 +449,7 @@
   "id": "37f52a298b",
   "datum": "2026-10-21",
   "tijd": "13:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kleine drugsvangst leidt politie naar materiaal voor drugslab: veertiger krijgt achttien maanden voorwaardelijk",
   "bron": "Nieuwsblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -377,7 +468,7 @@
   "id": "5e1b4ae608",
   "datum": "2026-10-21",
   "tijd": "12:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "“Hij had geld nodig voor zieke dochter”: iets mildere straf voor lid van ‘reisbureau van de mensensmokkel’",
   "bron": "Nieuwsblad",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -393,29 +484,10 @@
   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNQjJjenk0Mldkbm8yS2IxeU5LWThqaG9YZERNYVppeXVWVEVyMUw2VnNSOE5reHBCVFkxa0FjdEczQm5PclJCT2dwcTlfQ0FGMFFWODVzVkNGUHFCMVBrOXNSb0h6VFBPYWIwb085MmYxTEhPNUdTU2EwdWlnMGJ2dk50dm9Fdll6UndHVmp3bGZkejc4c2cwQVdubXlMYXdnTlZaQ1hRSXo5b19razdCNGExcE5pRlVseTR2ajROd3lOYndaajFmaW9hOTNicE9UeUUzWDExdjdTaWVUNkxSY2lLQkpBV29lYlhZY2ppWHhlRjdBZktlTnNORkE0U3VYT2xiM3RJX0NObzhEOW0yZmVKNA?oc=5"
  },
  {
-  "id": "9b83a61335",
-  "datum": "2026-10-21",
-  "tijd": "12:16",
-  "nieuw": true,
-  "titel": "Lelystad - Wegrestaurant Hajé A6 Lelystad kan 'drive thru' en laadpalen vergeten",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak"
-  ],
-  "tags": [
-   "vergunning"
-  ],
-  "samenvatting": "Wegrestaurant Hajé mag bij de verzorgingsplaatsen De Lepelaar en De Aalscholver langs de A6 bij Lelystad geen 'drive-thru'-loketten en laadpalen aanleggen. Voor allebei zijn extra wegen nodig en die maken de verzorgingsplaatsen te onoverzichtelijk, vindt de Raad van State. Wie van de snelweg afrijdt, moet in één oogops",
-  "link": "https://www.omroepflevoland.nl/nieuws/528253/wegrestaurant-haje-a6-lelystad-kan-'drive-thru'-en-laadpalen-vergeten"
- },
- {
   "id": "444e38e42a",
   "datum": "2026-10-21",
   "tijd": "11:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Donderdag rijden de bussen gewoon: staking streekvervoer van de baan",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -436,7 +508,7 @@
   "id": "aef3f48a2b",
   "datum": "2026-10-21",
   "tijd": "11:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Inval bij Le Mirage in Diepenbeek is deel van internationaal onderzoek naar mensenhandel en pooierschap",
   "bron": "VRT",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -455,7 +527,7 @@
   "id": "f1be8e21de",
   "datum": "2026-10-21",
   "tijd": "11:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "FIOD houdt twee verdachten aan voor witwassen en hypotheekfraude",
   "bron": "Taxlive",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -476,7 +548,7 @@
   "id": "e809053088",
   "datum": "2026-10-21",
   "tijd": "11:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "FIFA slaat terug na correctie van The Times: opnieuw ondermijning gezag van Gianni Infantino",
   "bron": "De Telegraaf",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -495,7 +567,7 @@
   "id": "ddae21b751",
   "datum": "2026-10-21",
   "tijd": "11:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Websites massaal offline vanwege risico op lek: veel gemeentes, RET en Veiligheidsregio uit de lucht",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -514,7 +586,7 @@
   "id": "dae85fe212",
   "datum": "2026-10-21",
   "tijd": "10:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Dijk tussen Lelystad en Enkhuizen dicht voor vrachtwagens vanaf 15 ton, en dat zal nog jaren zo blijven",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -536,7 +608,7 @@
   "id": "04ca7b88ac",
   "datum": "2026-10-21",
   "tijd": "10:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man rijdt motorrijder dood, justitie wil vrijspraak: slachtoffer reed 160",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -555,23 +627,17 @@
   "id": "172306bee8",
   "datum": "2026-10-21",
   "tijd": "10:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Felle kritiek doet plan voor woonwagens Bosweg de das om, college Lelystad moet meer locaties onderzoeken",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Criminele samenwerkingsverbanden",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "bende",
-   "burgemeester",
-   "grond",
-   "woning"
+   "burgemeester"
   ],
   "samenvatting": "Het plan om een grasveld aan de Bosweg in Lelystad aan te wijzen als plek voor 16 woonwagens, is van tafel. Wethouder Emiel van der Herberg heeft het voorstel ingetrokken na kritiek van de raad. Het college van burgemeester en wethouders komt met een aangepast voorstel, waarin naar meerdere plekken wordt gekeken. De ra",
   "link": "https://www.omroepflevoland.nl/nieuws/528188/felle-kritiek-doet-plan-voor-woonwagens-bosweg-de-das-om-college-lelystad-moet-meer-locaties-onderzoeken"
@@ -580,7 +646,7 @@
   "id": "eefd6ed2e4",
   "datum": "2026-10-21",
   "tijd": "10:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist zeven en twaalf jaar cel tegen Hagenaars voor drugslab",
   "bron": "Dagblad070",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -599,7 +665,7 @@
   "id": "ed33280171",
   "datum": "2026-10-21",
   "tijd": "10:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist zeven en twaalf jaar cel tegen Hagenaars voor drugslab",
   "bron": "Rijswijks Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -618,7 +684,7 @@
   "id": "eacb098cb2",
   "datum": "2026-10-21",
   "tijd": "09:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Café ’t Uilennest moet dicht van gemeente, maar uitbaters vechten terug",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -637,7 +703,7 @@
   "id": "efe4876c0b",
   "datum": "2026-10-21",
   "tijd": "09:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wereldvoetbalbond FIFA haalt fel uit na rectificatie over omstreden Gianni Infantino: 'Ondermijning van gezag'",
   "bron": "Sportnieuws.nl",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -855,29 +921,6 @@
   ],
   "samenvatting": "Sloop- en grondverzetbedrijf Gubbels Bedrijven uit Helvoirt is dit weekend voor de tweede keer in korte tijd slachtoffer geworden van diefstal. Van de bouwplaats van een project in de regio Roosendaal hebben dieven een aggregaat en brandstof ter waarde van 15.000 euro gestolen. Het terrein was goed afgesloten. Ook ston",
   "link": "https://www.omroepbrabant.nl/nieuws/6031748/opnieuw-diefstal-bij-gubbels-aggregraat-en-brandstof-gestolen"
- },
- {
-  "id": "e31a211ad3",
-  "datum": "2026-10-21",
-  "tijd": "06:11",
-  "nieuw": false,
-  "titel": "Sloopbedrijf opnieuw slachtoffer van diefstal: tienduizenden euro's schade",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "beveiliging",
-   "grond",
-   "stal"
-  ],
-  "samenvatting": "Sloop- en grondverzetbedrijf Gubbels Bedrijven uit Helvoirt is dit weekend voor de tweede keer in korte tijd slachtoffer geworden van diefstal. Van de bouwplaats van een project in de regio Roosendaal werden een aggregaat en brandstof gestolen, eerder verdween onder meer een shovel. Totale schade: enkele tienduizenden ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6031748/sloopbedrijf-opnieuw-slachtoffer-van-diefstal-tienduizenden-euros-schade"
  },
  {
   "id": "b83016c7d7",
@@ -1422,6 +1465,25 @@
   ],
   "samenvatting": "Man (19) aangehouden voor poging tot doodslag na politieachtervolging: “Ook verdacht van mensensmokkel” pzc.nl",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbi1OUm5qWTVTXzBHeFVuQ2dyWnlLc0JCNlFYNXY0eE5iWGU3YUtpcmk2LTJfWTQ0Nk5kZXB0aFVoS0c3WDZYLVpPS25YN003cW1fazRkQzZ0OFBQdmRiX1o0ank1V0gtYVVWZ0ZtWUZUTVpwSHlyTlo0WU1wWkFSRHhaa1I5YVlYcWx4UXFtUDFjU3FBWGhfVjdPTmxlYXJyRUVGcTd0cGdZcUdDRTR5X2dzdi1nU2NKdTlpSEdjVGJsWTRsd2pMWmg4Nnk?oc=5"
+ },
+ {
+  "id": "d722af7951",
+  "datum": "2026-10-20",
+  "tijd": "11:19",
+  "nieuw": false,
+  "titel": "Man (19) aangehouden voor poging tot doodslag na politieachtervolging: “Ook verdacht van mensensmokkel”",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Man (19) aangehouden voor poging tot doodslag na politieachtervolging: “Ook verdacht van mensensmokkel” HLN",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUjBJLTIwbzMyNzBudlFGOExOcG9ONUlIdENZblNKUlhLcHM3VE9kSDJxN2lsbmRITTN2c3dkaFhjc0VJVFNwSHFCa0V2aTZ1eVRrUDBYMEFrNy1PbHJXQ2JiYnZSRWZ4akdFSUZEM1ZiMlo1Y2h4dTFQbVEyb0JGTldTdmpNcG55by1weFAtTE5hc2pEQ1pOZ1RMZGNvcFdQUWpubUU3RUxsMjJPYVFPRkJsa3ZvTjNyYkhfOUF4NUwxQmZfUFI5c09MVGppUm5J?oc=5"
  },
  {
   "id": "95e53a3c6a",
@@ -5565,6 +5627,25 @@
   ],
   "samenvatting": "Na feest in Beverwijk van verboden motorclub lichten IJmond-gemeenten ondernemers in over veilig verhuren Noordhollands Dagblad",
   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRGZWNENvR2I2TnR1YWNtTWZYNkRKdXVHaGNVOW0xcmxJZXZISHVrNGFYaEdFVHdNUnJ3UnhDaDNORW1NakxXdjYwWUxFTzZ0NHVnaWh2ajVkT0FqQXVjc3lSd0RXTkU3d1JPX0hnOFk5Z1V1ZlNRMDVSSXdhMFNGSVZINEwxMk9OOThHeEVrU2ZGcGRZR2RzNEhWR1Z1ODh5UzJIVFRTUDFWQ2IxN3NCdnpLamFGRHN3dVpsaW5DSGNpWFR0OW5VenozaExZQjRvLV96Z3BKMGtGUGlSc2IwV0g3VzNiU215VkZULVJXd2hHbkFGM2xhd1hCdFZSZw?oc=5"
+ },
+ {
+  "id": "fad65e18b1",
+  "datum": "2026-10-14",
+  "tijd": "05:00",
+  "nieuw": false,
+  "titel": "Na feest in Beverwijk van verboden motorclub lichten IJmond-gemeenten ondernemers in over veilig verhuren",
+  "bron": "Haarlems Dagblad",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "motorclub"
+  ],
+  "samenvatting": "Na feest in Beverwijk van verboden motorclub lichten IJmond-gemeenten ondernemers in over veilig verhuren Haarlems Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOHduVXhZZkZVeE84bVV2UVJ3ZWZraF9QNERHUGNaWjJqdUM3NnZNb00tckh4Y1BZaC1Ja1gwTkFCTFE2NkJjVWhGbHZKbGx6VHc0bDVocVh2UUNheHhQMzYybzRmVjBlZDRCTGlkcjNldEl2U2NhNHYxa3dkTmNiMDhuUHZOR2N3bnNWVUdJMXFBV3R5c2x5d0s0QTRtRE5yQVl4cGl6TXdVVmJuOW54a2FHWUR6OTBDMHpqeVVqZ1hWM1lSZFd3ZFg0NzVHaHRSN1FiaGVweW10NlZRWXNZS1NTX1hSa3dRdGNoODZWWmJMZWpTbFA4?oc=5"
  },
  {
   "id": "2c97ffccde",
@@ -82167,6 +82248,25 @@
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1JKYU5JanFpRHYwNkhWZ0ZNM1FDd21LcVE4dVJuczdTRTI2VzJTSHlQeU0xZTNiZVdlNW9EdXRtbi1KX2FoZERjcVc3OFVsX0hFUmF0OUZxNVEzR0JCZmRFbnRuU0tILVFKRXJWZkNtOVpXSUprV3poaFRJaDRpSHB2RWJLV0taU1VKc1lWaVBBd0I4dEk5R0I5OElCZzNmR1pv?oc=5"
  },
  {
+  "id": "f31f0728f1",
+  "datum": "2023-04-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drugslab in vakantiehuisje ontdekt, man en vrouw uit Oss aangehouden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab in vakantiehuisje ontdekt, man en vrouw uit Oss aangehouden Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWksyT0lWM2lBS0V6QmExQWJHb2kxempKb01rWE5fZ3lGM0tmQzZEMjVnT3BQdWwzQmFWd2k0WVdMR0VpM2JIby0yRnFVNmpMaEFwaFFteDZiWmhQQjh6LWdfMDFTUlNFam1xc0IyNEJ3S2tuQ1VRSnVJM0FJaHBxVWRMYms2aGRaYzBHeldPR1FhSzBMUnBBcFI0QktEYnB1YUthdEFWRV9xcnVtdVQzaQ?oc=5"
+ },
+ {
   "id": "77eaccee86",
   "datum": "2023-04-15",
   "tijd": "07:00",
@@ -93665,6 +93765,25 @@
   ],
   "samenvatting": "Sarkozy vervolgd voor omkoping en corruptie EenVandaag",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQS1XQnpiOXNwdGZ0dDl4dkw3WGtfdEdWU3M0NWVLSVJJZDkwc1NEZFVhd3NoMDVVNzV6MUlMOWsxMUxPRWlzb01DTHJvSmJfU3hWbkNMVS1UMWJid2VSTW5GcWpkVFFBRWJrQi1RYXFTVy02NE1Uc2hvQldwYXdWUzhONDBTVDh0Z1ZyeEh5WXEtWkcy?oc=5"
+ },
+ {
+  "id": "34ea3f7274",
+  "datum": "2014-04-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Dodelijke slachtoffers drugslab Uden komen uit Roermond en Heythuysen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Dodelijke slachtoffers drugslab Uden komen uit Roermond en Heythuysen Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa01qc1l2V0lWT0NrSnBFb3FpWEVIM1pLT3lDem5PWVA5MTN6RlR3YjByR3pWYm9EYS16X3d6X3Y5czh5TjlQRU53ZkNsVnhtaHd3YTgyUXQ1VTBxZkRHNDhLWGtncXlGWi1WVmtqRXY3TFFFMy1XWDMzVG5qWjE0RnQxVGxiY2w1YW4yTmxXOEU3U3BYOXZEcEQtNnBfTWotOEZjWk5GZWJ3QWZoZThpbE53bw?oc=5"
  },
  {
   "id": "ac67d54791",
