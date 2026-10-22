@@ -1,5 +1,24 @@
 [
  {
+  "id": "b612de7fd7",
+  "datum": "2026-10-21",
+  "tijd": "23:53",
+  "nieuw": true,
+  "titel": "Afghaanse mannen die aanspoelden op Texel slachtoffer van mensensmokkel",
+  "bron": "Bnnvara",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Afghaanse mannen die aanspoelden op Texel slachtoffer van mensensmokkel Bnnvara",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXpUS0xuaTlONy14dlo3MmxLWGw3Y2FmWVp4enVueVViOXZ0X3V2S1YyQWFOZVBtbUlRT0tMVkVFSHc0YVhiMnpPeHpqWmRQcTNrSXFoM0h0U2tjcTFyQjl0ZmhTODJKTXIwQUFqUE5qT2xMWmtZZU1SSUxkVVpvLWVEQk9UNDR5YUhfNTlESEppVzItbVF3RlVhdGU0QU1iX2N2VGVRUjd4LXg4ZDZRTg?oc=5"
+ },
+ {
   "id": "7023210584",
   "datum": "2026-10-21",
   "tijd": "22:54",
@@ -260,6 +279,25 @@
   "link": "https://nos.nl/l/2636098"
  },
  {
+  "id": "7ed6b495a1",
+  "datum": "2026-10-21",
+  "tijd": "16:20",
+  "nieuw": true,
+  "titel": "OM eist tot 12 jaar celstraf en 80.000 euro boete voor groot drugslab Middenbeemster",
+  "bron": "Headliner.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "OM eist tot 12 jaar celstraf en 80.000 euro boete voor groot drugslab Middenbeemster Headliner.nl",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRHBPZkx4ZWZXOUNZamd2Vmlla2NwR01rZTJFSGhzbERVeHdiMk9JSExDNmhDNHFOSmhlMGQtcm5FbmxqT3R1eko2LUxSZ0hFUFBidWx6dXlTa1JGZ183WXphdnUwSlRBVHlZeDhxX1B2Y1FPTldBZGF1MWw1TTlVQ043akkwM0VXS2o0V0x1dUIxZ3dsdFpSVGtqX2JZdnJNRzV1Nm1jNHc3MXpLS2NIeFkycXEwUDlObGNFT2g4LTV3UXdRWHpYeEFianY0LW8?oc=5"
+ },
+ {
   "id": "e86327e387",
   "datum": "2026-10-21",
   "tijd": "15:55",
@@ -326,7 +364,7 @@
   "id": "a74c189983",
   "datum": "2026-10-21",
   "tijd": "14:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie zoekt man met pet op scootmobiel na diefstal van tuinspullen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -345,7 +383,7 @@
   "id": "4b51d9822c",
   "datum": "2026-10-21",
   "tijd": "14:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kapperszaak Tholen twee keer in maand doelwit van vernieling",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -364,7 +402,7 @@
   "id": "8316fd73fe",
   "datum": "2026-10-21",
   "tijd": "14:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Riad (36) gestraft voor mensenhandel en witwassen: slachtoffer moest huur verdienen met prostitutie",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -386,7 +424,7 @@
   "id": "3570da9cbf",
   "datum": "2026-10-21",
   "tijd": "14:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wat we nu weten over de zaak-Hajar en de man die wordt verdacht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -405,7 +443,7 @@
   "id": "67932d458a",
   "datum": "2026-10-21",
   "tijd": "13:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Mijn kamergenoot wil me ombrengen': verklaring leidt tot rechtszaak over wapenhandel",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -425,7 +463,7 @@
   "id": "18f5e5df47",
   "datum": "2026-10-21",
   "tijd": "13:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man opgepakt voor bedreigen en beledigen burgemeester | Pand gesloten door burgemeester na grote vondst cocaïne",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1524,25 +1562,6 @@
   ],
   "samenvatting": "De bewoner van het huis aan de Vassebrink in Enschede, waar gisteravond een enorme explosie plaatsvond, is eerder al slachtoffer geweest van een aanslag op zijn leven. Dat blijkt uit onderzoek van RTV Oost.",
   "link": "https://www.oost.nl/nieuws/3709621/enorme-explosie-bij-woning-enschede-bewoner-eerder-bijna-doodgestoken"
- },
- {
-  "id": "e4d30935e2",
-  "datum": "2026-10-20",
-  "tijd": "09:36",
-  "nieuw": false,
-  "titel": "'Alle poten onder zijn stoel vandaan gezaagd': ontslag directeur kost bedrijf ruim twee ton",
-  "bron": "Rijnmond",
-  "verzameld_via": "Rijnmond",
-  "soort": "Nieuwsbericht",
-  "regio": "Rotterdam",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "stal"
-  ],
-  "samenvatting": "Na ruim achttien jaar trouwe dienst werd een financieel directeur door het Rotterdamse bedrijf Bilfinger Thermeq aan de kant gezet. Volgens de rechter werden daarbij \"alle poten al onder zijn stoel vandaan gezaagd\". Het ontslag was onterecht en de werkgever moet de man onder voorwaarden ruim 221.000 euro aan vergoeding",
-  "link": "https://www.rijnmond.nl/nieuws/2270312/alle-poten-onder-zijn-stoel-vandaan-gezaagd-ontslag-directeur-kost-bedrijf-ruim-twee-ton"
  },
  {
   "id": "3e82656a47",
@@ -87343,6 +87362,25 @@
   ],
   "samenvatting": "Grootschalige campagne tegen drugslabs in Drenthe de-wolden.nieuws.nl",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDNVd0pZMEJBRzhfU1p3ZzgtRUpKSWRPQXNVZlpkYWVuMnFmQ3RnNWpzR2tQMGdvR1ExTW9Zbkdra3JUd3JWbTBWcDlQQU00cF9uVzJtb19FOEY4RGtKM3R0U3Nya3FEb3dPMHhlRTE1eU5BSHdCRlJLaEtrYU5zbFZOV1dJcUpHcS1ubA?oc=5"
+ },
+ {
+  "id": "3f588bbba6",
+  "datum": "2021-03-08",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Twee van vier verdachten witwassen 5 miljoen in Purmerend vrij - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Twee van vier verdachten witwassen 5 miljoen in Purmerend vrij Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOak54TG5Nc2Z3aVh4WWtRZ21UbUhCZnpSbUNQcDdJNGlHNDR0Qm1DNXp3Y240cUtaTUFicmY5RTZUZFUwd2p3bGlLRWkxazh4QkRrZEh5cHNfcHV0Q0J2SDFhOEhFa2trRTR4cWlGX0tKUzFjRnZhREJ6NU0yb1p0UDV3dFlKN3V4XzZpZE5nN3JTNFgtSkRaVHBzc1dNdlBmbGFUNGZrMA?oc=5"
  },
  {
   "id": "03acc89992",
