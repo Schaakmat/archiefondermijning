@@ -1,5 +1,89 @@
 [
  {
+  "id": "c165492b3c",
+  "datum": "2026-10-22",
+  "tijd": "09:13",
+  "nieuw": true,
+  "titel": "Lelystad - Provincie wil geen regierol nemen bij oplossing woonwijk Parkhaven",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Jeugd & jonge aanwas",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "haven",
+   "ondernemers",
+   "school"
+  ],
+  "samenvatting": "De provincie wil op dit moment geen regierol innemen om een oplossing te vinden voor het probleem van de waterveiligheid in de Lelystadse buitendijkse wijk Parkhaven. Gedeputeerde Sjaak Simonse wil eerst wachten op een feitenonderzoek en een rechtszaak bij de Raad van State. Bewoners van Parkhaven spraken woensdagavond",
+  "link": "https://www.omroepflevoland.nl/nieuws/528315/provincie-wil-geen-regierol-nemen-bij-oplossing-woonwijk-parkhaven"
+ },
+ {
+  "id": "e5c35e91e1",
+  "datum": "2026-10-22",
+  "tijd": "06:23",
+  "nieuw": true,
+  "titel": "Lelystad - LTO wil aanpassing afsluiting Houtribdijk: 'Dit is onwerkbaar voor boeren en tuinders'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "ondernemers",
+   "organisatie",
+   "vrachtwagen"
+  ],
+  "samenvatting": "De afsluiting van de Houtribdijk voor vrachtwagens zwaarder dan vijftien ton zorgt volgens LTO voor grote problemen voor boeren en tuinders in Flevoland. Rijkswaterstaat voerde de afsluiting woensdag in. Volgens de belangenorganisatie voor de land- en tuinbouw is die onwerkbaar. Daarom is LTO met Rijkswaterstaat in ges",
+  "link": "https://www.omroepflevoland.nl/nieuws/528283/lto-wil-aanpassing-afsluiting-houtribdijk:-'dit-is-onwerkbaar-voor-boeren-en-tuinders'"
+ },
+ {
+  "id": "e1236c521b",
+  "datum": "2026-10-22",
+  "tijd": "05:03",
+  "nieuw": true,
+  "titel": "Vrouw uit Mol centraal in internationaal onderzoek naar mensenhandel",
+  "bron": "RTV",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Vrouw uit Mol centraal in internationaal onderzoek naar mensenhandel RTV",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVZCdmp3VkdFcTVncWJSRVFVbkdWZG5SdUlWcXEwUEZlYjVzZ0lKS0txdGdlNDBDa0t1bFpSeng5M2hDMXA2b1BFSmVGeHduT3ZNdHVHVGZTcUxSUUNrLTE4bGx2LVZscGtVR2F2UW1OSXF5X1NVUTNhYjJGa3pOM1drOWUzWkJqdS1NcXI4aDlfUFBXN0Y5MHo2WU1LTENwR0RwbXo3WUNpQQ?oc=5"
+ },
+ {
+  "id": "9f2934d77e",
+  "datum": "2026-10-22",
+  "tijd": "04:30",
+  "nieuw": true,
+  "titel": "Daklozen maken van overkapping in Helmond een huiskamer: ‘Geen goede plek’",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "ondernemers"
+  ],
+  "samenvatting": "Het lijkt op een bushokje, maar het is inmiddels bijna een huiskamer. De overkapping aan de Kanaaldijk Noord-Oost in Helmond is bekleed met dekens tegen de wind en staat vol met meubels, plantjes en kaarsen. De gemeente gaf een groep daklozen hier een plek om te schuilen, om zo de overlast in een nabijgelegen park tege",
+  "link": "https://www.omroepbrabant.nl/nieuws/6031861/daklozen-maken-van-overkapping-in-helmond-een-huiskamer-geen-goede-plek"
+ },
+ {
   "id": "b612de7fd7",
   "datum": "2026-10-21",
   "tijd": "23:53",
@@ -39,7 +123,7 @@
    "organisatie",
    "stal"
   ],
-  "samenvatting": "Er zijn nog altijd websites onbereikbaar nadat die uit voorzorg offline zijn gehaald. Dat gebeurde na een lek in de programmeertaal PHP. Zo is de website overheid.nl nog niet bereikbaar, evenals de site van Meld Misdaad Anoniem. Ook de sites van 113 en Centrum Seksueel Geweld waren nog tot laat offline. Een woordvoerde",
+  "samenvatting": "Er zijn nog altijd websites onbereikbaar nadat die uit voorzorg offline zijn gehaald. Dat gebeurde na een lek in de programmeertaal PHP. Zo is de website overheid.nl nog niet bereikbaar, evenals de site van Meld Misdaad Anoniem. De sites van 113 en Centrum Seksueel Geweld waren nog tot laat offline, maar die werden in ",
   "link": "https://nos.nl/l/2636149"
  },
  {
@@ -167,6 +251,25 @@
   "link": "https://nos.nl/l/2636118"
  },
  {
+  "id": "237331fa47",
+  "datum": "2026-10-21",
+  "tijd": "19:17",
+  "nieuw": true,
+  "titel": "Gewapende overval op tankstation in Vlissingen; dader nog voortvluchtig",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De politie is een onderzoek gestart naar de overval.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18881505/gewapende-overval-op-tankstation-in-vlissingen-dader-nog-voortvluchtig"
+ },
+ {
   "id": "6d4dfd3129",
   "datum": "2026-10-21",
   "tijd": "19:12",
@@ -235,6 +338,29 @@
   "link": "https://nos.nl/l/2636107"
  },
  {
+  "id": "3e21db8682",
+  "datum": "2026-10-21",
+  "tijd": "18:07",
+  "nieuw": true,
+  "titel": "Bewoners vakantiepark moeten weg, handhaving gaat door ondanks bezwaren",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "vakantiepark",
+   "woning"
+  ],
+  "samenvatting": "De gemeente Dordrecht blijft optreden tegen permanente bewoning op vakantiepark Europarcs. Dat schrijft burgemeester Nanning Mol in antwoord op vragen van politieke partij Beter voor Dordt, die had gevraagd de handhaving voorlopig stil te leggen.",
+  "link": "https://www.rijnmond.nl/nieuws/2271162/bewoners-vakantiepark-moeten-weg-handhaving-gaat-door-ondanks-bezwaren"
+ },
+ {
   "id": "08948871f2",
   "datum": "2026-10-21",
   "tijd": "17:17",
@@ -301,7 +427,7 @@
   "id": "e86327e387",
   "datum": "2026-10-21",
   "tijd": "15:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kluisjesrover kan schade van 1,5 miljoen niet betalen en raakt huis kwijt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -325,7 +451,7 @@
   "id": "8144a6d53d",
   "datum": "2026-10-21",
   "tijd": "15:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man mishandeld door jongen in Best, slachtoffer houdt blijvend letsel over",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -347,7 +473,7 @@
   "id": "d8f7d8eb9e",
   "datum": "2026-10-21",
   "tijd": "15:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist zeven jaar cel tegen man die ervan verdacht wordt drie vrouwen seksueel te hebben uitgebuit - Openbaar Ministerie",
   "bron": "Openbaar Ministerie",
   "verzameld_via": "Openbaar Ministerie",
@@ -397,6 +523,28 @@
   ],
   "samenvatting": "Mannen met capuchons gooien stenen door ruiten, politie doet onderzoek.",
   "link": "https://www.omroepzeeland.nl/nieuws/18879681/kapperszaak-tholen-twee-keer-in-maand-doelwit-van-vernieling"
+ },
+ {
+  "id": "16a0e58ee2",
+  "datum": "2026-10-21",
+  "tijd": "14:18",
+  "nieuw": false,
+  "titel": "Riad (36) gestraft voor mensenhandel en witwassen: slachtoffer moest huur verdienen met prostitutie",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "mensenhandel",
+   "prostitutie",
+   "witwassen"
+  ],
+  "samenvatting": "Riad (36) gestraft voor mensenhandel en witwassen: slachtoffer moest huur verdienen met prostitutie Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNazFIV3pYQXZNZzA0YU9mcG1IWU5XTHZLX3BRclRyWklZSDdEV1dKOTc5cW9uT1ZWMUktNlhDQy1oYlJSNnV2cGRkbzE1N3BmN2dWVVpjWWdpUlIzTFVCNGlJUk15TlFPZTc2S21oRWR3NHFBUG84Z09aTi1rWHdocVV3bXpXMlF2OEV2UlR4N2pPRWRvQUEybmQwM3dkLTFuTE1KUjVsM2NZLVRaWnREVEJNX29LV0tkamF5Nl9HVzJXcUlwN2phY3pWVGVIOVB3dTF4Q28zUUNHM1NpOVRnRGljUzlLRDQ?oc=5"
  },
  {
   "id": "8316fd73fe",
@@ -522,27 +670,6 @@
   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNQjJjenk0Mldkbm8yS2IxeU5LWThqaG9YZERNYVppeXVWVEVyMUw2VnNSOE5reHBCVFkxa0FjdEczQm5PclJCT2dwcTlfQ0FGMFFWODVzVkNGUHFCMVBrOXNSb0h6VFBPYWIwb085MmYxTEhPNUdTU2EwdWlnMGJ2dk50dm9Fdll6UndHVmp3bGZkejc4c2cwQVdubXlMYXdnTlZaQ1hRSXo5b19razdCNGExcE5pRlVseTR2ajROd3lOYndaajFmaW9hOTNicE9UeUUzWDExdjdTaWVUNkxSY2lLQkpBV29lYlhZY2ppWHhlRjdBZktlTnNORkE0U3VYT2xiM3RJX0NObzhEOW0yZmVKNA?oc=5"
  },
  {
-  "id": "444e38e42a",
-  "datum": "2026-10-21",
-  "tijd": "11:54",
-  "nieuw": false,
-  "titel": "Donderdag rijden de bussen gewoon: staking streekvervoer van de baan",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder",
-   "organisatie"
-  ],
-  "samenvatting": "De geplande staking in het streekvervoer van donderdag is van de baan. Vakbonden en werkgevers hervatten de gesprekken over een nieuwe cao. Vakbond FNV hoopt er met de werkgevers uit te komen en schort de acties voor twee weken op. De vakbonden kondigden eerder aan tot kerst van plan te zijn een dag per week te staken.",
-  "link": "https://www.omroepbrabant.nl/nieuws/6031856/donderdag-rijden-de-bussen-gewoon-staking-streekvervoer-van-de-baan"
- },
- {
   "id": "aef3f48a2b",
   "datum": "2026-10-21",
   "tijd": "11:48",
@@ -621,45 +748,25 @@
   "link": "https://www.rijnmond.nl/nieuws/2271032/websites-massaal-offline-vanwege-risico-op-lek-veel-gemeentes-ret-en-veiligheidsregio-uit-de-lucht"
  },
  {
-  "id": "dae85fe212",
+  "id": "83451f03ff",
   "datum": "2026-10-21",
-  "tijd": "10:57",
+  "tijd": "10:31",
   "nieuw": false,
-  "titel": "Lelystad - Dijk tussen Lelystad en Enkhuizen dicht voor vrachtwagens vanaf 15 ton, en dat zal nog jaren zo blijven",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
+  "titel": "FIOD houdt twee verdachten aan in onderzoek naar witwassen van miljoenen en hypotheekfraude",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
   "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
+  "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek"
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
   ],
   "tags": [
-   "haven",
-   "stal",
-   "vrachtwagen"
+   "hypotheekfraude",
+   "witwassen"
   ],
-  "samenvatting": "Vrachtwagens met een gewicht van meer dan 15 ton mogen vanaf vandaag niet meer rijden over de dijk tussen Lelystad en Enkhuizen vanwege de problemen met de Houtribbruggen. Die bruggen in het sluizencomplex aan de kant van Lelystad zijn niet veilig genoeg meer voor zwaar transport. De bruggen krijgen prioriteit van het ",
-  "link": "https://www.omroepflevoland.nl/nieuws/528194/dijk-tussen-lelystad-en-enkhuizen-dicht-voor-vrachtwagens-vanaf-15-ton-en-dat-zal-nog-jaren-zo-blijven"
- },
- {
-  "id": "04ca7b88ac",
-  "datum": "2026-10-21",
-  "tijd": "10:30",
-  "nieuw": false,
-  "titel": "Man rijdt motorrijder dood, justitie wil vrijspraak: slachtoffer reed 160",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Op 22 augustus vorig jaar kwam een 35-jarige motorrijder om het leven in Zevenbergen. Hij werd aangereden door een toen 63-jarige man uit Zevenbergen die hem nooit had zien aankomen. Maar woensdag bleek in de rechtbank in Breda dat daar ook wel een reden voor was. Op die mooie, zonnige vrijdag, reed de man uit Zevenber",
-  "link": "https://www.omroepbrabant.nl/nieuws/6031828/man-rijdt-motorrijder-dood-justitie-wil-vrijspraak-slachtoffer-reed-160"
+  "samenvatting": "FIOD houdt twee verdachten aan in onderzoek naar witwassen van miljoenen en hypotheekfraude Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY3htc29PNVlFTHlWbnZlWWVHT2hhdUtOdkxoamVxR3Rad05jUzZhREp5M3lEOU5lMGtZZUM1d3RnMUIyZ2NRVU9zN1BsMDVVem5DM3R4NUtVYnhZNGY2MEwzYkhYTGtmNTJwd0RmTVJodW1LTkNld3cxS0U2cm5iYTFFU3Q2Z2ZuN0tyaTNaMEQ4Y0Zkb2p3Ri1TdWFmcDhheXBNTWVFNGRHTElPR1YyRlZHWXpXdXlPRnljQlBwSklBSjNSRmJocDZqMWpZY1pMTU8wSTMzWWg4UjVHampsZjFMRmQtSHNRTFE?oc=5"
  },
  {
   "id": "172306bee8",
@@ -1043,27 +1150,6 @@
   ],
   "samenvatting": "Het Openbaar Ministerie (OM) heeft vier jaar celstraf geëist , waarvan één voorwaardelijk, tegen een man uit Doetinchem omdat hij van plan zou zijn geweest een aanslag te plegen op een beoogde opvang voor asielzoekers in die stad. De politie kwam vorig jaar in de nacht van 8 op 9 december af op een melding van vernieli",
   "link": "https://nos.nl/l/2636012"
- },
- {
-  "id": "98934159ff",
-  "datum": "2026-10-20",
-  "tijd": "20:00",
-  "nieuw": false,
-  "titel": "Met kind via een draagmoeder kan het twee jaar duren tot je officieel de ouder bent",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "erf",
-   "wetsvoorstel"
-  ],
-  "samenvatting": "Premier Jetten en zijn partner Nicolás Keenan krijgen volgend voorjaar een kind, maakten ze gisteren bekend . Twee bevriende vrouwen zijn eiceldonor en draagmoeder. Dat is in de eerste plaats natuurlijk een privéaangelegenheid, maar als het de premier van Nederland betreft, is het ook publiek en politiek. Zo is draagmo",
-  "link": "https://nos.nl/l/2636003"
  },
  {
   "id": "5db1a10c92",
@@ -64247,6 +64333,25 @@
   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOd3pwRThrdTRxLW0wdGVURkN6MndFUGVjYmVINjR2Y1FlVkw5VDg5WGlCY0hqbTZpT0YycW0tNFhkeTVKTm5CbUlzNUZOSFRQOWYxTDNkYXQyRFJ3ZkVqVDNpZUpmUHNPbGxCWFZPX1FkUy1qSjlLdFU5UV9KcmVsREJUaDVIQzV3bTA2NVlCRzNma0FiU1BnZUZpZ08yN2hMZW1wOUpWaG4td3Y2RkxKMW0zSkhKczI0bkpSc2FrbXdNdXRBUVcxRDdkN1NaTUJHLTFGdlJpNTJsUjAwYVZyU0ppd0tqTERvMk1rSDRMVnVKbUYzLVdSRW81QUxqSDNENEJjZ2kzY1VydDFOeXFDSzBRc1BHS0p0YVNYSE5MVQ?oc=5"
  },
  {
+  "id": "9bd6540a80",
+  "datum": "2025-12-30",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Lezers denken verschillend over oplossing voor afvaldumping in Apeldoorn: ‘Fikse boetes uitdelen!’",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "Lezers denken verschillend over oplossing voor afvaldumping in Apeldoorn: ‘Fikse boetes uitdelen!’ de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPblRZQ2hxQl91UEZCTk9Kekg4bEpFQjc4dnBYLXJVdlVJR3BNUFV0MmRIVTdYVkthZ3VEck5CNG02SS0xRXBzZy1xYktodzk3enFtd3lHelhnRGFhVXJyQXFpWEh2Rld3R0FPQ2tnOVFFLTdwWU1iWFVUUDJsUDIzWVdwTGR2cEw0TVVsUzZXb2JQalFEU1Y4TXUwZXcxN1kyV1lmUTZLbFlPYzlaTE5QYzB5aFA0MERjX1N3LXItYTJYX0FwWU9wWlhDc1ppZ0c3ZlZJWnlR?oc=5"
+ },
+ {
   "id": "8a45141870",
   "datum": "2025-12-28",
   "tijd": "08:00",
@@ -79988,6 +80093,26 @@
   ],
   "samenvatting": "Politie rolt wietplantage op aan Poortstraat Haarlem: verdachte wordt 'ontboden' NH Nieuws",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOG9zV1c2b0lQN1N1TGpCRXNITUp5Q1dxVFBaTklDYlBXSjIxd25CUHg3YnpIbGFDZDRqZ292NHI4ZHBsbGVWNGtmZmxnTUNnXzdpYjFKaVRXOTRMOEZ1N2RXb09CdzBIYl84cmFobU5OYUlHMXJ0SmNvWi11WnlWYWxRNUgxTzhEVU14VzVUNldfYUJhRFpZNG0ya0FWTnFOamJfcVZhMGljWnF6LVU4Qkhxa3oydw?oc=5"
+ },
+ {
+  "id": "38f01e5466",
+  "datum": "2023-11-20",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Secondant: Hulp voor gemeenten bij datagedreven aanpak ondermijning",
+  "bron": "Het CCV",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "aanpak ondermijning",
+   "ondermijning"
+  ],
+  "samenvatting": "Secondant: Hulp voor gemeenten bij datagedreven aanpak ondermijning Het CCV",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXdXUXNSa2VlbWdxSWNVWnRpdXlhZU1RV3JtUU1ISDJxQzBxNUVRVkxrU3J6bFZGOGJlbndtWmRfUXZWZkJ6ZEF0aGZOTlZfVVFmcTg1bHJpazNTSENGRXdxXzNwU2o5Y0ViYk92QTRYNmt3RWZKd3h4X25ocTJUNUhwOU5vZkotemY2MHV3?oc=5"
  },
  {
   "id": "990bed874d",
