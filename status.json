@@ -1,12 +1,12 @@
 {
- "run": "18:42",
+ "run": "22:31",
  "datum": "2026-10-22",
  "nieuw": 26,
- "totaal": 4787,
- "verwijderd": 12,
+ "totaal": 4802,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 1032,
-  "geen dossier": 464
+  "niet-nederlands": 1050,
+  "geen dossier": 479
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 293,
-   "status": "bij",
+   "items": 302,
+   "status": "9 nieuw",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 194,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 301,
-   "status": "3 nieuw",
+   "items": 302,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 312,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 99,
-   "status": "bij",
+   "items": 100,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -429,7 +429,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 150,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -455,8 +455,8 @@
    "url": "news.google.com/rss/search?q=RIEC+OR+LIEC+OR+%22Centrum+voor+Criminalite",
    "methode": "Zoekfeed",
    "ritme": "1 dag",
-   "items": 43,
-   "status": "bij",
+   "items": 44,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 242,
-   "status": "4 nieuw",
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 284,
-   "status": "7 nieuw",
+   "items": 286,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 302,
-   "status": "bij",
+   "items": 303,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 192,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -546,7 +546,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 137,
-   "status": "3 nieuw",
+   "status": "2 nieuw",
    "ok": true
   },
   {

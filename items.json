@@ -1,5 +1,32 @@
 [
  {
+  "id": "5c37c606d2",
+  "datum": "2026-10-22",
+  "tijd": "21:35",
+  "nieuw": true,
+  "titel": "Lelystad - Eigenaresse pand met 3.000 kilo illegaal vuurwerk geschrokken: 'Ik wist van niets'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "erf",
+   "explosie",
+   "pand",
+   "stal",
+   "vuurwerk"
+  ],
+  "samenvatting": "De eigenaresse van het bedrijfspand in Lelystad waar ruim 3.000 kilo illegaal vuurwerk is gevonden, is enorm geschrokken. Ze zegt niet te hebben geweten wat er in haar pand lag opgeslagen. De politie ontdekte het vuurwerk woensdag na een anonieme tip. Burgemeester Mieke Baltus spreekt van een uitzonderlijk grote hoevee",
+  "link": "https://www.omroepflevoland.nl/nieuws/528424/eigenaresse-pand-met-3.000-kilo-illegaal-vuurwerk-geschrokken:-'ik-wist-van-niets'"
+ },
+ {
   "id": "efb63d288a",
   "datum": "2026-10-22",
   "tijd": "20:05",
@@ -17,6 +44,25 @@
   ],
   "samenvatting": "Het hangt al een aantal dagen in de lucht, maar of het in Nederland echt gaat stormen, is nog onzeker. Dat hangt af van de koers van 'storm' Austen. Wel staat vast dat het tot en met zondag van tijd tot tijd erg winderig wordt. Vrijdagochtend regent het flink. In de loop van de ochtend wordt het korte tijd droger, maar",
   "link": "https://nos.nl/l/2636248"
+ },
+ {
+  "id": "a4f395e709",
+  "datum": "2026-10-22",
+  "tijd": "20:00",
+  "nieuw": true,
+  "titel": "Politie toont beelden van twee aanslagen op tattooshop",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Een tattooshop aan de Hoofdstraat in Apeldoorn is binnen een week tijd twee keer doelwit geworden: eerst van brandstichting, daarna van een explosie. In het programma Plaats Delict deelde de politie beelden van beide aanslagen.",
+  "link": "https://www.gld.nl/nieuws/8538732/politie-toont-beelden-van-twee-aanslagen-op-tattooshop"
  },
  {
   "id": "d5492340f9",
@@ -40,11 +86,11 @@
   "link": "https://nos.nl/l/2636231"
  },
  {
-  "id": "fc8d214537",
+  "id": "f8484e6fbc",
   "datum": "2026-10-22",
   "tijd": "18:00",
   "nieuw": true,
-  "titel": "Juwelier in Dordrecht voor tweede keer overvallen: medewerker bedreigd met vuurwapen en hamer",
+  "titel": "Juwelier twee keer in één maand overvallen: medewerker bedreigd met vuurwapen en hamer",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
   "soort": "Nieuwsbericht",
@@ -57,8 +103,8 @@
    "juwelier",
    "wapen"
   ],
-  "samenvatting": "Twee gewapende overvallers stormen op zaterdagochtend 19 september een juwelierszaak aan de Voorstraat in Dordrecht binnen. Eén van hen bedreigt een medewerker met een vuurwapen. De ander slaat naar hem met een hamer. In de winkel zijn op dat moment meerdere klanten, onder wie een moeder met twee jonge kinderen. De ove",
-  "link": "https://www.rijnmond.nl/nieuws/2271841/juwelier-in-dordrecht-voor-tweede-keer-overvallen-medewerker-bedreigd-met-vuurwapen-en-hamer"
+  "samenvatting": "Twee gewapende overvallers stormen op zaterdagochtend 19 september een juwelierszaak aan de Voorstraat in Dordrecht binnen. Eén van hen bedreigt een medewerker met een vuurwapen. De ander slaat naar hem met een hamer. De politie zoekt het tweetal.",
+  "link": "https://www.rijnmond.nl/nieuws/2271841/juwelier-twee-keer-in-een-maand-overvallen-medewerker-bedreigd-met-vuurwapen-en-hamer"
  },
  {
   "id": "4528065ca7",
@@ -97,6 +143,25 @@
   ],
   "samenvatting": "De politie hoopt met duidelijke camerabeelden de verdachte van een beroving in Rotterdam-Overschie te arresteren. Een minderjarige jongen moet onder bedreiging zijn telefoon en pinpas afgeven. Tien minuten later gebruikt de verdachte de gestolen pas in een winkel.",
   "link": "https://www.rijnmond.nl/nieuws/2271802/verdachte-straatroof-pint-met-gestolen-pas-en-staat-duidelijk-op-beeld"
+ },
+ {
+  "id": "57ae591718",
+  "datum": "2026-10-22",
+  "tijd": "17:34",
+  "nieuw": true,
+  "titel": "Politie zoekt dader van brutale straatroof: verdachte pint met gestolen pas en staat duidelijk op beeld",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bedreiging"
+  ],
+  "samenvatting": "De politie hoopt met duidelijke camerabeelden de verdachte van een beroving in Rotterdam-Overschie te arresteren. Een minderjarige jongen moet onder bedreiging zijn telefoon en pinpas afgeven. Tien minuten later gebruikt de verdachte de gestolen pas in een winkel.",
+  "link": "https://www.rijnmond.nl/nieuws/2271802/politie-zoekt-dader-van-brutale-straatroof-verdachte-pint-met-gestolen-pas-en-staat-duidelijk-op-beeld"
  },
  {
   "id": "a380c0c944",
@@ -195,13 +260,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Goudhandel & edelmetalen",
-   "Vastgoed & huisvesting"
+   "Goudhandel & edelmetalen"
   ],
   "tags": [
-   "goud",
-   "sieraden",
-   "woning"
+   "sieraden"
   ],
   "samenvatting": "\"Kijk, ik heb helemaal niets meer\", zegt Toos (87) gelaten terwijl ze haar lege polsen en oorlellen aanwijst. Woensdagavond is ze voor de tweede keer in haar huis in een woonzorgcomplex in Veldhoven van haar sieraden beroofd. De politie maakte donderdag bekend dat Toos slachtoffer is geworden van een nepagent. In de ce",
   "link": "https://www.omroepbrabant.nl/nieuws/6031995/nepagent-slaat-opnieuw-toe-bij-toos-87-ik-heb-niets-meer"
@@ -226,6 +288,27 @@
   ],
   "samenvatting": "Een 14-jarige jongen is in Barendrecht zo ernstig mishandeld door een groep jongens dat hij dagenlang op de intensive care heeft gelegen. Mogelijk houdt hij blijvend letsel over aan het geweld. De mishandeling is gefilmd vanuit een woning in de buurt. De politie zoekt getuigen die weten wie de betrokken jongens zijn.",
   "link": "https://www.rijnmond.nl/nieuws/2271796/14-jarige-jongen-na-zware-mishandeling-in-barendrecht-dagenlang-op-intensive-care"
+ },
+ {
+  "id": "6e437bae18",
+  "datum": "2026-10-22",
+  "tijd": "15:29",
+  "nieuw": true,
+  "titel": "14-jarige jongen na zware mishandeling in Barendrecht dagenlang op intensive care, politie zoekt daders",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "geweld",
+   "woning"
+  ],
+  "samenvatting": "Een 14-jarige jongen is in Barendrecht zo ernstig mishandeld door een groep jongens dat hij dagenlang op de intensive care heeft gelegen. Mogelijk houdt hij blijvend letsel over aan het geweld. De mishandeling is gefilmd vanuit een woning in de buurt. De politie zoekt getuigen die weten wie de betrokken jongens zijn.",
+  "link": "https://www.rijnmond.nl/nieuws/2271796/14-jarige-jongen-na-zware-mishandeling-in-barendrecht-dagenlang-op-intensive-care-politie-zoekt-daders"
  },
  {
   "id": "043f73421d",
@@ -267,10 +350,8 @@
   ],
   "tags": [
    "erf",
-   "explosie",
    "pand",
-   "vuurwerk",
-   "woning"
+   "vuurwerk"
   ],
   "samenvatting": "Ruim 3.000 kilo aan illegaal vuurwerk lag opgeslagen in een bedrijfspand in Lelystad. Daar kwam de politie woensdag achter na een anonieme tip over het bezit en de handel in illegaal vuurwerk. Een 33-jarige man uit Lelystad is aangehouden. Het vuurwerk lag opgeslagen in een pand aan de Werfweg. Het ging om cobra's, she",
   "link": "https://www.omroepflevoland.nl/nieuws/528404/politie-ontdekt-3.000-kilo-illegaal-vuurwerk:-'genoeg-om-een-huizenblok-weg-te-vagen'"
@@ -465,7 +546,7 @@
   "id": "54e59dcb76",
   "datum": "2026-10-22",
   "tijd": "11:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jongeren berucht gezinshuis Spanje kunnen juridische stappen zetten tegen staat",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -491,7 +572,7 @@
   "id": "14dfede0be",
   "datum": "2026-10-22",
   "tijd": "11:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee Almeerders aangehouden voor witwassen van miljoenen en hypotheekfraude",
   "bron": "1Almere",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -512,7 +593,7 @@
   "id": "b593da59d3",
   "datum": "2026-10-22",
   "tijd": "11:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie doet bizarre vondst in auto: twee pythons (in de middenconsole), een doos met muizen en een goudvis - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -531,7 +612,7 @@
   "id": "3c8b3ae4f0",
   "datum": "2026-10-22",
   "tijd": "10:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Huiszoekingen in België in onderzoek naar pooierschap en mensenhandel",
   "bron": "Crimesite",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -733,23 +814,23 @@
   "link": "https://nos.nl/l/2636149"
  },
  {
-  "id": "a145d49ffa",
+  "id": "8218335321",
   "datum": "2026-10-21",
-  "tijd": "21:07",
+  "tijd": "21:13",
   "nieuw": false,
-  "titel": "Lelystad - Mogelijke winkeldief haalt nat pak in Markermeer, brandweer schiet te hulp",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
+  "titel": "OM eist zeven en twaalf jaar cel tegen Hagenaars voor drugslab",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
   "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
+  "regio": "Landelijk",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging"
+   "Drugsproductie & labs"
   ],
   "tags": [
-   "beveiliging"
+   "drugslab"
   ],
-  "samenvatting": "Meerdere hulpdiensten zijn woensdagavond uitgerukt nadat een persoon in het water van het Markermeer was beland. Dat gebeurde rond 20.00 uur bij Batavia Stad aan de Oostvaardersdijk in Lelystad. Volgens een 112-verslaggever ging het vermoedelijk om een winkeldief die in het water was beland nadat hij door beveiligingsp",
-  "link": "https://www.omroepflevoland.nl/nieuws/528320/mogelijke-winkeldief-haalt-nat-pak-in-markermeer-brandweer-schiet-te-hulp"
+  "samenvatting": "OM eist zeven en twaalf jaar cel tegen Hagenaars voor drugslab Drimble",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcTB2UGNHZEpkbFVzZlRXUVotdGlrcS1Ncm1QVU9PU2xGS0xRMGxVb3pJbUtFdWdXSnJtd3lCb3B6cHUyeTA0SzdXYjJZSzRxWG01WUVvWXphQ1ZMM2ZOQk9HRXdKN1RKZ2hQNzFHWDNqeDlFRGJjOE9sZV9BQjVCN2hXMllWRmJKbnpVbEp1VWszd2NvamhkX2hwV2RSUmE0V1V2UlRJOGdSM1NmbDhOZGFHYndpMEV0YUpqWEhwc09MQUla?oc=5"
  },
  {
   "id": "223b58ca50",
@@ -1007,6 +1088,25 @@
   ],
   "samenvatting": "OM eist tot 12 jaar celstraf en 80.000 euro boete voor groot drugslab Middenbeemster Headliner.nl",
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRHBPZkx4ZWZXOUNZamd2Vmlla2NwR01rZTJFSGhzbERVeHdiMk9JSExDNmhDNHFOSmhlMGQtcm5FbmxqT3R1eko2LUxSZ0hFUFBidWx6dXlTa1JGZ183WXphdnUwSlRBVHlZeDhxX1B2Y1FPTldBZGF1MWw1TTlVQ043akkwM0VXS2o0V0x1dUIxZ3dsdFpSVGtqX2JZdnJNRzV1Nm1jNHc3MXpLS2NIeFkycXEwUDlObGNFT2g4LTV3UXdRWHpYeEFianY0LW8?oc=5"
+ },
+ {
+  "id": "26b5516355",
+  "datum": "2026-10-21",
+  "tijd": "16:18",
+  "nieuw": false,
+  "titel": "OM eist tot 12 jaar celstraf en 80.000 euro boete voor groot drugslab Middenbeemster",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "OM eist tot 12 jaar celstraf en 80.000 euro boete voor groot drugslab Middenbeemster Drimble",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnVMUnNoZkN5OWF2MG8zS3dyaWJRcFhRa3luZ3ROLTBBdlFyaXBnNThYcGZCUzJ1VU01VTdEMEJkQTBwWUxUZDJtbWZ4ZDc4amdETmZlMzVpSnBaMFkzaGUzMlgzNzYyRm93Y2RObEtuOExzOWhkcHp6UWhMVVFtYk5TNGxhaHdJSHRPVXRwQUdzSXJ3ZGhCam9XUnNrOGxRSHZmM1RRY2Z2Q2xrYVBKQ3Y1VUJlMkdqSmhmVGNKbXJjYVEzSmdfLXU3Rkc?oc=5"
  },
  {
   "id": "d8f7d8eb9e",
@@ -2100,6 +2200,25 @@
   "link": "https://www.oost.nl/nieuws/3709640/zorgdirecteur-met-strafblad-zorgt-voor-politieke-verontwaardiging"
  },
  {
+  "id": "657a17a27b",
+  "datum": "2026-10-20",
+  "tijd": "10:33",
+  "nieuw": false,
+  "titel": "Vader en zoon uit Volendam voor rechter na miljoenenbrand in drugslab Middenbeemster",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Vader en zoon uit Volendam voor rechter na miljoenenbrand in drugslab Middenbeemster Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOXFHazJfdzlGZHlhdHFhd2x5anJwLWNnbkpoSEROaTFOOUpJNWF1OWUyOWFjQmcxajVlQXM5SnpfRFFGWkVkWTlHdE5nVzhIYWNkcG5iaHBwUFlMMXREOS1yNktIbmJfZGZxQmFDSjRRMXpIMmNXUXotcFVRSnlsQVM2TU9kUURhekJfbUZwTmIwdG1neFNOY1p4SmZUNGpOWUs1THB3bVlFczVqZ2owZ1YycWVZbnN1OUd6VWxMOTVoNFBuRkRqUlA5WHRjX0ZYcUlxY3RUZkdvbjJ6cElzSktB?oc=5"
+ },
+ {
   "id": "a1487cc826",
   "datum": "2026-10-20",
   "tijd": "10:09",
@@ -2197,6 +2316,25 @@
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnNydjBrQmlLWFJVRGZLSTRzVlVvMUhpRVhWbE1FQUM0OGpIYlVoVEpveDdKVDMzd2UxZHRHNzhXdWZ6MFNYazY2LUg5SHFtOU94YWRkUDZ2SllxYTR1QUJuVlVnU3c3Z0x3c3QxU3FiZC1TSGxVRnI5Rk56RVZ3X3BDT2lEcWdfeVZYZ0FPNlo4SklzRkRXQ3Z6NGhrWS1YS2hHXzZfa0pDSjFQYXc?oc=5"
  },
  {
+  "id": "a315866aac",
+  "datum": "2026-10-20",
+  "tijd": "06:40",
+  "nieuw": false,
+  "titel": "Vader en zoon voor rechter na miljoenenbrand in drugslab Middenbeemster",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Vader en zoon voor rechter na miljoenenbrand in drugslab Middenbeemster Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOGt0NkYzN2RTaGVjc3h1dTM4UXJzUkwyS1BfN0ZPOWxWbnh4N2VzNDQ0cVp1NTF4RFZ4SnQwSDhrSDdadnRtZzRqUU1mZFUyRjdKZ3JKcEFGUzBIbDJ4UDVXVTMzdFM5MzFYWnNOV3hKX1BtSjd0UlY1Xzg3Ulh6dWRCT1h1VGRMUVBpTHNXcGhLUUpqZ0Q2SWpjR0NkWW1ObEctNEx3YThzZFRRUGFpdUlTVU91dzdFS2RhbWhsaU01SVVIUHh6SVFYS3NQc2ZX?oc=5"
+ },
+ {
   "id": "e80cd6d4ae",
   "datum": "2026-10-20",
   "tijd": "06:15",
@@ -2275,6 +2413,25 @@
   ],
   "samenvatting": "Een 23-jarige man uit Sliedrecht die wordt verdacht van betrokkenheid bij de groepsverkrachting van een kwetsbaar meisje (18), blijft voorlopig vastzitten. De man wordt door een DNA-spoor in verband gebracht met het seksueel geweld dat vorig jaar mei plaatsvond op twee parkeerplaatsen in Sliedrecht. Hij ontkent dat hij",
   "link": "https://www.rijnmond.nl/nieuws/2269905/verdachte-23-ontkent-groepsverkrachting-ondanks-dna-spoor"
+ },
+ {
+  "id": "8723d765a7",
+  "datum": "2026-10-20",
+  "tijd": "04:22",
+  "nieuw": false,
+  "titel": "Vader en zoon uit Volendam voor de rechter na brand in drugslab",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Vader en zoon uit Volendam voor de rechter na brand in drugslab Drimble",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWJtN2VPbzhQcWFicGxjXzF5MUlOY3cxM2gwWWxHRzBteGNBY1huS2MwalJCcVZJaVlnc2p5Mk9IN3JqeUdQczJHYnVJaERoTjZYQUs0SlB4QnJncWw2VEhQTldOTVR5YUh4NHMxVS1qZ1ZnNkpzeUtURG9kVzB0ZXplQVBrek5ESmtHVGtkQ245NngwNER6aURxMGh5SFZOT1lLd3lwcFg5UmNLZjdwRlRIcUx0RzZ2X2o0X1ZMa3g3YVJ1d3c?oc=5"
  },
  {
   "id": "57d523def6",
@@ -3134,6 +3291,27 @@
   "link": "https://www.oost.nl/nieuws/3707684/vrouw-59-terroriseert-seniorencomplex-in-diepenveen-en-moet-vertrekken"
  },
  {
+  "id": "15d93d226c",
+  "datum": "2026-10-18",
+  "tijd": "11:47",
+  "nieuw": false,
+  "titel": "Een paar honderd telefoontjes over drugsafval in Lieshout en Beek en Donk",
+  "bron": "StadIndex",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Een paar honderd telefoontjes over drugsafval in Lieshout en Beek en Donk StadIndex",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdENhaGJLSm9YVTNjZGJoODVwUWh2ekZWVVBndWM1ZEl4Wm5aamwtcjIzX2t6TmRhQl9kaERWSTY3ekpPem03cUx0VkpNdVJCMi1kbW82c09obUZMYVY1ZnJxeXVQa25GbXpnYTlQSlhSWldGeU1GcEFqaXVOdjZ5SmdjUERWMHlQb09KTEMtYjYwUlU4NkFGREx0ZlMtOEpJOWEweExIUTIwMmNzV2RKNS1jcFNEZjBlOHc?oc=5"
+ },
+ {
   "id": "84d63cb177",
   "datum": "2026-10-18",
   "tijd": "11:07",
@@ -3170,6 +3348,25 @@
   ],
   "samenvatting": "Burgemeester Jean Paul Gebben van Dronten wil dat gemeenten een nieuw artikel opnemen in hun Algemene Plaatselijke Verordening (APV) om nepagenten en bankhelpdeskfraudeurs sneller aan te kunnen pakken. Het artikel maakt het mogelijk op te treden tegen mensen die inwoners op straat of aan de deur bewust willen misleiden",
   "link": "https://www.omroepflevoland.nl/nieuws/527726/dronten-wil-nepagenten-eerder-aanpakken-via-plaatselijke-verordening"
+ },
+ {
+  "id": "88bd560704",
+  "datum": "2026-10-18",
+  "tijd": "11:00",
+  "nieuw": false,
+  "titel": "Spullen voor drugslab gevonden in opvang, maar wegsturen is lastig: Hengelo wil actie",
+  "bron": "1Twente",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Spullen voor drugslab gevonden in opvang, maar wegsturen is lastig: Hengelo wil actie 1Twente",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUtoZFppNzBodFVqeDY1SXJyR3BUclIySFJCSFNVZVpaUHBHTjV2ay1KeVF5UElOVVNfWWJEQmxwMTZXOE5BUVlyOVhSbFR5Uy1fWHgtM2hqREk2bDI3Q2swNEZDSmpmVjA4RlRKUWprZ3hhaVR0RTFqU2x6Smh5S1gtaS1RTkRZUWtwX2NaMnNDWTFBaWVQY0RaS2VkdFo0QmlhT21RY2lRZy1qTnVqM01kSWpDTHN3aDMxV2FzQQ?oc=5"
  },
  {
   "id": "1698870a92",
@@ -3660,6 +3857,27 @@
   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPVHZBeEJ5YzdXdmt2aFVXdU1JVDBEVWpUQjdiaVcxZjFnZm00T0swTEp0cG9QVTFPRnF2TWlONWpfdkxYczlCYUxTTFBCZjNzN2lWMGpWb3NSOGNwV29UWnJSZ3FtWmxoZkhYcFJ6aGRlZmNWQ1JRWWVRQTcyX3hlZWNaWVR0T1ZlV1VfUVVWa1RaV2g3SFcwTTlkM0VxWGxPOUJibjRFN2pvcGFUbFNpZEtHWEdjUnRjZTBqcGtObHhha2pybU1Za2M1SHZLTkp0WUh4azZFWS1XcEtwQXNnamlEcGdFbFFmZF81SU4wbUFJOU5STlZUUS1ISjJ2WnBpSm1HLWpyOUlLU21xa3JfLWREOUJSOEVkS3Y4ZVNn?oc=5"
  },
  {
+  "id": "619c9f462a",
+  "datum": "2026-10-16",
+  "tijd": "21:17",
+  "nieuw": false,
+  "titel": "Een paar honderd telefoontjes over drugsafval in Lieshout en Beek en Donk",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Een paar honderd telefoontjes over drugsafval in Lieshout en Beek en Donk Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSXU4VGpJQW5fMGVEQTdYRFozeld2Rk9NamZSNHFyYTN2c29JbHh4bmMwMTFXZFpBaE5fTmt2X2pIUlRHLXFuUE5IelFHWjZqUURVeGRzWHk3bDBnLXdDdTF5bF9zLTBYSEU2aWcxbm4wVGM1ZWlQT3NSWXo5Y3lvWVJMaGdNbW9fV1cxZm9JTGlFbWVqNVdYWlMzWTljdTM5MC1mRW9IUlJabU5JZlFOcG9DWW13S05vUmtvRjlWRUVuVkQ0VEVkZm92dnpUWGpQ?oc=5"
+ },
+ {
   "id": "c2c0733c14",
   "datum": "2026-10-16",
   "tijd": "19:35",
@@ -3715,6 +3933,25 @@
   ],
   "samenvatting": "De Nederlandse brancheorganisatie voor de cloud- en internetsector, Dutch Cloud Community (DCC), heeft grote zorgen over een server die de politie deze week in beslag nam in Amsterdam-Oost. Die inbeslagname was op verzoek van de Amerikaanse autoriteiten. Het gaat om een server van de Italiaanse antikapitalistische en a",
   "link": "https://nos.nl/l/2635259"
+ },
+ {
+  "id": "9482c15548",
+  "datum": "2026-10-16",
+  "tijd": "18:59",
+  "nieuw": false,
+  "titel": "Koppel bij wie ruim 200.000 euro werd gevonden, riskeert celstraf voor rol in ‘ondergronds bankieren’: “Er zat zelfs geld in de kleerkast van de kinderen”",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "ondergronds bankieren"
+  ],
+  "samenvatting": "Koppel bij wie ruim 200.000 euro werd gevonden, riskeert celstraf voor rol in ‘ondergronds bankieren’: “Er zat zelfs geld in de kleerkast van de kinderen” Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPZ1REMzVZOHNtcWNxeXFWOWRqTFFzcG9WZHNxMnpnQ1Jaem0wM2hZWmNxR0NqSzYzSXh1YjNJdmFlbzE3bkVKaTFsZHAtbWkxa3JOLXFfNlhwU0FIQmJVcE1WQUNsd3ZGUExRcDZRM043dEFUaWxEbWlrb3dwQW5LemNwaFFxTFlNVzFTdDJMVjYwcE1MSXJmTzk4U25pdUFNRkZGMHNNUkZTTE5lc3J5aVA2dXRSN0Z6VDk0emRnREk3MHpXTkhaU1RZLTN4RjFiTVhwYzd0cE54enpCNUMwTVNLdWJnWFVYbXd0eEJYT0Vmay11Um1jSVJZdnNwLUdmemlYUG8taEtCdEp1a0djUHBLY21WX2JvSUk4VHUxYjgtNTh6Uk9n?oc=5"
  },
  {
   "id": "4aaff98fb1",
@@ -6165,6 +6402,27 @@
   ],
   "samenvatting": "Steenbergen vraagt aandacht voor uitbuiting tijdens Week tegen Mensenhandel Internetbode",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlJVbUZ6TlMtcEMzczFpQVNYczRBZDlzS2YydG9EU0FRSnNZU3FtQ3g5XzEta0d5WmpRbnJuRW9NMzdQbEdVOWRwTEVCSG9fSWM4SEJCa2JDakVNczR2Z2ljQVJLU1NWUTlEek5aUXZJc3FHb3ZWN2cyUnZOOHdQTV96N1RQSmJ4clJlT3l5WTdwNEo2a3FkTndtWlA2Vk5hOHY5TmY2Zkt1OVNJRzU0M19od0hpYTJGMktUSm02MA?oc=5"
+ },
+ {
+  "id": "7d87915ac8",
+  "datum": "2026-10-14",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Anonieme tip via Meld Misdaad Anoniem leidt politie naar pand met drugslab",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "pand"
+  ],
+  "samenvatting": "Anonieme tip via Meld Misdaad Anoniem leidt politie naar pand met drugslab Drimble",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMXlibGFhNVh2S2UzR0N4TUxNTTBYRUNYM0M0SUxfRmdFSnFHenprR2ljOEgwUUhjdVJxaXJRWGh0MDZzbHcxMngxYUg0aU1xRHVJYmhtYTRWMUt2Q0NadlIweEFYa2pUSkZCRFFORXc0Yk5GdFRWU3VMN21IV3Z5Q3c5SXMzU2NjSkprYlRuOC1xSm5NaURCb1U0YVVQdHQ3anJILUFQT0lpN3JXNVk2SjFWRnhCS2JCVUFCRXMxMUlhQTBaVlNJeWtOWQ?oc=5"
  },
  {
   "id": "7d1a89b257",
@@ -74417,6 +74675,25 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFA0ZlFOSGVLWnFZVzhBakU0dndCamZmYTZmN25sVTdHWXlvUEpkaW1DbTVGYy02ZTJBVUUyMUc1VUhlS1c3OHJicDh5QXhlY1I2VFZ4UTBfZXEwMFktRE8yQW9fQXVzNnl1NUJORkdfcTlSZnBlZTJCTFAzdmxfSWRMaWlmcUpSUDN0SVhCaTBVRDdHQ1cwWmFPeXB6QVRDOHg0ckotenNYU1pIa0plbGVqS0NDazN6MzFnSkZR?oc=5"
  },
  {
+  "id": "14e52b98af",
+  "datum": "2025-01-19",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Opvangschip bij Mook ontruimd na vondst 'handgranaat', maar blijkt van plastic",
+  "bron": "Hart van Nederland",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Opvangschip bij Mook ontruimd na vondst 'handgranaat', maar blijkt van plastic Hart van Nederland",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3dLbmVkZHN4RXFwZThGYUJRZDYyVGxYVWhtV1ZvS0hRXzRub0pOOWZJZEI5d2RDSlRFNXBMR0JiRDN1dnlpblNJeEhKUDZwTUR5elV2UkRRWmZlM3dELU55Rktrb0FnODJTa3c3SS1xaHNsMUVmN1RxSzRaR3MwM2FDVzdta3J2d1A0R0ZMWWNsamtJSUVjdE1iUzdvcWtiTFJiZDdxNEZjZmFPUDUxZGZNdUlPZk9XUVNnWjV5NWZWZmNUN1drMQ?oc=5"
+ },
+ {
   "id": "532fee5e41",
   "datum": "2025-01-18",
   "tijd": "08:00",
@@ -88800,6 +89077,25 @@
   ],
   "samenvatting": "Uitbuiting van jongeren: seks en drugs 1Twente",
   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMHFnTjFYSjFkWFFLOGRIYnpnRDF0eXFDYUYwZnBPNUk5ZmJPbG1VLUFyTGIzQmxGV0I0WVIwN2I5LXJYR0FYMmN4aHdiRk5IZFFXNHgtWG9iX0lrMlpMd0VaWm05RE1NM0VmSjlPZzBhS2cwd09KS01qQW1DUWdZNWJ3?oc=5"
+ },
+ {
+  "id": "26d1949d96",
+  "datum": "2020-10-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Geheim rapport over criminaliteit op Urk: ‘Lijntjes tussen bende en prominente politicus’",
+  "bron": "AD.nl",
+  "verzameld_via": "RIEC / LIEC / CCV",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende"
+  ],
+  "samenvatting": "Geheim rapport over criminaliteit op Urk: ‘Lijntjes tussen bende en prominente politicus’ AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlFGbHRtaFVoaGNXODJ4cE9WLWR6emY4Rm94Nk1zckNjaFdrSGowWmVmWjhDeXd3Z2lZbDlSRGI1MGNjYkNzcXN3MVZ3UEFTZVVsamllbDFTRzJ3VmIyaV9wUmZZZEJNN0ZZQ3dXSjlCck5wNlc2bHoyZVRGNEFjdEdVY0s5TzFtMmtad3oxZVJuQUtFRHpzQ1BfSG8wSW1HMFo2c3RkdlVSNVB1R3BVRTE4dnI1MTR1TlByN0JCb1ltdG8?oc=5"
  },
  {
   "id": "8f6da1c09b",
