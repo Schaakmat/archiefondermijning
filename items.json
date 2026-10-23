@@ -1,5 +1,45 @@
 [
  {
+  "id": "bddc9f752b",
+  "datum": "2026-10-23",
+  "tijd": "22:50",
+  "nieuw": true,
+  "titel": "Almere - Politieonderzoek na straatroof in Verzetswijk, slachtoffer gewond",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "leider",
+   "wapen"
+  ],
+  "samenvatting": "De politie heeft vrijdagavond in de Verzetswijk in Almere Stad gezocht naar de daders van een straatroof. Kort na 21.30 uur werd iemand op de Kapitein de Langestraat door twee verdachten beroofd. Het slachtoffer raakte daarbij gewond. Omdat bij de beroving mogelijk een vuurwapen was gezien, werd aanvankelijk melding ge",
+  "link": "https://www.omroepflevoland.nl/nieuws/528590/politieonderzoek-na-straatroof-in-verzetswijk-slachtoffer-gewond"
+ },
+ {
+  "id": "811e9dfb60",
+  "datum": "2026-10-23",
+  "tijd": "18:32",
+  "nieuw": true,
+  "titel": "Man gewond bij ruzie in huis in Tilburg, verdachte slaat op de vlucht",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Een man is vrijdagavond gewond geraakt bij een ruzie in een huis aan de Buurmalsenlaan in Tilburg. Hij is naar het ziekenhuis gebracht. De politie is op zoek naar de verdachte. De politie werd opgeroepen voor een steekpartij in het huis. Toen agenten daar aankwamen, bleek de man gewond te zijn geraakt door fysiek gewel",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032187/man-gewond-bij-ruzie-in-huis-in-tilburg-verdachte-slaat-op-de-vlucht"
+ },
+ {
   "id": "060cddbf12",
   "datum": "2026-10-23",
   "tijd": "18:00",
@@ -175,15 +215,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Jeugd & jonge aanwas",
    "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
    "explosie",
    "explosie woning",
-   "jeugd",
-   "pand",
    "woning"
   ],
   "samenvatting": "De rechtbank Amsterdam heeft een 20-jarige man veroordeeld tot een onvoorwaardelijke gevangenisstraf van 20 maanden voor het medeplegen van een aanslag met een explosief bij een woning aan de Delta in Lelystad. De aanslag was op 20 februari bij de voordeur van het huis. De man heeft ook nog 10 maanden voorwaardelijke g",
@@ -360,7 +397,7 @@
   "id": "39ff8113c8",
   "datum": "2026-10-23",
   "tijd": "13:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rechter gaf Marco gelijk, maar camera's van schoonmoeder blijven hangen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -383,7 +420,7 @@
   "id": "07ae0b80df",
   "datum": "2026-10-23",
   "tijd": "13:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vertraging op A58 richting Eindhoven na ongeluk met auto",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -402,7 +439,7 @@
   "id": "18f256c3e2",
   "datum": "2026-10-23",
   "tijd": "12:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeewolde - Voormalig toprugbyer Visser aangeklaagd voor verkrachting",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -422,7 +459,7 @@
   "id": "4e6a6b2406",
   "datum": "2026-10-23",
   "tijd": "12:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kamer zoekt naar effectievere aanpak van zorgfraude",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -441,7 +478,7 @@
   "id": "3d4818f943",
   "datum": "2026-10-23",
   "tijd": "12:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie zoekt dader straatroof: verdachte pint met gestolen pas bij tabakshop",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -460,7 +497,7 @@
   "id": "d028e65a2c",
   "datum": "2026-10-23",
   "tijd": "12:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Persoon raakt bekneld bij landbouwmachine, traumahelikopter opgeroepen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -479,7 +516,7 @@
   "id": "6f08b322b1",
   "datum": "2026-10-23",
   "tijd": "12:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestelbus wijkt uit voor remmende voorganger en rijdt sloot in",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -498,7 +535,7 @@
   "id": "5a45249298",
   "datum": "2026-10-23",
   "tijd": "12:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kamer zoekt naar effectievere aanpak van zorgfraude",
   "bron": "ICT&health",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -517,7 +554,7 @@
   "id": "db04afa809",
   "datum": "2026-10-23",
   "tijd": "11:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Reparatie Houtribbruggen en renovatie sluizen kost 250 miljoen euro, Heijmans gaat het werk doen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -538,7 +575,7 @@
   "id": "6e692fdd33",
   "datum": "2026-10-23",
   "tijd": "10:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ongeluk met meerdere auto's en vrachtwagen op A20: snelweg is dicht",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -557,7 +594,7 @@
   "id": "8149461ca6",
   "datum": "2026-10-23",
   "tijd": "10:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ravage na botsing auto's en vrachtwagens op A73",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -576,7 +613,7 @@
   "id": "1e802ae197",
   "datum": "2026-10-23",
   "tijd": "10:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeewolde - Na jaren nog altijd geen spoor van vermiste Poolse man, zoekacties voorlopig gestaakt",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -595,7 +632,7 @@
   "id": "d5f84732c7",
   "datum": "2026-10-23",
   "tijd": "10:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Jongen (17) veroordeeld voor explosie bij coffeeshop Grote Markt, moet schade vergoeden",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -616,7 +653,7 @@
   "id": "33a665101f",
   "datum": "2026-10-23",
   "tijd": "10:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie komt meerdere tieners op het spoor die thuis vuurwerkvoorraad hebben",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -632,26 +669,6 @@
   ],
   "samenvatting": "Bij drie jongeren in Zwolle stond afgelopen dagen politie voor de deur. Agenten ontdekten dat ze thuis een voorraad illegaal vuurwerk hadden van enkele kilo's. Bij een 19-jarige in Vollenhove vond de politie niets meer. Volgens de politie had diegene het vuurwerk al verkocht.",
   "link": "https://www.oost.nl/nieuws/3710753/politie-komt-meerdere-tieners-op-het-spoor-die-thuis-vuurwerkvoorraad-hebben"
- },
- {
-  "id": "852fc6dc74",
-  "datum": "2026-10-23",
-  "tijd": "09:49",
-  "nieuw": false,
-  "titel": "Verkeersleiders boos over nieuw systeem: ‘Traag, onveilig en onwerkbaar’",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "leider",
-   "netwerk"
-  ],
-  "samenvatting": "Verkeersleiders van Rijkswaterstaat liggen overhoop met hun leiding ove r nieuwe software waarmee ze ongelukken en andere problemen op de snelweg moeten vastleggen. Volgens hen is het systeem traag en onwerkbaar en brengt het de veiligheid op de snelwegen in gevaar. De Verkeerscentrale Zuid-Nederland in Helmond moet er",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032135/verkeersleiders-boos-over-nieuw-systeem-traag-onveilig-en-onwerkbaar"
  },
  {
   "id": "6e559fb54f",
@@ -1575,30 +1592,6 @@
   ],
   "samenvatting": "Douane gaat strenger controleren op import rubberboten voor mensensmokkel / Nieuws FOK!",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT0FVM2FiaV9jbE1pNDN0Y1R4V2Y2UHFIRHJXODRPbUtDNkNwenJGazdILWxkYVcySDJxSERaQ0p3UGFGejRUaFIyUFVDUkVlelE2LWJnNDlCWDgyRzVGOGJSMVVjME1rMmtwMVhKMFJ3Rk5jT0gwX2xkeWk1SjZrQktCeE1QVmtaMnBuRjFwMGtCX1lzcnBqRDR4SmFPc2RqanNmbl9SdEtkSWtEak02cEwtZDd0dUpZdzNQYmNEektLQQ?oc=5"
- },
- {
-  "id": "7023210584",
-  "datum": "2026-10-21",
-  "tijd": "22:54",
-  "nieuw": false,
-  "titel": "Nog altijd websites niet bereikbaar na lek, ook internationaal nog problemen",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "beveiliging",
-   "geweld",
-   "organisatie",
-   "stal"
-  ],
-  "samenvatting": "Er zijn nog altijd websites onbereikbaar nadat die uit voorzorg offline zijn gehaald. Dat gebeurde na een lek in de programmeertaal PHP. Zo is de website overheid.nl nog niet bereikbaar, evenals de site van Meld Misdaad Anoniem. De sites van 113 en Centrum Seksueel Geweld waren nog tot laat offline, maar die werden in ",
-  "link": "https://nos.nl/l/2636149"
  },
  {
   "id": "8218335321",
