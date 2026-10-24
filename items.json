@@ -1,5 +1,66 @@
 [
  {
+  "id": "682745b3e5",
+  "datum": "2026-10-24",
+  "tijd": "05:40",
+  "nieuw": true,
+  "titel": "Schammenkamp-verdachte Jalal O.: hulpvaardige klusser of liegende drugscrimineel?",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "drugslab",
+   "explosie"
+  ],
+  "samenvatting": "De rechtbank Rotterdam doet komende week uitspraak in het Schammenkamp-proces. Tegen verdachte Jalal O. (37) is zeven jaar cel geëist. Het Openbaar Ministerie is ervan overtuigd dat hij in een woonwijk in Rotterdam-Zuid een drugslab runde en schuld heeft aan de explosie die drie mensen het leven kostte. O. zelf ontkent",
+  "link": "https://www.rijnmond.nl/nieuws/2271046/schammenkamp-verdachte-jalal-o-hulpvaardige-klusser-of-liegende-drugscrimineel"
+ },
+ {
+  "id": "3f0f1d4e34",
+  "datum": "2026-10-24",
+  "tijd": "03:49",
+  "nieuw": true,
+  "titel": "Auto crasht in Boekel: bushalte sneuvelt, lantaarnpaal uit grond gereden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "grond"
+  ],
+  "samenvatting": "Een automobilist heeft vrijdagnacht met zijn auto een bushalte geramd naast de Volkelseweg in Boekel. Dit gebeurde rond halftwee, vlakbij het buurtschap Peelsehuis. De bestuurder is aangehouden vanwege rijden onder invloed en meegenomen naar een politiebureau. De bestuurder reed over de Volkelseweg richting Boekel toen",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032203/auto-crasht-in-boekel-bushalte-sneuvelt-lantaarnpaal-uit-grond-gereden"
+ },
+ {
+  "id": "35a04a2047",
+  "datum": "2026-10-24",
+  "tijd": "01:01",
+  "nieuw": true,
+  "titel": "Ze zijn piepjong, wapenwijs en meedogenloos: Scandinavische tieners worden ingehuurd om – onder andere in Amsterdam – liquidaties uit te voeren - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "Ze zijn piepjong, wapenwijs en meedogenloos: Scandinavische tieners worden ingehuurd om – onder andere in Amsterdam – liquidaties uit te voeren Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPb1AxdG5ydGlDWUxhRnFmTVQxdGtZRTNYbERDNVdjWmJtRTNRNDIySm5OZEFmN1dQMDV0eE9QLV94UXYyNFRqV2l5UnduSnJ1MGxhd3Vtd0x6VmJlakRCUG5EZ01pdVFtN3pJanBWMjg0Q0lCUEhtUkxVa1UzTnVIMk5CRUNWbzR4N3NuT09iYlU3RmFRRUFuUkc2Q0xrNFZqV3VsdENQYzNGeTJqbDlXemlSTG9kQldEckxURmxmQUJscEl0ZUpzbVpJcnktbWpMRDJRV3JaSk10WlBybm1kNGZtMTZNQXdKb0NjZkI0RWg5WnRXVlF0blU4TmtqaTFRYkxtbm10Q3c?oc=5"
+ },
+ {
   "id": "bddc9f752b",
   "datum": "2026-10-23",
   "tijd": "22:50",
@@ -353,7 +414,7 @@
   "id": "5f2298a0ca",
   "datum": "2026-10-23",
   "tijd": "14:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "23/10 in Nieuwsuur: Israël sluit Westoever af • Netanyahu's populariteit • Hoe verder tussen de VS en Oekraïne? • Kushners vermogen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -374,7 +435,7 @@
   "id": "fd73d427cc",
   "datum": "2026-10-23",
   "tijd": "14:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bijzondere ontdekking tijdens werkzaamheden Vitens in Achterhoek",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -413,25 +474,6 @@
   ],
   "samenvatting": "Stel: je wint een rechtszaak, maar de veroordeelde legt het vonnis naast zich neer. Het overkwam Marco van Gulik uit Kaatsheuvel. De rechtbank bepaalde in april dat Marco's buurvrouw, ook nog eens zijn schoonmoeder, de camera's weg moest halen die op zijn tuin gericht staan, maar dat deed ze niet. Ondanks een dwangsom ",
   "link": "https://www.omroepbrabant.nl/nieuws/6032059/rechter-gaf-marco-gelijk-maar-cameras-van-schoonmoeder-blijven-hangen"
- },
- {
-  "id": "07ae0b80df",
-  "datum": "2026-10-23",
-  "tijd": "13:32",
-  "nieuw": false,
-  "titel": "Vertraging op A58 richting Eindhoven na ongeluk met auto",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder"
-  ],
-  "samenvatting": "Op de A58 richting Eindhoven loopt de vertraging vrijdagmiddag rond half vier op tot zo'n vijftig minuten. Een auto is bij een ongeluk tussen Moergestel en Best in de vangrail gereden. De linkerrijstrook richting Eindhoven is afgesloten na het ongeluk. Wanneer deze kan worden vrijgegeven, is niet duidelijk. Een ambulan",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032159/vertraging-op-a58-richting-eindhoven-na-ongeluk-met-auto"
  },
  {
   "id": "18f256c3e2",
@@ -587,25 +629,6 @@
   ],
   "samenvatting": "Op de A20 richting Hoek van Holland is vrijdag een ongeluk gebeurd met meerdere voertuigen. Zeker één inzittende raakte bekneld en moest door de brandweer worden bevrijd. Drie mensen raakten gewond. De snelweg bij Vlaardingen is tot 16:00 uur afgesloten.",
   "link": "https://www.rijnmond.nl/nieuws/2272092/ongeluk-met-meerdere-autos-en-vrachtwagen-op-a20-snelweg-is-dicht"
- },
- {
-  "id": "8149461ca6",
-  "datum": "2026-10-23",
-  "tijd": "10:38",
-  "nieuw": false,
-  "titel": "Ravage na botsing auto's en vrachtwagens op A73",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "vrachtwagen"
-  ],
-  "samenvatting": "Een kettingbotsing met twee vrachtwagens en drie auto's heeft vrijdagmiddag voor problemen gezorgd op de A73 richting Maasbracht bij Linden, vlak bij Cuijk. Bij het ongeluk zijn zeker twee mensen nagekeken door ambulancepersoneel. Het ongeluk gebeurde rond kwart voor twaalf in de file die was ontstaan na een ongeluk da",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032140/ravage-na-botsing-autos-en-vrachtwagens-op-a73"
  },
  {
   "id": "1e802ae197",
@@ -1343,32 +1366,6 @@
   ],
   "samenvatting": "Boeren met verouderde stallen hoeven voorlopig geen maatregelen te nemen om aan het Brabantse stallenbeleid te voldoen. De rechtbank in Den Bosch heeft bepaald dat de provincie tot 1 februari 2027 niet mag handhaven op een deel van die regels. Eerst moet duidelijk worden welke stikstofmaatregelen het kabinet invoert en",
   "link": "https://www.omroepbrabant.nl/nieuws/6031975/boeren-krijgen-uitstel-stallenbeleid-provincie-moet-wachten-op-den-haag"
- },
- {
-  "id": "54e59dcb76",
-  "datum": "2026-10-22",
-  "tijd": "11:43",
-  "nieuw": false,
-  "titel": "Jongeren berucht gezinshuis Spanje kunnen juridische stappen zetten tegen staat",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "grond",
-   "jeugd",
-   "jongeren",
-   "organisatie",
-   "woning"
-  ],
-  "samenvatting": "Jongeren die trauma's opliepen vanwege misstanden in het gezinshuis 'Huize Soria' in Spanje, hebben een goede basis om juridische stappen te zetten tegen de staat. Dat zeggen deskundigen tegen Nieuwsuur . De gezinsouders zouden mogelijk in Nederland vervolgd kunnen worden. Tientallen oud-cliënten hebben tegenover Nieuw",
-  "link": "https://nos.nl/l/2636188"
  },
  {
   "id": "14dfede0be",
@@ -8136,6 +8133,25 @@
   ],
   "samenvatting": "Marechaussee arresteert twee mannen uit Breda in onderzoek naar mensensmokkel vanuit Syrië via Turkije De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUnB1bmtTckJ5dVN2aWVHQW9paXExaWlRcWZwcHM5ZTJTVUpVbWhtQV8yVXl0bEh1WGR5OFMtYkxwSUp1d21Wd3hJODhKd3VlajcyblF2ZVhPeElWZUppZTNWd0dDN1VsQUVCMm5JTVpTTHpwSVVwcHB2UUpXal9aX3NNUFNjZE05ZFZwRFpwMFhDLW5zVXk1WmhJYXVZQzZQT2NKS3h4TXpXY2pnQTRvS1A1Y2FZUVdrUVVaV2Z5RlBIS002SFpOTGpHQ2trRkhYOUpLaFhlanlwTVdROVFKemZB?oc=5"
+ },
+ {
+  "id": "deb10ca602",
+  "datum": "2026-10-13",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vijf verdachten van drugslab in Ommen langer vast, onder wie man (50) uit Ommen",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Vijf verdachten van drugslab in Ommen langer vast, onder wie man (50) uit Ommen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHdlRVdzbnM2QzNOYVlxQ0YxYjhuNWloMWM1ZGZCNEFiaVVfS0oyUHdXMkpZeHNmZGpsUkFMR3RpLWZIeW5GeTAwUXpIaWtxdngwcUg2N0VGa3ZGa3ZvRldmNUdOTmtWM3F1eVJOdEVQYk1QMkRLYy00NHBrUHV0VDlRWTMxN0ZrUmtYRVVWU081cXQ1ZUZvRVBlV3BnNXhnTXJwZmhjeHR4Q2o3WFVr?oc=5"
  },
  {
   "id": "9b473e6a14",
@@ -84049,6 +84065,28 @@
   ],
   "samenvatting": "Uithaler uit Barendrecht opgepakt in container op de Maasvlakte Barendrechts Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1JKYU5JanFpRHYwNkhWZ0ZNM1FDd21LcVE4dVJuczdTRTI2VzJTSHlQeU0xZTNiZVdlNW9EdXRtbi1KX2FoZERjcVc3OFVsX0hFUmF0OUZxNVEzR0JCZmRFbnRuU0tILVFKRXJWZkNtOVpXSUprV3poaFRJaDRpSHB2RWJLV0taU1VKc1lWaVBBd0I4dEk5R0I5OElCZzNmR1pv?oc=5"
+ },
+ {
+  "id": "0f03a0487d",
+  "datum": "2023-04-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zes uithalers aangehouden in Rotterdamse haven die zich verstopten in container",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container",
+   "haven",
+   "uithaler",
+   "uithalers"
+  ],
+  "samenvatting": "Zes uithalers aangehouden in Rotterdamse haven die zich verstopten in container AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWZaemFUS2lmSllCd042RkdMMUtwcHJfNTFYZGhvWjdrWXB2QmRIVkxoWUpFUkI2ODdFeTlqalVkZnpPdWJTVmdQVl8wbld0LUxycVk1WVhuWFp0ZUJRUWtNWG1Damp4a3BhazdSSjZEQXJ5V1ZkY3VSQXMwS3pwWVk1NFZub1R3VU8tT3h1YjJQOC03Z010SXJHUGM4VUdpUy1ZUENVWnBpQWNRUDJEd1Z0WVBXM3B4?oc=5"
  },
  {
   "id": "f31f0728f1",

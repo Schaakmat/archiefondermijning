@@ -1,12 +1,12 @@
 {
- "run": "00:53",
+ "run": "06:03",
  "datum": "2026-10-24",
- "nieuw": 19,
- "totaal": 4848,
+ "nieuw": 20,
+ "totaal": 4850,
  "verwijderd": 18,
  "geweigerd": {
-  "niet-nederlands": 1008,
-  "geen dossier": 477
+  "niet-nederlands": 1040,
+  "geen dossier": 471
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 304,
-   "status": "bij",
+   "items": 305,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -50,8 +50,8 @@
    "url": "news.google.com/rss/search?q=uithalers%20OR%20%22coca%C3%AFne%20haven%22",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 71,
-   "status": "bij",
+   "items": 72,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 319,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 137,
-   "status": "5 nieuw",
+   "items": 136,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 250,
-   "status": "8 nieuw",
+   "items": 249,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 293,
-   "status": "bij",
+   "items": 294,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 100,
-   "status": "bij",
+   "items": 101,
+   "status": "1 nieuw",
    "ok": true
   },
   {
