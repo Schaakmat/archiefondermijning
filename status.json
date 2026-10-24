@@ -1,12 +1,12 @@
 {
- "run": "22:21",
- "datum": "2026-10-23",
+ "run": "00:53",
+ "datum": "2026-10-24",
  "nieuw": 19,
- "totaal": 4847,
- "verwijderd": 19,
+ "totaal": 4848,
+ "verwijderd": 18,
  "geweigerd": {
-  "niet-nederlands": 987,
-  "geen dossier": 448
+  "niet-nederlands": 1008,
+  "geen dossier": 477
  },
  "bronnen": [
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 318,
-   "status": "bij",
+   "items": 319,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -546,7 +546,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 145,
-   "status": "6 nieuw",
+   "status": "5 nieuw",
    "ok": true
   },
   {

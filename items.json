@@ -10,11 +10,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "leider",
    "wapen"
   ],
   "samenvatting": "De politie heeft vrijdagavond in de Verzetswijk in Almere Stad gezocht naar de daders van een straatroof. Kort na 21.30 uur werd iemand op de Kapitein de Langestraat door twee verdachten beroofd. Het slachtoffer raakte daarbij gewond. Omdat bij de beroving mogelijk een vuurwapen was gezien, werd aanvankelijk melding ge",
@@ -5432,6 +5430,25 @@
   ],
   "samenvatting": "Aan de Herman Robbersstraat in Rotterdam-Crooswijk is voor de tweede nacht op rij een explosie geweest. Deze keer werd er een pand van een administratiekantoor getroffen. Voor zover bekend is er nog niemand aangehouden.",
   "link": "https://www.rijnmond.nl/nieuws/2268611/opnieuw-explosie-in-dezelfde-straat-in-rotterdam-crooswijk"
+ },
+ {
+  "id": "69aa0d2a0f",
+  "datum": "2026-10-16",
+  "tijd": "04:26",
+  "nieuw": false,
+  "titel": "Rapport: arbeidsuitbuiting nog hardnekkig probleem in Nederland",
+  "bron": "De Gooi- en Eemlander",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Rapport",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "arbeidsuitbuiting"
+  ],
+  "samenvatting": "Rapport: arbeidsuitbuiting nog hardnekkig probleem in Nederland De Gooi- en Eemlander",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHJlUnhLT2p3MjgxN1IyZngtMTVBLS1yb04xS3RreTlJY1BLN2JyVHc2VmNHdmYwRnoyd3dBV0lTQXZjSWc2MGdYcEt5am0yZVRlWXJrU2tXU2gtQ3F2YjdpS2hwbVNTbjdTdjYtbjZpeGg0WFlDMGZSSmY3YTZLa0lVRkt4YnRtV1BxeDU0S2dja0oyc0wxT0E0Q3dRLWd1alIwVW5MZlVoMFFtY3hnbGV0cWVLUW02SVNB?oc=5"
  },
  {
   "id": "e3239d5734",
