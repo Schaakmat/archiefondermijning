@@ -1,5 +1,85 @@
 [
  {
+  "id": "cf66d8b26d",
+  "datum": "2026-10-24",
+  "tijd": "18:34",
+  "nieuw": true,
+  "titel": "Lelystad - Man in Lelystad wordt na tweede kans alsnog uit zijn huis gezet",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "stal",
+   "woning"
+  ],
+  "samenvatting": "Een man die in juli nog een laatste kans kreeg van woningstichting Centrada moet nu alsnog uit zijn huis. De man zou, volgens de afspraken uit juli , de komende twee jaar onder toezicht van Centrada blijven staan. Maar dat heeft niet het gewenste effect gehad, bleek vrijdagmiddag in de rechtbank in Lelystad. De man zor",
+  "link": "https://www.omroepflevoland.nl/nieuws/528619/man-in-lelystad-wordt-na-tweede-kans-alsnog-uit-zijn-huis-gezet"
+ },
+ {
+  "id": "b297aaea9d",
+  "datum": "2026-10-24",
+  "tijd": "17:37",
+  "nieuw": true,
+  "titel": "Topdrukte bij Gelders tankstation met stuntprijzen: uur lang tanken voor 1 euro",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Bij een tankstation in Voorst was het vanmiddag uitzonderlijk druk. Het tankstation sluit definitief de deuren en stunt op de laatste dag met de brandstofprijzen. Tussen 16.00 en 17.00 uur konden bezoekers voor 1 euro per liter hun tank volgooien. Dat leidde tot chaotische taferelen. Het tankstation sluit na 38 jaar de",
+  "link": "https://nos.nl/l/2636486"
+ },
+ {
+  "id": "094fde0d8e",
+  "datum": "2026-10-24",
+  "tijd": "15:04",
+  "nieuw": true,
+  "titel": "Crash auto en truck Gilze: automobilist overleden, geen andere inzittenden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "vrachtwagen"
+  ],
+  "samenvatting": "De bestuurder van de auto die zaterdagochtend betrokken was bij de botsing aan de Langenbergseweg in Gilze, is overleden. Vermoedelijk kwam de auto op de verkeerde weghelft terecht. Dat meldt de politie. De botsing gebeurde rond zeven uur. De auto kwam grotendeels onder een vrachtwagen terecht. De vrachtauto vloog verv",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032241/crash-auto-en-truck-gilze-automobilist-overleden-geen-andere-inzittenden"
+ },
+ {
+  "id": "c1b4db7976",
+  "datum": "2026-10-24",
+  "tijd": "14:44",
+  "nieuw": true,
+  "titel": "Onderzoek naar brandstichting bij Rotterdams bedrijf dat in vlammen opging",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand"
+  ],
+  "samenvatting": "De politie doet onderzoek naar brandstichting bij het bedrijfspand aan de Sydneystraat in Rotterdam, dat zaterdag volledig afbrandde. Over de oorzaak van de brand is nog niets bekend. Daarom is brandstichting een van de mogelijke scenario's, laat de politie weten. Getuigen worden gevraagd zich te melden.",
+  "link": "https://www.rijnmond.nl/nieuws/2272323/onderzoek-naar-brandstichting-bij-rotterdams-bedrijf-dat-in-vlammen-opging"
+ },
+ {
   "id": "a407fd7c64",
   "datum": "2026-10-24",
   "tijd": "14:21",
@@ -267,23 +347,25 @@
   "link": "https://www.omroepflevoland.nl/nieuws/528590/politieonderzoek-na-straatroof-in-verzetswijk-slachtoffer-gewond"
  },
  {
-  "id": "811e9dfb60",
+  "id": "9f828cf659",
   "datum": "2026-10-23",
-  "tijd": "18:32",
+  "tijd": "22:50",
   "nieuw": false,
-  "titel": "Man gewond bij ruzie in huis in Tilburg, verdachte slaat op de vlucht",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
+  "titel": "Almere - Straatroof in Verzetswijk, slachtoffer gewond na mishandeling",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
+  "regio": "Flevoland",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging"
+   "Criminele samenwerkingsverbanden",
+   "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "geweld"
+   "leider",
+   "wapen"
   ],
-  "samenvatting": "Een man is vrijdagavond gewond geraakt bij een ruzie in een huis aan de Buurmalsenlaan in Tilburg. Hij is naar het ziekenhuis gebracht. De politie is op zoek naar de verdachte. De politie werd opgeroepen voor een steekpartij in het huis. Toen agenten daar aankwamen, bleek de man gewond te zijn geraakt door fysiek gewel",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032187/man-gewond-bij-ruzie-in-huis-in-tilburg-verdachte-slaat-op-de-vlucht"
+  "samenvatting": "De politie heeft vrijdagavond in de Verzetswijk in Almere Stad gezocht naar de daders van een straatroof. Kort na 21.30 uur werd een jongen op de Kapitein de Langestraat door twee verdachten beroofd. Het slachtoffer werd mishandeld en bedreigd en raakte daarbij gewond. Omdat bij de beroving mogelijk een vuurwapen was g",
+  "link": "https://www.omroepflevoland.nl/nieuws/528590/straatroof-in-verzetswijk-slachtoffer-gewond-na-mishandeling"
  },
  {
   "id": "060cddbf12",
@@ -324,26 +406,6 @@
   ],
   "samenvatting": "34-jarige Soester verdacht van mensenhandel: kwetsbare vrouw 1,5 jaar uitgebuit en mishandeld in flatwijk Smitsveen Moordplekken",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM1lzN25YM3dOZlE2NkNNNW5JR1EwbkRkVkhQZE9WbXk5REI4Sng4MWRkSFExU0xzZ1lWSjYxX0dVLWZWbWVYZjFxUDVTSTFVZjlLdTNHbEIzRGZDRW8yZ193ZUJlWkp3RmxJZF9WRmpjT3pqRVRZenVUcHo3S2hXRkd6c0ZETHVucjhzdGdQSHB1dHFn?oc=5"
- },
- {
-  "id": "0c5baefe63",
-  "datum": "2026-10-23",
-  "tijd": "17:18",
-  "nieuw": false,
-  "titel": "Gat in dak van woonboerderij door omgewaaide boom in Volkel",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "boerderij",
-   "erf"
-  ],
-  "samenvatting": "Een boom is vrijdagavond door de harde wind op een woonboerderij gevallen aan de Wisselstraat in Volkel. In het dak zit een groot gat. De boom heeft ook de serre aan achterkant van het huis geraakt. Voor zover bekend zijn er geen gewonden gevallen. De boom is door de val op het dak in tweeën gebroken. De brandweer heef",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032185/gat-in-dak-van-woonboerderij-door-omgewaaide-boom-in-volkel"
  },
  {
   "id": "11685d862c",
@@ -1003,6 +1065,27 @@
   ],
   "samenvatting": "Twee gewapende overvallers stormen op zaterdagochtend 19 september een juwelierszaak aan de Voorstraat in Dordrecht binnen. Eén van hen bedreigt een medewerker met een vuurwapen. De ander slaat naar hem met een hamer. De politie zoekt het tweetal.",
   "link": "https://www.rijnmond.nl/nieuws/2271841/juwelier-twee-keer-in-een-maand-overvallen-medewerker-bedreigd-met-vuurwapen-en-hamer"
+ },
+ {
+  "id": "f825eca128",
+  "datum": "2026-10-22",
+  "tijd": "18:00",
+  "nieuw": false,
+  "titel": "Juwelier bedreigd met vuurwapen en hamer: tweede overval in één maand",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "juwelier",
+   "wapen"
+  ],
+  "samenvatting": "Twee gewapende overvallers stormen op zaterdagochtend 19 september een juwelierszaak aan de Voorstraat in Dordrecht binnen. Eén van hen bedreigt een medewerker met een vuurwapen. De ander slaat naar hem met een hamer. De politie zoekt het tweetal.",
+  "link": "https://www.rijnmond.nl/nieuws/2271841/juwelier-bedreigd-met-vuurwapen-en-hamer-tweede-overval-in-een-maand"
  },
  {
   "id": "4528065ca7",
@@ -64268,6 +64351,27 @@
   ]
  },
  {
+  "id": "6af831f00b",
+  "datum": "2026-02-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Man zette voor 3,5 miljoen aan bitcoin om zonder klantencheck, maar witwassen niet bewezen",
+  "bron": "quotenet.nl",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "bitcoin",
+   "witwassen"
+  ],
+  "samenvatting": "Man zette voor 3,5 miljoen aan bitcoin om zonder klantencheck, maar witwassen niet bewezen quotenet.nl",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDBTNFdSQzctOWdpM3FXaUg2aF9COGQ5akUxZmo5OXhPeDl2VHRudm9WU3JhZ0VlbzVzQXR0WlhtRml2d09FbnBfNGY0SlYyZkJqNGxUdzZBa2Q0cExabUZvVkFFd2NZX19laW1tWlRndmhJMVJsVHZ1UGw4ekxwejdSVEUtNDFKQzdVU0lOMWRMRFd6Ri1QVmVJVG9nX3hjQmZxYTBUd3lIWEgydE03NlN4MEtVNUYtOGlDWk9DTUJTVnRybUFwaFJzaXY?oc=5"
+ },
+ {
   "id": "0dffbfc355",
   "datum": "2026-02-14",
   "tijd": "08:00",
@@ -71160,6 +71264,25 @@
   ],
   "samenvatting": "Zes motorclubs verboden, 23 nieuwe opgericht: ‘De aantrekkingskracht blijft groot’ NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmQxdGJWWU41QmI2REhXaGZubW5MSmVnWlF1UXRUN3d1cTd2Y012SHhMLVV1WlQ3RVdQeWd6S3pwcGdvSXh4aERRdkU1ZzJuVlVVQ1BFLVRLZHhrMHJsY1MwRVdvRE11Unh5TEdLR2RwVEl5N2FXZXpDdmdsYmZGR196Wm1JTndTdzRuNEZCc2xnTzdkcjlwd29TV0NBQ0FvWHJlYmJkb0ppUGJFSFpXbkRpRVZBcWVJU1dIRVhZTlRmUQ?oc=5"
+ },
+ {
+  "id": "699a8418b2",
+  "datum": "2025-08-29",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Banken in VS verwerken $312 miljard aan crimineel geld, maar overheid blijft naar Bitcoin wijzen",
+  "bron": "BLOX | Nieuws",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "bitcoin"
+  ],
+  "samenvatting": "Banken in VS verwerken $312 miljard aan crimineel geld, maar overheid blijft naar Bitcoin wijzen BLOX | Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSFZ3R1dGNUZhSmxjUl94X3ljNmhPRzluc3U3UGVFdUM2YzhlTTVvSG5TZlljSXJVOThHd29QUVA3WVQ4VEktX194VldxRmd1T2FKdGNJOHhuQ3h1QjBKV3ZMbWlfZkZkU2RDcjdBTFU0SUdLWThPRERiYUtoNUVWY3JWcU92WG50X1hOZzR6MW1EY05zZXlkVWVZVzJjYW5DVElnVWlBVWFQMjV1R2swM2EzaWt2c2V0UC1NX2x0Qng?oc=5"
  },
  {
   "id": "5ef255e44e",
@@ -95300,6 +95423,26 @@
   ],
   "samenvatting": "Prikt Nederlands trustkantoor Citco zich aan Mexicaanse connectie? Follow the Money",
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQnhhbXBkWG9mOFUyekkwRU1ETmFBdkY5SGtFM1I2NlhfMm1jOTVpdGdaTndpaDZsWjdPb1ZlMTlWcndndEM4T0J1aXB3aE9OaUpqR1VvOXB0WERWMEFSX0lnb2dsaXFza0ozbDlQN0VUYWVEWF94UzNvZWpacEtVOW50aS1PTThaUVR1d2hWNERnZw?oc=5"
+ },
+ {
+  "id": "9294d77ad8",
+  "datum": "2016-11-15",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "7 mannen en een vrouw veroordeeld voor betrokkenheid bij hennepteelt",
+  "bron": "De Rechtspraak",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepteelt"
+  ],
+  "samenvatting": "7 mannen en een vrouw veroordeeld voor betrokkenheid bij hennepteelt De Rechtspraak",
+  "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSzBXNnphVGl5WDdPT3FFenNaNEwzRk5nUXQ1M20yOVYwVDJ6M0p6NTNyR0dLdFZBdm9BU3g1Y2lJck1CUThXcGQ3LVdqQ3FMeHpNNGtuaW9XSGlQNFowVzJOazc4UkFqRjhlQ0VacDR1akoxMEhIR1czYUNHSzdPaHoyRS1ZT1h3RDAtSnlFMnBjZ1l5YUNJUWE4QkdKOU93YWlfR2xrNmtOZmpNdmZFbnd4U1NWd1ExcWpobk9EY0NnWVZUYmNYVF9UX0hZbVprS3hkR0NVSDM4LWpWQ1BpenZqVzU5ZVVZYWJYRmpHQlBEZEw4S3dTaUNUQTdCRl9TcVRGSms0S1BhekNx?oc=5"
  },
  {
   "id": "ed87f28b18",
