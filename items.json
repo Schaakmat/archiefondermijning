@@ -19,6 +19,25 @@
   "link": "https://nos.nl/l/2636525"
  },
  {
+  "id": "362a0d100d",
+  "datum": "2026-10-24",
+  "tijd": "19:30",
+  "nieuw": true,
+  "titel": "1300 huishoudens in Hengelo tijdlang zonder stroom",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "netwerk"
+  ],
+  "samenvatting": "1300 huishoudens in Hengelo rondom het gebied van de Freudstraat zaten sinds 20.45 een tijdlang zonder stroom, dat meldt netwerkbeheerder Enexis. Na bijna twee uur beschikte alle huishoudens weer over stroom.",
+  "link": "https://www.oost.nl/nieuws/3711207/1300-huishoudens-in-hengelo-tijdlang-zonder-stroom"
+ },
+ {
   "id": "bbd18fbcb1",
   "datum": "2026-10-24",
   "tijd": "18:53",
@@ -159,7 +178,7 @@
   "id": "36b33e6710",
   "datum": "2026-10-24",
   "tijd": "10:25",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "NAC pleit Van Hooijdonk vrij van belangenverstrengeling bij transfer zoon",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -180,7 +199,7 @@
   "id": "2ee207771b",
   "datum": "2026-10-24",
   "tijd": "09:00",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Almere - Burgemeester over toekomst Almere: 'Half miljoen inwoners, economisch hart van het land'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -207,7 +226,7 @@
   "id": "ae8ec6e16d",
   "datum": "2026-10-24",
   "tijd": "08:46",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Trucker overleeft crash en brand Gilze, vraagtekens rond slachtoffers auto",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -65876,6 +65895,25 @@
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnFuLW43Yko1RDltZ3BTUTVkdGRMVXh2WVF5Mko0cnRfNHFoOTRPWmktZFZ4Zl8wUWVlekJ0QTVaV3pQZzVHZEN3dkloaVFycmFMTWtIVmRlQ2ZqTENvbTc5WHo0bnJKTk5BWnFuNzZwdUltWk9pMnhmaTFnelROUF8yamJVZkZPdjhIdU1jUF9HbFVOVV9paWwza0ZtNzhMcUJaQXZ1QWtabDhLQkUzNnpINW8xc0Qy?oc=5"
  },
  {
+  "id": "8e444f7ee3",
+  "datum": "2026-01-12",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie doet onderzoek naar niet-actief drugslab Ter Apelkanaal - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie doet onderzoek naar niet-actief drugslab Ter Apelkanaal Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXFmOE1mX2R3R3g5MWIzNFpyWFlrNm92aVQ4ZGU3bXlORnNuZ084dDBCdTVVTzVOVE5zQkZQSmhqYkFReXdvcjBMOUhVNWFxNGlRV2NiYWF6M25OTDJyM0hfNklsTGdtYS1lWHZCb2tOZkN1VVZLZ1A2ZkczbUVtWENvSVlnandMTkdFLThKaEJJOHpKQThKcW5yMEsxQlh3N0V6NHNDTU13R2xaNGdwYnJBT3M?oc=5"
+ },
+ {
   "id": "59a8fc3970",
   "datum": "2026-01-10",
   "tijd": "08:00",
@@ -70195,6 +70233,25 @@
   ],
   "samenvatting": "Vijf buren verklaren anoniem over uitkeringsfraude De Nieuwe Ster Maastricht",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR3pnZV9fT1pPS1Q0cEJ5bVc1b21IeGxRZ3RTLTZCZ084X0tJbnhhdWI3ZkFPYUI3djZpdkM2MHk0N2RxZVBicWhweWZ5NkVkZlFqLW81VVFtaE43NHFlSzlpcmZMN3hZZThRTlN2bE5tNDJjVmVKYWVzVXduWUhUUW1GX3I3emJ2Q3docUhJQzlvOGM?oc=5"
+ },
+ {
+  "id": "2756eeae47",
+  "datum": "2025-10-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Twee aanhoudingen in onderzoek naar witwassen en handel in harddrugs in provincie Groningen - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Twee aanhoudingen in onderzoek naar witwassen en handel in harddrugs in provincie Groningen Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdVQyaXNKYk01VDdJeTlKM3NEVFVBMXJMRU0yTndBZERZTnhPX1JpMC1pU3dVY1ZZb0NKMWwzU0tXQndTY0VicXBKVWxrVTdpd3BNaU9jNk52cmh0QzFaM2RWRUxSMjllMnZBMkdIRnN4akFIcWpDS3lUUEtKd1BHVjZjMXdxUndFZWV0QTVIM09JRVRvUTRDajN2RmtfMWtkR0dKa05uMy12Z2Z6UHV5dEZhVHlNN2ExZERSU0J1VzRISmdfV0tDSjFVMWc1SDVNaHlabFY4WWphQ0FC?oc=5"
  },
  {
   "id": "4a79ce9df2",
@@ -81855,6 +81912,25 @@
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdU02WWpHN0VQNW5WZUlUM1RSZkNsZUFFTnluNTNXc09SSU9vLUllYlVvbVdlUDF5RjRob3BnbGllLWkwSFJhRk5XcXBGOVdTdHhKdjNydmRELXBXOEdTVmZtLU9GSWVvWF9UQndsdHAtMDNPeW1mNlR4N2k2ZThiajgwUVVfdUhocVp5YThxS3BOM1J5ZTlOSDh2OFg1N3paakVxQkQzanlKSml1WF9wUUdDTUstazBMZmxLUTlGOUM0QnAxTlE?oc=5"
  },
  {
+  "id": "0b4d19d07c",
+  "datum": "2023-11-30",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Ondermijning; wat is het en wat kunnen we er tegen doen? - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Ondermijning; wat is het en wat kunnen we er tegen doen? Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdNeGlERXFMSkNFWTN0dmhoenpCaHN6M255dzBJU0oyYjk5TjRnQkJHMFhNR2l0SzFwS2prM0JKWEpweFpEM0FpYS1VNnhncHI2NmJ6b09DRGk0TFh0THhLUHhHcXUxU2xxWEFzaEJfa2Zoc0JWZjZ0NlpjTTVtQ1hwTzktU3kwVDVPcklITHAycWtOLWo4bmZiclRMUU9XWXh5Rkg5aEFoNmx3YVE?oc=5"
+ },
+ {
   "id": "29a8a755b3",
   "datum": "2023-11-29",
   "tijd": "08:00",
@@ -84410,6 +84486,25 @@
   ],
   "samenvatting": "Celstraf man uit Doetinchem voor witwassen geld Turkse voetbalclub De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMkt2WTNIS2RPSDladHVvbGkzZ1J0dGh2VldiUF9RX0ljVzYyd2dDM3Vqd0x2Q3JRWWdmcy1EbkV3YnFjenU4QWJrR0Y1Q0xKLUgwZHNjalpmbE9EZzVYdjhFREdTZzJGQm8wU05NdndUT3ZBWXJSTUJjV1ZIOVRaOGo5eGUtZGlwcDdFenpZQUF4aW5rdGJOQWJfa1E3T1ZNeWpVNnU0OVNuNHZtckRaUnh0OGlvTmEyUVFFQ3NMWHBnOUplZWZiWkx0LW9HbU9pelVteHJ0YzBQVHhuenhtOFpHeFZPVHNyVmEtcnFCQ2ttak15Q3ZscE93UzNfN3VtVE1BdWs5TQ?oc=5"
+ },
+ {
+  "id": "e7bce43bb4",
+  "datum": "2023-04-07",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie treft niet-actief drugslab aan in Nieuwlande - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie treft niet-actief drugslab aan in Nieuwlande Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVp0WXdBX0FwTEtOTmUxTmFKakNMQ0FjR29PX2ViY3hNYzRwY2szXzV5N2hwQm9nZFZlb0xScDA5SUw1WTVtZS14ZmJlMVFvVEk0Ql9vaXotS0x2RXExeTR5WFBySnB1Uk9NYm1SLUdnX0NTdldrYUFyN0dlMkxvSGhRdmFpN2xaT2x2ai1ROVhHdWg1SjVyU1NUalRKU2xoQ0E?oc=5"
  },
  {
   "id": "dca585c319",

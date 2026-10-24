@@ -1,12 +1,12 @@
 {
- "run": "21:02",
+ "run": "23:28",
  "datum": "2026-10-24",
- "nieuw": 8,
- "totaal": 4861,
- "verwijderd": 8,
+ "nieuw": 12,
+ "totaal": 4866,
+ "verwijderd": 7,
  "geweigerd": {
-  "niet-nederlands": 1009,
-  "geen dossier": 474
+  "niet-nederlands": 1038,
+  "geen dossier": 478
  },
  "bronnen": [
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -419,8 +419,8 @@
    "url": "news.google.com/rss/search?q=site:politie.nl+ondermijning+OR+drugslab+OR",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 84,
-   "status": "bij",
+   "items": 88,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 307,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 194,
-   "status": "bij",
+   "items": 195,
+   "status": "1 nieuw",
    "ok": true
   },
   {
