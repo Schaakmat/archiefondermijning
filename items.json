@@ -1,5 +1,43 @@
 [
  {
+  "id": "d657805efb",
+  "datum": "2026-10-24",
+  "tijd": "22:52",
+  "nieuw": true,
+  "titel": "Zomertijd voorbij: vannacht gaat de klok weer een uur terug",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "liec"
+  ],
+  "samenvatting": "Vannacht om 03.00 uur is de zomertijd voorbij. Dat betekent dat de klok een uur achteruit wordt gezet en de meeste mensen een uurtje langer kunnen slapen morgenochtend. In de ochtend wordt het eerder licht en in de avond eerder donker. Ook andere Europese landen gaan komende nacht over op de 'wintertijd'. Wintertijd is",
+  "link": "https://nos.nl/l/2636525"
+ },
+ {
+  "id": "bbd18fbcb1",
+  "datum": "2026-10-24",
+  "tijd": "18:53",
+  "nieuw": true,
+  "titel": "Auto's knallen frontaal op elkaar bij Barneveld",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Bij een frontale botsing met twee auto's op de N802 bij Barneveld zijn de twee bestuurders gewond geraakt. De weg is enige tijd afgesloten geweest.",
+  "link": "https://www.gld.nl/nieuws/8539703/autos-knallen-frontaal-op-elkaar-bij-barneveld"
+ },
+ {
   "id": "cf66d8b26d",
   "datum": "2026-10-24",
   "tijd": "18:34",
@@ -10,11 +48,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "stal",
    "woning"
   ],
   "samenvatting": "Een man die in juli nog een laatste kans kreeg van woningstichting Centrada moet nu alsnog uit zijn huis. De man zou, volgens de afspraken uit juli , de komende twee jaar onder toezicht van Centrada blijven staan. Maar dat heeft niet het gewenste effect gehad, bleek vrijdagmiddag in de rechtbank in Lelystad. De man zor",
@@ -123,7 +159,7 @@
   "id": "36b33e6710",
   "datum": "2026-10-24",
   "tijd": "10:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "NAC pleit Van Hooijdonk vrij van belangenverstrengeling bij transfer zoon",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -144,7 +180,7 @@
   "id": "2ee207771b",
   "datum": "2026-10-24",
   "tijd": "09:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Burgemeester over toekomst Almere: 'Half miljoen inwoners, economisch hart van het land'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -171,7 +207,7 @@
   "id": "ae8ec6e16d",
   "datum": "2026-10-24",
   "tijd": "08:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Trucker overleeft crash en brand Gilze, vraagtekens rond slachtoffers auto",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -190,7 +226,7 @@
   "id": "193723b085",
   "datum": "2026-10-24",
   "tijd": "08:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "KNVB start integriteitsonderzoek naar voetbalclub De Dijk vanwege vermeend witwassen en fraude",
   "bron": "AT5",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -211,7 +247,7 @@
   "id": "3fcc15cdaa",
   "datum": "2026-10-24",
   "tijd": "08:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Janoslav (61) dreigde met een bom en is blij dat hij voorlopig in de cel zit: 'Hartelijk bedankt!'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -230,7 +266,7 @@
   "id": "5f67f78882",
   "datum": "2026-10-24",
   "tijd": "06:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Van hero naar zero', hoe het imago van Schammenkamp-verdachte Jalal O. kantelde",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -251,7 +287,7 @@
   "id": "329057b0d0",
   "datum": "2026-10-24",
   "tijd": "05:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ravage bij Gilze: vrachtwagen en auto in brand na botsing, auto onder truck",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -270,7 +306,7 @@
   "id": "682745b3e5",
   "datum": "2026-10-24",
   "tijd": "05:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Schammenkamp-verdachte Jalal O.: hulpvaardige klusser of liegende drugscrimineel?",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -291,7 +327,7 @@
   "id": "3f0f1d4e34",
   "datum": "2026-10-24",
   "tijd": "03:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto crasht in Boekel: bushalte sneuvelt, lantaarnpaal uit grond gereden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -312,7 +348,7 @@
   "id": "35a04a2047",
   "datum": "2026-10-24",
   "tijd": "01:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ze zijn piepjong, wapenwijs en meedogenloos: Scandinavische tieners worden ingehuurd om – onder andere in Amsterdam – liquidaties uit te voeren - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -357,11 +393,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "leider",
    "wapen"
   ],
   "samenvatting": "De politie heeft vrijdagavond in de Verzetswijk in Almere Stad gezocht naar de daders van een straatroof. Kort na 21.30 uur werd een jongen op de Kapitein de Langestraat door twee verdachten beroofd. Het slachtoffer werd mishandeld en bedreigd en raakte daarbij gewond. Omdat bij de beroving mogelijk een vuurwapen was g",
@@ -452,25 +486,6 @@
   ],
   "samenvatting": "Het leegstaande kantoorpand aan de Randstad 20 in Almere Stad wordt omgetoverd tot een vesting. De eigenaren zijn begonnen met het plaatsen van camerabewaking en prikkeldraad en zetten beveiligers met honden in, zodat niemand het gebouw nog binnen kan komen. Tegelijkertijd is een speciale ploeg gestart met het schoonma",
   "link": "https://www.omroepflevoland.nl/nieuws/528540/eigenaars-spookpand-randstad-almere-verhogen-beveiliging:-bijna-groen-licht-voor-woningbouw"
- },
- {
-  "id": "c11f8256bb",
-  "datum": "2026-10-23",
-  "tijd": "16:30",
-  "nieuw": false,
-  "titel": "Kat-en-muisspel om macht en miljoenen: zo verloopt de jacht op Bolle Jos",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "cocaïne"
-  ],
-  "samenvatting": "Luxe feesten, nauwe banden met de hoogste ambtenaren en een inkomen van een slordige 150 miljoen dollar per maand. Het moge duidelijk zijn: de macht van 'Bolle' Jos Leijdekkers in Sierra Leone is immens. Tegelijkertijd wordt de jacht op Europa's grootste drugsbaron alsmaar intenser. De grote vraag: wordt hij ooit gepak",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032129/kat-en-muisspel-om-macht-en-miljoenen-zo-verloopt-de-jacht-op-bolle-jos"
  },
  {
   "id": "ad4d324b18",
@@ -859,27 +874,6 @@
   ],
   "samenvatting": "Een inbreker heeft in de nacht van donderdag op vrijdag een pijnlijke ontmoeting gehad met politiehond Mees in Rotterdam-Zuid. De man was een woning binnengedrongen terwijl de bewoners op vakantie waren. Die zagen op hun beveiligingscamera dat er iemand door hun huis liep en schakelden de politie in.",
   "link": "https://www.rijnmond.nl/nieuws/2272017/bewoners-zien-op-vakantie-inbreker-in-hun-huis-politiehond-mees-vindt-hem"
- },
- {
-  "id": "dcf9a349e5",
-  "datum": "2026-10-23",
-  "tijd": "07:50",
-  "nieuw": false,
-  "titel": "'MIVD zag op gehackte iPhone hoe Trumps schoonzoon vele miljoenen ontving'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Corruptie & integriteit",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "omkoping",
-   "stort"
-  ],
-  "samenvatting": "De Nederlandse Militaire Inlichtingen- en Veiligheidsdienst (MIVD) zou vanaf 2018 hebben meegekeken met de telefoon van Jared Kushner, schoonzoon van de Amerikaanse president Trump en diens onderhandelaar bij de oorlogen in Oekraïne, Gaza en Iran. Dat schrijft de Amerikaanse onderzoeksjournalist Matthew Cole in een nie",
-  "link": "https://nos.nl/l/2636293"
  },
  {
   "id": "e950b2bbf6",
