@@ -1,5 +1,24 @@
 [
  {
+  "id": "a407fd7c64",
+  "datum": "2026-10-24",
+  "tijd": "14:21",
+  "nieuw": true,
+  "titel": "Politie vindt sieraden bij aanhouding nepagenten",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "sieraden"
+  ],
+  "samenvatting": "Ze deden zich voor als politieagent en een agent van een verzekeringsmaatschappij.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18887628/politie-vindt-sieraden-bij-aanhouding-nepagenten"
+ },
+ {
   "id": "381c70af6f",
   "datum": "2026-10-24",
   "tijd": "11:08",
@@ -232,7 +251,7 @@
   "id": "bddc9f752b",
   "datum": "2026-10-23",
   "tijd": "22:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Politieonderzoek na straatroof in Verzetswijk, slachtoffer gewond",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -251,7 +270,7 @@
   "id": "811e9dfb60",
   "datum": "2026-10-23",
   "tijd": "18:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man gewond bij ruzie in huis in Tilburg, verdachte slaat op de vlucht",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -270,7 +289,7 @@
   "id": "060cddbf12",
   "datum": "2026-10-23",
   "tijd": "18:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Harun A. (26) wordt naakt in paardenstal betrapt, één maand cel geëist",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -289,7 +308,7 @@
   "id": "0c0edabc13",
   "datum": "2026-10-23",
   "tijd": "17:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "34-jarige Soester verdacht van mensenhandel: kwetsbare vrouw 1,5 jaar uitgebuit en mishandeld in flatwijk Smitsveen",
   "bron": "Moordplekken",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -310,7 +329,7 @@
   "id": "0c5baefe63",
   "datum": "2026-10-23",
   "tijd": "17:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gat in dak van woonboerderij door omgewaaide boom in Volkel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -330,7 +349,7 @@
   "id": "11685d862c",
   "datum": "2026-10-23",
   "tijd": "17:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gewonde bij schietincident in Rotterdam-Delfshaven, politie zoekt getuigen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -349,7 +368,7 @@
   "id": "776fe68ed5",
   "datum": "2026-10-23",
   "tijd": "16:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Eigenaars spookpand Randstad Almere verhogen beveiliging: bijna groen licht voor woningbouw",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -521,26 +540,6 @@
   "link": "https://www.gld.nl/nieuws/8539363/grote-verkeerscontrole-belastingdienst-haalt-26600-euro-op"
  },
  {
-  "id": "fd432f63db",
-  "datum": "2026-10-23",
-  "tijd": "14:15",
-  "nieuw": false,
-  "titel": "Almere - Toch geld voor verkeersdrempels op Poldervlak, maar ondernemers ontevreden over de plekken",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "bedrijventerrein",
-   "ondernemers"
-  ],
-  "samenvatting": "De gemeente Almere heeft alsnog budget gevonden voor verkeersdrempels op bedrijventerrein Poldervlak in Almere Buiten. Ondernemers zijn blij dat er geld beschikbaar is, maar ontevreden over de plekken waar de drempels moeten komen. Volgens hen worden ze juist aangelegd op wegen waar dat niet nodig is. Ondernemers klage",
-  "link": "https://www.omroepflevoland.nl/nieuws/528506/toch-geld-voor-verkeersdrempels-op-poldervlak-maar-ondernemers-ontevreden-over-de-plekken"
- },
- {
   "id": "644de6810c",
   "datum": "2026-10-23",
   "tijd": "14:03",
@@ -678,27 +677,6 @@
   ],
   "samenvatting": "Kamer zoekt naar effectievere aanpak van zorgfraude ICT&health",
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3BPOHpWa3lrTHU3amRHTC0yNWlpZVNzTkZHVFU3WFpnTm9MOXBNbjZXcVd5d1pQc25kN0xob0ZnNTdnVmFsdk1laFprcjZhcUtRM1pqVXBTQ2hpVWZCclUxdjlIdjhFTjF2OVktajBCYXRvTFl6OVEyVGpmdzV1SzZfcmV4UWNNWXBF?oc=5"
- },
- {
-  "id": "db04afa809",
-  "datum": "2026-10-23",
-  "tijd": "11:40",
-  "nieuw": false,
-  "titel": "Lelystad - Reparatie Houtribbruggen en renovatie sluizen kost 250 miljoen euro, Heijmans gaat het werk doen",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "stal",
-   "vrachtwagen"
-  ],
-  "samenvatting": "De reparatie van de Houtribbruggen en de renovatie van de sluizen in Lelystad gaan naar schatting 250 miljoen euro kosten. Dat heeft Koninklijke Heijmans bekendgemaakt. Dit bouwbedrijf mag van Rijkswaterstaat de werkzaamheden aan het Houtribcomplex uitvoeren. Uit inspecties bleek dat de stalen onderdelen van de beweegb",
-  "link": "https://www.omroepflevoland.nl/nieuws/528494/reparatie-houtribbruggen-en-renovatie-sluizen-kost-250-miljoen-euro-heijmans-gaat-het-werk-doen"
  },
  {
   "id": "6e692fdd33",
@@ -9026,6 +9004,25 @@
   ],
   "samenvatting": "Politie spreekt Gouwenaars aan op afvaldumping, maar krijgt kritiek Gouds Dagblad",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUW93Y1J0V1M5TldHTVFneDZPaU1ZOHJONHQ4VlZsb24wN3Q5TnluSUxGUWdKQ3kyVkl0QktnWlNhdGk2dHpMVzQzZ2ViUGdDU0oya05NYWl4cWk1R29meWpzYWdXVndzTmdlaENjYmRvSUN6NXZyalAyeG5CbDgzWDZxcE9tQXV3RWdtbEl4WUtONW84NzE1dERpWkg2Zw?oc=5"
+ },
+ {
+  "id": "c4dcd399d7",
+  "datum": "2026-10-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "233 arrestaties bij Interpol-acties tegen milieucriminaliteit inclusief ontbossing",
+  "bron": "Houtwereld",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "milieucriminaliteit"
+  ],
+  "samenvatting": "233 arrestaties bij Interpol-acties tegen milieucriminaliteit inclusief ontbossing Houtwereld",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHN3amdwNGhGbW54ZnpiNUdmVHRHaWVtSlNwVy13RWtwQk42eEtoQU9aSkRLS1E3NTJ4dVNscVd1LXcwNDRXS2xtc2JWLS15RThTRHNjRjlsZTAyRFU3WjZMWEQ0dGVqb1J6WmdnV0ZuOWhWVUczWldtcDBiTEtWOW5jTjNqYTE4QVFqZkVHQTEtb0NYNE40S1k2eE1GQUJGbFhkUUp1TksxcE5MUkxmT1B5UzZwUQ?oc=5"
  },
  {
   "id": "be645b03ca",
@@ -90917,6 +90914,25 @@
   ],
   "samenvatting": "UBO-register voor trusts en fondsen voor gemene rekeningen KPMG Meijburg & Co",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ01CVUREN0VSaW1DMl9ZMUtJWWtwTlRwYkZya0drdHV6cnQ0Qm14MEp5V1RPQ2hIMHBkbWdlbHV0aWF1U3lLemNiTVlHU0IyM24yMmtRUV9XNXpJV3VOODFlWTM5TmFtNkZ0NVY4al9fZXYzV29yaUpiNHlfY3l2bmRGLTg4TlRyWmJYb3dvVVE2c1U?oc=5"
+ },
+ {
+  "id": "8edc178718",
+  "datum": "2020-05-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drie personen aangehouden bij inval drugslab, miljoenen aan drugs gevonden",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drie personen aangehouden bij inval drugslab, miljoenen aan drugs gevonden NOS",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbEdsTWtPbTVGMGxpa3hfWnEwUHE2NTRVeHgwd3hXOWlWNGgwR0NoakYtV0ZCaEZJaHlEVXZMZDI5UDRqeDRRZ0hlaWZuejhZYkhNZ1pnZm9KekFlaDJXN016anZGMVJaLUpBY0l0LXVfN09BNERLVUthRkJtUXRLQzJzYlROTmI4SUpiREJxRmgwX2V6TDM1ck4xVEFNSmlOcWVteHRfSQ?oc=5"
  },
  {
   "id": "ca85ba1ecb",
