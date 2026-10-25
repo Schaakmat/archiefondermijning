@@ -4,7 +4,7 @@
   "datum": "2026-10-25",
   "tijd": "20:15",
   "nieuw": true,
-  "titel": "Vrouw dood gevonden in Eindhoven, man aangehouden",
+  "titel": "Vrouw dood gevonden in appartement Eindhoven, man aangehouden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
@@ -15,8 +15,27 @@
   "tags": [
    "woning"
   ],
-  "samenvatting": "In een appartement in Eindhoven is vanmiddag een vrouw onder verdachte omstandigheden dood aangetroffen. Een man die wordt verdacht van betrokkenheid bij haar dood is gearresteerd. De politie sluit uit dat de vrouw een natuurlijk dood is gestorven, zegt de woordvoerder van de eenheid Oost-Brabant. De verdachte werd gea",
+  "samenvatting": "In een appartement in Eindhoven is vanmiddag een vrouw onder verdachte omstandigheden dood aangetroffen. Een man die wordt verdacht van betrokkenheid bij haar dood is gearresteerd. De politie sluit uit dat de vrouw een natuurlijke dood is gestorven, zegt de woordvoerder van de eenheid Oost-Brabant. De verdachte werd ge",
   "link": "https://nos.nl/l/2636663"
+ },
+ {
+  "id": "11e135025e",
+  "datum": "2026-10-25",
+  "tijd": "19:10",
+  "nieuw": true,
+  "titel": "Na 104 jaar zwijgt het Sint-Jozefkoor: ‘Dit is de laatste keer’",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jonge aanwas"
+  ],
+  "samenvatting": "Het Sint-Jozefkoor uit Helmond stopt. Na ruim honderd jaar gregoriaanse zang in de kerk is er te weinig jonge aanwas om door te gaan. Op zondag 3 januari is het koor voor het laatst te horen. “Nu zetten we zelf een punt erachter”, zegt Leenen van het koor. Henri Michielsen richtte het koor op 13 oktober 1922 op. “Wij k",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032291/na-104-jaar-zwijgt-het-sint-jozefkoor-dit-is-de-laatste-keer"
  },
  {
   "id": "7e9837f077",
@@ -53,7 +72,7 @@
   "tags": [
    "woning"
   ],
-  "samenvatting": "Een vrouw is zondagmiddag dood gevonden in een appartement aan de Van Kinsbergenstraat in Eindhoven. Bij het gebouw is een man aangehouden, hij wordt verdacht van betrokkenheid bij de dood van de vrouw. Dat meldt de politie. De politie heeft de vrouw aan het eind van de middag 'onder verdachte omstandigheden' gevonden ",
+  "samenvatting": "Een vrouw is zondagmiddag dood gevonden in een appartement aan de Van Kinsbergenstraat in Eindhoven. In de buurt is een man aangehouden, hij wordt verdacht van betrokkenheid bij de dood van de vrouw. Dat meldt de politie. De vrouw is aan het eind van de middag 'onder verdachte omstandigheden' dood gevonden in het appar",
   "link": "https://www.omroepbrabant.nl/nieuws/6032304/vrouw-dood-gevonden-in-appartement-eindhoven-man-aangehouden"
  },
  {
@@ -120,6 +139,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6032295/vrachtwagen-met-bier-kantelt-bij-den-bosch-weg-tussen-a2-en-a59-dicht"
  },
  {
+  "id": "a0ba2b5085",
+  "datum": "2026-10-25",
+  "tijd": "14:01",
+  "nieuw": true,
+  "titel": "Vrachtwagen met bier kantelt bij Den Bosch",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "Een vrachtwagen met bier is zondagmiddag gekanteld op knooppunt Empel bij Den Bosch. De weg vanuit Utrecht (A2) richting Waalwijk (A59) was daardoor dicht. De chauffeur raakte lichtgewond en is ter controle naar het ziekenhuis gebracht. Brandweer en politie zijn nog op het knooppunt. Hoe het ongeluk kon gebeuren, is ni",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032295/vrachtwagen-met-bier-kantelt-bij-den-bosch"
+ },
+ {
   "id": "5f3a0a4ca6",
   "datum": "2026-10-25",
   "tijd": "13:32",
@@ -180,7 +218,7 @@
   "id": "9755a903e7",
   "datum": "2026-10-25",
   "tijd": "10:36",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Waterlekkage leidt tot sinkholes in Crooswijk, Evides sluit drinkwater af",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -199,7 +237,7 @@
   "id": "05cd20ef9f",
   "datum": "2026-10-25",
   "tijd": "10:28",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Al negen meldingen: nieuw platform tegen intimidatie in Bergen op Zoom",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -39665,6 +39703,25 @@
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV04wTWVweThlY2xNVUl5ZXJVTVRLYzBoWDNQNTR6UWFDa05ITXdndy1FQUppT3Q5SnNBNkNybVVkRzZHU3YzVDFqVlhrLUdRYW9kODFPaTMxQ1JVaUNRYUR5QVJXSWx3X0YzZ0pvejgxWDU0bzJDSDNJTXVtNzdVb0w1dzlHcW9WOUQ1aGZJLXNDczJqdkVEVHhpU25JcUJBMG5hSHFZQXNpWGlPNlRGbmp3SU1mQjE3MDFid1V0bw?oc=5"
  },
  {
+  "id": "81fc00ede0",
+  "datum": "2026-09-02",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Twee gewonden bij explosie handgranaat aan Turks-Duitse juwelierszaak in Augsburg: geen explosief gevonden",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Twee gewonden bij explosie handgranaat aan Turks-Duitse juwelierszaak in Augsburg: geen explosief gevonden HLN",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWWVMSF95NlJ3Mm5TdXRsZlY2a3BBYTZrSGZVckdiWHhhMFVMS2lzeHFyTDJuRHBwczdINTN3N3VGak43eDZXaDJpUEUwaUk1bExEVXRmdEhOQnRzMUhKV29QUzA5ZkJQRENvckNlN3BUWlA2UHB5ajN1VEhrOHJMUFNCamh2dGY4OUFoTVVBajBwY3ZzWVBGNzJ3UjhPZkdKY3BzMnJtelMtUy1GTFpSWGtWUE5RS1BmQVI2NVg0bTNxZ1ZWV01LXzhLTHpyUGkxaWpzTFdhd2lNT0Q0ZXc?oc=5"
+ },
+ {
   "id": "1089816ec8",
   "datum": "2026-09-02",
   "tijd": "06:45",
@@ -51059,6 +51116,25 @@
   ],
   "samenvatting": "Zes vrouwen dienen klacht in wegens verkrachting en mensenhandel tegen Gérald Marie, voormalig topman modellenagentschap De Morgen",
   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbUYxUTU3aGNXR0RSd0lJQWNpSTdGdmdTOTZ1c3ExSHBaX0RvdkV3QlNQWUVVNE83WFotWUVucF9GVUxIcHM1cGlnM2lqenJ2a2liYnNSbmpES3Q5c3hTQWFuYkR4VHJsOUxNMUpRNldDX2NFRHFrWUF6SzM2dnRMa1hKcTZBTUFOb2ZfQVhLdVYzaW15bTFnNTI1QklZMkxTUzFoZW5IY184eEhzM0hPdHUtS2Y4Y09VZ1hFQzB6bnZmVGhqNENfREltQXpuOG1lU0xwangyWG1KWFl5TkplUlFuYUdCWklYTE9zWDNTcTRqMmNPZDA0?oc=5"
+ },
+ {
+  "id": "aaf0ae7cf4",
+  "datum": "2026-07-16",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Huis aan Keslerlaan in Bergen op slot na vondst hennepkwekerij",
+  "bron": "Streekstad Centraal",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Huis aan Keslerlaan in Bergen op slot na vondst hennepkwekerij Streekstad Centraal",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYzRvZVdwM0l5cmZKNGRFMHZvaFpkcFZXY2pCTGhSS3FzckVWUFZZekdSRkNRQUtxdWlhOURINjc3RHZMRDM5SUV0TnQ1TURmNmQ1WVc3WUpmd1hVb0NKcW9GSURxSnpMZkx0MHB5U0VuWXZFc0t0cl93UzJzcTE1RFhZdHk4bWFBMUVIRXk1MEJFQl9YNzBmN1VjOGhDYTNuWlo4?oc=5"
  },
  {
   "id": "80932c035d",
@@ -91324,6 +91400,27 @@
   ],
   "samenvatting": "Drugs, liquidaties en witwassen: wie is ‘Rico de Chileen’? Het Parool",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHduc0ZFdXp2SDUtMzc2dElqMXJWdXZUOWdPblJzb1M0ams2Q0lfRkFLSy1iQmNDMTNSOVhpSUdQM3QwSXIyaFVPNWVJbEJTdnNMUjBIUXFxSGpZWnh0dVJDTW1iYXp3Zk5FclRxaDBfUHRUSG1WN1owalNBNGZmcldVZ1lhTUd2MDR2QWJQQVNzNXo2dUtPbXRmOA?oc=5"
+ },
+ {
+  "id": "81ae1384a6",
+  "datum": "2020-05-26",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Celstraf geëist voor witwassen met bitcoins - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "bitcoin",
+   "witwassen"
+  ],
+  "samenvatting": "Celstraf geëist voor witwassen met bitcoins Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnVLdFZvbnFaaF9nSTM5V0Z1QnhmVVFEVHNMcktveXJIZEFwbVlsVlZkVjREVnJ5R0wtNWpsNHZWV2pvdS1iREVFYTVwMXc5VENzT3puSHZXakVKWGFMSGpZdmJhbUI0VnlBLW1BYmtZZWU2MVZmTkZUZXhTVExPb1ZjbDQ3VmlTb2NsMFJyOTQ?oc=5"
  },
  {
   "id": "fc6bbcb4e1",
