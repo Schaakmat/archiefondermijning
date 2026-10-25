@@ -1,5 +1,62 @@
 [
  {
+  "id": "c8525edcfe",
+  "datum": "2026-10-25",
+  "tijd": "20:15",
+  "nieuw": true,
+  "titel": "Vrouw dood gevonden in Eindhoven, man aangehouden",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "In een appartement in Eindhoven is vanmiddag een vrouw onder verdachte omstandigheden dood aangetroffen. Een man die wordt verdacht van betrokkenheid bij haar dood is gearresteerd. De politie sluit uit dat de vrouw een natuurlijk dood is gestorven, zegt de woordvoerder van de eenheid Oost-Brabant. De verdachte werd gea",
+  "link": "https://nos.nl/l/2636663"
+ },
+ {
+  "id": "7e9837f077",
+  "datum": "2026-10-25",
+  "tijd": "18:53",
+  "nieuw": true,
+  "titel": "Fietser in Amsterdam overleden door omgevallen boom",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "In Amsterdam is vandaag een fietser overleden nadat een boom op hem was gevallen. Het onderzoek naar de identiteit van het slachtoffer loopt nog, laat de politie aan de NOS weten. De man overleed op de Sloterweg in stadsdeel Nieuw-West. Hoe laat het ongeluk plaatsvond is nog niet duidelijk. De hulpdiensten kregen aan h",
+  "link": "https://nos.nl/l/2636650"
+ },
+ {
+  "id": "94a66b4af5",
+  "datum": "2026-10-25",
+  "tijd": "16:18",
+  "nieuw": true,
+  "titel": "Vrouw dood gevonden in appartement Eindhoven, man aangehouden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Een vrouw is zondagmiddag dood gevonden in een appartement aan de Van Kinsbergenstraat in Eindhoven. Bij het gebouw is een man aangehouden, hij wordt verdacht van betrokkenheid bij de dood van de vrouw. Dat meldt de politie. De politie heeft de vrouw aan het eind van de middag 'onder verdachte omstandigheden' gevonden ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032304/vrouw-dood-gevonden-in-appartement-eindhoven-man-aangehouden"
+ },
+ {
   "id": "39291f0731",
   "datum": "2026-10-25",
   "tijd": "15:09",
@@ -35,12 +92,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Geweld, liquidaties & bedreiging"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "burgemeester",
-   "geweld"
+   "burgemeester"
   ],
   "samenvatting": "Burgemeester Sacha Ausems van Waalwijk is niet te spreken over de brand bij drie auto’s van de handhavers van de gemeente, de boa’s. Zaterdagnacht zijn die waarschijnlijk in brand gestoken, meldt de politie. De burgemeester vindt het “onacceptabel”. De politie gaat uit van brandstichting. Daarom heeft de gemeente direc",
   "link": "https://www.omroepbrabant.nl/nieuws/6032296/burgemeester-boos-na-brand-bij-handhavingsautos-enorme-impact"
@@ -113,12 +168,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
    "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "beveiliging",
-   "stal"
+   "beveiliging"
   ],
   "samenvatting": "De politie heeft zaterdagavond drie mannen aangehouden bij een bedrijf in Raamsdonksveer. Het leek erop dat ze wilden inbreken. In hun auto lag inbrekersgereedschap. Een agent was rond acht uur ‘s avonds in de buurt aan het surveilleren toen hij de drie mannen bij het bedrijf zag staan, achter de beveiligingshekken. Om",
   "link": "https://www.omroepbrabant.nl/nieuws/6032279/mannen-opgepakt-bij-bedrijf-dat-apparatuur-voor-brandweer-maakt"
@@ -127,7 +180,7 @@
   "id": "9755a903e7",
   "datum": "2026-10-25",
   "tijd": "10:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Waterlekkage leidt tot sinkholes in Crooswijk, Evides sluit drinkwater af",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -146,7 +199,7 @@
   "id": "05cd20ef9f",
   "datum": "2026-10-25",
   "tijd": "10:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Al negen meldingen: nieuw platform tegen intimidatie in Bergen op Zoom",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -168,7 +221,7 @@
   "id": "9ebaad36e2",
   "datum": "2026-10-25",
   "tijd": "04:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ravage op A67 na aanrijding: auto ramt busje en verkeerslichten en crasht",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -187,7 +240,7 @@
   "id": "d657805efb",
   "datum": "2026-10-24",
   "tijd": "22:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zomertijd voorbij: vannacht is de klok weer een uur teruggegaan",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -206,7 +259,7 @@
   "id": "362a0d100d",
   "datum": "2026-10-24",
   "tijd": "19:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "1300 huishoudens in Hengelo tijdlang zonder stroom",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -225,7 +278,7 @@
   "id": "bbd18fbcb1",
   "datum": "2026-10-24",
   "tijd": "18:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto's knallen frontaal op elkaar bij Barneveld",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -50164,6 +50217,25 @@
   ],
   "samenvatting": "Overheden laten geld liggen voor opruimen van drugsafval Binnenlands Bestuur",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU19XTkpuNk53S0ZzYjhWRTByWHYtUHJodEx0aVFtbGNxSTdYSmU2VzlCMmp3Y3h0OE9LajRFdTJlZDQyenhaVERJNVYyM3hBUkFQTFZXWXotMk4zWXNRSzlFelRvNEVKT1FmZ1dhV0R5amkyM2lLcnRaRnJKem96Vk9HQURfbDRTeE1vcDF5bXBqcGMzYzBMcExBUGxPbjhmYkJoOWJ2SFM4R0FlOW5pN3lkMA?oc=5"
+ },
+ {
+  "id": "7348d12f81",
+  "datum": "2026-07-23",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie krijgt melding van mogelijke wietplantage in appartement, maar treft in huis verderop 600 planten aan",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietplantage"
+  ],
+  "samenvatting": "Politie krijgt melding van mogelijke wietplantage in appartement, maar treft in huis verderop 600 planten aan AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXUtV0g0VDBQeW9tYnhsZnVMT2JyZWsyRUxRME5kYTBkSHJSMmx2MmxXbV81ZzZCTVl4bUhhcjg2U0k4NGNGc1Y1NVoxaFg5bENDT21TMVB6UTNBXzdBbmhFRUJ2R3NIR2RvcDBmTE80Y3FGWGxXdTM4dWs5Nk4xOUtaWmRXSXI4Z01VWGdwUmhGSXZ1YUJpVTVIR19YTHFpNDk5bFZERlhPaDNZTjBZTkJ6Y1ZVdTNZNkFzbU5vbEJuVjVYaFdYdVBwTWFSSjF2MTVlMVh5WlhqbFdsOHpUMU1yU09PQQ?oc=5"
  },
  {
   "id": "1459d552be",
