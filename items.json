@@ -4,7 +4,7 @@
   "datum": "2026-10-24",
   "tijd": "22:52",
   "nieuw": true,
-  "titel": "Zomertijd voorbij: vannacht gaat de klok weer een uur terug",
+  "titel": "Zomertijd voorbij: vannacht is de klok weer een uur teruggegaan",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
@@ -15,7 +15,7 @@
   "tags": [
    "liec"
   ],
-  "samenvatting": "Vannacht om 03.00 uur is de zomertijd voorbij. Dat betekent dat de klok een uur achteruit wordt gezet en de meeste mensen een uurtje langer kunnen slapen morgenochtend. In de ochtend wordt het eerder licht en in de avond eerder donker. Ook andere Europese landen gaan komende nacht over op de 'wintertijd'. Wintertijd is",
+  "samenvatting": "Vannacht is de zomertijd geëindigd. Dat betekent dat de klok een uur achteruit is gezet en de meeste mensen een uurtje langer kunnen slapen. In de ochtend wordt het eerder licht en in de avond eerder donker. Ook andere Europese landen gaan komende nacht over op de 'wintertijd'. Wintertijd is de normale tijd voor Nederl",
   "link": "https://nos.nl/l/2636525"
  },
  {
@@ -119,7 +119,7 @@
   "id": "c1b4db7976",
   "datum": "2026-10-24",
   "tijd": "14:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Onderzoek naar brandstichting bij Rotterdams bedrijf dat in vlammen opging",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -138,7 +138,7 @@
   "id": "a407fd7c64",
   "datum": "2026-10-24",
   "tijd": "14:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie vindt sieraden bij aanhouding nepagenten",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -157,7 +157,7 @@
   "id": "381c70af6f",
   "datum": "2026-10-24",
   "tijd": "11:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeewolde - Provincie wil laatste acht oude windmolens in Zeewolde gedwongen laten slopen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -178,7 +178,7 @@
   "id": "36b33e6710",
   "datum": "2026-10-24",
   "tijd": "10:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "NAC pleit Van Hooijdonk vrij van belangenverstrengeling bij transfer zoon",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -199,7 +199,7 @@
   "id": "2ee207771b",
   "datum": "2026-10-24",
   "tijd": "09:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Burgemeester over toekomst Almere: 'Half miljoen inwoners, economisch hart van het land'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -226,7 +226,7 @@
   "id": "ae8ec6e16d",
   "datum": "2026-10-24",
   "tijd": "08:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Trucker overleeft crash en brand Gilze, vraagtekens rond slachtoffers auto",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -478,33 +478,6 @@
   ],
   "samenvatting": "In Rotterdam-Delfshaven is vrijdagavond op straat geschoten. Daarbij is een man gewond geraakt. Volgens 112-fotografen kon hij zelf naar een ambulance lopen. De politie heeft nog niemand aangehouden.",
   "link": "https://www.rijnmond.nl/nieuws/2272209/gewonde-bij-schietincident-in-rotterdam-delfshaven-politie-zoekt-getuigen"
- },
- {
-  "id": "776fe68ed5",
-  "datum": "2026-10-23",
-  "tijd": "16:51",
-  "nieuw": false,
-  "titel": "Almere - Eigenaars spookpand Randstad Almere verhogen beveiliging: bijna groen licht voor woningbouw",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Geweld, liquidaties & bedreiging",
-   "Ondernemers & weerbaarheid",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "beveiliging",
-   "huurwoning",
-   "ondernemers",
-   "pand",
-   "vergunning",
-   "woning"
-  ],
-  "samenvatting": "Het leegstaande kantoorpand aan de Randstad 20 in Almere Stad wordt omgetoverd tot een vesting. De eigenaren zijn begonnen met het plaatsen van camerabewaking en prikkeldraad en zetten beveiligers met honden in, zodat niemand het gebouw nog binnen kan komen. Tegelijkertijd is een speciale ploeg gestart met het schoonma",
-  "link": "https://www.omroepflevoland.nl/nieuws/528540/eigenaars-spookpand-randstad-almere-verhogen-beveiliging:-bijna-groen-licht-voor-woningbouw"
  },
  {
   "id": "ad4d324b18",
