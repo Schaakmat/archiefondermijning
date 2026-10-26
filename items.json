@@ -1,10 +1,153 @@
 [
  {
-  "id": "9e28fb9384",
+  "id": "571ddd251d",
+  "datum": "2026-10-26",
+  "tijd": "13:10",
+  "nieuw": true,
+  "titel": "Domburg krijgt mogelijk bewaakte fietsenstalling tegen groeiende fietsdiefstal",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "De gemeente Veere gaat onderzoeken of er een bewaakte fietsenstalling in Domburg gerealiseerd kan worden.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18890613/domburg-krijgt-mogelijk-bewaakte-fietsenstalling-tegen-groeiende-fietsdiefstal"
+ },
+ {
+  "id": "593b863730",
+  "datum": "2026-10-26",
+  "tijd": "12:15",
+  "nieuw": true,
+  "titel": "Europees Hof stelt vragen over Taghi en zijn straf in de EBI: dit is waarom",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "Nu Ridouan Taghi bijna zeven jaar in volledige isolatie zit in de Extra Beveiligde Inrichting (EBI) in Vught heeft het Europese Hof voor de Rechten van de Mens hierover vragen gesteld aan het ministerie van Justitie. Taghi heeft 21 klachten ingediend over zijn gevangenschap en die klachten zijn de aanleiding voor de vr",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032390/europees-hof-stelt-vragen-over-taghi-en-zijn-straf-in-de-ebi-dit-is-waarom"
+ },
+ {
+  "id": "b8519c5bf1",
+  "datum": "2026-10-26",
+  "tijd": "11:50",
+  "nieuw": true,
+  "titel": "Coen doodde zijn vriendin Jessica: WhatsAppjes schetsen onstuimige relatie",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "geweld",
+   "grond",
+   "stort"
+  ],
+  "samenvatting": "Bedrukte gezichten op een volle publiekstribune. De nabestaanden van Jessica horen maandag de details van haar laatste uren, de avond waarop de 38-jarige vrouw door haar vriend Coen K. met geweld om het leven werd gebracht. In de rechtszaal in Den Bosch schetsen gesprekken via WhatsApp en getuigenverklaringen een beeld",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032380/coen-doodde-zijn-vriendin-jessica-whatsappjes-schetsen-onstuimige-relatie"
+ },
+ {
+  "id": "ea6b019c50",
+  "datum": "2026-10-26",
+  "tijd": "11:30",
+  "nieuw": true,
+  "titel": "Man vast na vondst dode vrouw in appartement, buurt geschokt: 'Waarom zij?'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "beveiliging",
+   "pand"
+  ],
+  "samenvatting": "Ongeloof en schrik overheersen bij buurtbewoners aan de Van Kinsbergenstraat in Eindhoven. Een vrouw is zondagmiddag dood gevonden in een appartement. Een man is opgepakt. \"Ze was altijd zo’n lief vrouwtje\", vindt overbuurman Giuliano Soesman. \"Ze zat altijd op het balkon een sigaretje te roken. Ze deed niemand iets kw",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032386/man-vast-na-vondst-dode-vrouw-in-appartement-buurt-geschokt-waarom-zij"
+ },
+ {
+  "id": "09217d1a5a",
+  "datum": "2026-10-26",
+  "tijd": "11:00",
+  "nieuw": true,
+  "titel": "Verdachte aangehouden voor gewapende overval tankstation Vlissingen",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Het gaat om een 28-jarige man uit Goes",
+  "link": "https://www.omroepzeeland.nl/nieuws/18892146/verdachte-aangehouden-voor-gewapende-overval-tankstation-vlissingen"
+ },
+ {
+  "id": "3201ca26f6",
+  "datum": "2026-10-26",
+  "tijd": "10:12",
+  "nieuw": true,
+  "titel": "Buurt niet verbaasd dat uitgebrande loods in Kortrijk een drugslab blijkt: \"Al jaren een verdachte bedoening\"",
+  "bron": "VRT",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab",
+   "loods"
+  ],
+  "samenvatting": "Buurt niet verbaasd dat uitgebrande loods in Kortrijk een drugslab blijkt: \"Al jaren een verdachte bedoening\" VRT",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzVqeW52TzJuQ0pyVFZQeWNHV1dCOHBUY3hsMHVGNlRaUzcyT1FRU0xHa2RkYWZfMlFYRDNmUUJDMEkySTZyRngxb2RmYUZCOGgyaHg5bHljZ19XZVd3ejN2aHJacnpneTd2YXAxUWo1UzBIVFBCSWpKQVFYTW45X3FCejJRN3ptdTFqaw?oc=5"
+ },
+ {
+  "id": "38c032ee57",
+  "datum": "2026-10-26",
+  "tijd": "09:00",
+  "nieuw": true,
+  "titel": "Boete van 200.000 euro voor illegaal accepteren boorafval",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "grond",
+   "vergunning"
+  ],
+  "samenvatting": "Het Openbaar Ministerie (OM) heeft een boete van 200.000 euro opgelegd aan Grondbank GMG in Andelst. Het bedrijf zou tussen 2021 en 2022 verontreinigd afval uit geothermieboringen hebben aangenomen terwijl het daar geen vergunning voor had. Grondbank GMG heeft de boete geaccepteerd en voorkomt daarmee een rechtszaak. H",
+  "link": "https://www.gld.nl/nieuws/8539161/boete-van-200000-euro-voor-illegaal-accepteren-boorafval"
+ },
+ {
+  "id": "c01ca48dc4",
   "datum": "2026-10-26",
   "tijd": "07:35",
   "nieuw": true,
-  "titel": "Almere - Explosie bij pas geopende coffeeshop in Almere Buiten",
+  "titel": "Almere - Explosie bij pas geopende coffeeshop in Almere Buiten: 'Ik hoorde een hele klap'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -21,8 +164,8 @@
    "explosie",
    "pand"
   ],
-  "samenvatting": "Bij de pas geopende coffeeshop aan de Evenaar in Almere Buiten heeft in de nacht van zondag op maandag een explosie plaatsgevonden. Volgens een 112-fotograaf ontstond er na de ontploffing een kleine brand. De hulpdiensten werden om 01.20 uur gealarmeerd. Toen ze ter plaatse kwamen, bleek er behoorlijke schade aan het p",
-  "link": "https://www.omroepflevoland.nl/nieuws/528835/explosie-bij-pas-geopende-coffeeshop-in-almere-buiten"
+  "samenvatting": "Bij de pas geopende coffeeshop aan de Evenaar in Almere Buiten heeft in de nacht van zondag op maandag een explosie plaatsgevonden. Volgens een 112-verslaggever ontstond er na de ontploffing een kleine brand. Er raakte niemand gewond. \"Ik hoorde een hele klap\", vertelde een getuige ter plaatse aan de verslaggever. \"Ik ",
+  "link": "https://www.omroepflevoland.nl/nieuws/528835/explosie-bij-pas-geopende-coffeeshop-in-almere-buiten:-'ik-hoorde-een-hele-klap'"
  },
  {
   "id": "1ff42ce177",
@@ -69,6 +212,25 @@
   ],
   "samenvatting": "PRO-leider Jesse Klaver uit Roosendaal staat er goed voor: in de meeste zetelpeilingen voor de Tweede Kamer komt zijn partij uit op ongeveer dertig zetels. Toch hoopt hij niet dat er snel nieuwe verkiezingen komen. “Dat is niet goed voor Nederland”, zegt hij in de Omroep Brabant-talkshow VRIJDAG. Als er nu verkiezingen",
   "link": "https://www.omroepbrabant.nl/nieuws/6032271/jesse-klaver-scoort-goed-in-peilingen-maar-hoopt-niet-op-verkiezingen"
+ },
+ {
+  "id": "753b3dba42",
+  "datum": "2026-10-26",
+  "tijd": "05:44",
+  "nieuw": true,
+  "titel": "Meerdere daders ontkomen met buit na ramkraak op juwelier",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "juwelier"
+  ],
+  "samenvatting": "Bij de ramkraak op Woudenberg Juweliers in het centrum van Eibergen waren meerdere daders betrokken. Dat meldt de politie. Ze wisten met een onbekende buit te ontkomen.",
+  "link": "https://www.gld.nl/nieuws/8540003/meerdere-daders-ontkomen-met-buit-na-ramkraak-op-juwelier"
  },
  {
   "id": "ee39092c38",
@@ -147,11 +309,11 @@
   "link": "https://nos.nl/l/2636650"
  },
  {
-  "id": "4e172d5181",
+  "id": "522fcc7589",
   "datum": "2026-10-25",
   "tijd": "16:18",
   "nieuw": true,
-  "titel": "Dode aangetroffen in appartement, recherche doet onderzoek",
+  "titel": "Dode vrouw gevonden in appartement, recherche doet onderzoek",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -162,8 +324,8 @@
   "tags": [
    "woning"
   ],
-  "samenvatting": "Een vrouw is zondagmiddag dood gevonden in een appartement aan de Van Kinsbergenstraat in Eindhoven. In de buurt is een man aangehouden, hij wordt verdacht van betrokkenheid bij de dood van de vrouw. Dat meldt de politie. De vrouw is aan het eind van de middag 'onder verdachte omstandigheden' dood gevonden in het appar",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032304/dode-aangetroffen-in-appartement-recherche-doet-onderzoek"
+  "samenvatting": "Een vrouw is zondagmiddag dood gevonden in een appartement aan de Van Kinsbergenstraat in Eindhoven. In de buurt is een man aangehouden, hij wordt verdacht van betrokkenheid bij de dood van de vrouw. Dat meldt de politie. De vrouw is aan het eind van de middag \"onder verdachte omstandigheden\" dood gevonden in het appar",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032304/dode-vrouw-gevonden-in-appartement-recherche-doet-onderzoek"
  },
  {
   "id": "39291f0731",
@@ -341,25 +503,6 @@
   ],
   "samenvatting": "Een automobilist is zaterdagnacht aangehouden na een botsing op de A67 bij Ommel. De bestuurder raakte daar met zijn auto een busje met Belgisch kenteken. Na de klap zou de automobilist zijn doorgereden en twee verkeerslichten omver hebben gereden. Uiteindelijk belandde hij met zijn auto enkele honderden meters verdero",
   "link": "https://www.omroepbrabant.nl/nieuws/6032257/ravage-op-a67-na-aanrijding-auto-ramt-busje-en-verkeerslichten-en-crasht"
- },
- {
-  "id": "d657805efb",
-  "datum": "2026-10-24",
-  "tijd": "22:52",
-  "nieuw": false,
-  "titel": "Zomertijd voorbij: vannacht is de klok weer een uur teruggegaan",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Beleid, wetgeving & toezicht"
-  ],
-  "tags": [
-   "liec"
-  ],
-  "samenvatting": "Vannacht is de zomertijd geëindigd. Dat betekent dat de klok een uur achteruit is gezet en de meeste mensen een uurtje langer kunnen slapen. In de ochtend wordt het eerder licht en in de avond eerder donker. Ook andere Europese landen gaan komende nacht over op de 'wintertijd'. Wintertijd is de normale tijd voor Nederl",
-  "link": "https://nos.nl/l/2636525"
  },
  {
   "id": "362a0d100d",
@@ -834,6 +977,25 @@
   ],
   "samenvatting": "De rechtbank Amsterdam heeft een 20-jarige man veroordeeld tot een onvoorwaardelijke gevangenisstraf van 20 maanden voor het medeplegen van een aanslag met een explosief bij een woning aan de Delta in Lelystad. De aanslag was op 20 februari bij de voordeur van het huis. De man heeft ook nog 10 maanden voorwaardelijke g",
   "link": "https://www.omroepflevoland.nl/nieuws/528534/20-jarige-krijgt-20-maanden-cel-voor-medeplegen-explosie-woning-aan-de-delta-in-lelystad"
+ },
+ {
+  "id": "e392cde8e4",
+  "datum": "2026-10-23",
+  "tijd": "15:36",
+  "nieuw": false,
+  "titel": "Instortingsgevaar en asbest: eigenaar Michaelshoeve moet maatregelen nemen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "last onder dwangsom"
+  ],
+  "samenvatting": "Het monumentale landhuis op landgoed de Michaelshoeve in Brummen staat op instorten. Dat stelt de gemeente Brummen. Om te voorkomen dat het gebouw het daadwerkelijk begeeft, legt de gemeente de eigenaar een last onder dwangsom op. Binnen tien weken moeten herstelmaatregelen worden uitgevoerd.",
+  "link": "https://www.gld.nl/nieuws/8539237/instortingsgevaar-en-asbest-eigenaar-michaelshoeve-moet-maatregelen-nemen"
  },
  {
   "id": "6cf770c58f",
@@ -49823,6 +49985,28 @@
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTEYwT2tXXzhLVWtZX2MwT3pwdmZPLTc2dHZ1U2plZVZJQzlMdDJVZDJvZDE5YWVxQWxMa1VaUlJKcnlUSVpuMVdFcUMzTDBRUXNfNWJOWENxc0l0ZVFnLV91eWhZRjVvM1pOZndLemc1bmozcTl0WjFLeVZ5RUVwZUNaa2pmY2hGVWxMQTd5WFFxNVZ1TFdMWWVCVk5KZXBfNnQzWUhYQzlacE5IelhOZlhycld5NUJnTWo3bGFFVE4zU1h1T05Pdg?oc=5"
  },
  {
+  "id": "876b38aa01",
+  "datum": "2026-07-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ongeveer 140 vaten met drugsafval gevonden aan Blookweg in Bavel",
+  "bron": "BredaNu",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval",
+   "vaten"
+  ],
+  "samenvatting": "Ongeveer 140 vaten met drugsafval gevonden aan Blookweg in Bavel BredaNu",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa1lSN2Q4UnpzUnFoSDVWbU83SWM0eEhKMFdZbTlTS2xqUnZLWXFrRk1aejRlLTJfd3JSWkxTVWxwTFpjU1FPc1N3Vi1aRUU3TnBBbUxDbWZ6Nms5M3BxdXBtUEZHaHpBSDVOVzIxQThYbTNBd3N0bFlGbVY5SDJvOVpmeFJhQk1wbkJycjZDR2hPN0oxTHByakdLQ2otTFEtaU5VeXkyVQ?oc=5"
+ },
+ {
   "id": "e38439d431",
   "datum": "2026-07-27",
   "tijd": "20:54",
@@ -55397,6 +55581,27 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjhqOElocmlBbzVheTlVR2Y1RFA4TDM3UkRwZXF3NjJmUlpYaUpPSlVfR3RubDV6bnlfOEROVmxldUp6aHdkWEdaN3BvS0dmUk1hY3J0MGxyRUJ3ZmZ6WG9nV0ZGbTBpSDRteWlpV0pxbWVnNFdnejJOdnlNZ201VmZ1aGlONDFmQVVSbzZzdmIxRmZkMFdjUHlBYjlEN3V3dmppR0dvNkhDT2FEaExQVG5aVllacmhxSkprQmRR?oc=5"
  },
  {
+  "id": "fb6379a374",
+  "datum": "2026-06-10",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Grote multidisciplinaire controle tegen ondermijning op bedrijventerrein De Heining",
+  "bron": "Amsterdamsdagblad.nl",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "bedrijventerrein",
+   "ondermijning"
+  ],
+  "samenvatting": "Grote multidisciplinaire controle tegen ondermijning op bedrijventerrein De Heining Amsterdamsdagblad.nl",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd0xHX0E3aE9kSDloX2R1LUV1M1ZoV2NuMDBZNzdPYjlZV2JpUTlfQU90RXphbDFfRlVLT3BaYlhpbFRiRUZ3TVpzOUdzd2g3X0ZRcFJfNnFwNi1qSlNCWmJYWU5EeDVJVEdrZGl2SzNfSWlTSzN4NkpsQWM4N2JlNjNmREJ0SWdxdGI0TFc3QmNXX05UM19GQTNiSW9Mal9FOVM5MGdJcjFoWThZay03X1RBekhlejluYjYxUi1EeHlHcXVHdlhaU1FB?oc=5"
+ },
+ {
   "id": "ea61e759eb",
   "datum": "2026-06-09",
   "tijd": "07:00",
@@ -56581,6 +56786,25 @@
   ],
   "samenvatting": "Opnieuw afvaldumping op parkeerterrein Catharinaplein - Al het nieuws uit Schijndel Mooischijndel.nl",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSHF4QmpVX1lQRE5Rb3F6QkI0NnZoZTBJQ05JTzlTb0VCYWdWa0xiSFVqQ2lteG1vVTF3eDQ3WWMwSUpKSG45VWdfUW5PcHRzTEVsSEJ0T0F3NFFoSmh0RzEzTHlBODF0R2ptWGlhZzhZX21ILUdPaXY0dnFmTm8yNTJtYWRaMnVnV0d2bTJ3aENVZ2taLXRscERmMnhVUDJGWWlveUNlQQ?oc=5"
+ },
+ {
+  "id": "82cbd8f9d7",
+  "datum": "2026-06-01",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ondermijning aangetroffen bij bestuurlijke controle",
+  "bron": "Gemeente De Bilt",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Ondermijning aangetroffen bij bestuurlijke controle Gemeente De Bilt",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHhyQ2dWei1lODZOSE1BMjB1cklGcktwLV9XR3RIZWNtbzdwUjBrcGRoWUlRRjdTcUNKLTZaNVpoN0hnXzhQaUJacTlBYUhOMGlUUGs3RlFNM2xoZTZmd1ZlTmctUU54U3N6YkJ4c1hHa0s1STNkVF9aSGY4SXpXQjh0OVhHTHRnRGN2bDMzbDB4TGM?oc=5"
  },
  {
   "id": "ac64bfcb5a",
@@ -87042,6 +87266,40 @@
   ],
   "samenvatting": "Zorgfraude: vorig jaar honderden meldingen over misstanden door zorgcowboys RTV Oost",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEYwQ242MldGdjdhbGtUV2g1THhsVHJ1Tk4wSzZWdmRSUzA2dUdreUstcDI5ekYtcno3RlJ0em14R3pCR3VIa1BFYTlreUhfLXB3RTh6a3VFVktkWkc0Y25PWkR1M2x6NkswWDRsaUxDS0N5V2N1bjN2MW5VOGQ3VkxtcjZFZ0czbVJrT0xzQmVpMzRzWW04LWFUUDFDYTZhdmI3UFlpNU5iUXV4YlE?oc=5"
+ },
+ {
+  "id": "560cb8e896",
+  "datum": "2022-07-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Het vestigingsklimaat voor drugscriminaliteit in Nederland - WODC Repository",
+  "bron": "WODC",
+  "verzameld_via": "WODC",
+  "soort": "Rapport",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Het vestigingsklimaat voor drugscriminaliteit in Nederland WODC Repository",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzBnS1dpcmxual9lU0tZUFZQa0NxamkxTHVCYTlkSUJ4N1lVRDJ5WDBWZlphcVBBc0ZiZ3NDT0N4UTdCMzl0ckhVR3V5NXdOQXJzc2hkQTFMdE91dkI0enJqS1hHMnpFU1ltQm1CWTZIdDdnUFQ0SHBwRWxxRG5COUxUY1hfLTFKVWFweA?oc=5"
+ },
+ {
+  "id": "00dcf2cacc",
+  "datum": "2022-07-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Gunstig Nederlands vestigingsklimaat voor drugshandel? Zo eenvoudig ligt het niet - WODC - Wetenschappelijk Onderzoek- en Datacentrum",
+  "bron": "WODC",
+  "verzameld_via": "WODC",
+  "soort": "Rapport",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Gunstig Nederlands vestigingsklimaat voor drugshandel? Zo eenvoudig ligt het niet WODC - Wetenschappelijk Onderzoek- en Datacentrum",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMi1SMEkyN3QxZWRJSWljcUx6b3ZqX2VKVG5mUVhNei1kcWQ3clF6eFV6d0hiQS1RT3NpMGNOR3VtYmdGNDJMNm02VElaY1JRb3pXT1BWYlVkM2lKbjE0VXhfN0hmQnRZVF9xVktya0hVb1dKRlFpMm1HTmhTWWl3QXJvcHRGbTVKQ0x6UW9iZll1dzJjdk5ILVhHcHNyWFdVSnI4NTFiRkV3djREMWdudFFFbjdXaVlCMldHYmg0bDNGdjNU?oc=5"
  },
  {
   "id": "08e7bed390",
