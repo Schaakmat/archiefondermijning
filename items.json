@@ -1,10 +1,81 @@
 [
  {
+  "id": "9e28fb9384",
+  "datum": "2026-10-26",
+  "tijd": "07:35",
+  "nieuw": true,
+  "titel": "Almere - Explosie bij pas geopende coffeeshop in Almere Buiten",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Horeca, winkels & dienstverlening",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "burgemeester",
+   "coffeeshop",
+   "explosie",
+   "pand"
+  ],
+  "samenvatting": "Bij de pas geopende coffeeshop aan de Evenaar in Almere Buiten heeft in de nacht van zondag op maandag een explosie plaatsgevonden. Volgens een 112-fotograaf ontstond er na de ontploffing een kleine brand. De hulpdiensten werden om 01.20 uur gealarmeerd. Toen ze ter plaatse kwamen, bleek er behoorlijke schade aan het p",
+  "link": "https://www.omroepflevoland.nl/nieuws/528835/explosie-bij-pas-geopende-coffeeshop-in-almere-buiten"
+ },
+ {
+  "id": "1ff42ce177",
+  "datum": "2026-10-26",
+  "tijd": "07:11",
+  "nieuw": true,
+  "titel": "Kraggenburg - Van slachtoffer naar dader: podcast belicht de rol van Rosie in Kraggenburgse seksloodszaak",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "erf",
+   "loods",
+   "mensensmokkel",
+   "netwerk"
+  ],
+  "samenvatting": "Ruim 20 jaar geleden werd Kraggenburg opgeschrikt door een vreselijke zaak. In een loods werden drie vrouwen mishandeld, verkracht en zelfs gedwongen om seks te hebben met dieren. De zaak kwam aan het rollen toen een van de vrouwen, een vluchteling uit Nigeria, ontsnapte en naakt een nabijgelegen erf opliep. Journalist",
+  "link": "https://www.omroepflevoland.nl/nieuws/528371/van-slachtoffer-naar-dader:-podcast-belicht-de-rol-van-rosie-in-kraggenburgse-seksloodszaak"
+ },
+ {
+  "id": "675ef8dfdf",
+  "datum": "2026-10-26",
+  "tijd": "06:01",
+  "nieuw": true,
+  "titel": "Jesse Klaver scoort goed in peilingen, maar hoopt niet op verkiezingen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "leider",
+   "uitkering"
+  ],
+  "samenvatting": "PRO-leider Jesse Klaver uit Roosendaal staat er goed voor: in de meeste zetelpeilingen voor de Tweede Kamer komt zijn partij uit op ongeveer dertig zetels. Toch hoopt hij niet dat er snel nieuwe verkiezingen komen. “Dat is niet goed voor Nederland”, zegt hij in de Omroep Brabant-talkshow VRIJDAG. Als er nu verkiezingen",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032271/jesse-klaver-scoort-goed-in-peilingen-maar-hoopt-niet-op-verkiezingen"
+ },
+ {
   "id": "ee39092c38",
   "datum": "2026-10-25",
   "tijd": "23:01",
   "nieuw": true,
-  "titel": "Sven Kockelmann (56) wint Sonja Barend Award voor interview met oud-premier Schoof",
+  "titel": "Sven Kockelmann wint Sonja Barend Award voor interview met oud-premier Schoof",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
@@ -15,7 +86,7 @@
   "tags": [
    "leider"
   ],
-  "samenvatting": "Sven Kockelmann (56) heeft de Sonja Barend Award gewonnen. De journalist wint de prijs voor zijn interview met oud-premier Schoof. BNNVARA, de omroep die de prijs uitreikt, looft Kockelmann voor de manier waarop hij van het interview met de toen afzwaaiende premier \"geen politiek kruisverhoor, maar een persoonlijk gesp",
+  "samenvatting": "Sven Kockelmann heeft de Sonja Barend Award gewonnen. De journalist wint de prijs voor zijn interview met oud-premier Schoof. BNNVARA, de omroep die de prijs uitreikt, looft Kockelmann voor de manier waarop hij van het interview met de toen afzwaaiende premier \"geen politiek kruisverhoor, maar een persoonlijk gesprek o",
   "link": "https://nos.nl/l/2636679"
  },
  {
@@ -76,11 +147,11 @@
   "link": "https://nos.nl/l/2636650"
  },
  {
-  "id": "94a66b4af5",
+  "id": "4e172d5181",
   "datum": "2026-10-25",
   "tijd": "16:18",
   "nieuw": true,
-  "titel": "Vrouw dood gevonden in appartement Eindhoven, man aangehouden",
+  "titel": "Dode aangetroffen in appartement, recherche doet onderzoek",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -92,7 +163,7 @@
    "woning"
   ],
   "samenvatting": "Een vrouw is zondagmiddag dood gevonden in een appartement aan de Van Kinsbergenstraat in Eindhoven. In de buurt is een man aangehouden, hij wordt verdacht van betrokkenheid bij de dood van de vrouw. Dat meldt de politie. De vrouw is aan het eind van de middag 'onder verdachte omstandigheden' dood gevonden in het appar",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032304/vrouw-dood-gevonden-in-appartement-eindhoven-man-aangehouden"
+  "link": "https://www.omroepbrabant.nl/nieuws/6032304/dode-aangetroffen-in-appartement-recherche-doet-onderzoek"
  },
  {
   "id": "39291f0731",
@@ -180,7 +251,7 @@
   "id": "5f3a0a4ca6",
   "datum": "2026-10-25",
   "tijd": "13:32",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Vrouw zwaargewond door klap bij ruzie op feest aan Rhôneweg, politie grijpt in met wapenstokken - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -199,7 +270,7 @@
   "id": "5adff36f84",
   "datum": "2026-10-25",
   "tijd": "11:15",
-  "nieuw": false,
+  "nieuw": true,
   "titel": "Edith Schippers over grootschalige zorgfraude: 'Kan zomaar vijftien of twintig miljard zijn'",
   "bron": "WNL",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -251,28 +322,6 @@
   ],
   "samenvatting": "Op twee plekken in Rotterdam-Crooswijk zijn sinkholes ontstaan. De zinkgaten werden zondagochtend ontdekt op de Crooswijksestraat en de Hendrikstraat. De oorzaak is een waterlekkage onder de grond, meldt de Veiligheidsregio Rotterdam-Rijnmond. Waterbedrijf Evides heeft het drinkwater afgesloten.",
   "link": "https://www.rijnmond.nl/nieuws/2272658/waterlekkage-leidt-tot-sinkholes-in-crooswijk-evides-sluit-drinkwater-af"
- },
- {
-  "id": "05cd20ef9f",
-  "datum": "2026-10-25",
-  "tijd": "10:28",
-  "nieuw": false,
-  "titel": "Al negen meldingen: nieuw platform tegen intimidatie in Bergen op Zoom",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "burgemeester",
-   "leider",
-   "organisatie"
-  ],
-  "samenvatting": "Inwoners van Bergen op Zoom kunnen sinds vrijdag online melden dat ze op straat zijn lastiggevallen. Met het nieuwe meldpunt tegen straatintimidatie moet duidelijk worden waar in de stad de probleemplekken liggen. Een melding doen kan helemaal anoniem, maar is volgens projectleider Inge Hansum o zo belangrijk. Heb je k",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032276/al-negen-meldingen-nieuw-platform-tegen-intimidatie-in-bergen-op-zoom"
  },
  {
   "id": "9ebaad36e2",
@@ -370,25 +419,6 @@
   "link": "https://www.omroepflevoland.nl/nieuws/528619/man-in-lelystad-wordt-na-tweede-kans-alsnog-uit-zijn-huis-gezet"
  },
  {
-  "id": "b297aaea9d",
-  "datum": "2026-10-24",
-  "tijd": "17:37",
-  "nieuw": false,
-  "titel": "Topdrukte bij Gelders tankstation met stuntprijzen: uur lang tanken voor 1 euro",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "woning"
-  ],
-  "samenvatting": "Bij een tankstation in Voorst was het vanmiddag uitzonderlijk druk. Het tankstation sluit definitief de deuren en stunt op de laatste dag met de brandstofprijzen. Tussen 16.00 en 17.00 uur konden bezoekers voor 1 euro per liter hun tank volgooien. Dat leidde tot chaotische taferelen. Het tankstation sluit na 38 jaar de",
-  "link": "https://nos.nl/l/2636486"
- },
- {
   "id": "7f97cbc7eb",
   "datum": "2026-10-24",
   "tijd": "17:28",
@@ -465,27 +495,6 @@
   ],
   "samenvatting": "Ze deden zich voor als politieagent en een agent van een verzekeringsmaatschappij.",
   "link": "https://www.omroepzeeland.nl/nieuws/18887628/politie-vindt-sieraden-bij-aanhouding-nepagenten"
- },
- {
-  "id": "381c70af6f",
-  "datum": "2026-10-24",
-  "tijd": "11:08",
-  "nieuw": false,
-  "titel": "Zeewolde - Provincie wil laatste acht oude windmolens in Zeewolde gedwongen laten slopen",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "buitengebied",
-   "grond"
-  ],
-  "samenvatting": "Terwijl vrijwel alle oude windmolens in het buitengebied van Zeewolde inmiddels zijn verdwenen, verzetten vijf eigenaren van in totaal acht turbines zich nog tegen de verplichte sanering. Daarom heeft de provincie Flevoland een bijzondere procedure in gang gezet die de eigenaren kan verplichten hun molens te laten ontm",
-  "link": "https://www.omroepflevoland.nl/nieuws/528515/provincie-wil-laatste-acht-oude-windmolens-in-zeewolde-gedwongen-laten-slopen"
  },
  {
   "id": "ae8ec6e16d",
@@ -1886,6 +1895,25 @@
   ],
   "samenvatting": "Vrouw uit Mol centraal in internationaal onderzoek naar mensenhandel RTV",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVZCdmp3VkdFcTVncWJSRVFVbkdWZG5SdUlWcXEwUEZlYjVzZ0lKS0txdGdlNDBDa0t1bFpSeng5M2hDMXA2b1BFSmVGeHduT3ZNdHVHVGZTcUxSUUNrLTE4bGx2LVZscGtVR2F2UW1OSXF5X1NVUTNhYjJGa3pOM1drOWUzWkJqdS1NcXI4aDlfUFBXN0Y5MHo2WU1LTENwR0RwbXo3WUNpQQ?oc=5"
+ },
+ {
+  "id": "1be746fec2",
+  "datum": "2026-10-22",
+  "tijd": "04:53",
+  "nieuw": false,
+  "titel": "Afghaanse mannen die aanspoelden op Texel slachtoffer van mensensmokkel",
+  "bron": "Broadcast Magazine",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Afghaanse mannen die aanspoelden op Texel slachtoffer van mensensmokkel Broadcast Magazine",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmNHZWhiVjdDUU1tRzBhOEp2VkctaEdCYi1tWVlnX0IydHdiRE03TTFQMjhFT0F6OGh4d3dHamZpXzF5R2VFZnJ6UlRMU1pvNXlPQ3VPUjJ3VWN6bWhOY3R6MWs3bkZ3WU85eHFXT0ItaXp3OVZLamdRX3V5cThuRDhQRk00WWZxMGh0MHBwbl80bndoV05qSzJvOFhGcnh0Nk5od2Q0S2RaLWVUQ0NVT28zNHpOQQ?oc=5"
  },
  {
   "id": "b612de7fd7",
@@ -9375,6 +9403,26 @@
   ],
   "samenvatting": "233 arrestaties bij Interpol-acties tegen milieucriminaliteit inclusief ontbossing Houtwereld",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHN3amdwNGhGbW54ZnpiNUdmVHRHaWVtSlNwVy13RWtwQk42eEtoQU9aSkRLS1E3NTJ4dVNscVd1LXcwNDRXS2xtc2JWLS15RThTRHNjRjlsZTAyRFU3WjZMWEQ0dGVqb1J6WmdnV0ZuOWhWVUczWldtcDBiTEtWOW5jTjNqYTE4QVFqZkVHQTEtb0NYNE40S1k2eE1GQUJGbFhkUUp1TksxcE5MUkxmT1B5UzZwUQ?oc=5"
+ },
+ {
+  "id": "49690c96d4",
+  "datum": "2026-10-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Ondermijnende criminaliteit moet harder worden aangepakt",
+  "bron": "Nieuws van de Dag",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijnend",
+   "ondermijnende criminaliteit"
+  ],
+  "samenvatting": "Ondermijnende criminaliteit moet harder worden aangepakt Nieuws van de Dag",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGM5UkN6RFFUa0pvVWpNcUM3R0ZoTWo4em00azhkZkg0UkFFWkVNbVJMZ2xSLWJfb3pyNjFQT1VrUkQ4TXlJRnR5YWVNUU9NcXc4Q051alZkdjlVcnUzLXAxdmhqMVlNdGxHZmlPcTViclBNY3RpSWplWEVhNE83a0hWZUtkY1BHLWc4U0tjUXU3Mm1wUG9PQVRUVW1VaDVDaHlPVDB4QmFadw?oc=5"
  },
  {
   "id": "be645b03ca",
@@ -27062,6 +27110,27 @@
   ],
   "samenvatting": "Versterk de rol van gemeenten in aanpak zorgfraude sociaalweb.nl",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUGJXVHVraUN1M29ZY3BwdFBEdW05QUNoWkpaR01ZMVVxdmJ1bVNvbnhXRlhSNWgtaVhPSjM2X2p0Nzd2bjFLYThQME9tN3ZFd09BdV83THBaRk00ZGhqSWN2d2c0MExnZTBKQzZ4a25QQ0JpS1UzNVNISWFPNy1jSjdDd01PdFE?oc=5"
+ },
+ {
+  "id": "ba3eeb133e",
+  "datum": "2026-09-18",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zorgfraudeurs strijken ieder jaar miljarden op: ‘Wordt bijna net zoveel mee verdiend als met cocaïne’",
+  "bron": "Tubantia",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "cocaïne",
+   "zorgfraude"
+  ],
+  "samenvatting": "Zorgfraudeurs strijken ieder jaar miljarden op: ‘Wordt bijna net zoveel mee verdiend als met cocaïne’ Tubantia",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbkVEWmx0WGg3amhiNVNBZHVpYVRPM1FLNDN2ZklYMHJIQmhOVnl6YlFRVFRqZndnZDdOWUMzcHNiZWd6UUR6b0ZWcXJCY1J2THd5TUdsMzloa05TLTExR1hDaWdPdDB2Xy1FZHlBSVo4a2pmX3Vvbk02d3hhakdwNTdLRTA3c1RpbExmMVp6dWRPTWkyVjU0M0E4VjdWeWVyWEVtU1FMYXNrV3R3bHM5WlRiQmhvcDZoN1JJSEY1RkhTakxWZFNBYUMwdmpSSkI2cWloNkZHZzhkcGc?oc=5"
  },
  {
   "id": "28d64c2829",
@@ -71265,6 +71334,25 @@
   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaHB3OWRqUUlkdWNNdnZQRkNpeENvcEY4VzRHUUc3X2tuTVJtRGVUb0Yyd0M4ZkdENFRWclByVm5nZFF5dHY4VWdhRHNPZ3dfcl9ZWUExMUdEbExQd2pLSzBDSGkxQmo3bk5ITi1GQUM1a3Fkb1BRaXZhb1BJa0QtVlpMRU1abko3NTJ3OTNTWDVTMTZXa3hsTDVMRVEzZ0NjSDVyaXdXdzNKQXRKZDVCUGtLSG1veFhQVGl1S1BvQVR2OTNkVG5EYngtNmUxRkFrMjJDYVBQWTVJRkpUejlWQ1FJSG9tZUhTa2c?oc=5"
  },
  {
+  "id": "e2e9f0cf22",
+  "datum": "2025-09-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Over het UBO-register trusts",
+  "bron": "KVK",
+  "verzameld_via": "Nieuws — Trustkantoren & rechtspersonen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "ubo-register"
+  ],
+  "samenvatting": "Over het UBO-register trusts KVK",
+  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZWnZPWUFFckFra29JTnh6MG9Edy1MZV92cHJQelVXNnFiYTJhVXQxVklwZm95UVIzb0NvbFh4d0xrLXRRU0Z5cGM5QVpXcjUxZGJudkktYXFiejZLM25BUFd3?oc=5"
+ },
+ {
   "id": "462dad82fc",
   "datum": "2025-09-11",
   "tijd": "07:00",
@@ -75218,6 +75306,25 @@
   ],
   "samenvatting": "Witwassen van drugsgeld: Criminelen gebruiken crypto en banken Bitcoinmagazine.nl",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVTVmY09DRzVEakk5TGdERzRGajg3S0R6SGlvTzVLakJQUFNLbmNpVnpsUnpUMG1BSV9FUGVMRFJsNkM2am9Icy0zY3A2SzRkZVdxdmpLVE1XYlYxMjNUem5oTUtKZFBaTUJMQjc3Y200cTBJdktkS0ZXZjBYR002bDlWSUtMdXZoVzdEY0p1LXNhNlYyVkVoY1ZIYw?oc=5"
+ },
+ {
+  "id": "8d77d587c1",
+  "datum": "2025-03-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Daan van Uhm benoemd tot hoogleraar milieucriminaliteit - NSCR » Nederlands Studiecentrum Criminaliteit en Rechtshandhaving",
+  "bron": "Nieuws — Milieucriminaliteit & afval",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "milieucriminaliteit"
+  ],
+  "samenvatting": "Daan van Uhm benoemd tot hoogleraar milieucriminaliteit NSCR » Nederlands Studiecentrum Criminaliteit en Rechtshandhaving",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhNDcxVXpaa3B1NktYYWhUVVpEOUlzUHNaUUtUR3FvUlB6Z0VqNWtiUFc2ZFpyMTkwczM4a2tMd3BPOXE1anRHc1ZVdllMeVF5eFBTd3RlYUJFVElTR1A0ZU4yT0lWWkFyZ0JwQ2tOQ3hNY3dVWHVqRkt5SVM?oc=5"
  },
  {
   "id": "400c6f369c",
