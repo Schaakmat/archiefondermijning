@@ -1,5 +1,24 @@
 [
  {
+  "id": "ee39092c38",
+  "datum": "2026-10-25",
+  "tijd": "23:01",
+  "nieuw": true,
+  "titel": "Sven Kockelmann (56) wint Sonja Barend Award voor interview met oud-premier Schoof",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "leider"
+  ],
+  "samenvatting": "Sven Kockelmann (56) heeft de Sonja Barend Award gewonnen. De journalist wint de prijs voor zijn interview met oud-premier Schoof. BNNVARA, de omroep die de prijs uitreikt, looft Kockelmann voor de manier waarop hij van het interview met de toen afzwaaiende premier \"geen politiek kruisverhoor, maar een persoonlijk gesp",
+  "link": "https://nos.nl/l/2636679"
+ },
+ {
   "id": "c8525edcfe",
   "datum": "2026-10-25",
   "tijd": "20:15",
@@ -161,7 +180,7 @@
   "id": "5f3a0a4ca6",
   "datum": "2026-10-25",
   "tijd": "13:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw zwaargewond door klap bij ruzie op feest aan Rhôneweg, politie grijpt in met wapenstokken - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -180,7 +199,7 @@
   "id": "5adff36f84",
   "datum": "2026-10-25",
   "tijd": "11:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Edith Schippers over grootschalige zorgfraude: 'Kan zomaar vijftien of twintig miljard zijn'",
   "bron": "WNL",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -199,7 +218,7 @@
   "id": "237a55776d",
   "datum": "2026-10-25",
   "tijd": "10:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mannen opgepakt bij bedrijf dat apparatuur voor brandweer maakt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -218,7 +237,7 @@
   "id": "9755a903e7",
   "datum": "2026-10-25",
   "tijd": "10:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Waterlekkage leidt tot sinkholes in Crooswijk, Evides sluit drinkwater af",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -237,7 +256,7 @@
   "id": "05cd20ef9f",
   "datum": "2026-10-25",
   "tijd": "10:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Al negen meldingen: nieuw platform tegen intimidatie in Bergen op Zoom",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
