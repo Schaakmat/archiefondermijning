@@ -1,5 +1,112 @@
 [
  {
+  "id": "88c590e13a",
+  "datum": "2026-10-26",
+  "tijd": "23:28",
+  "nieuw": true,
+  "titel": "Urk - Eerder vrijgesproken chauffeur uit Urk opnieuw vervolgd voor drugsritten, hij en medeverdachten 'hebben deels bekend'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "cocaïne",
+   "douane",
+   "drugslijn",
+   "drugssmokkel",
+   "ketamine",
+   "vrachtwagen"
+  ],
+  "samenvatting": "Wist de Urker chauffeur Jelle P. nu wel of niet van de honderden kilo's verdovende middelen die in de zomer van 2020 in zijn vrachtwagen verstopt zaten in bloemenkarren? Het Openbaar Ministerie denkt van wel, blijkt uit een regiezitting die maandagochtend in de rechtbank van Zwolle werd gehouden. P. staat samen met een",
+  "link": "https://www.omroepflevoland.nl/nieuws/528893/eerder-vrijgesproken-chauffeur-uit-urk-opnieuw-vervolgd-voor-drugsritten-hij-en-medeverdachten-'hebben-deels-bekend'"
+ },
+ {
+  "id": "e5454c0f39",
+  "datum": "2026-10-26",
+  "tijd": "20:56",
+  "nieuw": true,
+  "titel": "Auto rijdt dwars door carport van huis in Heeze, muur deels ingestort",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "stort"
+  ],
+  "samenvatting": "Een auto is maandagavond dwars door een carport gereden aan de Pastoor Gastlaan in Heeze. De muur is deels ingestort. De automobilist en bijrijdster kwamen met de schrik vrij. De auto kwam uit de richting van het Bergerhof gereden toen de automobilist de macht over het stuur verloor en door de muur van de carport reed.",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032487/auto-rijdt-dwars-door-carport-van-huis-in-heeze-muur-deels-ingestort"
+ },
+ {
+  "id": "6c4251e299",
+  "datum": "2026-10-26",
+  "tijd": "20:30",
+  "nieuw": true,
+  "titel": "Nederlandse bitcoinbroker Bitonic gehackt, 'kleine bedragen' van klanten gestolen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "bitcoin",
+   "crypto",
+   "wallet"
+  ],
+  "samenvatting": "De Nederlandse bitcoinbroker Bitonic is gehackt. Volgens het bedrijf hebben onbevoegden toegang gekregen tot een deel van de systemen. Bij drie klanten zijn zonder toestemming \"kleine bedragen\" in bitcoin opgenomen. Zij zijn volgens het bedrijf volledig gecompenseerd. Dat staat in een e-mail die in handen is van de NOS",
+  "link": "https://nos.nl/l/2636798"
+ },
+ {
+  "id": "991d6f9266",
+  "datum": "2026-10-26",
+  "tijd": "20:15",
+  "nieuw": true,
+  "titel": "‘Wie doet nou zoiets?’ Moerstraten geschokt door vernieling kunstwerk",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "boerderij",
+   "geweld"
+  ],
+  "samenvatting": "Het bronzen beeld De Moermakkers in Moerstraten is voor de tweede keer doelwit geworden van vandalisme. De blikvanger in het centrum van het dorp is met grof geweld van zijn sokkel geslagen. “Wie doet nou zoiets? Dit is diep triest”, zegt voorzitter Bart Poppelaars van het bewonersplatform. Bo Buurmans ontdekte maandag",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032484/wie-doet-nou-zoiets-moerstraten-geschokt-door-vernieling-kunstwerk"
+ },
+ {
+  "id": "e129c10ce7",
+  "datum": "2026-10-26",
+  "tijd": "19:56",
+  "nieuw": true,
+  "titel": "Pand in Deventer moet dicht na drugsvondst, eigenaar vecht sluiting aan",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "burgemeester",
+   "pand"
+  ],
+  "samenvatting": "Hij kocht een bedrijfspand aan de Arnhemstraat in Deventer om er zijn autobedrijf voort te zetten. Maar dat mocht niet van de gemeente. Daarom besloot hij het pand te verhuren. Nu wil de burgemeester het gebouw drie maanden sluiten na een drugsvondst. De eigenaar probeert dat via de rechter te voorkomen.",
+  "link": "https://www.oost.nl/nieuws/3711724/pand-in-deventer-moet-dicht-na-drugsvondst-eigenaar-vecht-sluiting-aan"
+ },
+ {
   "id": "572c91fdd6",
   "datum": "2026-10-26",
   "tijd": "18:32",
@@ -20,6 +127,28 @@
   ],
   "samenvatting": "Bedrijfsunit in Tilburgse woonwijk blijkt opslag van duizenden kilo's grondstoffen voor synthetische drugs AD.nl",
   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT01zc3B0ZG00MEJTd2F3NzIyT2pHM3N5Zl9UclVmdVJyVkRIdjZfRFRKZ2QwX3RGT296YVVtYWRMdEZKcjV5eTdSOGlmZjZwU29YenlZZTk2TERZVXF4S25iSzZybC1jaENNeGM4T3hiRFNVZWhJTDhLeWxUaW1NQU1iTHJkaFZBM01ObGJyZW9vSC00QXQ3SC15YVNNOElWNUlub0k2U25SQ2xhUmN0QlI0UXloMFlIb1Q4LTlmQ0R5OWlzMDdSOEdmWlF3WG53Vm82eHdDNVlzeVVHOVdYREhR?oc=5"
+ },
+ {
+  "id": "2d5535c33f",
+  "datum": "2026-10-26",
+  "tijd": "18:32",
+  "nieuw": true,
+  "titel": "Bedrijfsunit in Tilburgse woonwijk blijkt opslag van duizenden kilo's grondstoffen voor synthetische drugs",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "grondstoffen",
+   "synthetische drugs"
+  ],
+  "samenvatting": "Bedrijfsunit in Tilburgse woonwijk blijkt opslag van duizenden kilo's grondstoffen voor synthetische drugs Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTEgwalBkUGNiajB0eU41clZTT29ibk9YaWU1dDQwM2E2UXJpSktLdERSQXFaVkFidkNGb0UwNTJyRVZ0ZGltbGo4bFFLWlROVHgwbF85eHMwc0lNZzBwMjNBLU41ejRCbXBUQ1MydVZCTGtlMENIY2RHVTVyVHhYVWVBa0lZZUhuTkJRQWs1X1JfMFJBY2NHanlNUll3R1o0QnFMcU0yenJ5eVRkM2xXTWxtWWZZTXlrZ21UQWdfRkNVSlJrQmlZSEpuUm9nQ3ZCemppRVpMSWNoaGRkT09aaFVB?oc=5"
  },
  {
   "id": "309969f42d",
@@ -60,6 +189,25 @@
   ],
   "samenvatting": "Vrijgelaten verdachte Roemeense pooierbende opnieuw gepakt, dag voor strafproces in Amsterdam begint Het Parool",
   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUGM3RzVMazZabGtqcFlkdWRhVWd4ckdFbmpzSk9ZQ1JnVmxqeXRXYnliazBHZXlhS3NkaHpUNDNlMXEzTVc3UzZWanNZY3RORWpwWGo2WlBuRm5PejVRdHJmV3JQMGpPbDJ0STNLSUdmc0NIdmF5VmhBOG1oSnVZcE5XX1RSVXhHQ1R6Z2hJTWdURDYxZ181bU44Uzk5ekpHOUItSGd4TGVBX0ZLYlJ1Wmk4MEh4ZlR2bXBuaDlQVmVHMTUtcWZkUWlqTk50WGROaGhVaHh3?oc=5"
+ },
+ {
+  "id": "69027b36b8",
+  "datum": "2026-10-26",
+  "tijd": "16:04",
+  "nieuw": true,
+  "titel": "\"Wie niet betaalde, werd geslagen of misbruikt\": 31 verdachten van mensensmokkel uit Afghanistan staan terecht in Antwerpen",
+  "bron": "Headliner.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "\"Wie niet betaalde, werd geslagen of misbruikt\": 31 verdachten van mensensmokkel uit Afghanistan staan terecht in Antwerpen Headliner.nl",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOVNzak5HajZ6VFd4dHFTVjh0Y1pPLUhZVm9DSzdCNndvVVpoY3Etd21sY2E4c0RDMV9FTVZsMTMyV1B3LVdLR3NnYmdJYm9xaDBLalZzVGdEOUg2NF9Eb19URS13M2VQUTk3Z2dDWlVreWI4QzZENmVPc2tSSDNzNkc0dHk0YmlTVGhOVDB0ZUp6a3o5QWRrUkE4bmdybGN2UlYyd2pqZ2x0VV9Pd3VjdG1oNnlPbm9tVDlzeDFER01jUGgtdzBLUy01by05MGF3YzNQZTh3?oc=5"
  },
  {
   "id": "89ab447e22",
@@ -148,12 +296,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Horeca, winkels & dienstverlening",
-   "Ondernemers & weerbaarheid"
+   "Horeca, winkels & dienstverlening"
   ],
   "tags": [
-   "horeca",
-   "ondernemers"
+   "horeca"
   ],
   "samenvatting": "\"Het enige waar carnavalsvierders zich op de Elfde van de Elfde mee bezig moeten houden, is wie de prins van Kruikenstad wordt\", lacht VVD-raadslid Bas Koster. Waar her en der al lichte paniek opborrelt, omdat horeca en gemeente botsen over het feest in Tilburg, blijft de politiek opvallend rustig. De opening van het c",
   "link": "https://www.omroepbrabant.nl/nieuws/6032428/politiek-denkt-dat-11-11-in-tilburg-gewoon-doorgaat-belang-is-te-groot"
@@ -172,7 +318,6 @@
    "Corruptie & integriteit"
   ],
   "tags": [
-   "integriteit",
    "vertrouwelijke informatie"
   ],
   "samenvatting": "Een medewerker van de politie Oost-Brabant mag voorlopig niet werken, omdat hij wordt verdacht van het delen van vertrouwelijke informatie. Ook zou de man zonder geldige reden informatie hebben opgezocht in politiesystemen. Het Openbaar Ministerie (OM) is een strafrechtelijk onderzoek begonnen. De medewerker wordt verd",
@@ -194,7 +339,6 @@
    "Milieucriminaliteit & afval"
   ],
   "tags": [
-   "drugslab",
    "garage",
    "grond",
    "grondstoffen",
@@ -295,7 +439,7 @@
   "id": "593b863730",
   "datum": "2026-10-26",
   "tijd": "12:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Europees Hof stelt vragen over Taghi en zijn straf in de EBI: dit is waarom",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -314,7 +458,7 @@
   "id": "a3f7fc95d4",
   "datum": "2026-10-26",
   "tijd": "11:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Treintje spelen op Twents spoor in het klein: 'Op schaalniveau, maar net echt'",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -333,7 +477,7 @@
   "id": "394cfd1d36",
   "datum": "2026-10-26",
   "tijd": "11:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouwen in Muong Pon helpen om te voorkomen dat ze in de val van mensenhandel trappen.",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -352,7 +496,7 @@
   "id": "ea6b019c50",
   "datum": "2026-10-26",
   "tijd": "11:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man vast na vondst dode vrouw in appartement, buurt geschokt: 'Waarom zij?'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -373,7 +517,7 @@
   "id": "09217d1a5a",
   "datum": "2026-10-26",
   "tijd": "11:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte aangehouden voor gewapende overval tankstation Vlissingen",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -392,7 +536,7 @@
   "id": "3201ca26f6",
   "datum": "2026-10-26",
   "tijd": "10:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Buurt niet verbaasd dat uitgebrande loods in Kortrijk een drugslab blijkt: \"Al jaren een verdachte bedoening\"",
   "bron": "VRT",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -413,7 +557,7 @@
   "id": "38c032ee57",
   "datum": "2026-10-26",
   "tijd": "09:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Boete van 200.000 euro voor illegaal accepteren boorafval",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -435,7 +579,7 @@
   "id": "c01ca48dc4",
   "datum": "2026-10-26",
   "tijd": "07:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Explosie bij pas geopende coffeeshop in Almere Buiten: 'Ik hoorde een hele klap'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -460,7 +604,7 @@
   "id": "1ff42ce177",
   "datum": "2026-10-26",
   "tijd": "07:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kraggenburg - Van slachtoffer naar dader: podcast belicht de rol van Rosie in Kraggenburgse seksloodszaak",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -485,7 +629,7 @@
   "id": "753b3dba42",
   "datum": "2026-10-26",
   "tijd": "05:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Meerdere daders ontkomen met buit na ramkraak op juwelier",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -504,7 +648,7 @@
   "id": "79810c2a78",
   "datum": "2026-10-26",
   "tijd": "05:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Eigenaar van landgoed in Alentejo gearresteerd voor mensenhandel",
   "bron": "Portugal Resident",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -594,31 +738,6 @@
   ],
   "samenvatting": "In Amsterdam is vandaag een fietser overleden nadat een boom op hem was gevallen. Het onderzoek naar de identiteit van het slachtoffer loopt nog, laat de politie aan de NOS weten. De man overleed op de Sloterweg in stadsdeel Nieuw-West. Hoe laat het ongeluk plaatsvond is nog niet duidelijk. De hulpdiensten kregen aan h",
   "link": "https://nos.nl/l/2636650"
- },
- {
-  "id": "39291f0731",
-  "datum": "2026-10-25",
-  "tijd": "15:09",
-  "nieuw": false,
-  "titel": "Stemmers urenlang in rij bij ambassade in Den Haag: 'Wil nieuwe toekomst voor Servië'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Corruptie & integriteit",
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "corruptie",
-   "jongeren",
-   "leider",
-   "stort"
-  ],
-  "samenvatting": "Bij de Servische ambassade in Den Haag staan lange rijen vanwege de parlementsverkiezingen in Servië. Stemgerechtigden kunnen bij de ambassade stemmen en daarmee mede bepalen of de autocratische leider Aleksandar Vucic na ruim tien jaar op het pluche plaats moet maken. De lange wachtrij in Den Haag deert stemmers niet.",
-  "link": "https://nos.nl/l/2636598"
  },
  {
   "id": "9ce5b48b21",
@@ -59309,6 +59428,25 @@
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWXo2aHlNbXJXbGt4cmFheDJsVUlSdEJhZFk0ckh2YnU1UUhjYktKVGR6QVZUT0RxYThEOXBNSk11Y2xXbldJQXVjaVg1RUNNNi03aVJGazdPSjFyS3ZDcld6VHdRcTRGQTJuOFBYVzBOVnlCU2JhNVdETl9LeWZQX1dkMTYtdlhUOGMw?oc=5"
  },
  {
+  "id": "44100bccdc",
+  "datum": "2026-05-06",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Almere worstelt met ondermijning: ‘Het virus blijft zich verspreiden’",
+  "bron": "EWmagazine.nl",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Almere worstelt met ondermijning: ‘Het virus blijft zich verspreiden’ EWmagazine.nl",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RLW5PSW9LRzVyNndQWU5zdmEyYU1UYlQ4M2JfVDIyU0ZPVllMRGIyU2sySkJDcFJJbjlSMV9ZQ1Zzckw4aDFIT19ZV09zTjNkV3EzOHpyU2lxaElTRmlCVXZHWV9VdmVxWmZ4am8wNHltMHQ2VC1aRUlIdw?oc=5"
+ },
+ {
   "id": "cb620f9624",
   "datum": "2026-05-05",
   "tijd": "07:00",
@@ -93920,6 +94058,25 @@
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYzlrNFdNbHZsaHdWODRaa1k3Vk13d2hETDEwX0VCX0JXVzFmZGl5VDEtUEg0aTlZcWN2S1A4TmFDcE1wbVpOTWhVSXNkZl93czZfdTN0YVdzUHFjYTB2S2ZLWExjS3pER0hxU1NQb29paDNVSjVIdFg3ckRjNVNaVEw4ci1GWjI5ZHc?oc=5"
  },
  {
+  "id": "c4dcf1b716",
+  "datum": "2019-04-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Europese wapenhandel onder het vergrootglas, ook Nederland speelt een rol",
+  "bron": "Pointer | KRO-NCRV",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapenhandel"
+  ],
+  "samenvatting": "Europese wapenhandel onder het vergrootglas, ook Nederland speelt een rol Pointer | KRO-NCRV",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVNkemRlQXRDUy1heEM0QkliaTgwVXA0d0IySFdUeC1nQzRKMVdVN3RPM2h6RzI1NXZlTTVXMmZ6OG1xb1hYMnlyQ0ZFdndHRXdjUFRnSDF1S0pyUElmeEg4NlRTS1ZMRmhpRlgyN0dvQnUyRHhvQVdNY1NLRnFvX1I5WVBWeWpsUW53REZtbzNmVnpVckJaUkV5TDZIVVgzTmc?oc=5"
+ },
+ {
   "id": "142173f1e9",
   "datum": "2019-04-05",
   "tijd": "07:00",
@@ -94264,6 +94421,25 @@
   ],
   "samenvatting": "9 en 6 jaar cel geëist voor invoer 3800 kilo cocaïne Openbaar Ministerie",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWVvTUlLaHdIVXZnNV9KcjVfZGl5bDV3d2otb3FONk1TMGg4SU55RmdOa0lUNWE1WlVJeHZ5djJodEtxc2J3R2VWZlk2THl2MFQyRXNKNFlMTWU0RVg1a3h2blVnclQyaGxhQ3VDbWwySjItNWRUS2hWbHRfTzhiYVZFUFlObG9yd2x3MjMyUzBneWNjU09OSWVGRVA?oc=5"
+ },
+ {
+  "id": "24cdd90806",
+  "datum": "2018-12-28",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Advocaten: ‘De ondermijning van Brabant is een pr-verhaal’",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [
+   "ondermijning"
+  ],
+  "samenvatting": "Advocaten: ‘De ondermijning van Brabant is een pr-verhaal’ Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUV84WlNacU9xa2IzUHFmMkFhUldseEtKMFhvTDhvNzhscjBGYWJhTXd5Yzk4dHQ0UEd0ZmIzdWJoVWtuWGpESEFmSW5LaVZ5cHJESU9PazRDSENSRzMzVFBmWUdnVGhXUXhtckhpa3MxZC1HcTJMMDNKYlcxVUJxQ0xGYm1vbkg0cGtwTHlNbnBaNDVCVVdaeTNHQQ?oc=5"
  },
  {
   "id": "23ebd46cc0",
@@ -96946,6 +97122,25 @@
    "Milieucriminaliteit & afval",
    "Vastgoed & huisvesting"
   ]
+ },
+ {
+  "id": "9f24ba9a04",
+  "datum": "2015-02-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij in kleedkamer van sportclub aan De Stok in Roosendaal",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Hennepkwekerij in kleedkamer van sportclub aan De Stok in Roosendaal Omroep Brabant",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUk94dlRaQ2F1MWtycHBEWERsWEFGeEdRSEFGdVFobXhzb05jUFZjckpNNVFuVDdHM0U0VnlNZ0dHbllkazduOXdEdVNLMGVJNHQ5X1pob0JVUkhaVmJMVzZrdzlqTVZIMkE4TUxPTW9YWklFNVhsbWl1b01OUm8zcE9aaTRhME83em5oQ0dFQWhFNlJGMmNod1ZwcWhHVjAxRW1UdzZia0V2MjRDRDlUODlR?oc=5"
  },
  {
   "id": "07cdd3a380",
