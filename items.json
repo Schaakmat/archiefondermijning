@@ -10,15 +10,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Drugsproductie & labs"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "cocaïne",
-   "douane",
-   "drugslijn",
-   "drugssmokkel",
-   "ketamine",
    "vrachtwagen"
   ],
   "samenvatting": "Wist de Urker chauffeur Jelle P. nu wel of niet van de honderden kilo's verdovende middelen die in de zomer van 2020 in zijn vrachtwagen verstopt zaten in bloemenkarren? Het Openbaar Ministerie denkt van wel, blijkt uit een regiezitting die maandagochtend in de rechtbank van Zwolle werd gehouden. P. staat samen met een",
@@ -151,6 +145,28 @@
   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTEgwalBkUGNiajB0eU41clZTT29ibk9YaWU1dDQwM2E2UXJpSktLdERSQXFaVkFidkNGb0UwNTJyRVZ0ZGltbGo4bFFLWlROVHgwbF85eHMwc0lNZzBwMjNBLU41ejRCbXBUQ1MydVZCTGtlMENIY2RHVTVyVHhYVWVBa0lZZUhuTkJRQWs1X1JfMFJBY2NHanlNUll3R1o0QnFMcU0yenJ5eVRkM2xXTWxtWWZZTXlrZ21UQWdfRkNVSlJrQmlZSEpuUm9nQ3ZCemppRVpMSWNoaGRkT09aaFVB?oc=5"
  },
  {
+  "id": "2315f9af8a",
+  "datum": "2026-10-26",
+  "tijd": "18:32",
+  "nieuw": true,
+  "titel": "Bedrijfsunit in Tilburgse woonwijk blijkt opslag van duizenden kilo's grondstoffen voor synthetische drugs",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "grondstoffen",
+   "synthetische drugs"
+  ],
+  "samenvatting": "Bedrijfsunit in Tilburgse woonwijk blijkt opslag van duizenden kilo's grondstoffen voor synthetische drugs Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN1dPTkZpMDhLbWt5b1pGZ3NxMEEyTGpnVTk2LVpOMnhEWHhfS0UzUngycU5nVXFzQXUxc3B2aVFhU2JUMDVHTlF3UF9GR3NCdWlPTzliNzhvMFpTYU9xMmJWZUF2cXZFVXM0NjFiVkNuLTBFRkl3dm1TRWt0RzFyYy1Rd0tNczVQX2k2d2xFMkNEV1oxdExHVDF0OUdnUEUwUF82V0dWUG1LampKeXduMlBKUFJhUEU4bUh5THFRYTMyeUhQOTc4amM4SE5qZldTcHJNQVdnOGd4X0N2ZzNCeC00Yw?oc=5"
+ },
+ {
   "id": "309969f42d",
   "datum": "2026-10-26",
   "tijd": "17:30",
@@ -232,7 +248,7 @@
   "id": "7a598b9c44",
   "datum": "2026-10-26",
   "tijd": "15:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "26/10 in Nieuwsuur: Studenten winnen in Servië • Coalitie praat met BBB en JA21",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -251,7 +267,7 @@
   "id": "7deeb89cfc",
   "datum": "2026-10-26",
   "tijd": "15:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie: geen sprake van misdrijf bij dodelijke woningbrand Doesburg",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -270,7 +286,7 @@
   "id": "dcadd31980",
   "datum": "2026-10-26",
   "tijd": "15:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mensenhandel blijft vaak buiten beeld, ook op Goeree-Overflakkee",
   "bron": "igo.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -289,7 +305,7 @@
   "id": "66a29fd172",
   "datum": "2026-10-26",
   "tijd": "15:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politiek denkt dat 11-11 in Tilburg gewoon doorgaat: 'Belang is te groot'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -308,7 +324,7 @@
   "id": "54ff6ebddd",
   "datum": "2026-10-26",
   "tijd": "14:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politiemedewerker naar huis gestuurd na mogelijk delen geheime informatie",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -327,7 +343,7 @@
   "id": "b42553fd1d",
   "datum": "2026-10-26",
   "tijd": "14:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Duizenden kilo's grondstoffen voor synthetische drugs gevonden in Tilburg",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -351,7 +367,7 @@
   "id": "d49d49c284",
   "datum": "2026-10-26",
   "tijd": "14:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrachtwagen met afval kantelt op toegangsweg tot industrieterrein",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -376,7 +392,7 @@
   "id": "330a7c9150",
   "datum": "2026-10-26",
   "tijd": "13:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man aangehouden in Deventer na melding van bedreiging met vuurwapen in supermarkt",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -401,7 +417,7 @@
   "id": "571ddd251d",
   "datum": "2026-10-26",
   "tijd": "13:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Domburg krijgt mogelijk bewaakte fietsenstalling tegen groeiende fietsdiefstal",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -420,7 +436,7 @@
   "id": "e6f98febcc",
   "datum": "2026-10-26",
   "tijd": "13:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Domburg wil een bewaakte fietsenstalling tegen groeiende diefstal en vraagt inbreng van inwoners",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -493,27 +509,6 @@
   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuVXp0emRoVnlTZklMNHN1N01tM0txdTdmamEwLUxKczlRcjBMc1Q1a1NLR3JycEJwOEtLT3hrNkFVeGQ5V2dJdWpiWklFMlNWSWZfcG02Rmw5UDhkRzNnZDhySExkSi04RnphLUhMdUg0aUZ1SVRabUtvQQ?oc=5"
  },
  {
-  "id": "ea6b019c50",
-  "datum": "2026-10-26",
-  "tijd": "11:30",
-  "nieuw": false,
-  "titel": "Man vast na vondst dode vrouw in appartement, buurt geschokt: 'Waarom zij?'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "beveiliging",
-   "pand"
-  ],
-  "samenvatting": "Ongeloof en schrik overheersen bij buurtbewoners aan de Van Kinsbergenstraat in Eindhoven. Een vrouw is zondagmiddag dood gevonden in een appartement. Een man is opgepakt. \"Ze was altijd zo’n lief vrouwtje\", vindt overbuurman Giuliano Soesman. \"Ze zat altijd op het balkon een sigaretje te roken. Ze deed niemand iets kw",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032386/man-vast-na-vondst-dode-vrouw-in-appartement-buurt-geschokt-waarom-zij"
- },
- {
   "id": "09217d1a5a",
   "datum": "2026-10-26",
   "tijd": "11:00",
@@ -574,31 +569,6 @@
   ],
   "samenvatting": "Het Openbaar Ministerie (OM) heeft een boete van 200.000 euro opgelegd aan Grondbank GMG in Andelst. Het bedrijf zou tussen 2021 en 2022 verontreinigd afval uit geothermieboringen hebben aangenomen terwijl het daar geen vergunning voor had. Grondbank GMG heeft de boete geaccepteerd en voorkomt daarmee een rechtszaak. H",
   "link": "https://www.gld.nl/nieuws/8539161/boete-van-200000-euro-voor-illegaal-accepteren-boorafval"
- },
- {
-  "id": "c01ca48dc4",
-  "datum": "2026-10-26",
-  "tijd": "07:35",
-  "nieuw": false,
-  "titel": "Almere - Explosie bij pas geopende coffeeshop in Almere Buiten: 'Ik hoorde een hele klap'",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Horeca, winkels & dienstverlening",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "burgemeester",
-   "coffeeshop",
-   "explosie",
-   "pand"
-  ],
-  "samenvatting": "Bij de pas geopende coffeeshop aan de Evenaar in Almere Buiten heeft in de nacht van zondag op maandag een explosie plaatsgevonden. Volgens een 112-verslaggever ontstond er na de ontploffing een kleine brand. Er raakte niemand gewond. \"Ik hoorde een hele klap\", vertelde een getuige ter plaatse aan de verslaggever. \"Ik ",
-  "link": "https://www.omroepflevoland.nl/nieuws/528835/explosie-bij-pas-geopende-coffeeshop-in-almere-buiten:-'ik-hoorde-een-hele-klap'"
  },
  {
   "id": "1ff42ce177",
