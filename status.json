@@ -1,12 +1,12 @@
 {
- "run": "21:32",
- "datum": "2026-10-27",
- "nieuw": 26,
- "totaal": 4985,
- "verwijderd": 7,
+ "run": "01:36",
+ "datum": "2026-10-28",
+ "nieuw": 13,
+ "totaal": 4992,
+ "verwijderd": 6,
  "geweigerd": {
-  "niet-nederlands": 803,
-  "geen dossier": 424
+  "niet-nederlands": 810,
+  "geen dossier": 406
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 338,
-   "status": "8 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 199,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 306,
-   "status": "2 nieuw",
+   "items": 307,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 328,
-   "status": "bij",
+   "items": 332,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -429,7 +429,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 153,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -447,7 +447,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 71,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 305,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 313,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -536,7 +536,7 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 202,
+   "items": 204,
    "status": "2 nieuw",
    "ok": true
   },
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 116,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
