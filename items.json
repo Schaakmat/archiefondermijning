@@ -1,5 +1,85 @@
 [
  {
+  "id": "0138623c46",
+  "datum": "2026-10-29",
+  "tijd": "08:33",
+  "nieuw": true,
+  "titel": "Flevoland - Flevoland houdt vast aan advies over nieuwe hoogspanningsverbinding, aangevuld met nieuw onderzoek",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "De provincie, vier gemeenten en het waterschap houden vast aan hun eerdere advies over de nieuwe hoogspanningsverbinding tussen Diemen, Lelystad en Ens. De voorkeursroute loopt via Almere, de Waterlandseweg, langs de Hoge Vaart en de Maximacentrale naar het Ketelmeer. De regio heeft het advies aangevuld met nieuwe onde",
+  "link": "https://www.omroepflevoland.nl/nieuws/529157/flevoland-houdt-vast-aan-advies-over-nieuwe-hoogspanningsverbinding-aangevuld-met-nieuw-onderzoek"
+ },
+ {
+  "id": "94a778ea13",
+  "datum": "2026-10-29",
+  "tijd": "06:56",
+  "nieuw": true,
+  "titel": "Wekdienst 29/10: Uitspraak jongerengeweld Beverwijk • Nieuw rentebesluit ECB",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "geweld",
+   "jongeren",
+   "stal"
+  ],
+  "samenvatting": "Goedemorgen! Vandaag doet de rechtbank in Haarlem uitspraak over de mishandeling van een 17-jarige jongen tijdens het jongerengeweld in de regio vorig jaar. En de Europese Centrale Bank maakt bekend of de rente wordt aangepast. Eerst het weer: zonnige perioden en wolken wisselen elkaar af. Bij weinig wind stijgt het kw",
+  "link": "https://nos.nl/l/2637108"
+ },
+ {
+  "id": "1392d9f72d",
+  "datum": "2026-10-29",
+  "tijd": "06:08",
+  "nieuw": true,
+  "titel": "Vrouw (99) bestolen, trouwring van overleden man bij buit: daders horen hun straf",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "sieraden"
+  ],
+  "samenvatting": "Ze is 99 jaar, vertrouwt de politie en doet zelfs haar trouwring af wanneer twee mannen bij haar thuis in Dalfsen verschijnen. Maar de ‘agenten’ zijn oplichters. In een paar minuten nemen ze haar sieraden en pinpas mee, waarna er ook nog geld van haar rekening verdwijnt. De oplichters horen nu hun straf.",
+  "link": "https://www.oost.nl/nieuws/3712553/vrouw-99-bestolen-trouwring-van-overleden-man-bij-buit-daders-horen-hun-straf"
+ },
+ {
+  "id": "ea4ebfa5e3",
+  "datum": "2026-10-29",
+  "tijd": "04:34",
+  "nieuw": true,
+  "titel": "Aanslag op huis in Helmond, explosief gaat af bij voordeur",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Bij een huis aan de Beelsstraat in Helmond is in de nacht van woensdag op donderdag een explosief afgegaan. De voordeur van het huis raakte door het explosief beschadigd. De politie doet onderzoek naar wat er is gebeurd. Er raakte niemand gewond. Ook de voordeur van de buren heeft schade opgelopen. Auto's die voor het ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032817/aanslag-op-huis-in-helmond-explosief-gaat-af-bij-voordeur"
+ },
+ {
   "id": "2ff563b9c8",
   "datum": "2026-10-28",
   "tijd": "22:52",
@@ -50,17 +130,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Corruptie & integriteit",
-   "Milieucriminaliteit & afval",
-   "Witwassen & geldstromen"
+   "Corruptie & integriteit"
   ],
   "tags": [
    "ambtelijke corruptie",
-   "corruptie",
-   "gemeenteraad",
-   "grond",
-   "witwassen"
+   "corruptie"
   ],
   "samenvatting": "D66-raadslid in Boxtel en medewerker van het OM, Sohib H. (38), is gisteren aangehouden op verdenking van onder meer verkiezingsfraude en ambtelijke corruptie. D66 zegt kennis te hebben genomen van de verdenking, na berichtgeving van Brabants Dagblad en NU.nl . H. is naast zijn raadswerk medewerker van het Parket Centr",
   "link": "https://nos.nl/l/2637091"
@@ -384,6 +458,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6032775/verdachte-van-verkiezingsfraude-is-raadslid-uit-boxtel"
  },
  {
+  "id": "5b0db23c5a",
+  "datum": "2026-10-28",
+  "tijd": "16:00",
+  "nieuw": true,
+  "titel": "Ruim 4700 pillen en 2,5 kilo harddrugs in huis: 'Ik was verslaafd en heb spijt'",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Ruim 2,5 kilo harddrugs, bijna 100 gram hasj en meer dan 4700 pillen van verschillende geneesmiddelen vond de politie in november vorig jaar in een woning in Arnhem. De 29-jarige bewoner bekende woensdag in de rechtbank dat hij de middelen in huis had.",
+  "link": "https://www.gld.nl/nieuws/8539369/ruim-4700-pillen-en-2-5-kilo-harddrugs-in-huis-ik-was-verslaafd-en-heb-spijt"
+ },
+ {
   "id": "812182a906",
   "datum": "2026-10-28",
   "tijd": "15:58",
@@ -412,7 +505,7 @@
   "id": "1e0e5f121d",
   "datum": "2026-10-28",
   "tijd": "15:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw die zei van niets te weten, moet vier jaar cel in: ‘Zonder haar was drugslab niet mogelijk geweest’",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -431,7 +524,7 @@
   "id": "36b74a6ef8",
   "datum": "2026-10-28",
   "tijd": "15:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "D66 noemt weghalen en bekladden spandoeken in ’s-Graveland en Loosdrecht ’ondermijning van de democratie’",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -452,7 +545,7 @@
   "id": "6744687a2b",
   "datum": "2026-10-28",
   "tijd": "15:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tienduizenden noodknoppen ouderen straks defect door stoppen 2G-netwerk",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -471,7 +564,7 @@
   "id": "83ac581be6",
   "datum": "2026-10-28",
   "tijd": "14:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto slaat over de kop na botsing met bestelbus op N65 bij Vught",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -588,44 +681,6 @@
   ],
   "samenvatting": "Pand van drugslab in IJsselmuiden moet nog steeds dicht, maar burgemeester past wel het een en ander aan de Stentor",
   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaGdxZDM1VmtRQ3BDOHJOdC1xdkxOd09abnpZbERoQVFlWHEyQ3ZSMHUzU2hlUHo4YkI2Q1dQZngtTFZwVjl6eE1HRnFlUURWSVhBRUZMcTNOMkJDVlgwNUlCX2hDU3N6UzltT19tZnpScC1ldHRfQW4yQU5WcGJYNFNONDQ5Z1hMTF9aODkydnFObHA0RGx1dHVDUnJvanRJZXp4RDJ0RzFHcUYxQ09CQjJGcWtiOG9jMTcwQ0FXOTBnQ0dEV3UtUHlaLVpwUUgzUHozSng2cmRoTG9XQVE?oc=5"
- },
- {
-  "id": "c919bf7a6f",
-  "datum": "2026-10-28",
-  "tijd": "12:57",
-  "nieuw": false,
-  "titel": "Vijf arrestaties in onderzoek naar illegale sigarettenhandel in Breda",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "doorverkoop"
-  ],
-  "samenvatting": "De politie heeft dinsdagavond vijf verdachten aangehouden in een onderzoek naar illegale handel in sigaretten. Ook zijn meerdere huizen in de Bredase wijk Tuinzigt doorzocht en is een grote partij sigaretten in beslag genomen. De recherche kwam de vermoedelijke handel op het spoor na onderzoek in Breda. Bij drie verdac",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032761/vijf-arrestaties-in-onderzoek-naar-illegale-sigarettenhandel-in-breda"
- },
- {
-  "id": "46f865631b",
-  "datum": "2026-10-28",
-  "tijd": "12:47",
-  "nieuw": false,
-  "titel": "Glazenwasser raakt hoogspanningskabel, vliegt in brand en raakt zwaargewond",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "pand"
-  ],
-  "samenvatting": "Een glazenwasser is woensdag zwaargewond geraakt bij een bedrijfspand aan de Collseweg in Nuenen. De man raakte een hoogspanningskabel en kreeg een stroomschok. Hij stond daarna korte tijd in brand. De klap was volgens getuigen in de wijde omgeving te horen. De glazenwasser was ramen aan het wassen bij een bedrijfspand",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032760/glazenwasser-raakt-hoogspanningskabel-vliegt-in-brand-en-raakt-zwaargewond"
  },
  {
   "id": "22ea1d850e",
@@ -835,25 +890,6 @@
   ],
   "samenvatting": "Drie grote drugslabs in Overijssel en Drenthe, dure bedrijfspanden en huurders die nauwelijks huur betaalden. Een 70-jarige vastgoedondernemer uit Zwolle en een 53-jarige man uit Gramsbergen speelden een belangrijke rol bij de productie van harddrugs.",
   "link": "https://www.oost.nl/nieuws/3712226/zwolse-vastgoedman-volgens-om-spil-in-drugslabs-zeven-jaar-cel-geeist"
- },
- {
-  "id": "f3ef94dfbc",
-  "datum": "2026-10-28",
-  "tijd": "08:00",
-  "nieuw": false,
-  "titel": "Urk - Eend Gerrit van Urker meisje (13) vermoedelijk slachtoffer van vuurwerk: 'Verdrietig, wat mensen doen'",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "vuurwerk"
-  ],
-  "samenvatting": "\"Verschrikkelijk\" is het woord waarmee Willine Wezelman uit Urk omschrijft wat er met haar tweejarige eend is gebeurd. De 13-jarige is de eigenaresse van acht loopeenden, waaronder de tweejarige Gerrit. Allemaal zijn ze tam, want de tiener voedt ze op sinds ze een jong kuikentje zijn. \"Dus het blijft naar\", vertelt ze ",
-  "link": "https://www.omroepflevoland.nl/nieuws/529040/eend-gerrit-van-urker-meisje-(13)-vermoedelijk-slachtoffer-van-vuurwerk:-'verdrietig-wat-mensen-doen'"
  },
  {
   "id": "f8236784b2",
@@ -3356,6 +3392,25 @@
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM1lzN25YM3dOZlE2NkNNNW5JR1EwbkRkVkhQZE9WbXk5REI4Sng4MWRkSFExU0xzZ1lWSjYxX0dVLWZWbWVYZjFxUDVTSTFVZjlLdTNHbEIzRGZDRW8yZ193ZUJlWkp3RmxJZF9WRmpjT3pqRVRZenVUcHo3S2hXRkd6c0ZETHVucjhzdGdQSHB1dHFn?oc=5"
  },
  {
+  "id": "dccb840b37",
+  "datum": "2026-10-23",
+  "tijd": "17:32",
+  "nieuw": false,
+  "titel": "Twee vermoedelijke mensensmokkelaars blijven in de cel na wilde achtervolging op E40",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Twee vermoedelijke mensensmokkelaars blijven in de cel na wilde achtervolging op E40 HLN",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEJiSXQxMC1oeEVmdmp5WVhONEdVZHllZ2ppeVl5S19HYVBBSGJtSHVDZDI2VnN3Y1VZbHhZVW42NUN0aWk1NXlTU3N5X0FVVE5kNlRaaWM3TUdva1hiSTliZ1h1OUlMcG5MRlEwTFZ6S01VSG4xcThtNGdoNWhHSHdabVFaM2pVaDR1d0VqMF9FRzBKNGRnaDZsb1hmOEFwLWFaOUJvdF9nSWNqbzNXMlFCWHZ4aDhxLUxib09n?oc=5"
+ },
+ {
   "id": "11685d862c",
   "datum": "2026-10-23",
   "tijd": "17:14",
@@ -3968,6 +4023,25 @@
   "link": "https://www.gld.nl/nieuws/8538732/politie-toont-beelden-van-twee-aanslagen-op-tattooshop"
  },
  {
+  "id": "166dcc0f07",
+  "datum": "2026-10-22",
+  "tijd": "18:10",
+  "nieuw": false,
+  "titel": "Man (34) uit Soest ontkent mensenhandel, maar justitie ziet een kwetsbare vrouw die werd geïsoleerd en mishandeld",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Man (34) uit Soest ontkent mensenhandel, maar justitie ziet een kwetsbare vrouw die werd geïsoleerd en mishandeld Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV1JrYWpSUDd3bUpVTjNaSDViYjA1YlNJXzk1a0VjMWlybVhiQ2JsTXlSazZHYUJhSEl6cU1HVUwtZzA4MHhNSlZDNHFOV1ZiNDVRRGxUZlBfZDZiTmZTNkZFZUs1cWwyX0RXV2dDYk01Mm9aYTdYd0tsd1oyeDlNWmtIS1FraTFEUmpKeENjTU9SbnNOQjhMR19HZjFJMDFXbW5rYm9jd0ZMUkNUU1hyd2lMNzlON29NZWJxd3FJLUNibklfQjNYX0U4c0g3RWdEQUo2aThkcVlPX0dPY095bC1ENXA5aG9vbkFsX3plUGF4ekN2MzNYMjhPU0Z1dw?oc=5"
+ },
+ {
   "id": "f8484e6fbc",
   "datum": "2026-10-22",
   "tijd": "18:00",
@@ -4495,6 +4569,25 @@
   ],
   "samenvatting": "De provincie wil op dit moment geen regierol innemen om een oplossing te vinden voor het probleem van de waterveiligheid in de Lelystadse buitendijkse wijk Parkhaven. Gedeputeerde Sjaak Simonse wil eerst wachten op een feitenonderzoek en een rechtszaak bij de Raad van State. Bewoners van Parkhaven spraken woensdagavond",
   "link": "https://www.omroepflevoland.nl/nieuws/528315/provincie-wil-geen-regierol-nemen-bij-oplossing-woonwijk-parkhaven"
+ },
+ {
+  "id": "8bae2a4b7b",
+  "datum": "2026-10-22",
+  "tijd": "07:15",
+  "nieuw": false,
+  "titel": "Overlast door afvaldumping kost De Bunders kledingcontainers",
+  "bron": "kliknieuwsveghel.nl",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "Overlast door afvaldumping kost De Bunders kledingcontainers kliknieuwsveghel.nl",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWhrY1plNzJaMTE4SEMtVGRpSlVDRmhQOEhvR0Z5VXpDMEQwak4xSEhpZVRZNkp0R2R2U05NNExXUVB4S1hPajhaRlUwR25ySDV6S1U5TllRQkFkQ1dGS3hxdDNyLXpzeXZRQzNJN0k1SEtmMlNDOEZ0cWloZktmcnBfWUdzYUNwUnJjWS01S19LYzhvY09UYjQ5QkVWR1AwTHp5TDRWc2ozeEgyUnpUYTBFMDltdw?oc=5"
  },
  {
   "id": "7d7fcd7907",
@@ -70704,6 +70797,29 @@
   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ09zdmg5VV9iVmlNLUUtSFBUQ1J4LTRZQWtqbktCYU1rMGR6SXoyM3h3TEpKU1RMYktjaTFiX0Z1dUx4c2toejBnOEwxSXY2ZUdBNlZQaWNmVmVUUGx1dzNadmMyRXZxU3FrQVRPR2gxQURDWC1tZF90QzRzNWtORXk1dlEwcTlfMU0zQmtqOVUwdHcyZkRqeEMtWUoxMFBvMmdPYUE0OFp4LW1WTUV6QjhXeDV3dVZnQ3VuMDRGdzczemR3TmxpUnVueTRTOFFRMjZXTXdtdG1BR3BmS1I5bExyRkg5VDJmVVE?oc=5"
  },
  {
+  "id": "388ac34807",
+  "datum": "2025-12-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Kopstuk afval- en mestfraude sluit deal met justitie: Peet W. moet 1,3 miljoen betalen en krijgt 900 uur werkstraf",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "kopstuk",
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Kopstuk afval- en mestfraude sluit deal met justitie: Peet W. moet 1,3 miljoen betalen en krijgt 900 uur werkstraf Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQamRjeFZwSHNkT0VoODhrblZSb3BBR1paRUlSUnBremxGNWZ1MS1neEc0dWljUU5UV1RCZm5Rby0xcTV3blEwbDdob2hMNXhmMmc4SEZtU19wb21icVpVYVFtQ1Rma0JmUDFKSThnNzluUzN4UF9XRXd5azYwakxnYjNEOG9RRi0yOTVheGF5clRMQ0ZWOGRJRkkzX1NJeXVvNnVXZE5HRThNQUlBSkR0ZG5lS0cxeW9iMnR1b0hlc0lTYkg1WVRkSXlSZEtJSGgybDJUdkpEWlRyZV9qOTN2cmxfQQ?oc=5"
+ },
+ {
   "id": "d5493f27cb",
   "datum": "2025-12-04",
   "tijd": "08:00",
@@ -95608,6 +95724,25 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONUlFZFlmWEozMk5DbUdDSVVQd0pLeVZUUVA5Vll2dFlrRjFZZ0FSWFV5VExCOElUTTFLeDJieHVsdzJTYW93TkJIS0diTmloUzRRa0NRRFBnR0RzWDlSSGtvRGtMaW5DNDM1TzB1el9xYnJ4MzhSTWs0VnBnZm5SMzZyRlBBREFkWExHYjFLZkR4dWVSUEtsdjBGdkdRQlc2SlBFZEh3bl9zdGE2TGZ6SjVaLXRPUXd0UTd1aHNn?oc=5"
  },
  {
+  "id": "89f66df6ab",
+  "datum": "2019-11-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Marechaussee Ter Apel arresteert Limburger voor mensensmokkel bij N366",
+  "bron": "DVHN",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Marechaussee Ter Apel arresteert Limburger voor mensensmokkel bij N366 DVHN",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeGNpWE50UElZN3hDcjA5bEFmQUtwNTFsTUdWVmpkWWo4SEFTV0Npc01XcERjcFZuLTFxdnRSa25yekV2VTVKX2NjQ2VOTS1KWUJmMVp1b1BLLUdwOWNKNExEX3E3aGNNenB6MFVUbkFUb2VBRnVxOG8wM2QxYkhrRWNYN3d3b1VHSkNYN2xQdzFHY3RCaElUOFFWS29kZHM5aDNmaG1YMkdhTndvYTZGbGpxUmMxZTFOUDdndzln?oc=5"
+ },
+ {
   "id": "1cba9fae32",
   "datum": "2019-11-08",
   "tijd": "08:00",
@@ -98626,6 +98761,27 @@
   ],
   "samenvatting": "Vrouw aangehouden op Schiphol op verdenking van witwassen AD.nl",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2NwRmt2OVBfOXNxZmNVaWExVC1PUkl6QnNRaV9UTEpwSkF4d2VWeDlLVjVEY3BlOG92cVY0R2tHSExUdlRXMk45cmFBQmNMTHpiNGk0SzhVR3l2X2lDTFVCWDlGcXJCY0ltTmx4UzVWamR3SmFMZTBLNHpRcmRmSkQ5aTA0WG9jRWNvRUlmRnh1ZS1OOXhZbVNBc0k?oc=5"
+ },
+ {
+  "id": "7cad603512",
+  "datum": "2017-11-13",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Vrouw aangehouden op Schiphol op verdenking van witwassen - AD.nl",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "schiphol",
+   "witwassen"
+  ],
+  "samenvatting": "Vrouw aangehouden op Schiphol op verdenking van witwassen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXNSLTY0VjF5czdXbVBTVHFsYkEyR1d6NGdFdWJYbmd5OS1qYVR2QlI1emVxc3QyZDdVaUJOSnE4Z0k2U0k5aUQ4cFBfekxPUWJYR3BvNHRGdWhLNlJFdUpwWW9sa3FLUFBPR0F2UGkwYVhINWo4MFFaZ1QzQjZlc3UzZG5SSkRpQmMyZTlaMVpyRlMyR3lBSjBMOA?oc=5"
  },
  {
   "id": "4164848ee8",
