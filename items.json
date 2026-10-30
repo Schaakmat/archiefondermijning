@@ -1,5 +1,43 @@
 [
  {
+  "id": "1f5504a927",
+  "datum": "2026-10-29",
+  "tijd": "22:22",
+  "nieuw": true,
+  "titel": "Mannen uit Amersfoort en Bunschoten aangehouden op verdenking van mensenhandel",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Mannen uit Amersfoort en Bunschoten aangehouden op verdenking van mensenhandel Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMHlEV3dKU3hkS3JXejdhQjZYVjk5MnBjUXNES3ZaMkpSZGNfazZvN2lYeVRhWHEzMjBfQ1ljV0VOUkJiM0lxZzJ6NnBFd0NSWXQ1N2VNMTNlOS1VbF9WOWhIMnlnbUltanRpRGNBNmZYWC0telFaSE56WGpnbHZlRzhaRndkamw2Y2VURVBfSy1PdkN4dVN1X2tONTE0ZUZPdVpkVExZQ0lfbFhpQlpuNEVJRVNZRnVPOUNiWnpCNG5hQ0U5M1gtRXBzeG9KVjZTaTR3?oc=5"
+ },
+ {
+  "id": "41be7af64a",
+  "datum": "2026-10-29",
+  "tijd": "21:53",
+  "nieuw": true,
+  "titel": "Fietser zwaargewond bij botsing met auto in Helmond, bestuurder rijdt door",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een vrouw op een fiets is donderdagavond ernstig gewond geraakt bij een botsing met een auto op de Van Galenstraat in Helmond. De auto reed na het ongeval door. De bestuurder van de wagen wordt nog gezocht. De zwaargewonde vrouw is met de ambulance naar het ziekenhuis in Nijmegen gebracht. De bestuurder van de wagen is",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032983/fietser-zwaargewond-bij-botsing-met-auto-in-helmond-bestuurder-rijdt-door"
+ },
+ {
   "id": "0a0424335d",
   "datum": "2026-10-29",
   "tijd": "21:15",
@@ -10,12 +48,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Cocaine, haven & logistiek",
    "Milieucriminaliteit & afval"
   ],
   "tags": [
-   "grond",
-   "haven"
+   "grond"
   ],
   "samenvatting": "Een in Emmeloord en omstreken bekende straatpredikant heeft zich volgens de gemeente begin deze maand 'onwenselijk' uitgelaten tegen mensen met een lhbti+-achtergrond. Dat gebeurde bij een activiteit tijdens Coming Out Day op 9 oktober in de bibliotheek van Emmeloord. De politie is daarom ingeschakeld om 'aandacht te g",
   "link": "https://www.omroepflevoland.nl/nieuws/529242/'bekende-straatpredikant-uit-emmeloord-verstoorde-op-coming-out-day-activiteit-in-bibliotheek'"
@@ -50,6 +86,63 @@
   "link": "https://www.omroepflevoland.nl/nieuws/529284/nieuwsoverzicht-2910-or-ondernemers-blij-met-miljoenen-voor-haven-urk-*-noodbrug-bij-houtribdijk"
  },
  {
+  "id": "6bca4ed460",
+  "datum": "2026-10-29",
+  "tijd": "19:34",
+  "nieuw": true,
+  "titel": "Auto uitgebrand • beschonken bestuurder aangehouden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Het actuele 112-nieuws uit Gelderland van deze dag bundelen we in een liveblog. Je leest en ziet hier een overzicht van ongelukken, branden, vermissingen en misdrijven in onze provincie.",
+  "link": "https://www.gld.nl/nieuws/8541111/auto-uitgebrand-beschonken-bestuurder-aangehouden"
+ },
+ {
+  "id": "9a50d1ac09",
+  "datum": "2026-10-29",
+  "tijd": "19:33",
+  "nieuw": true,
+  "titel": "Haags drietal moet Doetinchem verlaten na winkeldiefstal",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Drie personen zijn donderdagavond op het Stadhuisplein en in de omgeving daarvan in Doetinchem staande gehouden vanwege een mogelijke winkeldiefstal. De politie boeide alle drie de personen.",
+  "link": "https://www.gld.nl/nieuws/8541483/haags-drietal-moet-doetinchem-verlaten-na-winkeldiefstal"
+ },
+ {
+  "id": "8f4ff3211f",
+  "datum": "2026-10-29",
+  "tijd": "19:26",
+  "nieuw": true,
+  "titel": "Auto slaat meermaals over de kop, bestuurder onder invloed",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Op de N209 bij Bleiswijk is een auto meerdere keren over de kop geslagen. De bestuurder raakte hierbij gewond. Hij is naar het ziekenhuis gebracht en aangehouden voor rijden onder invloed.",
+  "link": "https://www.rijnmond.nl/nieuws/2275269/auto-slaat-meermaals-over-de-kop-bestuurder-onder-invloed"
+ },
+ {
   "id": "da57affa21",
   "datum": "2026-10-29",
   "tijd": "18:33",
@@ -79,20 +172,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Corruptie & integriteit",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk",
-   "Witwassen & geldstromen"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "corruptie",
-   "erf",
-   "explosie",
-   "haven",
-   "vrachtwagen",
-   "witwassen"
+   "vrachtwagen"
   ],
   "samenvatting": "Boxtels raadslid opgepakt bij witwasonderzoek, taakstraf voor de vrachtwagenchauffeur die de 16-jarige Guusje doodreed en een aanslag in Helmond. Deze vijf verhalen moet je donderdag gelezen hebben. Een Boxtels D66-raadslid en justitiemedewerker Sohib H. (38) blijkt een van de twee mannen die in mei werden aangehouden ",
   "link": "https://www.omroepbrabant.nl/nieuws/6032964/boxtels-raadslid-opgepakt-en-aanslag-in-helmond-dit-gebeurde-vandaag"
@@ -205,12 +288,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Jeugd & jonge aanwas"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "douane",
-   "school"
+   "douane"
   ],
   "samenvatting": "De Franse douane heeft duizenden verpakkingen met THC-snoepjes onderschept die voor de Nederlandse markt waren bedoeld. THC is de belangrijkste werkzame stof in marihuana. Volgens de Europese antifraudedienst OLAF leken de snoepjes en de verpakking sprekend op producten van een bekend Europees merk. Hiermee werden de m",
   "link": "https://nos.nl/l/2637178"
@@ -268,12 +349,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "geweld",
-   "grond"
+   "geweld"
   ],
   "samenvatting": "Het Openbaar Ministerie seponeert de zaak van een agent, om een fatale arrestatie in 2023 in Rotterdam. Op 9 juni van dat jaar overleed een 32-jarige Rotterdammer toen hij door agenten in bedwang werd gehouden. Uit onderzoek zou blijken dat betrokken agenten daarbij de voor hen geldende geweldsinstructie schonden, waar",
   "link": "https://nos.nl/l/2637175"
@@ -301,7 +380,7 @@
   "id": "7ff33eb51a",
   "datum": "2026-10-29",
   "tijd": "16:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oud echtpaar voor bijna 70.000 euro opgelicht, verdachten slaan ook toe in Rotterdam",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -317,10 +396,29 @@
   "link": "https://www.rijnmond.nl/nieuws/2275098/oud-echtpaar-voor-bijna-70000-euro-opgelicht-verdachten-slaan-ook-toe-in-rotterdam"
  },
  {
+  "id": "5a0ad590ca",
+  "datum": "2026-10-29",
+  "tijd": "16:06",
+  "nieuw": false,
+  "titel": "Oud echtpaar voor bijna 70.000 euro opgelicht, geld uitgegeven bij Rotterdamse juwelier",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "juwelier"
+  ],
+  "samenvatting": "Een ouder echtpaar uit Hilversum is door bankhelpdeskfraude bijna 70.000 euro kwijtgeraakt. Oplichters bellen de slachtoffers dagenlang en weten hun bankpassen en creditcard in handen te krijgen. Met de gestolen passen worden onder meer bij een juwelier in Rotterdam-Zuid grote bedragen uitgegeven. De politie is op zoek",
+  "link": "https://www.rijnmond.nl/nieuws/2275098/oud-echtpaar-voor-bijna-70000-euro-opgelicht-geld-uitgegeven-bij-rotterdamse-juwelier"
+ },
+ {
   "id": "530113091e",
   "datum": "2026-10-29",
   "tijd": "16:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw (91) gewond na botsing met auto, bestuurder botste daarvoor ook al",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -336,14 +434,14 @@
    "burgemeester",
    "supermarkt"
   ],
-  "samenvatting": "Een 91-jarige vrouw is donderdagmiddag gewond geraakt bij een botsing met een auto in Waalwijk. Het ging mis op de parkeerplaats van supermarkt Nettorama aan de Burgemeester Van Wielstraat. Opmerkelijk genoeg gebeurde dat na een andere, kleinere botsing op de parkeerplaats met dezelfde bestuurder. De wagen schampte don",
+  "samenvatting": "Een 91-jarige vrouw is donderdagmiddag gewond geraakt bij een botsing met een auto in Waalwijk. Het ging mis op de parkeerplaats van supermarkt Nettorama aan de Burgemeester Verwielstraat. Opmerkelijk genoeg gebeurde dat na een andere, kleinere botsing op de parkeerplaats met dezelfde bestuurder. De wagen schampte dond",
   "link": "https://www.omroepbrabant.nl/nieuws/6032959/vrouw-91-gewond-na-botsing-met-auto-bestuurder-botste-daarvoor-ook-al"
  },
  {
   "id": "f305723655",
   "datum": "2026-10-29",
   "tijd": "16:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee auto's botsen in Nijmegen, politie sluit weg af",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -362,7 +460,7 @@
   "id": "d3c3af3d2c",
   "datum": "2026-10-29",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oplichters maken bijna 8.000 euro buit bij man uit Brielle, verdachte plakt kauwgom op camera",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -381,7 +479,7 @@
   "id": "40ecf6653f",
   "datum": "2026-10-29",
   "tijd": "15:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Arnhem wil 24/7 zorg beschikbaar bij verward gedrag",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -400,18 +498,16 @@
   "id": "c814624710",
   "datum": "2026-10-29",
   "tijd": "15:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nieuwe beelden van schutter Jaison: politie zoekt man met opvallend loopje",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
   "soort": "Nieuwsbericht",
   "regio": "Rotterdam",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "moord",
    "wapen"
   ],
   "samenvatting": "Vier jaar na de dood van Jaison Baptista Lopes Sanches (30) op het Tiendplein in Rotterdam heeft de politie nieuwe aanwijzingen over de schutter. Op camerabeelden valt zijn scheve manier van lopen op. Ook onderzoekt de recherche een tip over zijn vluchtroute en blijkt het gebruikte vuurwapen waarschijnlijk bij vier and",
@@ -421,23 +517,19 @@
   "id": "23ce7443b5",
   "datum": "2026-10-29",
   "tijd": "15:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Van stemmenkanon tot verdachte: de opkomst van D66'er Sohib H. in Boxtel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
    "Corruptie & integriteit",
-   "Criminele samenwerkingsverbanden",
    "Witwassen & geldstromen"
   ],
   "tags": [
    "ambtelijke corruptie",
    "corruptie",
-   "gemeenteraad",
-   "netwerk",
    "witwassen"
   ],
   "samenvatting": "Van populair raadslid tot verdachte in een groot strafrechtelijk onderzoek. De 38-jarige D66-politicus Sohib H. uit Boxtel wordt verdacht van onder meer verkiezingsfraude, ambtelijke corruptie en witwassen. De afgelopen jaren bouwde hij een naam op binnen de lokale politiek, waar hij met voorkeursstemmen in de gemeente",
@@ -447,7 +539,7 @@
   "id": "28edd62bd3",
   "datum": "2026-10-29",
   "tijd": "15:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nog geen verdachte in beeld bij 'ernstig geweldsincident' Vlissingen",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -466,20 +558,18 @@
   "id": "7ecc4d8e40",
   "datum": "2026-10-29",
   "tijd": "15:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Colombiaanse vrouwen in huis Oisterwijk, mannen verdacht van mensenhandel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
-   "Wapens, explosieven & vuurwerk"
+   "Arbeidsuitbuiting & mensenhandel"
   ],
   "tags": [
    "mensenhandel",
-   "prostitutie",
-   "wapen"
+   "prostitutie"
   ],
   "samenvatting": "Vier mannen zijn eerder deze maand opgepakt omdat ze twee Colombiaanse vrouwen mogelijk hebben gedwongen om in de prostitutie te werken. De vrouwen werden in 2025 gevonden in een huis in Oisterwijk, meldt de politie donderdag. Naast een 23-jarige man uit Vught zijn op 13 oktober ook een 33-jarige man uit Roermond, een ",
   "link": "https://www.omroepbrabant.nl/nieuws/6032955/colombiaanse-vrouwen-in-huis-oisterwijk-mannen-verdacht-van-mensenhandel"
@@ -488,7 +578,7 @@
   "id": "438d310cae",
   "datum": "2026-10-29",
   "tijd": "15:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Het past niet meer bij mij': wethouder dient al na halfjaar ontslag in",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -507,7 +597,7 @@
   "id": "d65d7506cf",
   "datum": "2026-10-29",
   "tijd": "15:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Komt er een noodbrug bij de Houtribdijk? Rijkswaterstaat onderzoekt de mogelijkheden",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -526,7 +616,7 @@
   "id": "f543b843fa",
   "datum": "2026-10-29",
   "tijd": "15:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vier mannen aangehouden op verdenking van mensenhandel",
   "bron": "Politie.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -545,7 +635,7 @@
   "id": "79c4f42e3f",
   "datum": "2026-10-29",
   "tijd": "15:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Robert L. in hoger beroep tot 11 jaar cel veroordeeld voor moord op zijn partner Susanna Boon - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -564,7 +654,7 @@
   "id": "0490703663",
   "datum": "2026-10-29",
   "tijd": "14:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Almeerder (31) meldt zich bij politie na zware mishandeling op feest in Amsterdam",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -585,7 +675,7 @@
   "id": "4e31589367",
   "datum": "2026-10-29",
   "tijd": "14:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ouwehands stuurt pandajong naar China, 'van diplomatieke druk geen sprake'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -606,7 +696,7 @@
   "id": "8dc8bb2efa",
   "datum": "2026-10-29",
   "tijd": "14:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Geen aanwijzingen voor brandstichting bij groothandel in Rotterdam",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -627,7 +717,7 @@
   "id": "1c3a81d811",
   "datum": "2026-10-29",
   "tijd": "14:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Provincie houdt voorrang drones in stand, maar biedt ruimte voor maatwerk",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -646,7 +736,7 @@
   "id": "f1d103798e",
   "datum": "2026-10-29",
   "tijd": "13:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Sahra vastgebonden en gedood in Enschedees appartement: 14 jaar cel voor bewoner",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -662,29 +752,10 @@
   "link": "https://www.oost.nl/nieuws/3712872/sahra-vastgebonden-en-gedood-in-enschedees-appartement-14-jaar-cel-voor-bewoner"
  },
  {
-  "id": "56a29a138c",
-  "datum": "2026-10-29",
-  "tijd": "13:47",
-  "nieuw": true,
-  "titel": "Dronken man in badjas steekt onderweg alles in brand en krijgt 4 jaar cel",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "mest"
-  ],
-  "samenvatting": "Lucas den D. (34) uit Uden moet vier jaar de cel in voor het in brand steken van zes auto’s, een aanhanger en een brievenbus in Heesch. Dat heeft de rechtbank in Den Bosch donderdag geoordeeld. Den D. richtte op 3 april een grote ravage aan in Heesch onder invloed van alcohol en medicijnen. Lucas stapte die nacht onder",
-  "link": "https://www.omroepbrabant.nl/nieuws/6032917/dronken-man-in-badjas-steekt-onderweg-alles-in-brand-en-krijgt-4-jaar-cel"
- },
- {
   "id": "cdd0a4b1ec",
   "datum": "2026-10-29",
   "tijd": "12:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Opgepakt raadslid Boxtel eerder aangehouden bij inval autodealer",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -703,7 +774,7 @@
   "id": "e8e74fa13f",
   "datum": "2026-10-29",
   "tijd": "12:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oproep provincie aan het Rijk: elektriciteitskorting industrie moet eerder",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -722,7 +793,7 @@
   "id": "3e667c93ef",
   "datum": "2026-10-29",
   "tijd": "12:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bedrijfsleider, pandeigenaar en compagnon bestraft voor runnen van drugslab in Klazienaveen",
   "bron": "RTV Drenthe",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -745,7 +816,7 @@
   "id": "7cb6e3d657",
   "datum": "2026-10-29",
   "tijd": "12:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Moerdijk roept Jetten op de regie te nemen in discussie over energieplannen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -975,6 +1046,25 @@
   ],
   "samenvatting": "Een man en vrouw zijn aangehouden na de vondst van harddrugs in een woning aan de Seringenstraat in Maassluis. De verdachten komen uit Ridderkerk en Maassluis en zijn beide 34 jaar oud. De drugs lagen goed verstopt.",
   "link": "https://www.rijnmond.nl/nieuws/2275045/kilos-drugs-gevonden-in-verborgen-ruimtes-van-meubelstuk-twee-aanhoudingen"
+ },
+ {
+  "id": "da540cf21a",
+  "datum": "2026-10-29",
+  "tijd": "09:02",
+  "nieuw": false,
+  "titel": "De aanpak van zorgfraude in Twente krijgt landelijk navolging, maar de schaduwkant wordt niet genoemd",
+  "bron": "Twente FM",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "De aanpak van zorgfraude in Twente krijgt landelijk navolging, maar de schaduwkant wordt niet genoemd Twente FM",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeXN3MERMR0VIT3k0WElEMk1oQ3A1MGZMWVBUMUI5UEYyd3VOMHluRUZxLWQ5VlgzRmdwX3A4RUpZejA5RDlKQ2NCM29Zbk42RFRodUJjTHR2Wms2bHJtVzNURWp4LU95YUhHQnFicXBOOG4tOHk5aDR3Y3hFc1ZyNUZqUlIxWXJBMTUySzU5UWhVWGZ5WFhfdFk4Wlg4WXhMRzZraDAyeVRwWGhydUFPOVZGUXZ3M2FhWmhINUt1MnZPRlV0SV9OOE5XWFIwd0JHU2lkY29Gcw?oc=5"
  },
  {
   "id": "5cc9a04d90",
@@ -89607,6 +89697,27 @@
   ],
   "samenvatting": "Buurt opgeschrikt door vondst van drugslab in Didam REGIO8",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbzU4d1Vkd1NMREZrcmZUQW4yUWJYTERGNDR4WlJjS1VraF94cmtkYkFRalZ1YnRMWjc5OFY4WnJ1SW1iMU80M0RvNnpVUFZfSDhSZXQ2THRhQ25oMTVtR0l4RHhvVGZzdUkyeGszRGdMQ1pESnZkZEpmbHhOdTFCUTg3QjRrbjA?oc=5"
+ },
+ {
+  "id": "d1ef150ed8",
+  "datum": "2023-01-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Cybercrime en ondermijning in de schijnwerpers tijdens Ondernemerscafé in Emmen",
+  "bron": "DVHN",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "ondermijning",
+   "ondernemers"
+  ],
+  "samenvatting": "Cybercrime en ondermijning in de schijnwerpers tijdens Ondernemerscafé in Emmen DVHN",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjFpQUtNV2xFZnZqUWtGTHFmeGxxTml3RkgxZFVfcVhhb1dyT1piWF90a1pPMEZIb0M1S1dVMDJwOEdpRjNrYllWNWhhSkp5SHEwamxkdnF2LU5aOTBTSGRENmJUVTFkWi1uS1lTT0tWVk11b0dLX25CTnZDM1B0cEhNOXRBaXZQYzFUMHJtV0ZpNlF0U0s2ei01TTVsRE9ORWlLV3ZBMkxoczFEeUw1REE5TW1tTmZDNVhSS2RWUHh1ZTZQc1BaRk96aUR6TE0?oc=5"
  },
  {
   "id": "9962d434c4",
