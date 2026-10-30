@@ -1,12 +1,12 @@
 {
- "run": "18:43",
+ "run": "23:11",
  "datum": "2026-10-30",
- "nieuw": 28,
- "totaal": 5156,
- "verwijderd": 11,
+ "nieuw": 22,
+ "totaal": 5165,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 838,
-  "geen dossier": 392
+  "niet-nederlands": 835,
+  "geen dossier": 422
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 354,
-   "status": "3 nieuw",
+   "items": 355,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -24,7 +24,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 201,
-   "status": "bij",
+   "items": 203,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -42,7 +42,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 319,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -78,7 +78,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 190,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -230,7 +230,7 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 349,
+   "items": 350,
    "status": "1 nieuw",
    "ok": true
   },
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -266,8 +266,8 @@
    "url": "news.google.com/rss/search?q=liquidatie%20criminele%20milieu%20OR%20moor",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 68,
-   "status": "bij",
+   "items": 70,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 403",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -429,7 +429,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 154,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -464,7 +464,7 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 143,
+   "items": 144,
    "status": "3 nieuw",
    "ok": true
   },
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 284,
-   "status": "10 nieuw",
+   "items": 283,
+   "status": "8 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 321,
-   "status": "bij",
+   "items": 324,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 329,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 63,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 217,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -546,7 +546,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 151,
-   "status": "3 nieuw",
+   "status": "2 nieuw",
    "ok": true
   },
   {
