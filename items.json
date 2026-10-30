@@ -1,5 +1,43 @@
 [
  {
+  "id": "aaa7a8bc97",
+  "datum": "2026-10-30",
+  "tijd": "05:30",
+  "nieuw": true,
+  "titel": "Gerard was getrouwd met een man, maar zijn partner gaat verder als vrouw",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "sportclub"
+  ],
+  "samenvatting": "Lexi Barker-Stone uit Helmond was flink nerveus toen ze tegen haar man Gerard moest gaan vertellen dat ze als vrouw door het leven wilde gaan. Acht jaar waren ze getrouwd, een homohuwelijk, vol liefde, tussen twee mannen. Maar Lexi wist al lang dat ze eigenlijk een vrouw was. Een jaar geleden ging ze in transitie en ka",
+  "link": "https://www.omroepbrabant.nl/nieuws/6032951/gerard-was-getrouwd-met-een-man-maar-zijn-partner-gaat-verder-als-vrouw"
+ },
+ {
+  "id": "4bd01bf3a3",
+  "datum": "2026-10-30",
+  "tijd": "01:07",
+  "nieuw": true,
+  "titel": "Vier mannen aangehouden op verdenking van mensenhandel",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Vier mannen aangehouden op verdenking van mensenhandel Drimble",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYXhZeDdYa2R6ODZGaExpR1JJOEd3OHdEeUlLRFdlRWZ2Sy12S3FGOHVXazNJVi0wcEkzYmhLSkFNSHNaYjJXeDRBclR2NmFiZnlBZE0xT2hkZGVWVjBCNGJZeWVzUXQxYXZWMEQ1ZnBpeEVaVTByMlhrdVhKbHNFUFp5V0d6RF9TSW9TY2RlN3MtaHRWQkFvaExLazNXUGJGaFdsNWpvcTRlMlU?oc=5"
+ },
+ {
   "id": "1f5504a927",
   "datum": "2026-10-29",
   "tijd": "22:22",
@@ -34,7 +72,7 @@
   "tags": [
    "bestuurder"
   ],
-  "samenvatting": "Een vrouw op een fiets is donderdagavond ernstig gewond geraakt bij een botsing met een auto op de Van Galenstraat in Helmond. De auto reed na het ongeval door. De bestuurder van de wagen wordt nog gezocht. De zwaargewonde vrouw is met de ambulance naar het ziekenhuis in Nijmegen gebracht. De bestuurder van de wagen is",
+  "samenvatting": "Een vrouw op een fiets is donderdagavond ernstig gewond geraakt bij een botsing met een auto op de Van Galenstraat in Helmond. De auto reed na het ongeval door. De bestuurder van de wagen wordt nog gezocht. De zwaargewonde vrouw is met de ambulance naar het ziekenhuis in Nijmegen gebracht. Op de fiets zou ook nog een a",
   "link": "https://www.omroepbrabant.nl/nieuws/6032983/fietser-zwaargewond-bij-botsing-met-auto-in-helmond-bestuurder-rijdt-door"
  },
  {
@@ -262,7 +300,7 @@
   "id": "7652ddc357",
   "datum": "2026-10-29",
   "tijd": "17:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mannen uit Amersfoort en Bunschoten aangehouden op verdenking van mensenhandel",
   "bron": "de Stentor",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -281,7 +319,7 @@
   "id": "4dfdd85c1f",
   "datum": "2026-10-29",
   "tijd": "16:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Duizenden THC-snoepjes in beslag genomen, bestemd voor Nederland",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -300,7 +338,7 @@
   "id": "87260ed66d",
   "datum": "2026-10-29",
   "tijd": "16:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie grijpt in bij massale vechtpartij bij school in Deventer",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -319,7 +357,7 @@
   "id": "92b0b1c150",
   "datum": "2026-10-29",
   "tijd": "16:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Extra belasting raakt Paaspop en 7th Sunday: 'Dit voelt heel oneerlijk'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -342,7 +380,7 @@
   "id": "cd35c01131",
   "datum": "2026-10-29",
   "tijd": "16:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM seponeert zaak van agent in opleiding om dodelijke arrestatie in 2023",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -361,7 +399,7 @@
   "id": "8b05b6c99d",
   "datum": "2026-10-29",
   "tijd": "16:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man legt explosief bij portiek in Rotterdam-Zevenkamp en filmt zijn eigen daad",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -1183,6 +1221,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6032817/aanslag-op-huis-in-helmond-explosief-gaat-af-bij-voordeur"
  },
  {
+  "id": "7052adfe35",
+  "datum": "2026-10-29",
+  "tijd": "03:29",
+  "nieuw": false,
+  "titel": "Stad niet in beroep tegen nieuwe en ruimere regels Schiphol, wethouder wil handhaving - AT5",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "schiphol"
+  ],
+  "samenvatting": "Stad niet in beroep tegen nieuwe en ruimere regels Schiphol, wethouder wil handhaving AT5",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeTJaMU43SkcxS1NwdXpiS1JyRkFyRG5pMFVrdnVfZDRMWnBCVTB2eHd6c1FOTkp1bmJ0X3U2S1RWTTczS3JDWnBfRjhyWUdVYTNEMC1GTm5tZk9HeWhiVTdDSjFEalhxSmVEQVRsd3VyWEtmWXc0ZnJuYXpBcWZiRC1rZHRxdnc3a2N2MFQ3RzhiaW1DRkZqWTJMQkJNalo4eEtiU2ZhbDVRUWJkeW81QU4yNjhxVndEaHB6dg?oc=5"
+ },
+ {
   "id": "2ff563b9c8",
   "datum": "2026-10-28",
   "tijd": "22:52",
@@ -1521,25 +1578,6 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6032762/gemeente-zat-fout-maar-hoeft-niet-te-betalen-voor-faillissement-scheepswerf"
  },
  {
-  "id": "8b0acb1735",
-  "datum": "2026-10-28",
-  "tijd": "14:08",
-  "nieuw": false,
-  "titel": "Omstreden au-pairbureau Nina Care is failliet",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak"
-  ],
-  "tags": [
-   "vergunning"
-  ],
-  "samenvatting": "Nina Care is failliet verklaard door de rechtbank van Haarlem. Het Nederlandse au-pairbureau raakte vorig jaar in opspraak nadat Nieuwsuur -onderzoek meerdere misstanden aan het licht bracht. Au pairs werden slecht gescreend en moesten liegen tegen de grenspolitie. Het bedrijf is enkele jaren geleden opgericht door de ",
-  "link": "https://nos.nl/l/2637015"
- },
- {
   "id": "b3d696e421",
   "datum": "2026-10-28",
   "tijd": "13:54",
@@ -1620,28 +1658,6 @@
   ],
   "samenvatting": "De toezichthouders en boa's van Omgevingsdienst Rivierenland (ODR) zullen binnenkort bodycams dragen om zo hun veiligheid te vergroten. Deze camera's kunnen handmatig worden ingeschakeld als een situatie uit de hand dreigt te lopen.",
   "link": "https://www.gld.nl/nieuws/8540845/boas-in-maasdriel-en-zaltbommel-krijgen-bodycams"
- },
- {
-  "id": "0dfbce2d43",
-  "datum": "2026-10-28",
-  "tijd": "11:23",
-  "nieuw": false,
-  "titel": "Tientallen servers in beslaggenomen in Limburg om verspreiden kinderporno",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Crypto & digitaal geld",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "crypto",
-   "cryptovaluta",
-   "grond"
-  ],
-  "samenvatting": "De politie heeft tientallen servers in beslag genomen in een internationaal onderzoek naar een malafide hostingbedrijf. Het bedrijf wordt ervan verdacht medeplichtig te zijn aan het faciliteren van cybercriminaliteit. Het hostingbedrijf hield zich volgens de politie bezig met onder meer het verspreiden van kinderporno,",
-  "link": "https://nos.nl/l/2636994"
  },
  {
   "id": "08bbff3dfc",
@@ -22826,6 +22842,25 @@
   ],
   "samenvatting": "Drie mannen in Eindhoven aangehouden in onderzoek naar drugs en witwassen Eindhovens Dagblad",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTdVTGs2c0RFMWpVTWFaRHVySjE1LTJNVENYWW9tbFRHcEVMZ2YtZG9sekRjYlU3cW9YOU15aWxhSTI5cWNGUVVwME4tSmtSekNRZ1ZMeTcybVFpbTlFZXN1bWx6WHltMURZeEVndm14TnJ6WE9Mbk4wdXRaTEV1QkZNTGFRVHVVUlM2UHhiUkNUckFDY0pvcElvTG5QMnAxREY5OS1UNVhoRWpBQVVMSXlXajNjTGs?oc=5"
+ },
+ {
+  "id": "51b6e65401",
+  "datum": "2026-09-28",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Drie mannen in Eindhoven aangehouden in onderzoek naar drugs en witwassen",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Drie mannen in Eindhoven aangehouden in onderzoek naar drugs en witwassen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjBuYzZTampNRTFaTlFRRkdZVk9qaTdodUNpTGdPbGRXcmc2SWY1WVBJVWkwbm11X0hFQmNLODFHR2JXTlhYM2dxMnBUSGVPTC16NjFRNU5mWEJCVDk5S29YUnVXUzZack9iWHBsWWk4Y2QydmFGemJMZWtqSHNPOVo5SE8zdHJWZUVvb0prUUtUZjVIdEFFSlhyLW5Tenl1QUZXSU1JQ0VYdjU4YnQ0TkM0X3VGN2lVWVA0?oc=5"
  },
  {
   "id": "67515f903f",
@@ -99955,6 +99990,27 @@
    "Vastgoed & huisvesting",
    "Witwassen & geldstromen"
   ]
+ },
+ {
+  "id": "9b243fe2ec",
+  "datum": "2017-08-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Foute politici? De gemeenteraad van Helmond wil er alles over weten - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Gemeenten & burgemeesters",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "grond"
+  ],
+  "samenvatting": "Foute politici? De gemeenteraad van Helmond wil er alles over weten NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODVvWHh0STZnN0RDVndPdGJJYXUyUE14dEJhdnl4ZjZXWVhEeENkRVZxNTZQeGhYYURMWEdCaEhveTI1QWdzUVI3MEZFYUZfQlROa1h0MVZPMms4X1hia2RWUV8wRkhjdHNyY20zeDM5cGdPSmJyamZ6RDI5VXFzVnJMRTVEcmZkeGJVbUFPWVBsRkItSVp6SEx3X3JUVGhzWng2bXhPazJINDRSRUZyRjY5QlNSNi1OdWdTOEdn?oc=5"
  },
  {
   "id": "db6f1ca62e",
