@@ -1,5 +1,24 @@
 [
  {
+  "id": "8260c7f53f",
+  "datum": "2026-10-30",
+  "tijd": "22:59",
+  "nieuw": true,
+  "titel": "Drugslab met 6 miljoen xtc-pillen lijkt familieaangelegenheid: naast twee broers is ook vader verdachte",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Drugslab met 6 miljoen xtc-pillen lijkt familieaangelegenheid: naast twee broers is ook vader verdachte Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdjcwV0NWU1NJdmwyS1loSThIWXhzc2ZaMkJscjFVU2RlZ0FBOGZsaEltcENTaURVZzNBNG5LZVc2azYwSFVNWmpqYW5ZRnpCeVJZeUloZXNNY2NNQ3dPWVFWZVg2WDNua2VXbE11bE5VMG53RGxZRS1zbzBpM1pDMmd4dG45MDRWYVhVakdERk5aWE1VQ1lsaUU3YXFqbERjLWZBVDZLR3FMVlcyOFNfVlh0N3JKdjQ4dHJrM1ZhVncteU9McVlIUy1yanZ2MzQ3MWl6YWlabk1OS09CTUl4aUFzSzJBcUk4WVZLcmJSeWpwVUwwTVBER2d3?oc=5"
+ },
+ {
   "id": "80d2be6c51",
   "datum": "2026-10-30",
   "tijd": "22:21",
@@ -29,12 +48,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "geweld",
-   "wapen"
+   "geweld"
   ],
   "samenvatting": "De pakketbezorger die gistermiddag werd getaserd, gaat aangifte doen tegen de betreffende agent. Dat zegt de advocaat van de bezorger, Gerald Roethof. Volgens de advocaat was het taseren in deze situatie in strijd met de geweldsinstructies van de politie. Verder vertelt Roethof dat zijn cliënt gewond is geraakt. \"Hij i",
   "link": "https://nos.nl/l/2637364"
@@ -326,7 +343,7 @@
   "id": "34a31286a6",
   "datum": "2026-10-30",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grote verkeerscontrole in Den Bosch levert tonnen en bijna 100 boetes op",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -350,7 +367,7 @@
   "id": "3d8792c02a",
   "datum": "2026-10-30",
   "tijd": "15:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Dit netwerk van 13 voornaamste fietsroutes moet zorgen dat Lelystedelingen hun weg beter kunnen vinden",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -369,7 +386,7 @@
   "id": "200819f546",
   "datum": "2026-10-30",
   "tijd": "15:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (62) blijft in de cel nadat synthetisch drugslab ontdekt werd na uitslaande brand in Kortrijk",
   "bron": "KW.be",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -388,7 +405,7 @@
   "id": "f1c60aac9e",
   "datum": "2026-10-30",
   "tijd": "15:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrachtwagenchauffeur veroordeeld voor fatale botsing met fietser (81) in Duiven",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -407,7 +424,7 @@
   "id": "bda479cc60",
   "datum": "2026-10-30",
   "tijd": "15:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Opnieuw overlijdt een jonge, Limburgse man in een drugslab: lichaam van 21-jarige uit Landgraaf aangetroffen bij bedrijfspand in Duitsland",
   "bron": "De Limburger",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -428,7 +445,7 @@
   "id": "7833f29eb1",
   "datum": "2026-10-30",
   "tijd": "14:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Advocaten Nainggolan gaan vol voor vrijspraak en reageren op eis van parket: \"Witwassen? Daar is geen fluit van aan\"",
   "bron": "Sporza",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -506,6 +523,25 @@
   ],
   "samenvatting": "Burgemeester sluit viswinkel op het Kiel in Antwerpen na aanwijzingen van mensenhandel en problemen met voedselveiligheid HLN",
   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUFplV2dySUhLVWN2U2c4VDdnbTBfeVFqejJfWlhxNndicXFWTzF3Y0ZRLVRKMGhCSmRlUllDamNyQ1VrUjFGeTA2RXFRVkEtSVY4VTJNbUVBM25DS2ozalY2WkdTVlM0OExMdVZoTTNhVnNFbFhqS3ZrNTBBWFpESDNZVnZHam5PaUFaY3dIYVQ2c1Nid2s3T010ZnZNRHBfX0Z4cDhEUk1iUlZVMHlGNTRWbnE5VUlxTFh2Zk9RQTFPcDl2NEhYUF9LNTJsbnFkU0Y0TF9iNFFudFZsekVYcFpFbFZfV1h5N1d3OWtKb0hLZw?oc=5"
+ },
+ {
+  "id": "1dc5b4ee41",
+  "datum": "2026-10-30",
+  "tijd": "13:32",
+  "nieuw": false,
+  "titel": "Burgemeester sluit viswinkel op het Kiel in Antwerpen na aanwijzingen van mensenhandel en problemen met voedselveiligheid",
+  "bron": "pzc.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Burgemeester sluit viswinkel op het Kiel in Antwerpen na aanwijzingen van mensenhandel en problemen met voedselveiligheid pzc.nl",
+  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbTZPdDRVWDdGQnJlU2xqc2ZidXZra29oeTVQdUxtRjlpdHlQS1lMcTRKUGl6bzB3d19yQlZqdi1wRW5JNDFyNkJyQTFlWnI2aHkwV0N0czBYOEZ0WHVNdnluQnJlWVdxdnZMQUVkNUxBLXo0VV80M2QySW9fa0NDSDB5bFBRTmVRdDJ1dHh4d0VucmIwQmw1bWE3cnBMV0lwSVZrMmxYa0VSRWVOZlRXMFhPRVZGMWR3ZGtXOEJaR0ZadFc3WWJpbnljcDZBaEdDTkRocnB4RTM0RkdLNmxSdU9kNGJDR0tJR3lKZjN2emxrUQ?oc=5"
  },
  {
   "id": "f2dcce47ae",
@@ -80925,6 +80961,27 @@
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOampyR0Qtd1h1YWd2dTlsRFF1QXp5a2pqNGswRHU4dHphZDRMblRpOTA4Y0p6ZkFYOVV3WTRrU2djWnhLUmxjblcwYWRRcUtCSjZNTjAyWFp5OWUyQlpFYkI4R1hYcWdaT3FOY2Z6N1FBNzNYaGRtRmw2aXVGZFhLbW15NGswUDVSc0pualpaMmd4dm4wbVdOUi1WLWlEZG9yLWxQX3ZoX0FnY0xyRzY0?oc=5"
  },
  {
+  "id": "8e8eeb615b",
+  "datum": "2025-01-28",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Franse justitie start onderzoek naar witwassen bij cryptoplatform Binance",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "witwassen"
+  ],
+  "samenvatting": "Franse justitie start onderzoek naar witwassen bij cryptoplatform Binance NOS",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPendmaExyYmFOR0tYT2lHWnl6VjQ2cnZXZzZSbzBBaE8yRGc0VGtES3RmaVFpTEExZkhVTXdiR1g0WmFWbkVKbThDRldsa3BNaDJ4Qk96LTB5VXhzUXlUVGdLb1RVQUNtcndrSVV5ZWdlZ18tbFRQZnFHY2hzdUlYLVh1WDZVMXRDUGZhcFFraGlBdnlnSnlVRGhWZlJlWTJCckdENDN3QQ?oc=5"
+ },
+ {
   "id": "69f25dce2a",
   "datum": "2025-01-26",
   "tijd": "08:00",
@@ -82337,6 +82394,28 @@
   ],
   "samenvatting": "Acht burgemeesters in Noord-Limburg hebben hun samenwerking in de strijd tegen ondermijning verder verstevigd Venlo.nieuws.nl",
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNDQ4bFNLNHRlbHlQdVdOV1hod2h5SHVXdXZWZGQzQ01MNW9ONG1kcTNDUVpfSUJoeW15aUI2NHBVTE0zWDlEMDVIdnB0RUFZVUZINzZRM1A1U2cwRUFNUDlNNXh1QmhmeklHUUFCaEg0UmpjNDVURlJuQU1JTVpUWDE2V2sxUGtHWURTVEJFWmdFRXZsSTBXd0JhM21LU0k2VW5mQVpXNFBma1V3Nk5LWEYwd2lxZGMtUmxHSy1XNFRwY3E0bmdtMzNiRkxyQWpsbFAwWGk3NGVYZw?oc=5"
+ },
+ {
+  "id": "0743786cb5",
+  "datum": "2024-11-01",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Corruptiezaak rond Rotterdamse ambtenaar Rudy de B. groter dan gedacht, mogelijk steekpenningen betaald - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Corruptie & integriteit",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie",
+   "grond"
+  ],
+  "samenvatting": "Corruptiezaak rond Rotterdamse ambtenaar Rudy de B. groter dan gedacht, mogelijk steekpenningen betaald NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLTdhaEM0NzhobVYwZEtERUhLeHpxa0dsRERqZ3hVSVhHVjNaekR6ZG43QVNCMV9RQlZzb2ZNOGhaaXJWeVdSSzU1YXBVYUZJb01tZTBLM1VLbVA1ZVRiTUZDaklCM0JKcmJucmp3M3IxelFKbk9XQ215ZjVYTXpqYVdqYWRTN3BnUlBOXzZKSlM3SjhQVm5DNDRTRW9UVWNYeGlMZ1lEVWxzai1mcXpHanRKandYWEJzM2JfdF9aeFZPTVBqWDg5RDFxOWNqc2ZGdXVrdDRidE9QVXJQZmtNUA?oc=5"
  },
  {
   "id": "a68d5b7501",
@@ -99030,6 +99109,25 @@
   ],
   "samenvatting": "Miljoenen voor strijd tegen criminele ondermijning AD.nl",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWFFLbHhfQjhUMHpka3NSYVRXR3BBUlFlQS1oc1dpSHlGWTRvZzk0RFF6UTFGMy00S2ZZdWdxSG5GNDNpVDJXbzdpazFFYjd3aWNFaDVZNk10VjNsVE51N2JzaUJMd09NeER6SGx5VktpcUVsZGtZR3IzZGM5RmMwdzBwUlhIc0g1NFItVFJBVHZTZzQ?oc=5"
+ },
+ {
+  "id": "382563e0d5",
+  "datum": "2018-12-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "OM wil 22 miljoen van Eindhovense huisjesmelker",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Vastgoed & huisvesting",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "huisjesmelker"
+  ],
+  "samenvatting": "OM wil 22 miljoen van Eindhovense huisjesmelker De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDU0emhuXzVSSHNMb0tfREhjLWRmYUQ0TWpMQzBQeThxUDNSZFotSnZ1Zm9JSXI5dVNQWVNHOEVLWUpsSEJ5ZVdkTHZRcTBHQ3VXd3dvMDgtTmhXQ1RjLVBuVUphVExMdUJlQWMtRWh3cGc1UXFHTFVheEhGMXA3dEFaejVmeEdfTmdfRnZYc1RnZGNCVWR5SWlRZw?oc=5"
  },
  {
   "id": "b80e22339d",
