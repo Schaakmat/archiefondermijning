@@ -1,5 +1,43 @@
 [
  {
+  "id": "9d819a0411",
+  "datum": "2026-10-31",
+  "tijd": "21:33",
+  "nieuw": true,
+  "titel": "Sovjet Ereveld in Leusden opnieuw beklad, leuzen tegen communisten",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "Het Sovjet Ereveld in Leusden is opnieuw beklad. Het oorlogsmonument en de gedenkmuur zijn met verf besmeurd, laat de Stichting Sovjet Ereveld weten op zijn website . Op de gedenkmuur staan teksten met rode verf, op het monument, een obelisk, staan zwarte teksten. Er staat onder meer \"Not against Russians, but against ",
+  "link": "https://nos.nl/l/2637514"
+ },
+ {
+  "id": "e624dda17c",
+  "datum": "2026-10-31",
+  "tijd": "20:37",
+  "nieuw": true,
+  "titel": "Zwijndrechtse jongeren aangehouden bij onrust in Den Haag",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "De politie heeft zaterdag jongeren uit onder andere Zwijndrecht aangehouden. Dat gebeurde tijdens de aangekondigde protesten in Den Haag. In totaal werden er 34 mensen aangehouden, vooral minderjarigen tussen de 15 en 18 jaar.",
+  "link": "https://www.rijnmond.nl/nieuws/2275783/zwijndrechtse-jongeren-aangehouden-bij-onrust-in-den-haag"
+ },
+ {
   "id": "2250ca3ff6",
   "datum": "2026-10-31",
   "tijd": "18:23",
@@ -17,6 +55,27 @@
   ],
   "samenvatting": "Met de Police Experience Day werft de politie nieuwe collega's.",
   "link": "https://www.omroepzeeland.nl/nieuws/18907968/politie-werft-in-nieuwdorp-nieuwe-collegas-met-de-police-experience-day"
+ },
+ {
+  "id": "7b2bd37f45",
+  "datum": "2026-10-31",
+  "tijd": "17:08",
+  "nieuw": true,
+  "titel": "Politie schiet gericht op gewelddadige overvallers, één verdachte geraakt",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "geweld",
+   "pand"
+  ],
+  "samenvatting": "Aan de Berkenwoudestraat in Rotterdam-IJsselmonde heeft zaterdagmiddag een gewelddadige overval plaatsgevonden. Een groep van meerdere gemaskerde mannen hebben een bedrijfspand overvallen en daarbij twee personen in elkaar geslagen. Later werden twee van de overvallers tegengehouden door de politie. Daarbij is ook geri",
+  "link": "https://www.rijnmond.nl/nieuws/2275763/politie-schiet-gericht-op-gewelddadige-overvallers-een-verdachte-geraakt"
  },
  {
   "id": "73f65c634c",
@@ -138,6 +197,44 @@
   "link": "https://www.rijnmond.nl/nieuws/2275734/auto-klapt-op-omhoogkomende-poller-twee-rotterdammers-aangehouden-voor-fietsendiefstallen"
  },
  {
+  "id": "c499787189",
+  "datum": "2026-10-31",
+  "tijd": "13:39",
+  "nieuw": true,
+  "titel": "Zwijndrechtse jongeren aangehouden bij onrust in Den Haag | Auto klapt op omhoogkomende poller",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van zaterdag 31 oktober.",
+  "link": "https://www.rijnmond.nl/nieuws/2275734/zwijndrechtse-jongeren-aangehouden-bij-onrust-in-den-haag-auto-klapt-op-omhoogkomende-poller"
+ },
+ {
+  "id": "a990152d62",
+  "datum": "2026-10-31",
+  "tijd": "13:12",
+  "nieuw": true,
+  "titel": "Migrantenboot duikt op voor Zeeuwse kust: twee arrestaties wegens mensensmokkel",
+  "bron": "Headliner.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Migrantenboot duikt op voor Zeeuwse kust: twee arrestaties wegens mensensmokkel Headliner.nl",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdE9FWjZ5SW1Zbkt0NnA0c0F1ZFh4dW9sQm1qcFlpSmFQYm5UMC1PMFBLWkVlelQ5N0N5enhDVUVNT21WSW1XdXZoRzAyOTFBMEFzZ3ZMeHhpaGRWVFRIZFNsWFJPMjBXcjlieU0wSlJpOGpTbHRSYkFZZTluZmp0T3JzLUFiU2xfMjJHVG9ETVlGeFU2bThMQUNjcjJOZUFjYm9YdzFBa1VLdWtRaVl0ZzVFMUlzSjVyWWNHaTFtREFMcHkw?oc=5"
+ },
+ {
   "id": "88802588ab",
   "datum": "2026-10-31",
   "tijd": "13:07",
@@ -160,7 +257,7 @@
   "id": "ed322a2844",
   "datum": "2026-10-31",
   "tijd": "12:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hulpdiensten rukken uit voor boot voor Zeeuwse kust, twee opvarenden aangehouden wegens mensensmokkel",
   "bron": "de Volkskrant",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -179,7 +276,7 @@
   "id": "f6eed1eab0",
   "datum": "2026-10-31",
   "tijd": "12:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Twintiger verdacht van verkrachting minderjarigen in Almere: celstraf geëist",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -198,7 +295,7 @@
   "id": "208e11a9a8",
   "datum": "2026-10-31",
   "tijd": "11:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "38 personen van rubberen boot gehaald, twee aanhoudingen voor mensensmokkel in Cadzand-Bad",
   "bron": "Omroep ZVL",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -431,6 +528,25 @@
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnRjck5mY0RSZW9ZTHN4WGdDSDZJVGFjWlVyeVh5ZTNnMno2WmJWdFdicl9WNmVUZWxmZDZubDVaYXpTUzdwbUktOHhicENFN1E5eHN3am5nMHVIbW8yRWFvM1V3RlhUUGg2ZTF6R3VCeE5zOUw3QlFkSGNuc0RYdkJEU0NEUTA5RW1fZDZ4WkpfMXNVMmhLMWZVekNsaGdrT2NfM3NORDFOeVpUQ2wyeEo2N3hFZw?oc=5"
  },
  {
+  "id": "96e60d36e0",
+  "datum": "2026-10-31",
+  "tijd": "08:32",
+  "nieuw": false,
+  "titel": "Twee opvarenden migrantenboot Zeeland opgepakt voor mensensmokkel",
+  "bron": "De Dagelijkse Standaard",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Twee opvarenden migrantenboot Zeeland opgepakt voor mensensmokkel De Dagelijkse Standaard",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0JEbThoZnFwZGIwUTZvWVFjUm9PTEk0eVhOeGdPNWE5SUtydjJzeHFqejRPdVZUZjlUWVRGOGU1RXZYd1RWQ29PUnVmR2FrdnFodGJGY01PWUQtVHQyVGpDM0h0cF9NY2d1VjBfamZwM3VaRjMySVdzTUZEZWN5ZW9UeDduM0VZaDZULWJGd2YxWUttVTF4eXhDTTB6YmpFSlByMUVhRGpyYzA?oc=5"
+ },
+ {
   "id": "2403c82b37",
   "datum": "2026-10-31",
   "tijd": "07:59",
@@ -564,6 +680,25 @@
   ],
   "samenvatting": "38 vluchtelingen van rubberboot gehaald in Cadzand, twee arrestaties voor mensensmokkel pzc.nl",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUlY0TE01dkFMVmhESHVXMGNHakFMNEtYVXN5SUZIOEVTNUFndnJxb0pTdjJqcDRzakQtaVRzNVVhTE51MDJOaW14RFM4SEZzUmxGQU5tVGxxYXVrRDAyam5tS0RhbmJnN01DZUdveXJlQnk2RTE4eWF5UkRWZW96YTlTd0EyZ0tYY1dpSUFVUWxYQ2I1RU9MQ1h2dDBLR0JLOEFMY0FRVUlFdEttTG1uNHpJN1FvUmt5SFVSV2s5dWR5OWQ0WXVLOEF2SGtfUQ?oc=5"
+ },
+ {
+  "id": "ca6f29b5d0",
+  "datum": "2026-10-31",
+  "tijd": "07:38",
+  "nieuw": false,
+  "titel": "Twee opvarenden van bootje vol vluchtelingen bij Cadzand aangehouden voor mensensmokkel",
+  "bron": "pzc.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Twee opvarenden van bootje vol vluchtelingen bij Cadzand aangehouden voor mensensmokkel pzc.nl",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ0tfVkVkb0ZvWFF2X3dHN0lBVG1IU3pELTYzY0VOUWlLb2NXcHB2ODB6WTZ1QzRtQjBMQVkwMmxzRnYzbzI3ZFloZlNKZ2NfZU1aZ19VUWoxZllWX3FfWGVLQnNKbjdCMXJnMGlnWUFNOHFxU1VhdzZ6cm13OF8zdVJrY00zZENTcmRleVZONUo2MU9nYTR5MEZYUkNsUEV0SzNMM21QbmlFWm9mbWZleDBEenptN2EyQlN2ZWE5TzZaaXNZZGdaanZPbXRiU1lJ?oc=5"
  },
  {
   "id": "bb7b7547ac",

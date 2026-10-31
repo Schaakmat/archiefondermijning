@@ -1,12 +1,12 @@
 {
- "run": "20:14",
+ "run": "23:36",
  "datum": "2026-10-31",
- "nieuw": 11,
- "totaal": 5204,
- "verwijderd": 8,
+ "nieuw": 13,
+ "totaal": 5211,
+ "verwijderd": 6,
  "geweigerd": {
-  "niet-nederlands": 878,
-  "geen dossier": 455
+  "niet-nederlands": 732,
+  "geen dossier": 410
  },
  "bronnen": [
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 373,
-   "status": "4 nieuw",
+   "items": 376,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 144,
-   "status": "2 nieuw",
+   "items": 145,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 327,
-   "status": "bij",
+   "items": 330,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 65,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
