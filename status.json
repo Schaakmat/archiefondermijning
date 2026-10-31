@@ -1,12 +1,12 @@
 {
- "run": "15:59",
+ "run": "20:14",
  "datum": "2026-10-31",
- "nieuw": 33,
- "totaal": 5201,
- "verwijderd": 10,
+ "nieuw": 11,
+ "totaal": 5204,
+ "verwijderd": 8,
  "geweigerd": {
-  "niet-nederlands": 817,
-  "geen dossier": 425
+  "niet-nederlands": 878,
+  "geen dossier": 455
  },
  "bronnen": [
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 193,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 369,
-   "status": "14 nieuw",
+   "items": 373,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 174,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -339,7 +339,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 38,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 280,
-   "status": "4 nieuw",
+   "items": 278,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 327,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -527,7 +527,7 @@
    "url": "www.omroepzeeland.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 64,
+   "items": 65,
    "status": "1 nieuw",
    "ok": true
   },
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 219,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {

@@ -1,5 +1,82 @@
 [
  {
+  "id": "2250ca3ff6",
+  "datum": "2026-10-31",
+  "tijd": "18:23",
+  "nieuw": true,
+  "titel": "Politie werft in Nieuwdorp nieuwe collega's met de Police Experience Day",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "erf"
+  ],
+  "samenvatting": "Met de Police Experience Day werft de politie nieuwe collega's.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18907968/politie-werft-in-nieuwdorp-nieuwe-collegas-met-de-police-experience-day"
+ },
+ {
+  "id": "73f65c634c",
+  "datum": "2026-10-31",
+  "tijd": "17:02",
+  "nieuw": true,
+  "titel": "Schuur vliegt in brand, buurtbewoners grijpen direct in met tuinslang",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk",
+   "wapen"
+  ],
+  "samenvatting": "Twee buurtbewoners schoten zaterdagmiddag meteen te hulp toen een schuurtje aan de Willem Barentzstraat in Breda in brand vloog. Gewapend met een tuinslang probeerden ze het vuur zelf te blussen, maar door de flinke rookontwikkeling moesten ze daarmee stoppen toen de brandweer arriveerde. De brand ontstond in een schuu",
+  "link": "https://www.omroepbrabant.nl/nieuws/6033180/schuur-vliegt-in-brand-buurtbewoners-grijpen-direct-in-met-tuinslang"
+ },
+ {
+  "id": "c3e451c2aa",
+  "datum": "2026-10-31",
+  "tijd": "16:54",
+  "nieuw": true,
+  "titel": "Opvarenden rubberboot Breskens komen uit Afghanistan, twee Soedanezen verdacht van mensensmokkel",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Opvarenden rubberboot Breskens komen uit Afghanistan, twee Soedanezen verdacht van mensensmokkel Omroep Zeeland",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeDIwRTBLTjNEQTk0eWJGeWVlekZFdDl0RUdBS0tYZ1BPcVZjbTR1MDlnQVlmMzhfUGttbFgwR2IzN2MtUlhKZzMyY1BJWG1qN2kyaWYxNVMxbjhGem9UTC1aT2ZFbEpRY05XTXlUaWxjV3ZRQ3lPNHNpVTEzcXZicEItRGI1ZzA3dzljWk9wVzV5Qkt1WER1UHNvYWFWUFRLNVRlaU1ObVMtb2h1N25KMVBCZDZqRkxxazBjRXE1Tkl5Y0lJT0JZaEViX2xVQnJGcGpLMW1fQQ?oc=5"
+ },
+ {
+  "id": "97bf03582f",
+  "datum": "2026-10-31",
+  "tijd": "16:16",
+  "nieuw": true,
+  "titel": "Verdachten mensensmokkel met bootje bij Cadzand zijn Soedanees, migranten Afghaans",
+  "bron": "RTL.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Verdachten mensensmokkel met bootje bij Cadzand zijn Soedanees, migranten Afghaans RTL.nl",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPXzM3TENXVG16eTc5bjNoLThFTkVmR2RwbDJsLUhhSmlnWW9TVmtnZm0zQnRaZ3luQ3FYRlVpRU50dUkyVmQ4YnZlcUVfT0pMbFF5blZfVmZTNFZKSHNLZDNmX2xLbWJUV0hjU1JMSktvbWxrcktYV1F1dzhVbThPcWZEQ1A2LUpXTkcyTGk5Ymt0dm1DSVhWazlaSzdwQU5DZ0lDbGpaWndFU2dNQzYw?oc=5"
+ },
+ {
   "id": "7e6508cadf",
   "datum": "2026-10-31",
   "tijd": "15:37",
@@ -140,7 +217,7 @@
   "id": "c42211e79b",
   "datum": "2026-10-31",
   "tijd": "11:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rubberboot met 38 opvarenden onderschept voor kust Breskens; twee aanhoudingen voor mensensmokkel",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -159,7 +236,7 @@
   "id": "0b586211ba",
   "datum": "2026-10-31",
   "tijd": "10:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "- Nog geen duidelijkheid over laatste schadevergoedingen voor bouw Windplan Groen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -182,7 +259,7 @@
   "id": "026e65a43c",
   "datum": "2026-10-31",
   "tijd": "10:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rubberboot met vluchtelingen onderschept bij Breskens, twee aanhoudingen voor mensensmokkel",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -201,7 +278,7 @@
   "id": "fffff2e144",
   "datum": "2026-10-31",
   "tijd": "10:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gevangenis Vught blijft risicogebied: politie mag blijven fouilleren",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -224,7 +301,7 @@
   "id": "8f60068f81",
   "datum": "2026-10-31",
   "tijd": "10:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "38 migranten van rubberboot gehaald in Cadzand, twee arrestaties voor mensensmokkel",
   "bron": "pzc.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -243,7 +320,7 @@
   "id": "06dd4db18b",
   "datum": "2026-10-31",
   "tijd": "10:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "38 vluchtelingen van rubberboot gehaald in Cadzand, twee arrestaties voor mensensmokkel",
   "bron": "Brabants Dagblad",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -262,7 +339,7 @@
   "id": "2cd73ce8cd",
   "datum": "2026-10-31",
   "tijd": "10:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "38 vluchtelingen van rubberboot gehaald in Cadzand, twee arrestaties voor mensensmokkel",
   "bron": "pzc.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -281,7 +358,7 @@
   "id": "00fc995f62",
   "datum": "2026-10-31",
   "tijd": "10:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rubberboot met 38 opvarenden onderschept voor kust Breskens; twee aanhoudingen voor mensensmokkel",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -297,10 +374,29 @@
   "link": "https://www.omroepzeeland.nl/nieuws/18907629/rubberboot-met-38-opvarenden-onderschept-voor-kust-breskens-twee-aanhoudingen-voor-mensensmokkel"
  },
  {
+  "id": "012f7a4129",
+  "datum": "2026-10-31",
+  "tijd": "09:50",
+  "nieuw": false,
+  "titel": "Nog volop raadsels over rubberboot in Cadzand met 38 vluchtelingen: twee Soedanese mensensmokkelaars opgepakt",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Nog volop raadsels over rubberboot in Cadzand met 38 vluchtelingen: twee Soedanese mensensmokkelaars opgepakt De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOajJwQkJKbFFXZG5KZFUzM1RJYjVMS2hKSTlmdHI1SkJaM2FQQjBjY01NUHNXMi1WbzBaajQtQUFyc2VKNDh1cTVUbENTSWFBRTg2R19FUm9RYlUxUk1wd0JxNFY1OTFlUTlNVWVtdmY0UVBfUU1RV3FDOUcxLXVQUmtvQjlRa2hqMlBIa0s1Zzl0QU1teWpNQXFHeDVUOVI0c0REWVI4TlV1YzV1aFJuWV9BYjZNUE5nd1doLS0taFZYREpCOGJaY1d6TjJvT1d3NEVwcXdSYWw3OS1acDJFZlZrUmFILTVIV0FSTkxFUlk?oc=5"
+ },
+ {
   "id": "9267ec12ec",
   "datum": "2026-10-31",
   "tijd": "09:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rubberboot met 38 vluchtelingen onderschept bij Breskens, twee aanhoudingen voor mensensmokkel",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -319,7 +415,7 @@
   "id": "c410c2474e",
   "datum": "2026-10-31",
   "tijd": "08:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "38 mensen gered voor de kust van Cadzand, 2 man aangehouden voor mensensmokkel",
   "bron": "RTL.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -338,7 +434,7 @@
   "id": "2403c82b37",
   "datum": "2026-10-31",
   "tijd": "07:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Automobilist raakt van de weg en komt tot stilstand op andere weghelft",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -359,7 +455,7 @@
   "id": "668ba99e4b",
   "datum": "2026-10-31",
   "tijd": "07:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ongeneeslijk zieke hoogleraar Jan Rotmans laat 'AI-tweeling' van zichzelf maken",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -378,7 +474,7 @@
   "id": "ace28c4221",
   "datum": "2026-10-31",
   "tijd": "07:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "38 vluchtelingen op rubberboot voor Zeeuwse kust, twee aangehouden voor mensensmokkel",
   "bron": "HVZeeland",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -397,7 +493,7 @@
   "id": "f6cb789d0c",
   "datum": "2026-10-31",
   "tijd": "07:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "38 vluchtelingen op rubberboot voor Zeeuwse kust, twee aangehouden voor mensensmokkel",
   "bron": "HVZeeland",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -413,10 +509,29 @@
   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUdSOTA1X0xYZzhsaVpMdDlRcmFxd2Z2cWJfSGhEMEFwWlo3VllrbHRvM3NsbllUU1ZYWnNjTzVObXBCUnBMYnpXSC1JUUxoU25KS25aYlJZdjh5eUdUc2dsT0wyQzkteWhTSnJNaGVpekktYjF0d1ZVOFRCVnhhamczQ2tKanlULW1ZRjdCajVNZy1lOVB4cGlFT2ZBUHZwTWd4eE5ycm5DcmhrOTEwTlVabUxwMk4ybVpoeDVTZ0l1cFJsaUpRWUlyeE5DemRz?oc=5"
  },
  {
+  "id": "e3388e619f",
+  "datum": "2026-10-31",
+  "tijd": "07:41",
+  "nieuw": false,
+  "titel": "38 vluchtelingen op rubberboot voor Zeeuwse kust, twee aangehouden voor mensensmokkel",
+  "bron": "HVZeeland",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "38 vluchtelingen op rubberboot voor Zeeuwse kust, twee aangehouden voor mensensmokkel HVZeeland",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEJmN3FsNEhaUGdXc2gwdDJKbWUwenZzS2tvWWJfRHJTNHBMU1JSd29zaHlVVFBSZmJHN1NkdjZXclVkY0JHamFicDJlckM5T3NxeEVmX2JMNEhDM2lfWTlkVF9SRTFlTWxkaHFHd3VnUGx0c0NrZlI4Mjd5c2NaQU1oTWg1cnpkSS1KTGVsTHR3WEU0NjNWeHJTUUxYRkZUOUJobjVUMFR3ZHFjSUt0dFhxVU5lWVNVczNFajBZS0s1amZOSUtFT21NbW00VHRk?oc=5"
+ },
+ {
   "id": "81c2041468",
   "datum": "2026-10-31",
   "tijd": "07:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee opvarenden van bootje vol vluchtelingen bij Cadzand aangehouden voor mensensmokkel",
   "bron": "pzc.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -435,7 +550,7 @@
   "id": "16ee3ca578",
   "datum": "2026-10-31",
   "tijd": "07:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "38 vluchtelingen van rubberboot gehaald in Cadzand, twee arrestaties voor mensensmokkel",
   "bron": "pzc.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -454,7 +569,7 @@
   "id": "bb7b7547ac",
   "datum": "2026-10-31",
   "tijd": "07:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stekker uit Arnhems zorgbedrijf na verdenkingen van zorgfraude: 30 cliënten vinden elders onderdak",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -473,7 +588,7 @@
   "id": "3f5711776f",
   "datum": "2026-10-31",
   "tijd": "07:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stekker uit Arnhems zorgbedrijf na verdenkingen van zorgfraude: 30 cliënten vinden elders onderdak",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -492,7 +607,7 @@
   "id": "b5cf6d5fd0",
   "datum": "2026-10-31",
   "tijd": "07:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stekker uit Arnhems zorgbedrijf na verdenkingen van zorgfraude: 30 cliënten krijgen elders zorg",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -511,7 +626,7 @@
   "id": "aab527c205",
   "datum": "2026-10-31",
   "tijd": "06:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gevluchte Flávio Bolsonaro zegt slachtoffer te zijn van vervolging, negeert onderzoeken naar witwassen en corruptie",
   "bron": "Het Parool",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -532,7 +647,7 @@
   "id": "dc5f84275b",
   "datum": "2026-10-31",
   "tijd": "06:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Actie voor behoud Zwolse jeugdtuinen werpt vruchten af",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -551,7 +666,7 @@
   "id": "bfe3658b46",
   "datum": "2026-10-31",
   "tijd": "05:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Weer een ontploffing bij een huis in Helmond: 'Ik zat rechtop in bed'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -567,29 +682,10 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6033151/weer-een-ontploffing-bij-een-huis-in-helmond-ik-zat-rechtop-in-bed"
  },
  {
-  "id": "5a2aaa3432",
-  "datum": "2026-10-31",
-  "tijd": "04:57",
-  "nieuw": true,
-  "titel": "Twee mannen gewond bij steekpartij Helmond, verdachte (21) aangehouden",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "woning"
-  ],
-  "samenvatting": "Bij een steekpartij in een appartement aan het Soesterbergplein in Helmond zijn vrijdagavond laat twee mannen gewond geraakt. De politie hield kort daarna een 21-jarige man zonder vaste woon- of verblijfplaats aan. Hij zit vast en wordt verhoord. Volgens de politie hadden de betrokkenen kort voor de steekpartij vermoed",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033149/twee-mannen-gewond-bij-steekpartij-helmond-verdachte-21-aangehouden"
- },
- {
   "id": "4eccfd9f25",
   "datum": "2026-10-31",
   "tijd": "04:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gevluchte Flávio Bolsonaro zegt slachtoffer te zijn van ‘vervolging’, negeert onderzoeken naar witwassen en corruptie",
   "bron": "HLN",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -610,7 +706,7 @@
   "id": "8260c7f53f",
   "datum": "2026-10-30",
   "tijd": "22:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugslab met 6 miljoen xtc-pillen lijkt familieaangelegenheid: naast twee broers is ook vader verdachte",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -629,7 +725,7 @@
   "id": "80d2be6c51",
   "datum": "2026-10-30",
   "tijd": "22:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vughtenaar aangehouden op verdenking van mensenhandel",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -839,52 +935,6 @@
   ],
   "samenvatting": "In een groot onderzoek naar fietsendiefstallen in Putten zijn vier verdachten aangehouden. Het gaat om mannen van 23, 29, 34 en 36 jaar. Twee van hen komen uit Rotterdam, van de andere twee is de woonplaats niet bekend.",
   "link": "https://www.gld.nl/nieuws/8541812/vier-fietsendieven-gesnapt-busje-navigeerde-naar-buitenland"
- },
- {
-  "id": "5ecbf97ef1",
-  "datum": "2026-10-30",
-  "tijd": "17:30",
-  "nieuw": false,
-  "titel": "Deze megabatterijen moeten een heel dorp behoeden voor winter zonder stroom",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "buitengebied",
-   "container",
-   "netwerk",
-   "vergunning"
-  ],
-  "samenvatting": "In het groene buitengebied van Reusel staan sinds kort vijf containers met grote mobiele batterijen, die ervoor moeten zorgen dat de inwoners en bedrijven op koude winterse dagen niet zonder stroom komen te zitten. En dat is pure noodzaak, omdat het elektriciteitsnet in Reusel de maximale grens heeft bereikt. Hierdoor ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033098/deze-megabatterijen-moeten-een-heel-dorp-behoeden-voor-winter-zonder-stroom"
- },
- {
-  "id": "1918688d67",
-  "datum": "2026-10-30",
-  "tijd": "17:15",
-  "nieuw": false,
-  "titel": "Gewonden bij crash auto, voorbijganger haalt pylonen van weginspecteur weg",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Milieucriminaliteit & afval",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder",
-   "grond"
-  ],
-  "samenvatting": "Twee inzittenden van een auto zijn vrijdagmiddag op de Veerweg in Oeffelt gewond geraakt nadat de auto tegen een boom belandde. Daarbij reed de automobilist een lantaarnpaal uit de grond. Een fietser bood eerste hulp aan de automobilist en bijrijder. De auto raakte flink beschadigd. Het ongeluk zorgt voor een lange fil",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033130/gewonden-bij-crash-auto-voorbijganger-haalt-pylonen-van-weginspecteur-weg"
  },
  {
   "id": "40bf7943af",
