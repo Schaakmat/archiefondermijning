@@ -1,5 +1,77 @@
 [
  {
+  "id": "2f75ab57b6",
+  "datum": "2026-11-01",
+  "tijd": "21:20",
+  "nieuw": true,
+  "titel": "Noordoostpolder - Grote witwasoperatie van miljoenen via sportstichting Kraggenburg voor de rechter",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Trustkantoren & rechtspersonen",
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "bestuurder",
+   "bv",
+   "grond",
+   "notaris",
+   "vastgoed",
+   "vennootschap"
+  ],
+  "samenvatting": "Bijna tien jaar na het omvallen van de Twentse projectontwikkelaar Megahome start maandag de inhoudelijke behandeling van de strafzaak tegen eigenaar Willy W. uit Zenderen en zijn voormalige directeur Adri N. uit Kraggenburg. Het Openbaar Ministerie verdenkt hen onder meer van witwassen van 29 miljoen euro en belasting",
+  "link": "https://www.omroepflevoland.nl/nieuws/529346/grote-witwasoperatie-van-miljoenen-via-sportstichting-kraggenburg-voor-de-rechter"
+ },
+ {
+  "id": "ab5c6ea346",
+  "datum": "2026-11-01",
+  "tijd": "20:45",
+  "nieuw": true,
+  "titel": "Al lang gedoe rond ’t Uilennest: cafébaas en bendeleden nu voor rechter",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Criminele samenwerkingsverbanden",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "bende",
+   "burgemeester",
+   "motorclub",
+   "satudarah",
+   "vergunning",
+   "witwassen"
+  ],
+  "samenvatting": "Gebeurde er iets strafbaars bij café ’t Uilennest in Tilburg? Die vraag staat maandag en dinsdag centraal in de rechtbank. Dertien oud-leden van Satudarah en de eigenaar van de kroeg staan terecht, omdat ze illegale clubavonden zouden hebben gehouden. Maar komt er nu dan eindelijk duidelijkheid over de toekomst van het",
+  "link": "https://www.omroepbrabant.nl/nieuws/6033217/al-lang-gedoe-rond-t-uilennest-cafebaas-en-bendeleden-nu-voor-rechter"
+ },
+ {
+  "id": "4759df63c5",
+  "datum": "2026-11-01",
+  "tijd": "20:11",
+  "nieuw": true,
+  "titel": "Conflict in woonwijk escaleert: auto op z'n kant, bestuurder aangehouden",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een auto is bij een verkeersongeval in de Hertog Arnoudstraat in Velp gekanteld. Volgens een 112-verslaggever ter plaatse ontstond rondom het ongeluk een vechtpartij.",
+  "link": "https://www.gld.nl/nieuws/8542379/conflict-in-woonwijk-escaleert-auto-op-zn-kant-bestuurder-aangehouden"
+ },
+ {
   "id": "59af5dae0b",
   "datum": "2026-11-01",
   "tijd": "19:59",
@@ -17,6 +89,45 @@
   ],
   "samenvatting": "Stichting Wolven Belangen heeft in Zweden beroep aangetekend tegen het doodschieten van 72 wolven. Ook eist de Nederlandse stichting dat er in afwachting van een oordeel van de rechtbank niet op wolven wordt gejaagd. Dit jaar namen vijf Zweedse districtsbesturen het besluit om in 2027 gezamenlijk 72 wolven af te schiet",
   "link": "https://nos.nl/l/2637654"
+ },
+ {
+  "id": "a97bd99929",
+  "datum": "2026-11-01",
+  "tijd": "19:54",
+  "nieuw": true,
+  "titel": "Explosie bij voordeur in Maassluis",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "vuurwerk"
+  ],
+  "samenvatting": "In Maassluis is zondagavond een explosie geweest bij een voordeur. Volgens de politie is er zwaar vuurwerk gebruikt, mogelijk is dit door de brievenbus gestopt. De bewoners waren thuis, maar niemand raakte gewond.",
+  "link": "https://www.rijnmond.nl/nieuws/2276146/explosie-bij-voordeur-in-maassluis"
+ },
+ {
+  "id": "5573079245",
+  "datum": "2026-11-01",
+  "tijd": "19:40",
+  "nieuw": true,
+  "titel": "Overleden vrouw gevonden in huis in Tilburg, mogelijk misdrijf",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "De politie heeft zondag in een woning aan de Berkenrodelaan in Tilburg het lichaam van een vrouw gevonden. Zij is mogelijk om het leven gekomen door een misdrijf, meldt een politiewoordvoerder. De politie doet onderzoek in en om de woning. Volgens de woordvoerder werd de vrouw aan het eind van de ochtend gevonden. In d",
+  "link": "https://www.omroepbrabant.nl/nieuws/6033216/overleden-vrouw-gevonden-in-huis-in-tilburg-mogelijk-misdrijf"
  },
  {
   "id": "4149ae35da",
@@ -184,7 +295,7 @@
   "id": "7a6fdd8d8d",
   "datum": "2026-11-01",
   "tijd": "12:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "22 wapens gevonden bij preventieve fouilleeractie in binnenstad Enschede",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -203,7 +314,7 @@
   "id": "fd078c6a89",
   "datum": "2026-11-01",
   "tijd": "11:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gewonden bij vecht- en steekpartij in bus in Breda, jongen van 17 opgepakt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -222,7 +333,7 @@
   "id": "a8f9600ca8",
   "datum": "2026-11-01",
   "tijd": "10:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explosie na explosie in Arnhem, maar politie kan nog niets zeggen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -243,7 +354,7 @@
   "id": "078117643c",
   "datum": "2026-11-01",
   "tijd": "10:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Arnhem zit na reeks explosies nog altijd met veel vragen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -264,7 +375,7 @@
   "id": "c884e1e3d7",
   "datum": "2026-11-01",
   "tijd": "10:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Oplichter achter Lelystadse nep-bitcoinfabriek heeft uitgebreid witwas-verleden",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -286,7 +397,7 @@
   "id": "5ac824f7ba",
   "datum": "2026-11-01",
   "tijd": "08:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Ministerie: geen nachtvluchten bij Lelystad Airport",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -306,7 +417,7 @@
   "id": "0b9684ba0c",
   "datum": "2026-11-01",
   "tijd": "08:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flinke schade nadat politieauto inhaalt en op kerende auto botst in Tilburg",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -325,7 +436,7 @@
   "id": "c216594102",
   "datum": "2026-11-01",
   "tijd": "07:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wekdienst 1/11: Kunstwerk in Amsterdam voor kindslachtoffers Gaza • Eerste marathon van Den Haag",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -348,7 +459,7 @@
   "id": "3ed0aff999",
   "datum": "2026-11-01",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Podcast | ‘We hebben van de jeugdzorg een jungle gemaakt,’ zegt Kinder­ombudsman Margrite Kalverboer",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -463,26 +574,6 @@
   ],
   "samenvatting": "Aan de Berkenwoudestraat in Rotterdam-IJsselmonde heeft zaterdagmiddag een gewelddadige overval plaatsgevonden. Een groep van meerdere gemaskerde mannen hebben een bedrijfspand overvallen en daarbij twee personen in elkaar geslagen. Later werden twee van de overvallers tegengehouden door de politie. Daarbij is ook geri",
   "link": "https://www.rijnmond.nl/nieuws/2275763/politie-schiet-gericht-op-gewelddadige-overvallers-een-verdachte-geraakt"
- },
- {
-  "id": "73f65c634c",
-  "datum": "2026-10-31",
-  "tijd": "17:02",
-  "nieuw": false,
-  "titel": "Schuur vliegt in brand, buurtbewoners grijpen direct in met tuinslang",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "vuurwerk",
-   "wapen"
-  ],
-  "samenvatting": "Twee buurtbewoners schoten zaterdagmiddag meteen te hulp toen een schuurtje aan de Willem Barentzstraat in Breda in brand vloog. Gewapend met een tuinslang probeerden ze het vuur zelf te blussen, maar door de flinke rookontwikkeling moesten ze daarmee stoppen toen de brandweer arriveerde. De brand ontstond in een schuu",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033180/schuur-vliegt-in-brand-buurtbewoners-grijpen-direct-in-met-tuinslang"
  },
  {
   "id": "c3e451c2aa",
@@ -1876,6 +1967,29 @@
   ],
   "samenvatting": "Huur­der van drugslab in Kort­rijk is beken­de voor het gerecht: man uit Moen blijft aangehouden Focus en WTV",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOalpYOWdCeGphNGdvT1cyRHhMVjlWYkcyaElnRS1ZUWxQZldzcnM0T0pXQkVtTzRJd2Y5dHFpYTBGNFFBQlFjYzEyWWYyUDRXWk1rc3laM2tCcmdJVmU0TG8yc3VfVlJ0YThGUTBseC1TRWxHMG5LcXJjbDBua2ZUWTNQb2hZTE55eV9NeWtWOW9CUXl4dzFJUHZmUnpTOUR3NmlibWg5QklzZ0k4aFNodHFZellXUnU0eS1DeA?oc=5"
+ },
+ {
+  "id": "d9c22adf56",
+  "datum": "2026-10-30",
+  "tijd": "10:00",
+  "nieuw": false,
+  "titel": "Rechter: ’Eigenaar sportschool Klazienaveen wist van drugslab in zijn pand’. Man (61) hoeft niet de cel in",
+  "bron": "Dagblad van het Noorden",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "drugslab",
+   "pand",
+   "school"
+  ],
+  "samenvatting": "Rechter: ’Eigenaar sportschool Klazienaveen wist van drugslab in zijn pand’. Man (61) hoeft niet de cel in Dagblad van het Noorden",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbWNJZFA3cmFsNTNlZ0RLZlpRdXdmSUlrRXNFVE5JYXdPbi1aSDdPR1VLY0R2MFdpSlFhVXc3MUNZcThFeHQwVExSUm1GLTlhcWtfX0FsUHBkWlpEQ2gtVWhoNnJaRy1RekhOc3ZrVGNheWQ2S2JnNXhIaTJVZzkyRVcyQVB4dDhwanlmQnE5TnhzQVV3TEVqdjhHdmdxOUtQOVNWZUNOWlpmR0l4NHBXcV9VY3ZCbGJxLWJHTmFEdDFOUQ?oc=5"
  },
  {
   "id": "030455b3f4",
