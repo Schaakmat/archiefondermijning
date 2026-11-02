@@ -10,18 +10,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Milieucriminaliteit & afval",
-   "Trustkantoren & rechtspersonen",
-   "Vastgoed & huisvesting",
    "Witwassen & geldstromen"
   ],
   "tags": [
-   "bestuurder",
-   "bv",
-   "grond",
-   "notaris",
-   "vastgoed",
-   "vennootschap"
+   "witwassen"
   ],
   "samenvatting": "Bijna tien jaar na het omvallen van de Twentse projectontwikkelaar Megahome start maandag de inhoudelijke behandeling van de strafzaak tegen eigenaar Willy W. uit Zenderen en zijn voormalige directeur Adri N. uit Kraggenburg. Het Openbaar Ministerie verdenkt hen onder meer van witwassen van 29 miljoen euro en belasting",
   "link": "https://www.omroepflevoland.nl/nieuws/529346/grote-witwasoperatie-van-miljoenen-via-sportstichting-kraggenburg-voor-de-rechter"
@@ -37,17 +29,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Criminele samenwerkingsverbanden",
-   "Witwassen & geldstromen"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
    "bende",
-   "burgemeester",
-   "motorclub",
-   "satudarah",
-   "vergunning",
-   "witwassen"
+   "satudarah"
   ],
   "samenvatting": "Gebeurde er iets strafbaars bij café ’t Uilennest in Tilburg? Die vraag staat maandag en dinsdag centraal in de rechtbank. Dertien oud-leden van Satudarah en de eigenaar van de kroeg staan terecht, omdat ze illegale clubavonden zouden hebben gehouden. Maar komt er nu dan eindelijk duidelijkheid over de toekomst van het",
   "link": "https://www.omroepbrabant.nl/nieuws/6033217/al-lang-gedoe-rond-t-uilennest-cafebaas-en-bendeleden-nu-voor-rechter"
@@ -130,6 +116,27 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6033216/overleden-vrouw-gevonden-in-huis-in-tilburg-mogelijk-misdrijf"
  },
  {
+  "id": "2be4cf54ee",
+  "datum": "2026-11-01",
+  "tijd": "19:30",
+  "nieuw": true,
+  "titel": "Rotterdamse woning doorzocht na melding vuurwapen, een persoon aangehouden",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "De politie heeft zondagavond een woning aan de Rondolaan in Rotterdam doorzocht, nadat zij een melding over een vuurwapen had ontvangen. Bij de doorzoeking is een persoon aangehouden.",
+  "link": "https://www.rijnmond.nl/nieuws/2276143/rotterdamse-woning-doorzocht-na-melding-vuurwapen-een-persoon-aangehouden"
+ },
+ {
   "id": "4149ae35da",
   "datum": "2026-11-01",
   "tijd": "18:41",
@@ -192,7 +199,7 @@
   "id": "90c0ce412a",
   "datum": "2026-11-01",
   "tijd": "15:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Regio aan Rijk: nieuwe stroomverbinding mag ontwikkeling vliegveld niet beperken",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -219,7 +226,7 @@
   "id": "5dde35f90d",
   "datum": "2026-11-01",
   "tijd": "15:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee aanhoudingen bij Cadzand wegens mensensmokkel, minderjarigen uit gestrande rubberboot naar Ter Apel",
   "bron": "de Volkskrant",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -238,7 +245,7 @@
   "id": "a64635108d",
   "datum": "2026-11-01",
   "tijd": "14:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zes minderjarigen aan boord van rubberboot voor Cadzand, twee mannen vast voor mensensmokkel",
   "bron": "HVZeeland",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -257,7 +264,7 @@
   "id": "f3b9f7bce5",
   "datum": "2026-11-01",
   "tijd": "13:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jongen (16) uit Middelburg verdacht van oproepen tot geweld rond Gen-Z-protest",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -276,7 +283,7 @@
   "id": "9e7cdb560b",
   "datum": "2026-11-01",
   "tijd": "13:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bart Nijman: ondermijning is allang achter onze veel te gastvrij opengehouden voordeur geslopen",
   "bron": "De Telegraaf",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -29865,6 +29872,26 @@
   ],
   "samenvatting": "Jerrycans, containers en vriezers: drugsexperts leggen uit hoe groot drugslab in Bree in elkaar zit Nieuwsblad",
   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYTdfLWFwNUg0TlB1cnFteGhNT1JocmRtLWlPdDJ3bElqMlp0WnF2RmVUY3VyNEFWYVlWMUV6bWMxaGRWUDhiY1VpSFhYY292cFVnRFRITGhpVHNLdkZGVXJ4bjdvUDN4Y2hldllzQk1sbFB5UjFlZXdkMkxjanlSbTlMOUFXLVFMSWZpX3VIcEhpRXByaWYwaDVtYVJUdFZqYnJEYW5RdVRpTFBNaUU3OVdrZ3k0OEhTU3dkbUE2RjRhYjV2blNWRW9wMm16YmFEMWJiUmQta2UtRWpHeXlCNUc0Yks0bnpIUUVsT09n?oc=5"
+ },
+ {
+  "id": "d60abc0cc7",
+  "datum": "2026-09-22",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "OM eist 12 jaar cel tegen Amsterdamse ambtenaar voor corruptie",
+  "bron": "Haarlems Dagblad",
+  "verzameld_via": "Nieuws — Corruptie & integriteit",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Corruptie & integriteit"
+  ],
+  "tags": [
+   "ambtenaar",
+   "corruptie"
+  ],
+  "samenvatting": "OM eist 12 jaar cel tegen Amsterdamse ambtenaar voor corruptie Haarlems Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMFFEaWJpTjA3TURKQjhZcDZtazQ5am41TXB6RVJBTDdaeDVoaXlaVVVMeUVkNGlWcGlzbGdLTmVTQkZ1blRHSnpEXzl3c2hUaWozTjl2R0N0NjFIQ1dGbEI5X3RwcGhENDdVR3BqZ2xDQVJka2x2cktLbWhLRVRxdU4xaXFmQ2FISDBfVlBMZC1FZVJzQUR0TnRZX2NjdnNNUzVBN1hGTnpIdklMc0x2SzBhVmNRcmxTSWs4?oc=5"
  },
  {
   "id": "92447f018f",
