@@ -1,5 +1,43 @@
 [
  {
+  "id": "436c11b7a5",
+  "datum": "2026-11-05",
+  "tijd": "00:02",
+  "nieuw": true,
+  "titel": "Milieucriminaliteit vraagt om een gezamenlijke aanpak van wetenschap en praktijk",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "milieucriminaliteit"
+  ],
+  "samenvatting": "Milieucriminaliteit vraagt om een gezamenlijke aanpak van wetenschap en praktijk Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUUxRd0M1UXp3QzFROVFZSFVReGptWjRhN21MM1ZUZkxOZkVGRGxXMzdjS2lDbmxUakI3X0tXeFkxSnRaTFBQNnA4cWh1dDZKVXdudW9BZzVOQW1UVEtPcXlIQ21NWGV2Uy1fWkZ2c2JlT216ek5uNmx2TjBfLXprOHpObFBlVUhPbDg5aW1aQzFnb1BlZkNBUUd4eU5MaHQxUF9IOTVCd1dSSkR4bVJ1WkVKVkg0aGhzLXJheWxOeGMwYllONXJhNUxNN1czZmNzUDRHN3lwY1oyT1oxVEFB?oc=5"
+ },
+ {
+  "id": "4e0b037142",
+  "datum": "2026-11-04",
+  "tijd": "22:32",
+  "nieuw": true,
+  "titel": "Als gezin in Wierden in dure auto`s rijdt, krijgt FIOD ze op de korrel: twee invallen in onderzoek naar witwassen",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Als gezin in Wierden in dure auto`s rijdt, krijgt FIOD ze op de korrel: twee invallen in onderzoek naar witwassen Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2h2djFteVo2VVdlbjNGYXhvSUhaUXNUUnROYl9GSFQ5aDlWMktpTkhoMk95akZsX1VoaWI3VWw1V0xSSVE0TXVzYmJ1ZnZBOWdQVVdnVURyTkk4b21LaGFoZjBtN0ZMREFLTy1rTzVraXFUUW9xZHZ3a0dhQlFtTkFzaTZJM09NbEJubkVyb3RvS21QWlRDRUFBWjZhX1VwdnQ3Z2lzWHJZZnpZX2ZHajFhbmdCb05YYmkyUXZpZFpRT0pKam1PRjBWeFpOQVNvRkhIOXhuSUhXcGlIc01XaHZnVzlpT3A3dUEtbXd6U3FfejRCYUJsSA?oc=5"
+ },
+ {
   "id": "556b40df05",
   "datum": "2026-11-04",
   "tijd": "21:55",
@@ -10,13 +48,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Horeca, winkels & dienstverlening",
-   "Wapens, explosieven & vuurwerk"
+   "Horeca, winkels & dienstverlening"
   ],
   "tags": [
-   "cocaïne",
-   "explosie",
    "shishalounge"
   ],
   "samenvatting": "Een 36-jarige Almeerder is veroordeeld tot twee jaar gevangenisstraf voor betrokkenheid bij een aanslag op een shishalounge in Duitsland. De man stuurde samen met een medeverdachte de uitvoerders aan. De Almeerder ontkent te hebben geweten dat het om een aanslag ging, maar de rechtbank vindt die verklaring volstrekt on",
@@ -33,17 +67,32 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages",
-   "Trustkantoren & rechtspersonen",
-   "Vastgoed & huisvesting"
+   "Trustkantoren & rechtspersonen"
   ],
   "tags": [
-   "bestuurder",
-   "garage",
-   "woning"
+   "bestuurder"
   ],
   "samenvatting": "Een scooterbestuurder heeft woensdagavond voor flink wat reuring gezorgd in Best. Toen agenten hem wilden controleren, ging hij er vandoor. Wat volgde was een achtervolging door het zuidwesten van het dorp, waarbij meerdere politiewagens én een politiehelikopter werden ingezet. De politie wilde de scooter controleren, ",
   "link": "https://www.omroepbrabant.nl/nieuws/6033598/scooterrijder-18-raakt-rijbewijs-kwijt-na-achtervolging-met-politieheli"
+ },
+ {
+  "id": "85bedde7ec",
+  "datum": "2026-11-04",
+  "tijd": "20:28",
+  "nieuw": true,
+  "titel": "Celstraf dreigt voor financieel uitgeklede ex-vastgoedbaas van Megahome",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "vastgoed"
+  ],
+  "samenvatting": "De voormalige eigenaar van het Twentse vastgoedbedrijf Megahome moet wat het Openbaar Ministerie betreft voor dertig maanden achter de tralies. De 64-jarige W. sluisde miljoenen uit het bedrijf. Uiteindelijk leidde dat tot het grootste Twentse faillissement uit de geschiedenis.",
+  "link": "https://www.oost.nl/nieuws/3715472/celstraf-dreigt-voor-financieel-uitgeklede-ex-vastgoedbaas-van-megahome"
  },
  {
   "id": "4c08e2cb7e",
@@ -59,7 +108,6 @@
    "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "netwerk",
    "organisatie"
   ],
   "samenvatting": "Zeker twintig mensenrechtenorganisaties hebben sinds vorig jaar hun samenwerking met het in Den Haag gevestigde Internationaal Strafhof (ICC) flink ingeperkt of volledig gestaakt. Dat blijkt uit een rondgang van onderzoeksplatform Investico en het Duitse medium Süddeutsche Zeitung bij honderd organisaties zonder winsto",
@@ -234,18 +282,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "erf",
-   "explosie",
-   "organisatie",
-   "vuurwerk",
-   "woning",
-   "zwaar illegaal vuurwerk"
+   "explosie"
   ],
   "samenvatting": "Meer duidelijkheid over wat er precies voorafging aan de verwoestende explosie in een flat aan de Tarwekamp twee jaar geleden. Dat probeerde de rechtbank in Den Haag vanmiddag te krijgen van de vier verdachten die tijdens de eerste zittingsdag werden gehoord. Zes mensen overleefden die explosie niet . Vanochtend werd d",
   "link": "https://nos.nl/l/2638052"
@@ -254,7 +294,7 @@
   "id": "9f19fa8cce",
   "datum": "2026-11-04",
   "tijd": "17:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Theo blij met nieuwe beelden meisje van Teteringen: 'Houdt haar in leven'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -277,7 +317,7 @@
   "id": "730795fcfa",
   "datum": "2026-11-04",
   "tijd": "17:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tassen vol illegaal vuurwerk op slaapkamer en in garagebox: jongen (16) en vrouw (25) opgepakt",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -298,7 +338,7 @@
   "id": "239941b84b",
   "datum": "2026-11-04",
   "tijd": "17:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie rolt drugslab op in woonwijk van Prinsenbeek",
   "bron": "BN DeStem",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -317,7 +357,7 @@
   "id": "27b5f4ef94",
   "datum": "2026-11-04",
   "tijd": "17:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Een coalitie van milieu-organisaties doet aangifte tegen de Braziliaanse vleesgigant JBS wegens witwassen",
   "bron": "Trouw",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -338,7 +378,7 @@
   "id": "d751fcf53b",
   "datum": "2026-11-04",
   "tijd": "17:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man rijdt motorrijder dood, maar wordt vrijgesproken: slachtoffer reed 161",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -357,7 +397,7 @@
   "id": "d0e055cada",
   "datum": "2026-11-04",
   "tijd": "16:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie controleert op Vosdonk in Etten-Leur en let extra op ondermijning",
   "bron": "Internetbode",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -376,7 +416,7 @@
   "id": "58506517dd",
   "datum": "2026-11-04",
   "tijd": "16:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Plan begint bij jurken stelen en eindigt in dodelijke explosie, hoofdverdachte Tarwekamp ontkent verantwoordelijkheid",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -395,7 +435,7 @@
   "id": "5e2d26d8f2",
   "datum": "2026-11-04",
   "tijd": "15:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester sluit woning in Hengelo na vondst drugs en wapens",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -419,7 +459,7 @@
   "id": "fe7de8720b",
   "datum": "2026-11-04",
   "tijd": "15:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rotterdammer verdacht van witwassen van 60 miljoen euro voor Turks-Duitse criminele organisatie",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -441,7 +481,7 @@
   "id": "ce108b812a",
   "datum": "2026-11-04",
   "tijd": "15:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugslab en vuurwapen gevonden bij woning in Prinsenbeek, bewoner aangehouden",
   "bron": "BredaVandaag",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -464,7 +504,7 @@
   "id": "8de6274fe2",
   "datum": "2026-11-04",
   "tijd": "15:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Transportbedrijven krijgen geen vergoeding voor gedwongen omrijden door problemen Houtribdijk",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -483,7 +523,7 @@
   "id": "ac22bc25d7",
   "datum": "2026-11-04",
   "tijd": "14:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugslab aangetroffen in schuur bij huis in Prinsenbeek, mogelijk bedoeld voor productie van cocaïne",
   "bron": "BN DeStem",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -504,7 +544,7 @@
   "id": "8ad5d00482",
   "datum": "2026-11-04",
   "tijd": "14:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugslab aangetroffen in schuur bij huis in Prinsenbeek: politie houdt bewoner aan en vindt vuurwapen",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -525,7 +565,7 @@
   "id": "af9914dbb2",
   "datum": "2026-11-04",
   "tijd": "14:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugslab aangetroffen in schuur bij huis in Prinsenbeek, mogelijk bedoeld voor productie van cocaïne",
   "bron": "De Gelderlander",
   "verzameld_via": "Regio — zuid & oost",
@@ -546,7 +586,7 @@
   "id": "9bf8d89822",
   "datum": "2026-11-04",
   "tijd": "14:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugslab aangetroffen in schuur bij huis in Prinsenbeek: politie houdt bewoner aan en vindt vuurwapen",
   "bron": "De Gelderlander",
   "verzameld_via": "Regio — zuid & oost",
@@ -567,7 +607,7 @@
   "id": "46742918c1",
   "datum": "2026-11-04",
   "tijd": "14:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugslab opgerold midden in woonwijk in Prinsenbeek: politie houdt bewoner aan en vindt vuurwapen",
   "bron": "BN DeStem",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -588,7 +628,7 @@
   "id": "a97a5e415c",
   "datum": "2026-11-04",
   "tijd": "14:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugslab opgerold midden in woonwijk in Prinsenbeek: politie houdt bewoner aan en vindt vuurwapen",
   "bron": "Eindhovens Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -609,7 +649,7 @@
   "id": "4f7ed1a1b4",
   "datum": "2026-11-04",
   "tijd": "14:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugslab aangetroffen in schuur bij huis in Prinsenbeek, mogelijk bedoeld voor productie van cocaïne",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -630,7 +670,7 @@
   "id": "533f8484c0",
   "datum": "2026-11-04",
   "tijd": "14:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drugslab opgerold midden in woonwijk in Prinsenbeek: politie houdt bewoner aan en vindt vuurwapen",
   "bron": "StadIndex",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -651,7 +691,7 @@
   "id": "39ea75ea8c",
   "datum": "2026-11-04",
   "tijd": "14:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Datalek bij gemeente Deurne na delen van 36.000 pagina's over paardenrijhal",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -670,7 +710,7 @@
   "id": "8c806aaab6",
   "datum": "2026-11-04",
   "tijd": "14:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kraggenburg - 'Stroman' uit Kraggenburg gebruikt om 5 miljoen van Megahome weg te sluizen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -2115,6 +2155,25 @@
   ],
   "samenvatting": "Woningen die de komende drie jaar worden gebouwd in Almere, Dronten, Lelystad en Zeewolde kunnen een aansluiting krijgen op het stroomnet. Staatssecretaris De Bat heeft aan de Tweede Kamer laten weten dat er voldoende capaciteit is op het net. Het elektriciteitsnet in Oostelijk en Zuidelijk Flevoland is gekoppeld aan d",
   "link": "https://www.omroepflevoland.nl/nieuws/529794/staatssecretaris:-'voldoende-stroom-voor-nieuwbouw-flevoland-in-komende-jaren'"
+ },
+ {
+  "id": "13c0343b11",
+  "datum": "2026-11-03",
+  "tijd": "05:46",
+  "nieuw": false,
+  "titel": "Waarom het stroomnet in een deel van Gelderland nu op slot gaat",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "Haperende afspraken met bedrijven over flexibele contracten rondom stroomverbruik zijn de belangrijkste reden dat een deel van Gelderland nu met een aansluitstop voor het elektriciteitsnet wordt geconfronteerd. Bedrijven zouden meer stroom moeten gebruiken op momenten dat er ruimte is op het net, maar zulke afspraken k",
+  "link": "https://www.gld.nl/nieuws/8542825/waarom-het-stroomnet-in-een-deel-van-gelderland-nu-op-slot-gaat"
  },
  {
   "id": "b20374f713",
@@ -68676,6 +68735,25 @@
   ],
   "samenvatting": "Rechters succesvol gewraakt in strafzaak tegen mensensmokkelaar Kidane H. NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjk4MjhxY0hOdk9mVXlneWh5cjBTRE5PcW9sODk2VHBGMEViUnE3eW4tSWNvdHgzX1ZJOU5idnJkTmc0cGRSLU9mbnFJRU1INHF6ZVJuUmVoLXgtejJxRWtXZmpMc0ZNU3dxMGo3M3M1UGVVRW1hSmRRZ3dueE5jUUwwWTdMVGpxMmd2a0xXanBpeFJpdWhhd0kzZnZTaVBxNkh5MUxZWGhZZjlyNm9SLWd6M1ZxQ0RrbkE?oc=5"
+ },
+ {
+  "id": "b6f75a1a46",
+  "datum": "2026-04-28",
+  "tijd": "11:37",
+  "nieuw": false,
+  "titel": "Aanpak witwassen en financiering van terrorisme",
+  "bron": "Rijksoverheid.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Aanpak witwassen en financiering van terrorisme Rijksoverheid.nl",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXVzUHZRMnVsZklKN1FUdDYzU3FuVGZ2QllYNVQ3dGt5cFAtRnNPMm1hWlcwb1NpX2hTMmdrcjNuNmwxVzV4LS1NVjJ3Q3o5OE1jbml4b0hENnVBVG1Ec21LOHducTA3Tml5NXZNN05YSld5NFNfTW04bHlEQzBCeWV0ckhYZlNmblZzbXVZbGVWWFRBOWZpcE56QWdUeExoTEpGRGdGM3g2dw?oc=5"
  },
  {
   "id": "f98073b911",
