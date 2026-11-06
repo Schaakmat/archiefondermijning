@@ -1,5 +1,285 @@
 [
  {
+  "id": "9ac322e7e2",
+  "datum": "2026-11-06",
+  "tijd": "21:16",
+  "nieuw": true,
+  "titel": "Rechter: ANWB-staking mag, maar met genoeg wegenwachters op de weg",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "Tijdens een staking van ANWB-medewerkers komende maandag moet er bij de verkeersorganisatie een minimale bezetting blijven van 12,5 procent. Dat heeft de voorzieningenrechter bepaald. De ANWB had een kort geding aangespannen tegen een staking van onder meer medewerkers van de Wegenwacht en de Alarmcentrale. Die is door",
+  "link": "https://nos.nl/l/2638355"
+ },
+ {
+  "id": "b8f419e064",
+  "datum": "2026-11-06",
+  "tijd": "20:24",
+  "nieuw": true,
+  "titel": "Zeker 150 demonstranten opgepakt bij protest tegen datacenter in Amsterdam",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Bij protest tegen een datacenter van Microsoft in Amsterdam-West zijn vermoedelijk 150 tot 200 verdachten aangehouden. Ze worden verdacht van huisvredebreuk, meldt de politie. Een deel van de demonstranten heeft het terrein vrijwillig verlaten. De actiegroep Fossielvrij demonstreerde vandaag bij de bouwlocatie van het ",
+  "link": "https://nos.nl/l/2638349"
+ },
+ {
+  "id": "3859757900",
+  "datum": "2026-11-06",
+  "tijd": "20:18",
+  "nieuw": true,
+  "titel": "Brand in bestelbus zorgt voor spannende situatie bij tankstation | Fietser geschept, bestuurder aangehouden",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "In dit liveblog houden we je op de hoogte van het belangrijkste en meest opvallende 112-nieuws van vrijdag 6 november.",
+  "link": "https://www.rijnmond.nl/nieuws/2278838/brand-in-bestelbus-zorgt-voor-spannende-situatie-bij-tankstation-fietser-geschept-bestuurder-aangehouden"
+ },
+ {
+  "id": "98eb98f4e8",
+  "datum": "2026-11-06",
+  "tijd": "19:45",
+  "nieuw": true,
+  "titel": "Flevoland - Familie achter Urker Werckpost met mediator aan de slag: 'Het bedrijf glipt me door de vingers'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "organisatie"
+  ],
+  "samenvatting": "Toen ze in 2014 samen uitzendorganisatie Werckpost op Urk begonnen, was alles nog koek en ei tussen vader Geert Post, zoon Nanne Post en dochter Maria Coenen-Post. Maar inmiddels liggen de drie stevig met elkaar overhoop. Zo erg, dat Nanne Post vrijdag naar de rechter stapte. \"We zitten hier als familie met het schaamr",
+  "link": "https://www.omroepflevoland.nl/nieuws/530332/familie-achter-urker-werckpost-met-mediator-aan-de-slag:-'het-bedrijf-glipt-me-door-de-vingers'"
+ },
+ {
+  "id": "4d83516a8c",
+  "datum": "2026-11-06",
+  "tijd": "19:31",
+  "nieuw": true,
+  "titel": "Dure Mustang knalt tegen boom, bestuurder mee naar politiebureau",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een flinke klap vrijdagavond in Nieuwleusen. Een automobilist botste op de Wethouder de Boerstraat met zijn Ford Mustang tegen een boom . Ook een geparkeerde auto liep schade op. Eén persoon moest mee naar het politiebureau.",
+  "link": "https://www.oost.nl/nieuws/3716307/dure-mustang-knalt-tegen-boom-bestuurder-mee-naar-politiebureau"
+ },
+ {
+  "id": "e85fdcd4bf",
+  "datum": "2026-11-06",
+  "tijd": "18:50",
+  "nieuw": true,
+  "titel": "Flevoland - Nieuwsoverzicht 06/11 | Contract jeugdzorgaanbieder opgezegd • Asielkwestie zonder gevolgen",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden",
+   "Hennep & wietteelt",
+   "Jeugd & jonge aanwas",
+   "Ondernemers & weerbaarheid",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "bedrijventerrein",
+   "burgemeester",
+   "container",
+   "explosie",
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Goedenavond. Elke doordeweekse dag aan het begin van de avond informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Flevolandse gemeenten ontbinden per direct contract met jeugdhulpaanbieder Careforyou Zorg • Geen maatregelen tegen Flevoland na missen deadline",
+  "link": "https://www.omroepflevoland.nl/nieuws/530301/nieuwsoverzicht-0611-or-contract-jeugdzorgaanbieder-opgezegd-*-asielkwestie-zonder-gevolgen"
+ },
+ {
+  "id": "3f94b11d63",
+  "datum": "2026-11-06",
+  "tijd": "18:49",
+  "nieuw": true,
+  "titel": "Fietser geschept door busje in Papendrecht, bestuurder aangehouden",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Bij een aanrijding op de Pontonniersweg in Papendrecht is vrijdagavond een fietser gewond geraakt. Het slachtoffer werd geschept door een bestelbus. De bestuurder is aangehouden op verdenking van rijden onder invloed.",
+  "link": "https://www.rijnmond.nl/nieuws/2279010/fietser-geschept-door-busje-in-papendrecht-bestuurder-aangehouden"
+ },
+ {
+  "id": "be75fa4f16",
+  "datum": "2026-11-06",
+  "tijd": "18:43",
+  "nieuw": true,
+  "titel": "Verdachte bekent moordpoging op Iraanse publicist in Haarlem",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "liquidatie",
+   "moord",
+   "schiphol",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Een van de zes verdachten van een mislukte moordaanslag op een Iraanse activist en publicist in Haarlem, heeft bekend dat hij naar Nederland is gekomen om een moord in opdracht te plegen. Het strafproces tegen vijf mannen en een vrouw ging vandaag van start in de extra beveiligde rechtszaal op Schiphol. De zes worden v",
+  "link": "https://nos.nl/l/2638332"
+ },
+ {
+  "id": "6c13bb76dc",
+  "datum": "2026-11-06",
+  "tijd": "18:04",
+  "nieuw": true,
+  "titel": "Flevoland - Flevolandse gemeenten ontbinden per direct contract met jeugdhulpaanbieder Careforyou Zorg",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jeugd",
+   "jongeren",
+   "organisatie"
+  ],
+  "samenvatting": "Vijf Flevolandse gemeenten hebben het contract met jeugdhulpaanbieder Careforyou Zorg in Almere per direct ontbonden. Volgens de gemeenten heeft de organisatie tijdens de aanbesteding onjuiste en misleidende informatie verstrekt. Ook zijn er ernstige zorgen over de kwaliteit van de hulpverlening en de veiligheid van de",
+  "link": "https://www.omroepflevoland.nl/nieuws/530328/flevolandse-gemeenten-ontbinden-per-direct-contract-met-jeugdhulpaanbieder-careforyou-zorg"
+ },
+ {
+  "id": "9350d25500",
+  "datum": "2026-11-06",
+  "tijd": "17:30",
+  "nieuw": true,
+  "titel": "Arts liegt en had overleden Suzanne nooit mogen onderzoeken: 'Schandalig'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "erf",
+   "moord"
+  ],
+  "samenvatting": "De arts die het lichaam van Suzanne de Vries uit Helmond na haar dood onderzocht had dat helemaal niet mogen doen: hij had daar geen diploma voor. Ook was hij \"onzorgvuldig en onduidelijk\" in het schouwrapport. Dat blijkt uit een uitspraak van het Centraal Tuchtcollege voor de Gezondheidszorg. Het is voor de familie va",
+  "link": "https://www.omroepbrabant.nl/nieuws/6033912/arts-liegt-en-had-overleden-suzanne-nooit-mogen-onderzoeken-schandalig"
+ },
+ {
+  "id": "0eb8ce99b9",
+  "datum": "2026-11-06",
+  "tijd": "17:00",
+  "nieuw": true,
+  "titel": "Schilderij kreeg bijna sticker van 15 euro, maar is honderden euro’s waard",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Goudhandel & edelmetalen",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "erf",
+   "goud",
+   "grond",
+   "school"
+  ],
+  "samenvatting": "Bart Vreijssen vond toevallig een bijzonder schilderij tussen een paar houten iconen met religieuze afbeeldingen in het magazijn van kringloopwinkel La Poubelle in Goirle. Het blijkt een origineel van een negentiende-eeuwse schilder uit België en is zeker een paar honderd euro waard. “Als het me niet was opgevallen, wa",
+  "link": "https://www.omroepbrabant.nl/nieuws/6033835/schilderij-kreeg-bijna-sticker-van-15-euro-maar-is-honderden-euros-waard"
+ },
+ {
+  "id": "813f6cf693",
+  "datum": "2026-11-06",
+  "tijd": "16:28",
+  "nieuw": true,
+  "titel": "20-jarige verdachte van moord Vlissingen blijft langer vastzitten",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "moord"
+  ],
+  "samenvatting": "Dat heeft de rechtbank vandaag besloten.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18925146/20-jarige-verdachte-van-moord-vlissingen-blijft-langer-vastzitten"
+ },
+ {
+  "id": "47495ff955",
+  "datum": "2026-11-06",
+  "tijd": "16:00",
+  "nieuw": true,
+  "titel": "Man die inreed op politieauto in Echt mogelijk gelinkt aan drugslab in Maaseik",
+  "bron": "VML Nieuws",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Man die inreed op politieauto in Echt mogelijk gelinkt aan drugslab in Maaseik VML Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUsyVVJIRmFMdkREc1lpVFFsYlk1QUZRVkJaeWIyLXBCaFAwdkR1em9aUlRDbVdWRl9uSGZHTFQzdGNfMXRkaS1iZGZSUGY3TDM1Z0NkVkJQU1NLdjcwOF80NTUyT0cyTHA4T0NzTDFoRnM3RmZxdjUzaTlHSXI2a3dDYmoweEZWSFNNUTkza0JuNlNnRW1iMm5weFRyYkZPN3VFRTI3TDJUVUU3aHdWMnU2bXg?oc=5"
+ },
+ {
   "id": "57ccf2470a",
   "datum": "2026-11-06",
   "tijd": "15:59",
@@ -10,22 +290,79 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Horeca, winkels & dienstverlening"
+   "Beleid, wetgeving & toezicht"
   ],
   "tags": [
-   "bedreiging",
-   "beveiliging",
-   "erf",
-   "nctv",
-   "netwerk",
-   "organisatie"
+   "nctv"
   ],
   "samenvatting": "Nederlandse bedrijven, organisaties en overheden nemen maatregelen om de weerbaarheid tegen online aanvallen te verhogen, maar niet snel en stevig genoeg om het oplopende tempo van alle dreigingen bij te benen, signaleert de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV). Die noemt dat een \"ernstig ri",
   "link": "https://nos.nl/l/2638312"
+ },
+ {
+  "id": "a93cbf54bf",
+  "datum": "2026-11-06",
+  "tijd": "15:30",
+  "nieuw": true,
+  "titel": "Zwarte lijst met sekswerkers bijgehouden: ‘Verontrustend en gevaarlijk’",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Bibob & bestuurlijke aanpak",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "geweld",
+   "organisatie",
+   "pand",
+   "prostitutie",
+   "vergunning",
+   "vergunning ingetrokken"
+  ],
+  "samenvatting": "Twee exploitanten van een pand op het Baekelandplein in Eindhoven houden een ‘zwarte lijst’ bij van sekswerkers die een schuld bij hun raameigenaar zouden hebben, zo ontdekte Omroep Brabant. Via een afgeschermde website kunnen mensen namen van de vrouwen doorgeven en een kopie van hun identiteitsbewijs uploaden. Wat er",
+  "link": "https://www.omroepbrabant.nl/nieuws/6033774/zwarte-lijst-met-sekswerkers-bijgehouden-verontrustend-en-gevaarlijk"
+ },
+ {
+  "id": "37a58fd509",
+  "datum": "2026-11-06",
+  "tijd": "15:20",
+  "nieuw": true,
+  "titel": "Man die inreed op politie op de vlucht na vondst drugslab Maaseik",
+  "bron": "Headliner.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Man die inreed op politie op de vlucht na vondst drugslab Maaseik Headliner.nl",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONFN6Q19tYTFZN3dlSU50MVpNTEhnVXJ3Z3VUQW1EQklVVmVSMlZtRmpQRWVMNUVfNHQ1Q1VyYVB3M2stZ01xUzVRVDloSEJPZGc0a2Yzc0UwX09jd3NYbS1Jdi1RRC1INzBMa1FxQWdESk5jckREVDdzVUcycmFpN0I2QkJicmxFamxxSGI4M0VKaEk0dzdIYm5haVVCbzJid05aT0dHU3gwU3JWTEtzT2N3WXY?oc=5"
+ },
+ {
+  "id": "11f1c24bd3",
+  "datum": "2026-11-06",
+  "tijd": "15:17",
+  "nieuw": true,
+  "titel": "Man die inreed op politie op de vlucht na vondst drugslab Maaseik",
+  "bron": "L1 Nieuws",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Man die inreed op politie op de vlucht na vondst drugslab Maaseik L1 Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa09LcndHMXlCU2lBMUxxbktmNEp6Smhuc3RleTVqM1dMcTBORVRTbGlNZnlnRVhwX25GVE1VX2IyNktJYU9VaWZxYlViWThZOXhYR2Q5U2tieUFJVlJqZHFLTmVIR19yVUMyVkFUaW9QTGFDb1Z5UVpYbTcyNXpKV1BPZ19VQ2dBcVB2dmpKVlNIbUZaZnplbU5rRWszQjdkNW0w?oc=5"
  },
  {
   "id": "22244c598c",
@@ -137,7 +474,7 @@
   "id": "3ee59d325e",
   "datum": "2026-11-06",
   "tijd": "12:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (49) uit België aangehouden voor dood vrouw (54) in Tilburg",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -156,7 +493,7 @@
   "id": "0bb212c98a",
   "datum": "2026-11-06",
   "tijd": "12:22",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Foto van vrouwenhand zet recherche op spoor van agent die vertrouwelijke informatie aan criminelen gaf",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -175,7 +512,7 @@
   "id": "5cb4287824",
   "datum": "2026-11-06",
   "tijd": "12:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "1500 illegale vapes en namaakartikelen gevonden bij controle door politie",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -196,7 +533,7 @@
   "id": "b537e70e0e",
   "datum": "2026-11-06",
   "tijd": "11:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "ME ingezet bij ontruiming bezet bouwterrein datacenter Microsoft in Amsterdam",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -216,38 +553,29 @@
   "link": "https://nos.nl/l/2638275"
  },
  {
-  "id": "e62b08066d",
+  "id": "020814765f",
   "datum": "2026-11-06",
-  "tijd": "10:30",
-  "nieuw": true,
-  "titel": "Nieuwe eigenaren Gillis-park schrikken van chalets vol schimmel en gaten",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
+  "tijd": "11:25",
+  "nieuw": false,
+  "titel": "Hennepkwekerij met 1000 wietplanten opgerold op bedrijventerrein in Almere Buiten",
+  "bron": "HV-Almere",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
   "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
+  "regio": "Landelijk",
   "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval",
-   "Ondernemers & weerbaarheid"
+   "Hennep & wietteelt"
   ],
   "tags": [
-   "arbeidsmigranten",
-   "bibob",
-   "erf",
-   "grond",
-   "ondernemers",
-   "vakantiepark"
+   "hennepkwekerij"
   ],
-  "samenvatting": "Muren zwart van de schimmel, plafonds die op de grond liggen en verrotte vloeren vol gaten. De nieuwe eigenaren van Gillis-park Brugse Heide in Valkenswaard zijn geschrokken van de staat van de chalets. “We moeten alles vernieuwen, dat is wel een tegenvaller.” Volgens Peter Gillis is dit het resultaat van drie jaar lee",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033836/nieuwe-eigenaren-gillis-park-schrikken-van-chalets-vol-schimmel-en-gaten"
+  "samenvatting": "Hennepkwekerij met 1000 wietplanten opgerold op bedrijventerrein in Almere Buiten HV-Almere",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbU9CMndETnhITjR6UkMyekVWNzJUaE5TeEgxRG83Nk1STW13cm1Bclp1anlRVVNYcGxIbVJHV2hDZzRLc1A3NjZaQWwtT21WRVZCQ256NXJHb1hwUkpuaDg0RWRObExreVd6cEVNNE11cFJfMC1WRVlxbTRONW9CZy1UTHZndENrU3RDQXRzZXpvb3d6TGRVTGIzeHItT1FDclpiMzFFQTctOTFpa2RONEdHRGpaZWM?oc=5"
  },
  {
   "id": "d849e3805b",
   "datum": "2026-11-06",
   "tijd": "10:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tilburg viert toch Elfde van de Elfde: compromis over toelaten tieners",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -268,7 +596,7 @@
   "id": "f45ffb08c2",
   "datum": "2026-11-06",
   "tijd": "09:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachten in zaak poging tot liquidatie Iraanse activist voor de rechter - Openbaar Ministerie",
   "bron": "Openbaar Ministerie",
   "verzameld_via": "Openbaar Ministerie",
@@ -287,7 +615,7 @@
   "id": "d469dfb508",
   "datum": "2026-11-06",
   "tijd": "08:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Acht oppositiepartijen willen begroting Almere veranderen, coalitie houdt voorlopig de boot af",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -306,7 +634,7 @@
   "id": "d9314a4eaf",
   "datum": "2026-11-06",
   "tijd": "07:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Brand in woning, politie haalt inwoner uit huis",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -325,7 +653,7 @@
   "id": "4c0699104f",
   "datum": "2026-11-06",
   "tijd": "07:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politiehond bijt letterlijk van zich af als verdachte hem probeert te schoppen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -341,38 +669,10 @@
   "link": "https://www.rijnmond.nl/nieuws/2278833/politiehond-bijt-letterlijk-van-zich-af-als-verdachte-hem-probeert-te-schoppen"
  },
  {
-  "id": "9cfc171b6e",
-  "datum": "2026-11-06",
-  "tijd": "06:44",
-  "nieuw": true,
-  "titel": "Omstreden vastgoedhandelaar uit Breda zit achter omstreden flat in Arnhem",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval",
-   "Trustkantoren & rechtspersonen",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "bedreiging",
-   "bestuurder",
-   "bibob",
-   "grond",
-   "kamer van koophandel",
-   "pand"
-  ],
-  "samenvatting": "De Bredase vastgoedhandelaar Marcel van Hooijdonk blijkt de man achter de omstreden Paasbergflat in Arnhem. Het gebouw staat al jaren grotendeels leeg, werd gekraakt en moest kort geleden worden ontruimd door ernstig brandgevaar. In Breda kwam Van Hooijdonk al vaker in opspraak door klachten van huurders, rechtszaken e",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033802/omstreden-vastgoedhandelaar-uit-breda-zit-achter-omstreden-flat-in-arnhem"
- },
- {
   "id": "de19db0e6c",
   "datum": "2026-11-06",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zaak aanslag op Iraniër in Haarlem begint, opdrachtgevers blijven buiten schot",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -390,31 +690,10 @@
   "link": "https://nos.nl/l/2638228"
  },
  {
-  "id": "9b57b91673",
-  "datum": "2026-11-06",
-  "tijd": "05:00",
-  "nieuw": true,
-  "titel": "Merwedebrug en A27 richting Breda komende nachten helemaal dicht",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "stal",
-   "vrachtwagen"
-  ],
-  "samenvatting": "De Merwedebrug gaat vanaf vrijdag een paar nachten dicht richting Breda. De nachtafsluitingen op de A27 duren tot en met de nacht van zondag op maandag. De brug wordt onderzocht en gerepareerd. Iedere dag begint de afsluiting om tien uur ‘s avonds. De weg gaat de volgende dag om acht uur 's ochtends open. Fietsers kunn",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033421/merwedebrug-en-a27-richting-breda-komende-nachten-helemaal-dicht"
- },
- {
   "id": "f71606e508",
   "datum": "2026-11-06",
   "tijd": "04:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stel voor de rechter wegens witwassen: `Geld lag in laatjes voor lingerie en sokken en een berghok`",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -433,7 +712,7 @@
   "id": "8ca7a41407",
   "datum": "2026-11-06",
   "tijd": "04:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stel voor de rechter wegens witwassen: `Geld lag in laatjes voor lingerie en sokken en een berghok`",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -452,7 +731,7 @@
   "id": "f5d485b3ab",
   "datum": "2026-11-06",
   "tijd": "04:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stel voor de rechter wegens witwassen: `Geld lag in laatjes voor lingerie en sokken en een berghok`",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -471,7 +750,7 @@
   "id": "36470d8317",
   "datum": "2026-11-06",
   "tijd": "04:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stel voor de rechter wegens witwassen: `Geld lag in laatjes voor lingerie en sokken en een berghok`",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -490,7 +769,7 @@
   "id": "8633d95271",
   "datum": "2026-11-06",
   "tijd": "01:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Campagne tegen ondermijnende criminaliteit van start",
   "bron": "Politie.nl",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -510,7 +789,7 @@
   "id": "294e41164d",
   "datum": "2026-11-06",
   "tijd": "00:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "\"Communicatiebeurs over het voorkomen en bestrijden van mensenhandel\" in de gemeente Doai Duong",
   "bron": "Vietnam.vn",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -648,50 +927,6 @@
   "link": "https://nos.nl/l/2638196"
  },
  {
-  "id": "7f19e37212",
-  "datum": "2026-11-05",
-  "tijd": "19:30",
-  "nieuw": false,
-  "titel": "Paaspop, 7th Sunday en Harmony of Hardcore moet extra belasting dokken",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak"
-  ],
-  "tags": [
-   "gemeenteraad"
-  ],
-  "samenvatting": "Ondanks protesten van de drie grote festivals komt er toch een nieuwe zogeheten belasting op vermaak in Meierijstad. De gemeenteraad stemde donderdagavond in met een taks van 1,50 euro per betalende bezoeker per dag voor Paaspop, 7th Sunday en Harmony of Hardcore. De extra belasting moet op 1 januari 2028 in gaan. \"Dit",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033786/paaspop-7th-sunday-en-harmony-of-hardcore-moet-extra-belasting-dokken"
- },
- {
-  "id": "5de4a74061",
-  "datum": "2026-11-05",
-  "tijd": "19:30",
-  "nieuw": false,
-  "titel": "Roosendaalse uitvoerders dodelijke aanslag Tarwekamp wijzen naar elkaar",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "explosie",
-   "grond",
-   "jeugd",
-   "stort",
-   "vuurwerk"
-  ],
-  "samenvatting": "De twee Roosendaalse neven die de verwoestende brand in Tarwekamp in Den Haag zouden hebben gesticht, wijzen naar elkaar. Ze geven toe dat ze die bewuste nacht binnen waren in de bruidsmodezaak om de brandstichting mogelijk te maken. Maar wie precies het vuur aanstak, is onduidelijk. Dat bleek op de tweede zittingsdag ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033734/roosendaalse-uitvoerders-dodelijke-aanslag-tarwekamp-wijzen-naar-elkaar"
- },
- {
   "id": "987829f621",
   "datum": "2026-11-05",
   "tijd": "19:22",
@@ -728,25 +963,6 @@
   ],
   "samenvatting": "Stel voor de rechter wegens witwassen: ‘Geld lag in laatjes voor lingerie en sokken en een berghok’ AD.nl",
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNUN6VXVTa0RfWGZVVWk0MzFCUzV6NmltdVh5VElLa3pCRmZteWxtT2prRnlHbWREdEtpem1jdG5SVG1DUFNIZEhFUmNfUWpqYW1oTS12V2U5T09XMVE1bDhBR0VrWEVwcmowUzNXN1BFY1NjQV9NMWpBUk9MWklvaDV2NGl4WVh4bGJRd3JFMDdEczdZbER3QnNUUjM1T2Q1Y0dGdVpPdHBQS0c2ZzZRa0NhZmVyb3lvNDRVMWpaMlJRR21JbnBmazBDRWpSZ3JSQUE?oc=5"
- },
- {
-  "id": "9d091e91fb",
-  "datum": "2026-11-05",
-  "tijd": "18:56",
-  "nieuw": false,
-  "titel": "A59 dicht tussen Hooipolder en Waalwijk door asfaltschade",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "De A59 is donderdagavond afgesloten tussen het knooppunt Hooipolder en Waalwijk. Volgens Rijkswaterstaat is op het wegdeel tussen Raamsdonk en Waspik over enkele honderden meters asfaltschade ontstaan. De toplaag laat daar los en dat zorgt voor steenslag en onveilige rijomstandigheden. Een woordvoerster legt uit dat he",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033791/a59-dicht-tussen-hooipolder-en-waalwijk-door-asfaltschade"
  },
  {
   "id": "088e08b21d",
