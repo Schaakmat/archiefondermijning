@@ -1,5 +1,45 @@
 [
  {
+  "id": "4ae3992dbe",
+  "datum": "2026-11-07",
+  "tijd": "21:03",
+  "nieuw": true,
+  "titel": "Schietpartij in Schiedamse woonwijk: één dode, klopjacht op schutters",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "In Schiedam is een persoon overleden na een schietpartij in een voortuin van een huis. Hij overleed ter plekke. Een tweede man werd geraakt in zijn been. De politie is een klopjacht begonnen op drie verdachten, meldt Rijnmond. Volgens de politie waren drie jonge mannen aan het klussen in de voortuin van de woning, naas",
+  "link": "https://nos.nl/l/2638491"
+ },
+ {
+  "id": "efc9cc28b0",
+  "datum": "2026-11-07",
+  "tijd": "19:51",
+  "nieuw": true,
+  "titel": "Mysterieuze kuilen en politieonderzoek houden bewoners van Zeeland bezig",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "buitengebied",
+   "grond"
+  ],
+  "samenvatting": "Het politieonderzoek naar mysterieuze kuilen en omcirkelde plekken houdt buurtbewoners in Zeeland bezig sinds zaterdagochtend bekend is dat het waarschijnlijk heeft te maken met een misdrijf. \"De politie is ook op zoek naar een auto\", vertelt iemand uit het dorp. En een buurman vult aan dat de politie \"op zoek is naar ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6033965/mysterieuze-kuilen-en-politieonderzoek-houden-bewoners-van-zeeland-bezig"
+ },
+ {
   "id": "32dfd5acc6",
   "datum": "2026-11-07",
   "tijd": "16:59",
@@ -36,8 +76,29 @@
   "tags": [
    "bestuurder"
   ],
-  "samenvatting": "De bestuurder van een crossmotor is zaterdagmiddag zwaargewond geraakt bij een ongeluk in Heesch. De crosser botste op de Vinkelstraat op een auto en kwam daarna hard ten val. Het slachtoffer is ter plaatse opgevangen door omstanders en behandeld door ambulancemedewerkers. Zij hebben het slachtoffer met spoed naar het ",
+  "samenvatting": "De bestuurder van een crossmotor is zaterdagmiddag zwaargewond geraakt bij een ongeluk in Heesch. De crosser botste op de Vinkelsestraat op een auto en kwam daarna hard ten val. Het slachtoffer is ter plaatse opgevangen door omstanders en behandeld door ambulancemedewerkers. Zij hebben het slachtoffer met spoed naar he",
   "link": "https://www.omroepbrabant.nl/nieuws/6033970/bestuurder-van-crossmotor-raakt-zwaargewond-bij-ongeluk-in-heesch"
+ },
+ {
+  "id": "e52749141d",
+  "datum": "2026-11-07",
+  "tijd": "16:48",
+  "nieuw": true,
+  "titel": "Schietpartij in Schiedamse woonwijk: één dode, drie verdachten gevlucht",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "doodgeschoten",
+   "woning"
+  ],
+  "samenvatting": "Bij een woning aan het Weverpad in Schiedam is een man doodgeschoten. Een tweede man raakte gewond. De schietpartij was zaterdag rond 17:00 uur. Het omgekomen slachtoffer is tevergeefs gereanimeerd. De gewonde man werd geraakt in zijn been. De politie is een klopjacht begonnen op drie verdachten.",
+  "link": "https://www.rijnmond.nl/nieuws/2279202/schietpartij-in-schiedamse-woonwijk-een-dode-drie-verdachten-gevlucht"
  },
  {
   "id": "c9f1de90d2",
@@ -50,11 +111,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Geweld, liquidaties & bedreiging"
+   "Buitengebied & recreatie"
   ],
   "tags": [
-   "geweld",
    "stal"
   ],
   "samenvatting": "De meer dan 200 mensen die gisteren zijn aangehouden bij een protest tegen een datacenter van Microsoft in Amsterdam zijn vrijgelaten. Een van hen moest een nacht in een politiecel blijven vanwege diefstal. Diegene mocht in de loop van vandaag ook naar huis, zegt een woordvoerder van de politie. Bij het protest in Amst",
@@ -153,19 +212,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages",
-   "Goudhandel & edelmetalen",
-   "Hennep & wietteelt",
-   "Wapens, explosieven & vuurwerk",
-   "Witwassen & geldstromen"
+   "Autobranche & garages"
   ],
   "tags": [
-   "contant geld",
-   "explosie",
-   "garage",
-   "hennep",
-   "sieraden",
-   "vuurwerk"
+   "garage"
   ],
   "samenvatting": "De politie heeft deze week in Dinteloord bijna 10.000 cobra's gevonden in een garagebox aan de De Vriesstraat. Ook werden dozen met lawinepijlen en kilo's aan zware shells aangetroffen. Er zijn twee mensen opgepakt, meldt de politie zaterdag. Een 25-jarige man uit Dinteloord is woensdagavond aangehouden en vrijdagavond",
   "link": "https://www.omroepbrabant.nl/nieuws/6033957/garagebox-vol-met-cobras-lawinepijlen-en-zware-shells-twee-aanhoudingen"
@@ -296,7 +346,7 @@
   "id": "521f69e041",
   "datum": "2026-11-07",
   "tijd": "11:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Auto vliegt uit de bocht en rijdt dwars door muur van huis in Zeeland",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -315,7 +365,7 @@
   "id": "ef7120b41d",
   "datum": "2026-11-07",
   "tijd": "11:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man zonder rijbewijs én onder invloed vlucht met ruim 200 km/u voor politie",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -334,7 +384,7 @@
   "id": "e872a74ab8",
   "datum": "2026-11-07",
   "tijd": "09:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestuurder valt in slaap na nachtdienst, auto botst tegen boom",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -353,7 +403,7 @@
   "id": "03a016dacb",
   "datum": "2026-11-07",
   "tijd": "09:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Peter kocht een driewieler voor woon-werkverkeer, nu leidt hij een motorclub met 1100 leden",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -372,7 +422,7 @@
   "id": "d3749b4e65",
   "datum": "2026-11-07",
   "tijd": "09:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Automobilist mishandelt vrachtwagenchauffeur na heftig ongeluk in Breda",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -391,7 +441,7 @@
   "id": "dbd8127b22",
   "datum": "2026-11-07",
   "tijd": "08:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeven inbrekers met hoogwerker van dak gehaald in Groningen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
