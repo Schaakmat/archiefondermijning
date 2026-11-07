@@ -1,10 +1,92 @@
 [
  {
-  "id": "a982ed7f37",
+  "id": "32dfd5acc6",
+  "datum": "2026-11-07",
+  "tijd": "16:59",
+  "nieuw": true,
+  "titel": "Grote zorgen om 112-meldkamer, explosie bij kapper en rattenjacht op zaterdag 7 november",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "kapper"
+  ],
+  "samenvatting": "Vanuit Apeldoorn kwam vandaag het nieuws dat de ambulancemeldkamer Oost-Nederland met nijpende personeelstekorten kampt. Verder vond in Harderwijk een explosie plaats bij een kapperszaak, en hield de politie in Tiel vrijdagavond een verdachte aan na een achtervolging. Dat en meer lees je in het nieuwsoverzicht van zate",
+  "link": "https://www.gld.nl/nieuws/8544591/grote-zorgen-om-112-meldkamer-explosie-bij-kapper-en-rattenjacht-op-zaterdag-7-november"
+ },
+ {
+  "id": "363bdb821f",
+  "datum": "2026-11-07",
+  "tijd": "16:54",
+  "nieuw": true,
+  "titel": "Bestuurder van crossmotor raakt zwaargewond bij ongeluk in Heesch",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "De bestuurder van een crossmotor is zaterdagmiddag zwaargewond geraakt bij een ongeluk in Heesch. De crosser botste op de Vinkelstraat op een auto en kwam daarna hard ten val. Het slachtoffer is ter plaatse opgevangen door omstanders en behandeld door ambulancemedewerkers. Zij hebben het slachtoffer met spoed naar het ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6033970/bestuurder-van-crossmotor-raakt-zwaargewond-bij-ongeluk-in-heesch"
+ },
+ {
+  "id": "c9f1de90d2",
+  "datum": "2026-11-07",
+  "tijd": "16:40",
+  "nieuw": true,
+  "titel": "Aangehouden demonstranten bij datacenterprotest Amsterdam weer vrij",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld",
+   "stal"
+  ],
+  "samenvatting": "De meer dan 200 mensen die gisteren zijn aangehouden bij een protest tegen een datacenter van Microsoft in Amsterdam zijn vrijgelaten. Een van hen moest een nacht in een politiecel blijven vanwege diefstal. Diegene mocht in de loop van vandaag ook naar huis, zegt een woordvoerder van de politie. Bij het protest in Amst",
+  "link": "https://nos.nl/l/2638450"
+ },
+ {
+  "id": "2a0df4d117",
+  "datum": "2026-11-07",
+  "tijd": "16:04",
+  "nieuw": true,
+  "titel": "Pinkpop blij met Limburgse plannen voor erfgoedlijst: 'Liefdesverklaring'",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "erf",
+   "ondernemers"
+  ],
+  "samenvatting": "Een decennia oud popfestival op een Nederlandse en de internationale Unesco-lijst met immaterieel erfgoed. Als het aan de provincie Limburg ligt, krijgt Pinkpop in Landgraaf deze status. Daarvoor stemden gisteren de Limburgse Provinciale Staten met een tweederdemeerderheid. In de motie verzocht de VVD-fractie het provi",
+  "link": "https://nos.nl/l/2638444"
+ },
+ {
+  "id": "7456810718",
   "datum": "2026-11-07",
   "tijd": "15:51",
   "nieuw": true,
-  "titel": "Almere - Vandalisme op Utopia-eiland houdt aan: opnieuw kunstwerk beschadigd",
+  "titel": "Almere - Wilgenkunstwerk in brand gestoken op Utopia-eiland bij Almere",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -18,7 +100,28 @@
    "woning"
   ],
   "samenvatting": "Op het Utopia-eiland in Almere is zaterdagochtend een van de wilgenkunstwerken in brand gestoken. De brandweer heeft het vuur geblust. De afgelopen tijd zijn er al meerdere vernielingen geweest op het eiland. Utopia maakte in 2022 deel uit van de wereldtuinbouwtentoonstelling Floriade. Het eiland is vrij toegankelijk v",
-  "link": "https://www.omroepflevoland.nl/nieuws/530427/vandalisme-op-utopia-eiland-houdt-aan:-opnieuw-kunstwerk-beschadigd"
+  "link": "https://www.omroepflevoland.nl/nieuws/530427/wilgenkunstwerk-in-brand-gestoken-op-utopia-eiland-bij-almere"
+ },
+ {
+  "id": "be5892a938",
+  "datum": "2026-11-07",
+  "tijd": "15:10",
+  "nieuw": true,
+  "titel": "Gezin woont net drie weken in boerderij die door auto werd geramd",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "boerderij"
+  ],
+  "samenvatting": "Amper drie weken geleden had William van Lith met zijn gezin intrek genomen in de boerderij in het dorp Zeeland die zaterdagochtend werd doorboord door een auto. \"Tja, we kunnen weer opnieuw beginnen\", reageert William enigszins gelaten als hij door het gapende gat in de gevel kijkt. Een automobiliste, reed vanuit Reek",
+  "link": "https://www.omroepbrabant.nl/nieuws/6033958/gezin-woont-net-drie-weken-in-boerderij-die-door-auto-werd-geramd"
  },
  {
   "id": "9ad2bf8048",
@@ -26,6 +129,25 @@
   "tijd": "14:06",
   "nieuw": true,
   "titel": "Politie vindt bijna 10.000 cobra's in garagebox in Dinteloord",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages"
+  ],
+  "tags": [
+   "garage"
+  ],
+  "samenvatting": "De politie heeft deze week in Dinteloord bijna 10.000 cobra's, dozen met lawinepijlen en kilo's aan zware shells (mortierbommen) gevonden in een garagebox aan de De Vriesstraat. Een 25-jarige man uit Dinteloord is woensdagavond aangehouden en vrijdagavond nog een 42-jarige man uit Steenbergen, meldt de politie zaterdag",
+  "link": "https://www.omroepbrabant.nl/nieuws/6033957/politie-vindt-bijna-10000-cobras-in-garagebox-in-dinteloord"
+ },
+ {
+  "id": "9cf9eb7a4e",
+  "datum": "2026-11-07",
+  "tijd": "14:06",
+  "nieuw": true,
+  "titel": "Garagebox vol met cobra's, lawinepijlen en zware shells: twee aanhoudingen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
@@ -45,8 +167,8 @@
    "sieraden",
    "vuurwerk"
   ],
-  "samenvatting": "De politie heeft deze week in Dinteloord bijna 10.000 cobra's, dozen met lawinepijlen en kilo's aan zware shells (mortierbommen) gevonden in een garagebox aan de De Vriesstraat. Een 25-jarige man uit Dinteloord is woensdagavond aangehouden en vrijdagavond nog een 42-jarige man uit Steenbergen, meldt de politie zaterdag",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033957/politie-vindt-bijna-10000-cobras-in-garagebox-in-dinteloord"
+  "samenvatting": "De politie heeft deze week in Dinteloord bijna 10.000 cobra's gevonden in een garagebox aan de De Vriesstraat. Ook werden dozen met lawinepijlen en kilo's aan zware shells aangetroffen. Er zijn twee mensen opgepakt, meldt de politie zaterdag. Een 25-jarige man uit Dinteloord is woensdagavond aangehouden en vrijdagavond",
+  "link": "https://www.omroepbrabant.nl/nieuws/6033957/garagebox-vol-met-cobras-lawinepijlen-en-zware-shells-twee-aanhoudingen"
  },
  {
   "id": "11eed4358c",
@@ -101,15 +223,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
    "Milieucriminaliteit & afval"
   ],
   "tags": [
-   "afval",
-   "afvaldumping",
-   "container",
-   "erf"
+   "afvaldumping"
   ],
   "samenvatting": "De Action in Boxtel moet de kledingcontainers die op het terrein bij de winkel staan verwijderen om verdere afvaldumpingen tegen te gaan. Dat vindt de eigenaar van het terrein waarop de winkel is gevestigd. Volgens hem is Action verantwoordelijk voor het schoonhouden van het terrein. De afvalhopen bij de containers zor",
   "link": "https://www.omroepbrabant.nl/nieuws/6033950/na-dumpingen-terreineigenaar-wil-dat-action-kledingcontainers-verwijdert"
@@ -166,12 +283,10 @@
   "regio": "Flevoland",
   "dossiers": [
    "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval",
    "Vastgoed & huisvesting"
   ],
   "tags": [
    "erf",
-   "grond",
    "woning"
   ],
   "samenvatting": "Aan de Herfstorchidee in de Lelystadse wijk Warande is vrijdagavond geprobeerd in te breken in een woning. Volgens een verslaggever van Omroep Flevoland die ter plaatse was, waren daarbij mogelijk twee personen betrokken. Eén verdachte wist te ontkomen, terwijl een tweede verdachte op heterdaad werd betrapt en door de ",
@@ -197,6 +312,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6033949/auto-vliegt-uit-de-bocht-en-rijdt-dwars-door-muur-van-huis-in-zeeland"
  },
  {
+  "id": "ef7120b41d",
+  "datum": "2026-11-07",
+  "tijd": "11:34",
+  "nieuw": true,
+  "titel": "Man zonder rijbewijs én onder invloed vlucht met ruim 200 km/u voor politie",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Goudhandel & edelmetalen"
+  ],
+  "tags": [
+   "goud"
+  ],
+  "samenvatting": "Een automobilist uit Schiedam die uit handen van de politie wilde blijven, heeft afgelopen nacht flink het gaspedaal ingetrapt. De 35-jarige man raasde met meer dan 200 kilometer per uur over de A20, tussen Gouda en Rotterdam.",
+  "link": "https://www.rijnmond.nl/nieuws/2279175/man-zonder-rijbewijs-en-onder-invloed-vlucht-met-ruim-200-km-u-voor-politie"
+ },
+ {
   "id": "e872a74ab8",
   "datum": "2026-11-07",
   "tijd": "09:40",
@@ -216,6 +350,25 @@
   "link": "https://www.gld.nl/nieuws/8544431/bestuurder-valt-in-slaap-na-nachtdienst-auto-botst-tegen-boom"
  },
  {
+  "id": "03a016dacb",
+  "datum": "2026-11-07",
+  "tijd": "09:32",
+  "nieuw": true,
+  "titel": "Peter kocht een driewieler voor woon-werkverkeer, nu leidt hij een motorclub met 1100 leden",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "motorclub"
+  ],
+  "samenvatting": "Peter (56) kocht een MP3-motor, een motor met twee voorwielen, om naar zijn werk te rijden. Dit deed hij welgeteld één keer, maar inmiddels leidt hij wel een MP3-motorgroep met 1100 leden. “Ik ben er mee begonnen, omdat ik het leuk vind om met anderen ritjes te maken.”",
+  "link": "https://www.rijnmond.nl/nieuws/2278836/peter-kocht-een-driewieler-voor-woon-werkverkeer-nu-leidt-hij-een-motorclub-met-1100-leden"
+ },
+ {
   "id": "d3749b4e65",
   "datum": "2026-11-07",
   "tijd": "09:02",
@@ -226,11 +379,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "bedreiging",
    "vrachtwagen"
   ],
   "samenvatting": "Een 44-jarige automobilist uit Breda is zaterdagochtend thuis opgepakt voor het mishandelen van een vrachtwagenchauffeur na een ongeluk. De auto van de man kwam na een botsing met de vrachtauto ondersteboven terecht op het wegdek in de Westerhagelaan in Breda. Volgens de politie ging het mis toen de auto de vrachtwagen",
@@ -259,7 +410,7 @@
   "id": "e587111539",
   "datum": "2026-11-07",
   "tijd": "08:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man met inbrekerswerktuig aangehouden in Apeldoorn",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -278,7 +429,7 @@
   "id": "4ee6eca407",
   "datum": "2026-11-07",
   "tijd": "07:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wilde achtervolging met snelheden van 150 km/u eindigt in weiland",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -297,7 +448,7 @@
   "id": "5b06504130",
   "datum": "2026-11-07",
   "tijd": "07:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wat zijn de gevolgen van de bommeldingen voor reizigers en vliegmaatschappijen?",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -319,7 +470,7 @@
   "id": "5f935bf7ee",
   "datum": "2026-11-07",
   "tijd": "07:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Let op verdachte situaties in je buurt: signalen van ondermijnende criminaliteit",
   "bron": "Nieuws.nl",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -339,7 +490,7 @@
   "id": "f6b5d48c65",
   "datum": "2026-11-07",
   "tijd": "06:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Een persoon aangehouden na steekincident in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -358,7 +509,7 @@
   "id": "aeb04c4ab2",
   "datum": "2026-11-07",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stefan rijdt stijf van de drugs wandelaar (82) dood, twee jaar cel geëist",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -377,7 +528,7 @@
   "id": "a77fe623fa",
   "datum": "2026-11-07",
   "tijd": "05:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestuurder aangehouden • twee gewonden bij ongeval",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -396,7 +547,7 @@
   "id": "65f9fe22e4",
   "datum": "2026-11-07",
   "tijd": "05:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Autobrand in Apeldoorn • bestuurder aangehouden",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -415,7 +566,7 @@
   "id": "7c9cdb0909",
   "datum": "2026-11-07",
   "tijd": "05:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Werkwijze mensensmokkelaars onthuld: asielzoekers naar Ter Apel met geblindeerde busjes, nep-huwelijken en peperdure vip-reizen",
   "bron": "De Telegraaf",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -434,7 +585,7 @@
   "id": "31b62e9f82",
   "datum": "2026-11-07",
   "tijd": "03:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "A32 weer open na afsluiting vanwege risico vallende glasplaten",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -453,7 +604,7 @@
   "id": "27f0c423fc",
   "datum": "2026-11-06",
   "tijd": "23:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Administratieve fout of regelrecht gesjoemel? Proces in Tongeren belangrijk voor strijd tegen mestfraude",
   "bron": "HBVL",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -4740,6 +4891,27 @@
   ],
   "samenvatting": "Twentse vastgoedhandelaar W. (64) zwijgt over witwassen miljoenen euro’s, rechterhand sluit deal met OM Tubantia",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNUxUUnd1QnJ2ekhHSTh2d3JIOVc0N0gxY3NTZW1adFllTV8yc3ZPYmN1TzBFU0I0R1ZUTndXZlNKVERDbDJKc0trV0JaVHFnV1U2UEZLcFhxLTJsRi14SXc5TTFhdXZYOE96a0wwVDRvN2N2SXdhMUV4OVVWcjZkMzFodE9iV0pTVnFTbHBvM05aZEdGVC12cURaaUlWZ0s1VFVObnJzTUpaeE03ZVF1eFBjUWFpbUE2M0FpUU0xOEdFdlpSTGVFV016MlNoV1NJSFR6Mw?oc=5"
+ },
+ {
+  "id": "22d17f265d",
+  "datum": "2026-11-02",
+  "tijd": "16:56",
+  "nieuw": false,
+  "titel": "Twentse vastgoedhandelaar W. (64) zwijgt over witwassen miljoenen euro’s, rechterhand sluit deal met OM",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "vastgoed",
+   "witwassen"
+  ],
+  "samenvatting": "Twentse vastgoedhandelaar W. (64) zwijgt over witwassen miljoenen euro’s, rechterhand sluit deal met OM AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLTN1YkdqSnhua1VPRUVVdS0zX1BRcnRTd3NMRGdlb0EtWmdRSnEwVnNmWXgtTjJrbTJaSXF0SzVrdTZpZHo4M0lQeWhaakdnOFNSTjB2T1Zlb1hJRmpRb0UzcGFTX0RqUEQ5bVBiLTZVaFdTckZJOENFX1JReVhjR054MGdYTm1oMEUyZmxZZmtVajgtSzUwejVFTngyQVhyR3U3azZ4eTFIdXZ0a2NLYkt6SnNLZnZDbmhDd3hiM3BwTU5YLXJqS2s4X0VGenlHRjhKdmpPX0pEQQ?oc=5"
  },
  {
   "id": "a8268cbcb6",
