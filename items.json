@@ -1,5 +1,48 @@
 [
  {
+  "id": "27f0c423fc",
+  "datum": "2026-11-06",
+  "tijd": "23:01",
+  "nieuw": true,
+  "titel": "Administratieve fout of regelrecht gesjoemel? Proces in Tongeren belangrijk voor strijd tegen mestfraude",
+  "bron": "HBVL",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bv",
+   "mest",
+   "mestfraude"
+  ],
+  "samenvatting": "Administratieve fout of regelrecht gesjoemel? Proces in Tongeren belangrijk voor strijd tegen mestfraude HBVL",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdjFYUGJDWjlHUHBpZERMc01BSlFsTG1jUEdNcmtCdmVkZksyMTB5VGNOVkljTzQtOUVJNzZmSlBoRWx3RWxDanRsNk1Ka1BrZDZYUEc3V3FWZUxkMWZyQ1ZoTjJla2w1MmYxZXZLdE5hRlRBeVZ3N0lXb2Y3NERTVEtmdnJuRGZSYWl4amhaTk1QeWZhYUJMeGM3TVJGRGI3bG9uWWJlWmsxamVCcmNzUFllVjM5c3JEQldKSS1GYndyWHVDbjZRZGdCbmxMN0lxbEpBNTBYM29kTEFRTlMwMzZtNkd4dUw4aTQwcG9vOTZmeC1hNlZiOEZFYk5lbGs?oc=5"
+ },
+ {
+  "id": "0283af6c69",
+  "datum": "2026-11-06",
+  "tijd": "22:32",
+  "nieuw": true,
+  "titel": "Man op Schiphol opgepakt voor bommelding op vlucht naar Praag",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "schiphol"
+  ],
+  "samenvatting": "De Koninklijke Marechaussee heeft een 45-jarige man aangehouden, omdat hij op Schiphol een valse bommelding zou hebben gedaan. De melding werd gisteravond gedaan en ging over een vertrekkende vlucht naar Praag, bevestigt een woordvoerder van de marechaussee. De man, met de Tsjechische nationaliteit, werd gisteravond bi",
+  "link": "https://nos.nl/l/2638366"
+ },
+ {
   "id": "9ac322e7e2",
   "datum": "2026-11-06",
   "tijd": "21:16",
@@ -17,6 +60,25 @@
   ],
   "samenvatting": "Tijdens een staking van ANWB-medewerkers komende maandag moet er bij de verkeersorganisatie een minimale bezetting blijven van 12,5 procent. Dat heeft de voorzieningenrechter bepaald. De ANWB had een kort geding aangespannen tegen een staking van onder meer medewerkers van de Wegenwacht en de Alarmcentrale. Die is door",
   "link": "https://nos.nl/l/2638355"
+ },
+ {
+  "id": "cd1a0ba251",
+  "datum": "2026-11-06",
+  "tijd": "20:38",
+  "nieuw": true,
+  "titel": "Politie ontruimt kraakpand in Zwolle na zorgen over veiligheid museumcollectie",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand"
+  ],
+  "samenvatting": "Voor de derde keer in een maand tijd is in Zwolle een pand gekraakt. Gisteravond ontruimde de politie een historisch pand van de gemeente in de Voorstraat, direct naast stadsmuseum ANNO. Omwille van de veiligheid van de collectie.",
+  "link": "https://www.oost.nl/nieuws/3716244/politie-ontruimt-kraakpand-in-zwolle-na-zorgen-over-veiligheid-museumcollectie"
  },
  {
   "id": "b8f419e064",
@@ -67,11 +129,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Trustkantoren & rechtspersonen"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "bestuurder",
    "organisatie"
   ],
   "samenvatting": "Toen ze in 2014 samen uitzendorganisatie Werckpost op Urk begonnen, was alles nog koek en ei tussen vader Geert Post, zoon Nanne Post en dochter Maria Coenen-Post. Maar inmiddels liggen de drie stevig met elkaar overhoop. Zo erg, dat Nanne Post vrijdag naar de rechter stapte. \"We zitten hier als familie met het schaamr",
@@ -159,16 +219,11 @@
   "regio": "Landelijk",
   "dossiers": [
    "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "liquidatie",
    "moord",
-   "schiphol",
-   "wapen",
-   "woning"
+   "schiphol"
   ],
   "samenvatting": "Een van de zes verdachten van een mislukte moordaanslag op een Iraanse activist en publicist in Haarlem, heeft bekend dat hij naar Nederland is gekomen om een moord in opdracht te plegen. Het strafproces tegen vijf mannen en een vrouw ging vandaag van start in de extra beveiligde rechtszaal op Schiphol. De zes worden v",
   "link": "https://nos.nl/l/2638332"
@@ -283,7 +338,7 @@
   "id": "57ccf2470a",
   "datum": "2026-11-06",
   "tijd": "15:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "NCTV: overheden en bedrijven houden tempo online bedreigingen niet bij",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -299,10 +354,30 @@
   "link": "https://nos.nl/l/2638312"
  },
  {
+  "id": "2e9c437780",
+  "datum": "2026-11-06",
+  "tijd": "15:36",
+  "nieuw": false,
+  "titel": "Illegale bewoning in drie panden aan de Kagerweg in Beverwijk",
+  "bron": "Haarlems Dagblad",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "Illegale bewoning in drie panden aan de Kagerweg in Beverwijk Haarlems Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZTBkNFJ0cnU1WlBLUy16aXFtSl8tUjRieXJoeGNxd0FRM3pVTXMwLWF6Y2FIQi1IejY0bTVhbTRHZXVkV3dLanZnRHE2Vmt2RUxGcEwxUS1mbkpjVm9FclJHR3FNZGFsVnkxMmdBOVk1TXdFLTNXdGtIU01sUjNGSXRJSTVpRU1TSGtYdXBwYmlvbC1CMXlGNklhaG9BQnYyMmJZVmVaSi00UmlrV2lRUkMzREp5S1V4X3pVbA?oc=5"
+ },
+ {
   "id": "a93cbf54bf",
   "datum": "2026-11-06",
   "tijd": "15:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zwarte lijst met sekswerkers bijgehouden: ‘Verontrustend en gevaarlijk’",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -330,7 +405,7 @@
   "id": "37a58fd509",
   "datum": "2026-11-06",
   "tijd": "15:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man die inreed op politie op de vlucht na vondst drugslab Maaseik",
   "bron": "Headliner.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -349,7 +424,7 @@
   "id": "11f1c24bd3",
   "datum": "2026-11-06",
   "tijd": "15:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man die inreed op politie op de vlucht na vondst drugslab Maaseik",
   "bron": "L1 Nieuws",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -368,7 +443,7 @@
   "id": "22244c598c",
   "datum": "2026-11-06",
   "tijd": "14:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Illegale bewoning in drie panden aan de Kagerweg in Beverwijk",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -388,7 +463,7 @@
   "id": "09a25e6291",
   "datum": "2026-11-06",
   "tijd": "14:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie onderzoekt 'verdachte' en 'nare' situatie in bosje in Zeeland",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -407,7 +482,7 @@
   "id": "e04ddcb7cb",
   "datum": "2026-11-06",
   "tijd": "13:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dochter Yvon K. raakt erfenis uit kluis van moeder kwijt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -430,7 +505,7 @@
   "id": "52e877e36e",
   "datum": "2026-11-06",
   "tijd": "12:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wetsvoorstel voor effectiever afpakken crimineel vermogen naar Tweede Kamer - Rijksoverheid.nl",
   "bron": "Rijksoverheid",
   "verzameld_via": "Rijksoverheid",
@@ -449,7 +524,7 @@
   "id": "9856be6cb6",
   "datum": "2026-11-06",
   "tijd": "12:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Forse vangst bij controle: 1.000 wietplanten gevonden in bedrijfspand Almere",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -841,29 +916,6 @@
   ],
   "samenvatting": "Hij lapte trouw ramen van hele straat in Prinsen­beek, maar in zijn schuurtje vond politie een drugslab: `Ik schrik hiervan` Drimble",
   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWEp5RHc0LTZqelZEZ2dnb3FMR2pWWTZ5S3Q4RFR1S1FXbXRRTzJubXNEUHNhMzFFaUpHYWtRNVY3aDE2ZFhNT2s4QzNCLUdUcVNQeDR3ZlY1MUxkYkZiRVNNVGtBWHFPRW04S3dRTTk0bzZ6MFJyOXo5MExZTDNLWThabC1JbnFrdktDZ2VSQjYtSnZUeFM4WURCWmREc00xbXZoOVJiU1RxVDM0T0tPdXhneDgxRV9MV3FrUmVsOWlfeXRNdjV1bjdZd0g5M1BudVNzYkl3MHl6Yy1vblNCX3lNQTdrZkUtMEhGSVl6MG9rdFVlWDhTY1p6YUpWMjRzMWJzd0RrbHpkbm8?oc=5"
- },
- {
-  "id": "ad562080b0",
-  "datum": "2026-11-05",
-  "tijd": "22:13",
-  "nieuw": false,
-  "titel": "Kabinet wil werkende statushouders jaren meer tijd geven voor inburgering",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Zorgfraude & sociale zekerheid"
-  ],
-  "tags": [
-   "stal",
-   "uitkering",
-   "vergunning"
-  ],
-  "samenvatting": "Het kabinet wil een groep statushouders langer de tijd geven voor hun inburgering. Dat schrijft minister Aartsen van Werk en Participatie in een brief aan de Tweede Kamer. De statushouders die in aanmerking komen, moeten ten minste 28 uur per week werken of hebben gewerkt. Werkende statushouders mogen, afhankelijk van ",
-  "link": "https://nos.nl/l/2638212"
  },
  {
   "id": "705198f9c8",
@@ -1753,6 +1805,25 @@
   ],
   "samenvatting": "De voormalige eigenaar van het Twentse vastgoedbedrijf Megahome moet wat het Openbaar Ministerie betreft voor dertig maanden achter de tralies. De 64-jarige W. sluisde miljoenen uit het bedrijf. Uiteindelijk leidde dat tot het grootste Twentse faillissement uit de geschiedenis.",
   "link": "https://www.oost.nl/nieuws/3715472/celstraf-dreigt-voor-financieel-uitgeklede-ex-vastgoedbaas-van-megahome"
+ },
+ {
+  "id": "7cdc6521eb",
+  "datum": "2026-11-04",
+  "tijd": "20:20",
+  "nieuw": false,
+  "titel": "Als gezin in dure auto’s rijdt, krijgt FIOD ze op de korrel: twee invallen in onderzoek naar witwassen",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Als gezin in dure auto’s rijdt, krijgt FIOD ze op de korrel: twee invallen in onderzoek naar witwassen Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlRfRE1kZjI3RUpHVzM0V1dFUzVzdlIxcFFTVlRNcE9mUlhWS0E5ZktOamxWblF4VGdDTGdkZlpIekFCb3M5Mk5IcXp3cDJjaWxwNEpEdndnUW1SMktoc2lOTzNmTmhkMjl6N1NuU2hSdHRfR0pkTmRJaFFtMXh3TXJDT3BhUTlTQ3Q3RXFMVktSOEtFV0YyQnZiaHBoU1YtaWNTblNCOWhrdG5XUDdTMVYzc1IzWGRzUnd5cjBydUxkdFQwd25aXzNSdHlMMkE5TTEySg?oc=5"
  },
  {
   "id": "4c08e2cb7e",
@@ -4181,6 +4252,25 @@
   ],
   "samenvatting": "Nederland blijkt uitvalsbasis voor mensensmokkel: rubberboten hier opgeslagen en klaargemaakt De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcVVLc3UyV0VlT3o0bWNXUF91RVpUXzJaRjRGZE90dkYwbFNRZmpoUlVHSnlsNTB6NkltTWdKRXI3NF8xYWFMdTh1T0UxSkxkckhsYXVMU3FnTUNLVXZrTk9seFJXYVFES1FTNlpva1dUZHpUb0dISGxNVUx5a3NNLW5MNFhkclVXYUNNOGZmTTBKZTlpYUVTN092NjBQTjVKcmlscl9CT0FaWXU3VnlxZlp3bWVBZ01uOHNNY1pDMVYyRnM4cWZhYzVZNm1ENmZPYTFEckJteTc?oc=5"
+ },
+ {
+  "id": "8685057580",
+  "datum": "2026-11-02",
+  "tijd": "18:30",
+  "nieuw": false,
+  "titel": "Nederland blijkt belangrijke schakel bij mensensmokkel: rubberboten hier opgeslagen en klaargemaakt",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Nederland blijkt belangrijke schakel bij mensensmokkel: rubberboten hier opgeslagen en klaargemaakt Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRFp5TWxtaENCNHJ2bTl5R2QwNkxoX014TzlZVEhtbDhBbDdaN09ORkhNWTZrb2hZRTdVYzNBYV9hS25WMXc2VWE1TUs2TEtORkZYdlNiM1pCMVoxX2VGNUExdzdvMlFmNEZKaWs3eXVjbXgzWk9fRWp5QzQ1ckprNHJLMFlxTlhzM01KUms3ZnEtemVOQmEyTGFxRlNQMDN4TUlwOEtOTzQ1N0hlZGpLNzNLWXJtTW5TOFc2cEF1V19wV0o5UkEwSmlsVXlVMVhHZjFR?oc=5"
  },
  {
   "id": "050454d477",
