@@ -1,5 +1,86 @@
 [
  {
+  "id": "06f4024371",
+  "datum": "2026-11-08",
+  "tijd": "20:20",
+  "nieuw": true,
+  "titel": "Flevoland - ANWB-personeel staakt maandag twaalf uur, rechter stelt voorwaarden",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "Een deel van het ANWB-personeel legt maandag twaalf uur lang het werk neer. Leden van de vakbonden CNV en FNV staken omdat ze ontevreden zijn over de arbeidsvoorwaarden. Eerdere stakingen en onderhandelingen hebben tot nu toe niets opgeleverd. De staking begint maandagochtend om 09.00 uur en duurt tot 21.00 uur. Vakbon",
+  "link": "https://www.omroepflevoland.nl/nieuws/530571/anwb-personeel-staakt-maandag-twaalf-uur-rechter-stelt-voorwaarden"
+ },
+ {
+  "id": "861b593241",
+  "datum": "2026-11-08",
+  "tijd": "19:05",
+  "nieuw": true,
+  "titel": "Buurt schrikt van vondst 10.000 cobra's: 'Hele wijk had plat kunnen liggen'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "garage",
+   "granaat",
+   "handgranaat",
+   "vuurwerk"
+  ],
+  "samenvatting": "De vondst van zo'n 10.000 cobra's deze week in een garagebox in Dinteloord heeft flinke indruk gemaakt op buurtbewoners. Veel omwonenden wisten niet wat er achter de deur van de box lag opgeslagen en schrikken van wat er mis had kunnen gaan. \"Als het vuurwerk daar had ontploft, had de garagebox hier nu niet meer gestaa",
+  "link": "https://www.omroepbrabant.nl/nieuws/6034002/buurt-schrikt-van-vondst-10000-cobras-hele-wijk-had-plat-kunnen-liggen"
+ },
+ {
+  "id": "b1d4e8b911",
+  "datum": "2026-11-08",
+  "tijd": "19:01",
+  "nieuw": true,
+  "titel": "Supporters blokkeren Vitesse-De Graafschap, verdacht pakketje in Duiven en vloeren ingestort in Zutphen op zondag 8 november",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "stort"
+  ],
+  "samenvatting": "Het was een zondag vol onverwachte gebeurtenissen in Gelderland. De Gelderse derby tussen Vitesse en De Graafschap ging niet door na een supportersactie. In Zutphen zorgde een instorting voor grote schrik en in Nijmegen moesten bewoners hun huis uit vanwege een brand. Dit en meer in het nieuwsoverzicht van zondag 8 nov",
+  "link": "https://www.gld.nl/nieuws/8544836/supporters-blokkeren-vitesse-de-graafschap-verdacht-pakketje-in-duiven-en-vloeren-ingestort-in-zutphen-op-zondag-8-november"
+ },
+ {
+  "id": "da20629512",
+  "datum": "2026-11-08",
+  "tijd": "17:10",
+  "nieuw": true,
+  "titel": "Politie arresteert een persoon op verdenking van mensensmokkel: “In totaal vijftien transmigranten aangetroffen”",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Politie arresteert een persoon op verdenking van mensensmokkel: “In totaal vijftien transmigranten aangetroffen” Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNX0JrMXhMbE9VWjQxRTN4MEdFM2phMkliVXBuMDhYNGtGcnlaZndXSXQ2UWVEVk9pbEFFOE4yVTZYa3FsOWR5dmZWS0VieTByaVlOem9YRTNERE55LVc5dUR3X1Yyand6bHUxbVZvU2xBLUktbWxCdlZJcl9nYWxBeTl4NnltdE9jYW51YlZYc3lJcTJTcGg1aVJ6azZXdGxWMDdELTRYWG1GcFJsVG92dTNSVWtXbmJQcUtyX0R5M2Y0X2FuT3RlZ1NxNzU3YTRNRzRnaUlJV1lDRTBHN3o1M3ZLU256dEU2cVBLVFFsQVlISlAzRDBBZ3kxSUpicDR2cmJlQndFUGFPUUo3Q0lEemwySWtsbEJNUFE3M1UwME4?oc=5"
+ },
+ {
   "id": "cc38da5ce1",
   "datum": "2026-11-08",
   "tijd": "16:42",
@@ -19,6 +100,25 @@
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV2VlSUxGTU9mRjd1ZzMtVXAxNnE4Ynl2Vl9qZDllT0pqa2o5SzI5M1ZydVNpZGY5dElaUHBWUlhWaHJHbXI0SDZuV2xoYWpybVRDeW1UV0ZnZUVXaTVSTmp1cnM2RGlGSjY3NXhneTlmdFI5akJiX3BTSFVhcHB4ZjVsampjN1FDYkFSMXZIUXlyV1NLdDhVTlpWWW1pUGxtemJocnRNT01KUDB1Z3Z3Z2p6VjdtTHpYMGxlQlBIeDhYY0s1UGxxMTJTRU9LSnF0Z21LXzVNUkpGa1RHeXV3?oc=5"
  },
  {
+  "id": "5df1e4ac54",
+  "datum": "2026-11-08",
+  "tijd": "16:42",
+  "nieuw": true,
+  "titel": "Politie onderschepte ook zaterdag al 15 transmigranten in Middelkerke en Koksijde: “Man opgepakt op verdenking mensensmokkel”",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Politie onderschepte ook zaterdag al 15 transmigranten in Middelkerke en Koksijde: “Man opgepakt op verdenking mensensmokkel” HLN",
+  "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUUQ1a3o1X0dPdk9hY2RIVC1uUnd5U01nT3pTTGJkT2RlOVB2S0dSMWhkd0Nxa0U0NmhmRHFCRzBQUUREWWt4aEl6OWd0UXl0UU8teFQyZmVyeWwtdlRnMkU5WFN5RXdzV1d0YlE0VWQtajNlQV8weXREQUEzWDVLMzJmZjZfbUgyalZjRERXbU1GSVFRR1JCVURIdFM1UFNQVlBsMVJ0ZHh5SXdxMFZMNlJjQ0s0RE5PWlZMZ3o5Umg3WHFIYnJqbEtLUi1jUkt2OFVfZXI3bVV5U3J2OERaVlYyYVRWbGtPbEQ5amE0b0FXenIyQ2c?oc=5"
+ },
+ {
   "id": "069f6d43a7",
   "datum": "2026-11-08",
   "tijd": "15:56",
@@ -29,19 +129,11 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages",
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Drugsproductie & labs",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "cobra 6",
-   "container",
-   "garage",
-   "loods",
-   "vrachtwagen",
-   "vuurwerk"
+   "vuurwerk",
+   "zwaar illegaal vuurwerk"
   ],
   "samenvatting": "De politie vond deze week in Dinteloord ruim 750 kilo zwaar illegaal vuurwerk, waaronder bijna 10.000 Cobra's. Een flinke vangst, maar zeker niet de grootste in Brabant. De afgelopen zes jaar werden op verschillende plekken in de provincie partijen van duizenden kilo's ontdekt. Soms lagen die in een woonwijk, soms in e",
   "link": "https://www.omroepbrabant.nl/nieuws/6033990/dinteloord-is-niet-uniek-brabant-kent-nog-veel-grotere-vuurwerkvangsten"
@@ -123,6 +215,25 @@
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV05MTGRGa0N5OFQ3WWo2V2JQZVVlUWUxRVNERmhuNndZUy1TakozMmhTVFFSZFdDdkJrc1BIbDZBVkZEWjdvcDJQOGFFY0tVRGxZem43VXg4UDBpRzBPQTR5OHZfUXplaWgtTUVNbWFSNnVzUFhhNlVNUEM4aUt0RFoyWGJWbkMzZ3hfZUJ1THc3YXBxR3FJcEd2UG14UjVBOGRLaEVrVGFGMHVDVWpzMmZKdHNkSjRXazBUNERn?oc=5"
  },
  {
+  "id": "9c5b1b490d",
+  "datum": "2026-11-08",
+  "tijd": "14:09",
+  "nieuw": true,
+  "titel": "Politie houdt bijeenkomst voor verontruste buren van drugslab in Prinsenbeek",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie houdt bijeenkomst voor verontruste buren van drugslab in Prinsenbeek De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDBfak45U1FBQUdZX3BMelVCUkRPYkVvUGExTkZvbk5SM0xXNzZNVTFZcUJwa2psVEZSRGVFXzdiODAwN0pTSi1VWFVaM1J3VHJjSUVUR2JLYTFnNXpwa3Z2Q09VVFVKNXhQMTZBRTRHMlVGMmUtU0RSS0s1anhQa2JRb2d4el9BWDR5TjZXbkxTRXVSMG9kdEUxQWtScThTR1ZYcG9QZE1OQnhCbHMtcVl4M3l3SG1ZcGJ1Y091MA?oc=5"
+ },
+ {
   "id": "b7b6c6722f",
   "datum": "2026-11-08",
   "tijd": "14:03",
@@ -154,17 +265,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "geweld",
-   "leider",
-   "organisatie",
-   "pand",
-   "wapen"
+   "organisatie"
   ],
   "samenvatting": "In Amsterdam hebben volgens de organisatie zeker 200.000 mensen tegen het Israël-beleid van de Nederlandse regering gedemonstreerd. De Rode Lijn-demonstratie verliep zonder grote incidenten, zegt de politie. Veel demonstranten droegen rode kleding en zwaaiden met rode en Palestijnse vlaggen. Er waren ook borden en span",
   "link": "https://nos.nl/l/2638553"
@@ -251,7 +355,7 @@
   "id": "a495cfb48a",
   "datum": "2026-11-08",
   "tijd": "09:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Noordoostpolder - Wethouder op herhaling: 'politiek blijft kriebelen'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -272,7 +376,7 @@
   "id": "febedcc3c2",
   "datum": "2026-11-08",
   "tijd": "06:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Controles in Stellingwerven verschuiven van bouw naar ondermijning en horeca",
   "bron": "Stellingwerf",
   "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
@@ -295,7 +399,7 @@
   "id": "4ae3992dbe",
   "datum": "2026-11-07",
   "tijd": "21:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Schietpartij in Schiedamse woonwijk: één dode, klopjacht op schutters",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -311,31 +415,10 @@
   "link": "https://nos.nl/l/2638491"
  },
  {
-  "id": "efc9cc28b0",
-  "datum": "2026-11-07",
-  "tijd": "19:51",
-  "nieuw": true,
-  "titel": "Mysterieuze kuilen en politieonderzoek houden bewoners van Zeeland bezig",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "buitengebied",
-   "grond"
-  ],
-  "samenvatting": "Het politieonderzoek naar mysterieuze kuilen en omcirkelde plekken houdt buurtbewoners in Zeeland bezig sinds zaterdagochtend bekend is dat het waarschijnlijk heeft te maken met een misdrijf. \"De politie is ook op zoek naar een auto\", vertelt iemand uit het dorp. En een buurman vult aan dat de politie \"op zoek is naar ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033965/mysterieuze-kuilen-en-politieonderzoek-houden-bewoners-van-zeeland-bezig"
- },
- {
   "id": "32dfd5acc6",
   "datum": "2026-11-07",
   "tijd": "16:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grote zorgen om 112-meldkamer, explosie bij kapper en rattenjacht op zaterdag 7 november",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -356,7 +439,7 @@
   "id": "e52749141d",
   "datum": "2026-11-07",
   "tijd": "16:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Schietpartij in Schiedamse woonwijk: één dode, drie verdachten gevlucht",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -377,7 +460,7 @@
   "id": "c9f1de90d2",
   "datum": "2026-11-07",
   "tijd": "16:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aangehouden demonstranten bij datacenterprotest Amsterdam weer vrij",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -396,7 +479,7 @@
   "id": "2a0df4d117",
   "datum": "2026-11-07",
   "tijd": "16:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Pinkpop blij met Limburgse plannen voor erfgoedlijst: 'Liefdesverklaring'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -3221,6 +3304,27 @@
   "link": "https://nos.nl/l/2638010"
  },
  {
+  "id": "54b86a9df4",
+  "datum": "2026-11-04",
+  "tijd": "13:00",
+  "nieuw": false,
+  "titel": "´Ondergrondse bankier´ uit Rotterdam verdacht van witwassen van miljoenen naar Turkije",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "grond",
+   "witwassen"
+  ],
+  "samenvatting": "´Ondergrondse bankier´ uit Rotterdam verdacht van witwassen van miljoenen naar Turkije Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYkloeVhGUmRiTEFkZExzVzdySERhR3NrcWlocV9jMHMwYkZ2djI0UWp0WWFFbm02enZITUNMNjZZOHhWQmFnRUxYVlNTZl96OXp1dWw3Ym94TjdxaUZoNEh1SHhWUkpFZkdyeDlJMm9Yd1JzRWtZLWZuc2xFaXo1T0tfVXliQkJWdE11OU1UUGtwWWttWm9UVldEWG5YbGhuNTdoRzAxdDlzeTlPODBXOEdsQ0taejlaN2pwN0kwemlrRzJYdXVNc2tGNEEzMWNpczQ4?oc=5"
+ },
+ {
   "id": "0a696696bc",
   "datum": "2026-11-04",
   "tijd": "12:52",
@@ -5142,6 +5246,25 @@
   ],
   "samenvatting": "Een ruzie in een tuin in Nijverdal krijgt een levensgevaarlijke wending als een vrouw wordt overgoten met benzine en er gedreigd wordt om de boel in brand te steken. Een 62-jarige oud-beroepsmilitair uit Nijverdal wordt verdacht van poging tot moord op zijn partner.",
   "link": "https://www.oost.nl/nieuws/3714697/ruzie-in-nijverdal-loopt-uit-de-hand-vrouw-overgoten-met-benzine-door-partner"
+ },
+ {
+  "id": "ec568f5b7b",
+  "datum": "2026-11-02",
+  "tijd": "16:17",
+  "nieuw": false,
+  "titel": "Hanoi intensiveert de inspanningen om witwassen van geld te voorkomen en te bestrijden.",
+  "bron": "Vietnam.vn",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Hanoi intensiveert de inspanningen om witwassen van geld te voorkomen en te bestrijden. Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wMklfRkxYbWh3OE1mSmwwRnB6MEtsYnFHYnpHTm5HM1k0eXRraWNSbDItVUlmdVFDbE1BNnR5OXI0ODAwVTR5YjdCcjdyeXY2a0ttc2ZtRlFaOUFxeDhCMXZ1Z0U3aW1FdEY1MDZxQVM5VWMzZHo5RU5CUE5lQQ?oc=5"
  },
  {
   "id": "722d655c59",
