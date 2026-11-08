@@ -1,12 +1,12 @@
 {
- "run": "10:34",
+ "run": "17:17",
  "datum": "2026-11-08",
- "nieuw": 15,
- "totaal": 5536,
- "verwijderd": 15,
+ "nieuw": 19,
+ "totaal": 5542,
+ "verwijderd": 13,
  "geweigerd": {
-  "niet-nederlands": 510,
-  "geen dossier": 276
+  "niet-nederlands": 542,
+  "geen dossier": 341
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 382,
-   "status": "bij",
+   "items": 385,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 411,
-   "status": "bij",
+   "items": 412,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -320,8 +320,8 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 179,
-   "status": "bij",
+   "items": 180,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -393,7 +393,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 110,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -456,8 +456,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 44,
-   "status": "fout 503",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "NOS — binnenland",
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 320,
-   "status": "5 nieuw",
+   "items": 319,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 366,
-   "status": "bij",
+   "items": 367,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 354,
-   "status": "bij",
+   "items": 355,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -519,7 +519,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 0,
-   "status": "fout 503",
+   "status": "0 records",
    "ok": false
   },
   {
@@ -546,17 +546,17 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 174,
-   "status": "4 nieuw",
+   "status": "3 nieuw",
    "ok": true
   },
   {
    "naam": "AT5 / Amsterdam",
-   "url": "www.at5.nl/rss/nieuws",
+   "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 113,
-   "status": "fout 503",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Regio — zuid & oost",
