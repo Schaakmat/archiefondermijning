@@ -1,5 +1,70 @@
 [
  {
+  "id": "5a557ba9e8",
+  "datum": "2026-11-08",
+  "tijd": "10:41",
+  "nieuw": true,
+  "titel": "Lelystad - Explosie in Kamp 27, raam en deur gesneuveld",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "In de Kamp 27 in Lelystad heeft zaterdagavond een explosie plaatsgevonden. Volgens een 112-verslaggever hoorden buurtbewoners rond 20.45 uur een doffe dreun. Bij de explosie is het raam aan de voorkant van de woning gesneuveld. Ook de voordeur is beschadigd. Op beelden is te zien dat meerdere politiewagens rond de plek",
+  "link": "https://www.omroepflevoland.nl/nieuws/530518/explosie-in-kamp-27-raam-en-deur-gesneuveld"
+ },
+ {
+  "id": "a495cfb48a",
+  "datum": "2026-11-08",
+  "tijd": "09:00",
+  "nieuw": true,
+  "titel": "Noordoostpolder - Wethouder op herhaling: 'politiek blijft kriebelen'",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "gemeenteraad",
+   "toezichthouder"
+  ],
+  "samenvatting": "Acht jaar na haar afscheid als wethouder zit Hennie Bogaards nu toch weer op de wethoudersstoel in de gemeente Noordoostpolder. \"De politiek kriebelt\", geeft ze toe in het programma Over Flevoland Gesproken. \"Ik geniet gewoon van de politiek, ik heb plezier in het politiek-bestuurlijke debat.\" Na haar eerste wethouders",
+  "link": "https://www.omroepflevoland.nl/nieuws/530503/wethouder-op-herhaling:-'politiek-blijft-kriebelen'"
+ },
+ {
+  "id": "febedcc3c2",
+  "datum": "2026-11-08",
+  "tijd": "06:53",
+  "nieuw": true,
+  "titel": "Controles in Stellingwerven verschuiven van bouw naar ondermijning en horeca",
+  "bron": "Stellingwerf",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Buitengebied & recreatie",
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "erf",
+   "horeca",
+   "ondermijning"
+  ],
+  "samenvatting": "Controles in Stellingwerven verschuiven van bouw naar ondermijning en horeca Stellingwerf",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0wxVHIzRGVuNi13Z2o2NDIyXzRLQnhRNUIydVZ3Ylc2eTcyUmgzZVVlZEcxeEhseHh0V3ZHYkNWVkFBSkNyNlhVWXNtT0E5QTJ0b1RjbXhZUnoyOTBIZl9EOHFIQW5OZkJWeHppVHhFTWZyNmp1LW45RDBrQUdVeWRkMGQ2S1pBaC1ybHJLZjVqc3BPWnZFSXZlTGZGbUdYWEE?oc=5"
+ },
+ {
   "id": "4ae3992dbe",
   "datum": "2026-11-07",
   "tijd": "21:03",
@@ -158,7 +223,7 @@
    "stal",
    "woning"
   ],
-  "samenvatting": "Op het Utopia-eiland in Almere is zaterdagochtend een van de wilgenkunstwerken in brand gestoken. De brandweer heeft het vuur geblust. De afgelopen tijd zijn er al meerdere vernielingen geweest op het eiland. Utopia maakte in 2022 deel uit van de wereldtuinbouwtentoonstelling Floriade. Het eiland is vrij toegankelijk v",
+  "samenvatting": "Op het Utopia-eiland in Almere is vrijdagmiddag een van de wilgenkunstwerken in brand gestoken. De brandweer heeft het vuur geblust. De afgelopen tijd zijn er al meerdere vernielingen geweest op het eiland. Utopia maakte in 2022 deel uit van de wereldtuinbouwtentoonstelling Floriade. Het eiland is vrij toegankelijk voo",
   "link": "https://www.omroepflevoland.nl/nieuws/530427/wilgenkunstwerk-in-brand-gestoken-op-utopia-eiland-bij-almere"
  },
  {
@@ -247,7 +312,7 @@
   "id": "c48b02bd4b",
   "datum": "2026-11-07",
   "tijd": "13:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rechter fluit gemeente Barneveld terug",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -266,7 +331,7 @@
   "id": "28cfce368b",
   "datum": "2026-11-07",
   "tijd": "13:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Na dumpingen: terreineigenaar wil dat Action kledingcontainers verwijdert",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -285,7 +350,7 @@
   "id": "da5e690e54",
   "datum": "2026-11-07",
   "tijd": "12:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - 'Rekken tot er geen nieuwswaarde meer is': GGD vertraagde Woo-procedure, maar ontkent dat dit beleid was",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -306,7 +371,7 @@
   "id": "170cf1bd51",
   "datum": "2026-11-07",
   "tijd": "12:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aanvaring tussen twee vrachtschepen op de Maas bij Den Bosch in dichte mist",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -730,25 +795,6 @@
   "link": "https://www.oost.nl/nieuws/3716244/politie-ontruimt-kraakpand-in-zwolle-na-zorgen-over-veiligheid-museumcollectie"
  },
  {
-  "id": "b8f419e064",
-  "datum": "2026-11-06",
-  "tijd": "20:24",
-  "nieuw": false,
-  "titel": "Zeker 150 demonstranten opgepakt bij protest tegen datacenter in Amsterdam",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "stal"
-  ],
-  "samenvatting": "Bij protest tegen een datacenter van Microsoft in Amsterdam-West zijn vermoedelijk 150 tot 200 verdachten aangehouden. Ze worden verdacht van huisvredebreuk, meldt de politie. Een deel van de demonstranten heeft het terrein vrijwillig verlaten. De actiegroep Fossielvrij demonstreerde vandaag bij de bouwlocatie van het ",
-  "link": "https://nos.nl/l/2638349"
- },
- {
   "id": "3859757900",
   "datum": "2026-11-06",
   "tijd": "20:18",
@@ -806,38 +852,6 @@
   "link": "https://www.oost.nl/nieuws/3716307/dure-mustang-knalt-tegen-boom-bestuurder-mee-naar-politiebureau"
  },
  {
-  "id": "e85fdcd4bf",
-  "datum": "2026-11-06",
-  "tijd": "18:50",
-  "nieuw": false,
-  "titel": "Flevoland - Nieuwsoverzicht 06/11 | Contract jeugdzorgaanbieder opgezegd • Asielkwestie zonder gevolgen",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Hennep & wietteelt",
-   "Jeugd & jonge aanwas",
-   "Ondernemers & weerbaarheid",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk",
-   "Zorgfraude & sociale zekerheid"
-  ],
-  "tags": [
-   "bedrijventerrein",
-   "burgemeester",
-   "container",
-   "explosie",
-   "hennep",
-   "hennepkwekerij"
-  ],
-  "samenvatting": "Goedenavond. Elke doordeweekse dag aan het begin van de avond informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Flevolandse gemeenten ontbinden per direct contract met jeugdhulpaanbieder Careforyou Zorg • Geen maatregelen tegen Flevoland na missen deadline",
-  "link": "https://www.omroepflevoland.nl/nieuws/530301/nieuwsoverzicht-0611-or-contract-jeugdzorgaanbieder-opgezegd-*-asielkwestie-zonder-gevolgen"
- },
- {
   "id": "3f94b11d63",
   "datum": "2026-11-06",
   "tijd": "18:49",
@@ -876,28 +890,6 @@
   ],
   "samenvatting": "Een van de zes verdachten van een mislukte moordaanslag op een Iraanse activist en publicist in Haarlem, heeft bekend dat hij naar Nederland is gekomen om een moord in opdracht te plegen. Het strafproces tegen vijf mannen en een vrouw ging vandaag van start in de extra beveiligde rechtszaal op Schiphol. De zes worden v",
   "link": "https://nos.nl/l/2638332"
- },
- {
-  "id": "6c13bb76dc",
-  "datum": "2026-11-06",
-  "tijd": "18:04",
-  "nieuw": false,
-  "titel": "Flevoland - Flevolandse gemeenten ontbinden per direct contract met jeugdhulpaanbieder Careforyou Zorg",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "jeugd",
-   "jongeren",
-   "organisatie"
-  ],
-  "samenvatting": "Vijf Flevolandse gemeenten hebben het contract met jeugdhulpaanbieder Careforyou Zorg in Almere per direct ontbonden. Volgens de gemeenten heeft de organisatie tijdens de aanbesteding onjuiste en misleidende informatie verstrekt. Ook zijn er ernstige zorgen over de kwaliteit van de hulpverlening en de veiligheid van de",
-  "link": "https://www.omroepflevoland.nl/nieuws/530328/flevolandse-gemeenten-ontbinden-per-direct-contract-met-jeugdhulpaanbieder-careforyou-zorg"
  },
  {
   "id": "813f6cf693",

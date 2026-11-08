@@ -1,12 +1,12 @@
 {
- "run": "02:46",
+ "run": "10:34",
  "datum": "2026-11-08",
- "nieuw": 16,
+ "nieuw": 15,
  "totaal": 5536,
  "verwijderd": 15,
  "geweigerd": {
-  "niet-nederlands": 538,
-  "geen dossier": 320
+  "niet-nederlands": 510,
+  "geen dossier": 276
  },
  "bronnen": [
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 362,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -392,8 +392,8 @@
    "url": "news.google.com/rss/search?q=ondermijning%20OR%20%22ondermijnende%20crim",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 109,
-   "status": "bij",
+   "items": 110,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -456,16 +456,16 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 44,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "NOS — binnenland",
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 169,
-   "status": "6 nieuw",
+   "items": 168,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -519,7 +519,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 0,
-   "status": "0 records",
+   "status": "fout 503",
    "ok": false
   },
   {
@@ -551,12 +551,12 @@
   },
   {
    "naam": "AT5 / Amsterdam",
-   "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
+   "url": "www.at5.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 113,
-   "status": "bij",
-   "ok": true
+   "status": "fout 503",
+   "ok": false
   },
   {
    "naam": "Regio — zuid & oost",
