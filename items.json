@@ -1,5 +1,43 @@
 [
  {
+  "id": "d32313f587",
+  "datum": "2026-11-09",
+  "tijd": "06:34",
+  "nieuw": true,
+  "titel": "Wekdienst 9/11: Wegenwacht staakt • VN-klimaattop van start",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "Goedemorgen! Vandaag leggen medewerkers van de ANWB het werk neer en in de Portugese Synagoge in Amsterdam vindt de Nationale Kristallherdenking plaats. Eerst het weer: vanochtend is het op sommige plaatsen mistig. In de loop van de dag wordt het steeds zonniger. Het wordt 9 tot 11 graden en er is weinig wind. Ga je va",
+  "link": "https://nos.nl/l/2638665"
+ },
+ {
+  "id": "8779d79d30",
+  "datum": "2026-11-09",
+  "tijd": "04:24",
+  "nieuw": true,
+  "titel": "Explosie bij huis in Breda, buurtbewoners houden rekening met vergissing",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Bij een huis aan de Roerstraat in Breda is zondagnacht een explosief ontploft. Buurtbewoners werden wakker van de harde knal en belden de hulpdiensten. De brandweer had de situatie snel onder controle. Bij de explosie liepen een auto en een fiets die voor het huis geparkeerd waren, schade op. Het rolluik van het huis i",
+  "link": "https://www.omroepbrabant.nl/nieuws/6034009/explosie-bij-huis-in-breda-buurtbewoners-houden-rekening-met-vergissing"
+ },
+ {
   "id": "8432421b74",
   "datum": "2026-11-08",
   "tijd": "22:32",
@@ -41,6 +79,25 @@
   ],
   "samenvatting": "Hoe witwassen hackers de 6,3 miljard dollar aan cryptovaluta die van Binance is gestolen? Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzktblhDM0ptbG0zb0JPc2dnODdVdDBGclRDNFRiZThmUmp1QzNFV0lWN3FnMTU0UzFBTXd0b0U5UHZvU3BFTjVaNGdHTUZiaDNSdDVXblFaa2t4Ymc2U21uSS1qUkpsUUw5cHZxNDFRUHFHS1lVMDJhdXhkbk5IOWVXSEJici1zY2tIRGpBNVJGVUtRcnRhTGVn?oc=5"
+ },
+ {
+  "id": "841b68e2a9",
+  "datum": "2026-11-08",
+  "tijd": "22:06",
+  "nieuw": true,
+  "titel": "Politie houdt bijeenkomst voor verontruste buren van drugslab in Prinsenbeek",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie houdt bijeenkomst voor verontruste buren van drugslab in Prinsenbeek Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLTVMQnpGU0Z3MldTU1BnVlNpcWd5Ymh1eWZZd0NYd1RINkhRUFMxWnVpaF9kWEJtckVWZHlDY25CLVJHMUZTVHpYeVhRSlBjX1JxMHgwRXVVLUZBMjhmbm9LV2NlNFJVQ1k1RmNqYWN5dVNYNGFzd2I3cU5lVkh2NjFOc1gtcUN6ekU2aDlPbloxZTNna2ZEbVdlQXlkdUxrYy1Xb3BvVHMwOFBUR0Frejg3bjIyWUREZUVfbW1zMkhCMnRXY25OcDhGcURlU1B6RlE?oc=5"
  },
  {
   "id": "7b41838f22",
@@ -184,7 +241,7 @@
   "id": "069f6d43a7",
   "datum": "2026-11-08",
   "tijd": "15:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dinteloord is niet uniek: Brabant kent nog veel grotere vuurwerkvangsten",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -204,7 +261,7 @@
   "id": "70adbe42d2",
   "datum": "2026-11-08",
   "tijd": "14:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mogelijk verkeerde huis beschoten in Vlaardingen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -223,7 +280,7 @@
   "id": "572215fcdd",
   "datum": "2026-11-08",
   "tijd": "14:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie houdt bijeenkomst voor verontruste buren van drugslab in Prinsenbeek",
   "bron": "Eindhovens Dagblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -242,7 +299,7 @@
   "id": "1897907c93",
   "datum": "2026-11-08",
   "tijd": "14:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie houdt bijeenkomst voor verontruste buren van drugslab in Prinsenbeek",
   "bron": "BN DeStem",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -261,7 +318,7 @@
   "id": "c9308c1d86",
   "datum": "2026-11-08",
   "tijd": "14:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie houdt bijeenkomst voor verontruste buren van drugslab in Prinsenbeek",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -280,7 +337,7 @@
   "id": "9c5b1b490d",
   "datum": "2026-11-08",
   "tijd": "14:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie houdt bijeenkomst voor verontruste buren van drugslab in Prinsenbeek",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -365,32 +422,6 @@
   ],
   "samenvatting": "\"We zijn met de schrik vrijgekomen.\" Dat is de conclusie van burgemeester Ruud van den Belt nadat er deze week 10.000 cobra’s werden gevonden in een garagebox in Dinteloord. Volgens de burgemeester van de gemeente Steenbergen is de vuurwerkvondst \"erg zorgwekkend\". \"Je moet er niet aan denken wat er had kunnen gebeuren",
   "link": "https://www.omroepbrabant.nl/nieuws/6033989/10000-cobras-gevonden-in-garagebox-we-zijn-met-de-schrik-vrijgekomen"
- },
- {
-  "id": "6c21b4ecfb",
-  "datum": "2026-11-08",
-  "tijd": "11:00",
-  "nieuw": false,
-  "titel": "Moerdijk, inmiddels een jaar lang gevangen tussen hoop en onzekerheid",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Milieucriminaliteit & afval",
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "buitengebied",
-   "burgemeester",
-   "gemeenteraad",
-   "grond",
-   "ondernemers"
-  ],
-  "samenvatting": "Het is dinsdagavond 11 november 2025. Even voor acht uur druppelen de eerste belangstellenden het dorpshuis De Ankerkuil in Moerdijk binnen voor een informatieavond. De gemeente heeft inwoners uitgenodigd om hen bij te praten over Powerport. Er zijn dit jaar al meerdere bijeenkomsten over dit dossier geweest. Maar dit ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6033610/moerdijk-inmiddels-een-jaar-lang-gevangen-tussen-hoop-en-onzekerheid"
  },
  {
   "id": "5a557ba9e8",
@@ -559,27 +590,6 @@
   "link": "https://nos.nl/l/2638444"
  },
  {
-  "id": "7456810718",
-  "datum": "2026-11-07",
-  "tijd": "15:51",
-  "nieuw": false,
-  "titel": "Almere - Wilgenkunstwerk in brand gestoken op Utopia-eiland bij Almere",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "stal",
-   "woning"
-  ],
-  "samenvatting": "Op het Utopia-eiland in Almere is vrijdagmiddag een van de wilgenkunstwerken in brand gestoken. De brandweer heeft het vuur geblust. De afgelopen tijd zijn er al meerdere vernielingen geweest op het eiland. Utopia maakte in 2022 deel uit van de wereldtuinbouwtentoonstelling Floriade. Het eiland is vrij toegankelijk voo",
-  "link": "https://www.omroepflevoland.nl/nieuws/530427/wilgenkunstwerk-in-brand-gestoken-op-utopia-eiland-bij-almere"
- },
- {
   "id": "9ad2bf8048",
   "datum": "2026-11-07",
   "tijd": "14:06",
@@ -679,27 +689,6 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6033950/na-dumpingen-terreineigenaar-wil-dat-action-kledingcontainers-verwijdert"
  },
  {
-  "id": "da5e690e54",
-  "datum": "2026-11-07",
-  "tijd": "12:44",
-  "nieuw": false,
-  "titel": "Flevoland - 'Rekken tot er geen nieuwswaarde meer is': GGD vertraagde Woo-procedure, maar ontkent dat dit beleid was",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "organisatie",
-   "school"
-  ],
-  "samenvatting": "GGD Flevoland heeft in de Woo-procedure over de mazelenuitbraak in Almere bewust tijd gerekt. Omroep Flevoland trachtte via de Wet open overheid te achterhalen op welke school een mazelenuitbraak was. Uit interne e-mails blijkt dat een juridisch adviseur schreef dat de strategie was: \"rekken tot er inmiddels geen nieuw",
-  "link": "https://www.omroepflevoland.nl/nieuws/529221/'rekken-tot-er-geen-nieuwswaarde-meer-is':-ggd-vertraagde-woo-procedure-maar-ontkent-dat-dit-beleid-was"
- },
- {
   "id": "0a2823cbf5",
   "datum": "2026-11-07",
   "tijd": "12:07",
@@ -797,25 +786,6 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6033943/automobilist-mishandelt-vrachtwagenchauffeur-na-heftig-ongeluk-in-breda"
  },
  {
-  "id": "dbd8127b22",
-  "datum": "2026-11-07",
-  "tijd": "08:58",
-  "nieuw": false,
-  "titel": "Zeven inbrekers met hoogwerker van dak gehaald in Groningen",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "pand"
-  ],
-  "samenvatting": "Op het dak van een bedrijf in Groningen zijn zeven inbrekers aangehouden. De verdachten zijn met een hoogwerker van de brandweer naar beneden gehaald, melden lokale media. Alle verdachten zijn meegenomen naar het politiebureau. Hun identiteit is niet bekend. Ook is niet bekend of er verdachten gevlucht zijn. Na de aanh",
-  "link": "https://nos.nl/l/2638399"
- },
- {
   "id": "e587111539",
   "datum": "2026-11-07",
   "tijd": "08:49",
@@ -852,28 +822,6 @@
   ],
   "samenvatting": "Een achtervolging is in de nacht van donderdag op vrijdag geëindigd in een weiland. De vluchtende automobilist reed harder dan 150 kilometer per uur. De auto strandde uiteindelijk in een weiland. De bestuurder is opgepakt voor rijden onder invloed.",
   "link": "https://www.rijnmond.nl/nieuws/2279147/wilde-achtervolging-met-snelheden-van-150-km-u-eindigt-in-weiland"
- },
- {
-  "id": "5b06504130",
-  "datum": "2026-11-07",
-  "tijd": "07:17",
-  "nieuw": false,
-  "titel": "Wat zijn de gevolgen van de bommeldingen voor reizigers en vliegmaatschappijen?",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "haven",
-   "organisatie",
-   "schiphol"
-  ],
-  "samenvatting": "Het Europese vliegverkeer werd deze week drie keer geconfronteerd met een reeks bommeldingen. Zeker tien vliegtuigen kregen ermee te maken . Eén daarvan was een KLM-vlucht van Praag naar Amsterdam. Voor zover bekend is er nergens een bom gevonden en raakte ook niemand gewond. De dreigingen lijken vooral bedoeld om de b",
-  "link": "https://nos.nl/l/2638391"
  },
  {
   "id": "5f935bf7ee",
@@ -1145,6 +1093,25 @@
   ],
   "samenvatting": "Een flinke klap vrijdagavond in Nieuwleusen. Een automobilist botste op de Wethouder de Boerstraat met zijn Ford Mustang tegen een boom . Ook een geparkeerde auto liep schade op. Eén persoon moest mee naar het politiebureau.",
   "link": "https://www.oost.nl/nieuws/3716307/dure-mustang-knalt-tegen-boom-bestuurder-mee-naar-politiebureau"
+ },
+ {
+  "id": "0ffb860b91",
+  "datum": "2026-11-06",
+  "tijd": "19:31",
+  "nieuw": false,
+  "titel": "Dure auto knalt tegen boom, bestuurder mee naar politiebureau",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een flinke klap vrijdagavond in Nieuwleusen. Een automobilist botste op de Wethouder de Boerstraat met zijn auto tegen een boom . Ook een geparkeerde auto liep schade op. Eén persoon moest mee naar het politiebureau.",
+  "link": "https://www.oost.nl/nieuws/3716307/dure-auto-knalt-tegen-boom-bestuurder-mee-naar-politiebureau"
  },
  {
   "id": "3f94b11d63",
@@ -3645,6 +3612,25 @@
   ],
   "samenvatting": "Slachtoffer van mensenhandel of nanny bij rijke familie in Knokke? 32 jaar nadat lichaam werd teruggevonden in ’t Zwin doet politie ultieme poging identiteit vrouw te achterhalen HLN",
   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNaC1wRGxFVmFUVi1QRHJ2Nnl4cVFLVTcyTWhVZkYybHpiRkNuNFF1QXRDVVVhMXZka2dsNzJfZXRla2R4LXFsS2s3QTg4UHNRYlJ3RU9FSWREUHJNUnhla01vTVZneHdNbjdwU3h3MzR1a2w1LWVzQXd3WE5UMmFLTmNrcmhnazRKUnVRQUpDOWFTVGFwUVNCZFJNRXNGblU5eDRabVNmcnUxa1hUY0dtTVQyVk5BVmFLTHhzYkllRlJaT2NfMDZ6RVRHMm5haW9taUVBcTlJcjNnSjdldkdUeTdrQm40UEQ3azNsNWx1Mm1GeHU5aUQwWkYxZlR2RXdfMFhhbkZ0cFgxSnliWl9CekQyVF9TSFQ1by1Nb2RteU1ZbXJYMHpManBocnl2THJ1UWNzN294N2pKYmVv?oc=5"
+ },
+ {
+  "id": "7d839d9804",
+  "datum": "2026-11-04",
+  "tijd": "09:41",
+  "nieuw": false,
+  "titel": "Twee verdachten van mensensmokkel bij Cadzand blijven 14 dagen langer vast",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Twee verdachten van mensensmokkel bij Cadzand blijven 14 dagen langer vast BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWURCcWJjb0xXeVN5SlZpZ1B5eEQ3UnFtR3lIdGswMVY1YklNeDktRExIWkI3ZVdMRHRoZDdsUVVCMzJLYVZvQzJtWW9iQXl1Ynl6TkM2cU03RW1mVHRsZS1zU2U5eHpEcXU0QnJReU5nQTRhTkFnNl8wTDEzMFRlWG9RTUoxWEZ6bzBRb3hRTzNrczI5S2JudEVYZVRsSFd1dHZPQ3FPOVUteWp2QU1wYjBjY1M?oc=5"
  },
  {
   "id": "d2854615b7",
@@ -95526,6 +95512,25 @@
   "dossiers": [
    "Corruptie & integriteit"
   ]
+ },
+ {
+  "id": "bfdcb03624",
+  "datum": "2023-10-08",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Explosie bij Gerard Brandtstraat op klaarlichte dag, politie zoekt verdachten - AT5",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie"
+  ],
+  "samenvatting": "Explosie bij Gerard Brandtstraat op klaarlichte dag, politie zoekt verdachten AT5",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3pKTWYwaU13VmJKUVhfTTh3LUpBRjM5NUltMHJmSnV6dUlWNHgwNXZNUmlGU2dEYUZPNjZVX1d5dHFQWnlNLUJKQU9mZFBnY2FtZlpzVlJfS09sSFRWUDFoQmktMGtrMmI5ZThPc2ZVU1UzUzBLaVpWMzQyeXZLRlJ4dDdmZmZTMjc5bUJEbVJPZ0lqam54a3Vhck54VzR6eHpORjFhU1NFbHcwUUJ5S2dB?oc=5"
  },
  {
   "id": "ab6f19d696",
