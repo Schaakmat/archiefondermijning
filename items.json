@@ -1,5 +1,67 @@
 [
  {
+  "id": "8432421b74",
+  "datum": "2026-11-08",
+  "tijd": "22:32",
+  "nieuw": true,
+  "titel": "Explosies bij woningen in Schiedam",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "woning"
+  ],
+  "samenvatting": "In Schiedam zijn kort na elkaar explosies geweest bij twee woningen. De eerste was rond 20.15 uur, schrijft Rijnmond , de tweede even na 21.00 uur. Niemand raakte gewond. De woningen liepen wel schade op. Ze staan ongeveer een kilometer bij elkaar vandaan. De politie liet Rijnmond weten dat de explosies als losstaande ",
+  "link": "https://nos.nl/l/2638644"
+ },
+ {
+  "id": "60b9ae3489",
+  "datum": "2026-11-08",
+  "tijd": "22:15",
+  "nieuw": true,
+  "titel": "Hoe witwassen hackers de 6,3 miljard dollar aan cryptovaluta die van Binance is gestolen?",
+  "bron": "Vietnam.vn",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Crypto & digitaal geld",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "crypto",
+   "cryptovaluta",
+   "witwassen"
+  ],
+  "samenvatting": "Hoe witwassen hackers de 6,3 miljard dollar aan cryptovaluta die van Binance is gestolen? Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzktblhDM0ptbG0zb0JPc2dnODdVdDBGclRDNFRiZThmUmp1QzNFV0lWN3FnMTU0UzFBTXd0b0U5UHZvU3BFTjVaNGdHTUZiaDNSdDVXblFaa2t4Ymc2U21uSS1qUkpsUUw5cHZxNDFRUHFHS1lVMDJhdXhkbk5IOWVXSEJici1zY2tIRGpBNVJGVUtRcnRhTGVn?oc=5"
+ },
+ {
+  "id": "7b41838f22",
+  "datum": "2026-11-08",
+  "tijd": "22:03",
+  "nieuw": true,
+  "titel": "Politie houdt bijeenkomst voor verontruste buren van drugslab in Prinsenbeek",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie houdt bijeenkomst voor verontruste buren van drugslab in Prinsenbeek Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY3RvRUlHZTRCNm8tN0lUQzE2aDVOdXM0ZDM5dHl5SHkxZG1lVjRHRWkzNExUSVpzSVAtcVhSYVF2NnRVVmVnNVNpVXBaVWh1QVBSLTNQTUMzZ282Y0Fwd3Q3U3pVdGMwVnh1SDctbjhhaGJQMlhNZElyNTFhdm5mbVYwMnd6QTV5YW5VZlE4TjV6dFpfNF9CU1kxYk1idFpEbm1qaE9USDhITEo4VHNabVBQb3BRRWx6QnA3VU53YUNuaWZkX0Q1WW1YQXBDdFF2a3c?oc=5"
+ },
+ {
   "id": "06f4024371",
   "datum": "2026-11-08",
   "tijd": "20:20",
@@ -237,7 +299,7 @@
   "id": "b7b6c6722f",
   "datum": "2026-11-08",
   "tijd": "14:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdacht pakketje bij woning veiliggesteld door EOD, onderzoek loopt nog",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -258,7 +320,7 @@
   "id": "236f92ab69",
   "datum": "2026-11-08",
   "tijd": "12:56",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeker 200.000 mensen bij Rode Lijn-demonstratie in Amsterdam, zegt organisatie",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -277,7 +339,7 @@
   "id": "0b4c50f24f",
   "datum": "2026-11-08",
   "tijd": "11:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "10.000 cobra's gevonden in garagebox: 'We zijn met de schrik vrijgekomen'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -308,7 +370,7 @@
   "id": "6c21b4ecfb",
   "datum": "2026-11-08",
   "tijd": "11:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Moerdijk, inmiddels een jaar lang gevangen tussen hoop en onzekerheid",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -334,7 +396,7 @@
   "id": "5a557ba9e8",
   "datum": "2026-11-08",
   "tijd": "10:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Explosie in Kamp 27, raam en deur gesneuveld",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -97131,6 +97193,27 @@
   ],
   "samenvatting": "Tot 5,5 jaar cel voor betrokkenheid bij drugslab Velddriel De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWjlCRlp6NHZhamFySDNqWkNUS0ZjNFRZM1FBczFFWHQ4MFByY3A5WTJueHZBeUVIM1NkazBVRlNTUjNNYXcxRWFtSVpRM2hYcmpKOF9WclQ4MFd2YjNKZ2xGSjF5d2N5VTBLYUNYOHhXWVZJTlAzZVdMUkd5YjZDYWxWQnN3cU8waFU4Z2hVS3FESHkwVHJRejhSWHlWTVVPb1EwcDBudHdKcHpfamVKYUh2MjZ6TjBYbGxiUWtXRG1vLXRFOVIxbEdnRlRFTVQ1VHlrZHl4Si15UlZBYUR5R0JQaGk0MVU3aDNxeENUdTg5TkRMNV9rU2dlVHk?oc=5"
+ },
+ {
+  "id": "b753ac6562",
+  "datum": "2023-04-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Grootscheepse controle op ondermijning in Farmsumerhaven in Farmsum levert een mogelijk gestolen buitenboordmotor op",
+  "bron": "DVHN",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven",
+   "ondermijning"
+  ],
+  "samenvatting": "Grootscheepse controle op ondermijning in Farmsumerhaven in Farmsum levert een mogelijk gestolen buitenboordmotor op DVHN",
+  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEtLM21QNUVWU0ZoT0RkQXAzZFd3Vi1VQTVUS3JKNnV4RkpmSVBvWmhUbGVRU2NMekJTRHVzeER5ajhZOFpqemFZYTVuUnRrU202cXBVbm44cml3SDV0Y0VSUE5tUjZGUk82LUlOcVpWaWZmeUh6dlV4c3g4WFFqVjhCYTE0T2U2N25nUnQ5WmI3by00Qm9RTFlLMGdQbzdqTkxSOThPdThjbmQ2SlZFakcyTmhBUXZ5dkFweWNZeG43YUZyVFdpM0FPdGdtMGYzTmJ0X2xIUURfbEhCS0lvMG45UDRvdzhGQVJGd1J0MGV6cEktMDhPMlNhOA?oc=5"
  },
  {
   "id": "cd25a1e1ac",
