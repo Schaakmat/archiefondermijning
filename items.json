@@ -1,5 +1,94 @@
 [
  {
+  "id": "3225fabd86",
+  "datum": "2026-11-11",
+  "tijd": "07:40",
+  "nieuw": true,
+  "titel": "Urk - Buurman die schuur wil onderhouden vanuit tuin van de buren trekt aan kortste eind bij rechter",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "erf",
+   "grond"
+  ],
+  "samenvatting": "De eigenaar van een schuur aan de Rijswerker op Urk heeft een kort geding tegen zijn buren verloren. De man wilde onder meer toegang tot hun tuin om onderhoud aan zijn schuur uit te voeren. Ook eiste hij dat een schutting, struiken en andere onderdelen van de tuin zouden worden verwijderd. De voorzieningenrechter heeft",
+  "link": "https://www.omroepflevoland.nl/nieuws/530803/buurman-die-schuur-wil-onderhouden-vanuit-tuin-van-de-buren-trekt-aan-kortste-eind-bij-rechter"
+ },
+ {
+  "id": "43939262b1",
+  "datum": "2026-11-11",
+  "tijd": "07:00",
+  "nieuw": true,
+  "titel": "Almere - Tientallen hackers op geheime locatie: Almere denkt mee over de verdediging van Europa",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "beveiliging",
+   "netwerk",
+   "ondernemers",
+   "organisatie"
+  ],
+  "samenvatting": "Op een geheime locatie komen dit weekend in Almere meer dan honderd programmeurs, technici en defensiespecialisten bijeen. Tijdens deze zogenoemde hackathon proberen ze grote problemen op te lossen op het gebied van defensie en veiligheid. In Almere noemen ze het de European Defense Tech Hackathon. Het klinkt abstract,",
+  "link": "https://www.omroepflevoland.nl/nieuws/530262/tientallen-hackers-op-geheime-locatie:-almere-denkt-mee-over-de-verdediging-van-europa"
+ },
+ {
+  "id": "c590296bf8",
+  "datum": "2026-11-11",
+  "tijd": "06:00",
+  "nieuw": true,
+  "titel": "Zakenmannen onderhandelen over Oekraïne, wie zit aan tafel namens Rusland?",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "erf",
+   "leider"
+  ],
+  "samenvatting": "Oekraïne, Rusland en de Verenigde Staten onderhandelen in Abu Dhabi over een mogelijk einde aan de Oekraïne-oorlog. De Amerikaanse en Russische onderhandelaars hebben iets opvallends met elkaar gemeen: zij zijn geen diplomaten met jarenlange ervaring in de internationale politiek, maar zakenmannen. Over de Amerikaanse ",
+  "link": "https://nos.nl/l/2638948"
+ },
+ {
+  "id": "73a14d5f69",
+  "datum": "2026-11-11",
+  "tijd": "04:41",
+  "nieuw": true,
+  "titel": "Ramkraak bij juwelier in Boxmeer, auto ramt containers tegen gevel",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Goudhandel & edelmetalen",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "container",
+   "juwelier",
+   "pand"
+  ],
+  "samenvatting": "Bij een juwelier aan de Steenstraat in Boxmeer is dinsdagnacht een ramkraak gepleegd. Rond tien over halfvier ramde een auto twee containers tegen de gevel. Volgens de politie is het nog onduidelijk of de dieven op die manier zijn binnengekomen. Ook wordt dus nog onderzocht of er iets is buitgemaakt. Zowel de binnen- a",
+  "link": "https://www.omroepbrabant.nl/nieuws/6034307/ramkraak-bij-juwelier-in-boxmeer-auto-ramt-containers-tegen-gevel"
+ },
+ {
   "id": "d3cf31d499",
   "datum": "2026-11-10",
   "tijd": "22:43",
@@ -101,17 +190,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Corruptie & integriteit",
-   "Witwassen & geldstromen"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "burgemeester",
-   "corruptie",
-   "gemeenteraad",
-   "stal",
-   "witwassen"
+   "gemeenteraad"
   ],
   "samenvatting": "Het Boxtelse D66-raadslid Sohib H., dat eind oktober werd opgepakt op verdenking van verkiezingsfraude, heeft zijn ontslag ingediend als gemeenteraadslid. Dat maakt de plaatselijke fractievoorzitter van de partij bekend tijdens de raadvergadering . De 38-jarige H. werd op 27 oktober aangehouden op verdenking van onder ",
   "link": "https://nos.nl/l/2638929"
@@ -169,15 +251,11 @@
   "regio": "Noord-Brabant",
   "dossiers": [
    "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Corruptie & integriteit",
-   "Witwassen & geldstromen"
+   "Corruptie & integriteit"
   ],
   "tags": [
    "corruptie",
-   "gemeenteraad",
-   "stal",
-   "witwassen"
+   "gemeenteraad"
   ],
   "samenvatting": "Het Boxtelse raadslid Sohib H. (38) van D66 heeft zijn ontslag ingediend. Dat maakte fractievoorzitter Wiebe de Leijer dinsdagavond bekend tijdens de gemeenteraadsvergadering. H. werd eind oktober aangehouden op verdenking van onder meer verkiezingsfraude en corruptie. Hij was jarenlang een populair raadslid en werd me",
   "link": "https://www.omroepbrabant.nl/nieuws/6034297/van-fraude-verdachte-d66er-sohib-h-neemt-ontslag-als-raadslid-in-boxtel"
@@ -193,11 +271,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
    "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "mensensmokkel",
    "smokkelroute"
   ],
   "samenvatting": "De afgelopen weken zijn boten met migranten gesignaleerd voor de Nederlandse en Belgische kust. Dat viel op, omdat nog niet eerder wat gebeurd bij de Nederlandse kust. Ook in België lijkt de hoeveelheid bootjes toegenomen. Wat is er gebeurd? Verplaatst de smokkelroute zich naar het noorden? We zetten de vijf belangrijk",
@@ -310,7 +386,7 @@
   "id": "d529834829",
   "datum": "2026-11-10",
   "tijd": "17:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jongen (16) opgepakt voor dodelijke schietpartij Schiedam",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -329,7 +405,7 @@
   "id": "c4df160e5a",
   "datum": "2026-11-10",
   "tijd": "16:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Tunnelbuis dicht in avondspits door kapotte vrachtwagen en oliespoor",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -348,7 +424,7 @@
   "id": "5b47f9fb1d",
   "datum": "2026-11-10",
   "tijd": "16:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM: vrouw (26) stuurde tieners met wapens op pad voor liquidaties",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -373,7 +449,7 @@
   "id": "70997de135",
   "datum": "2026-11-10",
   "tijd": "16:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachten mensensmokkel Cadzand blijven nog zeker 30 dagen langer vastzitten",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -394,7 +470,7 @@
   "id": "4198e525e7",
   "datum": "2026-11-10",
   "tijd": "16:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "10/11 in Nieuwsuur: Onderhandelingen oorlog Oekraïne • Debat belastingplan • Rode Lijn anti-Israël?",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -415,7 +491,7 @@
   "id": "acceecd4bc",
   "datum": "2026-11-10",
   "tijd": "16:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Onderhoud aan A73 en A77: zes nachten afsluitingen rond Rijkevoort",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -434,7 +510,7 @@
   "id": "9846c088e3",
   "datum": "2026-11-10",
   "tijd": "15:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jongen (16) aangehouden voor dodelijke schietpartij in Schiedam",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -453,7 +529,7 @@
   "id": "a8980e04fc",
   "datum": "2026-11-10",
   "tijd": "15:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Met een cobra de klas in: politieagent in gesprek met leerlingen over vuurwerk en respect",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -472,7 +548,7 @@
   "id": "d1203cabec",
   "datum": "2026-11-10",
   "tijd": "15:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Boer uit Helvoirt verliest twintig schapen, vermoedelijk door wolf",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -491,7 +567,7 @@
   "id": "41e0fe0dab",
   "datum": "2026-11-10",
   "tijd": "14:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (24) en meisje (17) bij Rotterdam van weg gehaald na diefstal bij oudere vrouw in Oostburg",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -547,29 +623,6 @@
   ],
   "samenvatting": "Het vergroten van het bewustzijn onder studenten over het voorkomen en bestrijden van mensenhandel. Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWZBWmpBQzN0eF9OU3ROSThvVkFvZENLbEZjd2cyMWc0a1pvUWttSkhDRi1wV1Q0enh5YlpWeUw3VlhEbGtmcnFBM3NwZ2p1OG95cG13NmZzVkxtR1hLeV90S0pfNk1aN2VtRUF5R2dPaHo2TjVVRXprV1JFc3A1SmF6cmowY18tLWFfUnFiZl9MRXM?oc=5"
- },
- {
-  "id": "8d81cd2ed8",
-  "datum": "2026-11-10",
-  "tijd": "14:40",
-  "nieuw": false,
-  "titel": "Moerdijk voorzichtig optimistisch, maar zorgen over leefbaarheid blijven",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Cocaine, haven & logistiek",
-   "Milieucriminaliteit & afval"
-  ],
-  "tags": [
-   "gemeenteraad",
-   "grond",
-   "haven"
-  ],
-  "samenvatting": "De gemeente Moerdijk noemt het \"positief nieuws als het dorp Moerdijk een duurzaam leefbare toekomst krijgt\". Tegelijkertijd is wethouder Danny Dingemans er nog steeds niet gerust op dat het dorp ook daadwerkelijk kan blijven bestaan. Daarvoor moet er wat hem betreft eerst meer duidelijkheid komen over welke onderdelen",
-  "link": "https://www.omroepbrabant.nl/nieuws/6034265/moerdijk-voorzichtig-optimistisch-maar-zorgen-over-leefbaarheid-blijven"
  },
  {
   "id": "5e587cdbe9",
@@ -636,27 +689,6 @@
   ],
   "samenvatting": "Een explosie heeft in de nacht van maandag op dinsdag schade veroorzaakt aan een woning aan de Lindelaan in Duiven. Ook een auto van de buren raakte beschadigd. Het is niet de eerste keer dat er iets verdachts gebeurt bij het huis. Zondagochtend werd bij dezelfde woning al een verdacht pakketje aangetroffen.",
   "link": "https://www.gld.nl/nieuws/8545510/eerst-een-verdacht-pakketje-twee-dagen-later-een-explosie-bij-woning-in-duiven"
- },
- {
-  "id": "2bf7416dcb",
-  "datum": "2026-11-10",
-  "tijd": "14:06",
-  "nieuw": false,
-  "titel": "Protesten over Piet bij intocht Sinterklaas in Den Bosch",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Bibob & bestuurlijke aanpak"
-  ],
-  "tags": [
-   "burgemeester",
-   "toezichthouder"
-  ],
-  "samenvatting": "Tijdens de Sinterklaasintocht in Den Bosch zondag worden meerdere demonstraties verwacht. Verschillende groepen hebben aangekondigd actie te voeren en hun mening te laten horen over het uiterlijk van Piet. Burgemeester Jack Mikkers had dat liever anders gezien. \"Ik had gehoopt dat we deze discussie inmiddels achter ons",
-  "link": "https://www.omroepbrabant.nl/nieuws/6034256/protesten-over-piet-bij-intocht-sinterklaas-in-den-bosch"
  },
  {
   "id": "24160bb9e0",
@@ -760,29 +792,6 @@
   "link": "https://nos.nl/l/2638857"
  },
  {
-  "id": "0c92f57623",
-  "datum": "2026-11-10",
-  "tijd": "13:13",
-  "nieuw": false,
-  "titel": "Almere - Almeerder (38) langer vast voor oplichting bank",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval",
-   "Witwassen & geldstromen"
-  ],
-  "tags": [
-   "beveiliging",
-   "stort",
-   "witwassen"
-  ],
-  "samenvatting": "Een man uit Almere blijft dertig dagen langer vastzitten op verdenking van oplichting van een bank. Dat heeft de raadkamer van de rechtbank van Amsterdam besloten. De man werd op 28 oktober aangehouden. Hij wordt naast oplichting ook verdacht van het vervalsen van identiteitsbewijzen, het onrechtmatig online verkrijgen",
-  "link": "https://www.omroepflevoland.nl/nieuws/530783/almeerder-(38)-langer-vast-voor-oplichting-bank"
- },
- {
   "id": "def9b2f70d",
   "datum": "2026-11-10",
   "tijd": "13:06",
@@ -803,34 +812,6 @@
   ],
   "samenvatting": "Een Spaanse krant bericht uitgebreid over martelkamers in Rotterdam, waar ontvoerde mensen zouden zijn vastgehouden en mishandeld. Een 37-jarige Spanjaard die wist te ontsnappen, vertelt dat hij in een loods meerdere gevangenen zag. Bij een van hen waren drie vingerkootjes afgeknipt, een ander lag bewusteloos op de gro",
   "link": "https://www.rijnmond.nl/nieuws/2280705/ontsnapte-spanjaard-vertelt-over-martelkamers-in-rotterdam-vingers-afgeknipt-en-misbruik-met-bezemsteel"
- },
- {
-  "id": "160c9f29b1",
-  "datum": "2026-11-10",
-  "tijd": "12:30",
-  "nieuw": false,
-  "titel": "Jongerencentrum weigert niet-christenen: 'Ging om extremen als Satanskerk'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "grond",
-   "jeugd",
-   "jongeren",
-   "leider",
-   "ondermijnend",
-   "organisatie"
-  ],
-  "samenvatting": "Jongerencentrum Pitstop in Eindhoven verhuurt zijn ruimte alleen aan christenen en weigert \"bijeenkomsten vanuit andere levensovertuigingen\", zo was lange tijd te lezen op de website. Het centrum kwam eerder in opspraak vanwege de wens om jongeren te bekeren. Een school zette de samenwerking stop. De gemeente heeft de ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6034203/jongerencentrum-weigert-niet-christenen-ging-om-extremen-als-satanskerk"
  },
  {
   "id": "5ab957f725",
@@ -4745,6 +4726,25 @@
   ],
   "samenvatting": "Politie rolt drugslab op in woonwijk van Prinsenbeek BN DeStem",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVm50V2Z6RmR3ckREd1Zkb1FpbEZEWVY0MnpmSUFtY09qNGI0ZHZiZXliZGtPSW1wUHlxUUFTMGJWX251eXdKZ01mcmNhWXFQZ2JLUFhNdUN3TjNkTURTdFhqa1R1Y29HUUdNaWRGT0twQVlfLWhoZ1FCZm5MOS1kWWNOYmxhbzBDM3JvVS1pZ1dTbnJ5aDRuMzQtbDR0SXNj?oc=5"
+ },
+ {
+  "id": "fd9bd57808",
+  "datum": "2026-11-04",
+  "tijd": "17:05",
+  "nieuw": false,
+  "titel": "Politie rolt drugslab op in woonwijk van Prinsenbeek",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie rolt drugslab op in woonwijk van Prinsenbeek BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkxPbV9kRGozNzVTN1lTejJnME9mQzhUUHBabTlMNkV0Y3ZKU0FkYzItSFJEMnBiYjN4ZmdpZnpSaGE3TTFzUUlGbEtLQkhBSVFXbVVfeDJMbUYyY0hqZXF3SWx0WlZqTm5KTnhELWJOR3d3MW9MQ01HWS14WFA2RnpaOENtakEzYlM5LUU2RHBIU3hCbXF4SUIxRUw0aUxtTlE?oc=5"
  },
  {
   "id": "27b5f4ef94",
@@ -8670,6 +8670,25 @@
   ],
   "samenvatting": "38 migranten van rubberboot gehaald in Cadzand, twee arrestaties voor mensensmokkel De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ0Q5SmNzb09hLW1DNHAzNXpBcHBKaUsyYk5RUlRhX2hhQndOVmVpZkZuRGk5OFV4YzA2Q1M5TXlNaUYxOGpOS1hUa05yX3N0dEd4MGRRR29TTzBFRV92MkNiT1AxRmJPTmJHaklvdk5XaDZVZVcxQzREUHJWT01hc1F4OTZ5SjFFd3VZaGRYNW1kQms4NkpYLWdFM1JUWGF6SVM1cTRRUFNYS0FXVUxLcTMzam1Ea28?oc=5"
+ },
+ {
+  "id": "a9010f32f1",
+  "datum": "2026-10-31",
+  "tijd": "10:23",
+  "nieuw": false,
+  "titel": "38 migranten van rubberboot gehaald in Cadzand, twee arrestaties voor mensensmokkel",
+  "bron": "pzc.nl",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "38 migranten van rubberboot gehaald in Cadzand, twee arrestaties voor mensensmokkel pzc.nl",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNS1JQk9FZWxiVDQ0RjByd1Bhb1RXMUczWkFjUENxbWJHcXFQRk40MF9RanhGUE1xTGJMLXpQWEJNdkJ0Tm5zaWZBMlNyQi1yWXBIZnJldE5BbmZpLXVkQTVQRXFWZ2thU3l1WElGMFpxWkRTY2ZNZ3NCOWdMRkVpVHM0Y2gzQ1Qyd0l4aEdhcHRUeGxfQkQtUnRRS202dWMxV2kzNXlxcGM?oc=5"
  },
  {
   "id": "00fc995f62",

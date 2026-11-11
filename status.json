@@ -1,12 +1,12 @@
 {
- "run": "23:34",
- "datum": "2026-11-10",
- "nieuw": 24,
- "totaal": 5654,
- "verwijderd": 14,
+ "run": "06:27",
+ "datum": "2026-11-11",
+ "nieuw": 18,
+ "totaal": 5656,
+ "verwijderd": 16,
  "geweigerd": {
-  "niet-nederlands": 535,
-  "geen dossier": 327
+  "niet-nederlands": 526,
+  "geen dossier": 324
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 405,
-   "status": "3 nieuw",
+   "items": 406,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -230,7 +230,7 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 438,
+   "items": 439,
    "status": "1 nieuw",
    "ok": true
   },
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 177,
-   "status": "7 nieuw",
+   "items": 178,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 334,
-   "status": "8 nieuw",
+   "items": 332,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 360,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 176,
-   "status": "3 nieuw",
+   "items": 177,
+   "status": "4 nieuw",
    "ok": true
   },
   {
