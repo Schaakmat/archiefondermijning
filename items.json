@@ -1,5 +1,305 @@
 [
  {
+  "id": "245c26522e",
+  "datum": "2026-11-11",
+  "tijd": "22:47",
+  "nieuw": true,
+  "titel": "Man lost schot in Tilburgs hotel, geen gewonden",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De politie heeft een 53-jarige man uit Oisterwijk aangehouden na een schietincident in het restaurant van een hotel in Tilburg. Hierbij is niemand gewond geraakt. De politie vermoedt dat de man met knalpatronen heeft geschoten. De politie kreeg om 18.35 uur een melding over een schietincident in het restaurant van een ",
+  "link": "https://nos.nl/l/2639079"
+ },
+ {
+  "id": "d946ef004d",
+  "datum": "2026-11-11",
+  "tijd": "21:55",
+  "nieuw": true,
+  "titel": "Swifterbant - Met nieuwe AED's en gratis reanimatiecursus is Swifterbant goed voorbereid op medisch noodgeval",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "buitengebied",
+   "netwerk"
+  ],
+  "samenvatting": "Inwoners van Swifterbant hebben voortaan altijd een AED in de buurt. In samenwerking met Dorpsbelangen heeft de gemeente extra reanimatie-apparaten opgehangen, waardoor het hele dorp 'gedekt' is. Ook kunnen inwoners een gratis reanimatiecursus krijgen. Bij een hartstilstand telt elke seconde. Een AED (automatische exte",
+  "link": "https://www.omroepflevoland.nl/nieuws/530945/met-nieuwe-aed's-en-gratis-reanimatiecursus-is-swifterbant-goed-voorbereid-op-medisch-noodgeval"
+ },
+ {
+  "id": "320e5d3696",
+  "datum": "2026-11-11",
+  "tijd": "20:32",
+  "nieuw": true,
+  "titel": "Almere - Rijk wil IJmeerverbinding wel betalen, maar kijkt eerst verder hoe miljarden terugverdiend gaan worden",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "grond",
+   "vastgoed",
+   "woning"
+  ],
+  "samenvatting": "Er komt extra onderzoek naar de kosten van de IJmeerverbinding tussen Almere en Amsterdam. Het gaat dan met name over de vraag hoe een deel van die kosten kan worden terugverdiend. Dat schrijft minister Karremans van Infrastructuur en Waterstaat aan de Tweede Kamer. De afgelopen twee jaar is al onderzocht of bedrijven ",
+  "link": "https://www.omroepflevoland.nl/nieuws/530927/rijk-wil-ijmeerverbinding-wel-betalen-maar-kijkt-eerst-verder-hoe-miljarden-terugverdiend-gaan-worden"
+ },
+ {
+  "id": "d6448bde33",
+  "datum": "2026-11-11",
+  "tijd": "20:25",
+  "nieuw": true,
+  "titel": "Man (53) lost schot in hotel in Tilburg, politie pakt hem op na klopjacht",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "geweld",
+   "wapen"
+  ],
+  "samenvatting": "Een 53-jarige man uit Oisterwijk heeft woensdagavond een schot gelost in een druk restaurant van het Ibis hotel aan de Dr. Huub van Doorneweg in Tilburg. Ook zou hij zijn wapen op hotelmedewerkers gericht hebben. Daarna is hij er met de auto vandoor gegaan. De politie heeft hem na een klopjacht aangehouden. Niemand is ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6034473/man-53-lost-schot-in-hotel-in-tilburg-politie-pakt-hem-op-na-klopjacht"
+ },
+ {
+  "id": "ecd5c23be3",
+  "datum": "2026-11-11",
+  "tijd": "19:50",
+  "nieuw": true,
+  "titel": "Flevoland - Nieuwsoverzicht 11/11 | Dronten dreigt met onteigening • Moeder en kind moeten woning verlaten",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Jeugd & jonge aanwas",
+   "Milieucriminaliteit & afval",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "gemeenteraad",
+   "grond",
+   "huurwoning",
+   "jongeren",
+   "school"
+  ],
+  "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Dronten overweegt dwang om grond voor woningbouw te krijgen • Moeder en kind moeten na explosie definitief woning in Lelystad uit • Jongeren zetten trekkers",
+  "link": "https://www.omroepflevoland.nl/nieuws/530963/nieuwsoverzicht-1111-or-dronten-dreigt-met-onteigening-*-moeder-en-kind-moeten-woning-verlaten"
+ },
+ {
+  "id": "5845f25bfd",
+  "datum": "2026-11-11",
+  "tijd": "19:00",
+  "nieuw": true,
+  "titel": "Eigenaresse bruidswinkel 'feliciteert' ex met kapotmaken van haar leven",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Corruptie & integriteit",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "omkoping",
+   "school"
+  ],
+  "samenvatting": "Deskundigen die hoofdverdachte Moshtag B. van de Tarwekampaanslag onderzochten, schetsen een erg negatief beeld van hem. De Roosendaler is leugenachtig, opportunistisch en een manipulator. Tot in de gevangenis in Vught aan toe misleidde hij mensen. Dat werd duidelijk op de vierde procesdag rond de dodelijke aanslag in ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6034443/eigenaresse-bruidswinkel-feliciteert-ex-met-kapotmaken-van-haar-leven"
+ },
+ {
+  "id": "cacc52d1ab",
+  "datum": "2026-11-11",
+  "tijd": "18:11",
+  "nieuw": true,
+  "titel": "Mannen aangehouden na oplichting met vuurwerkverkoop voor honderden euro's",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk"
+  ],
+  "samenvatting": "Twee mannen van 19 en 20 uit Rotterdam zijn tegen de lamp gelopen na een oplichting met illegaal vuurwerk. De Rotterdammers maakten via Snapchat een afspraak om vuurwerk te verkopen en troggelden hun slachtoffer honderden euro's af, maar werden later aangehouden.",
+  "link": "https://www.rijnmond.nl/nieuws/2281324/mannen-aangehouden-na-oplichting-met-vuurwerkverkoop-voor-honderden-euros"
+ },
+ {
+  "id": "cda5ccb558",
+  "datum": "2026-11-11",
+  "tijd": "17:01",
+  "nieuw": true,
+  "titel": "Flevoland - Minister praat met bedrijven over toekomst sluizen Kornwerderzand, belangrijk voor Urk en Lelystad",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "erf",
+   "haven"
+  ],
+  "samenvatting": "Bedrijven rond het IJsselmeer kunnen binnenkort een bezoek van minister Karremans van Infrastructuur en Waterstaat verwachten. Hij wil met de ondernemingen spreken over de vervanging van het sluizencomplex bij Kornwerderzand in de Afsluitdijk. Dat complex is belangrijk voor de bereikbaarheid van Urk en Lelystad over he",
+  "link": "https://www.omroepflevoland.nl/nieuws/530916/minister-praat-met-bedrijven-over-toekomst-sluizen-kornwerderzand-belangrijk-voor-urk-en-lelystad"
+ },
+ {
+  "id": "464c736e22",
+  "datum": "2026-11-11",
+  "tijd": "17:00",
+  "nieuw": true,
+  "titel": "Bij deze kruising in Eindhoven ging het veel vaker mis",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "vrachtwagen"
+  ],
+  "samenvatting": "‘Het is wéér zover’, dachten bewoners na opnieuw een ongeluk in Eindhoven. Een bus reed dinsdagavond meerdere fietsers aan op de kruising van de Leenderweg met de Leostraat. Het ging daar vaker mis. “Ik heb al drie keer opzij moeten springen”, zegt de 73-jarige buurtbewoner Henny Ooijen. “Auto’s rijden mensen gewoon va",
+  "link": "https://www.omroepbrabant.nl/nieuws/6034411/bij-deze-kruising-in-eindhoven-ging-het-veel-vaker-mis"
+ },
+ {
+  "id": "d35bd183d4",
+  "datum": "2026-11-11",
+  "tijd": "16:59",
+  "nieuw": true,
+  "titel": "Asielminister teruggefloten: hoe nu verder met Syrische asielzoekers?",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "geweld",
+   "netwerk",
+   "pand",
+   "school",
+   "vergunning"
+  ],
+  "samenvatting": "Een tegenvaller voor asielminister Bart van den Brink: zijn nieuwe asielbeleid voor Syrische vluchtelingen is \"onvoldoende gemotiveerd\", oordeelt de Raad van State vandaag. Na de val van het gewelddadige Assad-regime in 2024 stelde het toenmalige Nederlandse kabinet dat veel Syriërs weer terug kunnen. Het land zou name",
+  "link": "https://nos.nl/l/2639032"
+ },
+ {
+  "id": "5a1ca2cb1a",
+  "datum": "2026-11-11",
+  "tijd": "16:48",
+  "nieuw": true,
+  "titel": "Politie valt woning binnen in Zutphen: bewoner en twee vrouwen verdacht van witwassen",
+  "bron": "de Stentor",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen",
+   "woning"
+  ],
+  "samenvatting": "Politie valt woning binnen in Zutphen: bewoner en twee vrouwen verdacht van witwassen de Stentor",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVEVRQjVsdjlzYzRHUTJob2V6NTFfX1VzM2FXazRqa2paajcwb0VHcDF0UHFPcjM4WU5sV2RlQlFGcklVNDFBMWx2UEJ3YVlJZlAyaWxPOF9EcHlpdHZXZ1NoOUNCZ3F6YTJVdnRNOEJCSWhKMEZCTm9IMm11UFZnOXFJeUtfMDlhMXgxT2thQzdsd21sVmFRdmdPcXB0VUpTN2s1VWNua253dnRrX2wxdV9BLVBiR2M5dmx1el9UaEZaVVdvc1E?oc=5"
+ },
+ {
+  "id": "705c8d6869",
+  "datum": "2026-11-11",
+  "tijd": "16:46",
+  "nieuw": true,
+  "titel": "Kogelwerende koffertjes en beveiligers op ski's: zo bescherm je de koning",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "beveiliging"
+  ],
+  "samenvatting": "Hoe beveilig je een koning die graag toegankelijk wil zijn en zich tussen de mensen wil begeven? Op grote evenementen, maar ook tijdens werkbezoeken, zien we koning Willem-Alexander dicht bij het publiek. Onlangs zorgde het nog voor een schrikmoment toen een verward persoon op hem afstapte tijdens een werkbezoek in het",
+  "link": "https://nos.nl/l/2639030"
+ },
+ {
+  "id": "06debfc7bd",
+  "datum": "2026-11-11",
+  "tijd": "16:43",
+  "nieuw": true,
+  "titel": "Joris Zorg 'geschrokken' van nieuwe informatie in zaak verpleger Jelle D.",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "leider"
+  ],
+  "samenvatting": "Zorgcentrum Joris Zorg in Oirschot is geschrokken van nieuwe informatie uit een tussentijdse zitting in de zaak van verpleger Jelle D. Volgens het Openbaar Ministerie heeft hij mogelijk meer slachtoffers gemaakt dan de twee die al bekend waren. De verpleger werd in augustus opgepakt door een arrestatieteam na het overl",
+  "link": "https://www.omroepbrabant.nl/nieuws/6034452/joris-zorg-geschrokken-van-nieuwe-informatie-in-zaak-verpleger-jelle-d"
+ },
+ {
+  "id": "0800c894b4",
+  "datum": "2026-11-11",
+  "tijd": "16:01",
+  "nieuw": true,
+  "titel": "Wit autootje wordt klemgezet en tien gemaskerde mannen stappen uit: getuigen over arrestatie 16-jarige verdachte van moord op Tico (19)",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Ondernemers & weerbaarheid",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bedrijventerrein",
+   "moord",
+   "wapen"
+  ],
+  "samenvatting": "De werkdag zit erop. Twee vrouwen stappen in hun auto op bedrijventerrein aan de Rietbaan in Capelle aan den IJssel en willen naar huis. Dan wordt een paar meter voor hen een klein wit autootje klemgezet. Eerst door auto’s zonder herkenbare politiekenmerken, daarna komt er een busje bij. De deur schuift open en gewapen",
+  "link": "https://www.rijnmond.nl/nieuws/2281319/wit-autootje-wordt-klemgezet-en-tien-gemaskerde-mannen-stappen-uit-getuigen-over-arrestatie-16-jarige-verdachte-van-moord-op-tico-19"
+ },
+ {
   "id": "7010b07c8b",
   "datum": "2026-11-11",
   "tijd": "15:23",
@@ -29,13 +329,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Milieucriminaliteit & afval",
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "grond",
    "huurwoning",
-   "pand",
    "woning"
   ],
   "samenvatting": "Bewoners van een woning aan de Horst in Lelystad mogen van de rechter een camera aan hun huurwoning laten hangen. Woningcorporatie Centrada had in kort geding gevraagd om verwijdering van het apparaat. Volgens de woonstichting schendt de camera de privacy van omwonenden. Hij is bovendien in strijd met de afspraken die ",
@@ -71,14 +368,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Ondernemers & weerbaarheid",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "explosie",
-   "ondernemers",
-   "pand"
+   "explosie"
   ],
   "samenvatting": "In hun moedertaal richtte de eigenares van de bruidsmodezaak zich tot de mannen die worden verdacht van de explosie op de Tarwekamp. \"Schaam jullie, schaam jullie diep\", zei de vrouw in het Arabisch in haar vooraf opgenomen verklaring op de vierde zittingsdag van de strafzaak. Haar ex-vriend is hoofdverdachte in de zaa",
   "link": "https://nos.nl/l/2639012"
@@ -94,17 +387,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging",
-   "Wapens, explosieven & vuurwerk"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "drugssmokkel",
-   "haven",
-   "liquidatie",
-   "moord",
-   "schiphol",
-   "wapen"
+   "moord"
   ],
   "samenvatting": "Het bewijs in de drievoudige moordzaak van Oosterhout stapelt zich nog steeds op. In gekraakte mobieltjes van de verdachten zijn beelden gevonden van verschillende plekken in Oosterhout. Er zat ook een afbeelding in van een adres van twee slachtoffers. En de tekst: 'Nu heeft hij zijn laatste kebab gegeten'. Dat maakte ",
   "link": "https://www.omroepbrabant.nl/nieuws/6034325/drievoudige-moord-oosterhout-verdachte-maakte-grap-over-laatste-kebab"
@@ -172,7 +458,7 @@
   "id": "3b88a60652",
   "datum": "2026-11-11",
   "tijd": "12:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wietplantage met 70 planten ontmanteld in appartement Zaandam",
   "bron": "De Orkaan",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -191,7 +477,7 @@
   "id": "ec35c5b037",
   "datum": "2026-11-11",
   "tijd": "11:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Korte storing bij overheidssites veroorzaakt 'door menselijke fout'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -211,7 +497,7 @@
   "id": "18c813c157",
   "datum": "2026-11-11",
   "tijd": "11:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee mannen veroordeeld voor witwassen van grond en woning op Bonaire",
   "bron": "Bonaire.nu",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -234,7 +520,7 @@
   "id": "a44dbcabc8",
   "datum": "2026-11-11",
   "tijd": "11:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Raad van State: minister van Asiel moet veiligheid Syrië opnieuw beoordelen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -250,38 +536,10 @@
   "link": "https://nos.nl/l/2638978"
  },
  {
-  "id": "21edfdba8f",
-  "datum": "2026-11-11",
-  "tijd": "11:00",
-  "nieuw": true,
-  "titel": "Jongen (10) die gezin verloor bij aanslag Tarwekamp: 'Zal ze altijd missen'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "bende",
-   "erf",
-   "explosie",
-   "grond",
-   "pand",
-   "stort"
-  ],
-  "samenvatting": "De vierde dag van het Tarwekampproces is woensdag begonnen met een emotionele verklaring van een 10-jarige jongen. Bij de dodelijke explosie aan de Tarwekamp in Den Haag in december 2024 verloor hij zijn vader, moeder en zus. Zijn ouders waren de eigenaren van het Surinaams-Chinese Eethuis Faffie aan de Haagdijk in Bre",
-  "link": "https://www.omroepbrabant.nl/nieuws/6034387/jongen-10-die-gezin-verloor-bij-aanslag-tarwekamp-zal-ze-altijd-missen"
- },
- {
   "id": "fb11a53add",
   "datum": "2026-11-11",
   "tijd": "10:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Sporters in Overijssel slachtoffer van datalek: criminelen hebben persoonsgegevens",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -300,7 +558,7 @@
   "id": "717ba122b1",
   "datum": "2026-11-11",
   "tijd": "10:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte uit Honselersdijk (57) aangewezen leider en kok in drugslab dat meth en XTC produceerde",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -321,7 +579,7 @@
   "id": "f3d658f686",
   "datum": "2026-11-11",
   "tijd": "10:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte uit Honselersdijk (57) aangewezen leider en kok in drugslab dat meth en XTC produceerde",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -339,38 +597,10 @@
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONi1HOXg4WnJJUDdQeEhHVWxPUmJwRjBrTzlzWmlZelE2NzBNSnB1ajQ3al9PbUdKTUk1MWFFc2VhXzZQdVlZemhMNDRuMjJSbHl0amFSZFJxMUVsa08ycG5GNjZfcm9IVFFLTWVsSVRCNVZ0TXZiVklWVW9LaWNxUjQ3cTRPX0hYUXVoVDJtdVR4dktmMXZMUHdTVmJENGlfdlNCcTVCRkFobS04LWVHa2VoYTNpMDA1cm1kMFd1ZWFHaElaMTctb1lhc1E?oc=5"
  },
  {
-  "id": "749a753e6d",
-  "datum": "2026-11-11",
-  "tijd": "10:15",
-  "nieuw": true,
-  "titel": "'Binnen 30 seconden weer weg', ramkraak zorgt voor ravage bij juwelier",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging",
-   "Goudhandel & edelmetalen",
-   "Ondernemers & weerbaarheid",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "beveiliging",
-   "container",
-   "juwelier",
-   "pand",
-   "sieraden",
-   "winkeliers"
-  ],
-  "samenvatting": "De schade is woensdagochtend groot bij een juwelier in Boxmeer. Bij een ramkraak werd dinsdagnacht de pui van de winkel vernield. \"De hele pui ligt eruit en de deur staat binnen\", zegt Jesse van Eck van de juwelierszaak. De daders ramden rond 3.45 uur met een auto containers tegen het pand . Het is niet duidelijk of er",
-  "link": "https://www.omroepbrabant.nl/nieuws/6034380/binnen-30-seconden-weer-weg-ramkraak-zorgt-voor-ravage-bij-juwelier"
- },
- {
   "id": "4f73901661",
   "datum": "2026-11-11",
   "tijd": "08:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politiehond Storm vindt tas met vuurwapen na controle verdachte auto",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -389,7 +619,7 @@
   "id": "3225fabd86",
   "datum": "2026-11-11",
   "tijd": "07:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Urk - Buurman die schuur wil onderhouden vanuit tuin van de buren trekt aan kortste eind bij rechter",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -410,7 +640,7 @@
   "id": "c7b013f448",
   "datum": "2026-11-11",
   "tijd": "07:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Scholieren slachtoffer van klusjesman die stiekem filmt op meisjestoilet",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -426,34 +656,10 @@
   "link": "https://www.gld.nl/nieuws/8545165/scholieren-slachtoffer-van-klusjesman-die-stiekem-filmt-op-meisjestoilet"
  },
  {
-  "id": "b1cb979c85",
-  "datum": "2026-11-11",
-  "tijd": "07:00",
-  "nieuw": true,
-  "titel": "Almere - Defensiespecialisten en hackers werken op geheime locatie in Almere aan de veiligheid van Europa",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "beveiliging",
-   "netwerk",
-   "ondernemers",
-   "organisatie"
-  ],
-  "samenvatting": "Op een geheime locatie komen dit weekend in Almere meer dan honderd programmeurs, technici en defensiespecialisten bijeen. Tijdens deze zogenoemde hackathon proberen ze grote problemen op te lossen op het gebied van defensie en veiligheid. In Almere noemen ze het de European Defense Tech Hackathon. Het klinkt abstract,",
-  "link": "https://www.omroepflevoland.nl/nieuws/530262/defensiespecialisten-en-hackers-werken-op-geheime-locatie-in-almere-aan-de-veiligheid-van-europa"
- },
- {
   "id": "b6e1b741bf",
   "datum": "2026-11-11",
   "tijd": "06:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nederland scherpt straffen voor milieucriminaliteit aan",
   "bron": "Foodlog",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -472,7 +678,7 @@
   "id": "73a14d5f69",
   "datum": "2026-11-11",
   "tijd": "04:41",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ramkraak bij juwelier in Boxmeer, auto ramt containers tegen gevel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -493,7 +699,7 @@
   "id": "d3cf31d499",
   "datum": "2026-11-10",
   "tijd": "22:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Prinsenbekenaren voelen zich niet meer veilig na vondst drugslab: `Komen ze terug voor een afrekening?`",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -512,7 +718,7 @@
   "id": "e32b496a1d",
   "datum": "2026-11-10",
   "tijd": "22:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Spanjaard spreekt van martelingen in Rotterdam en Utrecht door criminelen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -542,7 +748,7 @@
   "id": "afcf61ea76",
   "datum": "2026-11-10",
   "tijd": "22:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Prinsenbekenaren voelen zich niet meer veilig na vondst drugslab: `Komen ze terug voor een afrekening?`",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -558,33 +764,10 @@
   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNlQycTMySVk5bElrb3dpTDk3N1pyODJhSkl2c1pxTjRBcGloNFMwQVhoMDFZYjduMWV5ZmhVX29xTkR2MktRTVYzTms2RldvWHpiWUNPWXZtN3U3bzNaU2tFMElGRERoX3Q4bUVXUExrZExjdlVKUHAyX1VpTEFHZ0k0Q005TFYxSTFzOGt3eDVWbndMOGJIbmNsMmhfT0xkRGIxTWxBX2Z6NV9RaXdJMTVEbUZSVnlVNEV6WE9nNFpxMVpia0FTWkIxYUgyYXhKSzVGRE54ckJNMW93ZWtPdF9BbWE4TVdxNWVzZHllaFk?oc=5"
  },
  {
-  "id": "ffcd079766",
-  "datum": "2026-11-10",
-  "tijd": "21:48",
-  "nieuw": true,
-  "titel": "Swifterbant - Eenrichtingsverkeer maakt centrum Swifterbant onveiliger: gemeente overweegt ermee te stoppen",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Beleid, wetgeving & toezicht",
-   "Bibob & bestuurlijke aanpak",
-   "Ondernemers & weerbaarheid"
-  ],
-  "tags": [
-   "evaluatie",
-   "gemeenteraad",
-   "ondernemers"
-  ],
-  "samenvatting": "De gemeente Dronten overweegt het eenrichtingsverkeer in het centrum van Swifterbant op te heffen. Dat blijkt uit een informatiebrief aan de gemeenteraad. Volgens de gemeente blijkt uit evaluatie dat het centrum onoverzichtelijker en onveiliger is geworden na het instellen van de verplichte rijrichting. Het eenrichting",
-  "link": "https://www.omroepflevoland.nl/nieuws/530825/eenrichtingsverkeer-maakt-centrum-swifterbant-onveiliger:-gemeente-overweegt-ermee-te-stoppen"
- },
- {
   "id": "f63cc1addf",
   "datum": "2026-11-10",
   "tijd": "21:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Van verkiezingsfraude verdacht D66-raadslid Boxtel neemt ontslag",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -603,7 +786,7 @@
   "id": "a9a62289b6",
   "datum": "2026-11-10",
   "tijd": "19:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nederlander (52) veroordeeld in Frankrijk voor faciliteren van mensensmokkel: ’Dacht dat ik tapijten vervoerde’",
   "bron": "De Telegraaf",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -622,7 +805,7 @@
   "id": "1e2562dde9",
   "datum": "2026-11-10",
   "tijd": "19:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Van fraude verdachte D66'er Sohib H. neemt ontslag als raadslid in Boxtel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -643,7 +826,7 @@
   "id": "fbd6ab870e",
   "datum": "2026-11-10",
   "tijd": "19:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Migrantenbootjes van zee gehaald vlak bij onze kust, wat is er aan de hand?",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -662,7 +845,7 @@
   "id": "1a8db8ed04",
   "datum": "2026-11-10",
   "tijd": "19:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester sluit woning in Duiven na explosie en verdacht pakketje",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -682,29 +865,10 @@
   "link": "https://www.gld.nl/nieuws/8545605/burgemeester-sluit-woning-in-duiven-na-explosie-en-verdacht-pakketje"
  },
  {
-  "id": "a2530f099f",
-  "datum": "2026-11-10",
-  "tijd": "18:54",
-  "nieuw": true,
-  "titel": "Bus rijdt meerdere fietsers aan in Eindhoven, twee gewonden",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "vrachtwagen"
-  ],
-  "samenvatting": "Een bus heeft dinsdagavond meerdere fietsers aangereden op de kruising van de Leenderweg met de Leostraat in Eindhoven. Volgens de politie zijn zeker drie fietsers geraakt. Mogelijk gaat het om vier fietsers. Twee mensen raakten lichtgewond. Een van hen is naar het ziekenhuis gebracht. Het ongeluk gebeurde rond half ze",
-  "link": "https://www.omroepbrabant.nl/nieuws/6034295/bus-rijdt-meerdere-fietsers-aan-in-eindhoven-twee-gewonden"
- },
- {
   "id": "a0843109ed",
   "datum": "2026-11-10",
   "tijd": "18:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Prinsenbekenaren voelen zich niet meer veilig na vondst drugslab: ‘Komen ze terug voor een afrekening?’",
   "bron": "BN DeStem",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -720,33 +884,10 @@
   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQjZmam9rWlB2VnBYS1RGcFNVcDJ6V2dVU0U1eG1tSVA3RjhvLWlOa3FHMU9iZWU4R1lKTHk4SUtNZEI2LTJuTDBCcFp2TWJxejFPb0VlbjJmOWpvN1lqdmRtWWYwYmd5a0d0NVU1ZVlZeXhMM1NkRTZGQVUtQmY2RkVsODc1bU1wa1ZjSmY5NFFNT0FWZVVIZkJJRllUMUxncndEUXFaX3V2cUZXUW9aOE5iSVpEUW5xODBmd2lsdnFwT00yRl9OeDJ6dUprQ29WdEg4dEN3?oc=5"
  },
  {
-  "id": "a1e26709d7",
-  "datum": "2026-11-10",
-  "tijd": "17:54",
-  "nieuw": true,
-  "titel": "Geëmotioneerde slachtoffers Tarwekamp: 'Explosie duurde seconden, gevolgen een leven lang'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "explosie",
-   "pand",
-   "vuurwerk",
-   "woning"
-  ],
-  "samenvatting": "\"Een explosie duurt seconden, de gevolgen ervan kunnen een leven lang duren.\" Een moeder van een gezin dat aan de Tarwekamp woonde, beschreef vandaag in de rechtszaal wat veel bewoners en nabestaanden na twee jaar nog dagelijks voelen. Haar zoon noemde \"de impact van de explosie gigantisch en blijvend\" en de dochter va",
-  "link": "https://nos.nl/l/2638896"
- },
- {
   "id": "07dacf2536",
   "datum": "2026-11-10",
   "tijd": "17:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aangifte tegen Nederlandse moederbedrijf van JBS om vermeend witwassen rond ontbossing",
   "bron": "BioJournaal",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -9363,6 +9504,25 @@
   ],
   "samenvatting": "Stekker uit Arnhems zorgbedrijf na verdenkingen van zorgfraude: 30 cliënten krijgen elders zorg De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeEV6ejVwRVRrcHJxVnVNMGY5cnNDOVFuX3ctQV9DVDlkdm80b0dqTzhtc24zT1RlMWR0YTc4ajBLTWFwQjZ6bWZJcEpIV2REcmF1R3Y0aTlxRkl0TGstV1c1dnlrUllRR0JSd1cxeU5qdUZKaUsxeHVvdm5ad203aE5uRk1qNk01dC04Mnc3S25XLV8yc3lqalE3ZGpia2lJbml0R0xVeWhoNW1vekFyOFE2QWZGc1JibDFmbXpWcGFzbTZTaldfZHp6b2lIaGJKXzVNNmxn?oc=5"
+ },
+ {
+  "id": "8f97fdd2ee",
+  "datum": "2026-10-31",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Stekker uit Arnhems zorgbedrijf na verdenkingen van zorgfraude: 30 cliënten krijgen elders zorg",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Stekker uit Arnhems zorgbedrijf na verdenkingen van zorgfraude: 30 cliënten krijgen elders zorg AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGlTSTJNQXVCY2dsa1ZPOVJaSGdmWk5wcDYwRjJSb3Y2ZXNGT1FDaEdEQ1h0WkZkRU8wZFFWbGdnWGtDQmx2c3c2c0NiWGRkUE55YUN4NW1qTWc3WnpYRG52OE5ocVBIQmRIclpQY0tLR1g4a2FCN2RrRTBJRFVVWmduZ1hkOGkwQ0hTU09tT1FYR2hYZ21tZjUydFlLTHhvMzlhU1RLS1NFYnBjUzU4ZG9fXzdlYnhlQ3FJOXVYS2FRRkd6TGtlWmt0WlVxZw?oc=5"
  },
  {
   "id": "aab527c205",
@@ -109010,6 +109170,25 @@
   "tags": [],
   "samenvatting": "Kom bij de politie Kom bij de politie",
   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5BZjZsM2JjcTMwMXkxV3ZsQWZrWDM5RVM5a2FvdGN5eGRBRHlURHE0QUlCS2VZMm52ZGxrR1VqRnZCdw?oc=5"
+ },
+ {
+  "id": "383c788e51",
+  "datum": "2019-01-23",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Geen sneeuw op het dak van woning in Hoogeveen: hennepkwekerij ontdekt",
+  "bron": "DVHN",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Geen sneeuw op het dak van woning in Hoogeveen: hennepkwekerij ontdekt DVHN",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHN3UUVWSV9yRHN4SUtrd1hsS0F2QUhSWGxzWUQ2VGZ0OGd2dEpYMnFIYVNFZXNHRzR1Q29neEdwalZIemJTMm85bGtNUU0tdjVBNUdEYnZLU1BGendVRzVwaGFJdmc1MFBLQzBqUnBjanpsUTNuU2s1U0piZXRwcEpETUpVbFY3MVhLQWlzNjRKazZ1T213dkhtcGEtSTUzV0w2WjRQanhBVDlrLWQ1eUZJYm5mRHl6a2c?oc=5"
  },
  {
   "id": "55f1b5e780",
