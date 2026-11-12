@@ -19,6 +19,25 @@
   "link": "https://nos.nl/l/2639079"
  },
  {
+  "id": "69ddf28c8f",
+  "datum": "2026-11-11",
+  "tijd": "21:55",
+  "nieuw": true,
+  "titel": "Bestuurder gewond bij aanrijding met drie auto's in Drunen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een automobilist is woensdagavond gewond geraakt bij een aanrijding met twee andere auto's op de kruising van de Simon Stevinlaan en de Spoorlaan in Drunen. De schade aan twee wagens is flink. Een BMW die vanuit de Simon Stevinlaan richting de Spoorlaan reed, kwam rond kwart over negen in botsing met een witte taxi. Do",
+  "link": "https://www.omroepbrabant.nl/nieuws/6034475/bestuurder-gewond-bij-aanrijding-met-drie-autos-in-drunen"
+ },
+ {
   "id": "d946ef004d",
   "datum": "2026-11-11",
   "tijd": "21:55",
@@ -72,15 +91,32 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "geweld",
    "wapen"
   ],
   "samenvatting": "Een 53-jarige man uit Oisterwijk heeft woensdagavond een schot gelost in een druk restaurant van het Ibis hotel aan de Dr. Huub van Doorneweg in Tilburg. Ook zou hij zijn wapen op hotelmedewerkers gericht hebben. Daarna is hij er met de auto vandoor gegaan. De politie heeft hem na een klopjacht aangehouden. Niemand is ",
   "link": "https://www.omroepbrabant.nl/nieuws/6034473/man-53-lost-schot-in-hotel-in-tilburg-politie-pakt-hem-op-na-klopjacht"
+ },
+ {
+  "id": "c93d01bc40",
+  "datum": "2026-11-11",
+  "tijd": "20:01",
+  "nieuw": true,
+  "titel": "Politie zet drone in na ongeluk in Kamperveen, bestuurder spoorloos",
+  "bron": "RTV Oost",
+  "verzameld_via": "RTV Oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Overijssel",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Op twee plekken in Overijssel zijn woensdagavond vrijwel gelijktijdig auto's in een sloot beland. In Kamperveen sloeg een auto meerdere keren over de kop, waarna de bestuurder spoorloos was. In Zwolle kwamen twee inzittenden met de schrik vrij.",
+  "link": "https://www.oost.nl/nieuws/3717939/politie-zet-drone-in-na-ongeluk-in-kamperveen-bestuurder-spoorloos"
  },
  {
   "id": "ecd5c23be3",
@@ -149,6 +185,27 @@
   ],
   "samenvatting": "Twee mannen van 19 en 20 uit Rotterdam zijn tegen de lamp gelopen na een oplichting met illegaal vuurwerk. De Rotterdammers maakten via Snapchat een afspraak om vuurwerk te verkopen en troggelden hun slachtoffer honderden euro's af, maar werden later aangehouden.",
   "link": "https://www.rijnmond.nl/nieuws/2281324/mannen-aangehouden-na-oplichting-met-vuurwerkverkoop-voor-honderden-euros"
+ },
+ {
+  "id": "8c55ad9db8",
+  "datum": "2026-11-11",
+  "tijd": "17:11",
+  "nieuw": true,
+  "titel": "Politie valt woning binnen in Zutphen: bewoner en twee vrouwen verdacht van witwassen",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen",
+   "woning"
+  ],
+  "samenvatting": "Politie valt woning binnen in Zutphen: bewoner en twee vrouwen verdacht van witwassen Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaFJnUVdGUGh0NFhjRFhXekh2MC12TlZZV3lrWUg0YzF0Q0MwZjdsOS1pMGZCOVpHRGdJSGZ2eTZRSEctUjZQY21yUm5KWHphOEpHX1AtcU5zZjhvNDU2SnZBdGt1dkpndW5DNFNfZUQ5S1FGcUs1aFl6cHM5VXhxV0hLVk9Sc3hPOU1qVWQzZkJDdmwyWXZ0S2pBUktHS2o0N3dyS2JTYnNKNEJ0Vks3TjZSN3RpMXZvZFZOaldjYWl3YmhVaEI1WWxtbUN2ckdwanNYMWpBRlpibk0?oc=5"
  },
  {
   "id": "cda5ccb558",
@@ -380,7 +437,7 @@
   "id": "7bad9758ec",
   "datum": "2026-11-11",
   "tijd": "13:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drievoudige moord Oosterhout: verdachte maakte grap over 'laatste kebab'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -399,7 +456,7 @@
   "id": "eb45a9cf6e",
   "datum": "2026-11-11",
   "tijd": "12:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vlaardingse vrouw (58) die werd bedolven onder muur overleden in ziekenhuis",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -418,7 +475,7 @@
   "id": "7aabd3fc7d",
   "datum": "2026-11-11",
   "tijd": "12:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachte Jelle D. nog altijd gebruikt als uithangbord in video Joris Zorg",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -439,7 +496,7 @@
   "id": "5a6583c60d",
   "datum": "2026-11-11",
   "tijd": "12:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Illegaal vuurwerk kopen via Snapchat loopt fout af",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -553,6 +610,25 @@
   ],
   "samenvatting": "De persoonsgegevens van leden van Overijsselse sportclubs zijn mogelijk in verkeerde handen gevallen door een datalek bij gegevensbeheerder AllUnited. Onder andere bij SVI Volleybal in Zwolle, Wielerclub Haaksbergen en WIK Glanerbrug zijn gegevens buitgemaakt, waaronder adressen, telefoonnummers en bankrekeningnummers.",
   "link": "https://www.oost.nl/nieuws/3717698/sporters-in-overijssel-slachtoffer-van-datalek-criminelen-hebben-persoonsgegevens"
+ },
+ {
+  "id": "1b72bb9d5c",
+  "datum": "2026-11-11",
+  "tijd": "10:44",
+  "nieuw": false,
+  "titel": "Sportclubs getroffen door datalek: 'Het is uitermate vervelend'",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "sportclub"
+  ],
+  "samenvatting": "Leden van Gelderse amateurclubs moeten extra alert zijn op verdachte mails, sms'jes en WhatsApp-berichten. Door een datalek bij softwareleverancier AllUnited zijn persoonsgegevens van sporters buitgemaakt. Meer dan 350 clubs zijn getroffen. Ze proberen hun leden nu zo snel mogelijk te waarschuwen voor mogelijk misbruik",
+  "link": "https://www.gld.nl/nieuws/8545739/sportclubs-getroffen-door-datalek-het-is-uitermate-vervelend"
  },
  {
   "id": "717ba122b1",
@@ -781,6 +857,25 @@
   ],
   "samenvatting": "Het Boxtelse D66-raadslid Sohib H., dat eind oktober werd opgepakt op verdenking van verkiezingsfraude, heeft zijn ontslag ingediend als gemeenteraadslid. Dat maakt de plaatselijke fractievoorzitter van de partij bekend tijdens de raadvergadering . De 38-jarige H. werd op 27 oktober aangehouden op verdenking van onder ",
   "link": "https://nos.nl/l/2638929"
+ },
+ {
+  "id": "87a1d79da3",
+  "datum": "2026-11-10",
+  "tijd": "20:47",
+  "nieuw": false,
+  "titel": "Restaurant en speelhal in Duiven ontruimd na vreemde geur",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand"
+  ],
+  "samenvatting": "Restaurant Nomi en GlowGolf aan de Droom in Duiven zijn dinsdagavond korte tijd ontruimd vanwege een vreemde lucht in het pand. De brandweer kwam ter plaatse om de situatie te onderzoeken.",
+  "link": "https://www.gld.nl/nieuws/8545621/restaurant-en-speelhal-in-duiven-ontruimd-na-vreemde-geur"
  },
  {
   "id": "a9a62289b6",
