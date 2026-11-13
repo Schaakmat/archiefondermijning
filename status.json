@@ -1,12 +1,12 @@
 {
- "run": "19:05",
- "datum": "2026-11-12",
- "nieuw": 31,
- "totaal": 5715,
- "verwijderd": 15,
+ "run": "00:39",
+ "datum": "2026-11-13",
+ "nieuw": 15,
+ "totaal": 5721,
+ "verwijderd": 9,
  "geweigerd": {
-  "niet-nederlands": 518,
-  "geen dossier": 332
+  "niet-nederlands": 512,
+  "geen dossier": 330
  },
  "bronnen": [
   {
@@ -68,7 +68,7 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 373,
+   "items": 374,
    "status": "1 nieuw",
    "ok": true
   },
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -212,8 +212,8 @@
    "url": "news.google.com/rss/search?q=zorgfraude%20OR%20pgb-fraude%20OR%20%22mala",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 200,
-   "status": "bij",
+   "items": 201,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 449,
-   "status": "6 nieuw",
+   "items": 450,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -249,7 +249,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 108,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 504",
    "ok": false
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 504",
    "ok": false
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 182,
-   "status": "7 nieuw",
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -491,7 +491,7 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 333,
+   "items": 334,
    "status": "3 nieuw",
    "ok": true
   },
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 386,
-   "status": "6 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 366,
-   "status": "1 nieuw",
+   "items": 368,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 80,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 255,
-   "status": "3 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
