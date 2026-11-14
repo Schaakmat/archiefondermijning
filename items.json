@@ -1,22 +1,22 @@
 [
  {
-  "id": "f669e4ea7f",
-  "datum": "2026-11-13",
-  "tijd": "20:37",
+  "id": "e98e1ebe88",
+  "datum": "2026-11-14",
+  "tijd": "01:41",
   "nieuw": true,
-  "titel": "Oud-wethouder Harry Bakker doet boekje open over conflict met burgemeester",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
+  "titel": "Luchtmacht VS reageert op droneactiviteit op Britse vliegbasis",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
+  "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "burgemeester"
+   "beveiliging"
   ],
-  "samenvatting": "Oud-wethouder Harry Bakker vertelt in een persoonlijke brief aan Omroep Brabant voor het eerst uitgebreid hoe het conflict met burgemeester Boy Scholtze van de gemeente Drimmelen volgens hem is ontstaan. Hij beschrijft hoe de verhoudingen in het college steeds slechter werden, tot een confrontatie in februari. Die leid",
-  "link": "https://www.omroepbrabant.nl/nieuws/6034757/oud-wethouder-harry-bakker-doet-boekje-open-over-conflict-met-burgemeester"
+  "samenvatting": "De Amerikaanse luchtmacht is gisteravond in actie gekomen na meldingen over vermoedelijke ongeoorloofde droneactiviteit op de Britse luchtmachtbasis RAF Lakenheath in het oosten van Engeland. Of er drones zijn waargenomen is onbekend. Volgens de Amerikanen zijn in ieder geval geen militairen, vliegtuigen of gebouwen ge",
+  "link": "https://nos.nl/l/2639420"
  },
  {
   "id": "3ed433fd32",
@@ -36,6 +36,25 @@
   ],
   "samenvatting": "De politie heeft op de Westblaak in Rotterdam-Centrum vrijdagavond een 18-jarige man aangehouden. Hij had een vuurwapen bij zich; zo werd ontdekt tijdens een preventieve fouilleeractie.",
   "link": "https://www.rijnmond.nl/nieuws/2282377/18-jarige-man-met-vuurwapen-aangehouden-in-centrum-van-rotterdam"
+ },
+ {
+  "id": "f669e4ea7f",
+  "datum": "2026-11-13",
+  "tijd": "20:37",
+  "nieuw": true,
+  "titel": "Oud-wethouder Harry Bakker doet boekje open over conflict met burgemeester",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester"
+  ],
+  "samenvatting": "Oud-wethouder Harry Bakker vertelt in een persoonlijke brief aan Omroep Brabant voor het eerst uitgebreid hoe het conflict met burgemeester Boy Scholtze van de gemeente Drimmelen volgens hem is ontstaan. Hij beschrijft hoe de verhoudingen in het college steeds slechter werden, tot een confrontatie in februari. Die leid",
+  "link": "https://www.omroepbrabant.nl/nieuws/6034757/oud-wethouder-harry-bakker-doet-boekje-open-over-conflict-met-burgemeester"
  },
  {
   "id": "c544ec2705",
@@ -67,12 +86,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Cocaine, haven & logistiek",
    "Milieucriminaliteit & afval"
   ],
   "tags": [
-   "grond",
-   "haven"
+   "grond"
   ],
   "samenvatting": "\"Dit is zo ongeveer de mooiste dag uit mijn leven\", zegt bomenexpert Hans Kaljee van de gemeente Amsterdam. Naast hem staan veel iepen die met wortels en al uit de grond zijn gehaald. Met de scan van de kluit en met metingen van acht jaar onderzoek gaan boomwetenschappers aan de slag om te achterhalen welke grond het b",
   "link": "https://nos.nl/l/2639365"
@@ -114,6 +131,25 @@
   ],
   "samenvatting": "De politie heeft vier minderjarigen opgepakt die zich voordeden als agenten. Het viertal was van plan om een 77-jarige man in Drunen op te lichten. De verdachten zijn tussen de 15 en 17 jaar oud en komen uit Amsterdam, schrijft de politie. Het slachtoffer werd gebeld door een nepbankmedewerker, maar vertrouwde het niet",
   "link": "https://nos.nl/l/2639355"
+ },
+ {
+  "id": "214c305f37",
+  "datum": "2026-11-13",
+  "tijd": "17:12",
+  "nieuw": true,
+  "titel": "Hengelo moet 42.000 euro betalen aan Oekraïense broers na vondst spullen voor drugslab",
+  "bron": "https://nl24.nu/",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Hengelo moet 42.000 euro betalen aan Oekraïense broers na vondst spullen voor drugslab https://nl24.nu/",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWENySlVIT0Z1aVNGOS01VWw4Sjg3aEo0TDhDZnJONG9FMFdDcVkxWk9GR1N1VkZZRTdIMm4xZW93SFZlZTBTQXBxZUZzOGVaQWlmczRsU0lqNjlwaXUzMTVVajd5YnhrSWlhLWdPdkNLTnM1UlMxTGRsaDNXY2FZUk9ER3NMVGFnWnMtdkdmWU9zOXNHR2F3T0pRNTRSSXZWRkVFRm5ZbVI2UExZNlE?oc=5"
  },
  {
   "id": "03a04e2319",
@@ -186,17 +222,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Criminele samenwerkingsverbanden",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "bende",
-   "burgemeester",
-   "grond",
-   "huurwoning",
-   "woning"
+   "burgemeester"
   ],
   "samenvatting": "Een flinke tegenvaller voor de Bredase woonwagenbewoner Bart Hülters. Het gerechtshof in Den Bosch ziet geen reden om het college van burgemeester en wethouders en betrokken ambtenaren strafrechtelijk te laten vervolgen voor discriminatie en vermeende fraude. \"Ze houden elkaar allemaal de hand boven het hoofd\", zegt ee",
   "link": "https://www.omroepbrabant.nl/nieuws/6034737/woonwagenbewoner-bart-boos-na-afwijzing-discriminatieklacht"
@@ -326,6 +355,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6034720/n2-bij-leenderheide-weekenden-dicht-door-aanleg-nieuwe-verbinding-met-a2"
  },
  {
+  "id": "9942ce5cdc",
+  "datum": "2026-11-13",
+  "tijd": "14:21",
+  "nieuw": true,
+  "titel": "Jonge vrouwen spelen prominente rollen in Amsterdamse liquidatiezaken: ‘Weet de driver dat hij hitmans gaat vervoeren?’ - Het Parool",
+  "bron": "AT5 / Amsterdam",
+  "verzameld_via": "AT5 / Amsterdam",
+  "soort": "Nieuwsbericht",
+  "regio": "Amsterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "liquidatie"
+  ],
+  "samenvatting": "Jonge vrouwen spelen prominente rollen in Amsterdamse liquidatiezaken: ‘Weet de driver dat hij hitmans gaat vervoeren?’ Het Parool",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObWhrOVRaUmlHWVR6cEJTX0JTVG03NUswTHdNV2plVVNwZm9UUnphd1ZPbUVOV2lJa2RPVzNweXBCVEQwLWZPek9GazVXc1FUR1Q3RDYwM001VEtjOGhNUk0wTVVrY0MzdVpjZHU2S3Zmc3Nmb3V1NWpLQlRKejVWWEhLbW5hc1JkZzFobFlYUkJ4SVlOZWEtdXpueTNvT0h6RkhydEx5ZHVReU5iTkNJLXBwRXRjTEFIdzV6R3UxaWkza0pLRE00aV9WeWYwSWtpY2JDemktYzBlVVdnclh0am9WWGZjWnptb1BV?oc=5"
+ },
+ {
   "id": "4d21ceb773",
   "datum": "2026-11-13",
   "tijd": "14:16",
@@ -350,7 +398,7 @@
   "id": "7fcd19c8b0",
   "datum": "2026-11-13",
   "tijd": "13:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zware verdenkingen tegen jongen (16) na dood Tico: medeplegen moord of doodslag",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -369,7 +417,7 @@
   "id": "48c5bbb87e",
   "datum": "2026-11-13",
   "tijd": "13:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Oud-wethouder Bakker klapte uit de school over integriteitsonderzoek",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -394,7 +442,7 @@
   "id": "8791c8c49e",
   "datum": "2026-11-13",
   "tijd": "13:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vijf jaar cel geëist tegen Eindhovenaar na vondst van 100 kilo cocaïne",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -416,7 +464,7 @@
   "id": "fd582a5bbe",
   "datum": "2026-11-13",
   "tijd": "13:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vijf jaar cel geëist tegen Eindhovenaar vanwege vondst 100 kilo coke",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -438,7 +486,7 @@
   "id": "90946893ea",
   "datum": "2026-11-13",
   "tijd": "13:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrachtwagen knalt tegen spoorbomen in Rijen, overgang is dicht",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -457,7 +505,7 @@
   "id": "d73db7ad11",
   "datum": "2026-11-13",
   "tijd": "13:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Intiem contact met meisje op Veghelse school: aangifte tegen docent",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -476,7 +524,7 @@
   "id": "a3c007b7b6",
   "datum": "2026-11-13",
   "tijd": "12:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "51 maanden cel voor vervalst diploma, naaktbeeld van kwetsbare cliënt en witwassen van 5,5 miljoen euro",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -495,7 +543,7 @@
   "id": "ec6dacb9e9",
   "datum": "2026-11-13",
   "tijd": "12:01",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ex-D66-raadslid Boxtel, verdacht van corruptie en stemfraude, na voorarrest vrij",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -516,7 +564,7 @@
   "id": "3108129efb",
   "datum": "2026-11-13",
   "tijd": "12:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Eigenaar nachtclub is zich 'doodgeschrokken' van nepgranaat voor de deur",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -535,7 +583,7 @@
   "id": "3b062e8a07",
   "datum": "2026-11-13",
   "tijd": "11:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Broers uit Eelderwolde veroordeeld voor witwassen, autobedrijven krijgen boetes",
   "bron": "Dit is Roden",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -88205,6 +88253,28 @@
   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSWswTktRemhzNjZGSWxSUk05cnRvVFByYVJsZF9hcTJZOEVLd3ZqWUVLMVNWRWtRY0FIV3N4MDk1Mm1vQTlfRUFkWHphQU50dWpaUmY5OTRnUExCRjJfN0JjMEJvQjBOWEpicHZiSEtNT3pfem9fQTNsWkViWWFNM1pWTG1EVjNDVkwxZkNZUm1RcDhVUGxNTVRYZTRCVUxtT3lzcEExUG8tOFY0anQ0U2t6R3VLVGVoQl9heTBXanhPd2ZDUGtUWlZMbkItMk55X1JjbnRpUVVDbUgxSVREVGU1UE1Jem02U3l0S19Ud1FVd2dTZVB1Uk5Scw?oc=5"
  },
  {
+  "id": "ab19fadb35",
+  "datum": "2025-08-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij aangetroffen op een zolder van een woning in Staphorst, verdachte aangehouden",
+  "bron": "Meppeler Courant",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "woning"
+  ],
+  "samenvatting": "Hennepkwekerij aangetroffen op een zolder van een woning in Staphorst, verdachte aangehouden Meppeler Courant",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSVg3RGJTUnMwbXFBblJTcDV1aHRxWXNYQ3c3VGtqUWlZOGJvWDZoRzRkVkwwd0VKWHhkcllhbTJEUEVRUDM0YXd3VXFDaDRfZEtDWmhvMFpuMWtPcUgxNC1UbGt6d3JERDhuYXBnVGk5aWFodTU2YUxlWkhiRHJOYk9vU2xPVE5ETHVNalluTkhCWUdzZ0xRdXR1VDZ4NHNXcVFHbkF3aC10VE45a0dNclFsTTFQX2x2Ml9XMmlIYWl1aDRDckptTi1qYXB1S2FXTXR3SDJ3cWsxQTA4Nk1CTQ?oc=5"
+ },
+ {
   "id": "efbc1d9cb4",
   "datum": "2025-08-17",
   "tijd": "07:00",
@@ -107390,6 +107460,26 @@
   ],
   "samenvatting": "21 verdachten veroordeeld voor witwassen of massaal uitgeven van valse 500 eurobiljetten De Rechtspraak",
   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOZGpmUmpEU20zTGFGV2tIZGc3MkFiYi1LZC1wd1BQbEJnLWpBZkhKYUhPWkFRYXNOSkxZMWZaa3doVUZ4Nk1TSTlrcW9MdVVqdlJ4WllULU9NVlYycTgzb0JDVzNkaUNYeTRfNFl5d1c4ZW9ESm02aWxHNW1VRTFkTEVhcEw3bXltTEd2OFB5elA0WjZTVFlWOE5vMjlUeHlEeGtKS2VWenV1RnphdzlzT0k4WU9lcVZaYVV0bldaOHVOZVV4dFEzcUhTakV1X0p1SjVXN0xYZ0pURmlfdlFqcFlIZmliQWcycjNBWHgtQzJjWUNBSm8tUkRnS2EwWm9BUGc4Q3N2bGxtbGhYYUR6R3FacFp5eHVhMUYzVGNYaWdDS2gteEt3?oc=5"
+ },
+ {
+  "id": "0a34bc5218",
+  "datum": "2021-01-07",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Celstraf geëist tegen ‘uithaler’ van drugs die slapend in een container werd aangetroffen",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container",
+   "uithaler"
+  ],
+  "samenvatting": "Celstraf geëist tegen ‘uithaler’ van drugs die slapend in een container werd aangetroffen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFVmR0ZuUlRIa25hQ0hPVEdKNTFzeElzYng1elpVeFc1VzU0WXBiWE1KWXMwalljMFpPeUZmRGVEaVJJTW03emtGVC1LbUlhNk1IYkVxVko5VlNhWE0zTVNicXg2LVBUc3dPcmdUWmJXNktSd20zNXVVcjZ3VE5zZkRKcTJHLVJfYmJfUktmbWN0ejZSX3lMZHpmaE15TjRmYWxSaVlKQjkwV2xxUXFnaUUwMVo5WkRtRHhLVkp3RUpmU0k?oc=5"
  },
  {
   "id": "5e40fe8cb9",
