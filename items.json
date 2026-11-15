@@ -1,5 +1,24 @@
 [
  {
+  "id": "ec0fcda8bd",
+  "datum": "2026-11-14",
+  "tijd": "22:44",
+  "nieuw": true,
+  "titel": "Burgemeester sluit woning aan de Europalaan in Nuenen na vondst van hennepkwekerij",
+  "bron": "Eindhovens Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Burgemeester sluit woning aan de Europalaan in Nuenen na vondst van hennepkwekerij Eindhovens Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWVg0X25IblNURlN1bFJZVm9na3lYUHF0MHFQMEZWM3drWFM3enVXZEVnc1EtU0hWUWpNa0ljWDN5LTF5M19uSU5PZ2JSTFJHa0prcjBFV3FQNVNMcGZDVEZ1QXh0VjY1OVpoQ0NjVl9YbGJDbUpRRjhiRy1hV1lFSktsVWwtV1RvbEpIam41TWwwVlYwUGJLQXBWYW5Dc2NOM0k1QTctRGJGWDhvV05ISDVDcHZjLUVsY0dsVlpMajhHMFotUzQ2RkhjU1lyeHBSaGtMbUh3?oc=5"
+ },
+ {
   "id": "f44cf87906",
   "datum": "2026-11-14",
   "tijd": "21:37",
@@ -116,6 +135,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt"
  },
  {
+  "id": "1e8fba3a13",
+  "datum": "2026-11-14",
+  "tijd": "18:07",
+  "nieuw": true,
+  "titel": "Borrel voor volwassenen met autisme: 'Ik blijf bij elk bezoek een paar minuten langer'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "netwerk"
+  ],
+  "samenvatting": "In Café Floor in hartje Rotterdam komen maandelijks volwassenen met autisme, Asperger of hoogbegaafdheid bij elkaar tijdens de netwerkborrel Iets Drinken. De organisatoren willen mensen op een ongedwongen manier met elkaar in contact brengen. Gewoon in het café, zonder ingewikkelde gedragsregels of verplichtingen.",
+  "link": "https://www.rijnmond.nl/nieuws/2280683/borrel-voor-volwassenen-met-autisme-ik-blijf-bij-elk-bezoek-een-paar-minuten-langer"
+ },
+ {
   "id": "34c7c9a660",
   "datum": "2026-11-14",
   "tijd": "16:45",
@@ -126,12 +164,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Vastgoed & huisvesting"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "gemeenteraad",
-   "woning"
+   "gemeenteraad"
   ],
   "samenvatting": "Sinterklaas is pas net aangemeerd in Grave, maar een stuk verderop in de provincie wordt al druk gesolliciteerd naar de rol van gaststad voor de landelijke Sinterklaasintocht. Helder Helmond, de grootste partij in de gemeenteraad, hoopt dat de goedheiligman in 2028 in de stad aanmeert. Dat jaar viert Helmond zijn 850-j",
   "link": "https://www.omroepbrabant.nl/nieuws/6034790/sinterklaasintocht-in-2028-in-helmond-deze-politieke-partij-hoopt-het"
@@ -147,11 +183,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Jeugd & jonge aanwas",
-   "Witwassen & geldstromen"
+   "Jeugd & jonge aanwas"
   ],
   "tags": [
-   "geldbedrag",
    "jeugd"
   ],
   "samenvatting": "Een 19-jarige man uit Tilburg is vrijdagavond aangehouden in Loon op Zand omdat hij allerlei soorten drugs in z'n auto had liggen. De drugs zijn inbeslaggenomen, melden jeugdagenten van de Langstraat op Instagram zaterdag. Agenten controleerden iets na middernacht de auto van de man. Na de vondst van de drugs is hij in",
@@ -199,7 +233,7 @@
   "id": "0be832a887",
   "datum": "2026-11-14",
   "tijd": "14:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Twee Flevolanders opgepakt in Groningen vanwege oplichting",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -220,7 +254,7 @@
   "id": "c25a871d6f",
   "datum": "2026-11-14",
   "tijd": "13:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - 19-jarige trekt lijst SP in maart: 'Het is wel onze toekomst'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -241,7 +275,7 @@
   "id": "ae3f6b2239",
   "datum": "2026-11-14",
   "tijd": "13:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Burgemeester laat woning sluiten na explosie in Almeerse Muziekwijk",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -264,7 +298,7 @@
   "id": "fdb457560e",
   "datum": "2026-11-14",
   "tijd": "12:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Follow the Money: provincie wilde verkiezingen beïnvloeden met campagne voor Lelystad Airport",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -11229,6 +11263,25 @@
   ],
   "samenvatting": "Stekker uit Arnhems zorgbedrijf na verdenkingen van zorgfraude: 30 cliënten krijgen elders zorg AD.nl",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGlTSTJNQXVCY2dsa1ZPOVJaSGdmWk5wcDYwRjJSb3Y2ZXNGT1FDaEdEQ1h0WkZkRU8wZFFWbGdnWGtDQmx2c3c2c0NiWGRkUE55YUN4NW1qTWc3WnpYRG52OE5ocVBIQmRIclpQY0tLR1g4a2FCN2RrRTBJRFVVWmduZ1hkOGkwQ0hTU09tT1FYR2hYZ21tZjUydFlLTHhvMzlhU1RLS1NFYnBjUzU4ZG9fXzdlYnhlQ3FJOXVYS2FRRkd6TGtlWmt0WlVxZw?oc=5"
+ },
+ {
+  "id": "54c23b7965",
+  "datum": "2026-10-31",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Vrouw en broer schetsen beeld van raadslid Sohib H., die verdacht wordt van ronselen en witwassen",
+  "bron": "Tubantia",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Vrouw en broer schetsen beeld van raadslid Sohib H., die verdacht wordt van ronselen en witwassen Tubantia",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd1c4NkVLejJhSjNaOUNyZDZlY0hNLUppYmRBWUo0Mk0zbXJCbTdzbkFvUmljQjFCczRFNkRXTkpmZUdnanVZb1RJYmQ1RXVHZkNMTl95YVJLcVFtYnhRMFVhZXpBNVN5ZEY0dDRrbzgtT25oczllUTMwLWlaaS1uWDJQZ2ZwOGZnd3l5dGtrQi0yUUhFOXVweEtBR3Y4S2pKZUJwOXU3c2h6SjJ1UWxZRXBMeEh6U3RGV2g2NTFFRC1qTmJhaXhqN0RkOFRUU01NZ0J1LUxXaw?oc=5"
  },
  {
   "id": "aab527c205",
