@@ -1,12 +1,12 @@
 {
- "run": "20:42",
- "datum": "2026-11-16",
- "nieuw": 23,
- "totaal": 5832,
- "verwijderd": 9,
+ "run": "04:01",
+ "datum": "2026-11-17",
+ "nieuw": 11,
+ "totaal": 5836,
+ "verwijderd": 7,
  "geweigerd": {
-  "niet-nederlands": 387,
-  "geen dossier": 337
+  "niet-nederlands": 407,
+  "geen dossier": 345
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 424,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -24,7 +24,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -42,7 +42,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -60,7 +60,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -69,8 +69,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 387,
-   "status": "2 nieuw",
-   "ok": true
+   "status": "fout 429",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Witwassen & geldstromen",
@@ -78,7 +78,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -96,7 +96,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -123,8 +123,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 29,
-   "status": "fout 429",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Officiele publicaties — Vastgoed & huisvesting",
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -141,8 +141,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 37,
-   "status": "fout 429",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Officiele publicaties — Trustkantoren & rechtspersonen",
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -159,8 +159,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 56,
-   "status": "fout 429",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Officiele publicaties — Bibob & bestuurlijke aanpak",
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -230,8 +230,8 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 455,
-   "status": "bij",
+   "items": 456,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -240,7 +240,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -248,9 +248,9 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 108,
-   "status": "fout 429",
-   "ok": false
+   "items": 109,
+   "status": "1 nieuw",
+   "ok": true
   },
   {
    "naam": "Officiele publicaties — Wapens, explosieven & vuurwerk",
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -267,8 +267,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 70,
-   "status": "fout 429",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Officiele publicaties — Geweld, liquidaties & bedreiging",
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -294,7 +294,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -303,8 +303,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 29,
-   "status": "bij",
-   "ok": true
+   "status": "fout 429",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Buitengebied & recreatie",
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -321,8 +321,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 181,
-   "status": "fout 429",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Officiele publicaties — Milieucriminaliteit & afval",
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -339,7 +339,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 40,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
@@ -402,17 +402,17 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout 403",
    "ok": false
   },
   {
    "naam": "Rijksoverheid",
-   "url": "news.google.com/rss/search?q=site:rijksoverheid.nl+ondermijning+OR+%22on",
+   "url": "feeds.rijksoverheid.nl/nieuws.rss",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 47,
-   "status": "bij",
-   "ok": true
+   "status": "fout 429",
+   "ok": false
   },
   {
    "naam": "Politie",
@@ -447,8 +447,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 77,
-   "status": "bij",
-   "ok": true
+   "status": "fout 429",
+   "ok": false
   },
   {
    "naam": "RIEC / LIEC / CCV",
@@ -456,8 +456,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 dag",
    "items": 44,
-   "status": "bij",
-   "ok": true
+   "status": "fout 429",
+   "ok": false
   },
   {
    "naam": "NOS — binnenland",
@@ -491,7 +491,7 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 350,
+   "items": 351,
    "status": "2 nieuw",
    "ok": true
   },
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 396,
-   "status": "4 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 375,
-   "status": "3 nieuw",
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -519,7 +519,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 0,
-   "status": "fout 429",
+   "status": "0 records",
    "ok": false
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 262,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 183,
-   "status": "3 nieuw",
+   "items": 184,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -564,8 +564,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 121,
-   "status": "fout 429",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Gemeenten & burgemeesters",

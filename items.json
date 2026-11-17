@@ -1,5 +1,49 @@
 [
  {
+  "id": "3b24af1189",
+  "datum": "2026-11-17",
+  "tijd": "00:04",
+  "nieuw": true,
+  "titel": "Biddinghuizen - Dodelijk verkeersongeval bij Harderhaven, auto belandt onderaan dijk",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "haven"
+  ],
+  "samenvatting": "Een automobilist is maandagavond om het leven gekomen bij een verkeersongeluk op de Harderdijk (N306). Dat meldt een woordvoerder van de politie. Een andere inzittende van de auto zou zwaargewond zijn geraakt bij het incident. Het ongeluk gebeurde rond 22.00 uur. Er waren geen andere voertuigen betrokken bij het fatale",
+  "link": "https://www.omroepflevoland.nl/nieuws/531651/dodelijk-verkeersongeval-bij-harderhaven-auto-belandt-onderaan-dijk"
+ },
+ {
+  "id": "6b5a8ec08a",
+  "datum": "2026-11-16",
+  "tijd": "21:21",
+  "nieuw": true,
+  "titel": "Man (91) uit Rucphen wordt midden in de nacht overvallen",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Autobranche & garages",
+   "Bibob & bestuurlijke aanpak",
+   "Goudhandel & edelmetalen",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "burgemeester",
+   "contant geld",
+   "garage",
+   "sieraden"
+  ],
+  "samenvatting": "Een 91-jarige man is eind juni overvallen in zijn huis in Rucphen. De bewoner schrok wakker in zijn appartement aan de Burgemeester Antonissenstraat toen hij geluiden hoorden. In het tv-programma Opsporing Verzocht is maandagavond een reconstructie van de overval te zien. De man werd rond kwart voor drie wakker van gel",
+  "link": "https://www.omroepbrabant.nl/nieuws/6034991/man-91-uit-rucphen-wordt-midden-in-de-nacht-overvallen"
+ },
+ {
   "id": "76936562ec",
   "datum": "2026-11-16",
   "tijd": "20:30",
@@ -31,22 +75,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Cocaine, haven & logistiek",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Trustkantoren & rechtspersonen",
-   "Vastgoed & huisvesting",
-   "Zorgfraude & sociale zekerheid"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "bv",
-   "grond",
-   "moord",
-   "school",
-   "toeslagen",
-   "vergunning"
+   "vergunning ingetrokken"
   ],
   "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Almere trekt vergunning voor McDonald's in Oosterwold in • Nieuwe stad op eiland in Markermeer is mogelijk, maar kostbaar • Noordoostpolder past verkoopplan",
   "link": "https://www.omroepflevoland.nl/nieuws/531603/nieuwsoverzicht-1611-or-moordenaar-hoeft-mogelijk-geen-dwangverpleging-meer-*-mcdonald's-vergunning-ingetrokken"
@@ -199,7 +231,7 @@
   "id": "6f0635de78",
   "datum": "2026-11-16",
   "tijd": "16:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestrijding van witwassen staat een grote opfrisbeurt te wachten",
   "bron": "Accountantweek",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -218,7 +250,7 @@
   "id": "c6c670cbe9",
   "datum": "2026-11-16",
   "tijd": "15:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "De centrale bank van Brazilië krijgt weerstand vanwege opmerkingen over witwassen met stablecoins",
   "bron": "CoinDesk",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -237,7 +269,7 @@
   "id": "83e8e3b30c",
   "datum": "2026-11-16",
   "tijd": "15:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Geen Big Macs bij de Veluwe: rechter zet streep door McDonald's",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -256,7 +288,7 @@
   "id": "efca431f14",
   "datum": "2026-11-16",
   "tijd": "14:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Arrestaties na vondst illegaal vuurwerk in woonwijken: 'Uitermate gevaarlijk'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -275,7 +307,7 @@
   "id": "47b0a68cfc",
   "datum": "2026-11-16",
   "tijd": "14:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Podcast De Dag: opgelicht door een nepagent",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -294,7 +326,7 @@
   "id": "e4aabab49b",
   "datum": "2026-11-16",
   "tijd": "12:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie houdt twee verdachten aan na dodelijk ongeluk in Oudewater",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -313,7 +345,7 @@
   "id": "30420802a6",
   "datum": "2026-11-16",
   "tijd": "12:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ahmed Aboutaleb kritisch op premier Rob Jetten in crisistijd: 'Laat weten wat je doet'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -332,7 +364,7 @@
   "id": "5b25144343",
   "datum": "2026-11-16",
   "tijd": "11:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Weekweerbericht: Echt herfst met dagelijks buien en soms veel wind",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -351,7 +383,7 @@
   "id": "2a47e59aae",
   "datum": "2026-11-16",
   "tijd": "10:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Militaire voertuigen botsen op weg naar oefening op N65 bij Helvoirt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -370,7 +402,7 @@
   "id": "0425524fe5",
   "datum": "2026-11-16",
   "tijd": "09:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man krijgt celstraf voor mensensmokkel van negen mensen via Bunde",
   "bron": "www.zuidlimburgvandaag.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -389,7 +421,7 @@
   "id": "77bf470f16",
   "datum": "2026-11-16",
   "tijd": "05:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Voormalig auditor Europese Investerings­bank is vernietigend over management en arbeidscultuur",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -408,7 +440,7 @@
   "id": "aeb0eee220",
   "datum": "2026-11-16",
   "tijd": "05:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie verjaagt criminele motorbendes uit straatbeeld, maar nieuwe clubs vaker betrokken bij misdrijven",
   "bron": "De Telegraaf",
   "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
@@ -427,7 +459,7 @@
   "id": "1f8612777f",
   "datum": "2026-11-16",
   "tijd": "05:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hamburger bestellen bij drive-in Son komt automobilist duur te staan",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -446,7 +478,7 @@
   "id": "ec68b98317",
   "datum": "2026-11-15",
   "tijd": "22:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "BRIEVEN | Aanpak zorgfraude is de sleutel tot sluitende begroting | Breda",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -4390,6 +4422,25 @@
   ],
   "samenvatting": "Broer van Viktor Orbán gearresteerd op verdenking van mensenhandel Drimble",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPckJjemZzV1lDazBFVXc2WGxFRWJYR0lONHBydFFLTk80ejJvT1FzZ3AyOXRxRmpBcW5NNnc1eHlPUmQ4djE5OUJzc3VuSEszOGc4bWhyS0NSMVdZaXZVT09IZGROQk5NWjhCSWhsWk0yM0N1bmhRRGx5azdKa2QxRjNDY2Ywb2Z3b21vMWthWHBTb19YcjdtS05RZGpuWjV3RTNyNHZ2NU5DTXJiNmc?oc=5"
+ },
+ {
+  "id": "57af97c3f5",
+  "datum": "2026-11-09",
+  "tijd": "16:47",
+  "nieuw": false,
+  "titel": "Tilburgse fabrikant gaat wapens produceren van Israëlisch bedrijf. ‘Ik ga me niet bezighouden met politiek’",
+  "bron": "de Volkskrant",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Tilburgse fabrikant gaat wapens produceren van Israëlisch bedrijf. ‘Ik ga me niet bezighouden met politiek’ de Volkskrant",
+  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSF81bjlEeGJJVzFQSG9EVDNiMjNQTUR2NEhma2FxSnY5Y0NkUjkzeDhwN1c1MG1nSjR3Qy1CUWxFcTJacmZ3clRhc1RqWmhaTzRDZUp1N29uRUVXR3hmdDdaazJCSWVpd2FMTDRFcFBGVmR3eG5yRXdOanJMaEpSQ0VyaVQ5TnpvY1BnQnljaXZtTWNkdTZxcFFOZnc5VU9iWGtibndmMXA5eVZhVm8tODBHd2F1ZjJwdU5MWW1CMTNxRFk1Q3o5dTY1cVlMcUp3aXRvaFo0MklUblVZRVFTbWROM2J1UQ?oc=5"
  },
  {
   "id": "abb395066e",
@@ -107576,6 +107627,25 @@
   ],
   "samenvatting": "Zeewolde gaat met andere gemeenten samenwerken om ondermijning tegen te gaan Lokale Omroep Zeewolde",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ21QVzM1UkNScVg5UGFsMVdjcGtSNUtTUXE2Tm1CYVloNi1FTFlqOXZ4b0VKcmV4TFE4OWdqRDF0ZnJVOTNKZW5WV1RaYzdLYk1pcVV5ZElmLTNJcWtBdVFMMGlXMWQ0TWdPTmI5T2VBejRhVnBJTjhGUl9WVkxfY25ldVRrWHhIS2dONFlZc1kyUkJyLWNEQzk0bk1CbF9tb19vSm55UEtyMjRrUkpnRUpRNVppSVVRRmVGV1ZwSHRxQ0h3andF?oc=5"
+ },
+ {
+  "id": "28973e98f1",
+  "datum": "2021-05-20",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Twee mannen uit België aangehouden voor mensensmokkel bij Ter Apel",
+  "bron": "DVHN",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Twee mannen uit België aangehouden voor mensensmokkel bij Ter Apel DVHN",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQempOM1BuUnZkRDI3QkozaXk0cXJ5WWFwYWZlcDJSUUhaRlVQTHJ2T041NTBtcFMtakdhM25mb0pLN2FXRzRFZmtNTEM2clB6cFJZdDNvT2duUDZuQnAtRHpaMUR1MEFBanhnRmRRRDdsb29LX3FZZDdrNGIxQW9FSEdMMmhWbF8yWEVlRVgyOHhKTHB0ZnY4Z2p3MEI0TXMtRVFFZnA3dmpSNHBHcGlZT3ZQc3dweUdu?oc=5"
  },
  {
   "id": "d2619271b8",
