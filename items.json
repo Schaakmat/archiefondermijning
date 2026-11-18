@@ -10,16 +10,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
    "Jeugd & jonge aanwas",
    "Milieucriminaliteit & afval"
   ],
   "tags": [
-   "bedreiging",
    "grond",
-   "jeugd",
-   "organisatie"
+   "jeugd"
   ],
   "samenvatting": "Oud-directeur Tanja Boeije van jeugdzorgtoegangspoort Jeugd Lelystad (JEL) is het niet eens met de grondslag van haar ontslag door Jeugd Lelystad. Dat bleek dinsdag tijdens een rechtszaak. Volgens haar advocaat is het onderzoek waarop het ontslag is gebaseerd niet betrouwbaar en zijn verklaringen van medewerkers uit hu",
   "link": "https://www.omroepflevoland.nl/nieuws/531741/oud-directeur-jel-betwist-ontslag-bij-rechter:-'rapport-geeft-geen-betrouwbaar-beeld'"
@@ -207,12 +203,10 @@
   "regio": "Noord-Brabant",
   "dossiers": [
    "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
    "Horeca, winkels & dienstverlening"
   ],
   "tags": [
    "bende",
-   "geweld",
    "supermarkt"
   ],
   "samenvatting": "Een 31-jarige man heeft vrijdagavond voor overlast gezorgd in een supermarkt in Son en Breugel, meldt de politie dinsdag. Hij opende een blikje bier, nam een paar slokken en gedroeg zich daarna agressief tegen het winkelpersoneel. Zij schakelden de politie in. Toen de man uit Oosterhout de winkel wilde verlaten, ontsto",
@@ -337,10 +331,29 @@
   "link": "https://www.rijnmond.nl/nieuws/2284008/om-eist-celstraf-voor-kamerverhuur-sekswerkers-en-witwassen-alles-voor-eigen-gewin"
  },
  {
-  "id": "c736ffc09d",
+  "id": "43eca74158",
   "datum": "2026-11-17",
   "tijd": "17:00",
   "nieuw": true,
+  "titel": "'Vertrouwen in de zorg kwijt', zeggen cliënten over failliet zorgbedrijf",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "netwerk"
+  ],
+  "samenvatting": "De gemeenten Apeldoorn en Arnhem willen een miljoen euro terug van zorgbedrijf InCtrl-Zorgnetwerk. Het onderzoek van de gemeenten richtte zich op de financiën van het bedrijf, maar de kwaliteit van zorg werd niet onderzocht. Terwijl cliënten twee jaar na het faillissement nog steeds met de nasleep kampen.",
+  "link": "https://www.gld.nl/nieuws/8546574/vertrouwen-in-de-zorg-kwijt-zeggen-clienten-over-failliet-zorgbedrijf"
+ },
+ {
+  "id": "c736ffc09d",
+  "datum": "2026-11-17",
+  "tijd": "17:00",
+  "nieuw": false,
   "titel": "Doorzoeking in Eindhoven in groot onderzoek naar drugshandel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -364,43 +377,20 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6035130/doorzoeking-in-eindhoven-in-groot-onderzoek-naar-drugshandel"
  },
  {
-  "id": "43eca74158",
-  "datum": "2026-11-17",
-  "tijd": "17:00",
-  "nieuw": true,
-  "titel": "'Vertrouwen in de zorg kwijt', zeggen cliënten over failliet zorgbedrijf",
-  "bron": "Omroep Gelderland",
-  "verzameld_via": "Omroep Gelderland",
-  "soort": "Nieuwsbericht",
-  "regio": "Gelderland",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "netwerk"
-  ],
-  "samenvatting": "De gemeenten Apeldoorn en Arnhem willen een miljoen euro terug van zorgbedrijf InCtrl-Zorgnetwerk. Het onderzoek van de gemeenten richtte zich op de financiën van het bedrijf, maar de kwaliteit van zorg werd niet onderzocht. Terwijl cliënten twee jaar na het faillissement nog steeds met de nasleep kampen.",
-  "link": "https://www.gld.nl/nieuws/8546574/vertrouwen-in-de-zorg-kwijt-zeggen-clienten-over-failliet-zorgbedrijf"
- },
- {
   "id": "1c5603e181",
   "datum": "2026-11-17",
   "tijd": "16:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Burgemeester Boy Scholtze ging niet over de schreef tegen Harry Bakker'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Corruptie & integriteit",
-   "Trustkantoren & rechtspersonen"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "bestuurder",
-   "burgemeester",
-   "integriteit"
+   "burgemeester"
   ],
   "samenvatting": "Er zijn geen aanwijzingen dat burgemeester Boy Scholtze van de gemeente Drimmelen 'onrechtmatig of onheus heeft gehandeld' tegenover toenmalig wethouder Harry Bakker. Dat blijkt uit een vooronderzoek naar aanleiding van een melding van Bakker die zegt te zijn beledigd en bedreigd door de burgemeester. De onafhankelijke",
   "link": "https://www.omroepbrabant.nl/nieuws/6035125/burgemeester-boy-scholtze-ging-niet-over-de-schreef-tegen-harry-bakker"
@@ -409,26 +399,17 @@
   "id": "cf92ce4d85",
   "datum": "2026-11-17",
   "tijd": "16:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Politie rolt fraudenetwerk op na samenwerking meerdere rechercheteams: slachtoffers voor tonnen opgelicht",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting",
-   "Witwassen & geldstromen"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "afval",
-   "container",
-   "grond",
-   "netwerk",
-   "pand",
-   "witwassen"
+   "netwerk"
   ],
   "samenvatting": "De politie heeft in juli en september zeven verdachten aangehouden voor betrokkenheid bij bankhelpdeskfraude. De verdachten zouden deel uitmaken van hetzelfde netwerk, dat onder meer vanuit Almere opereerde. De totale schade van de fraudezaken die worden onderzocht, is opgelopen tot ongeveer 1,5 miljoen euro. Het onder",
   "link": "https://www.omroepflevoland.nl/nieuws/531739/politie-rolt-fraudenetwerk-op-na-samenwerking-meerdere-rechercheteams:-slachtoffers-voor-tonnen-opgelicht"
@@ -437,7 +418,7 @@
   "id": "ef8e685327",
   "datum": "2026-11-17",
   "tijd": "15:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist 3,5 jaar cel tegen Amsterdammer voor mensensmokkel en witwassen",
   "bron": "Amsterdamsdagblad.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -458,7 +439,7 @@
   "id": "d89ce08d7d",
   "datum": "2026-11-17",
   "tijd": "15:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Celstraffen en ontneming van 1.4 miljoen wegens grootschalige zorgfraude",
   "bron": "Dagblad Utrecht",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -477,7 +458,7 @@
   "id": "268af2b8be",
   "datum": "2026-11-17",
   "tijd": "15:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Auto zwaar beschadigd door brand in Lelystad, gat in voorruit lijkt naar opzet te wijzen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -496,7 +477,7 @@
   "id": "07be1826a3",
   "datum": "2026-11-17",
   "tijd": "15:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist 3,5 jaar cel tegen Amsterdammer voor mensensmokkel en witwassen - Openbaar Ministerie",
   "bron": "Openbaar Ministerie",
   "verzameld_via": "Openbaar Ministerie",
@@ -517,7 +498,7 @@
   "id": "8cefd50902",
   "datum": "2026-11-17",
   "tijd": "14:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeven aanhoudingen in groot onderzoek naar drugshandel, ook Jan G. opnieuw aangehouden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -538,7 +519,7 @@
   "id": "63554edbd9",
   "datum": "2026-11-17",
   "tijd": "14:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Biddinghuizen - Tweede ernstige ongeluk op Harderbosweg binnen 24 uur, bestelbusjes botsen frontaal",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -557,7 +538,7 @@
   "id": "f034b7cf69",
   "datum": "2026-11-17",
   "tijd": "13:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "17/11 in Nieuwsuur: Hoe het kabinet tóch werd gered",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -576,7 +557,7 @@
   "id": "0d381a8bec",
   "datum": "2026-11-17",
   "tijd": "13:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Onverwachte wending in strafzaak dodelijke steekpartij",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -597,7 +578,7 @@
   "id": "04152678d1",
   "datum": "2026-11-17",
   "tijd": "13:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Grootschalige politiecontrole op zwaar vervoer in West-Vlaanderen: “Ook aandacht voor mensensmokkel en fraude”",
   "bron": "pzc.nl",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -613,10 +594,29 @@
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb1FVNnhVTVc4Mzd4SUk3amtkamFUdjlHRlNPWnZnVmNrejItSDB3WGxRRkt0YzlXQ2I3bGFlcFEtNWlfV0t3eUdiQzJLbDYwbEV0UGZ2VFRnX3NxcXF6N1FpMEc4Y05sVTBjZWRBWkxzOS11RkRrT3Bod1BWcHM3a19ZRGtuX25TZzhaVlNnYWtXbGRFYVM0VXpfMnRIb2ZORl9iNXA1OWlTZ0FSTHlLYlNKNkNSendzSGlHZU0zYk9CMVU2eVh0NnY1R3Bza0FGelpicld0dWZOSGs?oc=5"
  },
  {
+  "id": "645768a09e",
+  "datum": "2026-11-17",
+  "tijd": "13:35",
+  "nieuw": false,
+  "titel": "Grootschalige politiecontrole op zwaar vervoer in West-Vlaanderen: “Ook aandacht voor mensensmokkel en fraude”",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensensmokkel"
+  ],
+  "samenvatting": "Grootschalige politiecontrole op zwaar vervoer in West-Vlaanderen: “Ook aandacht voor mensensmokkel en fraude” HLN",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOTJ0TmF0U1pkMnBvWTRwdng1bE1EUmdhLVo4MWU3UVBlbGF6T0Z0VGplN2RFSTQ5Yi1WampDRFQxX3c4a3F2MV8ydnNEZmpqOE41Q2hFdVBmdFZxaVo4SHc2ZEhSczVwWk5aYlJfU1RIOGZLcW1Lcm5sblo2OTU1eWpVNE1pNHhYVDhQN1RBaVBOdGMtWl9WN0UzWUtZaDkzYl92TEp3cEExeE00Zi02S2FNZ1QxNTB3WHUwSUZTMjVUQW9tTWtqVmJMdHlyQThZSXROekdseEFPMDNL?oc=5"
+ },
+ {
   "id": "87c0bb69a8",
   "datum": "2026-11-17",
   "tijd": "13:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Juwelier leeggeroofd met gestolen brandweergereedschap, mannen de cel in",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -635,7 +635,7 @@
   "id": "c8c4b9f4ac",
   "datum": "2026-11-17",
   "tijd": "13:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Automobilist komt om het leven bij frontale botsing met vrachtwagen in Uden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -654,7 +654,7 @@
   "id": "7f8fdbfc7a",
   "datum": "2026-11-17",
   "tijd": "13:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (77) komt om het leven bij frontale botsing met vrachtwagen in Uden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -673,7 +673,7 @@
   "id": "50ba9c8c5f",
   "datum": "2026-11-17",
   "tijd": "13:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dubbel zoveel klachten over jongeren, maar politiechef verdedigt hen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -692,7 +692,7 @@
   "id": "d154302fdd",
   "datum": "2026-11-17",
   "tijd": "13:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Barneveld meldt meer jeugdoverlast, politiechef heeft wel een verklaring",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -712,7 +712,7 @@
   "id": "b27f02f88c",
   "datum": "2026-11-17",
   "tijd": "13:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee mannen opgepakt in groot onderzoek naar malafide klusjesmannen",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -733,7 +733,7 @@
   "id": "cb36705675",
   "datum": "2026-11-17",
   "tijd": "13:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dronten - OM: Syriër die in azc Dronten verbleef moet tien jaar de cel in voor plannen aanslagen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -756,7 +756,7 @@
   "id": "15cfcb2764",
   "datum": "2026-11-17",
   "tijd": "12:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gemeente sluit pand na vondst bijna 5000 flessen lachgas",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -780,7 +780,7 @@
   "id": "748d807117",
   "datum": "2026-11-17",
   "tijd": "12:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dood 31-jarige man in hotel Oisterwijk: agenten valt niets te verwijten",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -799,7 +799,7 @@
   "id": "37234b829a",
   "datum": "2026-11-17",
   "tijd": "12:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Almere - Almeers duo aangehouden voor oplichten van honderden mensen, 'Stuurden hoge rekeningen voor slecht kluswerk'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -823,7 +823,7 @@
   "id": "a80f3e7798",
   "datum": "2026-11-17",
   "tijd": "12:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Medewerker PI Vught ontslagen na 'ongeoorloofd contact met gedetineerde'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -842,7 +842,7 @@
   "id": "2629c7dfd3",
   "datum": "2026-11-17",
   "tijd": "12:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Urk - Urk spreekt jongeren aan na gevaarlijke taferelen: boetes van maximaal 2.500 euro dreigen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -1235,27 +1235,6 @@
   ],
   "samenvatting": "Het is heel snel gegaan met Edward A., merkt de rechter op. Hij werd veroordeeld tot tbs met dwangverpleging voor de moord op zijn buurman Joop Weber in Lelystad. Nu kan de dwangverpleging eraf, adviseren deskundigen. De tbs blijft dan wel bestaan, maar A. mag buiten de muren van een instelling verder. Hij heeft dagbes",
   "link": "https://www.omroepflevoland.nl/nieuws/531579/moordenaar-van-'buurman-joop'-in-lelystad-mag-mogelijk-tbs-kliniek-verlaten:-'het-gaat-heel-goed'"
- },
- {
-  "id": "0ac75a541a",
-  "datum": "2026-11-16",
-  "tijd": "17:57",
-  "nieuw": false,
-  "titel": "Boot met migranten ging bij dorpje Hoofdplaat te water, twee verdachten langer vast",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Arbeidsuitbuiting & mensenhandel",
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "haven",
-   "mensensmokkel"
-  ],
-  "samenvatting": "De rubberboot met 38 mensen aan boord die eind vorige maand in Zeeland door de kustwacht werd onderschept, is bij het dorpje Hoofdplaat in de gemeente Sluis te water gegaan. Dat meldt het Openbaar Ministerie (OM) in een verklaring. Uit onderzoek is gebleken dat de opvarenden vanuit Frankrijk naar het Zeeuwse dorpje Bre",
-  "link": "https://nos.nl/l/2639747"
  },
  {
   "id": "5aeb8a9840",
@@ -3978,6 +3957,25 @@
   ],
   "samenvatting": "Politiehond Storm heeft maandag een tas met een vuurwapen gevonden in Rotterdam-Zuid. Dat gebeurde na de controle van een auto. Twee verdachten zijn aangehouden.",
   "link": "https://www.rijnmond.nl/nieuws/2281231/politiehond-storm-vindt-tas-met-vuurwapen-na-controle-verdachte-auto"
+ },
+ {
+  "id": "4c292f0baa",
+  "datum": "2026-11-11",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Vergroot de steun voor slachtoffers van mensenhandel.",
+  "bron": "Vietnam.vn",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Vergroot de steun voor slachtoffers van mensenhandel. Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIS29OLUMyaWt0b1k2ZDVhc2thQmM3Y216RlZIY016bkZSMERWSzd0dFFDUlJpSWtrOER1U3NISlhaU21qQzZTbFJ3TFF1YnRoNlRjT1FZZEZqdUtQeGFrUG9DejltYlVOcE5XcEM3X3ZnV2M?oc=5"
  },
  {
   "id": "c7b013f448",
@@ -107281,6 +107279,25 @@
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0VOcFh4YmpWdk04NDZxYmZUd1VDaW9fdXlnRjhOUWdJWlhMR1FGdFNQN0tPWFQ0cEFqQzBMTXZTc01Xcm45YVhYMENtMGhfUTU4M0ZSV3JIZW9iNHhlcUF3S2dYek1CcXAxOFpFb0R1LTdtSTJzWkR3a1NIV2dqMHJpcjVqXzYyNE9SUmZCem1Qa0FfV0tYVzNnYTlfUQ?oc=5"
  },
  {
+  "id": "beb614ac24",
+  "datum": "2022-01-05",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Arrestatieteam doet inval in drugslab aan Stieltjeskanaal en verricht vijf aanhoudingen",
+  "bron": "DVHN",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Arrestatieteam doet inval in drugslab aan Stieltjeskanaal en verricht vijf aanhoudingen DVHN",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbTRqc2pDb1NsS09tRW9NU0FucjNvQnFOUnZvRW1MUGx6YjhpSW1KS3NYM1htRjRGNFVOYzRBMHJSaURwYjloczVMdl9KXzFnbDJPZVZGY1VyNC05NzlOcjNkel80TjB2OGJyN3R1S2pDU09ES1hiX2ZLWjkwQk1nRE5xUmxtelNFd1d1V0Y2OWxCY1ZiVWo1aVIxWnVZeHFNcHdzWHlwbmpVZEJCTXpkTEdPSC1SVVpQOE9udEgtdF9IWUUzOVhxX3J2SW1sUVRLaGc?oc=5"
+ },
+ {
   "id": "4a62e43e9c",
   "datum": "2022-01-03",
   "tijd": "08:00",
@@ -110271,6 +110288,25 @@
   ],
   "samenvatting": "Politie heeft geen zicht op criminaliteit in zeehavens van Lauwersoog, Delfzijl en Eemshaven: zijn het vrijplaatsen voor georganiseerde misdaad? DVHN",
   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNckxQWGtKOHlCRFVEeUdJVURkN0dndjlXUWJwNXNpS0gwTFk0YldFRHJuMGxoM0lEWnRBbWxmU2NJRFktTEkzM0xiX1IzeEdJekhKRlF3cFhZbmxsbVM2UUJNajdtVWJCb245X1RxSEowTmpQckpKMzNpaUlzcjJyTkxtS1RFWFJ6aVhvUjQ3ZW9tMlkzWmdsVE4wRG5vZGQyYUlRUXFZNWlodkdDMnhQX2g3MjA2ZXBTS1FtRGowcFYtYk5QbzBQOGh6R0Jrd0psSGtsRklqY0kzUTc0V1o3TWdvay1vbUdoZ3NBUVgwaHM4WmpWMXFkcmlDS3N3LXRjNEJrUDZBcm5SQXhzRGpDU1g1VExiLUE5NWx3UQ?oc=5"
+ },
+ {
+  "id": "97352b46f2",
+  "datum": "2020-10-05",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Meerdere processen-verbaal bij controle op afvaldumping in Leeuwarden",
+  "bron": "Leeuwarder Courant",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "Meerdere processen-verbaal bij controle op afvaldumping in Leeuwarden Leeuwarder Courant",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXM5S2VFaFBENnhGOWNpeW9JTVVqUUd3TXFqeDVhTEdZYVN2Rmg5RkhsSzk0eUZzMmg1Tk9ONDUzSUFsbDQ5dDNoMkt1RU50S2J5a0l6Sk9OZWNCTVpIaGFoZERiZGJqNFhTSkZPNmlxNTN2NGhsZDNOSER5VHNEZVNQeGw3bmNEdnc4cWdiSTJ4UWJINlVGcjVfMUdyREUyU2xGaHZLNkJ2TngwTy1yRExIcXhXNEdFdXU0bUxnV2w1emVYZ2dNWA?oc=5"
  },
  {
   "id": "8a24a1c426",
