@@ -1,5 +1,24 @@
 [
  {
+  "id": "0449127647",
+  "datum": "2026-11-18",
+  "tijd": "22:43",
+  "nieuw": true,
+  "titel": "Uitzonderlijk hoog stroomverbruik leidt naar hennepkwekerij op zolderkamer: `Zag het als mijn reddingsboei`",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Uitzonderlijk hoog stroomverbruik leidt naar hennepkwekerij op zolderkamer: `Zag het als mijn reddingsboei` Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUXI5R2twbTBXazJWMWo5Mmg1c190T0pTamFLblQ0WXBhUWo0ZGZFMnpuSERHQkhkZFoybUF3QkFOdG5kU2lMRnI1X3BKT05pV2hwM2NUNUw4dUJIUEJ1aVpWbGZKM1FSOXVIU1FHa28zYlNwTzR5cXpnNndmeHB0Z1hpOG4yb19FRzdURG5PLU1LWXFFOU5jUVNrdWh4QVNCVExjcGFsbUVTWEtwckU0V2ttaHZhbmVYYmZGd29oWXdXLTVTanBjT2hmV2RBd2RWQTJ6U2FkS1hyY2F4ME1jN1Q0b3QzR0tFUDFhUGJKby1XNzFKRkE?oc=5"
+ },
+ {
   "id": "49e7f3b87f",
   "datum": "2026-11-18",
   "tijd": "21:56",
@@ -112,14 +131,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "geweld",
-   "stal",
-   "woning"
+   "geweld"
   ],
   "samenvatting": "Een hoger beroep in een gewelddadige afpersingszaak is voor een man uit Lelystad heel ongunstig uitgepakt. De man kreeg in 2024 van de rechtbank vier maanden cel voor het mishandelen en afpersen van een collega. Het gerechtshof in Leeuwarden maakte daar woensdag maar liefst 2,5 jaar van. De verdachte uit Lelystad was z",
   "link": "https://www.omroepflevoland.nl/nieuws/531868/collega-mishandeld-met-machete-en-gedwongen-om-2.000-euro-te-betalen"
@@ -235,21 +250,13 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Drugsproductie & labs",
    "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "bedreiging",
-   "bende",
-   "doodgeschoten",
-   "drugssmokkel",
    "explosie",
-   "geweld"
+   "geweld",
+   "wapen"
   ],
   "samenvatting": "De hoofdverdachte van de geweldsexplosie in Overasselt heeft voor het eerst een verklaring afgelegd over de gebeurtenissen. De 30-jarige Yusup S. bekende daarbij dat hij die nacht ook heeft geschoten. Dat meldt het AD , dat inzicht heeft gehad in het strafdossier. In de nacht van 1 september trokken tientallen gewapend",
   "link": "https://nos.nl/l/2640059"
@@ -281,7 +288,7 @@
   "id": "62abb2ccd8",
   "datum": "2026-11-18",
   "tijd": "17:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dronten - Plotseling overlijden eerstejaars student Aeres (22) schokt medestudenten, school en ook Dronter burgemeester",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -302,7 +309,7 @@
   "id": "36732e914e",
   "datum": "2026-11-18",
   "tijd": "17:18",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Celstraffen en ontneming van 1.4 miljoen wegens grootschalige zorgfraude",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -321,7 +328,7 @@
   "id": "287f33352f",
   "datum": "2026-11-18",
   "tijd": "17:09",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Taakstraf geëist voor runnen hennepkwekerij Zwaag. ’Het is beter dat meneer werkt en geld verdient’",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -340,7 +347,7 @@
   "id": "9ee512d1d3",
   "datum": "2026-11-18",
   "tijd": "17:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Actief Zorg vecht breuk met gemeente Heusden aan: 'Niet mee eens'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -359,27 +366,21 @@
   "id": "d25480c9e5",
   "datum": "2026-11-18",
   "tijd": "16:59",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "FVD'ers actief in neonazistisch netwerk en bij kooigevechten, partij royeert twee leden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
    "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
    "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "erf",
    "gemeenteraad",
    "geweld",
-   "jeugd",
-   "jongeren",
-   "kopstuk"
+   "netwerk"
   ],
   "samenvatting": "Mensen in en rond Forum voor Democratie (FVD) hebben banden met een gewelddadig neonazistisch netwerk dat her en der in het land kooigevechten organiseert. Dat blijkt uit een uitzending van onderzoeksprogramma Zembla. Het gaat onder anderen om Ramon van Asch, de FVD-fractievoorzitter in de gemeenteraad van Den Bosch. H",
   "link": "https://nos.nl/l/2640044"
@@ -388,7 +389,7 @@
   "id": "05b739f872",
   "datum": "2026-11-18",
   "tijd": "16:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Klaas Otto krijgt in hoger beroep 4 jaar cel voor witwassen, valsheid in geschrifte en afpersing",
   "bron": "BN DeStem",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -407,7 +408,7 @@
   "id": "ae0c88a79e",
   "datum": "2026-11-18",
   "tijd": "16:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Klaas Otto krijgt in hoger beroep 4 jaar cel voor witwassen, valsheid in geschrifte en afpersing",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -426,7 +427,7 @@
   "id": "29ee4408fe",
   "datum": "2026-11-18",
   "tijd": "16:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Klaas Otto krijgt in hoger beroep 4 jaar cel voor witwassen, valsheid in geschrifte en afpersing",
   "bron": "Eindhovens Dagblad",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -445,7 +446,7 @@
   "id": "edb8feeacf",
   "datum": "2026-11-18",
   "tijd": "16:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Klaas Otto krijgt in hoger beroep 4 jaar cel voor witwassen, valsheid in geschrifte en afpersing",
   "bron": "Brabants Dagblad",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -464,27 +465,19 @@
   "id": "18ebbcd14c",
   "datum": "2026-11-18",
   "tijd": "16:16",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bossche FVD-voorman met baby bij neonazistisch kooigevecht in Oeffelt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
    "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
    "Vastgoed & huisvesting"
   ],
   "tags": [
    "erf",
-   "gemeenteraad",
-   "geweld",
-   "jongeren",
-   "netwerk",
-   "organisatie"
+   "woning"
   ],
   "samenvatting": "De Bossche FVD-fractievoorzitter Ramon van Asch was afgelopen juni aanwezig bij kooigevechten van neonazi's in Oeffelt. In een tent op het erf van een woning sloegen deelnemers elkaar knock-out. Toeschouwers brachten de Hitlergroet en riepen \"Sieg Heil\". Dat blijkt uit onderzoek van het televisieprogramma Zembla. Van A",
   "link": "https://www.omroepbrabant.nl/nieuws/6035303/bossche-fvd-voorman-met-baby-bij-neonazistisch-kooigevecht-in-oeffelt"
@@ -493,7 +486,7 @@
   "id": "d31d536f35",
   "datum": "2026-11-18",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -514,7 +507,7 @@
   "id": "2897fe017c",
   "datum": "2026-11-18",
   "tijd": "15:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist twee maanden cel tegen Maurice de Hond voor smaad in Deventer moordzaak",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -533,7 +526,7 @@
   "id": "04c0b025c5",
   "datum": "2026-11-18",
   "tijd": "15:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Celstraffen en ontneming van 1.4 miljoen wegens grootschalige zorgfraude",
   "bron": "Nieuws.nl",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -552,7 +545,7 @@
   "id": "023c8955c7",
   "datum": "2026-11-18",
   "tijd": "15:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Seksvlogger promoot illegale goksites: 'Mogelijk gelinkt aan criminaliteit'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -571,7 +564,7 @@
   "id": "de67fe625c",
   "datum": "2026-11-18",
   "tijd": "14:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "18/11 in Nieuwsuur: Zorgen over extreemrechts in de Kamer • Criminelen hebben schuld bij staat • GTA komt uit",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -592,7 +585,7 @@
   "id": "bef6c07e62",
   "datum": "2026-11-18",
   "tijd": "14:52",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hof veroordeelt Klaas Otto uit Bergen op Zoom tot vier jaar cel voor witwassen en afpersing",
   "bron": "Internetbode",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -611,7 +604,7 @@
   "id": "66b9259bb5",
   "datum": "2026-11-18",
   "tijd": "14:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kindje gewond na aanrijding: politie onderzoekt waarom bestuurder doorreed",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -630,25 +623,19 @@
   "id": "3e9961c11e",
   "datum": "2026-11-18",
   "tijd": "14:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Klaas Otto opnieuw veroordeeld maar lijkt toch klaar met celstraf",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Autobranche & garages",
-   "Criminele samenwerkingsverbanden",
    "Geweld, liquidaties & bedreiging",
    "Witwassen & geldstromen"
   ],
   "tags": [
-   "autohandelaar",
-   "autoverhuur",
-   "bedreiging",
    "geweld",
-   "motorclub",
-   "no surrender"
+   "witwassen"
   ],
   "samenvatting": "Klaas Otto uit Bergen op Zoom is in hoger beroep opnieuw veroordeeld voor witwassen, valsheid in geschrifte en twee gewelddadige afpersingen. Hij krijgt vier jaar gevangenisstraf. Omdat de Bergenaar nog niet alles in voorarrest heeft uitgezeten moet hij officieel nog acht maanden terug de cel in, dat stelt het gerechts",
   "link": "https://www.omroepbrabant.nl/nieuws/6035194/klaas-otto-opnieuw-veroordeeld-maar-lijkt-toch-klaar-met-celstraf"
@@ -657,7 +644,7 @@
   "id": "c619b0c005",
   "datum": "2026-11-18",
   "tijd": "14:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -680,7 +667,7 @@
   "id": "badd5bc80b",
   "datum": "2026-11-18",
   "tijd": "13:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie mensen aangehouden voor vuurwapenbezit",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -699,7 +686,7 @@
   "id": "c90a36be13",
   "datum": "2026-11-18",
   "tijd": "12:39",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gevangenisstraf voor witwassen en afpersing",
   "bron": "De Rechtspraak",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -718,7 +705,7 @@
   "id": "5cfb965949",
   "datum": "2026-11-18",
   "tijd": "11:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestuurder aangehouden na ongeluk in Noordgouwe",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -737,7 +724,7 @@
   "id": "1af74320e5",
   "datum": "2026-11-18",
   "tijd": "11:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestuurder onder invloed aangehouden na ongeluk in Noordgouwe",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -756,7 +743,7 @@
   "id": "54e51c8143",
   "datum": "2026-11-18",
   "tijd": "10:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man die door arrestatieteam werd aangehouden was betrokken bij een overval",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -924,6 +911,25 @@
   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORjhRb2dXRmJLREdnUVhnQkJzczJGVWRKWWhtSVhNX3NMNjBxUG9BR1JXbmswMGFMazRJb1JGVWlISGxqVHFsNERRTmpNSDlSM3VtNkZGa2pQbzAwd3JLZkYyaURWUmlCQVhVUzcxVlhYTjVvTVJHR3lsWFZCM0RmSTFYbTRLZFRBOWZ6WmRoaFFQTTJSX0ZERmpoVmFaYVVfLWEySnVaZDNLeWNhYlBfRHI4RjlxMmdZSG5kM3hWRzNIUmJ1Z1diMVIwSkd2bzJaTUlWRzN2RHNGb3hpbFBZS0xfaXdBVVU1eG1pRml3SkszcUoyeHlOdUFQc0VKa2s?oc=5"
  },
  {
+  "id": "515720202f",
+  "datum": "2026-11-18",
+  "tijd": "05:00",
+  "nieuw": false,
+  "titel": "Uitzonderlijk hoog stroomverbruik leidt naar hennepkwekerij op zolderkamer: ‘Zag het als mijn reddingsboei’",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Uitzonderlijk hoog stroomverbruik leidt naar hennepkwekerij op zolderkamer: ‘Zag het als mijn reddingsboei’ BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZU9udHczSXVyQi1LNnhtbTdOdEpMU0Z4QnhyMkRFMU4xSEkwVVdZc0x4V1VQOGxJVmdSWFZjOXcxeHVJSmExc1RYbUhsUWpCVEt3YjZDM01wMWc1NUI4a3RuMVNVWWdNc1Zsd2xOUHNrVHBjRFJSR1ZIUVJROHZCeThXSkk2Z1JWUFZpOC02cF9BTXdobTVlcGVybnNyVU9fVlYtd25BQWNJZU5jdlJIeXpWdmdzX0hfZ19GZUZxc015aGp6dExCaHpiTF9ubVM1ajY0bFhaR2d0N3llcGNQMzVB?oc=5"
+ },
+ {
   "id": "ce79efb3ca",
   "datum": "2026-11-18",
   "tijd": "04:35",
@@ -944,6 +950,28 @@
   ],
   "samenvatting": "“Seks zonder condoom kon, ook al wilden die vrouwen dat zelf niet”: bendeleden riskeren tot zeven jaar cel voor mensenhandel en illegale prostitutie pzc.nl",
   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdWhFc3RZakYyMmN1bXUxUU1hckU3ekJzM0I4UXFJSlVvRTNIRTlfYXpfSlNCRzNRdjhRSFc0S2ZOTGtQMXhkLWQ4VnQtemx6cG96aWxBNjhVOUw0QnA4Y3pBUEY2NHFYYW50NXpjeTFfVjQ0NEEtdGpEa1FfZnBUNlRDWl96eExXdkdPYjc5dmRGaHlYOHNHUHlyZ2FRb3F4aUVKSkhORmJaWnp1dUFWZDFjVnd1TjZkdzJRZjhoZVFMU3ZIdlY4RldqQzlTSUVwY2pmcEc2NWxMbUlXOEpRVm03NXkyQTEtQzJsaUVpYXR3V3pVRHotNmxueGxsMzJwY1BhNFZhY2I0V01KZ1pDcA?oc=5"
+ },
+ {
+  "id": "ad22ae27d6",
+  "datum": "2026-11-18",
+  "tijd": "04:35",
+  "nieuw": false,
+  "titel": "“Seks zonder condoom kon, ook al wilden die vrouwen dat zelf niet”: bendeleden riskeren tot zeven jaar cel voor mensenhandel en illegale prostitutie",
+  "bron": "HLN",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "bende",
+   "mensenhandel",
+   "prostitutie"
+  ],
+  "samenvatting": "“Seks zonder condoom kon, ook al wilden die vrouwen dat zelf niet”: bendeleden riskeren tot zeven jaar cel voor mensenhandel en illegale prostitutie HLN",
+  "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSjZ3UmUzc1BiT2NJMHhUWmw3T29fUl9PQm5Raks2U21YbnFvdFNvUlJuQXRXRWdsN3MyUkVORndkcEk4cGZpMXRsTXhBaXIzZWtkTGNCX3llZTlia1AyWWF4azNHY2YxTHpuSEt0b0Fhekx6bGF6MDU0S1FsS3k5X21ZclJsOFgwYzhqT3ZndUhCdUxoZjNzTTZGNDRIZFN3aEVHRllTSmdhbFNNSm81c3ByMXdDRTY2RVpzUHB2YXZEbkhuREgzcDlvYmNjSUtfTTQ4Vlc0NWtodkRwcU5MbnB6WFJkcENBMmdBbHRvYjZPdWJXYS02WHNpdzR6NEdWVmhUNjBXUUFpLTFWdEh2Xw?oc=5"
  },
  {
   "id": "29ec7cd828",
@@ -110092,6 +110120,28 @@
   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTzhtcnRqSTJBSl9tT1E3Zk5CelFCRlIxVTRuZXpMRU5GeHRFWDJpYTRWbkl3UFdHMUZ3eXh4YlY1YURWUHY0Q1hPcXZPbUdrdEhxNG5mWnhHcmY3elRMUXdWcW5QY0V5aTVNUTN5VV9mWVZ1QS1EbHltQUtTU1FNc1dPU2t1Yng2Ukw3cEUxcl9OanFuS3BPRGNSWjdnYmxDNlhXZzZieGRUUnBOOWFtTEtYTVJUQ1lrRHc3b3I1VGRCSkltYi01UFhJZmdVckdWcUZmZjhMRi1KVkMxWWNIaGJyT2V3U3daSTV6WmFna3FCNnpzaWk2N1pMTQ?oc=5"
  },
  {
+  "id": "b24c210042",
+  "datum": "2021-02-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Hennepkwekerij gevonden in een woning in de Moezelstraat in Assen: bewoner aangehouden",
+  "bron": "DVHN",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "woning"
+  ],
+  "samenvatting": "Hennepkwekerij gevonden in een woning in de Moezelstraat in Assen: bewoner aangehouden DVHN",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdzlGNTNBcXl1SWJBUmd2akJfVy1QMVB1TWtQNVhHbHRKQXcwbjdMNE1TN0RWZ0J2U2tRN1BkM2QyWWNjRDVEeXROTHZiRVRlNHl3ZV9PbzN4NmdoUjZBeVpRUzZ4NGF2Q3NXT3E4THNSM2xld0RMZmdHV19zUWhvNjd6aFhnWU4xMWJqY1F0dUpIWUtPRFBBemE0N2FxaVR5RUdtYWFLMVppNHU3NVpQRkhGMGphZWtZbFFjeWFjRHZxTmRZeHJoV2tONktlRmkzYmhBZDBsMA?oc=5"
+ },
+ {
   "id": "51578e855c",
   "datum": "2021-02-11",
   "tijd": "08:00",
@@ -114950,6 +115000,25 @@
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXlWMFhCMUNzd1ZkZzdkbWxWT3JfYXFIT01OSjVUb1lmamlNOUNyNzNudjVMX0xneE9sQ1V3bXFsaHZqMWhPcE41ZkNQeW92TjBZZGRCOEdZOXF4dFFIRXJZLVQyYUpSU1BJT2MxMHlhOWQ2UWh5cE0tbG1jY2xZQS0xeHhyOW04TUNlT1FJOG5PV0E1S2xnWnU4YVpJNjdw?oc=5"
  },
  {
+  "id": "42022a3358",
+  "datum": "2018-06-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Kijk hier binnen bij de op één na grootste hennepkwekerij van het Noorden",
+  "bron": "DVHN",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Kijk hier binnen bij de op één na grootste hennepkwekerij van het Noorden DVHN",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ1I2V01KcE5XMERNTll4SUtOWVV5bVkxLXZqcTVIQzJoYzA3aUs5M01pY1dtRy1kVUJoZ2lXVXB2VEM3RWFtbzZ5dE9XQTdLSHhDTjJEbTJJZzRVR1NBcEYtWWNjUS04QTFCUm9XSXdORG5Edkx1SjZOaDV2bGtjQ2w5SFBlT0xsaHVqUW1uSXJnUUJqdEY1SkhIMzN1clU5TWpVNnk5WDVjc3ByYmxWY0pkX1VmMXhGeXEydjRrcVV2UQ?oc=5"
+ },
+ {
   "id": "aea13bb25b",
   "datum": "2018-05-31",
   "tijd": "07:00",
@@ -115424,6 +115493,26 @@
   ],
   "samenvatting": "Slotakkoord corruptiezaak: ambtenaar Defensie moet een jaar de cel in Follow the Money",
   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wVThDUVFGYTU5MHQzUTQxcXVaM0RUZVBXWWVkcUd3YWdwSEUwT0RxS0hENWdUQ1d1RUdybFpTUjJ6WEJQbElGVFM5d0JtVWtQNGhFWTlRcDBMM2pwNXppc1hYWTVXOTM4SmE2SGhreURuNk9hMXFCc3VpbFNEUQ?oc=5"
+ },
+ {
+  "id": "36c8f005ea",
+  "datum": "2018-02-23",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie neemt auto's, machines en heftruck in beslag bij ontmanteling hennepkwekerij",
+  "bron": "DVHN",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Politie neemt auto's, machines en heftruck in beslag bij ontmanteling hennepkwekerij DVHN",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPejR4dWFQemVRQktHSmg3UzRNR3RYS2tYdXVVS3ktdG5SUUNGWm5MYUt6Zkl1bGJETlZoZlZkM1RfUUZ5djEwQndtYmZIa2ZScDNiWGQyOWdRM3BTUmZBU3JrTTVvU2I1N1VONk1sd19OZ2dEV3RObGhSSlg0YXFfWGE0eXc2Y0pIeUY2ZURlTmJmeG5Qa2NValc1ai1kMUlHRzV5MFp6eDRwMmxBc2ZlQzBHQm9aLU1WYktWYzg1bUkzSFBCN0pSb2VKc3Z3QQ?oc=5"
  },
  {
   "id": "a4d200040a",

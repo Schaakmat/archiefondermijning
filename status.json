@@ -1,12 +1,12 @@
 {
- "run": "22:08",
- "datum": "2026-11-18",
- "nieuw": 37,
- "totaal": 5927,
- "verwijderd": 14,
+ "run": "03:40",
+ "datum": "2026-11-19",
+ "nieuw": 14,
+ "totaal": 5933,
+ "verwijderd": 8,
  "geweigerd": {
-  "niet-nederlands": 503,
-  "geen dossier": 325
+  "niet-nederlands": 506,
+  "geen dossier": 319
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 427,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 222,
-   "status": "1 nieuw",
+   "items": 227,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -69,8 +69,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 401,
-   "status": "7 nieuw",
-   "ok": true
+   "status": "fout 429",
+   "ok": false
   },
   {
    "naam": "Officiele publicaties — Witwassen & geldstromen",
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -213,7 +213,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 213,
-   "status": "4 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -230,7 +230,7 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 465,
+   "items": 466,
    "status": "1 nieuw",
    "ok": true
   },
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -366,7 +366,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -465,7 +465,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 186,
-   "status": "5 nieuw",
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -492,7 +492,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 365,
-   "status": "6 nieuw",
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 382,
-   "status": "2 nieuw",
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -528,7 +528,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 88,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 268,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -546,7 +546,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 192,
-   "status": "4 nieuw",
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -555,7 +555,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 122,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
