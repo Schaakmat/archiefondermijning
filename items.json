@@ -1,5 +1,24 @@
 [
  {
+  "id": "5a3153cdea",
+  "datum": "2026-11-19",
+  "tijd": "23:54",
+  "nieuw": true,
+  "titel": "Celstraffen geëist voor grootschalig drugslab in Kallenkote. ’Eigenaar werd bedreigd’",
+  "bron": "Steenwijker Courant",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Celstraffen geëist voor grootschalig drugslab in Kallenkote. ’Eigenaar werd bedreigd’ Steenwijker Courant",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZlQ3ZzBycGNQamNfSWNhblEwVDEybC1lRXJoRHVaSmFSWXZfTWVDZVo4QnIxS3g4aWlsM3RfU2I0Yml1VGFIZHpfR1A2Mmp0SEZvckJjMHlRV0JLV3dIMTVrRHB0NE1JMm9Md3Y2eE5QbkFZSjdycVlHenFkWDhLbDRJekhsZUFDcFdVT0Y3a04yaXI2U1IzcTI5ZTgzRkVmeGlSOU41bXRVZ1VOZHFXUmloeEd1ZENJem1qcUtTMVZUeUNhRW9zWHhmUzY5UFV0ZWR6dlRKTTlGM2xLaEdPRWJn?oc=5"
+ },
+ {
   "id": "831eb37593",
   "datum": "2026-11-19",
   "tijd": "21:51",
@@ -10,11 +29,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "moord",
    "wapen"
   ],
   "samenvatting": "De Nederlandse wapenfabrikant Destinus neemt volgens defensie-experts risico's op het slagveld in Oekraïne. Minister Yesilgöz van Defensie moet met het bedrijf in gesprek, stellen ze, en mogelijk ook een onderzoek instellen naar zijn precieze rol in de oorlog. Eergisteren maakte Destinus op LinkedIn bekend dat hun rake",
@@ -42,6 +59,50 @@
   ],
   "samenvatting": "De 17-jarige Colombiaan Francisco Javier Vera Manzanares heeft de Internationale Kindervredesprijs gewonnen. De klimaatactivist \"stelt kinderrechten centraal in de strijd voor klimaatrechtvaardigheid\", aldus de Nederlandse stichting KidsRights. Francisco kreeg de prijs uitgereikt in het Vredespaleis in Den Haag, uit ha",
   "link": "https://nos.nl/l/2640199"
+ },
+ {
+  "id": "bf97d005fb",
+  "datum": "2026-11-19",
+  "tijd": "21:17",
+  "nieuw": true,
+  "titel": "Politie en OM buigen zich over beelden van neonazistische kooigevechten",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld",
+   "kamerbrief",
+   "netwerk"
+  ],
+  "samenvatting": "De politie onderzoekt de beelden die te zien zijn in de Zembla-documentaire over vechttoernooien van neonazistische vechtclubs. \"We zijn op de hoogte van de beelden en met het Openbaar Ministerie wordt onderzocht of er strafbare feiten worden begaan\", laat een woordvoerder van de politie donderdag weten. De woordvoerde",
+  "link": "https://www.omroepbrabant.nl/nieuws/6035495/politie-en-om-buigen-zich-over-beelden-van-neonazistische-kooigevechten"
+ },
+ {
+  "id": "0826120c29",
+  "datum": "2026-11-19",
+  "tijd": "20:49",
+  "nieuw": true,
+  "titel": "Politie-inval met pantserwagen, problemen bij PostNL en tandartspraktijk onder vuur op donderdag 19 november",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "buitengebied",
+   "pand"
+  ],
+  "samenvatting": "Met een gepantserd voertuig viel de politie een mogelijk drugspand in Alphen binnen. Ondertussen blijkt uit onderzoek van Omroep Gelderland dat post in het buitengebied opvallend vaak te laat wordt bezorgd. En in Arnhem wist een winkelmedewerker een overvaller weg te jagen met een speelgoedpistool. Dit en meer in het n",
+  "link": "https://www.gld.nl/nieuws/8549414/politie-inval-met-pantserwagen-problemen-bij-postnl-en-tandartspraktijk-onder-vuur-op-donderdag-19-november"
  },
  {
   "id": "95e9078949",
@@ -158,21 +219,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
+   "Buitengebied & recreatie"
   ],
   "tags": [
-   "afval",
-   "boerderij",
-   "erf",
-   "huurwoning",
-   "jongeren",
-   "moord"
+   "boerderij"
   ],
   "samenvatting": "Goedenavond. Elke doordeweekse dag rond 19.00 uur informeren we je met dit nieuwsoverzicht over het belangrijkste en opvallendste nieuws van de dag. Met vandaag: • Gastgemeente Dokkum draagt stokje voor Koningsdag over aan Lelystad • Boerderij in Ens doorzocht, 73 dieren in beslag genomen • 16-jarig meisje aangerand bi",
   "link": "https://www.omroepflevoland.nl/nieuws/531738/nieuwsoverzicht-1911-or-symbolische-overdracht-koningsdag-*-tientallen-dieren-in-beslag-genomen"
@@ -247,17 +297,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Cocaine, haven & logistiek",
    "Geweld, liquidaties & bedreiging",
-   "Vastgoed & huisvesting",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "drugssmokkel",
-   "explosie",
    "geweld",
-   "wapen",
-   "woning"
+   "wapen"
   ],
   "samenvatting": "Het onderzoek naar de geweldsuitbarsting in Overasselt is zo omvangrijk dat de politie nog zeker vier maanden nodig heeft om te achterhalen wat zich precies heeft afgespeeld. Ook verwacht de politie de komende tijd meer verdachten aan te houden. In de nacht van 1 september trokken tientallen gewapende mannen door het G",
   "link": "https://nos.nl/l/2640180"
@@ -383,6 +428,25 @@
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmlpWW96TkRSUDVYSlRYXzRxM1gxOHNLTzUwMU1KS1VnMGF6WFlzbTdkSE5rOTNHNzJMSjdiVWFweUhwdmZpNjZEUkdNTVBLT3NjQ2FLLXlUckxZbDNpQlRWcHYydW9OQzc5TGJtckY3eXozRmU1WVdaVlp4clFRcXh4ZVNMenBDWFRUOUJ3a1E5NHhzM3Q0ODhIYjRJZEtJS3dmOTVkZWNtX1RlNDIwMUE3ZHROQVZ6WE1xc0hkbw?oc=5"
  },
  {
+  "id": "7fba7522bf",
+  "datum": "2026-11-19",
+  "tijd": "17:55",
+  "nieuw": true,
+  "titel": "Politie onderzoekt woningbrand met gewonde in Vlissingen",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Na een klein halfuur was de brand geblust",
+  "link": "https://www.omroepzeeland.nl/nieuws/18963027/politie-onderzoekt-woningbrand-met-gewonde-in-vlissingen"
+ },
+ {
   "id": "82f429b0df",
   "datum": "2026-11-19",
   "tijd": "17:31",
@@ -429,7 +493,7 @@
   "id": "106c88205a",
   "datum": "2026-11-19",
   "tijd": "16:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Arrestatieteam valt huis binnen in Eindhoven, man aangehouden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -448,7 +512,7 @@
   "id": "3f882cecf1",
   "datum": "2026-11-19",
   "tijd": "16:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Woning aan de Staalmeesterslaan in Nieuw-West gesloten na vondst omgebouwd pistool en zakjes met drugs - Het Parool",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -467,7 +531,7 @@
   "id": "841b821407",
   "datum": "2026-11-19",
   "tijd": "16:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Braziliaanse ex-international (32) gearresteerd: verdacht van witwassen drugsgeld voor berucht kartel",
   "bron": "Sportnieuws.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -486,7 +550,7 @@
   "id": "08390db13d",
   "datum": "2026-11-19",
   "tijd": "16:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Weer uitstel voor besluit over vergunningen kippenboeren: nu tot 1 april",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -507,7 +571,7 @@
   "id": "bf493506a9",
   "datum": "2026-11-19",
   "tijd": "16:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Geslachtskeuze en anonieme eicellen: zo werkt draagmoederschap in Ghana",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -528,7 +592,7 @@
   "id": "f112b18464",
   "datum": "2026-11-19",
   "tijd": "15:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Klanten redden vrouw uit handen van kapper in Nijverdal: jarenlange celstraf",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -547,7 +611,7 @@
   "id": "f3cb91e722",
   "datum": "2026-11-19",
   "tijd": "15:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Celstraffen geëist voor grootschalig drugslab in Kallenkote. ’Eigenaar werd bedreigd’",
   "bron": "Meppeler Courant",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -566,7 +630,7 @@
   "id": "317866f842",
   "datum": "2026-11-19",
   "tijd": "15:54",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bedrijfsleider van Biopower veroordeeld voor grootschalige mestfraude",
   "bron": "VILT vzw",
   "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
@@ -588,7 +652,7 @@
   "id": "69d1f74d27",
   "datum": "2026-11-19",
   "tijd": "15:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester over veiligheid bij Dance Parade: 'We gaan niet over één nacht ijs'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -607,7 +671,7 @@
   "id": "44d6d5725d",
   "datum": "2026-11-19",
   "tijd": "15:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kamervragen over stiekem gefotografeerde vrouwen in Achterhoekse appgroep",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -626,7 +690,7 @@
   "id": "2980615f05",
   "datum": "2026-11-19",
   "tijd": "15:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Lelystad wil plan voor eerder omstreden afvalcentrum verder uitwerken",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -653,7 +717,7 @@
   "id": "06fa9a59a8",
   "datum": "2026-11-19",
   "tijd": "15:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Medewerkster tabakszaak pakt groot vuurwapen af van jonge overvaller en zet hem buiten",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -672,7 +736,7 @@
   "id": "9ea25c9423",
   "datum": "2026-11-19",
   "tijd": "15:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Creepshots gemaakt op vele plekken in Twente: zo gingen onderzoekers te werk",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -691,7 +755,7 @@
   "id": "f6deb2d7d3",
   "datum": "2026-11-19",
   "tijd": "14:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "FIOD valt binnen op meerdere plekken in Helmond en Deurne",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -710,7 +774,7 @@
   "id": "625438f613",
   "datum": "2026-11-19",
   "tijd": "14:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bestuurder tijdens politieachtervolging in Vlissingen aangehouden",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -729,7 +793,7 @@
   "id": "73945a10ab",
   "datum": "2026-11-19",
   "tijd": "14:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "19/11 in Nieuwsuur: 'Nederlandse wapenfabrikant schoot zelf drones af in Oekraïne' • Booming: drone-industrie in Nederland • Uitbuiting buitenlandse draagmoeders",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -748,7 +812,7 @@
   "id": "0b970dfc68",
   "datum": "2026-11-19",
   "tijd": "13:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie mensen die werden aangehouden voor wapenbezit bij sporthal Vlissingen hadden nepvuurwapen",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -767,7 +831,7 @@
   "id": "2827861149",
   "datum": "2026-11-19",
   "tijd": "13:47",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie verwacht nog nieuwe aanhoudingen geweld Overasselt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -788,7 +852,7 @@
   "id": "2937f6ef25",
   "datum": "2026-11-19",
   "tijd": "13:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdachten opgepakt die geweld wilden plegen bij klanten van Revolut na datadiefstal",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -809,7 +873,7 @@
   "id": "8fb80de6d6",
   "datum": "2026-11-19",
   "tijd": "13:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Dronten - Man stopt naast Elburgerweg om naar eigen schapen te kijken, daardoor botsen drie andere automobilisten",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -828,7 +892,7 @@
   "id": "5da899f77d",
   "datum": "2026-11-19",
   "tijd": "13:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zie de Rwanda-deal voor wat het is: een koloniale mensenhandel",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -847,7 +911,7 @@
   "id": "9450d125b1",
   "datum": "2026-11-19",
   "tijd": "13:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Deelfietsplatform lekte fietstochten van gebruikers, ook van Arriva-klanten",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -866,7 +930,7 @@
   "id": "c3d3165fa9",
   "datum": "2026-11-19",
   "tijd": "12:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Fiod doet invallen in Helmond en Deurne: onderzoek naar witwassen via handel in katalysatoren",
   "bron": "ed.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -885,7 +949,7 @@
   "id": "c3326397d8",
   "datum": "2026-11-19",
   "tijd": "11:53",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Reizigersorganisatie Rover teleurgesteld: 'Onbegrijpelijk dat nachttrein door juridisch gesteggel verdwijnt'",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -906,7 +970,7 @@
   "id": "9ba2f315c0",
   "datum": "2026-11-19",
   "tijd": "11:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "A59 dicht na ongeluk, traumahelikopter landt op de snelweg",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -925,18 +989,16 @@
   "id": "b5f2ab846c",
   "datum": "2026-11-19",
   "tijd": "11:40",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Traumahelikopter landt op A59 na ongeluk, weg lange tijd dicht",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Trustkantoren & rechtspersonen"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "bestuurder",
    "vrachtwagen"
   ],
   "samenvatting": "Op de A59 naar Den Bosch is donderdag aan het begin van de middag een ongeluk gebeurd tussen een bestelbus en een vrachtwagen. Daardoor was de weg bij Raamsdonksveer, bij knooppunt Hooipolder, lange tijd dicht. De weg ging rond half vijf weer open. Politie, brandweer en ambulance kwamen naar de plek van het ongeluk, oo",
@@ -946,7 +1008,7 @@
   "id": "28046e4ea5",
   "datum": "2026-11-19",
   "tijd": "11:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie onderzoekt inbraakgolf in Den Bosch: één verdachte aangehouden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -965,7 +1027,7 @@
   "id": "988dc8dabb",
   "datum": "2026-11-19",
   "tijd": "11:29",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ens - Na inval in boerderij Ens is steeds meer bekend: dode hond op erf, 73 dieren in beslag genomen",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -985,7 +1047,7 @@
   "id": "998583feae",
   "datum": "2026-11-19",
   "tijd": "11:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politieteam valt met geweld mogelijk drugspand binnen en houdt man aan",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1006,7 +1068,7 @@
   "id": "145333643a",
   "datum": "2026-11-19",
   "tijd": "11:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Aanhouding bij inval in Alphen, mogelijk drugslab gelinkt aan Jan G.",
   "bron": "De Gelderlander",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1025,7 +1087,7 @@
   "id": "7bff34042f",
   "datum": "2026-11-19",
   "tijd": "11:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie zet Bearcat in bij inval, mogelijk drugslab gelinkt aan Jan G.",
   "bron": "GelreNieuws",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -1044,7 +1106,7 @@
   "id": "137435a58f",
   "datum": "2026-11-19",
   "tijd": "11:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Woning op Strandeiland gesloten na vondst cocaïne, softdrugs en cash - AT5",
   "bron": "AT5 / Amsterdam",
   "verzameld_via": "AT5 / Amsterdam",
@@ -1065,7 +1127,7 @@
   "id": "563656127a",
   "datum": "2026-11-19",
   "tijd": "11:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politieteam valt met geweld mogelijk drugspand binnen en houdt man aan",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -1764,6 +1826,25 @@
   "link": "https://nos.nl/l/2640059"
  },
  {
+  "id": "440606ab7d",
+  "datum": "2026-11-18",
+  "tijd": "18:20",
+  "nieuw": false,
+  "titel": "Invallen in Nijmegen en Druten vanwege vuurwerk",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk"
+  ],
+  "samenvatting": "De politie heeft tientallen kilo's vuurwerk in beslag genomen bij invallen in Nijmegen, Druten en het Brabantse Grave. Ook zijn er personen aangehouden.",
+  "link": "https://www.gld.nl/nieuws/8548760/invallen-in-nijmegen-en-druten-vanwege-vuurwerk"
+ },
+ {
   "id": "4cc191613d",
   "datum": "2026-11-18",
   "tijd": "18:01",
@@ -2002,6 +2083,25 @@
   ],
   "samenvatting": "De Bossche FVD-fractievoorzitter Ramon van Asch was afgelopen juni aanwezig bij kooigevechten van neonazi's in Oeffelt. In een tent op het erf van een woning sloegen deelnemers elkaar knock-out. Toeschouwers brachten de Hitlergroet en riepen \"Sieg Heil\". Dat blijkt uit onderzoek van het televisieprogramma Zembla. Van A",
   "link": "https://www.omroepbrabant.nl/nieuws/6035303/bossche-fvd-voorman-met-baby-bij-neonazistisch-kooigevecht-in-oeffelt"
+ },
+ {
+  "id": "b25f0fcbe4",
+  "datum": "2026-11-18",
+  "tijd": "16:00",
+  "nieuw": false,
+  "titel": "Naast Jan G. ook beruchte broers Van L. opgepakt in groot drugsonderzoek",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand"
+  ],
+  "samenvatting": "In het drugsonderzoek waarbij dinsdag Jan G. uit Overasselt in de gevangenis in Vught werd aangehouden, blijken ook de beruchte Nijmeegse gebroeders Van L. te zijn opgepakt. Dat bevestigen meerdere goed ingevoerde bronnen aan Omroep Gelderland. Politieteams zijn ook woensdag nog actief met het doorzoeken van panden na ",
+  "link": "https://www.gld.nl/nieuws/8548688/naast-jan-g-ook-beruchte-broers-van-l-opgepakt-in-groot-drugsonderzoek"
  },
  {
   "id": "2897fe017c",
@@ -101813,6 +101913,28 @@
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaDRTOTBVYzhpNkZRdDNkQ3MtT0dhWWU2VTczdHlnRDlVenlhOFNwOGtVNmIwemxvLVZ3azBSb1ZZX0tKTTdCVjd2aHVlUTZhUTVjU3hKQlFHa3ctV190bk1iYVJWNmJ0cUh2OTFXSkRycFllZ2l4a1R5eXJzYkszRDZudUN6djRJd0cwdVFJVGN0TGJuWDh0b0V6cDJIM0t6alFHN2tQcw?oc=5"
  },
  {
+  "id": "694a3ec075",
+  "datum": "2024-02-19",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Vrachtwagenchauffeur aangehouden die container met uithalers naar terminal bracht",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container",
+   "uithaler",
+   "uithalers",
+   "vrachtwagen"
+  ],
+  "samenvatting": "Vrachtwagenchauffeur aangehouden die container met uithalers naar terminal bracht BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFN3cVVrWmxRekFMeTdGZWFnbWxCWmFCbjBJQnhoOEw2a0d5SEhWMXZvNDZXVXRTTzcxUjRkZEp1ZlRmQ1N2MXZTSEdIenpnUk8tZHhpVkpZWk9nWkVZdk9DWXZ0OTFpeHpSUlhNakFWcUY1ckNucHliT1RmOHpMNW5wVEdzb0tzMmwyUl9SWUNIU0xENVJMVExSREFxWFlJdlphWG9xSE1TRC1qN0Rkb282akZRUERjb1BxbGVKb1ZnTVVsOVhMdDZn?oc=5"
+ },
+ {
   "id": "3b1fde69b6",
   "datum": "2024-02-18",
   "tijd": "08:00",
@@ -108067,6 +108189,27 @@
   ],
   "samenvatting": "Man (73) uit Winsum hangt 15 maanden cel boven het hoofd voor hennepteelt en voorbereiden drugslab. Hij ontkent alles DVHN",
   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbnhlZEpWYThoVlBseDZlQWhISXc0RXNKekxfVVU0Ykotanl2LXU5bjJUMnp0SE9EQWhXeldpdlF4ay1IbXc2STBINDVpU0VuSk9lRHc2REtlMnVscUVzNVRFT0RocGIzZndvWjRWaWpPTzNtakFZUW1Kb2l5YTdLX0NLX19xV0FTNURnTlgzZjNnbDVTVjJPX0pyeXlCa24xT0lHbFJldkV0TGJLWFBGVkx3ak12YklsVWk4bllIUTdfTlllQnhOWDJvb3hFTzhOMllIc1Fqb3poNWFublVDSnZ1R1RJX2Z5cGhnZlNYdGFYUkJlYnhPdzRR?oc=5"
+ },
+ {
+  "id": "0281b89503",
+  "datum": "2022-08-25",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Zo verstoor je drugssmokkel in de Antwerpse haven: ‘Met slimme neuzen kan je élke container screenen’",
+  "bron": "De Morgen",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "container",
+   "drugssmokkel",
+   "haven"
+  ],
+  "samenvatting": "Zo verstoor je drugssmokkel in de Antwerpse haven: ‘Met slimme neuzen kan je élke container screenen’ De Morgen",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR0lnNUJSZHR1ejQtc3RoRVJ3cFRTb1YzeEozX0hTcUxNNWtYeUVoMDNNR3BlWlhTSjkxM1l6ME1ZeHlzZ2FuZWFqcVRaSGJtQ282MjdUZTJUckVMdDFVWExxWmxNWVl6YzBNV2ItZXpqd0ZoSENRUHF1SG91TmlJaklISVRWOXVxZmdRdmd1X3NZY3RQSHBJMGR0dEpnMm9kenFsbU93QURzVGFubjM0WmpJcm96RklhZ0dzUlhBWDYwclI0WDFyRnVEcUJST2J6d2thR0FB?oc=5"
  },
  {
   "id": "decf10592b",
