@@ -1,5 +1,67 @@
 [
  {
+  "id": "e03b7dd926",
+  "datum": "2026-11-21",
+  "tijd": "19:30",
+  "nieuw": true,
+  "titel": "Straf of niet? Dit staat kinderen die school in brand staken te wachten",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Jeugd & jonge aanwas",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "jeugd",
+   "jongeren",
+   "school",
+   "vuurwerk"
+  ],
+  "samenvatting": "Twee lokalen van basisschool De Zeilberg in Deurne zijn vrijdagavond verwoest door een brand. Het vuur ontstond nadat kinderen onder de 12 jaar vuurwerk afstaken en op het dak gooiden. De school blijft voorlopig dicht. Maar wat gebeurt er eigenlijk als een kind onder de 12 zoiets doet? Krijgen ze een straf en wie draai",
+  "link": "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten"
+ },
+ {
+  "id": "2171b05414",
+  "datum": "2026-11-21",
+  "tijd": "18:13",
+  "nieuw": true,
+  "titel": "In dit 100 jaar oude postkantoor komen 16 moderne woningen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand",
+   "woning"
+  ],
+  "samenvatting": "Vroeger werden er brieven gesorteerd en pakketjes verzonden, maar van die bedrijvigheid is nu niets meer over. Het postkantoor in Rotterdam-Noord is al jaren gesloten, maar met het nieuwe appartementencomplex dat in het pand aan de Soetendaalseweg gebouwd wordt, blijft de herinnering levend. Dit is nieuwbouwcomplex Pos",
+  "link": "https://www.rijnmond.nl/nieuws/2284016/in-dit-100-jaar-oude-postkantoor-komen-16-moderne-woningen"
+ },
+ {
+  "id": "a267e22501",
+  "datum": "2026-11-21",
+  "tijd": "17:23",
+  "nieuw": true,
+  "titel": "Man neergestoken in woning in Strijen",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "In een woning aan de Lane in Strijen is zaterdag aan het begin van de avond een man neergestoken. Hij is aanspreekbaar en is behandeld aan zijn verwondingen. Een 40-jarige man zonder vaste woon- of verblijfplaats is aangehouden.",
+  "link": "https://www.rijnmond.nl/nieuws/2285864/man-neergestoken-in-woning-in-strijen"
+ },
+ {
   "id": "94cd3292d9",
   "datum": "2026-11-21",
   "tijd": "16:30",
@@ -10,14 +72,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Drugsproductie & labs",
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "pand",
-   "pand gesloten",
-   "vaten"
+   "pand"
   ],
   "samenvatting": "In Kaatsheuvel is een drugspand opgerold. Althans, zo lijkt het. Maar het blijkt te gaan om een trouwstunt. Bruidegom Cédric Vos is door zijn vrienden dubbel en dwars teruggepakt voor alle alle grappen die hij in het verleden met hen heeft uitgehaald. Het kersverse bruidspaar kijkt eerst verschrikt en moet daarna heel ",
   "link": "https://www.omroepbrabant.nl/nieuws/6035674/trouwstunt-loopt-uit-de-hand-denk-dat-we-in-een-hotel-moeten-slapen"
@@ -27,7 +85,7 @@
   "datum": "2026-11-21",
   "tijd": "16:12",
   "nieuw": true,
-  "titel": "Afgebrande school Deurne waarschijnlijk nog maanden dicht",
+  "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
@@ -200,6 +258,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6035672/marcels-motorschool-is-net-verhuisd-als-dieven-toeslaan-9-motoren-gestolen"
  },
  {
+  "id": "a40289c861",
+  "datum": "2026-11-21",
+  "tijd": "13:23",
+  "nieuw": true,
+  "titel": "Dronken man klapt met auto op lantaarnpaal",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "In Dordrecht reed een dronken automobilist vrijdagavond een lantaarnpaal uit de grond. De man slaagde vervolgens niet voor de blaastest van de politie. Hij werd aangehouden.",
+  "link": "https://www.rijnmond.nl/nieuws/2285842/dronken-man-klapt-met-auto-op-lantaarnpaal"
+ },
+ {
   "id": "a375c6fc4a",
   "datum": "2026-11-21",
   "tijd": "12:12",
@@ -291,6 +368,28 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6035662/kind-op-fiets-zwaargewond-na-ongeluk-in-roosendaal-bestuurder-vlucht"
  },
  {
+  "id": "aeffc7047c",
+  "datum": "2026-11-21",
+  "tijd": "09:07",
+  "nieuw": true,
+  "titel": "Grote politieactie bij motorclub in Rijswijk, leden verdacht van wapenhandel",
+  "bron": "NOS",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "motorclub",
+   "wapen",
+   "wapenhandel"
+  ],
+  "samenvatting": "Grote politieactie bij motorclub in Rijswijk, leden verdacht van wapenhandel NOS",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN1hGSG43UkZHa3NIdkxldlRuRThvUDhycTlZbUpwOU50TmRXMHF0dHRMenRnQ2RKVHoxMml1S1pFM1NsNTBHVzZ4LW9ZUFdya0ZWbFBVbVJLaEE3bW9mUkE0OUVrNnNMMTVqTndlbTh3emJvRW0wZC0tZGZreTdfaHo5UTRCbWhZb3FuVjZubEFmdlR0cmFJcjJrSUVFNnhYaGZUbXVmS3ZKdw?oc=5"
+ },
+ {
   "id": "2f286ae2aa",
   "datum": "2026-11-21",
   "tijd": "08:46",
@@ -332,7 +431,7 @@
   "id": "13e8680fc3",
   "datum": "2026-11-21",
   "tijd": "07:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jongen (17) door arrestatiesteam opgepakt voor schietpartij",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -348,10 +447,49 @@
   "link": "https://www.rijnmond.nl/nieuws/2285799/jongen-17-door-arrestatiesteam-opgepakt-voor-schietpartij"
  },
  {
+  "id": "2595289c5d",
+  "datum": "2026-11-21",
+  "tijd": "06:40",
+  "nieuw": false,
+  "titel": "Politie lost waarschuwingsschoten bij aanhouding vier mannen met vuurwapens",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De politie heeft in de nacht van vrijdag op zaterdag vier mensen aangehouden na een korte achtervolging. Agenten losten waarschuwingsschoten om de vier aan te kunnen houden.",
+  "link": "https://www.rijnmond.nl/nieuws/2285781/politie-lost-waarschuwingsschoten-bij-aanhouding-vier-mannen-met-vuurwapens"
+ },
+ {
+  "id": "6f828389c8",
+  "datum": "2026-11-21",
+  "tijd": "06:25",
+  "nieuw": false,
+  "titel": "Tweede nacht op rij explosie bij dezelfde tabakszaak",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "cobra 6",
+   "explosie"
+  ],
+  "samenvatting": "Voor de tweede nacht op rij is er een explosie geweest bij een tabakszaak in Rotterdam-West. De politie vond er een cobra 6 die niet was afgegaan.",
+  "link": "https://www.rijnmond.nl/nieuws/2285772/tweede-nacht-op-rij-explosie-bij-dezelfde-tabakszaak"
+ },
+ {
   "id": "60093430e3",
   "datum": "2026-11-21",
   "tijd": "06:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Veel financiële instellingen zien verband tussen fraude en witwassen niet'",
   "bron": "Dutch IT Leaders",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -370,7 +508,7 @@
   "id": "9ffa0a8d1f",
   "datum": "2026-11-21",
   "tijd": "05:38",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Boa's bekogeld met vuurwerk bij station in Breda, een aanhouding",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -389,7 +527,7 @@
   "id": "b0d065896d",
   "datum": "2026-11-21",
   "tijd": "05:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Stefan rijdt stijf van de drugs wandelaar (82) dood en krijgt twee jaar cel",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -410,7 +548,7 @@
   "id": "1902a17ad0",
   "datum": "2026-11-21",
   "tijd": "05:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Drie glazen boxen op de Heemskerkse markt om mensenhandel tegen te gaan: ’Iedere maand doen we wel iets om het onder de aandacht te brengen en te houden’",
   "bron": "Noordhollands Dagblad",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -429,7 +567,7 @@
   "id": "72094c204a",
   "datum": "2026-11-21",
   "tijd": "04:58",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explosie verwoest geparkeerd busje bij flat in Breda",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -1236,6 +1374,25 @@
   ],
   "samenvatting": "Politie pakt 42-jarige man op bij inval in drugslab in Alphen Brabants Dagblad",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQi0xeUw1VmhuT2FBLS1SLWFOT2ZZODhnTU14dXNqUm42WjhIUXo0TWJteTg1UnA3dHlwVW14VkVldUhlTHNrVGYtdk9VeDFqOFZiZDZxcV9UTzNueUVmaGhBTU5vVVZDdjhqMHlHTWJhRWVOTU9IUlF6ZzBid0FlSVhNVVkwLUF1S1ZwRW9rektFb243aWxqOXlWRktJT2N4?oc=5"
+ },
+ {
+  "id": "f315091021",
+  "datum": "2026-11-20",
+  "tijd": "15:21",
+  "nieuw": false,
+  "titel": "Trouwfeestwraak: vrienden verbouwen huis van Cedric tot drugslab",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Regio — zuid & oost",
+  "soort": "Nieuwsbericht",
+  "regio": "Regio",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Trouwfeestwraak: vrienden verbouwen huis van Cedric tot drugslab De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcHBLWUNraWVpdmtFMXRvWjB5cERKWFdqSnV6Vjg2MThTRzhfMk9QV1BYYm10QjRXR0pBVWRDalIyeDd4QzdUblE4WVBCS25WY1hXOGlka0U5QnVPRFZUWGJyWGJyLUJaMVJiQUZqTjJZTzU1cTN4WUxRTG9LbzI3MjVuNGJmaFBhMmZxSkxkbmlKbFlsVkdhV1RtMlFOVWtSODZhZExoa2gyUi1uMFE?oc=5"
  },
  {
   "id": "9ccce80b94",
@@ -3410,6 +3567,25 @@
   ],
   "samenvatting": "Klaas Otto krijgt in hoger beroep 4 jaar cel voor witwassen, valsheid in geschrifte en afpersing De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnlwMnpLb0t1SjhYUkdpVW4xeDhLUHl0cXRrWFZ1TFRWQ0ZVUWVsNUd0YW12QnRnOC1PdVY2SjFCTndmZmdQZ0RidVh5UWxFcHluSktPVHZ1WEtrZnp5OFBXSnc5Vno1dUlLdFRlazQ0TmxFeWlEQm1YRGlhcXl0UzhfR0JSY3FWaFVtZllRdUJEdl8zUG50M3UzUy15ZUhMdTVva1dzZEQ2a2VhUlhlMzlERTVDVWdQX3JRdkt6N0s4VjRYdlVzd08tRnlIdk5WVVdSOHV2M3Y?oc=5"
+ },
+ {
+  "id": "9894a1556b",
+  "datum": "2026-11-18",
+  "tijd": "16:29",
+  "nieuw": false,
+  "titel": "Klaas Otto krijgt in hoger beroep 4 jaar cel voor witwassen, valsheid in geschrifte en afpersing",
+  "bron": "pzc.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Klaas Otto krijgt in hoger beroep 4 jaar cel voor witwassen, valsheid in geschrifte en afpersing pzc.nl",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTBXSWRvM3pnMnRLR2V4bjVnbE9fTG1YU3d2ZkxkSTdnZThXcFNuNGM4NFJtLVZLdS1qQ3FpLUVPcDRjWkl4a0hSOHZ3aWpYOHhXY3VSRWl3RGJJc19aWkJ6dEdaMW5yY0lheHlwZ21vdlNIcm9fMXNURFZ0UmN6elVYSTBtUktPREpnbDhoWnN2d0NpRndNZ1JPT3N1VVhVNU1lYm4zTmV4YWw2ZmdrenA1Tm85cG1XVE9BNU1jOGhXN005R1E4djhwZHloZWMwNzJPTUNB?oc=5"
  },
  {
   "id": "2cc1269bda",
@@ -31148,6 +31324,28 @@
   ],
   "samenvatting": "Ondermijnende criminaliteit moet harder worden aangepakt Nieuws van de Dag",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGM5UkN6RFFUa0pvVWpNcUM3R0ZoTWo4em00azhkZkg0UkFFWkVNbVJMZ2xSLWJfb3pyNjFQT1VrUkQ4TXlJRnR5YWVNUU9NcXc4Q051alZkdjlVcnUzLXAxdmhqMVlNdGxHZmlPcTViclBNY3RpSWplWEVhNE83a0hWZUtkY1BHLWc4U0tjUXU3Mm1wUG9PQVRUVW1VaDVDaHlPVDB4QmFadw?oc=5"
+ },
+ {
+  "id": "5ac0795e77",
+  "datum": "2026-10-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie ontdekt hennepkwekerij bij woning en neemt voertuigen mee",
+  "bron": "112Brabant",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij",
+   "woning"
+  ],
+  "samenvatting": "Politie ontdekt hennepkwekerij bij woning en neemt voertuigen mee 112Brabant",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXFHVHlUcTY2RlBvb1VoU3VGZU5ncEpVX0RuQVBZN015ZG13aUlGYVgzd19EUExNTUN4UExla3JFcVU5MXJRb0M5bThaRmdnZE50U3ZFdWppcjBPbUdacnVwY25fUHR1alBwY2hnNGs0a1Q3ZTlLREFlMmd3N1FObWUyMGd4WlAweC1PdndncU9WUjluR01veTNJZlhyeTRTM25DNE95TjE?oc=5"
  },
  {
   "id": "be645b03ca",

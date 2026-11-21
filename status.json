@@ -1,12 +1,12 @@
 {
- "run": "17:45",
+ "run": "23:30",
  "datum": "2026-11-21",
- "nieuw": 21,
- "totaal": 6108,
+ "nieuw": 20,
+ "totaal": 6118,
  "verwijderd": 10,
  "geweigerd": {
-  "niet-nederlands": 607,
-  "geen dossier": 368
+  "niet-nederlands": 596,
+  "geen dossier": 339
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 455,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -32,8 +32,8 @@
    "url": "news.google.com/rss/search?q=hennepkwekerij%20OR%20wietplantage%20OR%20h",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 234,
-   "status": "bij",
+   "items": 235,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 425,
-   "status": "2 nieuw",
+   "items": 426,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -87,8 +87,8 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 11,
-   "status": "fout 429",
-   "ok": false
+   "status": "bij",
+   "ok": true
   },
   {
    "naam": "Officiele publicaties — Goudhandel & edelmetalen",
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -123,7 +123,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 30,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 109,
-   "status": "bij",
+   "items": 110,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -267,7 +267,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 71,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -312,7 +312,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -384,7 +384,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 384,
-   "status": "6 nieuw",
+   "items": 385,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 411,
-   "status": "1 nieuw",
+   "items": 416,
+   "status": "5 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 399,
-   "status": "3 nieuw",
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -546,7 +546,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 200,
-   "status": "3 nieuw",
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -563,8 +563,8 @@
    "url": "news.google.com/rss/search?q=(Limburg+OR+Zeeland+OR+Twente+OR+Brabant)+o",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 123,
-   "status": "bij",
+   "items": 124,
+   "status": "1 nieuw",
    "ok": true
   },
   {
