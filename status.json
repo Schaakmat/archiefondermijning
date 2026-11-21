@@ -1,12 +1,12 @@
 {
- "run": "01:46",
+ "run": "10:07",
  "datum": "2026-11-21",
- "nieuw": 23,
- "totaal": 6086,
+ "nieuw": 25,
+ "totaal": 6097,
  "verwijderd": 14,
  "geweigerd": {
-  "niet-nederlands": 552,
-  "geen dossier": 318
+  "niet-nederlands": 580,
+  "geen dossier": 323
  },
  "bronnen": [
   {
@@ -14,8 +14,8 @@
    "url": "news.google.com/rss/search?q=drugslab%20OR%20drugslaboratorium%20OR%20dr",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 451,
-   "status": "2 nieuw",
+   "items": 454,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -68,7 +68,7 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 420,
+   "items": 423,
    "status": "3 nieuw",
    "ok": true
   },
@@ -132,7 +132,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -176,8 +176,8 @@
    "url": "news.google.com/rss/search?q=shishalounge%20OR%20nagelstudio%20witwassen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 6,
-   "status": "bij",
+   "items": 7,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -230,7 +230,7 @@
    "url": "news.google.com/rss/search?q=mensenhandel%20OR%20arbeidsuitbuiting%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 476,
+   "items": 477,
    "status": "1 nieuw",
    "ok": true
   },
@@ -284,8 +284,8 @@
    "url": "news.google.com/rss/search?q=corruptie%20ambtenaar%20OR%20omkoping%20OR%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 92,
-   "status": "bij",
+   "items": 93,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 196,
-   "status": "5 nieuw",
+   "items": 195,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 381,
-   "status": "8 nieuw",
+   "items": 382,
+   "status": "7 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 409,
-   "status": "bij",
+   "items": 410,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -509,8 +509,8 @@
    "url": "www.omroepgelderland.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 398,
-   "status": "2 nieuw",
+   "items": 397,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -545,8 +545,8 @@
    "url": "www.omroepflevoland.nl/RSS",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 199,
-   "status": "2 nieuw",
+   "items": 200,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -554,8 +554,8 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 127,
-   "status": "bij",
+   "items": 128,
+   "status": "1 nieuw",
    "ok": true
   },
   {
