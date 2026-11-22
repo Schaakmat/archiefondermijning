@@ -1,10 +1,107 @@
 [
  {
-  "id": "c9f48d54a3",
+  "id": "1b201e6d80",
+  "datum": "2026-11-22",
+  "tijd": "18:17",
+  "nieuw": true,
+  "titel": "Jaitsen Singh (81) overleden, was langst gedetineerde Nederlander in buitenland",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond",
+   "moord"
+  ],
+  "samenvatting": "Jaitsen Singh is vanochtend overleden in zijn cel in de gevangenis in Scheveningen. Dat meldt zijn advocaat namens de familie in een overlijdensbericht. Singh leed aan acute leukemie. De 81-jarige Singh werd in 1986 veroordeeld voor het laten vermoorden van zijn vrouw en stiefdochter. Hij kreeg 56 jaar gevangenisstraf ",
+  "link": "https://nos.nl/l/2640625"
+ },
+ {
+  "id": "8447edcd0a",
+  "datum": "2026-11-22",
+  "tijd": "17:32",
+  "nieuw": true,
+  "titel": "Overval bij Kruidvat in Putte: dader had tas met roze biggetjes bij zich",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "De Kruidvat aan de Antwerpsestraat in Putte is zondagavond overvallen. De dader had een wapen bij zich. De politie is nog naar de overvaller op zoek en heeft een opvallend signalement verspreid. Agenten zoeken in de omgeving naar de dader. Het gaat om een man met een lichte huidskleur en ogen. Hij is rond de 20 jaar ou",
+  "link": "https://www.omroepbrabant.nl/nieuws/6035725/overval-bij-kruidvat-in-putte-dader-had-tas-met-roze-biggetjes-bij-zich"
+ },
+ {
+  "id": "1013cf2901",
+  "datum": "2026-11-22",
+  "tijd": "16:05",
+  "nieuw": true,
+  "titel": "Roltrap in Amsterdam slaat op hol, acht mensen gewond",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "grond"
+  ],
+  "samenvatting": "In Amsterdam zijn acht mensen gewond geraakt door een op hol geslagen roltrap. Het ongeluk gebeurde iets voor 12.00 uur bij station Bijlmer Arena. Een getuige zegt tegen AT5 dat de roltrap plotseling een hard geluid maakte en op hoge snelheid naar beneden ging. \"Een stuk of vijf mensen zijn gevallen, voornamelijk ouder",
+  "link": "https://nos.nl/l/2640599"
+ },
+ {
+  "id": "570903bf38",
+  "datum": "2026-11-22",
+  "tijd": "14:30",
+  "nieuw": true,
+  "titel": "Eerst een doodsbedreiging, dan bijna een kopstoot voor agenten in Breda",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "bedreiging"
+  ],
+  "samenvatting": "Agenten in Breda zijn in de nacht van zaterdag op zondag met de dood bedreigd en uitgescholden. Tijdens een van die scheldpartijen probeerde een verdachte een agent ook nog een kopstoot te geven. De verdachten zijn aangehouden. Het Sterk Op Straat-team, dat de rust op straat moet bewaren tijdens stapavonden, was zaterd",
+  "link": "https://www.omroepbrabant.nl/nieuws/6035717/eerst-een-doodsbedreiging-dan-bijna-een-kopstoot-voor-agenten-in-breda"
+ },
+ {
+  "id": "f2265a08ee",
+  "datum": "2026-11-22",
+  "tijd": "13:55",
+  "nieuw": true,
+  "titel": "Flinke schade door vernieling met stenen in Schiedam",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand"
+  ],
+  "samenvatting": "Een bedrijfspand in Schiedam is zondagmiddag vernield. Volgens de politie heeft een man met een baksteen op de ruiten van het pand gebonkt. Het glas liep daarbij een aantal grote barsten en deuken op. Niemand raakte gewond.",
+  "link": "https://www.rijnmond.nl/nieuws/2286248/flinke-schade-door-vernieling-met-stenen-in-schiedam"
+ },
+ {
+  "id": "c90f97b98d",
   "datum": "2026-11-22",
   "tijd": "13:05",
   "nieuw": true,
-  "titel": "Almere - Brandweer heeft vuurzee in appartement Almere Haven snel onder bedwang",
+  "titel": "Almere - Brandweer heeft vuurzee in appartement Almere Haven snel onder controle, kat is gered",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -17,8 +114,88 @@
    "haven",
    "woning"
   ],
-  "samenvatting": "In een appartement aan de Groenhof in Almere Haven is zondagochtend brand uitgebroken. Het ging om een uitslaande brand. Op het moment dat de brandweer arriveerde sloegen de vlammen al uit de woning. Zeker vier voertuigen van de brandweer, waaronder een ladderwagen, zijn ingezet om de vuurzee te bestrijden. Binnen een ",
-  "link": "https://www.omroepflevoland.nl/nieuws/532356/brandweer-heeft-vuurzee-in-appartement-almere-haven-snel-onder-bedwang"
+  "samenvatting": "In een appartement aan de Groenhof in Almere Haven is zondagochtend brand uitgebroken. Het ging om een uitslaande brand. Op het moment dat de brandweer arriveerde, sloegen de vlammen al uit de woning. Een kat kon gered worden uit het appartement. Zeker vier voertuigen van de brandweer, waaronder een ladderwagen, werden",
+  "link": "https://www.omroepflevoland.nl/nieuws/532356/brandweer-heeft-vuurzee-in-appartement-almere-haven-snel-onder-controle-kat-is-gered"
+ },
+ {
+  "id": "4d53bd9159",
+  "datum": "2026-11-22",
+  "tijd": "13:00",
+  "nieuw": true,
+  "titel": "Burgemeester Halsema omzeilt internetblokkade India met boodschap voor ontvoerde Insiya",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder",
+   "burgemeester"
+  ],
+  "samenvatting": "Burgemeester Halsema van Amsterdam probeert een bevel van de Indiase rechtbank te omzeilen met een videoboodschap op sociale media over het naar India ontvoerde meisje Insiya. De boodschap, in het Engels, is eerder opgenomen in Mumbai tijdens Halsema's handelsmissie in India. De afgelopen weken kwam de zaak opnieuw in ",
+  "link": "https://nos.nl/l/2640576"
+ },
+ {
+  "id": "49bb713dd0",
+  "datum": "2026-11-22",
+  "tijd": "12:28",
+  "nieuw": true,
+  "titel": "Pas geplaatste camera’s in Vogelaarpark Etten-Leur al vernield: 'Hopeloos'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "geweld",
+   "jongeren"
+  ],
+  "samenvatting": "Ze staan er nog geen week: de camera’s in het Vogelaarpark in Etten-Leur. De veiligheid zou erdoor verbeterd moeten worden. Afgelopen dinsdag zijn ze geplaatst. En nu zijn ze alweer kapot. De camera’s zijn onderdeel van een bredere aanpak van de gemeente Etten-Leur om overlast in het Vogelaarpark en het centrum tegen t",
+  "link": "https://www.omroepbrabant.nl/nieuws/6035712/pas-geplaatste-cameras-in-vogelaarpark-etten-leur-al-vernield-hopeloos"
+ },
+ {
+  "id": "ae16116885",
+  "datum": "2026-11-22",
+  "tijd": "11:28",
+  "nieuw": true,
+  "titel": "Met bloemen, koffie en een luisterend oor bouwt Marianne aan sterkere wijken",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "netwerk"
+  ],
+  "samenvatting": "Marianne Lock richtte in 2017 De Verbindingskamer op. In twintig Rotterdamse wijken belt ze aan bij bewoners, deelt bloemen uit en maakt een praatje. Het doel: bewoners in de wijk verbinden. \"Het kostte bijna tien jaar om mijn aanpak te laten uitgroeien tot een netwerk van bewoners en professionals.”",
+  "link": "https://www.rijnmond.nl/nieuws/2284546/met-bloemen-koffie-en-een-luisterend-oor-bouwt-marianne-aan-sterkere-wijken"
+ },
+ {
+  "id": "3120d6a1e1",
+  "datum": "2026-11-22",
+  "tijd": "11:00",
+  "nieuw": true,
+  "titel": "Woningoverval in Wenum-Wiesel, politie zoekt getuigen",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "woning"
+  ],
+  "samenvatting": "Onbekenden hebben zondag in de vroege ochtend een woningoverval gepleegd aan De Haere in Wenum-Wiesel (gemeente Apeldoorn).",
+  "link": "https://www.gld.nl/nieuws/8550489/woningoverval-in-wenum-wiesel-politie-zoekt-getuigen"
  },
  {
   "id": "548acf994e",
@@ -50,23 +227,32 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Drugsproductie & labs",
-   "Jeugd & jonge aanwas"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "cocaïne",
-   "crystal meth",
-   "gemeenteraad",
-   "jongeren",
-   "organisatie",
-   "stal"
+   "organisatie"
   ],
   "samenvatting": "Het aantal mensen dat zich meldt na problemen met chemseks neemt toe, zien zorgorganisaties. Bij chemseks hebben mensen langdurig seks onder invloed van drugs. Gespecialiseerde hulpverlening ontbreekt op veel plekken in Nederland. De drugs zorgen voor een intensere beleving, het verdwijnen van remmingen en meer uithoud",
   "link": "https://nos.nl/l/2640539"
+ },
+ {
+  "id": "2138de10ea",
+  "datum": "2026-11-22",
+  "tijd": "08:08",
+  "nieuw": true,
+  "titel": "Jonge fietser (19) in kritieke toestand na aanrijding, bestuurder bestelbus rijdt door",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bestuurder"
+  ],
+  "samenvatting": "Een fietser is zondag zwaargewond geraakt bij een aanrijding met een bestelbus in Lichtenvoorde. Na het ongeluk reed de bestuurder van het voertuig door. Het slachtoffer ligt in kritieke toestand in het ziekenhuis, laat de politie weten.",
+  "link": "https://www.gld.nl/nieuws/8550416/jonge-fietser-19-in-kritieke-toestand-na-aanrijding-bestuurder-bestelbus-rijdt-door"
  },
  {
   "id": "3663ad5b37",
@@ -150,7 +336,7 @@
   "id": "986bf1db25",
   "datum": "2026-11-22",
   "tijd": "04:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Waarom slachtoffers van arbeidsuitbuiting vaak uit beeld blijven",
   "bron": "RTV Utrecht",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -169,7 +355,7 @@
   "id": "e03b7dd926",
   "datum": "2026-11-21",
   "tijd": "19:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Straf of niet? Dit staat kinderen die school in brand staken te wachten",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -192,7 +378,7 @@
   "id": "2171b05414",
   "datum": "2026-11-21",
   "tijd": "18:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "In dit 100 jaar oude postkantoor komen 16 moderne woningen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -212,7 +398,7 @@
   "id": "a267e22501",
   "datum": "2026-11-21",
   "tijd": "17:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man neergestoken in woning in Strijen",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -231,7 +417,7 @@
   "id": "94cd3292d9",
   "datum": "2026-11-21",
   "tijd": "16:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Trouwstunt loopt uit de hand 'Denk dat we in een hotel moeten slapen'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -250,7 +436,7 @@
   "id": "0dab87fb0d",
   "datum": "2026-11-21",
   "tijd": "16:12",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -271,7 +457,7 @@
   "id": "35f244dc33",
   "datum": "2026-11-21",
   "tijd": "15:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Op heterdaad betrapt: politie pakt verdachte bij grote milieucontrole op de Veluwe",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -290,7 +476,7 @@
   "id": "538d50b6f9",
   "datum": "2026-11-21",
   "tijd": "15:21",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Politie rukt uit met kogelwerende vesten voor melding van woningoverval",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -309,7 +495,7 @@
   "id": "8f0814581d",
   "datum": "2026-11-21",
   "tijd": "15:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flevoland - Tientallen bestuurders vanuit geblindeerde bus betrapt op gebruik mobiele telefoon tijdens rijden",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -328,7 +514,7 @@
   "id": "7ca5a37d8f",
   "datum": "2026-11-21",
   "tijd": "15:03",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Reacties op overlijden Jason Bhugwandass: 'Er zat zo veel kracht in hem'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -354,7 +540,7 @@
   "id": "1f205e8501",
   "datum": "2026-11-21",
   "tijd": "13:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bruidegom krijgt koekje van eigen deeg: woning omgetoverd tot drugslab",
   "bron": "Loon-op-zand.nieuws.nl",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -370,35 +556,6 @@
   ],
   "samenvatting": "Bruidegom krijgt koekje van eigen deeg: woning omgetoverd tot drugslab Loon-op-zand.nieuws.nl",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXJNTzNlOUlyaGhhNjdicXNLMGdKSnNibU1PSEpmY1ZVaThEeF9SMlFzTHZVN0l0ZU11N2ZpSWh4S19COV8wVC13dGowbWFqbGJ2WkpMdlE4NVltZGxFeENNdnlfYVEwVFJTRkUzZWtRNno2QkhucUVzTUVMUkk4bHRuMzA1WENBc1c3ZnlOYVAtMC1qb04yM3dZd0xaNUFpSnpadVJIMGRpak0?oc=5"
- },
- {
-  "id": "67fea859c1",
-  "datum": "2026-11-21",
-  "tijd": "13:41",
-  "nieuw": true,
-  "titel": "Marcels motorschool is net verhuisd als dieven toeslaan: 9 motoren gestolen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Drugsproductie & labs",
-   "Goudhandel & edelmetalen",
-   "Jeugd & jonge aanwas",
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "goud",
-   "grond",
-   "loods",
-   "pand",
-   "school",
-   "stal"
-  ],
-  "samenvatting": "De motorschool van Marcel van Drunen was net vier dagen verhuisd van Eindhoven naar het Belgische Lommel, toen dieven negen van zijn crossmotoren hebben gestolen. De voormalig kampioen wil niets liever dan zijn motoren terugvinden. \"Je praat over bijna honderdduizend euro schade\", zegt hij zaterdag. De grond zakte onde",
-  "link": "https://www.omroepbrabant.nl/nieuws/6035672/marcels-motorschool-is-net-verhuisd-als-dieven-toeslaan-9-motoren-gestolen"
  },
  {
   "id": "a40289c861",
@@ -638,27 +795,6 @@
   ],
   "samenvatting": "Een man is aangehouden nadat hij samen met een andere man vuurwerk gooide naar boa's in het station van Breda. De twee mannen waren eerder op de avond al aangesproken door de boa's omdat ze in de stationshal aan het gooien waren met knalerwten. Ze werden daar weggestuurd, maar daarna begonnen de twee met vuurwerk richt",
   "link": "https://www.omroepbrabant.nl/nieuws/6035653/boas-bekogeld-met-vuurwerk-bij-station-in-breda-een-aanhouding"
- },
- {
-  "id": "b0d065896d",
-  "datum": "2026-11-21",
-  "tijd": "05:15",
-  "nieuw": false,
-  "titel": "Stefan rijdt stijf van de drugs wandelaar (82) dood en krijgt twee jaar cel",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Drugsproductie & labs"
-  ],
-  "tags": [
-   "amfetamine",
-   "buitengebied"
-  ],
-  "samenvatting": "Stefan K. (31) uit Eindhoven heeft twee jaar cel gekregen, waarvan een jaar voorwaardelijk voor het doodrijden van een 82-jarige wandelaar in Bergeijk. Dat heeft de rechtbank in Den Bosch vrijdag geoordeeld. Daarnaast moet K. verplicht worden behandeld voor zijn verslavingen en mag hij vijf jaar niet rijden. Stefan K. ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6035568/stefan-rijdt-stijf-van-de-drugs-wandelaar-82-dood-en-krijgt-twee-jaar-cel"
  },
  {
   "id": "1902a17ad0",
@@ -1018,31 +1154,6 @@
   ],
   "samenvatting": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond een grote brand uitgebroken. Het lokaal is volledig is uitgebrand. Het vuur ontstond nadat twee kinderen vuurwerk hadden afgestoken. Het gaat om kinderen onder de 12 jaar, zegt een politiewoordvoerder. De politie heeft contact gehad met hun ouders.",
   "link": "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken"
- },
- {
-  "id": "f08347d13c",
-  "datum": "2026-11-20",
-  "tijd": "18:02",
-  "nieuw": false,
-  "titel": "Zeewolde - Gestolen verkeersbord teruggevonden na AI-lied van gemeenteraadslid Van Leeuwen",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Horeca, winkels & dienstverlening",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "gemeenteraad",
-   "jongeren",
-   "snackbar",
-   "stal"
-  ],
-  "samenvatting": "Het is misschien wel het meest besproken verkeersbord van Zeewolde: het blauwe ronde bord met daarop een door muzieknoten omringde fiets. Dinsdagmiddag werd het kunststuk trots onthuld, maar twee dagen na de feestelijke opening was het bord ineens verdwenen – gestolen. Raadslid Wilco van Leeuwen bedacht een creatieve m",
-  "link": "https://www.omroepflevoland.nl/nieuws/532138/gestolen-verkeersbord-teruggevonden-na-ai-lied-van-gemeenteraadslid-van-leeuwen"
  },
  {
   "id": "f62ebda9a2",
@@ -1745,27 +1856,6 @@
   ],
   "samenvatting": "Een scholier is aangereden door een vrachtwagen op de Ceintuurbaan in Zwolle. De jongen raakte daarbij gewond. De vrachtwagenchauffeur is doorgereden na het ongeval. De politie zoekt nog naar het voertuig.",
   "link": "https://www.oost.nl/nieuws/3721659/vrachtwagen-rijdt-door-na-aanrijding-met-scholier-in-zwolle-politie-zoekt-bestuurder"
- },
- {
-  "id": "3ca79fec11",
-  "datum": "2026-11-20",
-  "tijd": "09:30",
-  "nieuw": false,
-  "titel": "Druten wil grond onteigenen om woonwijk te bouwen",
-  "bron": "Omroep Gelderland",
-  "verzameld_via": "Omroep Gelderland",
-  "soort": "Nieuwsbericht",
-  "regio": "Gelderland",
-  "dossiers": [
-   "Milieucriminaliteit & afval",
-   "Vastgoed & huisvesting"
-  ],
-  "tags": [
-   "grond",
-   "woning"
-  ],
-  "samenvatting": "Het komt in Nederland niet zo vaak voor dat mensen onteigend worden. Toch gaat dat in Deest mogelijk gebeuren. Aan de zuidkant van het dorp wil de gemeente Druten een woonwijk bouwen met zo'n 355 woningen. Uit cijfers van het kadaster blijkt dat de gemeente inmiddels ruim een derde van de grond in handen heeft. Maar de",
-  "link": "https://www.gld.nl/nieuws/8548689/druten-wil-grond-onteigenen-om-woonwijk-te-bouwen"
  },
  {
   "id": "737d11047c",
@@ -3107,25 +3197,6 @@
   ],
   "samenvatting": "Brandweer vindt mogelijk drugslab na melding van brand op erf",
   "link": "https://www.omroepzeeland.nl/nieuws/18960846/brandweer-ontdekt-geen-brand-maar-een-mogelijk-drugslab-politie-doet-onderzoek"
- },
- {
-  "id": "ef5523c7ad",
-  "datum": "2026-11-19",
-  "tijd": "05:00",
-  "nieuw": false,
-  "titel": "Een op vijf brieven in buitengebied te laat: 'Rouwkaart pas na crematie'",
-  "bron": "Omroep Gelderland",
-  "verzameld_via": "Omroep Gelderland",
-  "soort": "Nieuwsbericht",
-  "regio": "Gelderland",
-  "dossiers": [
-   "Buitengebied & recreatie"
-  ],
-  "tags": [
-   "buitengebied"
-  ],
-  "samenvatting": "Brievenbussen die niet geleegd zijn, post die door medewerkers mee naar huis wordt genomen en brieven die bijna een week blijven liggen bij een sorteercentrum. Er gaat van alles mis met de bezorging door PostNL. Gevolg? Brieven die in landelijk gebied zijn gepost, worden vaker te laat bezorgd dan post uit de stad. Dat ",
-  "link": "https://www.gld.nl/nieuws/8548552/een-op-vijf-brieven-in-buitengebied-te-laat-rouwkaart-pas-na-crematie"
  },
  {
   "id": "c88f82de62",
@@ -59693,6 +59764,26 @@
   ],
   "samenvatting": "Uithaler zet vermeende Servische drugsbaas uit de wind: “Ik heb alles geregeld” GVA",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTTRmeGYyeGRhLWVxZjZ2QmlZek1BeG9oYkg3WXgwSThQektDX2hyTGJ2Rm4yQS1Qbkpha281U0Y1NFdSNEJkX3MxQmc3ak9YSHJjdHE3OWhMY19UdWFkMWNnWGtTTG9jUzRvOXhGYncycDducVAweHZ2eFU5NWNhenRUdXdJdEpINlpiSWFkZ0VsYmM1UEsxdjVwQzFVOUFSNllfS0FJZG5XNDJLU0hPTGtyeVRYQ2M?oc=5"
+ },
+ {
+  "id": "d686cb5626",
+  "datum": "2026-09-04",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "En plots komt verdachte uithaler met spontane ‘bekentenis’ op cocaïneproces: “Ik heb alles geregeld”",
+  "bron": "pzc.nl",
+  "verzameld_via": "Nieuws — Cocaine, haven & logistiek",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne",
+   "uithaler"
+  ],
+  "samenvatting": "En plots komt verdachte uithaler met spontane ‘bekentenis’ op cocaïneproces: “Ik heb alles geregeld” pzc.nl",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYjJqRm55YU9CY0xIRzZKWlFhZGc4SVVHRndQWUxCOUtmakxiUUFXNnloRHF4alBnQTBJblJGaWY0UXRVcjNETzV5WVVaXy1uS09xZFoySGd3cVpDTnhGYlFIeWhVN2dMNm45ZGNhQXc4emVkUHM0Y3EyUDh6RTNfcUpYYldvWmNfVHFmOTVJRW5YYUswV29lSWtXRWRiRUlUM1MxOGh3V1J2YVNibUZOVXgwNHZCSDVRNEkyWVZsaF80a3ZzQ2FXb2R5OTY5clk?oc=5"
  },
  {
   "id": "b730f89de1",
