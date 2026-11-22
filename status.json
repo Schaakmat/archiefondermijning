@@ -1,12 +1,12 @@
 {
- "run": "23:30",
- "datum": "2026-11-21",
- "nieuw": 20,
- "totaal": 6118,
- "verwijderd": 10,
+ "run": "03:27",
+ "datum": "2026-11-22",
+ "nieuw": 12,
+ "totaal": 6119,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 596,
-  "geen dossier": 339
+  "niet-nederlands": 584,
+  "geen dossier": 334
  },
  "bronnen": [
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 235,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -69,7 +69,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 426,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -114,7 +114,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -140,8 +140,8 @@
    "url": "news.google.com/rss/search?q=trustkantoor%20witwassen%20OR%20katvanger%2",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 37,
-   "status": "bij",
+   "items": 38,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -150,7 +150,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -168,7 +168,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -186,7 +186,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -222,7 +222,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -249,7 +249,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 110,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -276,7 +276,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -348,7 +348,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -501,7 +501,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 416,
-   "status": "5 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -564,7 +564,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 124,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
