@@ -1,5 +1,69 @@
 [
  {
+  "id": "7406ac6efe",
+  "datum": "2026-11-23",
+  "tijd": "07:14",
+  "nieuw": true,
+  "titel": "Emmeloord - Supermarkteigenaar Ali terug na brand: klanten stromen toe met bloemen en felicitaties",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Horeca, winkels & dienstverlening",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "pand",
+   "supermarkt",
+   "winkelpand"
+  ],
+  "samenvatting": "Trots staat supermarkteigenaar Ali Bellari zijn klanten te woord in zijn nieuwe winkel in het centrum van Emmeloord. Hij wordt overladen met felicitaties en bloemen. Voor Bellari is de opening een bijzonder moment. Nadat zijn vorige supermarkt aan de Moerasandijviestraat door een verwoestende brand verloren ging, heeft",
+  "link": "https://www.omroepflevoland.nl/nieuws/532116/supermarkteigenaar-ali-terug-na-brand:-klanten-stromen-toe-met-bloemen-en-felicitaties"
+ },
+ {
+  "id": "7795ccb80d",
+  "datum": "2026-11-23",
+  "tijd": "06:51",
+  "nieuw": true,
+  "titel": "Verdacht pakket in afvalcontainer blijkt papier: ‘Een iets minder geslaagde sinterklaassurprise?’",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "container"
+  ],
+  "samenvatting": "De politie kreeg zondagmiddag een melding van een verdacht pakketje in een afvalcontainer in de buurt van Dordrecht. Het ging om een langwerpig pakket, volledig ingepakt in plastic. Het bleek heel iets anders te zijn dan de politie in eerste instantie dacht.",
+  "link": "https://www.rijnmond.nl/nieuws/2286596/verdacht-pakket-in-afvalcontainer-blijkt-papier-een-iets-minder-geslaagde-sinterklaassurprise"
+ },
+ {
+  "id": "e3b3bc205e",
+  "datum": "2026-11-23",
+  "tijd": "05:30",
+  "nieuw": true,
+  "titel": "Bill C. zegt dat hij in een opwelling doodde, justitie ziet twee moorden",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting"
+  ],
+  "tags": [
+   "moord",
+   "woning"
+  ],
+  "samenvatting": "Was Bill C. uit Rosmalen stomdronken toen hij naar Lieshout reed en sloeg hij daar in een opwelling Willem van der Willigen dood? Of was het een zorgvuldig voorbereide moord, waarvoor hij bijna een half uur wachtte op een seintje van zijn vriendin Sharona de J.? Die vraag staat centraal in het hoger beroep tegen het vo",
+  "link": "https://www.omroepbrabant.nl/nieuws/6035718/bill-c-zegt-dat-hij-in-een-opwelling-doodde-justitie-ziet-twee-moorden"
+ },
+ {
   "id": "1b201e6d80",
   "datum": "2026-11-22",
   "tijd": "18:17",
@@ -156,6 +220,25 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6035712/pas-geplaatste-cameras-in-vogelaarpark-etten-leur-al-vernield-hopeloos"
  },
  {
+  "id": "c355f81cd6",
+  "datum": "2026-11-22",
+  "tijd": "11:49",
+  "nieuw": true,
+  "titel": "Medewerkster tabakszaak pakt enorm vuurwapen af van overvaller en zet hem buiten",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen"
+  ],
+  "samenvatting": "Een medewerkster van een tabakszaak in Rotterdam-Zuid heeft een gewapende overval weten te stoppen door het vuurwapen van de overvaller af te pakken. Ze zet de jongen vervolgens de winkel uit. De verdachte weet te ontkomen en wordt gezocht.",
+  "link": "https://www.rijnmond.nl/nieuws/2285286/medewerkster-tabakszaak-pakt-enorm-vuurwapen-af-van-overvaller-en-zet-hem-buiten"
+ },
+ {
   "id": "ae16116885",
   "datum": "2026-11-22",
   "tijd": "11:28",
@@ -178,7 +261,7 @@
   "id": "3120d6a1e1",
   "datum": "2026-11-22",
   "tijd": "11:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Woningoverval in Wenum-Wiesel, politie zoekt getuigen",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -197,7 +280,7 @@
   "id": "548acf994e",
   "datum": "2026-11-22",
   "tijd": "10:10",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vier Tilburgers aangehouden voor witwassen en drugsbezit, ruim 300 kilo hasj gevonden",
   "bron": "Tilburg.nieuws.nl",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -213,10 +296,29 @@
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGhTLXdmNWR1Rm1iWUl2anFJNF8xdjk4WVlIRzVYazlOVmtkc3JZdEVVWnktTFBNaTQzUlhtcms0blNackxfZldRX251ZjcxSlhDQ2MtTlFOUkxKQ2x3Tkg5djcwLXFwZGQtZUlFOUt1cmNVTXZjNjdHZVhxTmNTUGtXakZpMDUyenFMWFhGMlNBRHVRWmZURjJiMm82M2NPTS1Dc3ZEb1dibEFSWVAyZ3JWMGg?oc=5"
  },
  {
+  "id": "943caa8225",
+  "datum": "2026-11-22",
+  "tijd": "09:29",
+  "nieuw": false,
+  "titel": "Onverhoopt hebben de jonge criminelen Romano, Terence en Lesley een primeurtje",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren"
+  ],
+  "samenvatting": "Met een project voor criminele jongeren uit achterstandswijken hoopt het Openbaar Ministerie (OM) ze te behoeden voor een carrière in de georganiseerde misdaad. Romano en zijn vrienden zijn er een voorbeeld van.",
+  "link": "https://www.rijnmond.nl/nieuws/2284041/onverhoopt-hebben-de-jonge-criminelen-romano-terence-en-lesley-een-primeurtje"
+ },
+ {
   "id": "69aec443e5",
   "datum": "2026-11-22",
   "tijd": "09:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verslavingsproblemen rond chemseks nemen toe, passende hulp moeilijk te vinden",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -235,7 +337,7 @@
   "id": "2138de10ea",
   "datum": "2026-11-22",
   "tijd": "08:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jonge fietser (19) in kritieke toestand na aanrijding, bestuurder bestelbus rijdt door",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -268,6 +370,25 @@
   ],
   "samenvatting": "In Lichtenvoorde is een fietser zwaargewond geraakt bij een aanrijding met een bestelbus. Volgens de politie werd het slachtoffer, een jongen, meters door de auto meegesleurd. Na het ongeluk reed de bestuurder van het voertuig door. Het ongeluk in het Gelderse dorp gebeurde rond 03.15 uur. Het slachtoffer is naar het z",
   "link": "https://nos.nl/l/2640527"
+ },
+ {
+  "id": "b52e50aaf7",
+  "datum": "2026-11-22",
+  "tijd": "06:57",
+  "nieuw": false,
+  "titel": "Slachtoffers arbeidsuitbuiting blijven vaak buiten beeld: 'Het is psychologische terreur'",
+  "bron": "RTV Utrecht",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "arbeidsuitbuiting"
+  ],
+  "samenvatting": "Slachtoffers arbeidsuitbuiting blijven vaak buiten beeld: 'Het is psychologische terreur' RTV Utrecht",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUx5c2I0d2Eyb3psaHlzQUx3R0dWWlQ0RUhYdXBoRzA2TmNBWmpWa2Vyck9TUkZxUDNIWjZLNlI0ZjNkV3FfVWRMcDhwYXkzU0Vvem1WaDVMd05sTjVVSGZUWmlmTlVhZy15dlV4Y3lGd3JVNVBzTEloNU5uQlJqNURmaEUtVXV1b0ZCZ3JYQUFkVkQ3R1Z0RzBaZHVKX3F4Um9PU0d2TmhOaFpQUUw2TEgyQ1RRUkxHLWlNZy0tbDdydWs5a3c?oc=5"
  },
  {
   "id": "413b2d119b",
@@ -348,29 +469,6 @@
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2ViOW5WeEhhNHVXd3RvY2Vpak1NQUFld21DVlY3NTM1dEVqb096RkJ2WXExOGo5YUR5YTZpREZQN0xPaC1wQzhBNHh2NHFZNmhiSV9QTE1aOW5nSG4tMFZIUWJhQ3FwTFdJUkZzVHVWcktVWWtQZlZBTnhNWU5LblA5SlpIRE1GV1ZCanpGYnhiT0ZhNS1rOTFUbFM2OGtvYUtaSnR3R0o?oc=5"
  },
  {
-  "id": "e03b7dd926",
-  "datum": "2026-11-21",
-  "tijd": "19:30",
-  "nieuw": false,
-  "titel": "Straf of niet? Dit staat kinderen die school in brand staken te wachten",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Jeugd & jonge aanwas",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "jeugd",
-   "jongeren",
-   "school",
-   "vuurwerk"
-  ],
-  "samenvatting": "Twee lokalen van basisschool De Zeilberg in Deurne zijn vrijdagavond verwoest door een brand. Het vuur ontstond nadat kinderen onder de 12 jaar vuurwerk afstaken en op het dak gooiden. De school blijft voorlopig dicht. Maar wat gebeurt er eigenlijk als een kind onder de 12 zoiets doet? Krijgen ze een straf en wie draai",
-  "link": "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten"
- },
- {
   "id": "2171b05414",
   "datum": "2026-11-21",
   "tijd": "18:13",
@@ -427,27 +525,6 @@
   ],
   "samenvatting": "In Kaatsheuvel is een drugspand opgerold. Althans, zo lijkt het. Maar het blijkt te gaan om een trouwstunt. Bruidegom Cédric Vos is door zijn vrienden dubbel en dwars teruggepakt voor alle alle grappen die hij in het verleden met hen heeft uitgehaald. Het kersverse bruidspaar kijkt eerst verschrikt en moet daarna heel ",
   "link": "https://www.omroepbrabant.nl/nieuws/6035674/trouwstunt-loopt-uit-de-hand-denk-dat-we-in-een-hotel-moeten-slapen"
- },
- {
-  "id": "0dab87fb0d",
-  "datum": "2026-11-21",
-  "tijd": "16:12",
-  "nieuw": false,
-  "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Jeugd & jonge aanwas",
-   "Wapens, explosieven & vuurwerk"
-  ],
-  "tags": [
-   "school",
-   "vuurwerk"
-  ],
-  "samenvatting": "De school in Deurne waar gisteravond een brand uitbrak blijft waarschijnlijk nog maanden dicht, zegt directeur Pleun van Genugten tegen de NOS. De bijna 300 leerlingen zullen de komende tijd ergens anders moeten worden ondergebracht. Volgens Van Genugten is het de vraag \"of de school überhaupt nog open kan\" vanwege de ",
-  "link": "https://nos.nl/l/2640434"
  },
  {
   "id": "35f244dc33",
@@ -507,32 +584,6 @@
   "link": "https://www.omroepflevoland.nl/nieuws/532131/tientallen-bestuurders-vanuit-geblindeerde-bus-betrapt-op-gebruik-mobiele-telefoon-tijdens-rijden"
  },
  {
-  "id": "7ca5a37d8f",
-  "datum": "2026-11-21",
-  "tijd": "15:03",
-  "nieuw": false,
-  "titel": "Reacties op overlijden Jason Bhugwandass: 'Er zat zo veel kracht in hem'",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "burgemeester",
-   "haven",
-   "jeugd",
-   "jongeren",
-   "organisatie"
-  ],
-  "samenvatting": "\"Jason wandelde recht je hart in als je hem ontmoette, hij was een enorm inspirerend, lief en intelligent mens. Hij streed tegen onrecht met passie, bevlogenheid, humor en tederheid.\" Dat zegt Janinka Steenkuijl (links op de foto hierboven), een goede vriendin van de gisteren overleden Jason Bhugwandass . Vrienden en b",
-  "link": "https://nos.nl/l/2640423"
- },
- {
   "id": "1f205e8501",
   "datum": "2026-11-21",
   "tijd": "13:42",
@@ -571,27 +622,6 @@
   ],
   "samenvatting": "In Dordrecht reed een dronken automobilist vrijdagavond een lantaarnpaal uit de grond. De man slaagde vervolgens niet voor de blaastest van de politie. Hij werd aangehouden.",
   "link": "https://www.rijnmond.nl/nieuws/2285842/dronken-man-klapt-met-auto-op-lantaarnpaal"
- },
- {
-  "id": "a375c6fc4a",
-  "datum": "2026-11-21",
-  "tijd": "12:12",
-  "nieuw": false,
-  "titel": "Almere - Auto te water in sloot Almere Haven, bestuurder met de schrik vrijgekomen",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder",
-   "haven"
-  ],
-  "samenvatting": "Een auto is zaterdagochtend ondersteboven aangetroffen in een sloot bij het Farflerpad in Almere Haven. Dat is aan de rand van het Vroege Vogelbos, bij de scouting en de sauna. Brandweerduikers zochten in en rond het voertuig naar mogelijke inzittenden, maar troffen niemand aan. De brandweer werd vlak voor 8.00 uur gea",
-  "link": "https://www.omroepflevoland.nl/nieuws/532207/auto-te-water-in-sloot-almere-haven-bestuurder-met-de-schrik-vrijgekomen"
  },
  {
   "id": "821623e742",
@@ -831,6 +861,27 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6035650/explosie-verwoest-geparkeerd-busje-bij-flat-in-breda"
  },
  {
+  "id": "b8cf6070ab",
+  "datum": "2026-11-21",
+  "tijd": "04:03",
+  "nieuw": false,
+  "titel": "Verdachte lozen drugsafval Overloon voor de rechter: advocate plaats twijfels bij inval politie",
+  "bron": "Omroep Land van Cuijk",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "drugsafval"
+  ],
+  "samenvatting": "Verdachte lozen drugsafval Overloon voor de rechter: advocate plaats twijfels bij inval politie Omroep Land van Cuijk",
+  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRGQ0VU1HTnlZaXFCUEZJQXV4Nll6WFNKd01UTUlpRjZHRUotYlBkTmVxOUY4WTJacGVhNTRlc2FNV2FxNEg4bVhZVTNRdHQzS2V5MHp6OXEzNGVXT1ZiQmhPNER5aHpLTV96OXZNZC1MVVNQd1BqMUZkVnVKWE5OVUJzamVIblJRMVA1d3VoRy1XZTlnLVdYX0dTdXFmQUlubkJMakp1cTlaZjZPZEhQSlhyc2lwZVRHeHgydDRJS1d4dzVUNERwdlJHclhVZTZaYkxqbEliQU9lVDctZ21LWnlJQVBkeTRzOUV4bzZCU2NOSjhkSFhTS3V5OXk?oc=5"
+ },
+ {
   "id": "f7fba4d8ed",
   "datum": "2026-11-21",
   "tijd": "03:22",
@@ -911,6 +962,25 @@
   ],
   "samenvatting": "Tilburgers opgepakt voor witwassen en drugsbezit, 300 kilo hasj gevonden Drimble",
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOG1HUzZLYS1naGxaRnFRSThYRXdpbTZfdTB2M2QyQnRZSnRMaEFZSXR0SEtGUEdfYVozUmg3bTRxSEVURjZMMTktUkdZTXVMLVpVWlZZZGRacExjbnZSeHQtcVBlTzB1Q0I0ZVdVMFBpUUFLc3FNWWRkeEpQTGt4VlpDLW9yakV4bk82UkhtZHZTOHVDQkhHTXphbXl5ZDg4d3pCbHJZSXVoMjFuMVVzU0p5bkJnWGRHX01Fc1N6WmZUN1RoZ0RhR2NnWQ?oc=5"
+ },
+ {
+  "id": "4ee7aa13ec",
+  "datum": "2026-11-20",
+  "tijd": "22:17",
+  "nieuw": false,
+  "titel": "Tilburgers opgepakt voor witwassen en drugsbezit, 300 kilo hasj gevonden",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Tilburgers opgepakt voor witwassen en drugsbezit, 300 kilo hasj gevonden Drimble",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV0dXU3VyVFNFMkRuOUlWSGpGM3JnTmV3OVcwYm1DWnZmbmZVR1VnOHBGbm9GNDczZWF1RVBIclRHWFF4MXZmeFE4QjVhWF9Ca0J3eDlwci1EQWRZUWZCRkUxTUo1SmcyTlEtUlBqRHVldGZwcU5ERUVaQTIyOFpIbVdzbzRyQXV1VThyNmZyQy1PM0lOTHg5eUcyM3ZobHFrQVRlMjFHZXZRMDBJc0NqbVpPOXhzcEF0SlFfZVYyajJsQ0hIZEhRQ2JMVEdFQQ?oc=5"
  },
  {
   "id": "126c5ae087",
@@ -13780,6 +13850,25 @@
   ],
   "samenvatting": "Politie rolt drugslab op in woonwijk van Prinsenbeek De Gelderlander",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1plNXkxYlFpd0h5N0pmRzJuRlVwUWVCODhGNUlkVERqVmFYc3R1UkNQb053U1dvWVc3R1BYVmNfejM3Q25mZXZUVFlOWXBSR0VEdkNEbGpkNk03LUU3dkFqdGdmS0ZhQ19CUlE5aXczcy1vMVEtcTB6TWRpaTdhdlZ2YzUtYnMzS0NHaDJKTVR2V0p1dDZsY2JEM0tqdmQwZkVHdE5iVms?oc=5"
+ },
+ {
+  "id": "c93029cccf",
+  "datum": "2026-11-04",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Politie rolt drugslab op in woonwijk van Prinsenbeek",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "drugslab"
+  ],
+  "samenvatting": "Politie rolt drugslab op in woonwijk van Prinsenbeek AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVFZyZjNrTTdkWTRrakJ4bDkyVHhMLUhUWTNWblVwWDQtQnpqZEdkSlZUdm5qUkV3VzNMZlRnYnB3Z0xZTmNGNFNzQWNYaHdFZHRwYTg2VHp0VjdxTFZmVWc2NE41bmhJRTBtTDdGbFJvLWdaUnNtaTlvcGZzclE3VUtYaDdBMFQ4RDBhQ3JrY1oxaTgtdzctTlJ2QQ?oc=5"
  },
  {
   "id": "e6f72ea25a",
