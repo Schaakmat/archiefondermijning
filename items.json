@@ -10,11 +10,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
-   "Milieucriminaliteit & afval"
+   "Geweld, liquidaties & bedreiging"
   ],
   "tags": [
-   "grond",
    "moord"
   ],
   "samenvatting": "Jaitsen Singh is vanochtend overleden in zijn cel in de gevangenis in Scheveningen. Dat meldt zijn advocaat namens de familie in een overlijdensbericht. Singh leed aan acute leukemie. De 81-jarige Singh werd in 1986 veroordeeld voor het laten vermoorden van zijn vrouw en stiefdochter. Hij kreeg 56 jaar gevangenisstraf ",
@@ -128,11 +126,9 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Trustkantoren & rechtspersonen"
+   "Bibob & bestuurlijke aanpak"
   ],
   "tags": [
-   "bestuurder",
    "burgemeester"
   ],
   "samenvatting": "Burgemeester Halsema van Amsterdam probeert een bevel van de Indiase rechtbank te omzeilen met een videoboodschap op sociale media over het naar India ontvoerde meisje Insiya. De boodschap, in het Engels, is eerder opgenomen in Mumbai tijdens Halsema's handelsmissie in India. De afgelopen weken kwam de zaak opnieuw in ",
@@ -258,7 +254,7 @@
   "id": "3663ad5b37",
   "datum": "2026-11-22",
   "tijd": "07:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Fietser aangereden en meegesleurd in Lichtenvoorde, bestuurder rijdt door",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -277,7 +273,7 @@
   "id": "413b2d119b",
   "datum": "2026-11-22",
   "tijd": "06:35",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hitlergroeten, hakenkruizen en neonazistische uitspraken: wat is strafbaar?",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -298,7 +294,7 @@
   "id": "a728ce519e",
   "datum": "2026-11-22",
   "tijd": "06:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hoe cocaïnegeld België binnendringt: ‘Het zat vroeger niet zo diep in het systeem’",
   "bron": "Follow the Money",
   "verzameld_via": "Follow the Money",
@@ -317,7 +313,7 @@
   "id": "70e571529b",
   "datum": "2026-11-22",
   "tijd": "04:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Waarom slachtoffers van arbeidsuitbuiting vaak uit beeld blijven",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -11154,6 +11150,23 @@
   ],
   "samenvatting": "Onderzoeken naar ondermijning en terrorisme WODC - Wetenschappelijk Onderzoek- en Datacentrum",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2ZxdXE1MEpnZmdvNlFfdWlVTExacm1MTFUzM082LTJOZ1Z5clppWWQyX3o2MGJ4b1FkSHdUbFhDa204bVp5QXFtaXh4NjM5am5zQUY4bGpxSnFNYkN3cS1wZ3VuRnZNOUpxRFJCaGhyWlF1UFY1eXJEVnkwUllOT1lxcEVpWVE?oc=5"
+ },
+ {
+  "id": "f2bacd38dc",
+  "datum": "2026-11-06",
+  "tijd": "18:30",
+  "nieuw": false,
+  "titel": "Onderzoeken naar fenomenen binnen het justitie- en veiligheidsdomein - WODC - Wetenschappelijk Onderzoek- en Datacentrum",
+  "bron": "WODC",
+  "verzameld_via": "WODC",
+  "soort": "Rapport",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Onderzoeken naar fenomenen binnen het justitie- en veiligheidsdomein WODC - Wetenschappelijk Onderzoek- en Datacentrum",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1acDJfNzg2YU1FXzNYMnAxRHFrMmthVVBnY3oxN19fclFWeGZlclJwcmZLdGJyY3JSSzZzV3VkZFpSbEdYOVZWaDQ5S01rN3RUTW9sdHFfZHc1RXp2N2FiWVdWeTJfLTc0bVhOMXZ3?oc=5"
  },
  {
   "id": "813f6cf693",
@@ -77840,6 +77853,25 @@
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGZfRHRPNFJzZERycnJCeHROWVZTdGpnWFJCQlBIZm04RjU3Z3lGam0zQUdVdUhNdHE2aTF0V18xM0pmandYMlVXTVBuNlE1bC1FcF9RTVh3a0xWLXIxUk9yUHI4RHJKZGY3RnVKdVNlZW1JVTdKY1lHbDdnVVhuVUpmUjRJV2w2RS1NMGpFWklMa1FLNTY5YjZKSmw?oc=5"
  },
  {
+  "id": "ec76c0e34a",
+  "datum": "2026-06-11",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Politie en gemeente Bladel ontdekken overtreding tijdens actiedagen op bedrijventerreinen",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Ondernemers & weerbaarheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Ondernemers & weerbaarheid"
+  ],
+  "tags": [
+   "bedrijventerrein"
+  ],
+  "samenvatting": "Politie en gemeente Bladel ontdekken overtreding tijdens actiedagen op bedrijventerreinen AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNlI5QWdtVEdDV210V0J6S2RjTUZNcktka09OSkQtMWUxUlppaVR1WTJ0ME9WdmQ4MDdCOXQ0SG84ZG5vc0ZHeGNfMGhZcFJfOXd4RGE3bzk1XzJEaEJfUWpFV3l5WElvRHBTY0RuZUQ4NE84RU9PRTUzY2dTNlcxcDAzY2JrcmJTV2VUcXVfTEVEMFZ6WDl1RXhuSXpwZXJqdkNmNUJMbmN3TU1TcDJ2QTB2QlJjVDBvSlZCTnFMUkkxUQ?oc=5"
+ },
+ {
   "id": "9fed809e75",
   "datum": "2026-06-10",
   "tijd": "07:00",
@@ -100516,6 +100548,25 @@
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2hxWVBQZC1xaGtxQ2VpSnpFTXQxeEJDekdVRVJZcF9SaG94YXdvU0lqVUFpY2ZrdWl6RXVKQU1NWno5VnhNMXIyaU5VeWoydGVmVHJBMHFkNVVSWDlkS2I0ektYQTRkOGRHN3E4TXp6NGt5cmE5b2NGbUJHOGdyQnUxdHVyVkpWdnRIVkQyRldROEpzQWg5d1N2NDdDbXRkLU1LQWhkMjlLNE5IOV9JZzZnN2s?oc=5"
  },
  {
+  "id": "2e27d6ab92",
+  "datum": "2024-11-07",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Justitie: 'Outlaw motorcycle gangs' bewegen zich steeds meer onder de radar in Nederland",
+  "bron": "Panorama",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "outlaw motorcycle"
+  ],
+  "samenvatting": "Justitie: 'Outlaw motorcycle gangs' bewegen zich steeds meer onder de radar in Nederland Panorama",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdlE3U2VTX1lEQUo4dDJ2akpNUDJmS0lnMURnRThiWXlrZnpBQWxaUUhTS1F4VzBOS2pmWFFiYVBmcW1DajZma1UwSUJzaXpFdjB4d1k2UmU5QVpyLUQxNnV1c2NoeTZ1SHRkRjZRdWI2YS1YQnY4VmdLLWVodGttWWRScFNDOTlBQmFnT0VvdDJnM0xDd2Vsc3BaYjNUaHFOOGdQVHQwZzNYS1RqSlFpeHJ1cUVYMTJpblZVSA?oc=5"
+ },
+ {
   "id": "90b1912141",
   "datum": "2024-11-06",
   "tijd": "08:00",
@@ -102009,6 +102060,29 @@
   "dossiers": [
    "Witwassen & geldstromen"
   ]
+ },
+ {
+  "id": "fdfcdf0fc8",
+  "datum": "2024-07-24",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Burgemeester start campagne over risico’s ondermijning in het buitengebied",
+  "bron": "RTV Midden Holland",
+  "verzameld_via": "Gemeenten & burgemeesters",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak",
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "buitengebied",
+   "burgemeester",
+   "ondermijning"
+  ],
+  "samenvatting": "Burgemeester start campagne over risico’s ondermijning in het buitengebied RTV Midden Holland",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTGhuRjhfU28yZmk5UktkajdhQjVuQTFtX2x2UnFGRGdLZzZEVEJBbmgxQzIwbGpXWXVwczVGNmxVWlB1ZWg3eEg4dWxhb2lHeXg1Qkh0S00tZlZmdWUzQnBHRUUwQ1pHZjVhdGlzcW0zVzAtZzNMbkNlcVlvam1yM2VuS2FEdGtXR0kyVzI3Q0pfZ3dKRXZ2UWZ1eEhsWGlGNTdxY1VhbVpNcXlxZFE?oc=5"
  },
  {
   "id": "bac4c46f1e",
@@ -120906,6 +120980,27 @@
   ],
   "samenvatting": "Vastgoedfraude: hogere straffen voor meeste hoofdverdachten NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFRDcm5FS29FRUNLX3lfSDhoZF85bkdzNjdTcmNUSmwza2VtRTBYU2tqdUJVOUlZN0RVRm5jNmwxdXljQjhoLTFUaEhuUnZ5Q0pqRzY2SUpxdHFiWTI5VzhhM0t6SFZDYkJxeDB5OXZzYnpadEJZd0t0TndmdzRUak9ZVkFuYzZkSm9xTjYwSktmVmdHdTFHT19OMjViNjhZcGlJMmpQM3ZNOFc2NFE?oc=5"
+ },
+ {
+  "id": "6478b160f0",
+  "datum": "2015-02-25",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Zieke zoon wordt motorbende fataal - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "bron": "Nieuws — Criminele samenwerkingsverbanden",
+  "verzameld_via": "Nieuws — Criminele samenwerkingsverbanden",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "bende",
+   "grond"
+  ],
+  "samenvatting": "Zieke zoon wordt motorbende fataal NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzJkTXEtQlVDMjZKYnR6NHFiajR4VGlBTGpuT1Vnb3dBLUlpOWVzendiQ1VjT2dFUW5JQ2dyZjNmSV9ZVHJidTlrYzV1RURfTDJPS0YwU3lUN0dVYjZHZkNKeHBvdnJ2b1pINnFTSl96a3ExTVJ6QU0xZHQxUDlQcmhYODdqeGt5X1ViUmE2V25CZw?oc=5"
  },
  {
   "id": "9f24ba9a04",
