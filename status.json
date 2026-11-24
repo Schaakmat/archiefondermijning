@@ -1,12 +1,12 @@
 {
- "run": "21:28",
- "datum": "2026-11-23",
- "nieuw": 33,
- "totaal": 6171,
- "verwijderd": 5,
+ "run": "06:13",
+ "datum": "2026-11-24",
+ "nieuw": 22,
+ "totaal": 6182,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 563,
-  "geen dossier": 347
+  "niet-nederlands": 879,
+  "geen dossier": 365
  },
  "bronnen": [
   {
@@ -15,7 +15,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 459,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 236,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -68,8 +68,8 @@
    "url": "news.google.com/rss/search?q=witwassen%20OR%20%22criminele%20geldstromen",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 430,
-   "status": "2 nieuw",
+   "items": 431,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -104,8 +104,8 @@
    "url": "news.google.com/rss/search?q=cryptovaluta%20witwassen%20OR%20cryptowisse",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 76,
-   "status": "bij",
+   "items": 77,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -204,7 +204,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout 500",
+   "status": "fout: URLError",
    "ok": false
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 482,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -248,8 +248,8 @@
    "url": "news.google.com/rss/search?q=%22explosie%20woning%22%20OR%20handgranaat%",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 110,
-   "status": "bij",
+   "items": 111,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -320,7 +320,7 @@
    "url": "news.google.com/rss/search?q=milieucriminaliteit%20OR%20afvaldumping%20O",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 187,
+   "items": 188,
    "status": "1 nieuw",
    "ok": true
   },
@@ -393,7 +393,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 123,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -428,8 +428,8 @@
    "url": "news.google.com/rss/search?q=site:om.nl+ondermijning+OR+witwassen+OR+liq",
    "methode": "Zoekfeed",
    "ritme": "1 uur",
-   "items": 161,
-   "status": "bij",
+   "items": 164,
+   "status": "3 nieuw",
    "ok": true
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 204,
-   "status": "7 nieuw",
+   "items": 205,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -473,8 +473,8 @@
    "url": "www.ftm.nl/feed",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 23,
-   "status": "bij",
+   "items": 24,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 390,
-   "status": "7 nieuw",
+   "items": 391,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 425,
-   "status": "4 nieuw",
+   "items": 426,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -537,7 +537,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 277,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -551,12 +551,12 @@
   },
   {
    "naam": "AT5 / Amsterdam",
-   "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
+   "url": "www.at5.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 128,
-   "status": "bij",
-   "ok": true
+   "status": "fout 429",
+   "ok": false
   },
   {
    "naam": "Regio — zuid & oost",

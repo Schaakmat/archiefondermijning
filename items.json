@@ -1,5 +1,88 @@
 [
  {
+  "id": "c976ad80e4",
+  "datum": "2026-11-24",
+  "tijd": "07:00",
+  "nieuw": true,
+  "titel": "BumaStemra gaat strijd aan met AI-muziek en dreigt met rechtszaak",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Geweld, liquidaties & bedreiging",
+   "Horeca, winkels & dienstverlening"
+  ],
+  "tags": [
+   "bedreiging",
+   "horeca",
+   "organisatie",
+   "supermarkt"
+  ],
+  "samenvatting": "Muzikanten noemen het een grote bedreiging voor hun vak: de verkoop van AI-gegenereerde muziek, gebaseerd op hun werk, zonder dat zij er een cent voor krijgen. In de VS en Duitsland zijn eerder al rechtszaken aangespannen tegen dit soort AI-platforms, met succes. Nu dreigt voor het eerst ook BumaStemra, de Nederlandse ",
+  "link": "https://nos.nl/l/2640788"
+ },
+ {
+  "id": "778247f297",
+  "datum": "2026-11-24",
+  "tijd": "06:00",
+  "nieuw": true,
+  "titel": "Het aantal pesticiden nam de laatste twintig jaar toe – anders dan industrie, boeren en BBB beweren",
+  "bron": "Follow the Money",
+  "verzameld_via": "Follow the Money",
+  "soort": "Onderzoek",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "leider"
+  ],
+  "samenvatting": "Boerenleiders en parlementariërs ter rechterzijde vrezen dat agrariërs over steeds minder pesticiden beschikken: 60 procent van de bestrijdingsmiddelen zou de ‘voorbije jaren’ verboden zijn. Maar de afgelopen twintig jaar nam het aantal toegestane stoffen juist toe.",
+  "link": "https://www.ftm.nl/artikelen/het-aantal-pesticiden-nam-de-laatste-twintig-jaar-toe-anders-dan-industrie-boeren-en-bbb-beweren"
+ },
+ {
+  "id": "2734310a69",
+  "datum": "2026-11-24",
+  "tijd": "05:28",
+  "nieuw": true,
+  "titel": "Politiehond Goofy vindt verdachte van inbraak gloednieuwe BMW",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "stal"
+  ],
+  "samenvatting": "De politie kreeg maandagochtend vroeg een melding van diefstal aan de Zevenkampse Ring in Rotterdam-Zevenkamp. Twee mannen hadden ingebroken in een auto en het dashboard van de nieuwe BMW compleet leeggehaald. Agenten kwamen snel in actie en kregen één van de verdachten al snel te pakken, de andere verdween uit het zic",
+  "link": "https://www.rijnmond.nl/nieuws/2287211/politiehond-goofy-vindt-verdachte-van-inbraak-gloednieuwe-bmw"
+ },
+ {
+  "id": "bde043f4db",
+  "datum": "2026-11-24",
+  "tijd": "05:00",
+  "nieuw": true,
+  "titel": "De 'Scooties' zijn niet te missen: 'Allemaal nog even toeteren!'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "jongeren",
+   "vrachtwagen"
+  ],
+  "samenvatting": "Knalgele hesjes, lachende gezichten en de claxon binnen handbereik. Wanneer de 'Scooties' op pad gaan, zijn ze nauwelijks te missen. Iedere vrijdag trekt een lang lint van scootmobielen door Oudenbosch, op weg naar het volgende uitje. \"Dit is toch het leukste wat er is\", klinkt het enthousiast uit de mond van een van d",
+  "link": "https://www.omroepbrabant.nl/nieuws/6035842/de-scooties-zijn-niet-te-missen-allemaal-nog-even-toeteren"
+ },
+ {
   "id": "255bebd100",
   "datum": "2026-11-23",
   "tijd": "21:37",
@@ -73,14 +156,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Goudhandel & edelmetalen",
-   "Horeca, winkels & dienstverlening",
    "Witwassen & geldstromen"
   ],
   "tags": [
-   "geldautomaat",
-   "sieraden",
-   "supermarkt"
+   "geldautomaat"
   ],
   "samenvatting": "Een 81-jarige vrouw uit Breda is opgelicht door twee vrouwen. Met haar gestolen bankpas kochten de twee voor honderden euro's aan spullen, waaronder een PlayStation en AirPods. Ook namen ze geld op bij een geldautomaat. De politie is op zoek naar de twee vrouwen en deelde maandagavond beelden van hen in het opsporingsp",
   "link": "https://www.omroepbrabant.nl/nieuws/6035861/twee-vrouwen-kopen-playstation-met-gestolen-bankpas-van-oudere-vrouw-81"
@@ -176,14 +255,10 @@
   "regio": "Noord-Brabant",
   "dossiers": [
    "Bibob & bestuurlijke aanpak",
-   "Criminele samenwerkingsverbanden",
-   "Horeca, winkels & dienstverlening",
-   "Vastgoed & huisvesting"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "horeca",
    "organisatie",
-   "pand",
    "vergunning"
   ],
   "samenvatting": "De kwestie of de veelbesproken gebedsgenezer Tom de Wal nu wel of geen evenementen mag organiseren in een voormalig partycentrum, houdt de gemoederen al jaren bezig in Dussen. Eerder dit jaar werd de vergunning van Frontrunners Ministries, de religieuze organisatie van De Wal, ingetrokken. Volgens de organisatie was di",
@@ -372,7 +447,7 @@
   "id": "489a039ac3",
   "datum": "2026-11-23",
   "tijd": "13:19",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rioolslib zorgt voor vertraging op A16 bij Moerdijkbrug, rechterrijstrook dicht",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -391,19 +466,16 @@
   "id": "b08519ac91",
   "datum": "2026-11-23",
   "tijd": "12:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bouwhal Oeteldonkse Club weer open na steekvlam bij laswerkzaamheden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Buitengebied & recreatie",
-   "Drugsproductie & labs",
    "Vastgoed & huisvesting"
   ],
   "tags": [
-   "loods",
    "pand"
   ],
   "samenvatting": "Bouwers van carnavalswagens in de bouwhal van de Oeteldonkse Club in Den Bosch kunnen weer aan de slag. De gemeente heeft maatregelen genomen, waardoor de hal weer open kan. Vorige week werd de hal gesloten nadat er tijdens laswerkzaamheden een steekvlam ontstond veroorzaakt door moerasgas. Het pand aan de Ertveldweg, ",
@@ -413,7 +485,7 @@
   "id": "a5e2b2918f",
   "datum": "2026-11-23",
   "tijd": "12:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw (90) overleden bij woningbrand in Zuidlaren",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -432,7 +504,7 @@
   "id": "67c9570d82",
   "datum": "2026-11-23",
   "tijd": "11:57",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Deventenaar dreigt woning te verliezen na drugsvondst van 2,5 miljoen euro",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -451,7 +523,7 @@
   "id": "e11eaffeb0",
   "datum": "2026-11-23",
   "tijd": "11:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist in hoger beroep weer 30 jaar cel en tbs tegen Erasmusschutter",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -470,7 +542,7 @@
   "id": "83dedbdc21",
   "datum": "2026-11-23",
   "tijd": "10:31",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Eigenaresse slijterij gooit met drankflessen tijdens gewapende overval",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -489,7 +561,7 @@
   "id": "a8b187fd5c",
   "datum": "2026-11-23",
   "tijd": "09:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wetsvoorstel Implementatiewet ter voorkoming van witwassen en terrorismefinanciering ingediend",
   "bron": "Taxence",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -510,7 +582,7 @@
   "id": "7406ac6efe",
   "datum": "2026-11-23",
   "tijd": "07:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Emmeloord - Supermarkteigenaar Ali terug na brand: klanten stromen toe met bloemen en felicitaties",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -532,7 +604,7 @@
   "id": "7795ccb80d",
   "datum": "2026-11-23",
   "tijd": "06:51",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Verdacht pakket in afvalcontainer blijkt papier: ‘Een iets minder geslaagde sinterklaassurprise?’",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -553,7 +625,7 @@
   "id": "e3b3bc205e",
   "datum": "2026-11-23",
   "tijd": "05:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bill C. zegt dat hij in een opwelling doodde, justitie ziet twee moorden",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -572,7 +644,7 @@
   "id": "1b201e6d80",
   "datum": "2026-11-22",
   "tijd": "18:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jaitsen Singh (81) overleden, was langst gedetineerde Nederlander in buitenland",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -591,7 +663,7 @@
   "id": "8447edcd0a",
   "datum": "2026-11-22",
   "tijd": "17:32",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Overval bij Kruidvat in Putte: dader had tas met roze biggetjes bij zich",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -610,7 +682,7 @@
   "id": "570903bf38",
   "datum": "2026-11-22",
   "tijd": "14:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Eerst een doodsbedreiging, dan bijna een kopstoot voor agenten in Breda",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -629,7 +701,7 @@
   "id": "f2265a08ee",
   "datum": "2026-11-22",
   "tijd": "13:55",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Flinke schade door vernieling met stenen in Schiedam",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -648,7 +720,7 @@
   "id": "4d53bd9159",
   "datum": "2026-11-22",
   "tijd": "13:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Burgemeester Halsema omzeilt internetblokkade India met boodschap voor ontvoerde Insiya",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -7200,6 +7272,23 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6034637/intiem-contact-met-meisje-op-veghelse-school-aangifte-tegen-docent"
  },
  {
+  "id": "f94f282b46",
+  "datum": "2026-11-13",
+  "tijd": "12:53",
+  "nieuw": false,
+  "titel": "Drie mannen verdacht van invoeren en produceren drugs - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "Drie mannen verdacht van invoeren en produceren drugs Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUDVLR1RnQ1RLNFMwS3BqVWJlbHlDUlBXbDV1cDkwODZ3SlJtOUoxYTdab21oWTd1dkN4dFItakFzQjdWYkJuZGNON2pibE9qQUVxZ2J0ZmxvSEFma2FzMVJTRjB3YjlWQnFRLVRielJsaWY1a3liUVVTTXdMQ0JMSkIwMTlSdjNYLXFDTm5nUUd1VE9xN3dtQ3A0LUlLdw?oc=5"
+ },
+ {
   "id": "a3c007b7b6",
   "datum": "2026-11-13",
   "tijd": "12:31",
@@ -13083,6 +13172,25 @@
   ],
   "samenvatting": "Voor het vierde jaar op rij zet de gemeente Maasdriel tijdelijk cameratoezicht in tijdens de jaarwisseling. Dat wordt gedaan in Hedel en rond de Ipperakkeren in Kerkdriel. Politie en handhavers gaan de komende tijd in het Rivierengebied extra toezien op vuurwerkopslag. Dat betekent onder andere dat er meer garageboxen ",
   "link": "https://www.gld.nl/nieuws/8543340/gemeente-vreest-weer-onrust-tijdens-jaarwisseling-en-zet-cameras-in"
+ },
+ {
+  "id": "fd8ec317c0",
+  "datum": "2026-11-05",
+  "tijd": "05:02",
+  "nieuw": false,
+  "titel": "Dat is wel heftig, witwassen voor een bank? - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Dat is wel heftig, witwassen voor een bank? Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTRhNWg4UTVIYi13XzV2S1VJVFktSUNza25ISTdNei1hb01md0pIVUpxMHlmdFBVQmUwcEM3TEEyUWhWTDEtdl9sMl9BNjg3OEJTb3lQUW16ZUxVejNTeHdzS0JsTDBxTllscnhWdi1rZEFZZWwtU3JsS2tXU0RHeUx6ZV9YS096SWRrNFZwaTE4WjBiVjNFbjlwMXpUVm56cVFNRmxkaW84WjN0?oc=5"
  },
  {
   "id": "436c11b7a5",
@@ -76643,6 +76751,25 @@
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGd1M3JOZ2QwTnBpbkZjTWJFV2F6Sk9ZSW1YZEdRV2Y2NG5JMXl2dzFEWlhmQl8wSU1JeEpJc1JCa1BScjUya0w5WFE1RnZTcGlMMzJYRzNTekFRMWo3YzBNNHBiNWdVRXI0VFFOMXJRRFB3U3dBSThyZnVxcm03TllIeEN6QURjaXhCOXhoOWU2Vk1LWkVvVWY0cXk1aEZ1cGdZX04wbUFCdDBMNzZzRk5yVkc5Zw?oc=5"
  },
  {
+  "id": "0c8124ab6e",
+  "datum": "2026-06-30",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Rijswijk treedt strenger op tegen afvaldumping met extra controles",
+  "bron": "Feel Good Nieuws",
+  "verzameld_via": "Nieuws — Milieucriminaliteit & afval",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afvaldumping"
+  ],
+  "samenvatting": "Rijswijk treedt strenger op tegen afvaldumping met extra controles Feel Good Nieuws",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd0dkZEE0NnB6REtmc0ZPa2tSV3VxeGJVRnNLeUhBeVlfMFhYWGJRTDVNSEl6ODNrdjc2ZWRMUXYyTGx3emNyZzdfRUZUYWFTZjROSDNYUUE5b1N2aks4YjZCNWVNOGhVU2pVUmFiM3VGay1ZZElMS3RYaFo1QVREQm8zeWdOQjY4aUN3eW40ZHdkZGpQZnU5bVV5RkpESkM4?oc=5"
+ },
+ {
   "id": "922be937f9",
   "datum": "2026-06-29",
   "tijd": "07:00",
@@ -86997,6 +87124,25 @@
   ],
   "samenvatting": "Grootste corruptierisico’s voor Nederland in kaart gebracht WODC - Wetenschappelijk Onderzoek- en Datacentrum",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEJ1QjU4MHdmSGFET0FCOVlOdVlkd2t2d0VNWk56SVN4T2RCd1FTX21ieVpRcjZaSXNGOC1ReU54VXROZUc4aVpKZDF6cFpWRUlpWk53WFRwZGFJcGdVZlhoUnN4NjJYaDhMRkFLZjlRT0hZczdka1BkR3AzMUFkTUpyS2FJYm9DeVN4LTJnM2UtYnBGT0h6djVjZXVsR1ZkZEt4dFJqdw?oc=5"
+ },
+ {
+  "id": "bdef02a065",
+  "datum": "2026-03-12",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Rekenkamer: aanpak witwassen is doorgeslagen en dupeert bedrijven en burgers",
+  "bron": "EWmagazine.nl",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Rekenkamer: aanpak witwassen is doorgeslagen en dupeert bedrijven en burgers EWmagazine.nl",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHQ1MmpVY19kYUJSdzBNSXVZdkQ2aDdLX0RfOWFQTTdDUURTM05qSmdCd3BlelN1RG1RMlI4eFRVeFUtaHF0akwtNGhZUWhHdHY5bmdVQ0hiTW9abVd6T2tsdUFScHVWcUo5LTBrR2N0eVBMcXhQLVdJR0locXZnV0xOeE1maGdCWG45MWhJOTgyUWV4WGRRNXdtclZsc25neWw2NTh6dG9SdDA1NFdjWA?oc=5"
  },
  {
   "id": "53b202a53d",
@@ -104722,6 +104868,25 @@
   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOeGhaMDd0bE91NW01ckJLSDY5UWszZ3BoUFo0X3Z4Smh5amFFWkx1Qjd1b0FvUi1VMWE3dExuWUtjWGxrZks2RXFVdkdXcjF6aXBQWTQyZnY4ZERNMEtZMkU1SXRBUFVJT0FfVkRvWnZZNktaWEJVdkQ0X0JMc283eWFUeWZ4VjJDMk5MUUdOXzBqN0dDTkYzbHo5QWx6OFlfdnFkZlBsbU9vUUwwOGRCUzJNQWZpWVI4bGhfYmxtcVFNN2tXZ1Z2dmxocDhmN0hLcjQ3ZWhxWkpOQ0NUM0YyY1FmNEMtY2pFa1pUbHJoT2UxVEFpc013NE1jUzJCRVo5dXoxejBENU1abTJKcG9yNXh2MU8?oc=5"
  },
  {
+  "id": "6cbe297ce7",
+  "datum": "2024-02-12",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Hart van Nederland - Late Editie: Handgranaat aan deur appartementencomplex Amsterdam: 'TikTak'",
+  "bron": "KIJK",
+  "verzameld_via": "Nieuws — Wapens, explosieven & vuurwerk",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "handgranaat"
+  ],
+  "samenvatting": "Hart van Nederland - Late Editie: Handgranaat aan deur appartementencomplex Amsterdam: 'TikTak' KIJK",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcnQxUXIwWG1HMmp3WC1UYnlHQjlpVWdYQlMxMmhXOThNeTBlODhELVNPbUt5d3FtZldiR2l1RWhYMnhlZ0VJcXdSUWpEOHhuNjZyNkhhVVB5R2ZaWDlwRHRXZnNiWWxRRzRGZmRqVWVQNkpBeXYwY3JTUFdLakxacktB?oc=5"
+ },
+ {
   "id": "3af210da93",
   "datum": "2024-02-11",
   "tijd": "08:00",
@@ -115231,6 +115396,25 @@
   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYnBLVEY2ZDk3ai1SNEUxcUt6ZXFBYWdZTGlPNzFqai1pQmZCYzZSRHVKTFpWcDRZT1pnQS1hOW1wbW9xai1TNVRjclRxMlg3REh4Ti1nTlc2eC1vbDJCb3hneHpSeXl4RUpNcGN5OVFZV19UU05Pd1VlUFR5dlBKWDl5eHV4a24taXdSckpPSzBGV1B4UHpFUUN0VjZvWW9hSWd6YVZkSlBDRG1zVWhJSl9MTS1FR2FWUEJpSW05R2RFNnptSjZvSm9uSFpOU0xqdktXUFVLOTRLRlps?oc=5"
  },
  {
+  "id": "1d97919dd8",
+  "datum": "2020-12-18",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Strafproces tegen criminele ‘BV’ in drugs van start - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Trustkantoren & rechtspersonen"
+  ],
+  "tags": [
+   "bv"
+  ],
+  "samenvatting": "Strafproces tegen criminele ‘BV’ in drugs van start Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXMyTmlULVJDalEwcjh3WmxmSEFUaGx1RDg1Zlo5eFZSeFFGLVJvMjh0bDI1bWc2ajFfQjhwT0ZWUnBoSWFYM0cwY052RGg0V3BrTXFBbVVLbGI3bGx5Wnk1YllPVjNXRlIzQXhIbTFqdHVmM0tXbGZqTE1lVGdueFdxVEZDc1NzaXZ5U3RFS2dIeUgxbUsyZw?oc=5"
+ },
+ {
   "id": "d0585a9832",
   "datum": "2020-12-16",
   "tijd": "08:00",
@@ -119859,6 +120043,27 @@
   ],
   "samenvatting": "'Patrick S. lokte crimineel Jaïr Wessels naar moordplek' Het Parool",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTd1NjQxMWhEd1E5Mk1mYWI4OGQ0Rzk0N0o1U1pjbVpkOWs2czZjRW95aWhqXy1LNG10VFVZaUZkNzRCS3R5dVJ4YkU4bC1fLU1jc1dhREJwWG5MbVA5NmpPT1lYZzQyb0lwNl9tR3hWa0d1eS13enZLQ24yS180QjlSX21ESDZiRThoS2FncEszOU9oY0ww?oc=5"
+ },
+ {
+  "id": "bca71bd93e",
+  "datum": "2018-04-03",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Hoorde Stefan bij bitcoinbende? 'Wat jullie in een maand verdienen, verdien ik per uur'",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Crypto & digitaal geld",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Crypto & digitaal geld"
+  ],
+  "tags": [
+   "bende",
+   "bitcoin"
+  ],
+  "samenvatting": "Hoorde Stefan bij bitcoinbende? 'Wat jullie in een maand verdienen, verdien ik per uur' De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdS1oV3pXWnRuTTF1SlVXMDRSZ0RaUjFubFAwc0FlUjlNUEpObUp2NTA3Y2lZMFhlRW90cDdqVm42YmRYODBMZUZ4ZWs1Zi1qeHh5dkVDSG9GVWtpeUNTNE9TbFhVMGtuc05kZWRueTlWN1Q4Y2NFT2ZwX0c2YkNXTEFvY0Y5eVNqTDc1eERTS25nZHhIVHhsR3V2aWRrcnJzdlRDdEtfRTU2RVpiVHZNR18tS2hMZlM1WWpTY3dqbjVKRjh0N0xqaEpMVzY?oc=5"
  },
  {
   "id": "b1981ff397",
