@@ -1,10 +1,632 @@
 [
  {
-  "id": "72fe6b345d",
+  "id": "9fe377cc73",
+  "datum": "2026-11-25",
+  "tijd": "23:02",
+  "nieuw": true,
+  "titel": "'Tot alles in beweging komt' van Ester Naomi Perquin wint Boekenbon Literatuurprijs",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Buitengebied & recreatie",
+   "Jeugd & jonge aanwas",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "geldbedrag",
+   "jeugd",
+   "stal"
+  ],
+  "samenvatting": "Ester Naomi Perquin heeft de Boekenbon Literatuurprijs gewonnen met haar boek Tot alles in beweging komt. Dat werd vanavond bekendgemaakt in podium Amare in Den Haag. De 46-jarige Perquin kreeg de prijs uitgereikt door juryvoorzitter Kathleen Ferrier en Sanne Muijser, directeur van de Boekverkopersbond. Met de prijs is",
+  "link": "https://nos.nl/l/2641032"
+ },
+ {
+  "id": "0069f8b184",
+  "datum": "2026-11-25",
+  "tijd": "22:40",
+  "nieuw": true,
+  "titel": "Flevoland - Controle in Almere levert ruim 75.000 euro aan achterstallige belastingschuld op",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Buitengebied & recreatie",
+   "Cocaine, haven & logistiek",
+   "Trustkantoren & rechtspersonen",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "bestuurder",
+   "douane",
+   "haven",
+   "ondermijning",
+   "stal",
+   "wapen"
+  ],
+  "samenvatting": "Bij een gezamenlijke controle van de politie, de douane en de Belastingdienst in Almere zijn vorige week 87 voertuigen gecontroleerd. Dat maakt de politie woensdag bekend via Facebook. De actie leverde onder meer twee aanhoudingen, meerdere bekeuringen en ruim 75.000 euro aan geïnde belastingschuld op. De integrale ond",
+  "link": "https://www.omroepflevoland.nl/nieuws/532781/controle-in-almere-levert-ruim-75.000-euro-aan-achterstallige-belastingschuld-op"
+ },
+ {
+  "id": "e6891767de",
+  "datum": "2026-11-25",
+  "tijd": "21:06",
+  "nieuw": true,
+  "titel": "Schooladviezen vaker naar boven bijgesteld na invoering doorstroomtoets",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school"
+  ],
+  "samenvatting": "Sinds de invoering van de doorstroomtoets wordt het schooladvies voor leerlingen in groep 8 veel vaker naar boven bijgesteld. Dat blijkt uit cijfers van het Centraal Bureau voor de Statistiek (CBS). In het schooljaar 2024-2025 kwam 27 procent van de leerlingen in aanmerking voor een hoger schooladvies. Zij maakten de d",
+  "link": "https://nos.nl/l/2641019"
+ },
+ {
+  "id": "ff747a9732",
+  "datum": "2026-11-25",
+  "tijd": "21:03",
+  "nieuw": true,
+  "titel": "Politie, douane en belastingdienst werken samen tegen ondermijning",
+  "bron": "Omroep Almere",
+  "verzameld_via": "Nieuws — Beleid, wetgeving & toezicht",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "douane",
+   "ondermijning"
+  ],
+  "samenvatting": "Politie, douane en belastingdienst werken samen tegen ondermijning Omroep Almere",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbXRaVm9SZU8yVFUwRjFHYTFmU0dHb2FVQTZKYlFSN0JrZEgxbWdUeVFCTDBGWGxJeER2SUNZdUdwdHhQSnJzSkkxZm9vS2N2WkVTZ0JkY3dnRlZKNGY5bmJwcHZZczVKcFJkLW1QdU1ZSDdJWFZ5YzZhQy1pOEx3YUpYSE16Mk5yRGtvb0YySTctR3ZFOVVCUFd2UUFmOG8?oc=5"
+ },
+ {
+  "id": "f9fa469152",
+  "datum": "2026-11-25",
+  "tijd": "20:44",
+  "nieuw": true,
+  "titel": "Zeewolde - Zeewolde herkent problemen met afvalcontainers voor mindervaliden niet, maar wil wel meedenken",
+  "bron": "Omroep Flevoland",
+  "verzameld_via": "Omroep Flevoland",
+  "soort": "Nieuwsbericht",
+  "regio": "Flevoland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Cocaine, haven & logistiek",
+   "Milieucriminaliteit & afval"
+  ],
+  "tags": [
+   "afval",
+   "burgemeester",
+   "container",
+   "gemeenteraad"
+  ],
+  "samenvatting": "De gemeente Zeewolde wist niet dat er veiligheids- of toegankelijkheidsproblemen waren bij de gft-containers bij appartementencomplexen. Dat schrijft het college van burgemeester en wethouders als antwoord op vragen van Zeewolde Liberaal. Zeewolde plaatste 40 containers bij appartementencomplexen, omdat de bewoners daa",
+  "link": "https://www.omroepflevoland.nl/nieuws/532733/zeewolde-herkent-problemen-met-afvalcontainers-voor-mindervaliden-niet-maar-wil-wel-meedenken"
+ },
+ {
+  "id": "3428b1b202",
+  "datum": "2026-11-25",
+  "tijd": "19:20",
+  "nieuw": true,
+  "titel": "OM eist tot 5 jaar cel voor fatale mishandeling Somalische asielzoeker in Den Haag",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "Het Openbaar Ministerie heeft tot vijf jaar cel geëist tegen drie mannen die verdacht worden van de fatale mishandeling van een 23-jarige Somalische man op het Plein in Den Haag in juli 2024. De man overleed door schedelbreuken en hersenletsel in het ziekenhuis. De drie verdachten, Alparslan C. (23), Onur A. (25) en Ma",
+  "link": "https://nos.nl/l/2641015"
+ },
+ {
+  "id": "8819521c11",
+  "datum": "2026-11-25",
+  "tijd": "18:36",
+  "nieuw": true,
+  "titel": "Aanhouding in onderzoek naar grootschalige belastingfraude",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "arbeidsmigranten"
+  ],
+  "samenvatting": "De FIOD heeft een 54-jarige Rotterdammer aangehouden op verdenking van grootschalige belastingfraude. De man vroeg vanaf eind maart zo'n 150 DigiD's aan voor arbeidsmigranten en weekte zo veel geld los bij de Belastingdienst.",
+  "link": "https://www.rijnmond.nl/nieuws/2288126/aanhouding-in-onderzoek-naar-grootschalige-belastingfraude"
+ },
+ {
+  "id": "5bdc5e8935",
+  "datum": "2026-11-25",
+  "tijd": "18:15",
+  "nieuw": true,
+  "titel": "Verdachte dodelijke steekpartij Houten is ex-partner van slachtoffer",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "burgemeester",
+   "geweld"
+  ],
+  "samenvatting": "De man die ervan verdacht wordt vandaag een vrouw van 34 jaar in Houten te hebben doodgestoken, is de ex-partner van het slachtoffer. Dat meldt de politie . Vanmiddag maakte de politie al bekend dat dader en slachtoffer elkaar kenden. De steekpartij was vanmorgen rond 08.30 uur in Houten. De verdachte viel de vrouw, di",
+  "link": "https://nos.nl/l/2641004"
+ },
+ {
+  "id": "3e6376b59c",
+  "datum": "2026-11-25",
+  "tijd": "18:11",
+  "nieuw": true,
+  "titel": "Burgemeesters Arnhem en Apeldoorn willen één front tegen zorgfraude maar aanpak blijft versnipperd",
+  "bron": "Head Topics",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "burgemeester",
+   "zorgfraude"
+  ],
+  "samenvatting": "Burgemeesters Arnhem en Apeldoorn willen één front tegen zorgfraude maar aanpak blijft versnipperd Head Topics",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjhKeGJiUlpEWnFmT1B5REZZMEMwSjM4Q1A3Q2F1U0pXNUFvMW5VZVpBVWRDQkZpLW0yM1V4SGxmeEJmQWpTMkdHdWtfWUZSbDVTc1h1WFpWZ0pERVpxbjJLRmFWTmNGYVlTeklXZ1doSHBIbkhZYmJpX0trUmY0bnpxZ1RtMG9RZmRTb2lRTE54WmRpTm10REZnR2s3MXc?oc=5"
+ },
+ {
+  "id": "d87935da09",
+  "datum": "2026-11-25",
+  "tijd": "18:01",
+  "nieuw": true,
+  "titel": "Bij de politierechter: Pascal en Felicia worden verdacht van witwassen, maar hun zaak wordt opnieuw uitgesteld",
+  "bron": "Head Topics",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Bij de politierechter: Pascal en Felicia worden verdacht van witwassen, maar hun zaak wordt opnieuw uitgesteld Head Topics",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3RzMW9Wd2J2MXA3eXFWd1h4S013MktoOUF0NkpDS3lIWkkza3pOVjlzLUJ4eWI0WUZtVkUySDlETDNBQW5fOV9hZnlqRFc5LVh3QWtrSlp6ek4wZHQ0bmxqWHJCV1FVUi1UQ3FvQW9ldmEtWnA0Q1pWTHFxanhlRElaUFFuMS1jMnZkWThNU1BaY21MQ0VhWEVndw?oc=5"
+ },
+ {
+  "id": "166ca39cfa",
+  "datum": "2026-11-25",
+  "tijd": "18:00",
+  "nieuw": true,
+  "titel": "Justitie eist werkstraf tegen chronisch zieke Erpenaar voor hennepkwekerij",
+  "bron": "Brabants Dagblad",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Justitie eist werkstraf tegen chronisch zieke Erpenaar voor hennepkwekerij Brabants Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaV9Zdm9HUlFlMElJVlNuNkVYS3JQS3VsaHhpRmV1N3JodjA0VVZ6QWczQlB5UGJUVmY5ZzRmZnJLcnVzVVdsT1BlMkM0eEYtTHA5ZkVFbFVwQno1NWNBMmZIbnE1bmNESE9BblEtWDBJNGhJMFo3OEZCTlBRUUxVMGV6TUtTbGx6Wnd0akRYN1Z6X0RPLW0wTWJQOXptYTVCT3Nkb1VvWFBpSndvTE1JcXRoci1iQQ?oc=5"
+ },
+ {
+  "id": "9832f7cac9",
+  "datum": "2026-11-25",
+  "tijd": "18:00",
+  "nieuw": true,
+  "titel": "Justitie eist werkstraf tegen chronisch zieke Erpenaar voor hennepkwekerij",
+  "bron": "AD.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Justitie eist werkstraf tegen chronisch zieke Erpenaar voor hennepkwekerij AD.nl",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkZ4UllGMElCRkdUaXZhbktIQURiQldRT2xXamhvSVVoWGxHUDFqX0JvY3R3YnFZTUhkcGtETTJUVkxBNVF1Ui1XNWN2MUF3b1dHX0YwajBkRXJLd1ctY2FXdDF4d1hVWVNTZ2hBdmVobk1Kdm9JRmdPeHNjUU5CbzNvNlFlRzZLYzlXY0JtY005aEk2SG1JU3JqWmE5Y0NRSVJ3eVZRQ25LNVlELTdSZmhGX3YzUQ?oc=5"
+ },
+ {
+  "id": "d0c1c39b8e",
+  "datum": "2026-11-25",
+  "tijd": "18:00",
+  "nieuw": true,
+  "titel": "Justitie eist werkstraf tegen chronisch zieke Erpenaar voor hennepkwekerij",
+  "bron": "BN DeStem",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Justitie eist werkstraf tegen chronisch zieke Erpenaar voor hennepkwekerij BN DeStem",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVB3S3N5bjdPdUh0TDJncHFDeDhlbjFvVWN1MkVuVnNFWHYyVHQ2ZTlKLVFSTlIzWkYya1VQVUVfZ2RQNGdfMktqVUpDY3R5Mjc0Tno1QjFTbE9RVFQtaW9wMWNBS3d3VUlESXMzTUhVQUJBZDZjd0s5ZWF2UlVaX0J5LWNicGlNRFBFanY3V0w5amoyRGZERDhDVHFzYUtQWVhGYlF3QUxnbUdNSnJsbG5tejYzNF9I?oc=5"
+ },
+ {
+  "id": "ba53dfe70f",
+  "datum": "2026-11-25",
+  "tijd": "18:00",
+  "nieuw": true,
+  "titel": "Justitie eist werkstraf tegen chronisch zieke Erpenaar voor hennepkwekerij",
+  "bron": "De Gelderlander",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Justitie eist werkstraf tegen chronisch zieke Erpenaar voor hennepkwekerij De Gelderlander",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR3FMVDdZRDV4SHRKMlZSVUxYZURuTzRsVDViQVF2UThmNXhtTk1BRGhobWo5c1JxVFpHZm9ldmcxOUp0QnNLSmZwRnhRcjJDSzVaRHNnVUEtUEpKdkdEak9FX2t3NkxIaDJxN19oaEd4d1JhODNfUXZ3ZEJGS3h1UlkxT1Vob0tvb3hlTk9EdzQtam5XTzhZRjNiQ00yYTBtbGxCaVFvOU45MkE4R1otRjEyeGVZcWpoOTQ3XzJ3?oc=5"
+ },
+ {
+  "id": "3544f6d929",
+  "datum": "2026-11-25",
+  "tijd": "18:00",
+  "nieuw": true,
+  "titel": "Justitie eist werkstraf tegen chronisch zieke Erpenaar voor hennepkwekerij",
+  "bron": "ed.nl",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "Justitie eist werkstraf tegen chronisch zieke Erpenaar voor hennepkwekerij ed.nl",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMmpTS0ZMaUlhMDJtb2xqY0pmWFo4U3RGYzVXSWJKcFlLQ3RrNzFjcG5sSTVGYjZXNGxacTdzZEJOaktxX1RLT1FEdnR3Z1JwbmV3S09xUUIyZWhqMzFNYkdpejYzYVBEemV0ZlU4b1o3SlNNeF9zU3V0eWRLVGVvd25pTTFKZFo0czhoN0FFdFRBRl9lTUl4X1BEQUpfNGtnTkV0YWQ0U0RYLXg2N1ZnTWVRY01WUQ?oc=5"
+ },
+ {
+  "id": "dc0f76213c",
+  "datum": "2026-11-25",
+  "tijd": "17:46",
+  "nieuw": true,
+  "titel": "Twee minderjarige verdachten van fatale beschieting Schiedam aangehouden in VK",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "moord",
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "In het Verenigd Koninkrijk zijn gisteravond nog twee minderjarige verdachten aangehouden die betrokken zouden zijn bij de schietpartij in Schiedam begin deze maand. Daarbij kwam een 19-jarige man om het leven en raakten twee andere jonge mannen gewond. In totaal zijn nu drie verdachten aangehouden voor de fatale beschi",
+  "link": "https://nos.nl/l/2641001"
+ },
+ {
+  "id": "8e75b2a00d",
+  "datum": "2026-11-25",
+  "tijd": "17:43",
+  "nieuw": true,
+  "titel": "Bij de politierechter: Pascal en Felicia worden verdacht van witwassen, maar hun zaak wordt opnieuw uitgesteld",
+  "bron": "Drimble",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Bij de politierechter: Pascal en Felicia worden verdacht van witwassen, maar hun zaak wordt opnieuw uitgesteld Drimble",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSjRvTXZPMjBmSUt4QnkzWHdzVmFZRjFmcG9vVFZFcklLWlBzMG85cUJacVZ5c1l5SElPLXpxNnJGa3I3VGZ6UVBXUEN0eHdRUXBTMzMtX3lta2QwXzVwRXQ3LWpXd19ZSXZfSmZTZjRYeXUtZ1Naall0N1RuOExOSzM3cm54U1h0ejMzZTBFYkJVZ2ZMNjR2WkhLMV91eXM4Tzg3VnhDQTc3Z0M1N2lJby1zakJKY0FlZ1hlUGxCWmlNdU8wS05OaS1oSGtOUGFhYnM2TUwyeWVaMWJPbHNXdzFUaVJfcUlRQlNGOEhiUQ?oc=5"
+ },
+ {
+  "id": "4f03d6e283",
+  "datum": "2026-11-25",
+  "tijd": "17:24",
+  "nieuw": true,
+  "titel": "Einde van tijdperk: groene Connexxion-bussen verdwijnen uit Noord-Holland",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Cocaine, haven & logistiek",
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "haven",
+   "netwerk"
+  ],
+  "samenvatting": "Busreizigers in het noorden en westen van Noord-Holland stappen vanaf de zomer van 2028 in bij Arriva. Daarmee verdwijnt busvervoerder Connexxion na bijna dertig jaar uit de provincie. Het bedrijf was de rechtstreekse opvolger van de Noord-Zuid-Hollandsche Vervoer Maatschappij (NZH), die al sinds de 20e eeuw het openba",
+  "link": "https://nos.nl/l/2640995"
+ },
+ {
+  "id": "54fed3086d",
+  "datum": "2026-11-25",
+  "tijd": "17:20",
+  "nieuw": true,
+  "titel": "Ernstige signalen van zorgfraude en honderden zorgbedrijven: ‘Keihard ingrijpen waar het moet’",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "zorgfraude"
+  ],
+  "samenvatting": "Ernstige signalen van zorgfraude en honderden zorgbedrijven: ‘Keihard ingrijpen waar het moet’ Omroep Gelderland",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFM2MjYwU19LWDBmeERZUzFhOG84TGZLMEJjYkpGLXZxU0xncmpDOGV5YzhfQ1BjSTdkRVl2TUlnYUtKd1dGLXNyM0s4bmxSZU9pT29WTGJGa0dDRFVaQ3pnaGpMUVNTSTFVRmI0VUZFNGRqV2VOYUNPZmY3dFBnVXJsOFJTZkhjSGxPVkgwMldFZFJkbmhkZGVIWWpjbFNDZ1NiYXh5eFBJY1R5d0NlWDVXQ2JUT24xN2x2NHFpN0FUMzg?oc=5"
+ },
+ {
+  "id": "7861f02ba0",
+  "datum": "2026-11-25",
+  "tijd": "17:00",
+  "nieuw": true,
+  "titel": "Zestien kinderen nog altijd zonder oplossing na sluiten Villa ExpertCare",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "Zestien meervoudig gehandicapte kinderen vallen nog altijd tussen wal en schip door de aankomende sluiting van de zorgvilla's van Villa ExpertCare. Het bedrijf stopt eind dit jaar met het bieden van zorg, maar voor een aantal kinderen is nog altijd geen vervangende plek gevonden. Minister Mirjam Sterk vindt daarom dat ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6036170/zestien-kinderen-nog-altijd-zonder-oplossing-na-sluiten-villa-expertcare"
+ },
+ {
+  "id": "aab8125b3b",
+  "datum": "2026-11-25",
+  "tijd": "17:00",
+  "nieuw": true,
+  "titel": "Ernstige signalen van zorgfraude en honderden zorgbedrijven: ‘Keihard ingrijpen waar het moet’",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "burgemeester",
+   "mensenhandel",
+   "toezichthouder",
+   "zorgfraude"
+  ],
+  "samenvatting": "Bij de gemeente Arnhem komen ernstige signalen binnen over een combinatie van zorgcriminaliteit, drugs en mensenhandel. Volgens de eigen toezichthouders kent Arnhem ‘meer zorgfraude dan gemiddeld’. Burgemeester Marcouch wil harder, slimmer en georganiseerder optreden. “Fraude voorkomen waar het kan, keihard ingrijpen w",
+  "link": "https://www.gld.nl/nieuws/8551375/ernstige-signalen-van-zorgfraude-en-honderden-zorgbedrijven-keihard-ingrijpen-waar-het-moet"
+ },
+ {
+  "id": "9d3712762a",
+  "datum": "2026-11-25",
+  "tijd": "17:00",
+  "nieuw": true,
+  "titel": "Gemeenten geven honderden miljoenen uit aan zorg, maar grip op fraude ontbreekt",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Bibob & bestuurlijke aanpak",
+   "Zorgfraude & sociale zekerheid"
+  ],
+  "tags": [
+   "burgemeester",
+   "zorgfraude"
+  ],
+  "samenvatting": "De burgemeesters van Arnhem en Apeldoorn willen de strijd aangaan tegen zorgfraude. Samen met andere gemeenten, zorgkantoren, het OM, de Belastingdienst en de inspecties willen de burgemeesters één front vormen tegen malafide zorgbedrijven. De voornemens zijn er, maar de praktijk is weerbarstig.",
+  "link": "https://www.gld.nl/nieuws/8551370/gemeenten-geven-honderden-miljoenen-uit-aan-zorg-maar-grip-op-fraude-ontbreekt"
+ },
+ {
+  "id": "e6129a534d",
+  "datum": "2026-11-25",
+  "tijd": "16:45",
+  "nieuw": true,
+  "titel": "Ossenaar om het leven gebracht: opgepakte plaatsgenoot langer vast",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging",
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "geweld",
+   "hennep",
+   "hennepkwekerij"
+  ],
+  "samenvatting": "De 46-jarige man uit Oss die wordt verdacht van betrokkenheid bij de dood van een man in het Limburgse Swolgen, blijft negentig dagen langer vastzitten. De rechtbank in Den Bosch heeft het voorarrest van de man opnieuw verlengd. Eerder werd dat voorarrest verlengd met twee weken. De man mag alleen contact hebben met zi",
+  "link": "https://www.omroepbrabant.nl/nieuws/6036171/ossenaar-om-het-leven-gebracht-opgepakte-plaatsgenoot-langer-vast"
+ },
+ {
+  "id": "a83bb026a3",
+  "datum": "2026-11-25",
+  "tijd": "16:42",
+  "nieuw": true,
+  "titel": "112-nieuws: Delfzijlster (30) vast na vondst hennepkwekerij • Vrachtwagen verliest deel van lading op A7",
+  "bron": "Head Topics",
+  "verzameld_via": "Nieuws — Hennep & wietteelt",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "hennepkwekerij"
+  ],
+  "samenvatting": "112-nieuws: Delfzijlster (30) vast na vondst hennepkwekerij • Vrachtwagen verliest deel van lading op A7 Head Topics",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWkZBd3pGb3Z0ZWIyeFpaTjFsZGZIV2Iwa2o0UEcwdkpCYUNhT0xGU1UtemNCbUE5T0VvUVo3Q2tMckNIWVM4TlEtdlBWN2RmTmZGTTdTSXpFdlZadVRoR004X0RmdUR2SEtHNGsxVGhyby1MeWZzQlZhaEFwWHdjRlByYXRVNk9uNlA4R0hDRmdXRHQ1SUFoRU1XbHM?oc=5"
+ },
+ {
+  "id": "dec2329b1e",
+  "datum": "2026-11-25",
+  "tijd": "16:25",
+  "nieuw": true,
+  "titel": "Schoenenketen vanHaren slachtoffer van cyberaanval: klantgegevens gelekt",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "beveiliging"
+  ],
+  "samenvatting": "De Waalwijkse schoenenketen vanHaren is getroffen door een cyberaanval. Klantgegevens zoals e-mailadressen, telefoonnummers en adresgegevens zijn gelekt. De schoenenketen heeft aangifte gedaan en is een onderzoek gestart. Hoelang onbevoegden toegang hadden tot de klantgegevens is niet duidelijk. Het is ook niet bekend ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6036174/schoenenketen-vanharen-slachtoffer-van-cyberaanval-klantgegevens-gelekt"
+ },
+ {
+  "id": "bf648959cd",
+  "datum": "2026-11-25",
+  "tijd": "16:08",
+  "nieuw": true,
+  "titel": "Geldkoerier van drugsbende komt weg met werkstraf: “In de val gelokt door zijn opdrachtgevers”",
+  "bron": "Nieuwsblad",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "bende",
+   "geldkoerier"
+  ],
+  "samenvatting": "Geldkoerier van drugsbende komt weg met werkstraf: “In de val gelokt door zijn opdrachtgevers” Nieuwsblad",
+  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSWszNEx0OU1hOENic2VNbGNzNTRhVWFnYm56QmhaSzlaU3o1bU5YUVhBd2tLODlGVC14ZTg2dlBOc3BXWm5kNFJsc3V1bUVtS3pMSXFwV3MyTFlPa2xYTkpvbkNuRnl0UDR6RTgxRjJHZV9kRGR2a3BtVlRxcHlGT3djLWg5T0Z3dXFMV0Vncjgzb1hqejBZNkRYWVUxZTNWS251LUVjM0tya1g5TGEya3lGOW5OWU04R19HMFJKZ3pMM09SclRiMUw0b2ZMNmFPQnZ1WHBXNEhiekl1QlJBRTZVdzl4WlI1S051RDJpYl9ELVEzMldCbDNMbThsZXBnYkxJVnM3WQ?oc=5"
+ },
+ {
+  "id": "a3001099f9",
+  "datum": "2026-11-25",
+  "tijd": "15:46",
+  "nieuw": true,
+  "titel": "Twee tieners in het buitenland aangehouden voor dodelijke schietpartij op Tico",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Geweld, liquidaties & bedreiging"
+  ],
+  "tags": [
+   "geweld"
+  ],
+  "samenvatting": "De politie meldt dat er dinsdagavond twee minderjarigen zijn aangehouden voor de schietpartij waarbij de 19-jarige Tico om het leven kwam. Het gaat om een 16-jarige Schiedammer en een 17-jarige Vlaardinger. De politie meldt ook dat er een connectie lijkt te zijn tussen de dodelijke schietpartij en enkele geweldsinciden",
+  "link": "https://www.rijnmond.nl/nieuws/2288104/twee-tieners-in-het-buitenland-aangehouden-voor-dodelijke-schietpartij-op-tico"
+ },
+ {
+  "id": "c2b7e19764",
+  "datum": "2026-11-25",
+  "tijd": "15:17",
+  "nieuw": true,
+  "titel": "Explosie in Bergen op Zoom: 'Gerichte aanslag op woonwagen Klaas Otto'",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden",
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "motorclub",
+   "no surrender",
+   "woning"
+  ],
+  "samenvatting": "Meerdere woningen en auto’s zijn dinsdagnacht beschadigd geraakt door een explosie aan de Rijsselbergen in Bergen op Zoom. De politie gaat uit van brandstichting. Volgens het Brabants Dagblad was de explosie een aanslag op de woonwagen van Klaas Otto, de oprichter van de verboden motorclub No Surrender. Dinsdagnacht sc",
+  "link": "https://www.omroepbrabant.nl/nieuws/6036169/explosie-in-bergen-op-zoom-gerichte-aanslag-op-woonwagen-klaas-otto"
+ },
+ {
+  "id": "a042b1ca96",
+  "datum": "2026-11-25",
+  "tijd": "14:33",
+  "nieuw": true,
+  "titel": "OM: Drie jaar celstraf en rijontzegging voor veroorzaken dodelijk ongeval Lelystad - Openbaar Ministerie",
+  "bron": "Openbaar Ministerie",
+  "verzameld_via": "Openbaar Ministerie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht"
+  ],
+  "tags": [],
+  "samenvatting": "OM: Drie jaar celstraf en rijontzegging voor veroorzaken dodelijk ongeval Lelystad Openbaar Ministerie",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSW5PQ0h4WC1xN0xlcmZqeVk1czdrZ1E4cm0xMzV3cmU2RXkycmVjc2U3cjZnOFZZcms5OFlSaFVhMHRYMmJLLU16T19pTlRMdHo2U2JDN3lMbW9hbmJ2VXhpTjN2Z3hrX3JzcGY0YllBTEhvckt5RmxtX2llUTFiSzRGYXFMN19NVkZGbThIZkRYR3BJS1JfQV9hREE1NHpYbVZYeGx5LU5tN2JiclF0NG00dlhxY19qLWZTTmVjTQ?oc=5"
+ },
+ {
+  "id": "02b2c39d59",
+  "datum": "2026-11-25",
+  "tijd": "14:26",
+  "nieuw": true,
+  "titel": "Man zet pistool op hoofd van eigen moeder en terroriseert ex-schoonfamilie: 'Niet praten over mijn kind'",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Drugsproductie & labs"
+  ],
+  "tags": [
+   "ketamine"
+  ],
+  "samenvatting": "Een man met een ketamineverslaving staat voor de rechter omdat hij onder meer zijn ex-schoonfamilie terroriseerde en een pistool op het hoofd zijn moeder zette. Diezelfde moeder is overigens 'gewoon' naar de rechtbank gekomen om haar zoon bij te staan.",
+  "link": "https://www.rijnmond.nl/nieuws/2287462/man-zet-pistool-op-hoofd-van-eigen-moeder-en-terroriseert-ex-schoonfamilie-niet-praten-over-mijn-kind"
+ },
+ {
+  "id": "966f036d95",
   "datum": "2026-11-25",
   "tijd": "14:25",
   "nieuw": true,
-  "titel": "Bant - Ernstig ongeval met drie voertuigen op A6 bij Bant",
+  "titel": "Bant - Twee gewonden bij ongeluk in file op A6 bij Bant",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
   "soort": "Nieuwsbericht",
@@ -15,8 +637,84 @@
   "tags": [
    "vrachtwagen"
   ],
-  "samenvatting": "Op de A6 bij Bant, in de richting van Lemmer, heeft woensdagmiddag rond 12.20 uur een ernstig verkeersongeval plaatsgevonden. Of er personen gewond zijn geraakt, is nog niet bekend. Meerdere hulpdiensten, waaronder ambulances, de brandweer en een traumahelikopter, werden opgeroepen om hulp te verlenen. Bij het ongeluk ",
-  "link": "https://www.omroepflevoland.nl/nieuws/532723/ernstig-ongeval-met-drie-voertuigen-op-a6-bij-bant"
+  "samenvatting": "Twee personen zijn woensdagmiddag gewond geraakt bij een ongeluk op de A6 bij Bant. Dat meldt de politie. Het ongeluk gebeurde rond 12.30 uur. De snelweg richting Lemmer was op dat moment afgesloten vanwege een vrachtwagen met pech, meldt een 112-verslaggever. Het verkeer moest bij Bant de A6 verlaten. In de file voor ",
+  "link": "https://www.omroepflevoland.nl/nieuws/532723/twee-gewonden-bij-ongeluk-in-file-op-a6-bij-bant"
+ },
+ {
+  "id": "badb4dc8af",
+  "datum": "2026-11-25",
+  "tijd": "14:02",
+  "nieuw": true,
+  "titel": "Vrouw overleden nadat man haar neersteekt op fietspad in Houten",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Jeugd & jonge aanwas"
+  ],
+  "tags": [
+   "school"
+  ],
+  "samenvatting": "De 34-jarige vrouw die vanmorgen werd neergestoken door een man op een fatbike in Houten, heeft het niet overleefd. De verdachte is een 39-jarige man uit Utrecht. Ze kenden elkaar, laat de politie weten. De steekpartij was vanmorgen rond 08.30 uur in Houten. De verdachte viel de vrouw, die op een bakfiets reed, aan met",
+  "link": "https://nos.nl/l/2640971"
+ },
+ {
+  "id": "a1c9071a67",
+  "datum": "2026-11-25",
+  "tijd": "13:28",
+  "nieuw": true,
+  "titel": "Man (57) opgepakt voor mishandeling en mogelijk seksueel misbruik van dieren op kinderboerderij",
+  "bron": "Rijnmond",
+  "verzameld_via": "Rijnmond",
+  "soort": "Nieuwsbericht",
+  "regio": "Rotterdam",
+  "dossiers": [
+   "Buitengebied & recreatie"
+  ],
+  "tags": [
+   "boerderij"
+  ],
+  "samenvatting": "Een 57-jarige man uit de gemeente Molenlanden is zondag opgepakt voor het meermaals mishandelen van dieren op een kinderboerderij. Hij zou zowel afgelopen zondag als in september hebben toegeslagen. Het Openbaar Ministerie (OM) onderzoekt of er sprake is geweest van seksueel misbruik van de dieren.",
+  "link": "https://www.rijnmond.nl/nieuws/2288018/man-57-opgepakt-voor-mishandeling-en-mogelijk-seksueel-misbruik-van-dieren-op-kinderboerderij"
+ },
+ {
+  "id": "11aa8eca98",
+  "datum": "2026-11-25",
+  "tijd": "13:27",
+  "nieuw": true,
+  "titel": "Pakketbezorger leidt politie naar schuur vol vuurwerk: agenten nemen ruim 200 stuks zware knallers in beslag",
+  "bron": "Omroep Zeeland",
+  "verzameld_via": "Omroep Zeeland",
+  "soort": "Nieuwsbericht",
+  "regio": "Zeeland",
+  "dossiers": [
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "vuurwerk"
+  ],
+  "samenvatting": "De politie roept mensen op die vermoeden dat er in hun omgeving vuurwerk wordt opgeslagen of verkocht, zich te melden.",
+  "link": "https://www.omroepzeeland.nl/nieuws/18980187/pakketbezorger-leidt-politie-naar-schuur-vol-vuurwerk-agenten-nemen-ruim-200-stuks-zware-knallers-in-beslag"
+ },
+ {
+  "id": "68da432f9c",
+  "datum": "2026-11-25",
+  "tijd": "13:15",
+  "nieuw": true,
+  "titel": "Voorarrest Jan G. opnieuw verlengd, ook heeft hij een nieuwe advocaat",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Cocaine, haven & logistiek"
+  ],
+  "tags": [
+   "cocaïne"
+  ],
+  "samenvatting": "De Raadkamer van de rechtbank Oost-Brabant heeft besloten dat drugscrimineel Jan G. nog zeker zestig dagen blijft vastzitten. Dit voorarrest geldt voor de cocaïnezaak waarvoor hij in september is opgepakt. Vorige week werd hij ook aangehouden voor een nieuwe drugszaak, terwijl hij al gevangen zat.",
+  "link": "https://www.gld.nl/nieuws/8549436/voorarrest-jan-g-opnieuw-verlengd-ook-heeft-hij-een-nieuwe-advocaat"
  },
  {
   "id": "70ff692fb5",
@@ -29,22 +727,15 @@
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Autobranche & garages",
    "Buitengebied & recreatie",
    "Cocaine, haven & logistiek",
    "Drugsproductie & labs",
-   "Trustkantoren & rechtspersonen",
-   "Vastgoed & huisvesting",
-   "Wapens, explosieven & vuurwerk",
-   "Witwassen & geldstromen"
+   "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "bestuurder",
-   "contant geld",
    "douane",
-   "garage",
    "loods",
-   "pand"
+   "vuurwerk"
   ],
   "samenvatting": "In een loods in Rotterdam-Hoogvliet heeft de politie duizenden kilo's illegaal vuurwerk gevonden. Volgens de politie gaat het om de grootste vangst van het jaar. De politie kwam de partij op het spoor dankzij een autocontrole door de douane. Douaniers vonden zaterdagavond in de kofferbak van de wagen illegaal vuurwerk ",
   "link": "https://nos.nl/l/2640958"
@@ -157,12 +848,10 @@
   "soort": "Nieuwsbericht",
   "regio": "Noord-Brabant",
   "dossiers": [
-   "Geweld, liquidaties & bedreiging",
    "Wapens, explosieven & vuurwerk"
   ],
   "tags": [
-   "explosie",
-   "moord"
+   "explosie"
   ],
   "samenvatting": "Levenslang is de zwaarste straf die je in Nederland kunt krijgen. Wie die straf krijgt, kan in principe de rest van zijn leven achter de tralies blijven. Dinsdag werd in twee verschillende rechtszaken levenslang geëist. Tegen Moshtag B., die volgens justitie opdracht gaf voor de verwoestende explosie aan de Tarwekamp i",
   "link": "https://www.omroepbrabant.nl/nieuws/6036014/brabants-rijtje-levenslanggestraften-krijgt-mogelijk-twee-namen-erbij"
@@ -171,7 +860,7 @@
   "id": "b3e010acc4",
   "datum": "2026-11-25",
   "tijd": "10:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man krijgt 2 jaar effectief en moet 80 000 euro terugbetalen aan Fluvius voor wietplantage in Tienen",
   "bron": "ROBtv",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -190,7 +879,7 @@
   "id": "e59b6a7db4",
   "datum": "2026-11-25",
   "tijd": "10:07",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeker vijf zwaargewonden bij ongeluk tussen vrachtwagen en lijnbus bij Lelystad",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -209,57 +898,26 @@
   "id": "eac89635b1",
   "datum": "2026-11-25",
   "tijd": "09:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "'Ggz-psychiater die hielp bij neo-nazikooigevechten was adviseur voor justitie'",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
   "soort": "Nieuwsbericht",
   "regio": "Landelijk",
   "dossiers": [
-   "Bibob & bestuurlijke aanpak",
-   "Buitengebied & recreatie",
-   "Criminele samenwerkingsverbanden",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas",
-   "Wapens, explosieven & vuurwerk"
+   "Criminele samenwerkingsverbanden"
   ],
   "tags": [
-   "erf",
-   "gemeenteraad",
-   "leider",
-   "moord",
-   "organisatie",
-   "school"
+   "organisatie"
   ],
   "samenvatting": "Een van de medische hulpverleners die tijdens neonazi-kooigevechten optraden als 'medic' en te zien waren in de Zembla- documentaire De neonazi - files werkte voor verschillende ggz-organisaties. Dat blijkt uit nieuw onderzoek van Zembla . In de uitzending, die vorige week verscheen, waren beelden te zien van neonazist",
   "link": "https://nos.nl/l/2640929"
  },
  {
-  "id": "b8f8f8666e",
-  "datum": "2026-11-25",
-  "tijd": "09:37",
-  "nieuw": true,
-  "titel": "Lelystad - Twee kinderen onder vijf zwaargewonden bij busongeluk op Larserweg",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
-  "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Trustkantoren & rechtspersonen"
-  ],
-  "tags": [
-   "bestuurder",
-   "vrachtwagen"
-  ],
-  "samenvatting": "Bij een aanrijding tussen een lijnbus en een vrachtwagen bij Lelystad zijn woensdagochtend vijf buspassagiers ernstig gewond geraakt, onder wie twee kinderen. Het ongeluk gebeurde rond 08.00 uur op de Larserweg, ter hoogte van de Vogelweg. Het achterste gedeelte van de vrachtwagen, die heipalen vervoerde, boorde zich i",
-  "link": "https://www.omroepflevoland.nl/nieuws/532684/twee-kinderen-onder-vijf-zwaargewonden-bij-busongeluk-op-larserweg"
- },
- {
   "id": "d96633691b",
   "datum": "2026-11-25",
   "tijd": "09:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Kosten MH17-ramp voor overheid vorig jaar verder opgelopen",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -280,7 +938,7 @@
   "id": "0412607e6d",
   "datum": "2026-11-25",
   "tijd": "09:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Jongen (19) krijgt straf voor meehelpen bij overval",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -299,7 +957,7 @@
   "id": "096983acb6",
   "datum": "2026-11-25",
   "tijd": "08:13",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bijna 6500 kilo illegaal vuurwerk gevonden in pand, twee mannen opgepakt",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -320,7 +978,7 @@
   "id": "765b6d454a",
   "datum": "2026-11-25",
   "tijd": "08:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bij zeker een kwart van alle verkeersdoden is alcohol in het spel",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -341,7 +999,7 @@
   "id": "3e2f4a8e9f",
   "datum": "2026-11-25",
   "tijd": "06:48",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Wekdienst 25/11: NAVO-chef Rutte praat met Trump • Strafeis mishandeling Plein Den Haag",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -360,7 +1018,7 @@
   "id": "0080a4784c",
   "datum": "2026-11-25",
   "tijd": "06:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM eist tot 12 jaar celstraf tegen ‘Kempenaargroep’ uit Lelystad - Openbaar Ministerie",
   "bron": "Openbaar Ministerie",
   "verzameld_via": "Openbaar Ministerie",
@@ -374,10 +1032,31 @@
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSmJCenAzVnRRa1ZYN2ZVaXBDMGhnVEFLeEZPQjNfZzQ4TlVJLXBzVXV2RG5EMzl2SU1OUngwZnBDQTdIVUxDSWRQUFJqeWxnMHFWSG9qMHA1ZE5jbnNnQ2NuazZVbVd2anZvM3o5b0lrM1c5UzF5TXVOR08yQXpHVmdJZ0tpdnBCZC15X3BEWFhFSUVVSVI3cDZDSmR1LXJ3OWp6WXpPZ2xlUQ?oc=5"
  },
  {
+  "id": "2cfcf3092e",
+  "datum": "2026-11-25",
+  "tijd": "04:58",
+  "nieuw": false,
+  "titel": "Politie stuit op wapens, drugs en geld in woning; bewoner aangehouden - Politie.nl",
+  "bron": "Politie",
+  "verzameld_via": "Politie",
+  "soort": "Persbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "wapen",
+   "woning"
+  ],
+  "samenvatting": "Politie stuit op wapens, drugs en geld in woning; bewoner aangehouden Politie.nl",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWZwZDFkYW1IT3lBSGNQU1F5d3pfWUM0T0Q1OW5JSXFrTmVadkxQcUg2eHN6UkttVl9WTWpIc1JTalJaeU12RjRKX2Z2TUo1YXZkTTRsanFmSS1ERFpqTWd4VWtmN19vaTdZU3dsWlNtbk9jNWtMOUlTVWEwR0ZtTFl0MlBHdzJFTm9kcXVReF83SEZ3Zk5GaXBMaEdacnlvQzNySU1ZUXRrZzNHMEI3andORVRmeGhSLVljN01tTQ?oc=5"
+ },
+ {
   "id": "eb96db295a",
   "datum": "2026-11-25",
   "tijd": "04:34",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Mannen gaan ervandoor met geld en spullen na overval in huis in Oss",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -396,7 +1075,7 @@
   "id": "101bdc1130",
   "datum": "2026-11-25",
   "tijd": "02:04",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "(video) Hasseltse (ex-)ondernemers en schooljuf staan terecht voor opzetten van drugslab in villa",
   "bron": "HBVL",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -421,7 +1100,7 @@
   "id": "53109be3e3",
   "datum": "2026-11-25",
   "tijd": "01:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Schooljuf en twee (ex-)ondernemers staan terecht voor opzetten van drugslab in villa",
   "bron": "Nieuwsblad",
   "verzameld_via": "Nieuws — Drugsproductie & labs",
@@ -441,29 +1120,10 @@
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQUU3VlhfTk0tVGw1dGJWYmhhZ2Q2Z3RCUi1ZbmRJaktIV3lBNGpJWnlHNUhjTWZHZU03NFlqNExhQ1hFN1FWLUQ2UlQyZFdvczJ3Rk5tOERqVWgxeDFUaXo5Z0ttdk5VOUFCbVNkVlg2Q1hNdVN0dGlzYXZEdHJpcGppVVlKOEZjV25teXVCME1wTXpseDJESDRGSEZKVjZjWDFmcnB5YVo0V0JDQWl5NVVRVWFlOFpnTV9lMk1UdFZHZEdQeGtHWldYOHRiZWs?oc=5"
  },
  {
-  "id": "9350094bb1",
-  "datum": "2026-11-24",
-  "tijd": "22:24",
-  "nieuw": true,
-  "titel": "Zwartrijder slaat NS-conducteur bewusteloos met volle wijnfles",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Geweld, liquidaties & bedreiging"
-  ],
-  "tags": [
-   "geweld"
-  ],
-  "samenvatting": "Een treinconducteur is afgelopen zaterdag bewusteloos geslagen door een zwartrijder. De hoofdconducteur werd van achteren op zijn hoofd geslagen met een volle wijnfles. Dat heeft de NS bevestigd na berichtgeving van diverse media. \"De fles brak volledig\", meldde spoorwegvakbond VVMC gisteren op zijn website . Volgens d",
-  "link": "https://nos.nl/l/2640889"
- },
- {
   "id": "5363f6a8f9",
   "datum": "2026-11-24",
   "tijd": "22:14",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hennepkwekerij ontdekt aan de Venloseweg in Grubbenvorst",
   "bron": "Omroep Horst aan de Maas",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -482,7 +1142,7 @@
   "id": "36ebf5af8b",
   "datum": "2026-11-24",
   "tijd": "21:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Broers opgepakt in groot onderzoek naar zorgfraude: miljoenen besteed aan auto’s, designertassen en wapens",
   "bron": "AD.nl",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -503,7 +1163,7 @@
   "id": "fc097e5ab5",
   "datum": "2026-11-24",
   "tijd": "21:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Broers opgepakt in groot onderzoek naar zorgfraude: miljoenen besteed aan auto’s, designertassen en wapens",
   "bron": "ed.nl",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -524,7 +1184,7 @@
   "id": "cb0b672bf3",
   "datum": "2026-11-24",
   "tijd": "21:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Broers opgepakt in groot onderzoek naar zorgfraude: miljoenen besteed aan auto’s, designertassen en wapens",
   "bron": "BN DeStem",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -545,7 +1205,7 @@
   "id": "d1710569b2",
   "datum": "2026-11-24",
   "tijd": "21:49",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Broers opgepakt in groot onderzoek naar zorgfraude: miljoenen besteed aan auto’s, designertassen en wapens",
   "bron": "Brabants Dagblad",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -566,7 +1226,7 @@
   "id": "466241879b",
   "datum": "2026-11-24",
   "tijd": "21:11",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Lelystad - Kopstukken Kempenaar Groep horen 12 jaar cel eisen voor reeks misdrijven",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -588,7 +1248,7 @@
   "id": "208b5c39e6",
   "datum": "2026-11-24",
   "tijd": "20:44",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Huawei schuldig bevonden aan bankfraude en witwassen in VS",
   "bron": "Investing.com",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -607,7 +1267,7 @@
   "id": "e482e9804e",
   "datum": "2026-11-24",
   "tijd": "20:36",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Hennepkwekerij aangetroffen aan Venloseweg in Grubbenvorst",
   "bron": "NU Horst aan de Maas",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -626,7 +1286,7 @@
   "id": "e425fe7c32",
   "datum": "2026-11-24",
   "tijd": "20:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Zeven jaar cel geëist, maar Zwolse vastgoedman vrijgesproken in zaak drugslabs",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -647,7 +1307,7 @@
   "id": "c03d75842a",
   "datum": "2026-11-24",
   "tijd": "20:23",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nacht van ongelukken in Groningen: file op A7, hennepkwekerij ontmanteld en brand in Veendam",
   "bron": "Head Topics",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -666,7 +1326,7 @@
   "id": "8f9584134a",
   "datum": "2026-11-24",
   "tijd": "19:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Nabestaanden Tarwekamp over strafeisen: 'Minder was een teleurstelling'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -682,23 +1342,29 @@
   "link": "https://www.omroepbrabant.nl/nieuws/6036020/nabestaanden-tarwekamp-over-strafeisen-minder-was-een-teleurstelling"
  },
  {
-  "id": "48cc800a55",
+  "id": "6195e6ab29",
   "datum": "2026-11-24",
-  "tijd": "19:28",
+  "tijd": "19:30",
   "nieuw": false,
-  "titel": "Almere - Discussie over bestuursstijl van Almeerse D66-wethouder Vroege",
-  "bron": "Omroep Flevoland",
-  "verzameld_via": "Omroep Flevoland",
+  "titel": "Hasseltse (ex-)ondernemers en schooljuf staan terecht voor opzetten van drugslab in villa",
+  "bron": "HBVL",
+  "verzameld_via": "Nieuws — Drugsproductie & labs",
   "soort": "Nieuwsbericht",
-  "regio": "Flevoland",
+  "regio": "Landelijk",
   "dossiers": [
+   "Drugsproductie & labs",
+   "Jeugd & jonge aanwas",
+   "Ondernemers & weerbaarheid",
    "Trustkantoren & rechtspersonen"
   ],
   "tags": [
-   "bestuurder"
+   "bv",
+   "drugslab",
+   "ondernemers",
+   "school"
   ],
-  "samenvatting": "De bestuursstijl van de Almeerse wethouder Jan-Bert Vroege staat ter discussie. Vroege is hierop aangesproken door zijn eigen partij D66, die pittige gesprekken met hem heeft gevoerd. De wethouder ging in juli in Almere aan de slag. Daarvoor was hij stadsdeelbestuurder van Amsterdam-Oost. Weekblad Almere Deze Week meld",
-  "link": "https://www.omroepflevoland.nl/nieuws/532627/discussie-over-bestuursstijl-van-almeerse-d66-wethouder-vroege"
+  "samenvatting": "Hasseltse (ex-)ondernemers en schooljuf staan terecht voor opzetten van drugslab in villa HBVL",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUi0zMkVpTkVqVXdUVHJuZ2RmUHFZSjlSLTJ1OFpDS1RySkU0OF83SWt2UURyMkdwZU8waS1SRVFMREtUYnl5eUV6VTdXMmlMb1hOOVBZdVlZclRwVzZLb3RXZ1JlYkhzOGhYZGl1OTVJbFpWS0psdk1VX1BqMXhUUHRjT1kwNFZ5dWp6ZFJwWUlIU2hhWkJEOFd2SkR3UE5aTUh2SEZNVFducFNNN21RMGsyUE9iZmZuc254QlZUTDlTQzdtUnNOUHRTSTRQYmN4bW5HRlBMc0c1c3hVMUhHZkhqc09aNmMtQ0ROR25R?oc=5"
  },
  {
   "id": "32f3c73a44",
@@ -718,29 +1384,6 @@
   ],
   "samenvatting": "Koningin Mathilde bezoekt vzw Payoke, die aantal slachtoffers van mensenhandel ziet stijgen GVA",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR1BVaFAyMHJhbGlKMmRjNWpBa3ZiU3VmR1h6alVsbXVueXRvWVFVWjljMGxydWk2Ty1ZOWdLZXEzQW45a3BHeFY2YkRldUdnV0JlcGtzSXFBd3dodUZRUjBPT2IxcTVPTDBWZmZENzUyWkxNT1pHeVFYLXdhRkxGRnl1U19yelFrWWJ5dm9nSW9ZdldoVG1iMUZQOGM5MG42MVp2djg0aWpDT05xMG1uTVRlY2FrdmNqQ0ozb01HbjZlcEN5UnNF?oc=5"
- },
- {
-  "id": "d2bf949e20",
-  "datum": "2026-11-24",
-  "tijd": "19:16",
-  "nieuw": false,
-  "titel": "Hogeschool Rotterdam stelt docent uit neonazi-documentaire Zembla op non-actief",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Buitengebied & recreatie",
-   "Geweld, liquidaties & bedreiging",
-   "Jeugd & jonge aanwas"
-  ],
-  "tags": [
-   "erf",
-   "geweld",
-   "school"
-  ],
-  "samenvatting": "Een hbo-docent Medische Hulpverlening is door zijn werkgever Hogeschool Rotterdam op non-actief gesteld, omdat hij voorkomt in de Zembla- documentaire De neonazi - files . In de uitzending, die vorige week verscheen, zijn beelden te zien van neonazistische bewegingen die onder meer Adolf Hitler vereren en onderling koo",
-  "link": "https://nos.nl/l/2640876"
  },
  {
   "id": "dfe5469395",
@@ -785,25 +1428,6 @@
   ],
   "samenvatting": "Acht mensen zijn opgepakt op verdenking van deelname aan een criminele organisatie. De groep zou vele miljoenen euro's crimineel geld hebben witgewassen via zzp'ers en detacheringsbureaus die personeel leveren aan zorginstellingen. Meerdere woningen en bedrijfspanden in Nederland en Spanje zijn doorzocht. Daarbij werde",
   "link": "https://nos.nl/l/2640859"
- },
- {
-  "id": "677778fa34",
-  "datum": "2026-11-24",
-  "tijd": "18:15",
-  "nieuw": false,
-  "titel": "Bolle Jos' broer vrij en ambulances over de grens: dit gebeurde vandaag",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Witwassen & geldstromen"
-  ],
-  "tags": [
-   "witwassen"
-  ],
-  "samenvatting": "De vrijlating van een witwasverdachte, Toos van der Valk op de set van haar Netflix-ontvoeringsserie en Belgische spoedzorg naar Brabantse ziekenhuizen. Deze vijf verhalen moet je dinsdag gelezen hebben. Harry Leijdekkers, de broer van Bolle Jos uit Breda, komt vrij in afwachting van zijn witwaszaak. Hij wordt verdacht",
-  "link": "https://www.omroepbrabant.nl/nieuws/6036007/bolle-jos-broer-vrij-en-ambulances-over-de-grens-dit-gebeurde-vandaag"
  },
  {
   "id": "d1deaf37b0",
@@ -1218,27 +1842,6 @@
   ],
   "samenvatting": "Het Openbaar Ministerie (OM) in Arnhem wil dat Jan H. (53) drie jaar achter slot en grendel verdwijnt voor een verkrachtingszaak van 33 jaar geleden. De man verklaarde op de zitting dat hij zich er weinig van kan herinneren. \"Als het slachtoffer het zegt, zal het wel zo zijn\", zei de man. Hij kon na al die jaren worden",
   "link": "https://www.gld.nl/nieuws/8551219/hij-scheurde-de-slip-van-mijn-lijf-terwijl-hij-schreeuwde-dat-hij-mij-en-mijn-zoontje-zou-vermoorden"
- },
- {
-  "id": "37b507e302",
-  "datum": "2026-11-24",
-  "tijd": "11:52",
-  "nieuw": false,
-  "titel": "Broer van Bolle Jos vrij in witwaszaak van 15 miljoen: 'Geen vluchtgevaar'",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Crypto & digitaal geld",
-   "Witwassen & geldstromen"
-  ],
-  "tags": [
-   "sky ecc",
-   "witwassen"
-  ],
-  "samenvatting": "Harry Leijdekkers, de broer van 'Bolle Jos' Leijdekkers uit Breda, komt in afwachting van zijn witwaszaak op vrije voeten. De rechtbank in Rotterdam ging dinsdag akkoord met het verzoek tot vrijlating dat zijn advocaat deed tijdens een tweede inleidende zitting. Volgens advocaat Guy Weski waren er voldoende redenen om ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6035951/broer-van-bolle-jos-vrij-in-witwaszaak-van-15-miljoen-geen-vluchtgevaar"
  },
  {
   "id": "9ac3ae068d",
@@ -2428,6 +3031,25 @@
   ],
   "samenvatting": "Drie glazen boxen op de Heemskerkse markt om mensenhandel tegen te gaan: ’Iedere maand doen we wel iets om het onder de aandacht te brengen en te houden’ Noordhollands Dagblad",
   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNVG5vbUc3eVZOSEhtbzc2RTNXVHRZVHdhakg5a2U1UmdxYTBvQzBzelp6YzlmRUkxaWRfS0dBcC01d2lKUEF1bFRtcFl4ZUVxSk44Wi14V05mWkY1SHdMSDg0UVRHM2tlRC15WEFPalA1MXk0UWU2UTZxTTRzZm1JVjRXOEVXMEtZejVjVTB5cGdxaWxLYVJ1X0hYVFVGMmk5VlFMazBwQkhBTThfNU4tZDRpdFE4RVRTdXF1Z0NDTng4M2J6d29KeGF5X2kzWHFYRVZZTWRqa2R2SC1YQUhaZzA4SlR2c0RYYllOREstM3E4dmlEZkE2TFItMGpaNThiNFBKTTBLcXgxVFduV2wtZENxVkdHaGQzNzNxcEtUUUFSNnZMcEJmal96NVhWSW1Pb3VuUlRIcG1tdw?oc=5"
+ },
+ {
+  "id": "ebb6d7034c",
+  "datum": "2026-11-21",
+  "tijd": "05:00",
+  "nieuw": false,
+  "titel": "Drie glazen boxen op de Heemskerkse markt om mensenhandel tegen te gaan: ’Iedere maand doen we wel iets om het onder de aandacht te brengen en te houden’",
+  "bron": "Haarlems Dagblad",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Drie glazen boxen op de Heemskerkse markt om mensenhandel tegen te gaan: ’Iedere maand doen we wel iets om het onder de aandacht te brengen en te houden’ Haarlems Dagblad",
+  "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQblE1TlZqb05TWVRLUEFjeFZyeWZxUExmYlhtOW5XZ2RuWmdsbmRGc21YQmlDVFotaldRZE1YNTJqMmdtQlhoZVNKYzhZNmZzckM2OTctZW90cmhtVnRZQUM5R21uTTZqTGJua3ZuekhPTmQ2ZUxDRlQ5ZEdIWEx5SDRNYjZRNzc3cG5Nb2xUNW1iMUdGV2RTaDZCaHlOT2ZhT0tqdVdRUzl2RkwxSzN5UllzbDVIZDBuaURJQWU4aUM0NWxacTFZOEVCa0JQV3Y5eDJXX2Z3ajRBYXdGbFZlV3FxSk8yblRmVzRIUTN3aDJ4cEZ0cGp2b0plQTFiMVpkOTdNVi1LQTF5VXlXaUVfbVpXemtpamxRQkNpS3RiNXduWkVhVG5FTF9LQ0d4bUVJMk9r?oc=5"
  },
  {
   "id": "72094c204a",
@@ -11853,6 +12475,25 @@
   ],
   "samenvatting": "Aantal arrestaties voor mensensmokkel aan kust blijft hoog: “Het bleef dit weekend niet bij die ene actie” GVA",
   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU2MtOWVrbjBfS1NxaF92VFZWdWZhSFEyRkwwUG1UZ2xMa2RuTWRpQnVfbUI1bDB6SVlzMmMyLVJORHRYSGZyc3pKZU1ZU2RaeXdqZXlCek1QQkV2aXdOTk5hTmx3S2pUM3V6a09wSm0wSWpCeHZsWmY5SC1mQ3paTkJNbzlxelZ4WWt3OXNKM21GVEhJWGp6VUJTa25zNU9zSWdiUDlibzVTaEt2SUFYWXUtM1VwaU93SjNPTFQ4Z2dJUFhJU0pRMno4eF9pWGdZb011Rk1tYjJpWWdxRHJMZE53?oc=5"
+ },
+ {
+  "id": "18f4d467e7",
+  "datum": "2026-11-09",
+  "tijd": "08:00",
+  "nieuw": false,
+  "titel": "Magyar: broer van Orbán opgepakt op verdenking mensenhandel",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel"
+  ],
+  "tags": [
+   "mensenhandel"
+  ],
+  "samenvatting": "Magyar: broer van Orbán opgepakt op verdenking mensenhandel De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzhFSHVKYWg5UFE2Nk1GOFZlQTc2dkFQcGotMlVNMHVmbm5PcTVoSEhBZ3lVdkgtV0pMcGhwVzh1V0VyZnFyY18yY3dBVzZVbWwwX3E2YWcxNXM4dXk4WC1TWHhFR2Y2Q0VUUXJFcFZjakY1MS1sVTkzN19PbTNKY1FTQ0RMbld4TkFKR1RXNVRHZURuQnRScjJORzBLWTZLUHY2ZjYzdFM5cnBsNWc?oc=5"
  },
  {
   "id": "8432421b74",
