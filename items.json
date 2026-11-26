@@ -1,5 +1,69 @@
 [
  {
+  "id": "3df28c8cab",
+  "datum": "2026-11-26",
+  "tijd": "06:05",
+  "nieuw": true,
+  "titel": "Tienduizenden patiënten zonder medicinale wiet nadat ministerie contract met kweker stopzette",
+  "bron": "Follow the Money",
+  "verzameld_via": "Follow the Money",
+  "soort": "Onderzoek",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Hennep & wietteelt"
+  ],
+  "tags": [
+   "wietkwekerij"
+  ],
+  "samenvatting": "Nederlands enige legale wietkwekerij, Bedrocan, is failliet. Tienduizenden patiënten in binnen- en buitenland raken daardoor hun medicinale wiet kwijt. Het ministerie van VWS zette het contract met het bedrijf begin dit jaar stop. Vandaag moet de minister zich verantwoorden tegenover de Kamercommissie.",
+  "link": "https://www.ftm.nl/artikelen/tienduizenden-patienten-zonder-medicinale-wiet-nadat-ministerie-contract-met-kweker-stopzette"
+ },
+ {
+  "id": "c327856fb2",
+  "datum": "2026-11-26",
+  "tijd": "03:09",
+  "nieuw": true,
+  "titel": "Meerdere bewoners geëvacueerd na vondst zwaar vuurwerk in woning Rhenen",
+  "bron": "NOS — binnenland",
+  "verzameld_via": "NOS — binnenland",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Vastgoed & huisvesting",
+   "Wapens, explosieven & vuurwerk"
+  ],
+  "tags": [
+   "explosie",
+   "vuurwerk",
+   "wapen",
+   "woning",
+   "zwaar illegaal vuurwerk"
+  ],
+  "samenvatting": "Meerdere woningen in Rhenen, bij Veenendaal, zijn gisteravond ontruimd nadat in een woning en in een voertuig zwaar illegaal vuurwerk is aangetroffen. Een deel van de Nieuwe Veenendaalseweg werd na de vondst van het vuurwerk afgezet. De politie was het vuurwerk op het spoor gekomen na een tip via Meld Misdaad Anoniem. ",
+  "link": "https://nos.nl/l/2641038"
+ },
+ {
+  "id": "040f3cb830",
+  "datum": "2026-11-25",
+  "tijd": "23:09",
+  "nieuw": true,
+  "titel": "Aanhoudingen voor witwassen van crimineel geld via zzp’ers en uitzendbureaus in de zorg",
+  "bron": "HuisartsVandaag",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Arbeidsuitbuiting & mensenhandel",
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "uitzendbureau",
+   "witwassen"
+  ],
+  "samenvatting": "Aanhoudingen voor witwassen van crimineel geld via zzp’ers en uitzendbureaus in de zorg HuisartsVandaag",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOakpDZFpsa3UydENVVWxKUEV3dDV0ZXg2NWRnOW91SE91MTZkc3BhUWFueC0wZnlTNUprSWpYbGdlOWhFNERpN0tuQTZpY0NhVTBrX1hQcFdRY1lad2kxVDgzOHlQdHBGSmdtMVhMTkM1dmctZURZRlNLRFRYdWc1ank2d0xhSjBnRGdhUU8yeE5CMDZXbWFVUndKNHBmOV9KU0FhbFdhVldhME5YTDVhU3lUblI?oc=5"
+ },
+ {
   "id": "9fe377cc73",
   "datum": "2026-11-25",
   "tijd": "23:02",
@@ -33,19 +97,12 @@
   "soort": "Nieuwsbericht",
   "regio": "Flevoland",
   "dossiers": [
-   "Beleid, wetgeving & toezicht",
    "Buitengebied & recreatie",
-   "Cocaine, haven & logistiek",
-   "Trustkantoren & rechtspersonen",
-   "Wapens, explosieven & vuurwerk"
+   "Cocaine, haven & logistiek"
   ],
   "tags": [
-   "bestuurder",
    "douane",
-   "haven",
-   "ondermijning",
-   "stal",
-   "wapen"
+   "stal"
   ],
   "samenvatting": "Bij een gezamenlijke controle van de politie, de douane en de Belastingdienst in Almere zijn vorige week 87 voertuigen gecontroleerd. Dat maakt de politie woensdag bekend via Facebook. De actie leverde onder meer twee aanhoudingen, meerdere bekeuringen en ruim 75.000 euro aan geïnde belastingschuld op. De integrale ond",
   "link": "https://www.omroepflevoland.nl/nieuws/532781/controle-in-almere-levert-ruim-75.000-euro-aan-achterstallige-belastingschuld-op"
@@ -317,7 +374,7 @@
   "id": "dc0f76213c",
   "datum": "2026-11-25",
   "tijd": "17:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee minderjarige verdachten van fatale beschieting Schiedam aangehouden in VK",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -341,7 +398,7 @@
   "id": "8e75b2a00d",
   "datum": "2026-11-25",
   "tijd": "17:43",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bij de politierechter: Pascal en Felicia worden verdacht van witwassen, maar hun zaak wordt opnieuw uitgesteld",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -357,10 +414,29 @@
   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSjRvTXZPMjBmSUt4QnkzWHdzVmFZRjFmcG9vVFZFcklLWlBzMG85cUJacVZ5c1l5SElPLXpxNnJGa3I3VGZ6UVBXUEN0eHdRUXBTMzMtX3lta2QwXzVwRXQ3LWpXd19ZSXZfSmZTZjRYeXUtZ1Naall0N1RuOExOSzM3cm54U1h0ejMzZTBFYkJVZ2ZMNjR2WkhLMV91eXM4Tzg3VnhDQTc3Z0M1N2lJby1zakJKY0FlZ1hlUGxCWmlNdU8wS05OaS1oSGtOUGFhYnM2TUwyeWVaMWJPbHNXdzFUaVJfcUlRQlNGOEhiUQ?oc=5"
  },
  {
+  "id": "0ca8a5853d",
+  "datum": "2026-11-25",
+  "tijd": "17:31",
+  "nieuw": false,
+  "titel": "Bij de politierechter: Pascal en Felicia worden verdacht van witwassen, maar hun zaak wordt opnieuw uitgesteld",
+  "bron": "RTV Noord",
+  "verzameld_via": "Nieuws — Witwassen & geldstromen",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Bij de politierechter: Pascal en Felicia worden verdacht van witwassen, maar hun zaak wordt opnieuw uitgesteld RTV Noord",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYlhJQ1hLWWJIeEJsWlVBWURpcXhvVmNNOWtwWFJkYXIxcVY1RUtlcnJlUmp4cHVnenpoaGo5VUxSU01wZHdTWjlobndOaF9VcVVtLWRKMnVSbERiMXJhSENUZXhZS3dFUC13YlM5ejBBdGZsZFh0M3BFYkFaRkVRenJkMnkzOVI4S1BBTTJiNXJvZ0hxTXJvaldmSTRIbThaNTVqbEZSdTlaVldRRTRoS2hfT2gxS0hhWFVsTi0tcFpJRjJ2UWVQOVVFVHEzT0c5cjB6UW5KVXFkT0o2eVpaS2h3?oc=5"
+ },
+ {
   "id": "4f03d6e283",
   "datum": "2026-11-25",
   "tijd": "17:24",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Einde van tijdperk: groene Connexxion-bussen verdwijnen uit Noord-Holland",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -381,7 +457,7 @@
   "id": "54fed3086d",
   "datum": "2026-11-25",
   "tijd": "17:20",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ernstige signalen van zorgfraude en honderden zorgbedrijven: ‘Keihard ingrijpen waar het moet’",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Nieuws — Zorgfraude & sociale zekerheid",
@@ -397,29 +473,10 @@
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFM2MjYwU19LWDBmeERZUzFhOG84TGZLMEJjYkpGLXZxU0xncmpDOGV5YzhfQ1BjSTdkRVl2TUlnYUtKd1dGLXNyM0s4bmxSZU9pT29WTGJGa0dDRFVaQ3pnaGpMUVNTSTFVRmI0VUZFNGRqV2VOYUNPZmY3dFBnVXJsOFJTZkhjSGxPVkgwMldFZFJkbmhkZGVIWWpjbFNDZ1NiYXh5eFBJY1R5d0NlWDVXQ2JUT24xN2x2NHFpN0FUMzg?oc=5"
  },
  {
-  "id": "7861f02ba0",
-  "datum": "2026-11-25",
-  "tijd": "17:00",
-  "nieuw": true,
-  "titel": "Zestien kinderen nog altijd zonder oplossing na sluiten Villa ExpertCare",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie"
-  ],
-  "samenvatting": "Zestien meervoudig gehandicapte kinderen vallen nog altijd tussen wal en schip door de aankomende sluiting van de zorgvilla's van Villa ExpertCare. Het bedrijf stopt eind dit jaar met het bieden van zorg, maar voor een aantal kinderen is nog altijd geen vervangende plek gevonden. Minister Mirjam Sterk vindt daarom dat ",
-  "link": "https://www.omroepbrabant.nl/nieuws/6036170/zestien-kinderen-nog-altijd-zonder-oplossing-na-sluiten-villa-expertcare"
- },
- {
   "id": "aab8125b3b",
   "datum": "2026-11-25",
   "tijd": "17:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ernstige signalen van zorgfraude en honderden zorgbedrijven: ‘Keihard ingrijpen waar het moet’",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -444,7 +501,7 @@
   "id": "9d3712762a",
   "datum": "2026-11-25",
   "tijd": "17:00",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Gemeenten geven honderden miljoenen uit aan zorg, maar grip op fraude ontbreekt",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -462,10 +519,29 @@
   "link": "https://www.gld.nl/nieuws/8551370/gemeenten-geven-honderden-miljoenen-uit-aan-zorg-maar-grip-op-fraude-ontbreekt"
  },
  {
+  "id": "7861f02ba0",
+  "datum": "2026-11-25",
+  "tijd": "17:00",
+  "nieuw": false,
+  "titel": "Zestien kinderen nog altijd zonder oplossing na sluiten Villa ExpertCare",
+  "bron": "Omroep Brabant",
+  "verzameld_via": "Omroep Brabant",
+  "soort": "Nieuwsbericht",
+  "regio": "Noord-Brabant",
+  "dossiers": [
+   "Criminele samenwerkingsverbanden"
+  ],
+  "tags": [
+   "organisatie"
+  ],
+  "samenvatting": "Zestien meervoudig gehandicapte kinderen vallen nog altijd tussen wal en schip door de aankomende sluiting van de zorgvilla's van Villa ExpertCare. Het bedrijf stopt eind dit jaar met het bieden van zorg, maar voor een aantal kinderen is nog altijd geen vervangende plek gevonden. Minister Mirjam Sterk vindt daarom dat ",
+  "link": "https://www.omroepbrabant.nl/nieuws/6036170/zestien-kinderen-nog-altijd-zonder-oplossing-na-sluiten-villa-expertcare"
+ },
+ {
   "id": "e6129a534d",
   "datum": "2026-11-25",
   "tijd": "16:45",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Ossenaar om het leven gebracht: opgepakte plaatsgenoot langer vast",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -487,7 +563,7 @@
   "id": "a83bb026a3",
   "datum": "2026-11-25",
   "tijd": "16:42",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "112-nieuws: Delfzijlster (30) vast na vondst hennepkwekerij • Vrachtwagen verliest deel van lading op A7",
   "bron": "Head Topics",
   "verzameld_via": "Nieuws — Hennep & wietteelt",
@@ -506,7 +582,7 @@
   "id": "dec2329b1e",
   "datum": "2026-11-25",
   "tijd": "16:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Schoenenketen vanHaren slachtoffer van cyberaanval: klantgegevens gelekt",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -525,7 +601,7 @@
   "id": "bf648959cd",
   "datum": "2026-11-25",
   "tijd": "16:08",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Geldkoerier van drugsbende komt weg met werkstraf: “In de val gelokt door zijn opdrachtgevers”",
   "bron": "Nieuwsblad",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -546,7 +622,7 @@
   "id": "a3001099f9",
   "datum": "2026-11-25",
   "tijd": "15:46",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Twee tieners in het buitenland aangehouden voor dodelijke schietpartij op Tico",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -565,7 +641,7 @@
   "id": "c2b7e19764",
   "datum": "2026-11-25",
   "tijd": "15:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Explosie in Bergen op Zoom: 'Gerichte aanslag op woonwagen Klaas Otto'",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -589,7 +665,7 @@
   "id": "a042b1ca96",
   "datum": "2026-11-25",
   "tijd": "14:33",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "OM: Drie jaar celstraf en rijontzegging voor veroorzaken dodelijk ongeval Lelystad - Openbaar Ministerie",
   "bron": "Openbaar Ministerie",
   "verzameld_via": "Openbaar Ministerie",
@@ -606,7 +682,7 @@
   "id": "02b2c39d59",
   "datum": "2026-11-25",
   "tijd": "14:26",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man zet pistool op hoofd van eigen moeder en terroriseert ex-schoonfamilie: 'Niet praten over mijn kind'",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -625,7 +701,7 @@
   "id": "966f036d95",
   "datum": "2026-11-25",
   "tijd": "14:25",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Bant - Twee gewonden bij ongeluk in file op A6 bij Bant",
   "bron": "Omroep Flevoland",
   "verzameld_via": "Omroep Flevoland",
@@ -644,7 +720,7 @@
   "id": "badb4dc8af",
   "datum": "2026-11-25",
   "tijd": "14:02",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Vrouw overleden nadat man haar neersteekt op fietspad in Houten",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -660,10 +736,32 @@
   "link": "https://nos.nl/l/2640971"
  },
  {
+  "id": "5f0815969b",
+  "datum": "2026-11-25",
+  "tijd": "14:00",
+  "nieuw": false,
+  "titel": "Burgemeester Ede trekt harde grens na onthullingen over FVD'er",
+  "bron": "Omroep Gelderland",
+  "verzameld_via": "Omroep Gelderland",
+  "soort": "Nieuwsbericht",
+  "regio": "Gelderland",
+  "dossiers": [
+   "Beleid, wetgeving & toezicht",
+   "Bibob & bestuurlijke aanpak"
+  ],
+  "tags": [
+   "burgemeester",
+   "gemeenteraad",
+   "nctv"
+  ],
+  "samenvatting": "Burgemeester René Verhulst van Ede heeft woensdag fel gereageerd op het antidemocratisch gedachtegoed van FVD-gemeenteraadslid Ryan Essenstam. Op een tablet die hij in de Edese raadszaal gebruikte, had hij een remigratiesticker geplakt van Voorpost. Dat is een groep die de AIVD en NCTV aanmerken als rechts-extremistisc",
+  "link": "https://www.gld.nl/nieuws/8551556/burgemeester-ede-trekt-harde-grens-na-onthullingen-over-fvder"
+ },
+ {
   "id": "a1c9071a67",
   "datum": "2026-11-25",
   "tijd": "13:28",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Man (57) opgepakt voor mishandeling en mogelijk seksueel misbruik van dieren op kinderboerderij",
   "bron": "Rijnmond",
   "verzameld_via": "Rijnmond",
@@ -682,7 +780,7 @@
   "id": "11aa8eca98",
   "datum": "2026-11-25",
   "tijd": "13:27",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Pakketbezorger leidt politie naar schuur vol vuurwerk: agenten nemen ruim 200 stuks zware knallers in beslag",
   "bron": "Omroep Zeeland",
   "verzameld_via": "Omroep Zeeland",
@@ -701,7 +799,7 @@
   "id": "68da432f9c",
   "datum": "2026-11-25",
   "tijd": "13:15",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Voorarrest Jan G. opnieuw verlengd, ook heeft hij een nieuwe advocaat",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -720,7 +818,7 @@
   "id": "70ff692fb5",
   "datum": "2026-11-25",
   "tijd": "12:05",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Controle auto leidt tot vondst van ruim 6000 kilo vuurwerk in Rotterdam",
   "bron": "NOS — binnenland",
   "verzameld_via": "NOS — binnenland",
@@ -744,7 +842,7 @@
   "id": "1b652a212c",
   "datum": "2026-11-25",
   "tijd": "11:50",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Rapporteur Mensenhandel krijgt mandaat voor BES-eilanden, maar geen budget",
   "bron": "Dossier Koninkrijksrelaties",
   "verzameld_via": "Nieuws — Arbeidsuitbuiting & mensenhandel",
@@ -763,7 +861,7 @@
   "id": "2000fe70a7",
   "datum": "2026-11-25",
   "tijd": "11:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "VVD-deur blijft open na politieke breuk in Zaltbommel",
   "bron": "Omroep Gelderland",
   "verzameld_via": "Omroep Gelderland",
@@ -782,7 +880,7 @@
   "id": "b30e083ad0",
   "datum": "2026-11-25",
   "tijd": "11:17",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Acht verdachten opgepakt voor witwassen via uitzendbureaus in de zorg",
   "bron": "Nationale Zorggids",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -803,7 +901,7 @@
   "id": "6add03ddbe",
   "datum": "2026-11-25",
   "tijd": "11:06",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Duitse krant meldt mogelijke overname van wapenfabrikant Destinus in Hengelo",
   "bron": "RTV Oost",
   "verzameld_via": "RTV Oost",
@@ -822,7 +920,7 @@
   "id": "752870b0c4",
   "datum": "2026-11-25",
   "tijd": "10:37",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Broer Bolle Jos op vrije voeten inzake witwassen 15 miljoen euro: `onder een vergrootglas`",
   "bron": "Drimble",
   "verzameld_via": "Nieuws — Witwassen & geldstromen",
@@ -841,7 +939,7 @@
   "id": "58783aca1c",
   "datum": "2026-11-25",
   "tijd": "10:30",
-  "nieuw": true,
+  "nieuw": false,
   "titel": "Brabants rijtje levenslanggestraften krijgt mogelijk twee namen erbij",
   "bron": "Omroep Brabant",
   "verzameld_via": "Omroep Brabant",
@@ -914,27 +1012,6 @@
   "link": "https://nos.nl/l/2640929"
  },
  {
-  "id": "d96633691b",
-  "datum": "2026-11-25",
-  "tijd": "09:36",
-  "nieuw": false,
-  "titel": "Kosten MH17-ramp voor overheid vorig jaar verder opgelopen",
-  "bron": "Omroep Brabant",
-  "verzameld_via": "Omroep Brabant",
-  "soort": "Nieuwsbericht",
-  "regio": "Noord-Brabant",
-  "dossiers": [
-   "Cocaine, haven & logistiek",
-   "Criminele samenwerkingsverbanden"
-  ],
-  "tags": [
-   "organisatie",
-   "schiphol"
-  ],
-  "samenvatting": "De kosten die de Nederlandse overheid maakt als gevolg van de nasleep van de ramp met vlucht MH17 zijn vorig jaar verder opgelopen tot 220,5 miljoen euro. Dat is bijna 11 miljoen euro meer dan eind 2024. Dat meldt de Algemene Rekenkamer, die de kosten op verzoek van het kabinet bijhoudt met het oog op een toekomstige s",
-  "link": "https://www.omroepbrabant.nl/nieuws/6036123/kosten-mh17-ramp-voor-overheid-vorig-jaar-verder-opgelopen"
- },
- {
   "id": "0412607e6d",
   "datum": "2026-11-25",
   "tijd": "09:20",
@@ -994,25 +1071,6 @@
   ],
   "samenvatting": "Bij een aanzienlijk deel van de verkeersdoden is er alcohol in het spel. Dat meldt het Instituut voor Wetenschappelijk Onderzoek Verkeersveiligheid (SWOV) op basis van een schatting. Het instituut keek naar de jaren 2019-2025 en schat dat bij 24 tot 35 procent van de verkeersdoden alcohol een factor is. In veel van die",
   "link": "https://nos.nl/l/2640920"
- },
- {
-  "id": "3e2f4a8e9f",
-  "datum": "2026-11-25",
-  "tijd": "06:48",
-  "nieuw": false,
-  "titel": "Wekdienst 25/11: NAVO-chef Rutte praat met Trump • Strafeis mishandeling Plein Den Haag",
-  "bron": "NOS — binnenland",
-  "verzameld_via": "NOS — binnenland",
-  "soort": "Nieuwsbericht",
-  "regio": "Landelijk",
-  "dossiers": [
-   "Cocaine, haven & logistiek"
-  ],
-  "tags": [
-   "container"
-  ],
-  "samenvatting": "Goedemorgen! Goedemorgen! In Florida spreekt NAVO-topman Mark Rutte met de Amerikaanse president Donald Trump over onder meer de oorlog in Oekraïne en het Openbaar Ministerie komt met de strafeisen in de zaak rond de fatale mishandeling van een Somalische asielzoeker op het Plein in Den Haag. Eerst het weer: De dag beg",
-  "link": "https://nos.nl/l/2640913"
  },
  {
   "id": "0080a4784c",
@@ -115548,6 +115606,25 @@
   ],
   "samenvatting": "Politie onderzoekt kleine explosie en brand bij Harbour Club Het Parool",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQalhoaFFhQmNUZEtkNFlFYWxTRnBnUEwwT3dzNkswT2RHbjlCNk5TVTR0VjVtU1J4VHlwamZSejFrR0REN1FuZEJxSlVLNjZ6dUUtdVJ3NXhNWnN0ZVpYTl95aElhWGtGbWhfU0EtQUtjYWMtNENEV1d6djItTjFNUEh2UnI1NFdKNUdPbno0U0xELXU2c1FJb1lhSWN5TkVCckpIWQ?oc=5"
+ },
+ {
+  "id": "cda833cc01",
+  "datum": "2021-07-19",
+  "tijd": "07:00",
+  "nieuw": false,
+  "titel": "Autohandel in ons land walhalla voor witwassen drugsgeld",
+  "bron": "De Telegraaf",
+  "verzameld_via": "Nieuws — Autobranche & garages",
+  "soort": "Nieuwsbericht",
+  "regio": "Landelijk",
+  "dossiers": [
+   "Witwassen & geldstromen"
+  ],
+  "tags": [
+   "witwassen"
+  ],
+  "samenvatting": "Autohandel in ons land walhalla voor witwassen drugsgeld De Telegraaf",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNczB0STRadDl6b0xCUVVyV2haTlR4eWRXaDlGWURmNnNBZlkyTHJ1cFRNcDMyM2pGMTRCTnVXSm4takJtcnl2V3BLR1ZwdEtCRXlmS1JoT3kzaXo1em5MVzRHM01LeUg2bHJhWktTSkpoaUYxczFmc2drWXFFMFNZSDk4Zm5JNFdUaERqX1R5LTRVRlVwZ1FOVnYwSTc0T0V4Qy12bnE0aThDdw?oc=5"
  },
  {
   "id": "c78c326552",
