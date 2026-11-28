@@ -1,12 +1,12 @@
 {
- "run": "02:09",
+ "run": "10:39",
  "datum": "2026-11-28",
- "nieuw": 20,
- "totaal": 6364,
- "verwijderd": 12,
+ "nieuw": 16,
+ "totaal": 6369,
+ "verwijderd": 11,
  "geweigerd": {
-  "niet-nederlands": 821,
-  "geen dossier": 392
+  "niet-nederlands": 877,
+  "geen dossier": 408
  },
  "bronnen": [
   {
@@ -33,7 +33,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 251,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -231,7 +231,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 499,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -258,7 +258,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -321,7 +321,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 189,
-   "status": "1 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -330,7 +330,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -339,7 +339,7 @@
    "methode": "Zoekfeed",
    "ritme": "1 uur",
    "items": 45,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -402,7 +402,7 @@
    "methode": "SRU",
    "ritme": "1 dag",
    "items": 0,
-   "status": "fout: URLError",
+   "status": "fout 500",
    "ok": false
   },
   {
@@ -464,8 +464,8 @@
    "url": "feeds.nos.nl/nosnieuwsbinnenland",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 221,
-   "status": "7 nieuw",
+   "items": 220,
+   "status": "6 nieuw",
    "ok": true
   },
   {
@@ -491,8 +491,8 @@
    "url": "www.omroepbrabant.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 404,
-   "status": "2 nieuw",
+   "items": 406,
+   "status": "4 nieuw",
    "ok": true
   },
   {
@@ -500,8 +500,8 @@
    "url": "www.rijnmond.nl/rss/nieuws",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 443,
-   "status": "1 nieuw",
+   "items": 445,
+   "status": "2 nieuw",
    "ok": true
   },
   {
@@ -510,7 +510,7 @@
    "methode": "RSS",
    "ritme": "1 uur",
    "items": 421,
-   "status": "2 nieuw",
+   "status": "bij",
    "ok": true
   },
   {
@@ -536,8 +536,8 @@
    "url": "www.rtvoost.nl/rss",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 286,
-   "status": "bij",
+   "items": 287,
+   "status": "1 nieuw",
    "ok": true
   },
   {
@@ -554,7 +554,7 @@
    "url": "news.google.com/rss/search?q=(site:at5.nl+OR+site:parool.nl)+ondermijnin",
    "methode": "RSS",
    "ritme": "1 uur",
-   "items": 130,
+   "items": 131,
    "status": "1 nieuw",
    "ok": true
   },
